@@ -2,5 +2,26 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="uima/jackson-core-2.4.2.jar"/>
+	<classpathentry kind="lib" path="uima/jVinci.jar"/>
+	<classpathentry kind="lib" path="uima/uima-adapter-soap.jar"/>
+	<classpathentry kind="lib" path="uima/uima-adapter-vinci.jar"/>
+	<classpathentry kind="lib" path="uima/uima-core.jar"/>
+	<classpathentry kind="lib" path="uima/uima-cpe.jar"/>
+	<classpathentry kind="lib" path="uima/uima-document-annotation.jar"/>
+	<classpathentry kind="lib" path="uima/uima-examples.jar"/>
+	<classpathentry kind="lib" path="uima/uima-tools.jar"/>
+	<classpathentry kind="lib" path="uima/uimaj-bootstrap.jar"/>
+	<classpathentry kind="lib" path="uima/uimaj-json.jar"/>
+	<classpathentry kind="lib" path="uimafit/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="uimafit/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="uimafit/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="uimafit/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="uimafit/spring-beans-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="uimafit/spring-context-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="uimafit/spring-core-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="uimafit/spring-expression-3.2.16.RELEASE.jar"/>
+	<classpathentry kind="lib" path="uimafit/uimafit-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="uimafit/uimaj-core-2.8.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
