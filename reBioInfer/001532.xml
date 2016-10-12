@@ -1,0 +1,178 @@
+<rexml>
+<doc id="1532">
+  <text>
+<p><s id="s1"><w id="w24150">The</w> <w id="w24151">in</w> <w id="w24152">vitro</w> <w id="w24153">and</w> <w id="w24154">in</w> <w id="w24155">vivo</w> <w id="w24156">binding</w> <w id="w24157">patterns</w> <w id="w24158">were</w> <w id="w24159">highly</w> <w id="w24160">similar</w> <w id="w24161">,</w> <w id="w24162">and</w> <w id="w24163">the</w> <w id="w24164">association</w> <w id="w24165">of</w> <w id="w24166">the</w> <w id="w24167">Munc18-2</w> <w id="w24168">variants</w> <w id="w24169">with</w> <w id="w24170">syntaxin</w> <w id="w24171">3</w> <w id="w24172">correlated</w> <w id="w24173">well</w> <w id="w24174">with</w> <w id="w24175">their</w> <w id="w24176">ability</w> <w id="w24177">to</w> <w id="w24178">displace</w> <w id="w24179">SNAP-23</w> <w id="w24180">from</w> <w id="w24181">syntaxin</w> <w id="w24182">3</w> <w id="w24183">complexes</w> <w id="w24184">when</w> <w id="w24185">overexpressed</w> <w id="w24186">in</w> <w id="w24187">Caco-2</w> <w id="w24188">cells</w> <w id="w24189">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5611" gid="g5358" t="RELATIONSHIP_TEXTBINDING" fr="w24164" to="w24169">
+     <textspan type="extent">association of [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1532.0"/>
+      <exattr n="nst" v="st.1532.14.0"/>
+      <exattr n="nst" v="st.1532.15.0"/>
+      <exattr n="nst" v="st.1532.19.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5612" gid="g5359" t="Individual_protein" fr="w24167" to="w24168" nam="yes">
+     <textspan type="extent">Munc18-2 variants</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1532.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5613" gid="g5360" t="RELATIONSHIP_TEXTBINDING" fr="w24172" to="w24174">
+     <textspan type="extent">correlated [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1532.2"/>
+      <exattr n="nst" v="st.1532.22.0"/>
+      <exattr n="nst" v="st.1532.24.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5614" gid="g5361" t="Individual_protein" fr="w24170" to="w24171" nam="yes">
+     <textspan type="extent">syntaxin 3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1532.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5615" gid="g5359" t="Individual_protein" fr="w24175" to="w24175" nam="yes">
+     <textspan type="extent">their</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1532.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5616" gid="g5362" t="RELATIONSHIP_TEXTBINDING" fr="w24178" to="w24178">
+     <textspan type="extent">displace</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1532.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5617" gid="g5363" t="Individual_protein" fr="w24179" to="w24179" nam="yes">
+     <textspan type="extent">SNAP-23</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1532.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5618" gid="g5364" t="Individual_protein" fr="w24167" to="w24167" nam="yes">
+     <textspan type="extent">Munc18-2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1532.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5619" gid="g5365" t="RELATIONSHIP_TEXTBINDING" fr="w24178" to="w24180">
+     <textspan type="extent">displace [..] from</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1532.8"/>
+      <exattr n="nst" v="st.1532.28.0"/>
+      <exattr n="nst" v="st.1532.30.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5620" gid="g5366" t="Individual_protein" fr="w24181" to="w24182" nam="yes">
+     <textspan type="extent">syntaxin 3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1532.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e5621" gid="g5367" t="Protein_complex" fr="w24181" to="w24183" nam="yes">
+     <textspan type="extent">syntaxin 3 complexes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1532.10"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2148" t="CORELATE" e1="e5611" e2="e5616" re="e5613">
+     <textspan type="extent">association of the Munc18-2 variants with syntaxin 3 correlated well with their ability to displace SNAP-23 from syntaxin 3 complexes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1532.2"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2149" t="BIND" e1="e5612" e2="e5614" re="e5611">
+     <textspan type="extent">association of the Munc18-2 variants with syntaxin 3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1532.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2150" t="CAUSE" e1="e5615" e2="e5619" re="e5616">
+     <textspan type="extent">their ability to displace SNAP-23 from syntaxin 3 complexes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1532.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2151" t="UNBIND" e1="e5617" e2="e5621" re="e5619">
+     <textspan type="extent">displace SNAP-23 from syntaxin 3 complexes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1532.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="UNBIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

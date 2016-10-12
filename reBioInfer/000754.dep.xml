@@ -1,0 +1,50 @@
+<rexml>
+<doc id="754">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="s+subj:w11708" w="" l="~" p="N"/>
+     <dpg d="w11708" g="E1" t="i" cr="" w="Increasing" l="increase" p="V"/>
+     <dpg d="E5" g="w11708" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w11709" g="w11711" t="det" cr="det:w11711" w="the" l="~" p="Det"/>
+     <dpg d="w11710" g="w11711" t="mod" cr="mod:w11711" w="ionic" l="~" p="A"/>
+     <dpg d="w11711" g="w11708" t="obj" cr="obj:w11708" w="strength" l="~" p="N"/>
+     <dpg d="w11712" g="w11711" t="mod" cr="" w="within" l="~" p="Prep"/>
+     <dpg d="w11713" g="w11719" t="det" cr="det:w11719" w="a" l="~" p="Det"/>
+     <dpg d="w11714" g="w11715" t="mod" cr="mod:w11715" w="relatively" l="~" p="A"/>
+     <dpg d="w11715" g="w11719" t="mod" cr="mod:w11719" w="narrow" l="~" p="A"/>
+     <dpg d="w11716" g="w11719" t="nn" cr="nn:w11719" w="range" l="~" p="N"/>
+     <dpg d="w11717" g="w11718" t="mod" cr="mod:w11718" w="significantly" l="~" p="A"/>
+     <dpg d="w11718" g="w11719" t="mod" cr="mod:w11719" w="decreased" l="~" p="A"/>
+     <dpg d="w11719" g="w11712" t="pcomp-n" cr="mod*within*n:w11711" w="ability" l="~" p="N"/>
+     <dpg d="w11720" g="w11719" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11721" g="w11720" t="pcomp-n" cr="mod*of*n:w11719||s+subj:w11723" w="talin" l="~" p="N"/>
+     <dpg d="E0" g="w11721" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w11721" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w11722" g="w11723" t="aux" cr="aux:w11723" w="to" l="~" p="Aux"/>
+     <dpg d="w11723" g="E0" t="i" cr="rel:w11721" w="bind" l="~" p="V"/>
+     <dpg d="E6" g="w11723" t="subj" cr="" w="" l="talin" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="talin" p="N"/>
+     <dpg d="w11724" g="w11723" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w11725" g="w11724" t="pcomp-n" cr="mod*to*n:w11723" w="actin" l="~" p="N"/>
+     <dpg d="w11726" g="w11723" t="punc" cr="punc:w11723" w="," l="~" p="U"/>
+     <dpg d="w11727" g="w11723" t="mod" cr="mod:w11723" w="regardless" l="~" p="A"/>
+     <dpg d="w11728" g="w11727" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11729" g="w11728" t="pcomp-n" cr="mod*of*n:w11727" w="pH" l="~" p="N"/>
+     <dpg d="w11730" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,111 @@
+<rexml>
+<doc id="549">
+  
+  <markup>
+   <nes>
+    <ne id="e1821" gid="g1746" t="Individual_protein" fr="w7713" to="w7713" nam="yes" sid="s1">
+     <textspan>msh6-F337A</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.549.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1816" gid="g1742" t="Individual_protein" fr="w7715" to="w7715" nam="yes" sid="s1">
+     <textspan>MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.549.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1820" gid="g1742" t="Individual_protein" fr="w7718" to="w7718" nam="yes" sid="s1">
+     <textspan>it</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.549.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1823" gid="g1748" t="Gene" fr="w7722" to="w7722" nam="yes" sid="s1">
+     <textspan>MSH3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.549.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1822" gid="g1747" t="Gene" fr="w7724" to="w7724" nam="yes" sid="s1">
+     <textspan>MSH6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.549.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r705" t="LOCALIZE" e1="e1821" e2="e1816" re="e1819">
+     <textspan>msh6-F337A sequestering MSH2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.549.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r708" t="INTERACT" e1="e1820" e2="e1823" re="e1817">
+     <textspan>it from interacting with MSH3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.549.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r710" t="INTERACT" e1="e1820" e2="e1822" re="e1817">
+     <textspan>it from interacting with MSH3 and MSH6</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.549.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,187 @@
+<rexml>
+<doc id="1984">
+  <text>
+<p><s id="s1"><w id="w31744">Using</w> <w id="w31745">ITP</w> <w id="w31746">(</w> <w id="w31747">a</w> <w id="w31748">substrate</w> <w id="w31749">for</w> <w id="w31750">myosin</w> <w id="w31751">II</w> <w id="w31752">ATPase</w> <w id="w31753">)</w> <w id="w31754">and/or</w> <w id="w31755">ATP</w> <w id="w31756">gamma</w> <w id="w31757">S</w> <w id="w31758">(</w> <w id="w31759">a</w> <w id="w31760">substrate</w> <w id="w31761">for</w> <w id="w31762">myosin</w> <w id="w31763">II</w> <w id="w31764">heavy-chain</w> <w id="w31765">kinase</w> <w id="w31766">[</w> <w id="w31767">MHCK</w> <w id="w31768">]</w> <w id="w31769">)</w> <w id="w31770">,</w> <w id="w31771">we</w> <w id="w31772">demonstrated</w> <w id="w31773">that</w> <w id="w31774">phosphorylation</w> <w id="w31775">of</w> <w id="w31776">myosin</w> <w id="w31777">heavy</w> <w id="w31778">chains</w> <w id="w31779">occurred</w> <w id="w31780">at</w> <w id="w31781">the</w> <w id="w31782">foci</w> <w id="w31783">within</w> <w id="w31784">the</w> <w id="w31785">actin</w> <w id="w31786">network</w> <w id="w31787">,</w> <w id="w31788">a</w> <w id="w31789">result</w> <w id="w31790">that</w> <w id="w31791">suggests</w> <w id="w31792">that</w> <w id="w31793">MHCK</w> <w id="w31794">was</w> <w id="w31795">localized</w> <w id="w31796">at</w> <w id="w31797">the</w> <w id="w31798">foci</w> <w id="w31799">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7251" gid="g6918" t="Individual_protein" fr="w31750" to="w31751" nam="yes">
+     <textspan type="extent">myosin II</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1984.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7252" gid="g6919" t="RELATIONSHIP_TEXTBINDING" fr="w31779" to="w31780">
+     <textspan type="extent">occurred at</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1984.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7253" gid="g6920" t="PHOSPHORYLATION" fr="w31774" to="w31778">
+     <textspan type="extent">phosphorylation of myosin heavy chains</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="PHOSPHORYLATION"/>
+      <exattr n="bd" v="e.1984.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7254" gid="g6921" t="Individual_protein" fr="w31762" to="w31765" nam="yes">
+     <textspan type="extent">myosin II heavy-chain kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1984.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7255" gid="g6922" t="Individual_protein" fr="w31793" to="w31793" nam="yes">
+     <textspan type="extent">MHCK</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1984.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7256" gid="g6923" t="Cell_component" fr="w31782" to="w31786" nam="yes">
+     <textspan type="extent">foci within the actin network</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1984.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7257" gid="g6921" t="Individual_protein" fr="w31767" to="w31767" nam="yes">
+     <textspan type="extent">MHCK</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1984.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7258" gid="g6923" t="Cell_component" fr="w31798" to="w31798" nam="yes">
+     <textspan type="extent">foci</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1984.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7259" gid="g6924" t="Protein_family_or_group" fr="w31752" to="w31752" nam="yes">
+     <textspan type="extent">ATPase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1984.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e7260" gid="g6925" t="Cell_component" fr="w31784" to="w31786" nam="yes">
+     <textspan type="extent">the actin network</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1984.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e7261" gid="g6926" t="Individual_protein" fr="w31785" to="w31785" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1984.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e7262" gid="g6927" t="RELATIONSHIP_TEXTBINDING" fr="w31795" to="w31796">
+     <textspan type="extent">localized at</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1984.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e7263" gid="g6928" t="Individual_protein" fr="w31776" to="w31778" nam="yes">
+     <textspan type="extent">myosin heavy chains</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1984.12"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2779" t="MEMBER" e1="e7259" e2="e7251" re="">
+     <textspan type="extent">myosin II ATPase</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2781" t="LOCALIZE-TO" e1="e7253" e2="e7256" re="e7252">
+     <textspan type="extent">phosphorylation of myosin heavy chains occurred at the foci within the actin network</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1984.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+    <rel id="r2783" t="LOCALIZE-TO" e1="e7255" e2="e7258" re="e7262">
+     <textspan type="extent">MHCK was localized at the foci</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1984.11"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

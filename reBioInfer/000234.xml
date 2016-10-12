@@ -1,0 +1,74 @@
+<rexml>
+<doc id="234">
+  <text>
+<p><s id="s1"><w id="w3474">Biopsies</w> <w id="w3475">taken</w> <w id="w3476">prior</w> <w id="w3477">to</w> <w id="w3478">NAC</w> <w id="w3479">and</w> <w id="w3480">operative</w> <w id="w3481">specimens</w> <w id="w3482">were</w> <w id="w3483">subjected</w> <w id="w3484">to</w> <w id="w3485">immunohistochemical</w> <w id="w3486">(</w> <w id="w3487">IHC</w> <w id="w3488">)</w> <w id="w3489">staining</w> <w id="w3490">for</w> <w id="w3491">alpha-catenin</w> <w id="w3492">,</w> <w id="w3493">beta-catenin</w> <w id="w3494">,</w> <w id="w3495">E-cadherin</w> <w id="w3496">,</w> <w id="w3497">and</w> <w id="w3498">CD44</w> <w id="w3499">isoform</w> <w id="w3500">6</w> <w id="w3501">(</w> <w id="w3502">CD44v6</w> <w id="w3503">)</w> <w id="w3504">,</w> <w id="w3505">to</w> <w id="w3506">uncover</w> <w id="w3507">the</w> <w id="w3508">role</w> <w id="w3509">of</w> <w id="w3510">adhesion</w> <w id="w3511">molecules</w> <w id="w3512">as</w> <w id="w3513">determinants</w> <w id="w3514">of</w> <w id="w3515">the</w> <w id="w3516">response</w> <w id="w3517">to</w> <w id="w3518">NAC</w> <w id="w3519">and</w> <w id="w3520">disease</w> <w id="w3521">outcome</w> <w id="w3522">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e834" gid="g804" t="Gene/protein/RNA" fr="w3491" to="w3491" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.234.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e835" gid="g805" t="Gene/protein/RNA" fr="w3495" to="w3495" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.234.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e836" gid="g806" t="Gene/protein/RNA" fr="w3493" to="w3493" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.234.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e837" gid="g807" t="Individual_protein" fr="w3502" to="w3502" nam="yes">
+     <textspan type="extent">CD44v6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.234.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e838" gid="g807" t="Individual_protein" fr="w3498" to="w3500" nam="yes">
+     <textspan type="extent">CD44 [..] 6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.234.4"/>
+      <exattr n="nst" v="st.234.24.0"/>
+      <exattr n="nst" v="st.234.26.0"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,135 @@
+<rexml>
+<doc id="364">
+  
+  <markup>
+   <nes>
+    <ne id="e1311" gid="g1249" t="Individual_protein" fr="w5467" to="w5467" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.364.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1314" gid="g1252" t="Individual_protein" fr="w5469" to="w5470" nam="yes" sid="s1">
+     <textspan>thymosin beta(4)</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.364.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1313" gid="g1251" t="Individual_protein" fr="w5473" to="w5473" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.364.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1315" gid="g1253" t="Protein_complex" fr="w5477" to="w5477" nam="yes" sid="s1">
+     <textspan>complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.364.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r518" t="COOF-CONTAIN" e1="e1311" e2="e1314" re="e1312">
+     <textspan>thymosin beta(4) , and actin form a ternary complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.364.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r518" t="COOF-CONTAIN" e1="e1311" e2="e1313" re="e1312">
+     <textspan>actin form a ternary complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.364.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r518" t="COOF-CONTAIN" e1="e1314" e2="e1313" re="e1312">
+     <textspan>actin form a ternary complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.364.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r518" t="CONTAIN" e1="e1315" e2="e1311" re="e1312">
+     <textspan>profilin , thymosin beta(4) , and actin form a ternary complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.364.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r519" t="CONTAIN" e1="e1315" e2="e1314" re="e1312">
+     <textspan>thymosin beta(4) , and actin form a ternary complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.364.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r520" t="CONTAIN" e1="e1315" e2="e1313" re="e1312">
+     <textspan>actin form a ternary complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.364.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

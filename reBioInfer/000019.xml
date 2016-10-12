@@ -1,0 +1,35 @@
+<rexml>
+<doc id="19">
+  <text>
+<p><s id="s1"><w id="w287">A</w> <w id="w288">common</w> <w id="w289">feature</w> <w id="w290">of</w> <w id="w291">these</w> <w id="w292">talin</w><w id="w293">-positive</w> <w id="w294">domains</w> <w id="w295">is</w> <w id="w296">the</w> <w id="w297">deep</w> <w id="w298">membrane</w> <w id="w299">infoldings</w> <w id="w300">,</w> <w id="w301">where</w> <w id="w302">bundles</w> <w id="w303">of</w> <w id="w304">actin</w> <w id="w305">filaments</w> <w id="w306">are</w> <w id="w307">inserted</w> <w id="w308">into</w> <w id="w309">the</w> <w id="w310">membrane</w> <w id="w311">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e99" gid="g97" t="Gene/protein/RNA" fr="w292" to="w292" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.19.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e100" gid="g98" t="Gene/protein/RNA" fr="w304" to="w304" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.19.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

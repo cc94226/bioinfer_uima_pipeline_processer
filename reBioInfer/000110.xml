@@ -1,0 +1,46 @@
+<rexml>
+<doc id="110">
+  <text>
+<p><s id="s1"><w id="w1778">MSH2</w> <w id="w1779">plays</w> <w id="w1780">a</w> <w id="w1781">fundamental</w> <w id="w1782">role</w> <w id="w1783">in</w> <w id="w1784">mispair</w> <w id="w1785">recognition</w> <w id="w1786">whereas</w> <w id="w1787">MSH3</w> <w id="w1788">and</w> <w id="w1789">MSH6</w> <w id="w1790">appear</w> <w id="w1791">to</w> <w id="w1792">modify</w> <w id="w1793">the</w> <w id="w1794">specificity</w> <w id="w1795">of</w> <w id="w1796">this</w> <w id="w1797">recognition</w> <w id="w1798">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e445" gid="g431" t="Gene/protein/RNA" fr="w1778" to="w1778" nam="yes">
+     <textspan type="extent">MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.110.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e446" gid="g432" t="Gene/protein/RNA" fr="w1789" to="w1789" nam="yes">
+     <textspan type="extent">MSH6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.110.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e447" gid="g433" t="Gene/protein/RNA" fr="w1787" to="w1787" nam="yes">
+     <textspan type="extent">MSH3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.110.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

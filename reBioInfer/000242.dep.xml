@@ -1,0 +1,44 @@
+<rexml>
+<doc id="242">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3688" g="w3689" t="s" cr="s+subj:w3689" w="Neuropilin-1" l="Neuropilin-1" p="N"/>
+     <dpg d="w3689" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="mediates" l="mediate" p="V"/>
+     <dpg d="E3" g="w3689" t="subj" cr="" w="" l="Neuropilin-1" p="N"/>
+     <dpg d="E3" g="w3688" t="antecedent" cr="" w="" l="Neuropilin-1" p="N"/>
+     <dpg d="w3690" g="w3694" t="nn" cr="nn:w3694" w="collapsin-1" l="collapsin-1" p="N"/>
+     <dpg d="w3691" g="w3694" t="nn" cr="nn:w3694" w="/" l="~" p="N"/>
+     <dpg d="w3692" g="w3694" t="nn" cr="nn:w3694" w="semaphorin" l="~" p="N"/>
+     <dpg d="w3693" g="w3694" t="mod" cr="mod:w3694" w="III" l="~" p="A"/>
+     <dpg d="w3694" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="inhibition" l="~" p="N"/>
+     <dpg d="w3695" g="w3694" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3696" g="w3698" t="mod" cr="mod:w3698" w="endothelial" l="~" p="A"/>
+     <dpg d="w3697" g="w3698" t="nn" cr="nn:w3698" w="cell" l="~" p="N"/>
+     <dpg d="w3698" g="w3695" t="pcomp-n" cr="mod*of*n:w3694" w="motility" l="~" p="N"/>
+     <dpg d="w3699" g="E2" t="punc" cr="punc:E2" w=":" l="~" p="U"/>
+     <dpg d="w3700" g="w3701" t="mod" cr="mod:w3701" w="functional" l="~" p="A"/>
+     <dpg d="w3701" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="competition" l="~" p="N"/>
+     <dpg d="w3702" g="w3701" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3703" g="w3702" t="pcomp-n" cr="mod*of*n:w3701" w="collapsin-1" l="collapsin-1" p="N"/>
+     <dpg d="w3704" g="w3703" t="punc" cr="punc:w3703" w="and" l="~" p="U"/>
+     <dpg d="w3705" g="w3708" t="mod" cr="mod:w3708" w="vascular" l="~" p="A"/>
+     <dpg d="w3706" g="w3708" t="mod" cr="mod:w3708" w="endothelial" l="~" p="A"/>
+     <dpg d="w3707" g="w3708" t="nn" cr="nn:w3708" w="growth" l="~" p="N"/>
+     <dpg d="w3708" g="w3703" t="conj" cr="conj:w3703" w="factor-165" l="factor-165" p="N"/>
+     <dpg d="w3709" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,79 @@
+<rexml>
+<doc id="319">
+  
+  <markup>
+   <nes>
+    <ne id="e1184" gid="g1128" t="Gene" fr="w4882" to="w4885" nam="yes" sid="s1">
+     <textspan>A8R [..] genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.319.1"/>
+      <exattr n="nst" v="st.319.3.0"/>
+      <exattr n="nst" v="st.319.6.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1186" gid="g1130" t="Gene" fr="w4882" to="w4882" nam="yes" sid="s1">
+     <textspan>A8R</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.319.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1185" gid="g1129" t="Gene" fr="w4884" to="w4885" nam="yes" sid="s1">
+     <textspan>A23R genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.319.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1187" gid="g1131" t="Gene" fr="w4884" to="w4884" nam="yes" sid="s1">
+     <textspan>A23R</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.319.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r469" t="COEXPRESS" e1="e1184" e2="e1185" re="e1183">
+     <textspan>Coexpression of the A8R and A23R genes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.319.0"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Temporal"/>
+      <exattr n="t3" v="COEXPRESS"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

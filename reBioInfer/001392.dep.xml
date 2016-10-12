@@ -1,0 +1,58 @@
+<rexml>
+<doc id="1392">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21727" g="w21730" t="det" cr="det:w21730" w="The" l="~" p="Det"/>
+     <dpg d="w21728" g="w21730" t="nn" cr="nn:w21730" w="cofilin" l="~" p="N"/>
+     <dpg d="w21729" g="w21730" t="nn" cr="nn:w21730" w="homology" l="~" p="N"/>
+     <dpg d="w21730" g="w21731" t="s" cr="s:w21731||subj:w21732||s+subj:w21734" w="sequence" l="~" p="N"/>
+     <dpg d="w21731" g="E1" t="i" cr="UNSPECRELTYPE:w21748" w="is" l="be" p="VBE"/>
+     <dpg d="w21732" g="w21731" t="pred" cr="pred:w21731" w="critical" l="~" p="A"/>
+     <dpg d="E5" g="w21732" t="subj" cr="" w="" l="sequence" p="N"/>
+     <dpg d="E5" g="w21730" t="antecedent" cr="" w="" l="sequence" p="N"/>
+     <dpg d="w21733" g="w21732" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="E0" g="w21733" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w21730" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w21734" g="E0" t="i" cr="mod*for*c:w21732" w="stimulating" l="stimulate" p="V"/>
+     <dpg d="E6" g="w21734" t="subj" cr="" w="" l="sequence" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="sequence" p="N"/>
+     <dpg d="w21735" g="w21736" t="nn" cr="nn:w21736" w="actin" l="~" p="N"/>
+     <dpg d="w21736" g="w21734" t="obj" cr="obj:w21734" w="nucleation" l="~" p="N"/>
+     <dpg d="w21737" g="w21736" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w21738" g="w21741" t="det" cr="det:w21741" w="the" l="~" p="Det"/>
+     <dpg d="w21739" g="w21740" t="lex-mod" cr="lex-mod:w21740" w="Arp" l="~" p="U"/>
+     <dpg d="w21740" g="w21741" t="nn" cr="nn:w21741" w="2" l="Arp 2" p="N"/>
+     <dpg d="w21741" g="w21737" t="pcomp-n" cr="mod*with*n:w21736" w="/" l="~" p="N"/>
+     <dpg d="w21742" g="w21743" t="num" cr="num:w21743" w="3" l="~" p="N"/>
+     <dpg d="w21743" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w21748" w="complex" l="~" p="N"/>
+     <dpg d="w21744" g="w21745" t="lex-mod" cr="lex-mod:w21745" w="in" l="~" p="U"/>
+     <dpg d="w21745" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w21748" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w21746" g="E4" t="punc" cr="punc:w21748" w="," l="~" p="U"/>
+     <dpg d="w21747" g="E4" t="punc" cr="punc:w21748" w="and" l="~" p="U"/>
+     <dpg d="w21748" g="E4" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="w21749" g="w21748" t="pred" cr="pred:w21748" w="essential" l="~" p="N"/>
+     <dpg d="w21750" g="w21749" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w21751" g="w21752" t="nn" cr="nn:w21752" w="actin" l="~" p="N"/>
+     <dpg d="w21752" g="w21750" t="pcomp-n" cr="mod*for*n:w21749" w="polymerization" l="~" p="N"/>
+     <dpg d="w21753" g="w21752" t="punc" cr="punc:w21752" w="and" l="~" p="U"/>
+     <dpg d="w21754" g="w21752" t="conj" cr="conj:w21752" w="motility" l="~" p="N"/>
+     <dpg d="w21755" g="w21754" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w21756" g="w21755" t="pcomp-n" cr="mod*in*n:w21754" w="cells" l="cell" p="N"/>
+     <dpg d="w21757" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

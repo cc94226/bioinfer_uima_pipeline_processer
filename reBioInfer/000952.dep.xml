@@ -1,0 +1,78 @@
+<rexml>
+<doc id="952">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14815" g="w14818" t="s" cr="s+obj:w14818||s+subj:w14820" w="MAb" l="~" p="N"/>
+     <dpg d="w14816" g="w14815" t="num" cr="num:w14815" w="0811" l="~" p="N"/>
+     <dpg d="w14817" g="w14818" t="be" cr="be:w14818" w="was" l="be" p="be"/>
+     <dpg d="w14818" g="E3" t="i" cr="" w="shown" l="show" p="V"/>
+     <dpg d="E7" g="w14818" t="obj" cr="" w="" l="Mab" p="N"/>
+     <dpg d="E7" g="w14815" t="antecedent" cr="" w="" l="Mab" p="N"/>
+     <dpg d="E2" g="w14818" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E5" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w14815" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w14819" g="w14820" t="aux" cr="aux:w14820" w="to" l="~" p="Aux"/>
+     <dpg d="w14820" g="E2" t="i" cr="mod:w14818" w="recognize" l="~" p="V"/>
+     <dpg d="E8" g="w14820" t="subj" cr="" w="" l="Mab" p="N"/>
+     <dpg d="E8" g="E5" t="antecedent" cr="" w="" l="Mab" p="N"/>
+     <dpg d="w14821" g="w14823" t="det" cr="det:w14823" w="the" l="~" p="Det"/>
+     <dpg d="w14822" g="w14823" t="nn" cr="nn:w14823" w="UL8" l="~" p="N"/>
+     <dpg d="w14823" g="w14820" t="obj" cr="obj:w14820" w="protein" l="~" p="N"/>
+     <dpg d="w14824" g="w14823" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w14825" g="w14824" t="punc" cr="punc:w14824" w="both" l="~" p="U"/>
+     <dpg d="w14826" g="w14827" t="mod" cr="mod:w14827" w="Western" l="~" p="A"/>
+     <dpg d="w14827" g="w14824" t="pcomp-n" cr="mod*in*n:w14823" w="blots" l="blot" p="N"/>
+     <dpg d="w14828" g="w14827" t="punc" cr="punc:w14827" w="and" l="~" p="U"/>
+     <dpg d="w14829" g="w14830" t="nn" cr="nn:w14830" w="immunoprecipitation" l="~" p="N"/>
+     <dpg d="w14830" g="w14827" t="conj" cr="conj:w14827" w="assays" l="assay" p="N"/>
+     <dpg d="w14831" g="w14824" t="punc" cr="punc:w14824" w="and" l="~" p="U"/>
+     <dpg d="w14832" g="w14824" t="conj" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w14833" g="w14832" t="pcomp-n" cr="mod*to*n:w14823||obj:w14845" w="co-precipitate" l="co-precipitate" p="N"/>
+     <dpg d="E1" g="w14833" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14834" g="w14837" t="det" cr="det:w14837" w="the" l="~" p="Det"/>
+     <dpg d="w14835" g="w14836" t="num-mod" cr="num-mod:w14836" w="other" l="~" p="A"/>
+     <dpg d="w14836" g="w14837" t="nn" cr="nn:w14837" w="two" l="~" p="N"/>
+     <dpg d="w14837" g="w14845" t="s" cr="s+subj:w14845" w="proteins" l="protein" p="N"/>
+     <dpg d="w14838" g="w14837" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w14839" g="w14840" t="det" cr="det:w14840" w="the" l="~" p="Det"/>
+     <dpg d="w14840" g="w14838" t="pcomp-n" cr="mod*in*n:w14837" w="complex" l="~" p="N"/>
+     <dpg d="w14841" g="w14840" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w14842" g="w14843" t="nn" cr="nn:w14843" w="insect" l="~" p="N"/>
+     <dpg d="w14843" g="w14841" t="pcomp-n" cr="mod*from*n:w14840" w="cells" l="cell" p="N"/>
+     <dpg d="w14844" g="w14845" t="mod-before" cr="mod-before:w14845" w="triply" l="~" p="A"/>
+     <dpg d="w14845" g="E1" t="i" cr="rel:w14833" w="infected" l="infect" p="V"/>
+     <dpg d="E9" g="w14845" t="obj" cr="" w="" l="co-precipitate" p="N"/>
+     <dpg d="E9" g="w14833" t="antecedent" cr="" w="" l="co-precipitate" p="N"/>
+     <dpg d="E10" g="w14845" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E10" g="w14837" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w14846" g="w14845" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w14847" g="w14846" t="pcomp-n" cr="mod*with*n:w14845||s+subj:w14848" w="recombinants" l="~" p="N"/>
+     <dpg d="E0" g="w14847" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w14847" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w14848" g="E0" t="i" cr="rel:w14847" w="expressing" l="express" p="V"/>
+     <dpg d="E11" g="w14848" t="subj" cr="" w="" l="recombinants" p="N"/>
+     <dpg d="E11" g="E4" t="antecedent" cr="" w="" l="recombinants" p="N"/>
+     <dpg d="w14849" g="w14850" t="det" cr="det:w14850" w="the" l="~" p="Det"/>
+     <dpg d="w14850" g="w14848" t="obj" cr="obj:w14848" w="UL5" l="~" p="N"/>
+     <dpg d="w14851" g="w14850" t="punc" cr="punc:w14850" w="," l="~" p="U"/>
+     <dpg d="w14852" g="w14850" t="conj" cr="conj:w14850" w="UL8" l="~" p="N"/>
+     <dpg d="w14853" g="w14852" t="punc" cr="punc:w14852" w="and" l="~" p="U"/>
+     <dpg d="w14854" g="w14855" t="nn" cr="nn:w14855" w="UL52" l="~" p="N"/>
+     <dpg d="w14855" g="w14852" t="conj" cr="conj:w14852" w="polypeptides" l="polypeptide" p="N"/>
+     <dpg d="w14856" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

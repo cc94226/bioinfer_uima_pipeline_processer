@@ -1,0 +1,107 @@
+<rexml>
+<doc id="1620">
+  <text>
+<p><s id="s1"><w id="w25821">The</w> <w id="w25822">proteins</w> <w id="w25823">encoded</w> <w id="w25824">by</w> <w id="w25825">MRS5</w> <w id="w25826">and</w> <w id="w25827">MRS11</w> <w id="w25828">,</w> <w id="w25829">which</w> <w id="w25830">display</w> <w id="w25831">35</w> <w id="w25832">%</w> <w id="w25833">,</w> <w id="w25834">sequence</w> <w id="w25835">identity</w> <w id="w25836">are</w> <w id="w25837">both</w> <w id="w25838">located</w> <w id="w25839">in</w> <w id="w25840">the</w> <w id="w25841">mitochondrial</w> <w id="w25842">intermembrane</w> <w id="w25843">space</w> <w id="w25844">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5968" gid="g5689" t="Gene" fr="w25825" to="w25825" nam="yes">
+     <textspan type="extent">MRS5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1620.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5969" gid="g5690" t="RELATIONSHIP_TEXTBINDING" fr="w25834" to="w25835">
+     <textspan type="extent">sequence identity</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1620.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5970" gid="g5691" t="Individual_protein" fr="w25822" to="w25825" nam="yes">
+     <textspan type="extent">proteins encoded by MRS5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1620.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5971" gid="g5692" t="Gene" fr="w25827" to="w25827" nam="yes">
+     <textspan type="extent">MRS11</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1620.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5972" gid="g5693" t="Individual_protein" fr="w25822" to="w25827" nam="yes">
+     <textspan type="extent">proteins encoded by [..] MRS11</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1620.4"/>
+      <exattr n="nst" v="st.1620.1.0"/>
+      <exattr n="nst" v="st.1620.2.0"/>
+      <exattr n="nst" v="st.1620.3.0"/>
+      <exattr n="nst" v="st.1620.6.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5973" gid="g5694" t="RELATIONSHIP_TEXTBINDING" fr="w25838" to="w25843">
+     <textspan type="extent">located in [..] space</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1620.5"/>
+      <exattr n="nst" v="st.1620.17.0"/>
+      <exattr n="nst" v="st.1620.18.0"/>
+      <exattr n="nst" v="st.1620.22.0"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2280" t="SQSIMILAR" e1="e5968" e2="e5971" re="e5969">
+     <textspan type="extent">MRS5 and MRS11 , which display 35 % , sequence identity</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1620.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Physical-Similarity"/>
+      <exattr n="t4" v="SQSIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r2281" t="COLOCALIZE" e1="e5970" e2="e5972" re="e5973">
+     <textspan type="extent">proteins encoded by MRS5 and MRS11 , which display 35 % , sequence identity are both located in the mitochondrial intermembrane space</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1620.5"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

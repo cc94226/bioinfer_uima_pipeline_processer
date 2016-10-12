@@ -1,0 +1,141 @@
+<rexml>
+<doc id="1417">
+  
+  <markup>
+   <nes>
+    <ne id="e5154" gid="g4919" t="Individual_protein" fr="w22195" to="w22201" nam="yes" sid="s1">
+     <textspan>co-activators [..] CBP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1417.1"/>
+      <exattr n="nst" v="st.1417.3.0"/>
+      <exattr n="nst" v="st.1417.9.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5153" gid="g4918" t="Individual_protein" fr="w22195" to="w22196" nam="yes" sid="s1">
+     <textspan>co-activators p300</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1417.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5158" gid="g4923" t="Individual_protein" fr="w22196" to="w22196" nam="yes" sid="s1">
+     <textspan>p300</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1417.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5155" gid="g4920" t="Protein_family_or_group" fr="w22199" to="w22200" nam="yes" sid="s1">
+     <textspan>CREB-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1417.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5156" gid="g4921" t="Individual_protein" fr="w22201" to="w22201" nam="yes" sid="s1">
+     <textspan>CBP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1417.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5157" gid="g4922" t="Individual_protein" fr="w22209" to="w22210" nam="yes" sid="s1">
+     <textspan>E1A proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1417.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5160" gid="g4925" t="Gene" fr="w22209" to="w22209" nam="yes" sid="s1">
+     <textspan>E1A</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1417.7"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1971" t="MEMBER" e1="e5155" e2="e5156" re="">
+     <textspan>CREB-binding protein CBP</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1972" t="MODIFY" e1="e5157" e2="e5153" re="e5159">
+     <textspan>co-activators p300 and the CREB-binding protein CBP are cellular targets for transformation by the E1A proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1417.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="MODIFY"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1973" t="MODIFY" e1="e5157" e2="e5154" re="e5159">
+     <textspan>co-activators p300 and the CREB-binding protein CBP are cellular targets for transformation by the E1A proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1417.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="MODIFY"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

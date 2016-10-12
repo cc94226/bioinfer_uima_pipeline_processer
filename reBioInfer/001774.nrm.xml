@@ -1,0 +1,75 @@
+<rexml>
+<doc id="1774">
+  
+  <markup>
+   <nes>
+    <ne id="e6557" gid="g6252" t="Individual_protein" fr="w28384" to="w28384" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1774.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6560" gid="g6255" t="Substructure_of_protein" fr="w28387" to="w28390" nam="yes" sid="s1">
+     <textspan>domain from human fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1774.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6559" gid="g6254" t="Individual_protein" fr="w28389" to="w28390" nam="yes" sid="s1">
+     <textspan>human fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1774.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6561" gid="g6256" t="Individual_protein" fr="w28390" to="w28390" nam="yes" sid="s1">
+     <textspan>fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1774.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2526" t="CROSS-LINK-AP" e1="e6560" e2="e6557" re="e6558">
+     <textspan>actin - crosslinking domain from human fimbrin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1774.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="CROSS-LINK-AP"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,227 @@
+<rexml>
+<doc id="1392">
+  <text>
+<p><s id="s1"><w id="w21727">The</w> <w id="w21728">cofilin</w> <w id="w21729">homology</w> <w id="w21730">sequence</w> <w id="w21731">is</w> <w id="w21732">critical</w> <w id="w21733">for</w> <w id="w21734">stimulating</w> <w id="w21735">actin</w> <w id="w21736">nucleation</w> <w id="w21737">with</w> <w id="w21738">the</w> <w id="w21739">Arp</w><w id="w21740">2</w><w id="w21741">/</w><w id="w21742">3</w> <w id="w21743">complex</w> <w id="w21744">in</w> <w id="w21745">vitro</w> <w id="w21746">,</w> <w id="w21747">and</w> <w id="w21748">is</w> <w id="w21749">essential</w> <w id="w21750">for</w> <w id="w21751">actin</w> <w id="w21752">polymerization</w> <w id="w21753">and</w> <w id="w21754">motility</w> <w id="w21755">in</w> <w id="w21756">cells</w> <w id="w21757">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5050" gid="g4821" t="Substructure_of_protein" fr="w21728" to="w21730" nam="yes">
+     <textspan type="extent">cofilin [..] sequence</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1392.0"/>
+      <exattr n="nst" v="st.1392.1.0"/>
+      <exattr n="nst" v="st.1392.3.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5051" gid="g4822" t="RELATIONSHIP_TEXTBINDING" fr="w21734" to="w21737">
+     <textspan type="extent">stimulating [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1392.1"/>
+      <exattr n="nst" v="st.1392.7.0"/>
+      <exattr n="nst" v="st.1392.10.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5052" gid="g4823" t="Individual_protein" fr="w21739" to="w21740" nam="yes">
+     <textspan type="extent">Arp2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1392.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5053" gid="g4824" t="ASSEMBLY" fr="w21735" to="w21736">
+     <textspan type="extent">actin nucleation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1392.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5054" gid="g4825" t="RELATIONSHIP_TEXTBINDING" fr="w21749" to="w21750">
+     <textspan type="extent">essential for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1392.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5055" gid="g4826" t="RELATIONSHIP_TEXTBINDING" fr="w21732" to="w21733">
+     <textspan type="extent">critical for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1392.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5056" gid="g4827" t="Protein_complex" fr="w21739" to="w21743" nam="yes">
+     <textspan type="extent">Arp2/3 complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1392.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5057" gid="g4828" t="Homolog" fr="w21728" to="w21730" nam="yes">
+     <textspan type="extent">cofilin homology sequence</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Homolog"/>
+      <exattr n="bd" v="e.1392.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5058" gid="g4829" t="Individual_protein" fr="w21728" to="w21728" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1392.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e5059" gid="g4830" t="RELATIONSHIP_TEXTBINDING" fr="w21743" to="w21743">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1392.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e5060" gid="g4831" t="Individual_protein" fr="w21735" to="w21735" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1392.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e5061" gid="g4832" t="POLYMERIZATION" fr="w21751" to="w21752">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.1392.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e5062" gid="g4833" t="Individual_protein" fr="w21751" to="w21751" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1392.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e5063" gid="g4834" t="Individual_protein" fr="w21728" to="w21728" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1392.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e5064" gid="g4835" t="Individual_protein" fr="w21739" to="w21742" nam="yes">
+     <textspan type="extent">Arp [..] 3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1392.14"/>
+      <exattr n="nst" v="st.1392.12.0"/>
+      <exattr n="nst" v="st.1392.12.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1932" t="CONDITION" e1="e5057" e2="e5051" re="e5055">
+     <textspan type="extent">cofilin homology sequence is critical for stimulating actin nucleation with the Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1392.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r1933" t="STIMULATE" e1="e5056" e2="e5053" re="e5051">
+     <textspan type="extent">stimulating actin nucleation with the Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1392.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1934" t="CONDITION" e1="e5057" e2="e5061" re="e5054">
+     <textspan type="extent">cofilin homology sequence is critical for stimulating actin nucleation with the Arp 2 / 3 complex in vitro , and is essential for actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1392.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r1935" t="CONTAIN" e1="e5056" e2="e5052" re="e5059">
+     <textspan type="extent">Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1392.9"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1936" t="CONTAIN" e1="e5056" e2="e5064" re="e5059">
+     <textspan type="extent">Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1392.9"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

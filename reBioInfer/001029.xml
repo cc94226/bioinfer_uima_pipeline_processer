@@ -1,0 +1,107 @@
+<rexml>
+<doc id="1029">
+  <text>
+<p><s id="s1"><w id="w16290">Myosin</w> <w id="w16291">heavy</w> <w id="w16292">chain</w> <w id="w16293">A</w> <w id="w16294">staining</w> <w id="w16295">was</w> <w id="w16296">dimmer</w> <w id="w16297">and</w> <w id="w16298">its</w> <w id="w16299">colocalization</w> <w id="w16300">with</w> <w id="w16301">filamentous</w> <w id="w16302">actin</w> <w id="w16303">bundles</w> <w id="w16304">in</w> <w id="w16305">growth</w> <w id="w16306">cones</w> <w id="w16307">was</w> <w id="w16308">less</w> <w id="w16309">striking</w> <w id="w16310">than</w> <w id="w16311">that</w> <w id="w16312">of</w> <w id="w16313">myosin</w> <w id="w16314">heavy</w> <w id="w16315">chain</w> <w id="w16316">B</w> <w id="w16317">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3708" gid="g3555" t="Individual_protein" fr="w16290" to="w16293" nam="yes">
+     <textspan type="extent">Myosin heavy chain A</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1029.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3709" gid="g3556" t="RELATIONSHIP_TEXTBINDING" fr="w16299" to="w16300">
+     <textspan type="extent">colocalization with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1029.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3710" gid="g3557" t="Individual_protein" fr="w16313" to="w16316" nam="yes">
+     <textspan type="extent">myosin heavy chain B</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1029.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3711" gid="g3558" t="RELATIONSHIP_TEXTBINDING" fr="w16299" to="w16312">
+     <textspan type="extent">colocalization with [..] than [..] of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1029.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3712" gid="g3555" t="Individual_protein" fr="w16298" to="w16298" nam="yes">
+     <textspan type="extent">its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1029.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3713" gid="g3559" t="Cell_component" fr="w16302" to="w16303" nam="yes">
+     <textspan type="extent">actin bundles</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1029.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3714" gid="g3560" t="Individual_protein" fr="w16302" to="w16302" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1029.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1404" t="COLOCALIZE" e1="e3712" e2="e3713" re="e3709">
+     <textspan type="extent">its colocalization with filamentous actin bundles</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1029.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1405" t="COLOCALIZE" e1="e3710" e2="e3713" re="e3711">
+     <textspan type="extent">colocalization with filamentous actin bundles in growth cones was less striking than that of myosin heavy chain B</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1029.3"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

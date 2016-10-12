@@ -1,0 +1,52 @@
+<rexml>
+<doc id="684">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10444" g="w10448" t="s" cr="s+obj:w10448" w="Immunoprecipitation" l="~" p="N"/>
+     <dpg d="w10445" g="w10444" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10446" g="w10445" t="pcomp-n" cr="mod*of*n:w10444" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w10447" g="w10448" t="be" cr="be:w10448" w="was" l="be" p="be"/>
+     <dpg d="w10448" g="E1" t="i" cr="" w="increased" l="increase" p="V"/>
+     <dpg d="E3" g="w10448" t="obj" cr="" w="" l="Immunoprecipitation" p="N"/>
+     <dpg d="E3" g="w10444" t="antecedent" cr="" w="" l="Immunoprecipitation" p="N"/>
+     <dpg d="w10449" g="w10448" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w10450" g="w10449" t="pcomp-n" cr="mod*in*n:w10448" w="response" l="~" p="N"/>
+     <dpg d="w10451" g="w10450" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w10452" g="w10453" t="det" cr="det:w10453" w="both" l="~" p="Det"/>
+     <dpg d="w10453" g="w10451" t="pcomp-n" cr="mod*to*n:w10450" w="doses" l="dose" p="N"/>
+     <dpg d="w10454" g="w10453" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10455" g="w10454" t="pcomp-n" cr="mod*of*n:w10453" w="CdCl2" l="~" p="N"/>
+     <dpg d="w10456" g="w10448" t="punc" cr="punc:w10448" w="," l="~" p="U"/>
+     <dpg d="w10457" g="w10448" t="mod" cr="mod:w10448" w="while" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w10457" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10458" g="w10459" t="det" cr="det:w10459" w="the" l="~" p="Det"/>
+     <dpg d="w10459" g="w10462" t="s" cr="s:w10462||subj:w10463" w="immunoprecipitation" l="~" p="N"/>
+     <dpg d="w10460" g="w10459" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10461" g="w10460" t="pcomp-n" cr="mod*of*n:w10459" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w10462" g="E0" t="i" cr="comp1:w10457" w="was" l="be" p="VBE"/>
+     <dpg d="w10463" g="w10462" t="pred" cr="pred:w10462||obj:w10464" w="little" l="~" p="N"/>
+     <dpg d="E4" g="w10463" t="subj" cr="" w="" l="immunoprecipitation" p="N"/>
+     <dpg d="E4" g="w10459" t="antecedent" cr="" w="" l="immunoprecipitation" p="N"/>
+     <dpg d="w10464" g="w10463" t="vrel" cr="vrel:w10463" w="changed" l="change" p="V"/>
+     <dpg d="E5" g="w10464" t="obj" cr="" w="" l="little" p="N"/>
+     <dpg d="E5" g="w10463" t="antecedent" cr="" w="" l="little" p="N"/>
+     <dpg d="w10465" g="w10464" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w10466" g="w10468" t="nn" cr="nn:w10468" w="either" l="~" p="N"/>
+     <dpg d="w10467" g="w10468" t="nn" cr="nn:w10468" w="cadmium" l="~" p="N"/>
+     <dpg d="w10468" g="w10465" t="pcomp-n" cr="by-subj*by*n:w10464" w="dose" l="~" p="N"/>
+     <dpg d="w10469" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

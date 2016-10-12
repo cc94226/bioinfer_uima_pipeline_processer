@@ -1,0 +1,70 @@
+<rexml>
+<doc id="1115">
+  <text>
+<p><s id="s1"><w id="w17700">pH</w> <w id="w17701">control</w> <w id="w17702">of</w> <w id="w17703">actin</w> <w id="w17704">polymerization</w> <w id="w17705">by</w> <w id="w17706">cofilin</w> <w id="w17707">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4100" gid="g3918" t="RELATIONSHIP_TEXTBINDING" fr="w17701" to="w17705">
+     <textspan type="extent">control of [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1115.0"/>
+      <exattr n="nst" v="st.1115.1.0"/>
+      <exattr n="nst" v="st.1115.2.0"/>
+      <exattr n="nst" v="st.1115.5.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4101" gid="g3919" t="POLYMERIZATION" fr="w17703" to="w17704">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.1115.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4102" gid="g3920" t="Individual_protein" fr="w17706" to="w17706" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1115.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4103" gid="g3921" t="Individual_protein" fr="w17703" to="w17703" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1115.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1582" t="CONTROL" e1="e4102" e2="e4101" re="e4100">
+     <textspan type="extent">control of actin polymerization by cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1115.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

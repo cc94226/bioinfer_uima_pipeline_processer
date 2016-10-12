@@ -1,0 +1,38 @@
+<rexml>
+<doc id="1318">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="s+subj:w20583" w="" l="~" p="N"/>
+     <dpg d="w20583" g="E0" t="i" cr="" w="Targeting" l="target" p="V"/>
+     <dpg d="E3" g="w20583" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="E1" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w20584" g="w20583" t="guest" cr="guest:w20583" w="by" l="~" p="Prep"/>
+     <dpg d="w20585" g="w20586" t="mod" cr="mod:w20586" w="antisense" l="~" p="A"/>
+     <dpg d="w20586" g="w20589" t="nn" cr="nn:w20589" w="3'UTI" l="~" p="N"/>
+     <dpg d="w20587" g="w20588" t="mod" cr="mod:w20588" w="significantly" l="~" p="A"/>
+     <dpg d="w20588" g="w20589" t="mod" cr="mod:w20589" w="increased" l="~" p="A"/>
+     <dpg d="w20589" g="w20583" t="obj" cr="obj:w20583||obj:w20590" w="motility" l="~" p="N"/>
+     <dpg d="w20590" g="w20589" t="vrel" cr="vrel:w20589" w="compared" l="compare" p="V"/>
+     <dpg d="E4" g="w20590" t="obj" cr="" w="" l="motility" p="N"/>
+     <dpg d="E4" g="w20589" t="antecedent" cr="" w="" l="motility" p="N"/>
+     <dpg d="w20591" g="w20590" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w20592" g="w20595" t="det" cr="det:w20595" w="the" l="~" p="Det"/>
+     <dpg d="w20593" g="w20595" t="mod" cr="mod:w20595" w="corresponding" l="~" p="A"/>
+     <dpg d="w20594" g="w20595" t="nn" cr="nn:w20595" w="sense" l="~" p="N"/>
+     <dpg d="w20595" g="w20591" t="pcomp-n" cr="mod*with*n:w20590" w="ODN" l="~" p="N"/>
+     <dpg d="w20596" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

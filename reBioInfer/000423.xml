@@ -1,0 +1,165 @@
+<rexml>
+<doc id="423">
+  <text>
+<p><s id="s1"><w id="w6078">Effects</w> <w id="w6079">of</w> <w id="w6080">macrophage</w> <w id="w6081">profilin</w> <w id="w6082">on</w> <w id="w6083">actin</w> <w id="w6084">in</w> <w id="w6085">the</w> <w id="w6086">presence</w> <w id="w6087">and</w> <w id="w6088">absence</w> <w id="w6089">of</w> <w id="w6090">acumentin</w> <w id="w6091">and</w> <w id="w6092">gelsolin</w> <w id="w6093">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1487" gid="g1419" t="RELATIONSHIP_TEXTBINDING" fr="w6078" to="w6082">
+     <textspan type="extent">Effects of [..] on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.423.0"/>
+      <exattr n="nst" v="st.423.0.0"/>
+      <exattr n="nst" v="st.423.1.0"/>
+      <exattr n="nst" v="st.423.4.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1488" gid="g1420" t="Individual_protein" fr="w6080" to="w6081" nam="yes">
+     <textspan type="extent">macrophage profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.423.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1489" gid="g1421" t="RELATIONSHIP_TEXTBINDING" fr="w6084" to="w6089">
+     <textspan type="extent">in the [..] absence of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.423.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1490" gid="g1422" t="RELATIONSHIP_TEXTBINDING" fr="w6084" to="w6089">
+     <textspan type="extent">in the presence [..] of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.423.3"/>
+      <exattr n="nst" v="st.423.6.0"/>
+      <exattr n="nst" v="st.423.7.0"/>
+      <exattr n="nst" v="st.423.8.0"/>
+      <exattr n="nst" v="st.423.11.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1491" gid="g1423" t="Individual_protein" fr="w6092" to="w6092" nam="yes">
+     <textspan type="extent">gelsolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.423.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1492" gid="g1424" t="Individual_protein" fr="w6090" to="w6090" nam="yes">
+     <textspan type="extent">acumentin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.423.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1493" gid="g1425" t="Individual_protein" fr="w6083" to="w6083" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.423.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r586" t="PRESENCE" e1="e1492" e2="e1487" re="e1490">
+     <textspan type="extent">Effects of macrophage profilin on actin in the presence and absence of acumentin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.423.3"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="PRESENCE"/>
+     </exattrs>
+    </rel>
+    <rel id="r587" t="AFFECT" e1="e1488" e2="e1493" re="e1487">
+     <textspan type="extent">Effects of macrophage profilin on actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.423.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r588" t="PRESENCE" e1="e1491" e2="e1487" re="e1490">
+     <textspan type="extent">Effects of macrophage profilin on actin in the presence and absence of acumentin and gelsolin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.423.3"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="PRESENCE"/>
+     </exattrs>
+    </rel>
+    <rel id="r589" t="AFFECT" e1="e1488" e2="e1493" re="e1487">
+     <textspan type="extent">Effects of macrophage profilin on actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.423.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r590" t="ABSENCE" e1="e1492" e2="e1487" re="e1489">
+     <textspan type="extent">Effects of macrophage profilin on actin in the presence and absence of acumentin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.423.2"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="ABSENCE"/>
+     </exattrs>
+    </rel>
+    <rel id="r591" t="AFFECT" e1="e1488" e2="e1493" re="e1487">
+     <textspan type="extent">Effects of macrophage profilin on actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.423.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r592" t="ABSENCE" e1="e1491" e2="e1487" re="e1489">
+     <textspan type="extent">Effects of macrophage profilin on actin in the presence and absence of acumentin and gelsolin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.423.2"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="ABSENCE"/>
+     </exattrs>
+    </rel>
+    <rel id="r593" t="AFFECT" e1="e1488" e2="e1493" re="e1487">
+     <textspan type="extent">Effects of macrophage profilin on actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.423.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

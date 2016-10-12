@@ -1,0 +1,167 @@
+<rexml>
+<doc id="932">
+  <text>
+<p><s id="s1"><w id="w14543">Like</w> <w id="w14544">TESK1</w> <w id="w14545">,</w> <w id="w14546">TESK2</w> <w id="w14547">phosphorylated</w> <w id="w14548">cofilin</w> <w id="w14549">specifically</w> <w id="w14550">at</w> <w id="w14551">Ser-3</w> <w id="w14552">and</w> <w id="w14553">induced</w> <w id="w14554">formation</w> <w id="w14555">of</w> <w id="w14556">actin</w> <w id="w14557">stress</w> <w id="w14558">fibers</w> <w id="w14559">and</w> <w id="w14560">focal</w> <w id="w14561">adhesions</w> <w id="w14562">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3310" gid="g3177" t="Individual_protein" fr="w14544" to="w14544" nam="yes">
+     <textspan type="extent">TESK1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.932.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3311" gid="g3178" t="RELATIONSHIP_TEXTBINDING" fr="w14547" to="w14547">
+     <textspan type="extent">phosphorylated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.932.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3312" gid="g3179" t="RELATIONSHIP_TEXTBINDING" fr="w14543" to="w14547">
+     <textspan type="extent">Like [..] phosphorylated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.932.2"/>
+      <exattr n="nst" v="st.932.0.0"/>
+      <exattr n="nst" v="st.932.4.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3313" gid="g3180" t="Individual_protein" fr="w14546" to="w14546" nam="yes">
+     <textspan type="extent">TESK2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.932.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3314" gid="g3181" t="Cell_component" fr="w14556" to="w14558" nam="yes">
+     <textspan type="extent">actin [..] fibers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.932.4"/>
+      <exattr n="nst" v="st.932.13.0"/>
+      <exattr n="nst" v="st.932.15.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3315" gid="g3182" t="RELATIONSHIP_TEXTBINDING" fr="w14543" to="w14553">
+     <textspan type="extent">Like [..] induced</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.932.5"/>
+      <exattr n="nst" v="st.932.0.0"/>
+      <exattr n="nst" v="st.932.10.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3316" gid="g3183" t="Individual_protein" fr="w14548" to="w14548" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.932.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3317" gid="g3184" t="RELATIONSHIP_TEXTBINDING" fr="w14553" to="w14553">
+     <textspan type="extent">induced</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.932.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e3318" gid="g3185" t="Individual_protein" fr="w14556" to="w14556" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.932.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e3319" gid="g3186" t="ASSEMBLY" fr="w14554" to="w14558">
+     <textspan type="extent">formation of actin [..] fibers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.932.9"/>
+      <exattr n="nst" v="st.932.11.0"/>
+      <exattr n="nst" v="st.932.12.0"/>
+      <exattr n="nst" v="st.932.13.0"/>
+      <exattr n="nst" v="st.932.15.0"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1266" t="PHOSPHORYLATE" e1="e3313" e2="e3316" re="e3311">
+     <textspan type="extent">TESK2 phosphorylated cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.932.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+     </exattrs>
+    </rel>
+    <rel id="r1267" t="PHOSPHORYLATE" e1="e3310" e2="e3316" re="e3312">
+     <textspan type="extent">Like TESK1 , TESK2 phosphorylated cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.932.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+     </exattrs>
+    </rel>
+    <rel id="r1268" t="INITIATE" e1="e3313" e2="e3319" re="e3317">
+     <textspan type="extent">TESK2 phosphorylated cofilin specifically at Ser-3 and induced formation of actin stress fibers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.932.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1269" t="INITIATE" e1="e3310" e2="e3319" re="e3315">
+     <textspan type="extent">Like TESK1 , TESK2 phosphorylated cofilin specifically at Ser-3 and induced formation of actin stress fibers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.932.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

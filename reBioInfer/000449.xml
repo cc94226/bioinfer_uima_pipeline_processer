@@ -1,0 +1,124 @@
+<rexml>
+<doc id="449">
+  <text>
+<p><s id="s1"><w id="w6429">Experiments</w> <w id="w6430">performed</w> <w id="w6431">using</w> <w id="w6432">extracts</w> <w id="w6433">from</w> <w id="w6434">doubly</w> <w id="w6435">infected</w> <w id="w6436">cells</w> <w id="w6437">indicated</w> <w id="w6438">that</w> <w id="w6439">UL8</w> <w id="w6440">could</w> <w id="w6441">interact</w> <w id="w6442">separately</w> <w id="w6443">with</w> <w id="w6444">both</w> <w id="w6445">the</w> <w id="w6446">UL5</w> <w id="w6447">and</w> <w id="w6448">UL52</w> <w id="w6449">proteins</w> <w id="w6450">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1563" gid="g1494" t="Individual_protein" fr="w6439" to="w6439" nam="yes">
+     <textspan type="extent">UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.449.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1564" gid="g1495" t="RELATIONSHIP_TEXTBINDING" fr="w6441" to="w6443">
+     <textspan type="extent">interact [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.449.1"/>
+      <exattr n="nst" v="st.449.12.0"/>
+      <exattr n="nst" v="st.449.14.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1565" gid="g1496" t="Individual_protein" fr="w6448" to="w6449" nam="yes">
+     <textspan type="extent">UL52 proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.449.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1566" gid="g1497" t="RELATIONSHIP_TEXTBINDING" fr="w6442" to="w6442">
+     <textspan type="extent">separately</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.449.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1567" gid="g1498" t="Individual_protein" fr="w6446" to="w6449" nam="yes">
+     <textspan type="extent">UL5 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.449.4"/>
+      <exattr n="nst" v="st.449.17.0"/>
+      <exattr n="nst" v="st.449.20.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1568" gid="g1499" t="Individual_protein" fr="w6446" to="w6446" nam="yes">
+     <textspan type="extent">UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.449.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1569" gid="g1500" t="Individual_protein" fr="w6448" to="w6448" nam="yes">
+     <textspan type="extent">UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.449.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r613" t="MUTUALCONDITION" e1="e1564" e2="e1564" re="e1566">
+     <textspan type="extent">UL8 could interact separately with both the UL5 and UL52 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.449.3"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="MUTUALCONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r614" t="INTERACT" e1="e1563" e2="e1567" re="e1564">
+     <textspan type="extent">UL8 could interact separately with both the UL5 and UL52 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.449.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r615" t="INTERACT" e1="e1563" e2="e1565" re="e1564">
+     <textspan type="extent">UL8 could interact separately with both the UL5 and UL52 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.449.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

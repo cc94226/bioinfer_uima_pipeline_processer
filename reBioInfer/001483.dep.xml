@@ -1,0 +1,37 @@
+<rexml>
+<doc id="1483">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23198" g="w23201" t="lex-mod" cr="lex-mod:w23201" w="alpha-" l="~" p="U"/>
+     <dpg d="w23199" g="w23201" t="lex-mod" cr="lex-mod:w23201" w="and" l="~" p="U"/>
+     <dpg d="w23200" g="w23201" t="lex-mod" cr="lex-mod:w23201" w="beta-" l="~" p="U"/>
+     <dpg d="w23201" g="w23202" t="s" cr="s:w23202||subj:w23203" w="catenin" l="alpha- and beta- catenin" p="N"/>
+     <dpg d="w23202" g="E0" t="i" cr="" w="were" l="be" p="VBE"/>
+     <dpg d="w23203" g="w23202" t="pred" cr="pred:w23202" w="present" l="~" p="N"/>
+     <dpg d="E2" g="w23203" t="subj" cr="" w="" l="alpha- and beta- catenin" p="N"/>
+     <dpg d="E2" g="w23201" t="antecedent" cr="" w="" l="alpha- and beta- catenin" p="N"/>
+     <dpg d="w23204" g="w23203" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w23205" g="w23206" t="mod" cr="mod:w23206" w="most" l="~" p="A"/>
+     <dpg d="w23206" g="w23207" t="mod" cr="mod:w23207" w="ovarian" l="~" p="A"/>
+     <dpg d="w23207" g="w23204" t="pcomp-n" cr="mod*in*n:w23203" w="cells" l="cell" p="N"/>
+     <dpg d="w23208" g="w23207" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w23209" g="w23210" t="pre" cr="pre:w23210" w="all" l="~" p="PreDet"/>
+     <dpg d="w23210" g="w23208" t="pcomp-n" cr="mod*at*n:w23207" w="stages" l="stage" p="N"/>
+     <dpg d="w23211" g="w23210" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w23212" g="w23211" t="pcomp-n" cr="mod*of*n:w23210" w="folliculogenesis" l="~" p="N"/>
+     <dpg d="w23213" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

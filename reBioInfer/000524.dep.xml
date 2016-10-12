@@ -1,0 +1,75 @@
+<rexml>
+<doc id="524">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7325" g="E2" t="mod" cr="mod:w7328" w="Further" l="~" p="A"/>
+     <dpg d="w7326" g="w7327" t="nn" cr="nn:w7327" w="deletion" l="~" p="N"/>
+     <dpg d="w7327" g="w7328" t="s" cr="s+subj:w7328" w="analysis" l="~" p="N"/>
+     <dpg d="w7328" g="E2" t="i" cr="UNSPECRELTYPE:E4" w="demonstrated" l="demonstrate" p="V"/>
+     <dpg d="E5" g="w7328" t="subj" cr="" w="" l="analysis" p="N"/>
+     <dpg d="E5" g="w7327" t="antecedent" cr="" w="" l="analysis" p="N"/>
+     <dpg d="E1" g="w7328" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7329" g="E1" t="c" cr="c:w7332" w="that" l="~" p="COMP"/>
+     <dpg d="w7330" g="w7331" t="det" cr="det:w7331" w="this" l="~" p="Det"/>
+     <dpg d="w7331" g="w7332" t="s" cr="s+subj:w7332" w="fragment" l="~" p="N"/>
+     <dpg d="w7332" g="E1" t="i" cr="fc:w7328" w="contains" l="contain" p="V"/>
+     <dpg d="E6" g="w7332" t="subj" cr="" w="" l="fragment" p="N"/>
+     <dpg d="E6" g="w7331" t="antecedent" cr="" w="" l="fragment" p="N"/>
+     <dpg d="w7333" g="w7334" t="nn" cr="nn:w7334" w="three" l="~" p="N"/>
+     <dpg d="w7334" g="w7332" t="obj" cr="obj:w7332||subj:w7338" w="regions" l="region" p="N"/>
+     <dpg d="w7335" g="w7334" t="punc" cr="punc:w7334" w="," l="~" p="U"/>
+     <dpg d="E0" g="w7334" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7336" g="E0" t="whn" cr="whn:w7337" w="which" l="~" p="N"/>
+     <dpg d="w7336" g="w7334" t="antecedent" cr="antecedent:w7334" w="which" l="~" p="N"/>
+     <dpg d="w7337" g="E0" t="i" cr="rel:w7334" w="are" l="be" p="VBE"/>
+     <dpg d="w7338" g="w7337" t="pred" cr="pred:w7337" w="important" l="~" p="A"/>
+     <dpg d="E7" g="w7338" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E7" g="w7334" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w7339" g="w7338" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w7340" g="w7339" t="pcomp-n" cr="mod*for*n:w7338" w="nucleation" l="~" p="N"/>
+     <dpg d="w7341" g="w7340" t="punc" cr="punc:w7340" w="and" l="~" p="U"/>
+     <dpg d="w7342" g="w7347" t="nn" cr="nn:w7347" w="share" l="~" p="N"/>
+     <dpg d="w7343" g="w7347" t="mod" cr="mod:w7347" w="functional" l="~" p="A"/>
+     <dpg d="w7344" g="w7343" t="punc" cr="punc:w7343" w="and/or" l="~" p="U"/>
+     <dpg d="w7345" g="w7343" t="conj" cr="conj:w7343" w="limited" l="~" p="A"/>
+     <dpg d="w7346" g="w7347" t="nn" cr="nn:w7347" w="sequence" l="~" p="N"/>
+     <dpg d="w7347" g="w7340" t="conj" cr="conj:w7340" w="similarity" l="~" p="N"/>
+     <dpg d="w7348" g="w7347" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w7349" g="w7352" t="nn" cr="nn:w7352" w="host" l="~" p="N"/>
+     <dpg d="w7350" g="w7352" t="nn" cr="nn:w7352" w="WASP" l="~" p="N"/>
+     <dpg d="w7351" g="w7352" t="nn" cr="nn:w7352" w="family" l="~" p="N"/>
+     <dpg d="w7352" g="w7348" t="pcomp-n" cr="mod*with*n:w7347" w="proteins" l="protein" p="N"/>
+     <dpg d="w7353" g="E4" t="punc" cr="punc:E4" w=":" l="~" p="U"/>
+     <dpg d="w7354" g="w7356" t="det" cr="det:w7356" w="an" l="~" p="Det"/>
+     <dpg d="w7355" g="w7356" t="mod" cr="mod:w7356" w="acidic" l="~" p="A"/>
+     <dpg d="w7356" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="stretch" l="~" p="N"/>
+     <dpg d="w7357" g="w7356" t="punc" cr="punc:w7356" w="," l="~" p="U"/>
+     <dpg d="w7358" g="w7363" t="det" cr="det:w7363" w="an" l="~" p="Det"/>
+     <dpg d="w7359" g="w7363" t="nn" cr="nn:w7363" w="actin" l="~" p="N"/>
+     <dpg d="w7360" g="w7362" t="lex-mod" cr="lex-mod:w7362" w="monomer" l="~" p="U"/>
+     <dpg d="w7361" g="w7362" t="lex-mod" cr="lex-mod:w7362" w="-" l="~" p="U"/>
+     <dpg d="w7362" g="w7363" t="mod" cr="mod:w7363" w="binding" l="monomer - binding" p="A"/>
+     <dpg d="w7363" g="w7356" t="conj" cr="conj:w7356" w="region" l="~" p="N"/>
+     <dpg d="w7364" g="w7363" t="punc" cr="punc:w7363" w="," l="~" p="U"/>
+     <dpg d="w7365" g="w7363" t="punc" cr="punc:w7363" w="and" l="~" p="U"/>
+     <dpg d="w7366" g="w7369" t="det" cr="det:w7369" w="a" l="~" p="Det"/>
+     <dpg d="w7367" g="w7369" t="nn" cr="nn:w7369" w="cofilin" l="~" p="N"/>
+     <dpg d="w7368" g="w7369" t="nn" cr="nn:w7369" w="homology" l="~" p="N"/>
+     <dpg d="w7369" g="w7363" t="conj" cr="conj:w7363" w="sequence" l="~" p="N"/>
+     <dpg d="w7370" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

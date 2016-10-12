@@ -1,0 +1,685 @@
+<rexml>
+<doc id="2222">
+  
+  <markup>
+   <nes>
+    <ne id="e7773" gid="g7411" t="Individual_protein" fr="w34277" to="w34277" nam="yes" sid="s1">
+     <textspan>integrins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2222.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7776" gid="g7414" t="Individual_protein" fr="w34279" to="w34279" nam="yes" sid="s1">
+     <textspan>cadherins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2222.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7775" gid="g7413" t="Individual_protein" fr="w34281" to="w34281" nam="yes" sid="s1">
+     <textspan>alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2222.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7778" gid="g7416" t="Individual_protein" fr="w34283" to="w34283" nam="yes" sid="s1">
+     <textspan>beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2222.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7777" gid="g7415" t="Individual_protein" fr="w34285" to="w34285" nam="yes" sid="s1">
+     <textspan>plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2222.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7780" gid="g7418" t="Individual_protein" fr="w34287" to="w34287" nam="yes" sid="s1">
+     <textspan>vinculin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2222.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7779" gid="g7417" t="Individual_protein" fr="w34289" to="w34289" nam="yes" sid="s1">
+     <textspan>alpha-actinin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2222.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7782" gid="g7420" t="Individual_protein" fr="w34303" to="w34303" nam="yes" sid="s1">
+     <textspan>paxillin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2222.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e7781" gid="g7419" t="Individual_protein" fr="w34305" to="w34305" nam="yes" sid="s1">
+     <textspan>talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2222.8"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7773" e2="e7776" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7773" e2="e7775" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7773" e2="e7778" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7773" e2="e7777" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7773" e2="e7780" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7773" e2="e7779" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7776" e2="e7775" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7776" e2="e7778" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7776" e2="e7777" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7776" e2="e7780" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7776" e2="e7779" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7775" e2="e7778" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7775" e2="e7777" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7775" e2="e7780" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7775" e2="e7779" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7778" e2="e7777" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7778" e2="e7780" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7778" e2="e7779" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7777" e2="e7780" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7777" e2="e7779" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2983" t="COLOCALIZE" e1="e7780" e2="e7779" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="arg" v="e7773"/>
+      <exattr n="arg" v="e7776"/>
+      <exattr n="arg" v="e7775"/>
+      <exattr n="arg" v="e7778"/>
+      <exattr n="arg" v="e7777"/>
+      <exattr n="arg" v="e7780"/>
+      <exattr n="arg" v="e7779"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2985" t="COLOCALIZE" e1="e7782" e2="e7773" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders , whereas the focal contact proteins , paxillin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2987" t="COLOCALIZE" e1="e7782" e2="e7776" re="e7774">
+     <textspan>cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders , whereas the focal contact proteins , paxillin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2989" t="COLOCALIZE" e1="e7782" e2="e7775" re="e7774">
+     <textspan>alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders , whereas the focal contact proteins , paxillin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2991" t="COLOCALIZE" e1="e7782" e2="e7778" re="e7774">
+     <textspan>beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders , whereas the focal contact proteins , paxillin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2993" t="COLOCALIZE" e1="e7782" e2="e7777" re="e7774">
+     <textspan>plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders , whereas the focal contact proteins , paxillin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2995" t="COLOCALIZE" e1="e7782" e2="e7780" re="e7774">
+     <textspan>vinculin and alpha-actinin appeared to accumulate at cell-cell borders , whereas the focal contact proteins , paxillin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2997" t="COLOCALIZE" e1="e7782" e2="e7779" re="e7774">
+     <textspan>alpha-actinin appeared to accumulate at cell-cell borders , whereas the focal contact proteins , paxillin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2999" t="COLOCALIZE" e1="e7781" e2="e7773" re="e7774">
+     <textspan>integrins , cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders , whereas the focal contact proteins , paxillin and talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r3001" t="COLOCALIZE" e1="e7781" e2="e7776" re="e7774">
+     <textspan>cadherins , alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders , whereas the focal contact proteins , paxillin and talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r3003" t="COLOCALIZE" e1="e7781" e2="e7775" re="e7774">
+     <textspan>alpha-catenin , beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders , whereas the focal contact proteins , paxillin and talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r3005" t="COLOCALIZE" e1="e7781" e2="e7778" re="e7774">
+     <textspan>beta-catenin , plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders , whereas the focal contact proteins , paxillin and talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r3007" t="COLOCALIZE" e1="e7781" e2="e7777" re="e7774">
+     <textspan>plakoglobin , vinculin and alpha-actinin appeared to accumulate at cell-cell borders , whereas the focal contact proteins , paxillin and talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r3009" t="COLOCALIZE" e1="e7781" e2="e7780" re="e7774">
+     <textspan>vinculin and alpha-actinin appeared to accumulate at cell-cell borders , whereas the focal contact proteins , paxillin and talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r3011" t="COLOCALIZE" e1="e7781" e2="e7779" re="e7774">
+     <textspan>alpha-actinin appeared to accumulate at cell-cell borders , whereas the focal contact proteins , paxillin and talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r3013" t="COLOCALIZE" e1="e7782" e2="e7781" re="e7774">
+     <textspan>accumulate at cell-cell borders , whereas the focal contact proteins , paxillin and talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2222.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

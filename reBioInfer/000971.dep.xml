@@ -1,0 +1,64 @@
+<rexml>
+<doc id="971">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w15199" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="METHODS" l="method" p="N"/>
+     <dpg d="w15200" g="E2" t="punc" cr="punc:E2" w=":" l="~" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w15201" g="w15202" t="mod" cr="mod:w15202" w="Paraffin-embedded" l="Paraffin-embedded" p="A"/>
+     <dpg d="w15202" g="w15214" t="s" cr="s+obj:w15214" w="sections" l="section" p="N"/>
+     <dpg d="w15203" g="w15202" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15204" g="w15205" t="nn" cr="nn:w15205" w="five" l="~" p="N"/>
+     <dpg d="w15205" g="w15203" t="pcomp-n" cr="mod*of*n:w15202" w="AVMs" l="~" p="N"/>
+     <dpg d="w15206" g="w15205" t="punc" cr="punc:w15205" w="," l="~" p="U"/>
+     <dpg d="w15207" g="w15205" t="conj" cr="conj:w15205" w="CCMs" l="~" p="N"/>
+     <dpg d="w15208" g="w15207" t="punc" cr="punc:w15207" w="," l="~" p="U"/>
+     <dpg d="w15209" g="w15207" t="punc" cr="punc:w15207" w="and" l="~" p="U"/>
+     <dpg d="w15210" g="w15212" t="nn" cr="nn:w15212" w="control" l="~" p="N"/>
+     <dpg d="w15211" g="w15212" t="nn" cr="nn:w15212" w="brain" l="~" p="N"/>
+     <dpg d="w15212" g="w15207" t="conj" cr="conj:w15207" w="tissues" l="tissue" p="N"/>
+     <dpg d="w15213" g="w15214" t="be" cr="be:w15214" w="were" l="be" p="be"/>
+     <dpg d="w15214" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="stained" l="stain" p="V"/>
+     <dpg d="E3" g="w15214" t="obj" cr="" w="" l="section" p="N"/>
+     <dpg d="E3" g="w15202" t="antecedent" cr="" w="" l="section" p="N"/>
+     <dpg d="w15215" g="w15214" t="mod" cr="mod:w15214" w="immunohistochemically" l="~" p="A"/>
+     <dpg d="w15216" g="w15215" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w15217" g="w15216" t="pcomp-n" cr="mod*with*n:w15215" w="antibodies" l="antibody" p="N"/>
+     <dpg d="w15218" g="w15217" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w15219" g="w15221" t="lex-mod" cr="lex-mod:w15221" w="alpha-smooth" l="~" p="U"/>
+     <dpg d="w15220" g="w15221" t="lex-mod" cr="lex-mod:w15221" w="muscle" l="~" p="U"/>
+     <dpg d="w15221" g="w15218" t="pcomp-n" cr="mod*to*n:w15217" w="actin" l="alpha-smooth muscle actin" p="N"/>
+     <dpg d="w15222" g="w15223" t="punc" cr="punc:w15223" w="(" l="~" p="U"/>
+     <dpg d="w15223" g="w15221" t="abbrev" cr="abbrev:w15221" w="alpha-SMA" l="alpha-SMA" p="N"/>
+     <dpg d="w15224" g="w15223" t="punc" cr="punc:w15223" w=")" l="~" p="U"/>
+     <dpg d="w15225" g="w15221" t="punc" cr="punc:w15221" w="," l="~" p="U"/>
+     <dpg d="w15226" g="w15228" t="nn" cr="nn:w15228" w="myosin" l="~" p="N"/>
+     <dpg d="w15227" g="w15228" t="mod" cr="mod:w15228" w="heavy" l="~" p="A"/>
+     <dpg d="w15228" g="w15221" t="conj" cr="conj:w15221" w="chain" l="~" p="N"/>
+     <dpg d="w15229" g="w15228" t="punc" cr="punc:w15228" w="," l="~" p="U"/>
+     <dpg d="w15230" g="w15228" t="punc" cr="punc:w15228" w="and" l="~" p="U"/>
+     <dpg d="w15231" g="w15228" t="conj" cr="conj:w15228" w="smoothelin" l="~" p="N"/>
+     <dpg d="w15232" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w15233" g="w15235" t="det" cr="det:w15235" w="a" l="~" p="Det"/>
+     <dpg d="w15234" g="w15235" t="mod" cr="mod:w15235" w="novel" l="~" p="A"/>
+     <dpg d="w15235" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="marker" l="~" p="N"/>
+     <dpg d="w15236" g="w15235" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w15237" g="w15239" t="mod" cr="mod:w15239" w="contractile" l="~" p="A"/>
+     <dpg d="w15238" g="w15239" t="nn" cr="nn:w15239" w="VSMC" l="~" p="N"/>
+     <dpg d="w15239" g="w15236" t="pcomp-n" cr="mod*for*n:w15235" w="phenotype" l="~" p="N"/>
+     <dpg d="w15240" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

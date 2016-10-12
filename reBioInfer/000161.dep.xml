@@ -1,0 +1,61 @@
+<rexml>
+<doc id="161">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2646" g="w2650" t="nn" cr="nn:w2650" w="Armadillo" l="~" p="N"/>
+     <dpg d="w2647" g="w2648" t="punc" cr="punc:w2648" w="(" l="~" p="U"/>
+     <dpg d="w2648" g="w2646" t="abbrev" cr="abbrev:w2646" w="Arm" l="~" p="N"/>
+     <dpg d="w2649" g="w2648" t="punc" cr="punc:w2648" w=")" l="~" p="U"/>
+     <dpg d="w2650" g="w2659" t="s" cr="s+obj:w2659||s+subj:w2661" w="repeat" l="~" p="N"/>
+     <dpg d="w2651" g="w2650" t="num" cr="num:w2650" w="10" l="~" p="N"/>
+     <dpg d="w2652" g="w2650" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w2653" g="w2655" t="det" cr="det:w2655" w="the" l="~" p="Det"/>
+     <dpg d="w2654" g="w2655" t="nn" cr="nn:w2655" w="COOH" l="~" p="N"/>
+     <dpg d="w2655" g="w2652" t="pcomp-n" cr="mod*to*n:w2650" w="terminus" l="~" p="N"/>
+     <dpg d="w2656" g="w2655" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2657" g="w2656" t="pcomp-n" cr="mod*of*n:w2655" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w2658" g="w2659" t="be" cr="be:w2659" w="is" l="be" p="be"/>
+     <dpg d="w2659" g="E2" t="i" cr="" w="involved" l="involve" p="V"/>
+     <dpg d="E5" g="w2659" t="obj" cr="" w="" l="repeat" p="N"/>
+     <dpg d="E5" g="w2650" t="antecedent" cr="" w="" l="repeat" p="N"/>
+     <dpg d="w2660" g="w2659" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="E1" g="w2660" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w2650" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w2661" g="E1" t="i" cr="mod*in*c:w2659" w="binding" l="bind" p="V"/>
+     <dpg d="E6" g="w2661" t="subj" cr="" w="" l="repeat" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="repeat" p="N"/>
+     <dpg d="w2662" g="w2661" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w2663" g="w2662" t="pcomp-n" cr="mod*to*n:w2661" w="CBP" l="~" p="N"/>
+     <dpg d="w2664" g="w2661" t="punc" cr="punc:w2661" w="," l="~" p="U"/>
+     <dpg d="w2665" g="w2661" t="mod" cr="mod:w2661" w="whereas" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w2665" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2666" g="w2667" t="s" cr="s+subj:w2667" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w2667" g="E0" t="i" cr="comp1:w2665" w="interacts" l="interact" p="V"/>
+     <dpg d="E7" g="w2667" t="subj" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="E7" g="w2666" t="antecedent" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="w2668" g="w2667" t="mod" cr="mod:w2667" w="directly" l="~" p="A"/>
+     <dpg d="w2669" g="w2668" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w2670" g="w2674" t="det" cr="det:w2674" w="the" l="~" p="Det"/>
+     <dpg d="w2671" g="w2673" t="lex-mod" cr="lex-mod:w2673" w="CREB" l="~" p="U"/>
+     <dpg d="w2672" g="w2673" t="lex-mod" cr="lex-mod:w2673" w="-" l="~" p="U"/>
+     <dpg d="w2673" g="w2674" t="mod" cr="mod:w2674" w="binding" l="CREB - binding" p="A"/>
+     <dpg d="w2674" g="w2669" t="pcomp-n" cr="mod*with*n:w2668" w="domain" l="~" p="N"/>
+     <dpg d="w2675" g="w2674" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2676" g="w2675" t="pcomp-n" cr="mod*of*n:w2674" w="CBP" l="~" p="N"/>
+     <dpg d="w2677" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

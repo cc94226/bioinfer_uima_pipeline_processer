@@ -1,0 +1,65 @@
+<rexml>
+<doc id="540">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7554" g="w7555" t="lex-mod" cr="lex-mod:w7555" w="Fusiform" l="~" p="U"/>
+     <dpg d="w7555" g="w7559" t="s" cr="s:w7559||subj:w7561||s+subj:w7566" w="RPE" l="Fusiform RPE" p="N"/>
+     <dpg d="w7556" g="w7559" t="punc" cr="punc:w7559" w="," l="~" p="U"/>
+     <dpg d="w7557" g="w7559" t="mod-before" cr="mod-before:w7559" w="however" l="~" p="A"/>
+     <dpg d="w7558" g="w7559" t="punc" cr="punc:w7559" w="," l="~" p="U"/>
+     <dpg d="w7559" g="E2" t="i" cr="" w="were" l="be" p="VBE"/>
+     <dpg d="w7560" g="w7559" t="neg" cr="neg:w7559" w="not" l="~" p="A"/>
+     <dpg d="E5" g="w7561" t="subj" cr="" w="" l="Fusiform RPE" p="N"/>
+     <dpg d="E5" g="w7555" t="antecedent" cr="" w="" l="Fusiform RPE" p="N"/>
+     <dpg d="w7561" g="w7559" t="pred" cr="pred:w7559" w="deficient" l="~" p="A"/>
+     <dpg d="w7562" g="w7561" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w7563" g="w7564" t="det" cr="det:w7564" w="these" l="~" p="Det"/>
+     <dpg d="w7564" g="w7562" t="pcomp-n" cr="mod*in*n:w7561" w="proteins" l="protein" p="N"/>
+     <dpg d="w7565" g="w7559" t="punc" cr="punc:w7559" w="," l="~" p="U"/>
+     <dpg d="E1" g="w7559" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w7555" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w7566" g="E1" t="i" cr="mod:w7559" w="expressing" l="express" p="V"/>
+     <dpg d="E6" g="w7566" t="subj" cr="" w="" l="Fusiform RPE" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="Fusiform RPE" p="N"/>
+     <dpg d="w7567" g="w7566" t="obj" cr="obj:w7566" w="amounts" l="amount" p="N"/>
+     <dpg d="w7568" g="w7567" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w7569" g="w7568" t="pcomp-n" cr="mod*of*n:w7567" w="N-cadherin" l="N-cadherin" p="N"/>
+     <dpg d="w7570" g="w7569" t="punc" cr="punc:w7569" w="," l="~" p="U"/>
+     <dpg d="w7571" g="w7569" t="conj" cr="conj:w7569" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w7572" g="w7571" t="punc" cr="punc:w7571" w="," l="~" p="U"/>
+     <dpg d="w7573" g="w7571" t="conj" cr="conj:w7571" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w7574" g="w7573" t="punc" cr="punc:w7573" w="," l="~" p="U"/>
+     <dpg d="w7575" g="w7573" t="conj" cr="conj:w7573" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w7576" g="w7575" t="punc" cr="punc:w7575" w="," l="~" p="U"/>
+     <dpg d="w7577" g="w7575" t="conj" cr="conj:w7575" w="p120" l="~" p="N"/>
+     <dpg d="w7578" g="w7577" t="punc" cr="punc:w7577" w="," l="~" p="U"/>
+     <dpg d="w7579" g="w7577" t="conj" cr="conj:w7577" w="alpha-actinin" l="alpha-actinin" p="N"/>
+     <dpg d="w7580" g="w7579" t="punc" cr="punc:w7579" w="and" l="~" p="U"/>
+     <dpg d="w7581" g="w7579" t="conj" cr="conj:w7579||subj:w7584" w="vinculin" l="~" p="N"/>
+     <dpg d="E0" g="w7581" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7582" g="E0" t="whn" cr="whn:w7583" w="that" l="~" p="THAT"/>
+     <dpg d="w7582" g="w7581" t="antecedent" cr="antecedent:w7581" w="that" l="~" p="THAT"/>
+     <dpg d="w7583" g="E0" t="i" cr="rel:w7581" w="were" l="be" p="VBE"/>
+     <dpg d="w7584" g="w7583" t="pred" cr="pred:w7583" w="equivalent" l="~" p="N"/>
+     <dpg d="E7" g="w7584" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E7" g="w7581" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w7585" g="w7584" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w7586" g="w7587" t="nn" cr="nn:w7587" w="epithelioid" l="~" p="N"/>
+     <dpg d="w7587" g="w7585" t="pcomp-n" cr="mod*to*n:w7584" w="cells" l="cell" p="N"/>
+     <dpg d="w7588" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

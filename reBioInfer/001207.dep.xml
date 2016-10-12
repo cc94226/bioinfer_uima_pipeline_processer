@@ -1,0 +1,64 @@
+<rexml>
+<doc id="1207">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w19037" g="w19038" t="nn" cr="nn:w19038" w="Resonance" l="~" p="N"/>
+     <dpg d="w19038" g="w19039" t="s" cr="s+subj:w19039||s+subj:w19046" w="energy" l="~" p="N"/>
+     <dpg d="w19039" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="transfer" l="~" p="V"/>
+     <dpg d="E5" g="w19039" t="subj" cr="" w="" l="energy" p="N"/>
+     <dpg d="E5" g="w19038" t="antecedent" cr="" w="" l="energy" p="N"/>
+     <dpg d="w19040" g="w19039" t="obj" cr="obj:w19039" w="determination" l="~" p="N"/>
+     <dpg d="w19041" g="w19040" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w19042" g="w19044" t="det" cr="det:w19044" w="the" l="~" p="Det"/>
+     <dpg d="w19043" g="w19044" t="mod" cr="mod:w19044" w="following" l="~" p="A"/>
+     <dpg d="w19044" g="w19041" t="pcomp-n" cr="mod*of*n:w19040" w="distances" l="distance" p="N"/>
+     <dpg d="w19045" g="w19039" t="punc" cr="punc:w19039" w="," l="~" p="U"/>
+     <dpg d="E0" g="w19039" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w19038" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w19046" g="E0" t="i" cr="mod:w19039" w="using" l="use" p="V"/>
+     <dpg d="E6" g="w19046" t="subj" cr="" w="" l="energy" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="energy" p="N"/>
+     <dpg d="w19047" g="w19049" t="det" cr="det:w19049" w="a" l="~" p="Det"/>
+     <dpg d="w19048" g="w19049" t="mod" cr="mod:w19049" w="hybrid" l="~" p="A"/>
+     <dpg d="w19049" g="w19046" t="obj" cr="obj:w19046" w="myosin" l="~" p="N"/>
+     <dpg d="w19050" g="E4" t="punc" cr="punc:E4" w=":" l="~" p="U"/>
+     <dpg d="w19051" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="those" l="~" p="N"/>
+     <dpg d="w19052" g="w19051" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w19053" g="w19052" t="pcomp-n" cr="mod*between*n:w19051" w="Cys-55" l="Cys-55" p="N"/>
+     <dpg d="w19054" g="w19053" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w19055" g="w19059" t="det" cr="det:w19059" w="the" l="~" p="Det"/>
+     <dpg d="w19056" g="w19059" t="nn" cr="nn:w19059" w="Mercenaria" l="~" p="N"/>
+     <dpg d="w19057" g="w19059" t="mod" cr="mod:w19059" w="regulatory" l="~" p="A"/>
+     <dpg d="w19058" g="w19059" t="mod" cr="mod:w19059" w="light" l="~" p="A"/>
+     <dpg d="w19059" g="w19054" t="pcomp-n" cr="mod*on*n:w19053" w="chain" l="~" p="N"/>
+     <dpg d="w19060" g="w19059" t="punc" cr="punc:w19059" w="," l="~" p="U"/>
+     <dpg d="w19061" g="w19059" t="conj" cr="conj:w19059" w="SH-1" l="SH-1" p="N"/>
+     <dpg d="w19062" g="w19061" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w19063" g="w19067" t="det" cr="det:w19067" w="the" l="~" p="Det"/>
+     <dpg d="w19064" g="w19067" t="nn" cr="nn:w19067" w="Aequipecten" l="~" p="N"/>
+     <dpg d="w19065" g="w19067" t="nn" cr="nn:w19067" w="myosin" l="~" p="N"/>
+     <dpg d="w19066" g="w19067" t="mod" cr="mod:w19067" w="heavy" l="~" p="A"/>
+     <dpg d="w19067" g="w19062" t="pcomp-n" cr="mod*on*n:w19061" w="chain" l="~" p="N"/>
+     <dpg d="w19068" g="w19067" t="punc" cr="punc:w19067" w="," l="~" p="U"/>
+     <dpg d="w19069" g="w19067" t="punc" cr="punc:w19067" w="and" l="~" p="U"/>
+     <dpg d="w19070" g="w19067" t="conj" cr="conj:w19067" w="Cys-374" l="Cys-374" p="N"/>
+     <dpg d="w19071" g="w19070" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w19072" g="w19071" t="pcomp-n" cr="mod*of*n:w19070" w="actin" l="~" p="N"/>
+     <dpg d="w19073" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

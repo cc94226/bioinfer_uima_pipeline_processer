@@ -1,0 +1,125 @@
+<rexml>
+<doc id="258">
+  
+  <markup>
+   <nes>
+    <ne id="e955" gid="g915" t="Individual_protein" fr="w3904" to="w3904" nam="yes" sid="s1">
+     <textspan>beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.258.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e961" gid="g921" t="Individual_protein" fr="w3906" to="w3906" nam="yes" sid="s1">
+     <textspan>EGFR</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.258.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e958" gid="g918" t="Individual_protein" fr="w3917" to="w3917" nam="yes" sid="s1">
+     <textspan>EGFR</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.258.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e960" gid="g920" t="Protein_family_or_group" fr="w3918" to="w3919" nam="yes" sid="s1">
+     <textspan>tyrosine kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.258.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e956" gid="g916" t="Individual_protein" fr="w3924" to="w3924" nam="yes" sid="s1">
+     <textspan>alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.258.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e959" gid="g919" t="Individual_protein" fr="w3926" to="w3926" nam="yes" sid="s1">
+     <textspan>E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.258.5"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r366" t="BIND" e1="e955" e2="e961" re="e954">
+     <textspan>association of beta-catenin with EGFR</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.258.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r367" t="MEMBER" e1="e960" e2="e958" re="">
+     <textspan>EGFR tyrosine kinase</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r368" t="UNBIND" e1="e956" e2="e959" re="e957">
+     <textspan>dissociation of alpha-catenin from E-cadherin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.258.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="UNBIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

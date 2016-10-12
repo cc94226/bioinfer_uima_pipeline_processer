@@ -1,0 +1,55 @@
+<rexml>
+<doc id="600">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8694" g="w8695" t="s" cr="s+subj:w8695||s+subj:w8697||s+obj:w8710" w="alpha-SNAP" l="alpha-SNAP" p="N"/>
+     <dpg d="w8695" g="E2" t="i" cr="" w="binds" l="bind" p="V"/>
+     <dpg d="E6" g="w8695" t="subj" cr="" w="" l="alpha-SNAP" p="N"/>
+     <dpg d="E6" g="w8694" t="antecedent" cr="" w="" l="alpha-SNAP" p="N"/>
+     <dpg d="E1" g="w8695" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w8694" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w8696" g="w8697" t="aux" cr="aux:w8697" w="to" l="~" p="Aux"/>
+     <dpg d="w8697" g="E1" t="i" cr="mod:w8695" w="predicted" l="predict" p="V"/>
+     <dpg d="E7" g="w8697" t="subj" cr="" w="" l="alpha-SNAP" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="alpha-SNAP" p="N"/>
+     <dpg d="w8698" g="w8700" t="nn" cr="nn:w8700" w="alpha-helical" l="alpha-helical" p="N"/>
+     <dpg d="w8699" g="w8700" t="mod" cr="mod:w8700" w="coiled-coil" l="coiled-coil" p="A"/>
+     <dpg d="w8700" g="w8697" t="obj" cr="obj:w8697" w="regions" l="region" p="N"/>
+     <dpg d="w8701" g="w8700" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w8702" g="w8701" t="pcomp-n" cr="mod*of*n:w8700" w="syntaxin" l="~" p="N"/>
+     <dpg d="w8703" g="w8702" t="punc" cr="punc:w8702" w="and" l="~" p="U"/>
+     <dpg d="w8704" g="w8702" t="conj" cr="conj:w8702||obj:w8706" w="SNAP-25" l="SNAP-25" p="N"/>
+     <dpg d="w8705" g="w8704" t="punc" cr="punc:w8704" w="," l="~" p="U"/>
+     <dpg d="w8706" g="w8704" t="vrel" cr="vrel:w8704" w="shown" l="show" p="V"/>
+     <dpg d="E8" g="w8706" t="obj" cr="" w="" l="SNAP-25" p="N"/>
+     <dpg d="E8" g="w8704" t="antecedent" cr="" w="" l="SNAP-25" p="N"/>
+     <dpg d="w8707" g="w8706" t="mod" cr="mod:w8706" w="previously" l="~" p="A"/>
+     <dpg d="E0" g="w8706" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w8708" g="w8710" t="aux" cr="aux:w8710" w="to" l="~" p="Aux"/>
+     <dpg d="w8709" g="w8710" t="be" cr="be:w8710" w="be" l="~" p="Be"/>
+     <dpg d="w8710" g="E0" t="i" cr="mod:w8706" w="engaged" l="engage" p="V"/>
+     <dpg d="E9" g="w8710" t="obj" cr="" w="" l="~" p="N"/>
+     <dpg d="E9" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w8711" g="w8710" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w8712" g="w8714" t="gen" cr="gen:w8714" w="their" l="~" p="N"/>
+     <dpg d="w8713" g="w8714" t="mod" cr="mod:w8714" w="direct" l="~" p="A"/>
+     <dpg d="w8714" g="w8711" t="pcomp-n" cr="mod*in*n:w8710" w="interaction" l="~" p="N"/>
+     <dpg d="w8715" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

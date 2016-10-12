@@ -1,0 +1,88 @@
+<rexml>
+<doc id="1652">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26360" g="w26361" t="det" cr="det:w26361" w="The" l="~" p="Det"/>
+     <dpg d="w26361" g="w26362" t="s" cr="s+subj:w26362" w="results" l="result" p="N"/>
+     <dpg d="w26362" g="E2" t="i" cr="UNSPECRELTYPE:w26415" w="indicate" l="~" p="V"/>
+     <dpg d="E5" g="w26362" t="subj" cr="" w="" l="result" p="N"/>
+     <dpg d="E5" g="w26361" t="antecedent" cr="" w="" l="result" p="N"/>
+     <dpg d="E1" g="w26362" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26363" g="E1" t="c" cr="c:w26370" w="that" l="~" p="COMP"/>
+     <dpg d="w26364" g="E1" t="punc" cr="punc:w26370" w="(" l="~" p="U"/>
+     <dpg d="w26365" g="w26367" t="det" cr="det:w26367" w="a" l="~" p="Det"/>
+     <dpg d="w26366" g="w26367" t="punc" cr="punc:w26367" w=")" l="~" p="U"/>
+     <dpg d="w26367" g="w26370" t="s" cr="s+subj:w26370" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w26368" g="w26367" t="punc" cr="punc:w26367" w="and" l="~" p="U"/>
+     <dpg d="w26369" g="w26367" t="conj" cr="conj:w26367" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w26370" g="E1" t="i" cr="fc:w26362" w="differ" l="~" p="V"/>
+     <dpg d="E6" g="w26370" t="subj" cr="" w="" l="plakoglobin" p="N"/>
+     <dpg d="E6" g="w26367" t="antecedent" cr="" w="" l="plakoglobin" p="N"/>
+     <dpg d="w26371" g="w26370" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w26372" g="w26374" t="gen" cr="gen:w26374" w="their" l="~" p="N"/>
+     <dpg d="w26373" g="w26374" t="mod" cr="mod:w26374" w="nuclear" l="~" p="A"/>
+     <dpg d="w26374" g="w26371" t="pcomp-n" cr="mod*in*n:w26370" w="translocation" l="~" p="N"/>
+     <dpg d="w26375" g="E4" t="punc" cr="punc:w26415" w="and" l="~" p="U"/>
+     <dpg d="w26376" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w26415" w="complexing" l="~" p="A"/>
+     <dpg d="w26377" g="w26376" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w26378" g="w26377" t="pcomp-n" cr="mod*with*n:w26376" w="LEF-1" l="LEF-1" p="N"/>
+     <dpg d="w26379" g="w26378" t="punc" cr="punc:w26378" w="and" l="~" p="U"/>
+     <dpg d="w26380" g="w26378" t="conj" cr="conj:w26378" w="vinculin" l="~" p="N"/>
+     <dpg d="w26381" g="E4" t="punc" cr="punc:w26415" w=";" l="~" p="U"/>
+     <dpg d="w26382" g="E4" t="punc" cr="punc:w26415" w="(" l="~" p="U"/>
+     <dpg d="w26383" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w26415" w="b" l="~" p="N"/>
+     <dpg d="w26384" g="E4" t="punc" cr="punc:w26415" w=")" l="~" p="U"/>
+     <dpg d="E0" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26385" g="w26386" t="lex-mod" cr="lex-mod:w26386" w="LEF-1" l="~" p="U"/>
+     <dpg d="w26386" g="w26387" t="mod" cr="mod:w26387" w="-dependent" l="LEF-1 -dependent" p="A"/>
+     <dpg d="w26387" g="w26390" t="s" cr="s+obj:w26390" w="transactivation" l="~" p="N"/>
+     <dpg d="w26388" g="w26390" t="be" cr="be:w26390" w="is" l="be" p="be"/>
+     <dpg d="w26389" g="w26390" t="amod" cr="amod:w26390" w="preferentially" l="~" p="A"/>
+     <dpg d="w26390" g="E0" t="i" cr="UNSPECRELTYPE:w26415" w="driven" l="drive" p="V"/>
+     <dpg d="E7" g="w26390" t="obj" cr="" w="" l="transactivation" p="N"/>
+     <dpg d="E7" g="w26387" t="antecedent" cr="" w="" l="transactivation" p="N"/>
+     <dpg d="w26391" g="w26390" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w26392" g="w26391" t="pcomp-n" cr="by-subj*by*n:w26390" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w26393" g="E4" t="punc" cr="punc:w26415" w=";" l="~" p="U"/>
+     <dpg d="w26394" g="E4" t="punc" cr="punc:w26415" w="and" l="~" p="U"/>
+     <dpg d="w26395" g="E4" t="punc" cr="punc:w26415" w="(" l="~" p="U"/>
+     <dpg d="w26396" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w26415" w="c" l="~" p="N"/>
+     <dpg d="w26397" g="E4" t="punc" cr="punc:w26415" w=")" l="~" p="U"/>
+     <dpg d="w26398" g="w26400" t="det" cr="det:w26400" w="the" l="~" p="Det"/>
+     <dpg d="w26399" g="w26400" t="mod" cr="mod:w26400" w="cytoplasmic" l="~" p="A"/>
+     <dpg d="w26400" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w26415" w="partners" l="partner" p="N"/>
+     <dpg d="w26401" g="w26400" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26402" g="w26401" t="pcomp-n" cr="mod*of*n:w26400" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w26403" g="w26402" t="punc" cr="punc:w26402" w="," l="~" p="U"/>
+     <dpg d="w26404" g="w26402" t="conj" cr="conj:w26402" w="cadherin" l="~" p="N"/>
+     <dpg d="w26405" g="w26404" t="punc" cr="punc:w26404" w="and" l="~" p="U"/>
+     <dpg d="w26406" g="w26404" t="conj" cr="conj:w26404" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w26407" g="E4" t="punc" cr="punc:w26415" w="," l="~" p="U"/>
+     <dpg d="w26408" g="E4" t="punc" cr="punc:w26415" w="can" l="~" p="U"/>
+     <dpg d="w26409" g="E4" t="punc" cr="punc:w26415" w="sequester" l="~" p="U"/>
+     <dpg d="w26410" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w26415" w="it" l="~" p="N"/>
+     <dpg d="w26411" g="E4" t="p" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w26412" g="w26413" t="det" cr="det:w26413" w="the" l="~" p="Det"/>
+     <dpg d="w26413" g="w26411" t="pcomp-n" cr="p*to*n:w26415" w="cytoplasm" l="~" p="N"/>
+     <dpg d="w26414" g="E4" t="punc" cr="punc:w26415" w="and" l="~" p="U"/>
+     <dpg d="w26415" g="E4" t="i" cr="" w="inhibit" l="~" p="V"/>
+     <dpg d="w26416" g="w26418" t="gen" cr="gen:w26418" w="its" l="~" p="N"/>
+     <dpg d="w26417" g="w26418" t="mod" cr="mod:w26418" w="transcriptional" l="~" p="A"/>
+     <dpg d="w26418" g="w26415" t="obj" cr="obj:w26415" w="activity" l="~" p="N"/>
+     <dpg d="w26419" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

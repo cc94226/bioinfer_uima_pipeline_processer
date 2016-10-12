@@ -1,0 +1,38 @@
+<rexml>
+<doc id="15">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w209" g="E0" t="mod" cr="mod:w214" w="Accordingly" l="~" p="A"/>
+     <dpg d="w210" g="E0" t="punc" cr="punc:w214" w="," l="~" p="U"/>
+     <dpg d="w211" g="w214" t="s" cr="s+obj:w214" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w212" g="w214" t="be" cr="be:w214" w="is" l="be" p="be"/>
+     <dpg d="w213" g="w214" t="amod" cr="amod:w214" w="also" l="~" p="A"/>
+     <dpg d="w214" g="E0" t="i" cr="" w="found" l="find" p="V"/>
+     <dpg d="E2" g="w214" t="obj" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="E2" g="w211" t="antecedent" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="w215" g="w214" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w216" g="w217" t="det" cr="det:w217" w="these" l="~" p="Det"/>
+     <dpg d="w217" g="w215" t="pcomp-n" cr="mod*in*n:w214" w="structures" l="structure" p="N"/>
+     <dpg d="w218" g="w214" t="punc" cr="punc:w214" w="," l="~" p="U"/>
+     <dpg d="w219" g="w214" t="mod" cr="mod:w214" w="again" l="~" p="A"/>
+     <dpg d="w220" g="w219" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w221" g="w222" t="det" cr="det:w222" w="the" l="~" p="Det"/>
+     <dpg d="w222" g="w220" t="pcomp-n" cr="mod*in*n:w219" w="absence" l="~" p="N"/>
+     <dpg d="w223" g="w222" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w224" g="w223" t="pcomp-n" cr="mod*of*n:w222" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w225" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

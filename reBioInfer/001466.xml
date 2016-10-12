@@ -1,0 +1,157 @@
+<rexml>
+<doc id="1466">
+  <text>
+<p><s id="s1"><w id="w23044">The</w> <w id="w23045">E-cadherin</w><w id="w23046">-</w><w id="w23047">associated</w> <w id="w23048">proteins</w> <w id="w23049">alpha-catenin</w> <w id="w23050">and</w> <w id="w23051">beta-catenin</w> <w id="w23052">were</w> <w id="w23053">not</w> <w id="w23054">significantly</w> <w id="w23055">affected</w> <w id="w23056">by</w> <w id="w23057">treatment</w> <w id="w23058">with</w> <w id="w23059">TPA</w> <w id="w23060">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5325" gid="g5081" t="Individual_protein" fr="w23045" to="w23045" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1466.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5326" gid="g5082" t="RELATIONSHIP_TEXTBINDING" fr="w23047" to="w23047">
+     <textspan type="extent">associated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1466.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5327" gid="g5083" t="Individual_protein" fr="w23048" to="w23051" nam="yes">
+     <textspan type="extent">proteins [..] beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1466.2"/>
+      <exattr n="nst" v="st.1466.2.0"/>
+      <exattr n="nst" v="st.1466.5.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5328" gid="g5084" t="Individual_protein" fr="w23048" to="w23049" nam="yes">
+     <textspan type="extent">proteins alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1466.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5329" gid="g5085" t="Artificial" fr="w23057" to="w23059" nam="yes">
+     <textspan type="extent">treatment with TPA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Artificial"/>
+      <exattr n="bd" v="e.1466.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5330" gid="g5086" t="RELATIONSHIP_TEXTBINDING" fr="w23053" to="w23053">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1466.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5331" gid="g5087" t="RELATIONSHIP_TEXTBINDING" fr="w23055" to="w23056">
+     <textspan type="extent">affected by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1466.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5332" gid="g5088" t="Individual_protein" fr="w23049" to="w23049" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1466.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5333" gid="g5089" t="Individual_protein" fr="w23051" to="w23051" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1466.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e5334" gid="g5090" t="Individual_protein" fr="w23059" to="w23059" nam="yes">
+     <textspan type="extent">TPA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1466.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2056" t="RELATE" e1="e5328" e2="e5325" re="e5326">
+     <textspan type="extent">E-cadherin - associated proteins alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1466.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2057" t="RELATE" e1="e5327" e2="e5325" re="e5326">
+     <textspan type="extent">E-cadherin - associated proteins alpha-catenin and beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1466.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2059" t="AFFECT" e1="e5329" e2="e5328" re="e5331">
+     <textspan type="extent">proteins alpha-catenin and beta-catenin were not significantly affected by treatment with TPA</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1466.6"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2061" t="AFFECT" e1="e5329" e2="e5327" re="e5331">
+     <textspan type="extent">proteins alpha-catenin and beta-catenin were not significantly affected by treatment with TPA</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1466.6"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

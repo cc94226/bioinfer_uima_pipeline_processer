@@ -1,0 +1,117 @@
+<rexml>
+<doc id="1411">
+  <text>
+<p><s id="s1"><w id="w22067">The</w> <w id="w22068">cardiac</w> <w id="w22069">myosin</w> <w id="w22070">heavy</w> <w id="w22071">chain</w> <w id="w22072">Arg-403</w> <w id="w22073">--</w> <w id="w22074">&gt;</w> <w id="w22075">Gln</w> <w id="w22076">mutation</w> <w id="w22077">that</w> <w id="w22078">causes</w> <w id="w22079">hypertrophic</w> <w id="w22080">cardiomyopathy</w> <w id="w22081">does</w> <w id="w22082">not</w> <w id="w22083">affect</w> <w id="w22084">the</w> <w id="w22085">actin</w><w id="w22086">-</w> <w id="w22087">or</w> <w id="w22088">ATP-</w><w id="w22089">binding</w> <w id="w22090">capacities</w> <w id="w22091">of</w> <w id="w22092">two</w> <w id="w22093">size-limited</w> <w id="w22094">recombinant</w> <w id="w22095">myosin</w> <w id="w22096">heavy</w> <w id="w22097">chain</w> <w id="w22098">fragments</w> <w id="w22099">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5134" gid="g4900" t="MODIFICATION" fr="w22068" to="w22076">
+     <textspan type="extent">cardiac myosin heavy chain [..] mutation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1411.0"/>
+      <exattr n="nst" v="st.1411.1.0"/>
+      <exattr n="nst" v="st.1411.2.0"/>
+      <exattr n="nst" v="st.1411.3.0"/>
+      <exattr n="nst" v="st.1411.4.0"/>
+      <exattr n="nst" v="st.1411.9.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5135" gid="g4901" t="RELATIONSHIP_TEXTBINDING" fr="w22089" to="w22089">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1411.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5136" gid="g4902" t="RELATIONSHIP_TEXTBINDING" fr="w22083" to="w22083">
+     <textspan type="extent">affect</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1411.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5137" gid="g4903" t="RELATIONSHIP_TEXTBINDING" fr="w22082" to="w22082">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1411.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5138" gid="g4904" t="Mutant" fr="w22095" to="w22098" nam="yes">
+     <textspan type="extent">myosin heavy chain fragments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.1411.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5139" gid="g4905" t="Individual_protein" fr="w22068" to="w22071" nam="yes">
+     <textspan type="extent">cardiac myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1411.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5140" gid="g4906" t="Individual_protein" fr="w22085" to="w22085" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1411.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5141" gid="g4907" t="Individual_protein" fr="w22095" to="w22097" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1411.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1967" t="AFFECT" e1="e5134" e2="e5135" re="e5136">
+     <textspan type="extent">cardiac myosin heavy chain Arg-403 -- &gt; Gln mutation that causes hypertrophic cardiomyopathy does not affect the actin - or ATP- binding capacities of two size-limited recombinant myosin heavy chain fragments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1411.2"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1968" t="BIND" e1="e5138" e2="e5140" re="e5135">
+     <textspan type="extent">actin - or ATP- binding capacities of two size-limited recombinant myosin heavy chain fragments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1411.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

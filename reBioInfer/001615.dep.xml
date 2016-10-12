@@ -1,0 +1,68 @@
+<rexml>
+<doc id="1615">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w25658" g="w25660" t="det" cr="det:w25660" w="The" l="~" p="Det"/>
+     <dpg d="w25659" g="w25660" t="mod" cr="mod:w25660" w="prominent" l="~" p="A"/>
+     <dpg d="w25660" g="E6" t="subcat" cr="subcat:E6" w="125" l="~" p="N"/>
+     <dpg d="E3" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25661" g="w25665" t="det" cr="det:w25665" w="A" l="~" p="Det"/>
+     <dpg d="w25662" g="w25665" t="mod" cr="mod:w25665" w="transverse" l="~" p="A"/>
+     <dpg d="w25663" g="w25665" t="nn" cr="nn:w25665" w="stripping" l="~" p="N"/>
+     <dpg d="w25664" g="w25665" t="nn" cr="nn:w25665" w="pattern" l="~" p="N"/>
+     <dpg d="w25665" g="w25673" t="s" cr="s:w25673||subj:w25675" w="characteristic" l="~" p="N"/>
+     <dpg d="w25666" g="w25665" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25667" g="w25669" t="det" cr="det:w25669" w="the" l="~" p="Det"/>
+     <dpg d="w25668" g="w25669" t="nn" cr="nn:w25669" w="actin" l="~" p="N"/>
+     <dpg d="w25669" g="w25666" t="pcomp-n" cr="mod*of*n:w25665" w="cross-bridges" l="cross-bridges" p="N"/>
+     <dpg d="w25670" g="w25669" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w25671" g="w25672" t="det" cr="det:w25672" w="a" l="~" p="Det"/>
+     <dpg d="w25672" g="w25670" t="pcomp-n" cr="mod*in*n:w25669" w="bundle" l="~" p="N"/>
+     <dpg d="w25673" g="E3" t="i" cr="UNSPECRELTYPE:E6" w="is" l="be" p="VBE"/>
+     <dpg d="E7" g="w25675" t="subj" cr="" w="" l="characteristic" p="N"/>
+     <dpg d="E7" g="w25665" t="antecedent" cr="" w="" l="characteristic" p="N"/>
+     <dpg d="w25674" g="w25675" t="mod" cr="mod:w25675" w="also" l="~" p="A"/>
+     <dpg d="w25675" g="w25673" t="pred" cr="pred:w25673" w="absent" l="~" p="A"/>
+     <dpg d="w25676" g="w25675" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w25677" g="w25678" t="nn" cr="nn:w25678" w="hair" l="~" p="N"/>
+     <dpg d="w25678" g="w25676" t="pcomp-n" cr="mod*in*n:w25675||s+subj:w25679" w="borders" l="border" p="N"/>
+     <dpg d="E2" g="w25678" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w25678" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w25679" g="E2" t="i" cr="rel:w25678" w="suggesting" l="suggest" p="V"/>
+     <dpg d="E8" g="w25679" t="subj" cr="" w="" l="border" p="N"/>
+     <dpg d="E8" g="E4" t="antecedent" cr="" w="" l="border" p="N"/>
+     <dpg d="E1" g="w25679" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25680" g="w25686" t="s" cr="s+subj:w25686" w="fimbrin" l="~" p="N"/>
+     <dpg d="w25681" g="w25680" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w25682" g="w25683" t="det" cr="det:w25683" w="the" l="~" p="Det"/>
+     <dpg d="w25683" g="w25681" t="pcomp-n" cr="mod*as*n:w25680||subj:w25685" w="component" l="~" p="N"/>
+     <dpg d="E0" g="w25683" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25684" g="E0" t="whn" cr="whn:w25685" w="that" l="~" p="THAT"/>
+     <dpg d="w25684" g="w25683" t="antecedent" cr="antecedent:w25683" w="that" l="~" p="THAT"/>
+     <dpg d="w25685" g="E0" t="i" cr="rel:w25683" w="gives" l="give" p="V"/>
+     <dpg d="E9" g="w25685" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E9" g="w25683" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w25686" g="E1" t="i" cr="fc:w25679" w="rise" l="~" p="V"/>
+     <dpg d="E10" g="w25686" t="subj" cr="" w="" l="fimbrin" p="N"/>
+     <dpg d="E10" g="w25680" t="antecedent" cr="" w="" l="fimbrin" p="N"/>
+     <dpg d="w25687" g="w25686" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w25688" g="w25690" t="det" cr="det:w25690" w="the" l="~" p="Det"/>
+     <dpg d="w25689" g="w25690" t="mod" cr="mod:w25690" w="transverse" l="~" p="A"/>
+     <dpg d="w25690" g="w25687" t="pcomp-n" cr="mod*to*n:w25686" w="stripes" l="stripe" p="N"/>
+     <dpg d="w25691" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

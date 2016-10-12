@@ -1,0 +1,160 @@
+<rexml>
+<doc id="1334">
+  
+  <markup>
+   <nes>
+    <ne id="e4784" gid="g4567" t="Individual_protein" fr="w20762" to="w20762" nam="yes" sid="s1">
+     <textspan>act1-157</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1334.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4785" gid="g4567" t="Mutant" fr="w20765" to="w20766" nam="yes" sid="s1">
+     <textspan>actin mutant</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.1334.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4795" gid="g4576" t="Individual_protein" fr="w20765" to="w20765" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1334.15"/>
+     </exattrs>
+    </ne>
+    <ne id="e4786" gid="g4568" t="Function_property" fr="w20777" to="w20789" sid="s1">
+     <textspan>defects in [..] endocytosis of pfy1-4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.1334.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4780" gid="g4563" t="Function_property" fr="w20777" to="w20780" sid="s1">
+     <textspan>defects in actin organization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.1334.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4790" gid="g4571" t="Individual_protein" fr="w20779" to="w20779" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1334.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e4787" gid="g4566" t="Individual_protein" fr="w20789" to="w20789" nam="yes" sid="s1">
+     <textspan>pfy1-4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1334.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e4783" gid="g4566" t="Mutant" fr="w20792" to="w20793" nam="yes" sid="s1">
+     <textspan>profilin mutant</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.1334.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4794" gid="g4575" t="Individual_protein" fr="w20792" to="w20792" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1334.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e4791" gid="g4572" t="Individual_protein" fr="w20796" to="w20796" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1334.11"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1818" t="SUPPRESS" e1="e4784" e2="e4780" re="e4782">
+     <textspan>act1-157 , an actin mutant with an increased intrinsic rate of nucleotide exchange , suppressed defects in actin organization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1334.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1819" t="SUPPRESS" e1="e4784" e2="e4786" re="e4782">
+     <textspan>act1-157 , an actin mutant with an increased intrinsic rate of nucleotide exchange , suppressed defects in actin organization , cell growth , and fluid-phase endocytosis of pfy1-4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1334.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1821" t="BIND" e1="e4787" e2="e4791" re="e4793">
+     <textspan>pfy1-4 , a profilin mutant defective in actin binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1334.13"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,154 @@
+<rexml>
+<doc id="1538">
+  <text>
+<p><s id="s1"><w id="w24340">The</w> <w id="w24341">junctional</w> <w id="w24342">multidomain</w> <w id="w24343">protein</w> <w id="w24344">AF-6</w> <w id="w24345">is</w> <w id="w24346">a</w> <w id="w24347">binding</w> <w id="w24348">partner</w> <w id="w24349">of</w> <w id="w24350">the</w> <w id="w24351">Rap1A</w> <w id="w24352">GTPase</w> <w id="w24353">and</w> <w id="w24354">associates</w> <w id="w24355">with</w> <w id="w24356">the</w> <w id="w24357">actin</w> <w id="w24358">cytoskeletal</w> <w id="w24359">regulator</w> <w id="w24360">profilin</w> <w id="w24361">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5653" gid="g5396" t="Individual_protein" fr="w24343" to="w24344" nam="yes">
+     <textspan type="extent">protein AF-6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1538.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5654" gid="g5397" t="RELATIONSHIP_TEXTBINDING" fr="w24354" to="w24355">
+     <textspan type="extent">associates with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1538.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5655" gid="g5398" t="Individual_protein" fr="w24357" to="w24357" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1538.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5656" gid="g5399" t="RELATIONSHIP_TEXTBINDING" fr="w24347" to="w24347">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1538.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5657" gid="g5400" t="Protein_family_or_group" fr="w24352" to="w24352" nam="yes">
+     <textspan type="extent">GTPase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1538.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5658" gid="g5401" t="Individual_protein" fr="w24360" to="w24360" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1538.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5659" gid="g5402" t="RELATIONSHIP_TEXTBINDING" fr="w24359" to="w24359">
+     <textspan type="extent">regulator</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1538.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5660" gid="g5403" t="Individual_protein" fr="w24344" to="w24344" nam="yes">
+     <textspan type="extent">AF-6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1538.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5661" gid="g5404" t="Individual_protein" fr="w24351" to="w24351" nam="yes">
+     <textspan type="extent">Rap1A</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1538.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2168" t="BIND" e1="e5653" e2="e5661" re="e5656">
+     <textspan type="extent">protein AF-6 is a binding partner of the Rap1A</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1538.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2169" t="MEMBER" e1="e5657" e2="e5661" re="">
+     <textspan type="extent">Rap1A GTPase</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2170" t="BIND" e1="e5653" e2="e5658" re="e5654">
+     <textspan type="extent">protein AF-6 is a binding partner of the Rap1A GTPase and associates with the actin cytoskeletal regulator profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1538.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2171" t="MODULATE" e1="e5658" e2="e5655" re="e5659">
+     <textspan type="extent">actin cytoskeletal regulator profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1538.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="MODULATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,70 @@
+<rexml>
+<doc id="351">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5237" g="E2" t="mod" cr="mod:w5249" w="Conversely" l="~" p="A"/>
+     <dpg d="w5238" g="E2" t="punc" cr="punc:w5249" w="," l="~" p="U"/>
+     <dpg d="w5239" g="w5249" t="s" cr="s+subj:w5249" w="inhibition" l="~" p="N"/>
+     <dpg d="w5240" g="w5239" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5241" g="w5243" t="gen" cr="gen:w5243" w="LIMK" l="~" p="N"/>
+     <dpg d="w5242" g="w5241" t="poss" cr="poss:w5241" w="'s" l="~" p="U"/>
+     <dpg d="w5243" g="w5240" t="pcomp-n" cr="mod*of*n:w5239" w="activity" l="~" p="N"/>
+     <dpg d="w5244" g="w5243" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E1" g="w5244" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="s+subj:w5245" w="" l="~" p="N"/>
+     <dpg d="w5245" g="E1" t="i" cr="mod*by*c:w5243" w="expressing" l="express" p="V"/>
+     <dpg d="E6" g="w5245" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w5246" g="w5248" t="det" cr="det:w5248" w="a" l="~" p="Det"/>
+     <dpg d="w5247" g="w5248" t="mod" cr="mod:w5248" w="dominant" l="~" p="A"/>
+     <dpg d="w5248" g="w5245" t="obj" cr="obj:w5245" w="negative" l="~" p="N"/>
+     <dpg d="w5249" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="construct" l="~" p="V"/>
+     <dpg d="E7" g="w5249" t="subj" cr="" w="" l="inhibition" p="N"/>
+     <dpg d="E7" g="w5239" t="antecedent" cr="" w="" l="inhibition" p="N"/>
+     <dpg d="w5250" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="E0" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5251" g="w5253" t="lex-mod" cr="lex-mod:w5253" w="LIMK1-" l="~" p="U"/>
+     <dpg d="w5252" g="w5253" t="lex-mod" cr="lex-mod:w5253" w="," l="~" p="U"/>
+     <dpg d="w5253" g="w5254" t="mod" cr="mod:w5254" w="or" l="LIMK1- , or" p="A"/>
+     <dpg d="w5254" g="w5262" t="s" cr="s+subj:w5262||subj:w5273" w="expression" l="~" p="N"/>
+     <dpg d="w5255" g="w5254" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5256" g="w5261" t="det" cr="det:w5261" w="the" l="~" p="Det"/>
+     <dpg d="w5257" g="w5258" t="mod" cr="mod:w5258" w="constitutively" l="~" p="A"/>
+     <dpg d="w5258" g="w5261" t="mod" cr="mod:w5261" w="active" l="~" p="A"/>
+     <dpg d="w5259" g="w5261" t="nn" cr="nn:w5261" w="S3A" l="~" p="N"/>
+     <dpg d="w5260" g="w5261" t="nn" cr="nn:w5261" w="cofilin" l="~" p="N"/>
+     <dpg d="w5261" g="w5255" t="pcomp-n" cr="mod*of*n:w5254" w="mutant" l="~" p="N"/>
+     <dpg d="w5262" g="E0" t="i" cr="UNSPECRELTYPE:E5" w="induces" l="induce" p="V"/>
+     <dpg d="E8" g="w5262" t="subj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E8" g="w5254" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w5263" g="w5262" t="obj" cr="obj:w5262" w="loss" l="~" p="N"/>
+     <dpg d="w5264" g="w5263" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5265" g="w5266" t="nn" cr="nn:w5266" w="actin" l="~" p="N"/>
+     <dpg d="w5266" g="w5264" t="pcomp-n" cr="mod*of*n:w5263" w="filaments" l="filament" p="N"/>
+     <dpg d="w5267" g="w5266" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w5268" g="w5270" t="det" cr="det:w5270" w="the" l="~" p="Det"/>
+     <dpg d="w5269" g="w5270" t="mod" cr="mod:w5270" w="phagocytic" l="~" p="A"/>
+     <dpg d="w5270" g="w5267" t="pcomp-n" cr="mod*at*n:w5266" w="cup" l="~" p="N"/>
+     <dpg d="w5271" g="w5262" t="punc" cr="punc:w5262" w="and" l="~" p="U"/>
+     <dpg d="w5272" g="w5273" t="mod-before" cr="mod-before:w5273" w="also" l="~" p="A"/>
+     <dpg d="w5273" g="w5262" t="conj" cr="conj:w5262" w="inhibits" l="inhibit" p="V"/>
+     <dpg d="E9" g="w5273" t="subj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E9" g="w5254" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w5274" g="w5273" t="obj" cr="obj:w5273" w="phagocytosis" l="~" p="N"/>
+     <dpg d="w5275" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

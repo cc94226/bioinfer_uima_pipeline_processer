@@ -1,0 +1,80 @@
+<rexml>
+<doc id="124">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1987" g="w2005" t="s" cr="s+subj:w2005||s+subj:w2027" w="Analysis" l="~" p="N"/>
+     <dpg d="w1988" g="w1987" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w1989" g="w1990" t="det" cr="det:w1990" w="the" l="~" p="Det"/>
+     <dpg d="w1990" g="w1988" t="pcomp-n" cr="mod*of*n:w1987" w="formation" l="~" p="N"/>
+     <dpg d="w1991" g="w1990" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w1992" g="w1995" t="det" cr="det:w1995" w="the" l="~" p="Det"/>
+     <dpg d="w1993" g="w1995" t="nn" cr="nn:w1995" w="calf" l="~" p="N"/>
+     <dpg d="w1994" g="w1995" t="nn" cr="nn:w1995" w="spleen" l="~" p="N"/>
+     <dpg d="w1995" g="w1991" t="pcomp-n" cr="mod*of*n:w1990" w="complex" l="~" p="N"/>
+     <dpg d="w1996" g="w1995" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w1997" g="w1998" t="det" cr="det:w1998" w="the" l="~" p="Det"/>
+     <dpg d="w1998" g="w1996" t="pcomp-n" cr="mod*in*n:w1995" w="presence" l="~" p="N"/>
+     <dpg d="w1999" g="w1998" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="E2" g="w1999" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E2" t="s" cr="s+subj:w2000" w="" l="~" p="N"/>
+     <dpg d="w2000" g="E2" t="i" cr="mod*of*c:w1998" w="varying" l="vary" p="V"/>
+     <dpg d="E7" g="w2000" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w2001" g="w2000" t="obj" cr="obj:w2000" w="concentrations" l="concentration" p="N"/>
+     <dpg d="w2002" g="w2001" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2003" g="w2004" t="mod" cr="mod:w2004" w="divalent" l="~" p="A"/>
+     <dpg d="w2004" g="w2002" t="pcomp-n" cr="mod*of*n:w2001" w="cations" l="cation" p="N"/>
+     <dpg d="w2005" g="E3" t="i" cr="" w="gave" l="give" p="V"/>
+     <dpg d="E8" g="w2005" t="subj" cr="" w="" l="analysis" p="N"/>
+     <dpg d="E8" g="w1987" t="antecedent" cr="" w="" l="analysis" p="N"/>
+     <dpg d="w2006" g="w2005" t="obj1" cr="obj1:w2005" w="evidence" l="~" p="N"/>
+     <dpg d="w2007" g="w2006" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w2008" g="w2009" t="det" cr="det:w2009" w="the" l="~" p="Det"/>
+     <dpg d="w2009" g="w2007" t="pcomp-n" cr="mod*for*n:w2006" w="presence" l="~" p="N"/>
+     <dpg d="w2010" g="w2009" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2011" g="w2012" t="det" cr="det:w2012" w="a" l="~" p="Det"/>
+     <dpg d="w2012" g="w2010" t="pcomp-n" cr="mod*of*n:w2009" w="high-affinity" l="high-affinity" p="N"/>
+     <dpg d="w2013" g="w2014" t="mod" cr="mod:w2014" w="divalent-cation-binding" l="divalent-cation-binding" p="A"/>
+     <dpg d="w2014" g="w2005" t="obj2" cr="obj2:w2005||subj:w2025" w="site" l="~" p="N"/>
+     <dpg d="w2015" g="w2014" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w2016" g="w2020" t="det" cr="det:w2020" w="the" l="~" p="Det"/>
+     <dpg d="w2017" g="w2020" t="nn" cr="nn:w2020" w="spleen" l="~" p="N"/>
+     <dpg d="w2018" g="w2020" t="nn" cr="nn:w2020" w="actin" l="~" p="N"/>
+     <dpg d="w2019" g="w2020" t="punc" cr="punc:w2020" w="(" l="~" p="U"/>
+     <dpg d="w2020" g="w2015" t="pcomp-n" cr="mod*on*n:w2014" w="beta" l="~" p="N"/>
+     <dpg d="w2021" g="w2020" t="punc" cr="punc:w2020" w="," l="~" p="U"/>
+     <dpg d="w2022" g="w2020" t="appo" cr="appo:w2020" w="gamma" l="~" p="N"/>
+     <dpg d="w2023" g="w2014" t="punc" cr="punc:w2014" w=")" l="~" p="U"/>
+     <dpg d="E1" g="w2014" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2024" g="E1" t="whn" cr="whn:w2025" w="which" l="~" p="N"/>
+     <dpg d="w2024" g="w2014" t="antecedent" cr="antecedent:w2014" w="which" l="~" p="N"/>
+     <dpg d="w2025" g="E1" t="i" cr="rel:w2014" w="appears" l="appear" p="V"/>
+     <dpg d="E9" g="w2025" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E9" g="w2014" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="E0" g="w2025" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w1987" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w2026" g="w2027" t="aux" cr="aux:w2027" w="to" l="~" p="Aux"/>
+     <dpg d="w2027" g="E0" t="i" cr="mod:w2025" w="regulate" l="~" p="V"/>
+     <dpg d="E10" g="w2027" t="subj" cr="" w="" l="analysis" p="N"/>
+     <dpg d="E10" g="E4" t="antecedent" cr="" w="" l="analysis" p="N"/>
+     <dpg d="w2028" g="w2029" t="det" cr="det:w2029" w="the" l="~" p="Det"/>
+     <dpg d="w2029" g="w2027" t="obj" cr="obj:w2027" w="interaction" l="~" p="N"/>
+     <dpg d="w2030" g="w2029" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w2031" g="w2030" t="pcomp-n" cr="mod*with*n:w2029" w="profilin" l="~" p="N"/>
+     <dpg d="w2032" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

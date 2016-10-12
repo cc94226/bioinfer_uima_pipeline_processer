@@ -1,0 +1,96 @@
+<rexml>
+<doc id="1618">
+  <text>
+<p><s id="s1"><w id="w25795">The</w> <w id="w25796">protein</w> <w id="w25797">has</w> <w id="w25798">the</w> <w id="w25799">two</w> <w id="w25800">conserved</w> <w id="w25801">domains</w> <w id="w25802">identified</w> <w id="w25803">as</w> <w id="w25804">actin</w> <w id="w25805">and</w> <w id="w25806">phosphatidylinositol</w> <w id="w25807">4,5-biphosphate</w> <w id="w25808">(</w> <w id="w25809">PIP2</w> <w id="w25810">)</w> <w id="w25811">binding</w> <w id="w25812">sites</w> <w id="w25813">found</w> <w id="w25814">in</w> <w id="w25815">members</w> <w id="w25816">of</w> <w id="w25817">the</w> <w id="w25818">cofilin</w> <w id="w25819">family</w> <w id="w25820">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5962" gid="g5683" t="Individual_protein" fr="w25804" to="w25804" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1618.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5963" gid="g5684" t="RELATIONSHIP_TEXTBINDING" fr="w25811" to="w25811">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1618.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5964" gid="g5685" t="Individual_protein" fr="w25815" to="w25819" nam="yes">
+     <textspan type="extent">members of the cofilin family</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1618.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5965" gid="g5686" t="Substructure_of_protein" fr="w25812" to="w25819" nam="yes">
+     <textspan type="extent">sites found in members of the cofilin family</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1618.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5966" gid="g5687" t="Protein_family_or_group" fr="w25817" to="w25819" nam="yes">
+     <textspan type="extent">the cofilin family</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1618.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5967" gid="g5688" t="Individual_protein" fr="w25818" to="w25818" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1618.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2279" t="BIND" e1="e5965" e2="e5962" re="e5963">
+     <textspan type="extent">actin and phosphatidylinositol 4,5-biphosphate ( PIP2 ) binding sites found in members of the cofilin family</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1618.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,66 @@
+<rexml>
+<doc id="78">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1222" g="w1229" t="s" cr="s+obj:w1229" w="All" l="~" p="N"/>
+     <dpg d="w1223" g="w1222" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w1224" g="w1226" t="det" cr="det:w1226" w="the" l="~" p="Det"/>
+     <dpg d="w1225" g="w1226" t="mod" cr="mod:w1226" w="experimental" l="~" p="A"/>
+     <dpg d="w1226" g="w1223" t="pcomp-n" cr="mod*of*n:w1222" w="data" l="~" p="N"/>
+     <dpg d="w1227" g="w1229" t="be" cr="be:w1229" w="were" l="be" p="be"/>
+     <dpg d="w1228" g="w1229" t="amod" cr="amod:w1229" w="quantitatively" l="~" p="A"/>
+     <dpg d="w1229" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="accounted" l="account for" p="V"/>
+     <dpg d="w1230" g="w1229" t="lex-mod" cr="lex-mod:w1229" w="for" l="~" p="U"/>
+     <dpg d="E4" g="w1229" t="obj" cr="" w="" l="all" p="N"/>
+     <dpg d="E4" g="w1222" t="antecedent" cr="" w="" l="all" p="N"/>
+     <dpg d="w1231" g="w1229" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w1232" g="w1233" t="det" cr="det:w1233" w="the" l="~" p="Det"/>
+     <dpg d="w1233" g="w1231" t="pcomp-n" cr="mod*on*n:w1229" w="basis" l="~" p="N"/>
+     <dpg d="w1234" g="w1233" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w1235" g="w1237" t="det" cr="det:w1237" w="a" l="~" p="Det"/>
+     <dpg d="w1236" g="w1237" t="nn" cr="nn:w1237" w="1:1" l="~" p="N"/>
+     <dpg d="w1237" g="w1234" t="pcomp-n" cr="mod*of*n:w1233" w="complex" l="~" p="N"/>
+     <dpg d="w1238" g="w1237" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w1239" g="w1238" t="pcomp-n" cr="mod*between*n:w1237" w="profilin" l="~" p="N"/>
+     <dpg d="w1240" g="w1239" t="punc" cr="punc:w1239" w="and" l="~" p="U"/>
+     <dpg d="w1241" g="w1242" t="mod" cr="mod:w1242" w="monomeric" l="~" p="A"/>
+     <dpg d="w1242" g="w1239" t="conj" cr="conj:w1239" w="actin" l="~" p="N"/>
+     <dpg d="w1243" g="w1242" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w1244" g="w1245" t="det" cr="det:w1245" w="a" l="~" p="Det"/>
+     <dpg d="w1245" g="w1243" t="pcomp-n" cr="mod*with*n:w1242" w="Kr" l="~" p="N"/>
+     <dpg d="w1246" g="w1245" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w1247" g="w1249" t="lex-mod" cr="lex-mod:w1249" w="4" l="~" p="U"/>
+     <dpg d="w1248" g="w1249" t="lex-mod" cr="lex-mod:w1249" w="and" l="~" p="U"/>
+     <dpg d="w1249" g="w1250" t="nn" cr="nn:w1250" w="9" l="4 and 9" p="N"/>
+     <dpg d="w1250" g="w1246" t="pcomp-n" cr="mod*between*n:w1245" w="microM" l="~" p="N"/>
+     <dpg d="w1251" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1252" g="w1254" t="det" cr="det:w1254" w="the" l="~" p="Det"/>
+     <dpg d="w1253" g="w1254" t="post" cr="post:w1254" w="same" l="~" p="PostDet"/>
+     <dpg d="w1254" g="w1255" t="s" cr="s+subj:w1255" w="value" l="~" p="N"/>
+     <dpg d="w1255" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="obtained" l="obtain" p="V"/>
+     <dpg d="E5" g="w1255" t="subj" cr="" w="" l="value" p="N"/>
+     <dpg d="E5" g="w1254" t="antecedent" cr="" w="" l="value" p="N"/>
+     <dpg d="w1256" g="w1255" t="mod" cr="mod:w1255" w="previously" l="~" p="A"/>
+     <dpg d="w1257" g="w1256" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w1258" g="w1259" t="det" cr="det:w1259" w="the" l="~" p="Det"/>
+     <dpg d="w1259" g="w1257" t="pcomp-n" cr="mod*in*n:w1256" w="absence" l="~" p="N"/>
+     <dpg d="w1260" g="w1259" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w1261" g="w1260" t="pcomp-n" cr="mod*of*n:w1259" w="MgCl2" l="~" p="N"/>
+     <dpg d="w1262" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

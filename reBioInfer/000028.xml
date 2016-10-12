@@ -1,0 +1,144 @@
+<rexml>
+<doc id="28">
+  <text>
+<p><s id="s1"><w id="w437">Actin-depolymerizing</w> <w id="w438">factor</w> <w id="w439">(</w> <w id="w440">ADF</w> <w id="w441">)</w> <w id="w442">and</w> <w id="w443">cofilin</w> <w id="w444">define</w> <w id="w445">a</w> <w id="w446">family</w> <w id="w447">of</w> <w id="w448">actin-binding</w> <w id="w449">proteins</w> <w id="w450">essential</w> <w id="w451">for</w> <w id="w452">the</w> <w id="w453">rapid</w> <w id="w454">turnover</w> <w id="w455">of</w> <w id="w456">filamentous</w> <w id="w457">actin</w> <w id="w458">in</w> <w id="w459">vivo</w> <w id="w460">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e142" gid="g140" t="Individual_protein" fr="w437" to="w438" nam="yes">
+     <textspan type="extent">Actin-depolymerizing factor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.28.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e143" gid="g141" t="Protein_family_or_group" fr="w446" to="w449" nam="yes">
+     <textspan type="extent">family of actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.28.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e144" gid="g142" t="Individual_protein" fr="w443" to="w443" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.28.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e145" gid="g140" t="Individual_protein" fr="w440" to="w440" nam="yes">
+     <textspan type="extent">ADF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.28.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e146" gid="g143" t="RELATIONSHIP_TEXTBINDING" fr="w444" to="w446">
+     <textspan type="extent">define [..] family</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.28.4"/>
+      <exattr n="nst" v="st.28.7.0"/>
+      <exattr n="nst" v="st.28.9.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e147" gid="g144" t="RELATIONSHIP_TEXTBINDING" fr="w450" to="w451">
+     <textspan type="extent">essential for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.28.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e148" gid="g145" t="Protein_family_or_group" fr="w448" to="w449" nam="yes">
+     <textspan type="extent">actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.28.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e149" gid="g146" t="Individual_protein" fr="w457" to="w457" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.28.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e150" gid="g147" t="Process_entity" fr="w454" to="w457">
+     <textspan type="extent">turnover of [..] actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.28.8"/>
+      <exattr n="nst" v="st.28.17.0"/>
+      <exattr n="nst" v="st.28.18.0"/>
+      <exattr n="nst" v="st.28.20.0"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r54" t="MEMBER" e1="e143" e2="e142" re="e146">
+     <textspan type="extent">Actin-depolymerizing factor ( ADF ) and cofilin define a family of actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.28.4"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r55" t="MEMBER" e1="e143" e2="e144" re="e146">
+     <textspan type="extent">cofilin define a family of actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.28.4"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r56" t="CONDITION" e1="e143" e2="e150" re="e147">
+     <textspan type="extent">family of actin-binding proteins essential for the rapid turnover of filamentous actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.28.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

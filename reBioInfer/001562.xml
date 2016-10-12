@@ -1,0 +1,80 @@
+<rexml>
+<doc id="1562">
+  <text>
+<p><s id="s1"><w id="w24738">The</w> <w id="w24739">multifunctional</w> <w id="w24740">protein</w> <w id="w24741">profilin</w> <w id="w24742">is</w> <w id="w24743">one</w> <w id="w24744">of</w> <w id="w24745">the</w> <w id="w24746">most</w> <w id="w24747">abundant</w> <w id="w24748">proteins</w> <w id="w24749">in</w> <w id="w24750">the</w> <w id="w24751">cytoplasm</w> <w id="w24752">and</w> <w id="w24753">is</w> <w id="w24754">thought</w> <w id="w24755">to</w> <w id="w24756">regulate</w> <w id="w24757">actin</w> <w id="w24758">assembly</w> <w id="w24759">and</w> <w id="w24760">the</w> <w id="w24761">phosphoinositide</w> <w id="w24762">signaling</w> <w id="w24763">pathway</w> <w id="w24764">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5731" gid="g5470" t="Individual_protein" fr="w24740" to="w24741" nam="yes">
+     <textspan type="extent">protein profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1562.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5732" gid="g5471" t="RELATIONSHIP_TEXTBINDING" fr="w24756" to="w24756">
+     <textspan type="extent">regulate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1562.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5733" gid="g5472" t="ASSEMBLY" fr="w24757" to="w24758">
+     <textspan type="extent">actin assembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1562.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5734" gid="g5473" t="Individual_protein" fr="w24741" to="w24741" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1562.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5735" gid="g5474" t="Individual_protein" fr="w24757" to="w24757" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1562.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2200" t="CONTROL" e1="e5731" e2="e5733" re="e5732">
+     <textspan type="extent">protein profilin is one of the most abundant proteins in the cytoplasm and is thought to regulate actin assembly</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1562.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

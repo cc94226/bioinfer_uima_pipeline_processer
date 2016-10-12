@@ -1,0 +1,56 @@
+<rexml>
+<doc id="1647">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26255" g="w26260" t="det" cr="det:w26260" w="The" l="~" p="Det"/>
+     <dpg d="w26256" g="w26260" t="mod" cr="mod:w26260" w="resulting" l="~" p="A"/>
+     <dpg d="w26257" g="w26260" t="nn" cr="nn:w26260" w="profilin" l="~" p="N"/>
+     <dpg d="w26258" g="w26259" t="lex-mod" cr="lex-mod:w26259" w="II" l="~" p="U"/>
+     <dpg d="w26259" g="w26260" t="mod" cr="mod:w26260" w="-peptide" l="II -peptide" p="A"/>
+     <dpg d="w26260" g="w26261" t="s" cr="s+subj:w26261||subj:w26276" w="complex" l="~" p="N"/>
+     <dpg d="w26261" g="E1" t="i" cr="" w="overcomes" l="overcome" p="V"/>
+     <dpg d="E4" g="w26261" t="subj" cr="" w="" l="complex" p="N"/>
+     <dpg d="E4" g="w26260" t="antecedent" cr="" w="" l="complex" p="N"/>
+     <dpg d="w26262" g="w26264" t="det" cr="det:w26264" w="the" l="~" p="Det"/>
+     <dpg d="w26263" g="w26264" t="mod" cr="mod:w26264" w="combined" l="~" p="A"/>
+     <dpg d="w26264" g="w26261" t="obj" cr="obj:w26261" w="capacity" l="~" p="N"/>
+     <dpg d="w26265" g="w26264" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26266" g="w26267" t="nn" cr="nn:w26267" w="thymosin" l="~" p="N"/>
+     <dpg d="w26267" g="w26265" t="pcomp-n" cr="mod*of*n:w26264" w="beta4" l="~" p="N"/>
+     <dpg d="w26268" g="w26267" t="punc" cr="punc:w26267" w="and" l="~" p="U"/>
+     <dpg d="w26269" g="w26270" t="nn" cr="nn:w26270" w="profilin" l="~" p="N"/>
+     <dpg d="w26270" g="w26267" t="conj" cr="conj:w26267||s+subj:w26272" w="II" l="~" p="N"/>
+     <dpg d="E0" g="w26270" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w26270" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w26271" g="w26272" t="aux" cr="aux:w26272" w="to" l="~" p="Aux"/>
+     <dpg d="w26272" g="E0" t="i" cr="rel:w26270" w="inhibit" l="~" p="V"/>
+     <dpg d="E5" g="w26272" t="subj" cr="" w="" l="ii" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="ii" p="N"/>
+     <dpg d="w26273" g="w26274" t="nn" cr="nn:w26274" w="actin" l="~" p="N"/>
+     <dpg d="w26274" g="w26272" t="obj" cr="obj:w26272" w="nucleation" l="~" p="N"/>
+     <dpg d="w26275" g="w26261" t="punc" cr="punc:w26261" w="and" l="~" p="U"/>
+     <dpg d="w26276" g="w26261" t="conj" cr="conj:w26261" w="restores" l="restore" p="V"/>
+     <dpg d="E6" g="w26276" t="subj" cr="" w="" l="complex" p="N"/>
+     <dpg d="E6" g="w26260" t="antecedent" cr="" w="" l="complex" p="N"/>
+     <dpg d="w26277" g="w26278" t="det" cr="det:w26278" w="the" l="~" p="Det"/>
+     <dpg d="w26278" g="w26276" t="obj" cr="obj:w26276" w="extent" l="~" p="N"/>
+     <dpg d="w26279" g="w26278" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26280" g="w26281" t="nn" cr="nn:w26281" w="filament" l="~" p="N"/>
+     <dpg d="w26281" g="w26279" t="pcomp-n" cr="mod*of*n:w26278" w="formation" l="~" p="N"/>
+     <dpg d="w26282" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

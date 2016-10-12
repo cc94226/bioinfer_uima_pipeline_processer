@@ -1,0 +1,66 @@
+<rexml>
+<doc id="1170">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18488" g="E1" t="mod" cr="mod:w18491" w="Recently" l="~" p="A"/>
+     <dpg d="w18489" g="E1" t="punc" cr="punc:w18491" w="," l="~" p="U"/>
+     <dpg d="w18490" g="w18491" t="s" cr="s+subj:w18491||s+subj:w18502" w="we" l="~" p="N"/>
+     <dpg d="w18491" g="E1" t="i" cr="UNSPECRELTYPE:E6" w="characterized" l="characterize" p="V"/>
+     <dpg d="E7" g="w18491" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E7" g="w18490" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w18492" g="w18494" t="det" cr="det:w18494" w="several" l="~" p="Det"/>
+     <dpg d="w18493" g="w18494" t="nn" cr="nn:w18494" w="profilin" l="~" p="N"/>
+     <dpg d="w18494" g="w18491" t="obj" cr="obj:w18491" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w18495" g="w18494" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w18496" g="w18497" t="nn" cr="nn:w18497" w="maize" l="~" p="N"/>
+     <dpg d="w18497" g="w18495" t="pcomp-n" cr="mod*from*n:w18494" w="pollen" l="~" p="N"/>
+     <dpg d="w18498" g="w18497" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w18499" g="w18500" t="gen" cr="gen:w18500" w="their" l="~" p="N"/>
+     <dpg d="w18500" g="w18498" t="pcomp-n" cr="mod*for*n:w18497" w="ability" l="~" p="N"/>
+     <dpg d="E0" g="w18500" t="comp1" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w18490" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w18501" g="w18502" t="aux" cr="aux:w18502" w="to" l="~" p="Aux"/>
+     <dpg d="w18502" g="E0" t="i" cr="comp1:w18500" w="alter" l="~" p="V"/>
+     <dpg d="E8" g="w18502" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E8" g="E4" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w18503" g="w18502" t="obj" cr="obj:w18502" w="cytoarchitecture" l="~" p="N"/>
+     <dpg d="w18504" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="when" l="~" p="A"/>
+     <dpg d="w18505" g="w18518" t="mod" cr="mod:w18518" w="microinjected" l="~" p="A"/>
+     <dpg d="w18506" g="w18505" t="mod" cr="" w="into" l="~" p="Prep"/>
+     <dpg d="E2" g="w18506" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E2" t="s" cr="s+subj:w18507" w="" l="~" p="N"/>
+     <dpg d="w18507" g="E2" t="i" cr="mod*into*c:w18505" w="living" l="live" p="V"/>
+     <dpg d="E9" g="w18507" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E9" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w18508" g="w18509" t="nn" cr="nn:w18509" w="plant" l="~" p="N"/>
+     <dpg d="w18509" g="w18507" t="obj" cr="obj:w18507" w="cells" l="cell" p="N"/>
+     <dpg d="w18510" g="w18506" t="punc" cr="punc:w18506" w="and" l="~" p="U"/>
+     <dpg d="w18511" g="w18506" t="conj" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w18512" g="w18513" t="gen" cr="gen:w18513" w="their" l="~" p="N"/>
+     <dpg d="w18513" g="w18511" t="pcomp-n" cr="mod*for*n:w18505" w="association" l="~" p="N"/>
+     <dpg d="w18514" g="w18513" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w18515" g="w18514" t="pcomp-n" cr="mod*with*n:w18513" w="poly-L-proline" l="poly-L-proline" p="N"/>
+     <dpg d="w18516" g="w18505" t="punc" cr="punc:w18505" w="and" l="~" p="U"/>
+     <dpg d="w18517" g="w18505" t="conj" cr="conj:w18505" w="monomeric" l="~" p="A"/>
+     <dpg d="w18518" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="actin" l="~" p="N"/>
+     <dpg d="w18519" g="w18518" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w18520" g="w18521" t="nn" cr="nn:w18521" w="maize" l="~" p="N"/>
+     <dpg d="w18521" g="w18519" t="pcomp-n" cr="mod*from*n:w18518" w="pollen" l="~" p="N"/>
+     <dpg d="w18522" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

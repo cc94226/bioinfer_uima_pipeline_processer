@@ -1,0 +1,88 @@
+<rexml>
+<doc id="267">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E10" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E5" g="E10" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4029" g="E5" t="mod" cr="" w="By" l="~" p="Prep"/>
+     <dpg d="w4030" g="w4031" t="num" cr="num:w4031" w="1" l="~" p="N"/>
+     <dpg d="w4031" g="w4029" t="pcomp-n" cr="mod*by*n:w4034" w="h" l="~" p="N"/>
+     <dpg d="w4032" g="w4033" t="det" cr="det:w4033" w="the" l="~" p="Det"/>
+     <dpg d="w4033" g="w4034" t="s" cr="s:w4034||subj:w4036" w="cells" l="cell" p="N"/>
+     <dpg d="w4034" g="E5" t="i" cr="UNSPECRELTYPE:E10" w="were" l="be" p="VBE"/>
+     <dpg d="w4035" g="w4034" t="guest" cr="guest:w4034" w="well" l="~" p="A"/>
+     <dpg d="E11" g="w4036" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E11" g="w4033" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w4036" g="w4034" t="pred" cr="pred:w4034" w="spread" l="~" p="N"/>
+     <dpg d="w4037" g="w4036" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w4038" g="w4039" t="mod" cr="mod:w4039" w="straight" l="~" p="A"/>
+     <dpg d="w4039" g="w4037" t="pcomp-n" cr="mod*with*n:w4036" w="actin" l="~" p="N"/>
+     <dpg d="E4" g="w4039" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4040" g="w4041" t="nn" cr="nn:w4041" w="bundles" l="bundle" p="N"/>
+     <dpg d="w4041" g="E4" t="whn" cr="whn+subj:w4044" w="many" l="~" p="N"/>
+     <dpg d="w4042" g="w4041" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4043" g="w4042" t="pcomp-n" cr="mod*of*n:w4041" w="which" l="~" p="N"/>
+     <dpg d="w4043" g="w4039" t="antecedent" cr="antecedent:w4039" w="which" l="~" p="N"/>
+     <dpg d="w4044" g="E4" t="i" cr="rel:w4039" w="ended" l="end" p="V"/>
+     <dpg d="E12" g="w4044" t="subj" cr="" w="" l="many" p="N"/>
+     <dpg d="E12" g="w4041" t="antecedent" cr="" w="" l="many" p="N"/>
+     <dpg d="w4045" g="w4044" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w4046" g="w4047" t="mod" cr="mod:w4047" w="more" l="~" p="A"/>
+     <dpg d="w4047" g="w4048" t="mod" cr="mod:w4048" w="central" l="~" p="A"/>
+     <dpg d="w4048" g="w4045" t="pcomp-n" cr="mod*at*n:w4044||s+subj:w4049" w="sites" l="site" p="N"/>
+     <dpg d="E3" g="w4048" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E8" g="E3" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="w4048" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w4049" g="E3" t="i" cr="rel:w4048" w="terminating" l="terminate" p="V"/>
+     <dpg d="E13" g="w4049" t="subj" cr="" w="" l="site" p="N"/>
+     <dpg d="E13" g="E8" t="antecedent" cr="" w="" l="site" p="N"/>
+     <dpg d="w4050" g="w4049" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w4051" g="w4050" t="pcomp-n" cr="mod*on*n:w4049||s+subj:w4052" w="patches" l="patch" p="N"/>
+     <dpg d="E2" g="w4051" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E7" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="w4051" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w4052" g="E2" t="i" cr="rel:w4051" w="containing" l="contain" p="V"/>
+     <dpg d="E14" g="w4052" t="subj" cr="" w="" l="patch" p="N"/>
+     <dpg d="E14" g="E7" t="antecedent" cr="" w="" l="patch" p="N"/>
+     <dpg d="w4053" g="w4052" t="obj" cr="obj:w4052" w="vinculin" l="~" p="N"/>
+     <dpg d="w4054" g="w4053" t="punc" cr="punc:w4053" w="and" l="~" p="U"/>
+     <dpg d="w4055" g="w4053" t="conj" cr="conj:w4053" w="talin" l="~" p="N"/>
+     <dpg d="w4056" g="E10" t="punc" cr="punc:E10" w=";" l="~" p="U"/>
+     <dpg d="E1" g="E10" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4057" g="E1" t="mod" cr="mod:w4060" w="thus" l="~" p="A"/>
+     <dpg d="w4058" g="w4059" t="det" cr="det:w4059" w="the" l="~" p="Det"/>
+     <dpg d="w4059" g="w4060" t="s" cr="s+subj:w4060||subj:w4067||s+subj:w4069" w="cells" l="cell" p="N"/>
+     <dpg d="w4060" g="E1" t="i" cr="UNSPECRELTYPE:E10" w="assemble" l="~" p="V"/>
+     <dpg d="E15" g="w4060" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E15" g="w4059" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w4061" g="w4063" t="mod" cr="mod:w4063" w="typical" l="~" p="A"/>
+     <dpg d="w4062" g="w4063" t="nn" cr="nn:w4063" w="stress" l="~" p="N"/>
+     <dpg d="w4063" g="w4060" t="obj" cr="obj:w4060" w="fibers" l="fiber" p="N"/>
+     <dpg d="w4064" g="w4060" t="punc" cr="punc:w4060" w="but" l="~" p="U"/>
+     <dpg d="w4065" g="w4067" t="aux" cr="aux:w4067" w="do" l="~" p="Aux"/>
+     <dpg d="w4066" g="w4065" t="neg" cr="neg:w4065" w="not" l="~" p="A"/>
+     <dpg d="w4067" g="w4060" t="conj" cr="conj:w4060" w="appear" l="~" p="V"/>
+     <dpg d="E16" g="w4067" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E16" g="w4059" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="E0" g="w4067" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E6" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w4059" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w4068" g="w4069" t="aux" cr="aux:w4069" w="to" l="~" p="Aux"/>
+     <dpg d="w4069" g="E0" t="i" cr="mod:w4067" w="polarize" l="~" p="V"/>
+     <dpg d="E17" g="w4069" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E17" g="E6" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w4070" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

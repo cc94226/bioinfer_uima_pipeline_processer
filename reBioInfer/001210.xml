@@ -1,0 +1,180 @@
+<rexml>
+<doc id="1210">
+  <text>
+<p><s id="s1"><w id="w19097">Results</w> <w id="w19098">from</w> <w id="w19099">epistasis</w> <w id="w19100">analyses</w> <w id="w19101">indicate</w> <w id="w19102">that</w> <w id="w19103">MSH2</w> <w id="w19104">functions</w> <w id="w19105">in</w> <w id="w19106">mismatch</w> <w id="w19107">repair</w> <w id="w19108">in</w> <w id="w19109">conjunction</w> <w id="w19110">with</w> <w id="w19111">MSH3</w> <w id="w19112">or</w> <w id="w19113">MSH6</w> <w id="w19114">and</w> <w id="w19115">that</w> <w id="w19116">MSH3</w> <w id="w19117">and</w> <w id="w19118">MSH6</w> <w id="w19119">constitute</w> <w id="w19120">alternate</w> <w id="w19121">pathways</w> <w id="w19122">of</w> <w id="w19123">MSH2</w><w id="w19124">-dependent</w> <w id="w19125">mismatch</w> <w id="w19126">repair</w> <w id="w19127">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4425" gid="g4232" t="Gene" fr="w19103" to="w19103" nam="yes">
+     <textspan type="extent">MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1210.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4426" gid="g4233" t="RELATIONSHIP_TEXTBINDING" fr="w19104" to="w19110">
+     <textspan type="extent">functions [..] in conjunction with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1210.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4427" gid="g4234" t="Gene" fr="w19113" to="w19113" nam="yes">
+     <textspan type="extent">MSH6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1210.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4428" gid="g4235" t="Gene" fr="w19111" to="w19111" nam="yes">
+     <textspan type="extent">MSH3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1210.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4429" gid="g4236" t="Gene" fr="w19118" to="w19118" nam="yes">
+     <textspan type="extent">MSH6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1210.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4430" gid="g4237" t="Gene" fr="w19116" to="w19116" nam="yes">
+     <textspan type="extent">MSH3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1210.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4431" gid="g4238" t="MODIFICATION" fr="w19123" to="w19126">
+     <textspan type="extent">MSH2-dependent [..] repair</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1210.6"/>
+      <exattr n="nst" v="st.1210.26.0"/>
+      <exattr n="nst" v="st.1210.26.1"/>
+      <exattr n="nst" v="st.1210.28.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4432" gid="g4239" t="Process_entity" fr="w19121" to="w19126">
+     <textspan type="extent">pathways of MSH2-dependent [..] repair</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.1210.7"/>
+      <exattr n="nst" v="st.1210.24.0"/>
+      <exattr n="nst" v="st.1210.25.0"/>
+      <exattr n="nst" v="st.1210.26.0"/>
+      <exattr n="nst" v="st.1210.26.1"/>
+      <exattr n="nst" v="st.1210.28.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4433" gid="g4240" t="Gene" fr="w19123" to="w19123" nam="yes">
+     <textspan type="extent">MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1210.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e4434" gid="g4241" t="RELATIONSHIP_TEXTBINDING" fr="w19119" to="w19119">
+     <textspan type="extent">constitute</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1210.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e4435" gid="g4242" t="Gene" fr="w19123" to="w19123" nam="yes">
+     <textspan type="extent">MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1210.10"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1686" t="RELATE" e1="e4425" e2="e4428" re="e4426">
+     <textspan type="extent">MSH2 functions in mismatch repair in conjunction with MSH3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1210.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1687" t="RELATE" e1="e4425" e2="e4427" re="e4426">
+     <textspan type="extent">MSH2 functions in mismatch repair in conjunction with MSH3 or MSH6</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1210.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1688" t="PARTICIPATE" e1="e4430" e2="e4432" re="e4434">
+     <textspan type="extent">MSH3 and MSH6 constitute alternate pathways of MSH2 -dependent mismatch repair</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1210.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1689" t="PARTICIPATE" e1="e4429" e2="e4432" re="e4434">
+     <textspan type="extent">MSH6 constitute alternate pathways of MSH2 -dependent mismatch repair</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1210.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

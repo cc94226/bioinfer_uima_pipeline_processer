@@ -1,0 +1,100 @@
+<rexml>
+<doc id="287">
+  <text>
+<p><s id="s1"><w id="w4442">Calorimetric</w> <w id="w4443">data</w> <w id="w4444">show</w> <w id="w4445">ternary</w> <w id="w4446">complex</w> <w id="w4447">formation</w> <w id="w4448">between</w> <w id="w4449">talin</w> <w id="w4450">,</w> <w id="w4451">vinculin</w> <w id="w4452">,</w> <w id="w4453">and</w> <w id="w4454">actin</w> <w id="w4455">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1077" gid="g1027" t="RELATIONSHIP_TEXTBINDING" fr="w4446" to="w4448">
+     <textspan type="extent">complex formation between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.287.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1078" gid="g1028" t="Individual_protein" fr="w4449" to="w4449" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.287.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1079" gid="g1029" t="Individual_protein" fr="w4454" to="w4454" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.287.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1080" gid="g1030" t="Individual_protein" fr="w4451" to="w4451" nam="yes">
+     <textspan type="extent">vinculin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.287.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1081" gid="g1031" t="Protein_complex" fr="w4446" to="w4446" nam="yes">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.287.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r428" t="CONTAIN" e1="e1081" e2="e1078" re="e1077">
+     <textspan type="extent">complex formation between talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.287.0"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r429" t="CONTAIN" e1="e1081" e2="e1080" re="e1077">
+     <textspan type="extent">complex formation between talin , vinculin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.287.0"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r430" t="CONTAIN" e1="e1081" e2="e1079" re="e1077">
+     <textspan type="extent">complex formation between talin , vinculin , and actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.287.0"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

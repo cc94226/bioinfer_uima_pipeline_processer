@@ -1,0 +1,87 @@
+<rexml>
+<doc id="1443">
+  
+  <markup>
+   <nes>
+    <ne id="e5259" gid="g5018" t="Individual_protein" fr="w22792" to="w22795" nam="yes" sid="s1">
+     <textspan>alpha- [..] catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1443.0"/>
+      <exattr n="nst" v="st.1443.0.0"/>
+      <exattr n="nst" v="st.1443.2.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5262" gid="g5021" t="Individual_protein" fr="w22794" to="w22795" nam="yes" sid="s1">
+     <textspan>beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1443.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5261" gid="g5020" t="Protein_complex" fr="w22801" to="w22801" nam="yes" sid="s1">
+     <textspan>complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1443.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2023" t="COOF-CONTAIN" e1="e5259" e2="e5262" re="e5260">
+     <textspan>beta- catenin assemble into a 1:1 heterodimeric complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1443.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2023" t="CONTAIN" e1="e5261" e2="e5259" re="e5260">
+     <textspan>alpha- and beta- catenin assemble into a 1:1 heterodimeric complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1443.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2024" t="CONTAIN" e1="e5261" e2="e5262" re="e5260">
+     <textspan>beta- catenin assemble into a 1:1 heterodimeric complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1443.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

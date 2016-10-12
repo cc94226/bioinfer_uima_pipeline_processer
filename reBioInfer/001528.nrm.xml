@@ -1,0 +1,112 @@
+<rexml>
+<doc id="1528">
+  
+  <markup>
+   <nes>
+    <ne id="e5591" gid="g5338" t="Individual_protein" fr="w24083" to="w24084" nam="yes" sid="s1">
+     <textspan>UL52 protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1528.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5594" gid="g5341" t="Individual_protein" fr="w24083" to="w24083" nam="yes" sid="s1">
+     <textspan>UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1528.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5593" gid="g5340" t="Individual_protein" fr="w24087" to="w24090" nam="yes" sid="s1">
+     <textspan>UL8 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1528.3"/>
+      <exattr n="nst" v="st.1528.8.0"/>
+      <exattr n="nst" v="st.1528.11.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5595" gid="g5342" t="Individual_protein" fr="w24087" to="w24087" nam="yes" sid="s1">
+     <textspan>UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1528.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5592" gid="g5339" t="Individual_protein" fr="w24089" to="w24090" nam="yes" sid="s1">
+     <textspan>UL5 proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1528.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5596" gid="g5343" t="Individual_protein" fr="w24089" to="w24089" nam="yes" sid="s1">
+     <textspan>UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1528.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2141" t="INTERACT" e1="e5591" e2="e5593" re="e5590">
+     <textspan>interactions of the UL52 protein with the UL8 and UL5 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1528.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2142" t="INTERACT" e1="e5591" e2="e5592" re="e5590">
+     <textspan>interactions of the UL52 protein with the UL8 and UL5 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1528.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,59 @@
+<rexml>
+<doc id="2056">
+  
+  <markup>
+   <nes>
+    <ne id="e7427" gid="g7086" t="Individual_protein" fr="w32577" to="w32577" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2056.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7430" gid="g7089" t="Individual_protein" fr="w32579" to="w32579" nam="yes" sid="s1">
+     <textspan>cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2056.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7431" gid="g7090" t="Cell_component" fr="w32581" to="w32582" nam="yes" sid="s1">
+     <textspan>actin-filament</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.2056.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7432" gid="g7091" t="Individual_protein" fr="w32581" to="w32581" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2056.5"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

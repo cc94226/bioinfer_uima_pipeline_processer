@@ -1,0 +1,393 @@
+<rexml>
+<doc id="2064">
+  <text>
+<p><s id="s1"><w id="w32717">We</w> <w id="w32718">found</w> <w id="w32719">that</w> <w id="w32720">the</w> <w id="w32721">down-regulation</w> <w id="w32722">of</w> <w id="w32723">E-cad</w> <w id="w32724">,</w> <w id="w32725">alpha-catenin</w> <w id="w32726">,</w> <w id="w32727">and</w> <w id="w32728">beta-catenin</w> <w id="w32729">expression</w> <w id="w32730">significantly</w> <w id="w32731">correlated</w> <w id="w32732">with</w> <w id="w32733">tumor</w> <w id="w32734">high</w> <w id="w32735">grade</w> <w id="w32736">,</w> <w id="w32737">but</w> <w id="w32738">not</w> <w id="w32739">with</w> <w id="w32740">vascular</w> <w id="w32741">invasion</w> <w id="w32742">,</w> <w id="w32743">metastasis</w> <w id="w32744">,</w> <w id="w32745">p53</w> <w id="w32746">expression</w> <w id="w32747">,</w> <w id="w32748">Ki-67</w> <w id="w32749">labeling</w> <w id="w32750">,</w> <w id="w32751">or</w> <w id="w32752">c-erbB2</w> <w id="w32753">expression</w> <w id="w32754">,</w> <w id="w32755">except</w> <w id="w32756">for</w> <w id="w32757">beta-catenin</w> <w id="w32758">,</w> <w id="w32759">the</w> <w id="w32760">down-regulation</w> <w id="w32761">of</w> <w id="w32762">which</w> <w id="w32763">was</w> <w id="w32764">associated</w> <w id="w32765">with</w> <w id="w32766">c-erbB2</w> <w id="w32767">down-regulation</w> <w id="w32768">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7452" gid="g7109" t="Individual_protein" fr="w32752" to="w32752" nam="yes">
+     <textspan type="extent">c-erbB2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2064.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7453" gid="g7110" t="Individual_protein" fr="w32766" to="w32766" nam="yes">
+     <textspan type="extent">c-erbB2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2064.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7454" gid="g7111" t="Individual_protein" fr="w32725" to="w32725" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2064.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7455" gid="g7112" t="Individual_protein" fr="w32745" to="w32745" nam="yes">
+     <textspan type="extent">p53</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2064.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7456" gid="g7113" t="Individual_protein" fr="w32723" to="w32723" nam="yes">
+     <textspan type="extent">E-cad</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2064.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7457" gid="g7114" t="Individual_protein" fr="w32728" to="w32728" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2064.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7458" gid="g7115" t="RELATIONSHIP_TEXTBINDING" fr="w32731" to="w32739">
+     <textspan type="extent">correlated [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2064.6"/>
+      <exattr n="nst" v="st.2064.14.0"/>
+      <exattr n="nst" v="st.2064.22.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7459" gid="g7116" t="RELATIONSHIP_TEXTBINDING" fr="w32764" to="w32765">
+     <textspan type="extent">associated with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2064.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7460" gid="g7117" t="RELATIONSHIP_TEXTBINDING" fr="w32738" to="w32738">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2064.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e7461" gid="g7118" t="Individual_protein" fr="w32723" to="w32723" nam="yes">
+     <textspan type="extent">E-cad</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2064.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e7462" gid="g7119" t="Individual_protein" fr="w32728" to="w32728" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2064.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e7463" gid="g7120" t="Individual_protein" fr="w32748" to="w32748" nam="yes">
+     <textspan type="extent">Ki-67</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2064.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e7464" gid="g7121" t="DOWNREGULATION" fr="w32721" to="w32729">
+     <textspan type="extent">down-regulation of E-cad [..] expression</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Negative"/>
+      <exattr n="t4" v="DOWNREGULATION"/>
+      <exattr n="bd" v="e.2064.12"/>
+      <exattr n="nst" v="st.2064.4.0"/>
+      <exattr n="nst" v="st.2064.5.0"/>
+      <exattr n="nst" v="st.2064.6.0"/>
+      <exattr n="nst" v="st.2064.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7465" gid="g7122" t="DOWNREGULATION" fr="w32721" to="w32729">
+     <textspan type="extent">down-regulation of [..] beta-catenin expression</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Negative"/>
+      <exattr n="t4" v="DOWNREGULATION"/>
+      <exattr n="bd" v="e.2064.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e7466" gid="g7123" t="DOWNREGULATION" fr="w32721" to="w32729">
+     <textspan type="extent">down-regulation of [..] alpha-catenin [..] expression</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Negative"/>
+      <exattr n="t4" v="DOWNREGULATION"/>
+      <exattr n="bd" v="e.2064.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e7467" gid="g7124" t="Artificial" fr="w32748" to="w32749" nam="yes">
+     <textspan type="extent">Ki-67 labeling</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Artificial"/>
+      <exattr n="bd" v="e.2064.15"/>
+     </exattrs>
+    </ne>
+    <ne id="e7468" gid="g7125" t="Expression" fr="w32745" to="w32746">
+     <textspan type="extent">p53 expression</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.2064.16"/>
+     </exattrs>
+    </ne>
+    <ne id="e7469" gid="g7126" t="Individual_protein" fr="w32757" to="w32757" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2064.17"/>
+     </exattrs>
+    </ne>
+    <ne id="e7470" gid="g7127" t="Expression" fr="w32752" to="w32753">
+     <textspan type="extent">c-erbB2 expression</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.2064.18"/>
+     </exattrs>
+    </ne>
+    <ne id="e7471" gid="g7128" t="DOWNREGULATION" fr="w32760" to="w32762">
+     <textspan type="extent">down-regulation of which</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Negative"/>
+      <exattr n="t4" v="DOWNREGULATION"/>
+      <exattr n="bd" v="e.2064.19"/>
+     </exattrs>
+    </ne>
+    <ne id="e7472" gid="g7129" t="DOWNREGULATION" fr="w32766" to="w32767">
+     <textspan type="extent">c-erbB2 down-regulation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Negative"/>
+      <exattr n="t4" v="DOWNREGULATION"/>
+      <exattr n="bd" v="e.2064.20"/>
+     </exattrs>
+    </ne>
+    <ne id="e7473" gid="g7130" t="Expression" fr="w32723" to="w32729">
+     <textspan type="extent">E-cad [..] expression</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.2064.21"/>
+      <exattr n="nst" v="st.2064.6.0"/>
+      <exattr n="nst" v="st.2064.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7474" gid="g7126" t="Individual_protein" fr="w32762" to="w32762" nam="yes">
+     <textspan type="extent">which</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2064.22"/>
+     </exattrs>
+    </ne>
+    <ne id="e7475" gid="g7131" t="Expression" fr="w32728" to="w32729">
+     <textspan type="extent">beta-catenin expression</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.2064.23"/>
+     </exattrs>
+    </ne>
+    <ne id="e7476" gid="g7132" t="Expression" fr="w32725" to="w32729">
+     <textspan type="extent">alpha-catenin [..] expression</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.2064.24"/>
+      <exattr n="nst" v="st.2064.8.0"/>
+      <exattr n="nst" v="st.2064.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7477" gid="g7133" t="Individual_protein" fr="w32725" to="w32725" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2064.25"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2846" t="CORELATE" e1="e7464" e2="e7468" re="e7458">
+     <textspan type="extent">down-regulation of E-cad , alpha-catenin , and beta-catenin expression significantly correlated with tumor high grade , but not with vascular invasion , metastasis , p53 expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2064.6"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2848" t="CORELATE" e1="e7464" e2="e7467" re="e7458">
+     <textspan type="extent">down-regulation of E-cad , alpha-catenin , and beta-catenin expression significantly correlated with tumor high grade , but not with vascular invasion , metastasis , p53 expression , Ki-67 labeling</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2064.6"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2850" t="CORELATE" e1="e7464" e2="e7470" re="e7458">
+     <textspan type="extent">down-regulation of E-cad , alpha-catenin , and beta-catenin expression significantly correlated with tumor high grade , but not with vascular invasion , metastasis , p53 expression , Ki-67 labeling , or c-erbB2 expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2064.6"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2852" t="CORELATE" e1="e7466" e2="e7468" re="e7458">
+     <textspan type="extent">down-regulation of E-cad , alpha-catenin , and beta-catenin expression significantly correlated with tumor high grade , but not with vascular invasion , metastasis , p53 expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2064.6"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2854" t="CORELATE" e1="e7466" e2="e7467" re="e7458">
+     <textspan type="extent">down-regulation of E-cad , alpha-catenin , and beta-catenin expression significantly correlated with tumor high grade , but not with vascular invasion , metastasis , p53 expression , Ki-67 labeling</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2064.6"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2856" t="CORELATE" e1="e7466" e2="e7470" re="e7458">
+     <textspan type="extent">down-regulation of E-cad , alpha-catenin , and beta-catenin expression significantly correlated with tumor high grade , but not with vascular invasion , metastasis , p53 expression , Ki-67 labeling , or c-erbB2 expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2064.6"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2858" t="CORELATE" e1="e7465" e2="e7468" re="e7458">
+     <textspan type="extent">down-regulation of E-cad , alpha-catenin , and beta-catenin expression significantly correlated with tumor high grade , but not with vascular invasion , metastasis , p53 expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2064.6"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2860" t="CORELATE" e1="e7465" e2="e7467" re="e7458">
+     <textspan type="extent">down-regulation of E-cad , alpha-catenin , and beta-catenin expression significantly correlated with tumor high grade , but not with vascular invasion , metastasis , p53 expression , Ki-67 labeling</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2064.6"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2862" t="CORELATE" e1="e7465" e2="e7470" re="e7458">
+     <textspan type="extent">down-regulation of E-cad , alpha-catenin , and beta-catenin expression significantly correlated with tumor high grade , but not with vascular invasion , metastasis , p53 expression , Ki-67 labeling , or c-erbB2 expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2064.6"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2864" t="CORELATE" e1="e7471" e2="e7472" re="e7459">
+     <textspan type="extent">down-regulation of which was associated with c-erbB2 down-regulation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2064.7"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

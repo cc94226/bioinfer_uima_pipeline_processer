@@ -1,0 +1,104 @@
+<rexml>
+<doc id="635">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E11" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w9550" g="E11" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E11" w="However" l="~" p="A"/>
+     <dpg d="w9551" g="E11" t="punc" cr="punc:E11" w="," l="~" p="U"/>
+     <dpg d="w9552" g="w9555" t="det" cr="det:w9555" w="some" l="~" p="Det"/>
+     <dpg d="w9553" g="w9555" t="nn" cr="nn:w9555" w="proteins" l="protein" p="N"/>
+     <dpg d="w9554" g="w9555" t="punc" cr="punc:w9555" w="(" l="~" p="U"/>
+     <dpg d="w9555" g="E11" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E11" w="e.g." l="~" p="N"/>
+     <dpg d="w9556" g="w9555" t="punc" cr="punc:w9555" w="," l="~" p="U"/>
+     <dpg d="w9557" g="w9555" t="conj" cr="conj:w9555" w="profilin" l="~" p="N"/>
+     <dpg d="w9558" g="w9557" t="punc" cr="punc:w9557" w=")" l="~" p="U"/>
+     <dpg d="w9559" g="w9557" t="punc" cr="punc:w9557" w="and" l="~" p="U"/>
+     <dpg d="w9560" g="w9563" t="mod" cr="mod:w9563" w="other" l="~" p="A"/>
+     <dpg d="w9561" g="w9563" t="nn" cr="nn:w9563" w="agents" l="agent" p="N"/>
+     <dpg d="w9562" g="w9563" t="punc" cr="punc:w9563" w="(" l="~" p="U"/>
+     <dpg d="w9563" g="w9557" t="conj" cr="conj:w9557" w="e.g." l="~" p="N"/>
+     <dpg d="w9564" g="E11" t="punc" cr="punc:E11" w="," l="~" p="U"/>
+     <dpg d="E5" g="E11" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9565" g="w9566" t="nn" cr="nn:w9566" w="cytochalasin" l="~" p="N"/>
+     <dpg d="w9566" g="w9573" t="s" cr="subj:w9569||s+obj:w9573||s+subj:w9581||s+subj:w9588||s+subj:w9599||s+subj:w9602" w="D" l="~" p="N"/>
+     <dpg d="w9567" g="w9566" t="punc" cr="punc:w9566" w=")" l="~" p="U"/>
+     <dpg d="E4" g="w9566" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9568" g="E4" t="whn" cr="whn:w9569" w="that" l="~" p="THAT"/>
+     <dpg d="w9568" g="w9566" t="antecedent" cr="antecedent:w9566" w="that" l="~" p="THAT"/>
+     <dpg d="w9569" g="E4" t="i" cr="rel:w9566" w="bind" l="~" p="V"/>
+     <dpg d="E12" g="w9569" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E12" g="w9566" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w9570" g="w9569" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w9571" g="w9570" t="pcomp-n" cr="mod*to*n:w9569" w="actin" l="~" p="N"/>
+     <dpg d="w9572" g="w9573" t="be" cr="be:w9573" w="are" l="be" p="be"/>
+     <dpg d="w9573" g="E5" t="i" cr="UNSPECRELTYPE:E11" w="affected" l="affect" p="V"/>
+     <dpg d="E13" g="w9573" t="obj" cr="" w="" l="d" p="N"/>
+     <dpg d="E13" g="w9566" t="antecedent" cr="" w="" l="d" p="N"/>
+     <dpg d="w9574" g="w9573" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w9575" g="w9576" t="det" cr="det:w9576" w="the" l="~" p="Det"/>
+     <dpg d="w9576" g="w9574" t="pcomp-n" cr="by-subj*by*n:w9573" w="presence" l="~" p="N"/>
+     <dpg d="w9577" g="w9576" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9578" g="w9579" t="mod" cr="mod:w9579" w="fluorescent" l="~" p="A"/>
+     <dpg d="w9579" g="w9577" t="pcomp-n" cr="mod*of*n:w9576" w="labels" l="label" p="N"/>
+     <dpg d="w9580" g="w9573" t="punc" cr="punc:w9573" w="," l="~" p="U"/>
+     <dpg d="E3" g="w9573" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E9" g="E3" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E9" g="w9566" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w9581" g="E3" t="i" cr="mod:w9573" w="making" l="make" p="V"/>
+     <dpg d="E14" g="w9581" t="subj" cr="" w="" l="d" p="N"/>
+     <dpg d="E14" g="E9" t="antecedent" cr="" w="" l="d" p="N"/>
+     <dpg d="w9582" g="w9584" t="nn" cr="nn:w9584" w="actin" l="~" p="N"/>
+     <dpg d="w9583" g="w9584" t="mod" cr="mod:w9584" w="intrinsic" l="~" p="A"/>
+     <dpg d="w9584" g="w9581" t="obj" cr="obj:w9581" w="fluorescence" l="~" p="N"/>
+     <dpg d="w9585" g="w9586" t="mod" cr="mod:w9586" w="potentially" l="~" p="A"/>
+     <dpg d="w9586" g="w9584" t="pnmod" cr="pnmod:w9584" w="useful" l="~" p="A"/>
+     <dpg d="w9587" g="w9586" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="E2" g="w9587" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E8" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="E9" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w9588" g="E2" t="i" cr="mod*in*c:w9586" w="investigating" l="investigate" p="V"/>
+     <dpg d="E15" g="w9588" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E15" g="E8" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w9589" g="w9590" t="det" cr="det:w9590" w="the" l="~" p="Det"/>
+     <dpg d="w9590" g="w9588" t="obj" cr="obj:w9588" w="interaction" l="~" p="N"/>
+     <dpg d="w9591" g="w9590" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9592" g="w9593" t="det" cr="det:w9593" w="these" l="~" p="Det"/>
+     <dpg d="w9593" g="w9591" t="pcomp-n" cr="mod*of*n:w9590" w="agents" l="agent" p="N"/>
+     <dpg d="w9594" g="w9593" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w9595" g="w9594" t="pcomp-n" cr="mod*with*n:w9593" w="actin" l="~" p="N"/>
+     <dpg d="w9596" g="w9594" t="punc" cr="punc:w9594" w="," l="~" p="U"/>
+     <dpg d="w9597" g="w9594" t="punc" cr="punc:w9594" w="and" l="~" p="U"/>
+     <dpg d="w9598" g="w9594" t="conj" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="E1" g="w9598" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E7" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="E8" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w9599" g="E1" t="i" cr="mod*in*c:w9593" w="validating" l="validate" p="V"/>
+     <dpg d="E16" g="w9599" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E16" g="E7" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w9600" g="w9599" t="obj" cr="obj:w9599||obj:w9601" w="data" l="~" p="N"/>
+     <dpg d="w9601" g="w9600" t="vrel" cr="vrel:w9600" w="obtained" l="obtain" p="V"/>
+     <dpg d="E17" g="w9601" t="obj" cr="" w="" l="data" p="N"/>
+     <dpg d="E17" g="w9600" t="antecedent" cr="" w="" l="data" p="N"/>
+     <dpg d="E0" g="w9601" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E6" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="E7" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w9602" g="E0" t="i" cr="mod:w9601" w="using" l="use" p="V"/>
+     <dpg d="E18" g="w9602" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E18" g="E6" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w9603" g="w9604" t="mod" cr="mod:w9604" w="labeled" l="~" p="A"/>
+     <dpg d="w9604" g="w9602" t="obj" cr="obj:w9602" w="actin" l="~" p="N"/>
+     <dpg d="w9605" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

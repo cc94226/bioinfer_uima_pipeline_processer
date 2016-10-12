@@ -1,0 +1,86 @@
+<rexml>
+<doc id="492">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E7" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w6865" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="Finally" l="~" p="A"/>
+     <dpg d="w6866" g="E7" t="punc" cr="punc:E7" w="," l="~" p="U"/>
+     <dpg d="w6867" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="we" l="~" p="N"/>
+     <dpg d="w6868" g="E7" t="subcat" cr="subcat:E7" w="used" l="~" p="A"/>
+     <dpg d="w6869" g="w6870" t="lex-mod" cr="lex-mod:w6870" w="in" l="~" p="U"/>
+     <dpg d="w6870" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w6871" g="E7" t="punc" cr="punc:E7" w="translated" l="~" p="U"/>
+     <dpg d="E3" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6872" g="w6876" t="s" cr="s+subj:w6876||s+subj:w6878" w="proteins" l="protein" p="N"/>
+     <dpg d="w6873" g="w6872" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w6874" g="w6875" t="det" cr="det:w6875" w="an" l="~" p="Det"/>
+     <dpg d="w6875" g="w6873" t="pcomp-n" cr="mod*in*n:w6872" w="immunoprecipitation" l="~" p="N"/>
+     <dpg d="w6876" g="E3" t="i" cr="UNSPECRELTYPE:E7" w="assay" l="~" p="V"/>
+     <dpg d="E8" g="w6876" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E8" g="w6872" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="E2" g="w6876" t="fc" cr="" w="" l="inf" p="C"/>
+     <dpg d="E5" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w6872" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6877" g="w6878" t="aux" cr="aux:w6878" w="to" l="~" p="Aux"/>
+     <dpg d="w6878" g="E2" t="i" cr="fc:w6876" w="show" l="~" p="V"/>
+     <dpg d="E9" g="w6878" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E9" g="E5" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w6879" g="w6878" t="obj" cr="obj:w6878" w="that" l="~" p="N"/>
+     <dpg d="w6880" g="w6878" t="punc" cr="punc:w6878" w="," l="~" p="U"/>
+     <dpg d="w6881" g="w6878" t="mod" cr="mod:w6878" w="like" l="~" p="Prep"/>
+     <dpg d="w6882" g="w6883" t="lex-mod" cr="lex-mod:w6883" w="beta" l="~" p="U"/>
+     <dpg d="w6883" g="E7" t="punc" cr="punc:E7" w="1-syntrophin" l="~" p="U"/>
+     <dpg d="w6884" g="E7" t="punc" cr="punc:E7" w="," l="~" p="U"/>
+     <dpg d="w6885" g="E7" t="subcat" cr="subcat:E7" w="both" l="~" p="N"/>
+     <dpg d="w6886" g="E7" t="punc" cr="punc:E7" w="beta" l="~" p="U"/>
+     <dpg d="E1" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6887" g="w6889" t="lex-mod" cr="lex-mod:w6889" w="2-" l="~" p="U"/>
+     <dpg d="w6888" g="w6889" t="lex-mod" cr="lex-mod:w6889" w="and" l="~" p="U"/>
+     <dpg d="w6889" g="w6891" t="mod" cr="mod:w6891" w="alpha" l="2- and alpha" p="A"/>
+     <dpg d="w6890" g="w6891" t="lex-mod" cr="lex-mod:w6891" w="1-" l="~" p="U"/>
+     <dpg d="w6891" g="w6892" t="s" cr="s+subj:w6892" w="syntrophin" l="1- syntrophin" p="N"/>
+     <dpg d="w6892" g="E1" t="i" cr="UNSPECRELTYPE:E7" w="interact" l="~" p="V"/>
+     <dpg d="E10" g="w6892" t="subj" cr="" w="" l="1- syntrophin" p="N"/>
+     <dpg d="E10" g="w6891" t="antecedent" cr="" w="" l="1- syntrophin" p="N"/>
+     <dpg d="w6893" g="w6892" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w6894" g="w6893" t="pcomp-n" cr="mod*with*n:w6892||s+subj:w6895" w="peptides" l="peptide" p="N"/>
+     <dpg d="E0" g="w6894" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w6894" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6895" g="E0" t="i" cr="rel:w6894" w="encoding" l="encode" p="V"/>
+     <dpg d="E11" g="w6895" t="subj" cr="" w="" l="peptide" p="N"/>
+     <dpg d="E11" g="E4" t="antecedent" cr="" w="" l="peptide" p="N"/>
+     <dpg d="w6896" g="w6900" t="det" cr="det:w6900" w="the" l="~" p="Det"/>
+     <dpg d="w6897" g="w6899" t="lex-mod" cr="lex-mod:w6899" w="syntrophin" l="~" p="U"/>
+     <dpg d="w6898" g="w6899" t="lex-mod" cr="lex-mod:w6899" w="-" l="~" p="U"/>
+     <dpg d="w6899" g="w6900" t="mod" cr="mod:w6900" w="binding" l="syntrophin - binding" p="A"/>
+     <dpg d="w6900" g="w6895" t="obj" cr="obj:w6895" w="region" l="~" p="N"/>
+     <dpg d="w6901" g="w6900" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6902" g="w6901" t="pcomp-n" cr="mod*of*n:w6900" w="dystrophin" l="~" p="N"/>
+     <dpg d="w6903" g="w6902" t="punc" cr="punc:w6902" w="," l="~" p="U"/>
+     <dpg d="w6904" g="w6908" t="nn" cr="nn:w6908" w="utrophin" l="~" p="N"/>
+     <dpg d="w6905" g="w6908" t="nn" cr="nn:w6908" w="/" l="~" p="N"/>
+     <dpg d="w6906" g="w6908" t="nn" cr="nn:w6908" w="dystrophin" l="~" p="N"/>
+     <dpg d="w6907" g="w6908" t="mod" cr="mod:w6908" w="related" l="~" p="A"/>
+     <dpg d="w6908" g="w6902" t="conj" cr="conj:w6902" w="protein" l="~" p="N"/>
+     <dpg d="w6909" g="w6908" t="punc" cr="punc:w6908" w="," l="~" p="U"/>
+     <dpg d="w6910" g="w6908" t="punc" cr="punc:w6908" w="and" l="~" p="U"/>
+     <dpg d="w6911" g="w6914" t="det" cr="det:w6914" w="the" l="~" p="Det"/>
+     <dpg d="w6912" g="w6913" t="lex-mod" cr="lex-mod:w6913" w="Torpedo" l="~" p="U"/>
+     <dpg d="w6913" g="w6914" t="nn" cr="nn:w6914" w="87K" l="Torpedo 87K" p="N"/>
+     <dpg d="w6914" g="w6908" t="conj" cr="conj:w6908" w="protein" l="~" p="N"/>
+     <dpg d="w6915" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

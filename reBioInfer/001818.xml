@@ -1,0 +1,76 @@
+<rexml>
+<doc id="1818">
+  <text>
+<p><s id="s1"><w id="w29229">This</w> <w id="w29230">is</w> <w id="w29231">the</w> <w id="w29232">first</w> <w id="w29233">report</w> <w id="w29234">describing</w> <w id="w29235">the</w> <w id="w29236">coexistence</w> <w id="w29237">of</w> <w id="w29238">profilin</w> <w id="w29239">with</w> <w id="w29240">actin</w> <w id="w29241">filaments</w> <w id="w29242">in</w> <w id="w29243">the</w> <w id="w29244">division</w> <w id="w29245">furrow</w> <w id="w29246">,</w> <w id="w29247">implying</w> <w id="w29248">the</w> <w id="w29249">possible</w> <w id="w29250">involvement</w> <w id="w29251">of</w> <w id="w29252">profilin</w> <w id="w29253">in</w> <w id="w29254">assembly</w> <w id="w29255">and</w> <w id="w29256">disassembly</w> <w id="w29257">of</w> <w id="w29258">contractile</w> <w id="w29259">ring</w> <w id="w29260">microfilaments</w> <w id="w29261">in</w> <w id="w29262">the</w> <w id="w29263">process</w> <w id="w29264">of</w> <w id="w29265">cytokinesis</w> <w id="w29266">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6762" gid="g6450" t="RELATIONSHIP_TEXTBINDING" fr="w29236" to="w29245">
+     <textspan type="extent">coexistence of [..] with [..] in [..] furrow</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1818.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6763" gid="g6451" t="Individual_protein" fr="w29238" to="w29238" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1818.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6764" gid="g6452" t="Gene/protein/RNA" fr="w29252" to="w29252" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1818.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6765" gid="g6453" t="Cell_component" fr="w29240" to="w29241" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1818.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6766" gid="g6454" t="Individual_protein" fr="w29240" to="w29240" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1818.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2592" t="COLOCALIZE" e1="e6763" e2="e6765" re="e6762">
+     <textspan type="extent">coexistence of profilin with actin filaments in the division furrow</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1818.0"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

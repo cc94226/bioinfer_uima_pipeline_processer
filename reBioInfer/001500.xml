@@ -1,0 +1,157 @@
+<rexml>
+<doc id="1500">
+  <text>
+<p><s id="s1"><w id="w23449">The</w> <w id="w23450">herpes</w> <w id="w23451">simplex</w> <w id="w23452">virus</w> <w id="w23453">helicase-primase</w> <w id="w23454">complex</w> <w id="w23455">,</w> <w id="w23456">a</w> <w id="w23457">heterotrimer</w> <w id="w23458">of</w> <w id="w23459">the</w> <w id="w23460">UL5</w> <w id="w23461">,</w> <w id="w23462">UL8</w> <w id="w23463">,</w> <w id="w23464">and</w> <w id="w23465">UL52</w> <w id="w23466">proteins</w> <w id="w23467">,</w> <w id="w23468">displays</w> <w id="w23469">a</w> <w id="w23470">single</w> <w id="w23471">predominant</w> <w id="w23472">site</w> <w id="w23473">of</w> <w id="w23474">primer</w> <w id="w23475">synthesis</w> <w id="w23476">on</w> <w id="w23477">phi</w> <w id="w23478">X174</w> <w id="w23479">virion</w> <w id="w23480">DNA</w> <w id="w23481">(</w> <w id="w23482">Tenney</w> <w id="w23483">,</w> <w id="w23484">D.</w> <w id="w23485">J.</w> <w id="w23486">,</w> <w id="w23487">Hurlburt</w> <w id="w23488">,</w> <w id="w23489">W.</w> <w id="w23490">W.</w> <w id="w23491">,</w> <w id="w23492">Micheletti</w> <w id="w23493">,</w> <w id="w23494">P.</w> <w id="w23495">M.</w> <w id="w23496">,</w> <w id="w23497">Bifano</w> <w id="w23498">,</w> <w id="w23499">M.</w> <w id="w23500">,</w> <w id="w23501">and</w> <w id="w23502">Hamatake</w> <w id="w23503">,</w> <w id="w23504">R.</w> <w id="w23505">K.</w> <w id="w23506">(</w> <w id="w23507">1994</w> <w id="w23508">)</w> <w id="w23509">J.</w> <w id="w23510">Biol.</w> <w id="w23511">Chem.</w> <w id="w23512">269</w> <w id="w23513">,</w> <w id="w23514">5030-5035</w> <w id="w23515">)</w> <w id="w23516">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5432" gid="g5185" t="Protein_complex" fr="w23450" to="w23454" nam="yes">
+     <textspan type="extent">herpes simplex virus helicase-primase complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1500.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5433" gid="g5186" t="Individual_protein" fr="w23460" to="w23466" nam="yes">
+     <textspan type="extent">UL5 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1500.1"/>
+      <exattr n="nst" v="st.1500.11.0"/>
+      <exattr n="nst" v="st.1500.17.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5434" gid="g5187" t="RELATIONSHIP_TEXTBINDING" fr="w23457" to="w23458">
+     <textspan type="extent">heterotrimer of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1500.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5435" gid="g5188" t="Individual_protein" fr="w23465" to="w23466" nam="yes">
+     <textspan type="extent">UL52 proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1500.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5436" gid="g5189" t="Individual_protein" fr="w23462" to="w23466" nam="yes">
+     <textspan type="extent">UL8 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1500.4"/>
+      <exattr n="nst" v="st.1500.13.0"/>
+      <exattr n="nst" v="st.1500.17.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5437" gid="g5190" t="Protein_complex" fr="w23453" to="w23453" nam="yes">
+     <textspan type="extent">helicase-primase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1500.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5438" gid="g5191" t="Individual_protein" fr="w23460" to="w23460" nam="yes">
+     <textspan type="extent">UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1500.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5439" gid="g5192" t="Individual_protein" fr="w23465" to="w23465" nam="yes">
+     <textspan type="extent">UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1500.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5440" gid="g5193" t="Individual_protein" fr="w23462" to="w23462" nam="yes">
+     <textspan type="extent">UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1500.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2091" t="CONTAIN" e1="e5432" e2="e5433" re="e5434">
+     <textspan type="extent">herpes simplex virus helicase-primase complex , a heterotrimer of the UL5 , UL8 , and UL52 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1500.2"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2092" t="CONTAIN" e1="e5432" e2="e5436" re="e5434">
+     <textspan type="extent">herpes simplex virus helicase-primase complex , a heterotrimer of the UL5 , UL8 , and UL52 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1500.2"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2093" t="CONTAIN" e1="e5432" e2="e5435" re="e5434">
+     <textspan type="extent">herpes simplex virus helicase-primase complex , a heterotrimer of the UL5 , UL8 , and UL52 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1500.2"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

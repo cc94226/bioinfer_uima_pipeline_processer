@@ -1,0 +1,220 @@
+<rexml>
+<doc id="697">
+  <text>
+<p><s id="s1"><w id="w10741">In</w> <w id="w10742">Acanthamoeba</w> <w id="w10743">actin</w> <w id="w10744">polymerization</w> <w id="w10745">is</w> <w id="w10746">regulated</w> <w id="w10747">,</w> <w id="w10748">at</w> <w id="w10749">least</w> <w id="w10750">in</w> <w id="w10751">part</w> <w id="w10752">,</w> <w id="w10753">by</w> <w id="w10754">profilin</w> <w id="w10755">,</w> <w id="w10756">which</w> <w id="w10757">binds</w> <w id="w10758">to</w> <w id="w10759">actin</w> <w id="w10760">monomers</w> <w id="w10761">,</w> <w id="w10762">and</w> <w id="w10763">by</w> <w id="w10764">capping</w> <w id="w10765">protein</w> <w id="w10766">,</w> <w id="w10767">which</w> <w id="w10768">both</w> <w id="w10769">nucleates</w> <w id="w10770">polymerization</w> <w id="w10771">and</w> <w id="w10772">blocks</w> <w id="w10773">monomer</w> <w id="w10774">addition</w> <w id="w10775">at</w> <w id="w10776">the</w> <w id="w10777">barbed</w> <w id="w10778">end</w> <w id="w10779">of</w> <w id="w10780">the</w> <w id="w10781">filament</w> <w id="w10782">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2514" gid="g2411" t="POLYMERIZATION" fr="w10743" to="w10744">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.697.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2515" gid="g2412" t="RELATIONSHIP_TEXTBINDING" fr="w10746" to="w10753">
+     <textspan type="extent">regulated [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.697.1"/>
+      <exattr n="nst" v="st.697.5.0"/>
+      <exattr n="nst" v="st.697.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2516" gid="g2413" t="RELATIONSHIP_TEXTBINDING" fr="w10757" to="w10758">
+     <textspan type="extent">binds to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.697.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2517" gid="g2414" t="RELATIONSHIP_TEXTBINDING" fr="w10746" to="w10763">
+     <textspan type="extent">regulated [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.697.3"/>
+      <exattr n="nst" v="st.697.5.0"/>
+      <exattr n="nst" v="st.697.22.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2518" gid="g2415" t="POLYMERIZATION" fr="w10770" to="w10770">
+     <textspan type="extent">polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.697.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2519" gid="g2416" t="Individual_protein" fr="w10764" to="w10765" nam="yes">
+     <textspan type="extent">capping protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.697.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2520" gid="g2417" t="Individual_protein" fr="w10743" to="w10743" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.697.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2521" gid="g2417" t="Individual_protein" fr="w10773" to="w10773" nam="yes">
+     <textspan type="extent">monomer</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.697.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2522" gid="g2418" t="ADDITION" fr="w10773" to="w10774">
+     <textspan type="extent">monomer addition</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="ADDITION"/>
+      <exattr n="bd" v="e.697.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e2523" gid="g2419" t="Individual_protein" fr="w10759" to="w10760" nam="yes">
+     <textspan type="extent">actin monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.697.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e2524" gid="g2420" t="Individual_protein" fr="w10754" to="w10754" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.697.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e2525" gid="g2421" t="RELATIONSHIP_TEXTBINDING" fr="w10772" to="w10772">
+     <textspan type="extent">blocks</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.697.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e2526" gid="g2422" t="Individual_protein" fr="w10759" to="w10759" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.697.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e2527" gid="g2423" t="RELATIONSHIP_TEXTBINDING" fr="w10769" to="w10769">
+     <textspan type="extent">nucleates</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.697.13"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r961" t="CONTROL" e1="e2524" e2="e2514" re="e2515">
+     <textspan type="extent">actin polymerization is regulated , at least in part , by profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.697.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r962" t="CONTROL" e1="e2519" e2="e2514" re="e2517">
+     <textspan type="extent">actin polymerization is regulated , at least in part , by profilin , which binds to actin monomers , and by capping protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.697.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r963" t="BIND" e1="e2524" e2="e2523" re="e2516">
+     <textspan type="extent">profilin , which binds to actin monomers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.697.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r964" t="REL-ENT" e1="e2518" e2="e2520" re="">
+     <textspan type="extent">actin polymerization is regulated , at least in part , by profilin , which binds to actin monomers , and by capping protein , which both nucleates polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="REL-ENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r966" t="INITIATE" e1="e2519" e2="e2518" re="e2527">
+     <textspan type="extent">capping protein , which both nucleates polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.697.13"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r967" t="PREVENT" e1="e2519" e2="e2522" re="e2525">
+     <textspan type="extent">capping protein , which both nucleates polymerization and blocks monomer addition</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.697.11"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="PREVENT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

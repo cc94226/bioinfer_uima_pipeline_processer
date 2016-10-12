@@ -1,0 +1,191 @@
+<rexml>
+<doc id="513">
+  
+  <markup>
+   <nes>
+    <ne id="e1692" gid="g1620" t="Individual_protein" fr="w7075" to="w7075" nam="yes" sid="s1">
+     <textspan>PRP5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.513.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1695" gid="g1623" t="Individual_protein" fr="w7077" to="w7077" nam="yes" sid="s1">
+     <textspan>PRP9</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.513.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1694" gid="g1622" t="Individual_protein" fr="w7079" to="w7079" nam="yes" sid="s1">
+     <textspan>PRP11</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.513.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1697" gid="g1625" t="Individual_protein" fr="w7082" to="w7082" nam="yes" sid="s1">
+     <textspan>PRP21</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.513.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1696" gid="g1624" t="Individual_protein" fr="w7087" to="w7088" nam="yes" sid="s1">
+     <textspan>U2 snRNP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.513.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1698" gid="g1626" t="Individual_RNA_molecule" fr="w7091" to="w7091" nam="yes" sid="s1">
+     <textspan>pre-mRNA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="RNA"/>
+      <exattr n="t7" v="Individual_RNA_molecule"/>
+      <exattr n="bd" v="e.513.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r670" t="INTERACT" e1="e1692" e2="e1695" re="e1693">
+     <textspan>PRP5 , PRP9 , PRP11 , and PRP21 ) interact</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.513.1"/>
+      <exattr n="arg" v="e1692"/>
+      <exattr n="arg" v="e1695"/>
+      <exattr n="arg" v="e1694"/>
+      <exattr n="arg" v="e1697"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r670" t="INTERACT" e1="e1692" e2="e1694" re="e1693">
+     <textspan>PRP5 , PRP9 , PRP11 , and PRP21 ) interact</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.513.1"/>
+      <exattr n="arg" v="e1692"/>
+      <exattr n="arg" v="e1695"/>
+      <exattr n="arg" v="e1694"/>
+      <exattr n="arg" v="e1697"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r670" t="INTERACT" e1="e1692" e2="e1697" re="e1693">
+     <textspan>PRP5 , PRP9 , PRP11 , and PRP21 ) interact</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.513.1"/>
+      <exattr n="arg" v="e1692"/>
+      <exattr n="arg" v="e1695"/>
+      <exattr n="arg" v="e1694"/>
+      <exattr n="arg" v="e1697"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r670" t="INTERACT" e1="e1695" e2="e1694" re="e1693">
+     <textspan>PRP5 , PRP9 , PRP11 , and PRP21 ) interact</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.513.1"/>
+      <exattr n="arg" v="e1692"/>
+      <exattr n="arg" v="e1695"/>
+      <exattr n="arg" v="e1694"/>
+      <exattr n="arg" v="e1697"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r670" t="INTERACT" e1="e1695" e2="e1697" re="e1693">
+     <textspan>PRP5 , PRP9 , PRP11 , and PRP21 ) interact</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.513.1"/>
+      <exattr n="arg" v="e1692"/>
+      <exattr n="arg" v="e1695"/>
+      <exattr n="arg" v="e1694"/>
+      <exattr n="arg" v="e1697"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r670" t="INTERACT" e1="e1694" e2="e1697" re="e1693">
+     <textspan>PRP5 , PRP9 , PRP11 , and PRP21 ) interact</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.513.1"/>
+      <exattr n="arg" v="e1692"/>
+      <exattr n="arg" v="e1695"/>
+      <exattr n="arg" v="e1694"/>
+      <exattr n="arg" v="e1697"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r671" t="BIND" e1="e1696" e2="e1698" re="e1700">
+     <textspan>U2 snRNP binding to pre-mRNA</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.513.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

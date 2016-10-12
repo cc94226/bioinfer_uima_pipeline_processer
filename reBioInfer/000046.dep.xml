@@ -1,0 +1,65 @@
+<rexml>
+<doc id="46">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w660" g="w674" t="s" cr="s+subj:w674" w="Addition" l="~" p="N"/>
+     <dpg d="w661" g="w660" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w662" g="w663" t="nn" cr="nn:w663" w="Acanthamoeba" l="~" p="N"/>
+     <dpg d="w663" g="w661" t="pcomp-n" cr="mod*of*n:w660" w="profilin" l="~" p="N"/>
+     <dpg d="w664" g="w663" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w665" g="w666" t="mod" cr="mod:w666" w="molar" l="~" p="A"/>
+     <dpg d="w666" g="w664" t="pcomp-n" cr="mod*in*n:w663" w="ratios" l="ratio" p="N"/>
+     <dpg d="w667" g="w666" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w668" g="w667" t="pcomp-n" cr="mod*to*n:w666" w="actin" l="~" p="N"/>
+     <dpg d="w669" g="w668" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w670" g="w671" t="mod" cr="mod:w671" w="about" l="~" p="A"/>
+     <dpg d="w671" g="w669" t="pcomp-n" cr="mod*of*n:w668" w="1.1:1" l="~" p="N"/>
+     <dpg d="w672" g="w671" t="punc" cr="punc:w671" w="and" l="~" p="U"/>
+     <dpg d="w673" g="w671" t="conj" cr="conj:w671" w="2.3:1" l="~" p="N"/>
+     <dpg d="w674" g="E0" t="i" cr="" w="retarded" l="retard" p="V"/>
+     <dpg d="E2" g="w674" t="subj" cr="" w="" l="addition" p="N"/>
+     <dpg d="E2" g="w660" t="antecedent" cr="" w="" l="addition" p="N"/>
+     <dpg d="w675" g="w677" t="det" cr="det:w677" w="the" l="~" p="Det"/>
+     <dpg d="w676" g="w677" t="mod" cr="mod:w677" w="initial" l="~" p="A"/>
+     <dpg d="w677" g="w674" t="obj" cr="obj:w674" w="kinetics" l="~" p="N"/>
+     <dpg d="w678" g="w677" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w679" g="w678" t="pcomp-n" cr="mod*of*n:w677||obj:w681||subj:w689" w="assembly" l="~" p="N"/>
+     <dpg d="w680" g="w679" t="punc" cr="punc:w679" w="(" l="~" p="U"/>
+     <dpg d="w681" g="w679" t="vrel" cr="vrel:w679" w="induced" l="induce" p="V"/>
+     <dpg d="E3" g="w681" t="obj" cr="" w="" l="assembly" p="N"/>
+     <dpg d="E3" g="w679" t="antecedent" cr="" w="" l="assembly" p="N"/>
+     <dpg d="w682" g="w681" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w683" g="w682" t="pcomp-n" cr="by-subj*by*n:w681" w="addition" l="~" p="N"/>
+     <dpg d="w684" g="w683" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w685" g="w686" t="nn" cr="nn:w686" w="2mM" l="~" p="N"/>
+     <dpg d="w686" g="w684" t="pcomp-n" cr="mod*of*n:w683" w="Mg+2" l="~" p="N"/>
+     <dpg d="w687" g="w681" t="punc" cr="punc:w681" w=")" l="~" p="U"/>
+     <dpg d="w688" g="w681" t="punc" cr="punc:w681" w="and" l="~" p="U"/>
+     <dpg d="w689" g="w681" t="conj" cr="conj:w681" w="reduced" l="reduce" p="V"/>
+     <dpg d="E4" g="w689" t="subj" cr="" w="" l="assembly" p="N"/>
+     <dpg d="E4" g="w679" t="antecedent" cr="" w="" l="assembly" p="N"/>
+     <dpg d="w690" g="w691" t="det" cr="det:w691" w="the" l="~" p="Det"/>
+     <dpg d="w691" g="w689" t="obj" cr="obj:w689" w="fraction" l="~" p="N"/>
+     <dpg d="w692" g="w691" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w693" g="w692" t="pcomp-n" cr="mod*of*n:w691||obj:w694" w="actin" l="~" p="N"/>
+     <dpg d="w694" g="w693" t="vrel" cr="vrel:w693" w="incorporated" l="incorporate" p="V"/>
+     <dpg d="E5" g="w694" t="obj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E5" g="w693" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w695" g="w694" t="mod" cr="" w="into" l="~" p="Prep"/>
+     <dpg d="w696" g="w695" t="pcomp-n" cr="mod*into*n:w694" w="filaments" l="filament" p="N"/>
+     <dpg d="w697" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

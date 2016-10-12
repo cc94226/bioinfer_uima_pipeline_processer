@@ -1,0 +1,73 @@
+<rexml>
+<doc id="1263">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w19955" g="E5" t="mod" cr="mod:w19966" w="Since" l="~" p="SentAdjunct"/>
+     <dpg d="E4" g="w19955" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w19956" g="w19958" t="s" cr="s+obj:w19958" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w19957" g="w19958" t="be" cr="be:w19958" w="is" l="be" p="be"/>
+     <dpg d="w19958" g="E4" t="i" cr="comp1:w19955" w="required" l="require" p="V"/>
+     <dpg d="E9" g="w19958" t="obj" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="E9" g="w19956" t="antecedent" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="w19959" g="w19958" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w19960" g="w19961" t="lex-mod" cr="lex-mod:w19961" w="cadherin" l="~" p="U"/>
+     <dpg d="w19961" g="w19962" t="mod" cr="mod:w19962" w="-mediated" l="cadherin -mediated" p="A"/>
+     <dpg d="w19962" g="w19959" t="pcomp-n" cr="mod*for*n:w19958" w="adhesion" l="~" p="N"/>
+     <dpg d="w19963" g="E5" t="punc" cr="punc:w19966" w="," l="~" p="U"/>
+     <dpg d="w19964" g="w19965" t="det" cr="det:w19965" w="the" l="~" p="Det"/>
+     <dpg d="w19965" g="w19966" t="s" cr="s+subj:w19966" w="armadillo" l="~" p="N"/>
+     <dpg d="w19966" g="E5" t="i" cr="" w="repeat" l="~" p="V"/>
+     <dpg d="E10" g="w19966" t="subj" cr="" w="" l="armadillo" p="N"/>
+     <dpg d="E10" g="w19965" t="antecedent" cr="" w="" l="armadillo" p="N"/>
+     <dpg d="E3" g="w19966" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w19967" g="w19971" t="s" cr="s+subj:w19971||s+subj:w19975" w="region" l="~" p="N"/>
+     <dpg d="w19968" g="w19969" t="mod" cr="mod:w19969" w="alone" l="~" p="A"/>
+     <dpg d="w19969" g="w19971" t="mod-before" cr="mod-before:w19971" w="probably" l="~" p="A"/>
+     <dpg d="w19970" g="w19971" t="aux" cr="aux:w19971" w="cannot" l="~" p="Aux"/>
+     <dpg d="w19971" g="E3" t="i" cr="fc:w19966" w="promote" l="~" p="V"/>
+     <dpg d="E11" g="w19971" t="subj" cr="" w="" l="region" p="N"/>
+     <dpg d="E11" g="w19967" t="antecedent" cr="" w="" l="region" p="N"/>
+     <dpg d="w19972" g="w19973" t="nn" cr="nn:w19973" w="cell" l="~" p="N"/>
+     <dpg d="w19973" g="w19971" t="obj" cr="obj:w19971" w="adhesion" l="~" p="N"/>
+     <dpg d="w19974" g="w19971" t="punc" cr="punc:w19971" w="," l="~" p="U"/>
+     <dpg d="E2" g="w19971" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E7" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="w19967" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w19975" g="E2" t="i" cr="mod:w19971" w="making" l="make" p="V"/>
+     <dpg d="E12" g="w19975" t="subj" cr="" w="" l="region" p="N"/>
+     <dpg d="E12" g="E7" t="antecedent" cr="" w="" l="region" p="N"/>
+     <dpg d="w19976" g="w19975" t="obj1" cr="obj1:w19975" w="it" l="~" p="N"/>
+     <dpg d="w19977" g="w19975" t="desc" cr="desc:w19975" w="unlikely" l="~" p="A"/>
+     <dpg d="E1" g="w19977" t="subj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w19978" g="E1" t="c" cr="c:w19980" w="that" l="~" p="COMP"/>
+     <dpg d="w19979" g="w19980" t="s" cr="s+subj:w19980||s+subj:w19984" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w19980" g="E1" t="i" cr="subj:w19977" w="induces" l="induce" p="V"/>
+     <dpg d="E13" g="w19980" t="subj" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="E13" g="w19979" t="antecedent" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="w19981" g="w19982" t="nn" cr="nn:w19982" w="axis" l="~" p="N"/>
+     <dpg d="w19982" g="w19980" t="obj" cr="obj:w19980" w="duplication" l="~" p="N"/>
+     <dpg d="w19983" g="w19982" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E0" g="w19983" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E6" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w19979" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w19984" g="E0" t="i" cr="mod*by*c:w19982" w="increasing" l="increase" p="V"/>
+     <dpg d="E14" g="w19984" t="subj" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="E14" g="E6" t="antecedent" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="w19985" g="w19986" t="nn" cr="nn:w19986" w="cell" l="~" p="N"/>
+     <dpg d="w19986" g="w19984" t="obj" cr="obj:w19984" w="adhesion" l="~" p="N"/>
+     <dpg d="w19987" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

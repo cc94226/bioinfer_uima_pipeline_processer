@@ -1,0 +1,256 @@
+<rexml>
+<doc id="919">
+  <text>
+<p><s id="s1"><w id="w14271">It</w> <w id="w14272">is</w> <w id="w14273">well</w> <w id="w14274">established</w> <w id="w14275">that</w> <w id="w14276">the</w> <w id="w14277">cytoplasmic</w> <w id="w14278">domain</w> <w id="w14279">of</w> <w id="w14280">E-cadherin</w> <w id="w14281">binds</w> <w id="w14282">either</w> <w id="w14283">beta-catenin</w> <w id="w14284">or</w> <w id="w14285">plakoglobin</w> <w id="w14286">,</w> <w id="w14287">which</w> <w id="w14288">both</w> <w id="w14289">can</w> <w id="w14290">assemble</w> <w id="w14291">alpha-catenin</w> <w id="w14292">into</w> <w id="w14293">the</w> <w id="w14294">complex</w> <w id="w14295">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3247" gid="g3116" t="Substructure_of_protein" fr="w14278" to="w14280" nam="yes">
+     <textspan type="extent">domain of E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.919.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3248" gid="g3117" t="RELATIONSHIP_TEXTBINDING" fr="w14281" to="w14281">
+     <textspan type="extent">binds</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.919.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3249" gid="g3118" t="Individual_protein" fr="w14285" to="w14285" nam="yes">
+     <textspan type="extent">plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.919.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3250" gid="g3119" t="Individual_protein" fr="w14283" to="w14283" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.919.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3251" gid="g3119" t="Individual_protein" fr="w14288" to="w14288" nam="yes">
+     <textspan type="extent">both</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.919.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3252" gid="g3120" t="RELATIONSHIP_TEXTBINDING" fr="w14282" to="w14284">
+     <textspan type="extent">either [..] or</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.919.5"/>
+      <exattr n="nst" v="st.919.11.0"/>
+      <exattr n="nst" v="st.919.13.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3253" gid="g3121" t="Protein_complex" fr="w14294" to="w14294" nam="yes">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.919.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3254" gid="g3118" t="Individual_protein" fr="w14288" to="w14288" nam="yes">
+     <textspan type="extent">both</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.919.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e3255" gid="g3122" t="Protein_complex" fr="w14294" to="w14294" nam="yes">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.919.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e3256" gid="g3123" t="RELATIONSHIP_TEXTBINDING" fr="w14290" to="w14290">
+     <textspan type="extent">assemble</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.919.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e3257" gid="g3124" t="Individual_protein" fr="w14280" to="w14280" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.919.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e3258" gid="g3125" t="RELATIONSHIP_TEXTBINDING" fr="w14290" to="w14292">
+     <textspan type="extent">assemble [..] into</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.919.11"/>
+      <exattr n="nst" v="st.919.19.0"/>
+      <exattr n="nst" v="st.919.21.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3259" gid="g3126" t="Individual_protein" fr="w14291" to="w14291" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.919.12"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1243" t="XOR" e1="e3248" e2="e3248" re="e3252">
+     <textspan type="extent">domain of E-cadherin binds either beta-catenin or plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.919.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="XOR"/>
+     </exattrs>
+    </rel>
+    <rel id="r1244" t="BIND" e1="e3247" e2="e3250" re="e3248">
+     <textspan type="extent">domain of E-cadherin binds either beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.919.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1245" t="BIND" e1="e3247" e2="e3249" re="e3248">
+     <textspan type="extent">domain of E-cadherin binds either beta-catenin or plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.919.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1248" t="REL-ENT" e1="e3253" e2="e3247" re="">
+     <textspan type="extent">domain of E-cadherin binds either beta-catenin or plakoglobin , which both can assemble alpha-catenin into the complex</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="REL-ENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1249" t="REL-ENT" e1="e3253" e2="e3250" re="">
+     <textspan type="extent">beta-catenin or plakoglobin , which both can assemble alpha-catenin into the complex</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="REL-ENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1250" t="CAUSE" e1="e3251" e2="e3258" re="e3256">
+     <textspan type="extent">both can assemble alpha-catenin into the complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.919.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1251" t="CONTAIN" e1="e3253" e2="e3259" re="e3258">
+     <textspan type="extent">assemble alpha-catenin into the complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.919.11"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1252" t="REL-ENT" e1="e3255" e2="e3247" re="">
+     <textspan type="extent">domain of E-cadherin binds either beta-catenin or plakoglobin , which both can assemble alpha-catenin into the complex</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="REL-ENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1253" t="REL-ENT" e1="e3255" e2="e3249" re="">
+     <textspan type="extent">plakoglobin , which both can assemble alpha-catenin into the complex</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="REL-ENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1254" t="CAUSE" e1="e3254" e2="e3258" re="e3256">
+     <textspan type="extent">both can assemble alpha-catenin into the complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.919.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1255" t="CONTAIN" e1="e3255" e2="e3259" re="e3258">
+     <textspan type="extent">assemble alpha-catenin into the complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.919.11"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

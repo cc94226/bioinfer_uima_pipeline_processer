@@ -1,0 +1,66 @@
+<rexml>
+<doc id="1037">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w16372" g="w16373" t="mod" cr="mod:w16373" w="Newly" l="~" p="A"/>
+     <dpg d="w16373" g="w16374" t="mod" cr="mod:w16374" w="disclosed" l="~" p="A"/>
+     <dpg d="w16374" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="interactions" l="interaction" p="N"/>
+     <dpg d="w16375" g="w16374" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w16376" g="w16375" t="pcomp-n" cr="mod*between*n:w16374" w="gephyrin" l="~" p="N"/>
+     <dpg d="w16377" g="w16376" t="punc" cr="punc:w16376" w="," l="~" p="U"/>
+     <dpg d="w16378" g="w16379" t="nn" cr="nn:w16379" w="exchange" l="~" p="N"/>
+     <dpg d="w16379" g="w16376" t="conj" cr="conj:w16376" w="factors" l="factor" p="N"/>
+     <dpg d="w16380" g="w16379" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w16381" g="w16382" t="nn" cr="nn:w16382" w="G" l="~" p="N"/>
+     <dpg d="w16382" g="w16380" t="pcomp-n" cr="mod*for*n:w16379" w="proteins" l="protein" p="N"/>
+     <dpg d="w16383" g="w16382" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w16384" g="w16385" t="det" cr="det:w16385" w="the" l="~" p="Det"/>
+     <dpg d="w16385" g="w16383" t="pcomp-n" cr="mod*of*n:w16382" w="Rho" l="~" p="N"/>
+     <dpg d="w16386" g="w16385" t="punc" cr="punc:w16385" w="and" l="~" p="U"/>
+     <dpg d="w16387" g="w16388" t="nn" cr="nn:w16388" w="Rac" l="~" p="N"/>
+     <dpg d="w16388" g="w16385" t="conj" cr="conj:w16385" w="families" l="family" p="N"/>
+     <dpg d="w16389" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16390" g="w16393" t="det" cr="det:w16393" w="the" l="~" p="Det"/>
+     <dpg d="w16391" g="w16393" t="mod" cr="mod:w16393" w="translational" l="~" p="A"/>
+     <dpg d="w16392" g="w16393" t="nn" cr="nn:w16393" w="regulator" l="~" p="N"/>
+     <dpg d="w16393" g="w16401" t="s" cr="s+subj:w16401||s+subj:w16407" w="RAFT1" l="~" p="N"/>
+     <dpg d="w16394" g="w16393" t="punc" cr="punc:w16393" w="," l="~" p="U"/>
+     <dpg d="w16395" g="w16393" t="punc" cr="punc:w16393" w="and" l="~" p="U"/>
+     <dpg d="w16396" g="w16397" t="mod" cr="mod:w16397" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w16397" g="w16393" t="conj" cr="conj:w16393" w="proteins" l="protein" p="N"/>
+     <dpg d="w16398" g="w16397" t="mod" cr="" w="like" l="~" p="Prep"/>
+     <dpg d="w16399" g="w16398" t="pcomp-n" cr="mod*like*n:w16397" w="profilin" l="~" p="N"/>
+     <dpg d="w16400" g="w16401" t="aux" cr="aux:w16401" w="might" l="~" p="Aux"/>
+     <dpg d="w16401" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="integrate" l="~" p="V"/>
+     <dpg d="E5" g="w16401" t="subj" cr="" w="" l="RAFT1" p="N"/>
+     <dpg d="E5" g="w16393" t="antecedent" cr="" w="" l="RAFT1" p="N"/>
+     <dpg d="w16402" g="w16401" t="obj" cr="obj:w16401" w="activity-dependent" l="activity-dependent" p="N"/>
+     <dpg d="w16403" g="w16402" t="punc" cr="punc:w16402" w="and" l="~" p="U"/>
+     <dpg d="w16404" g="w16405" t="mod" cr="mod:w16405" w="trophic-factor-mediated" l="trophic-factor-mediated" p="A"/>
+     <dpg d="w16405" g="w16402" t="conj" cr="conj:w16402" w="signals" l="signal" p="N"/>
+     <dpg d="w16406" g="w16405" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="E0" g="w16406" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w16393" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w16407" g="E0" t="i" cr="mod*at*c:w16405" w="developing" l="develop" p="V"/>
+     <dpg d="E6" g="w16407" t="subj" cr="" w="" l="RAFT1" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="RAFT1" p="N"/>
+     <dpg d="w16408" g="w16409" t="mod" cr="mod:w16409" w="postsynaptic" l="~" p="A"/>
+     <dpg d="w16409" g="w16407" t="obj" cr="obj:w16407" w="sites" l="site" p="N"/>
+     <dpg d="w16410" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

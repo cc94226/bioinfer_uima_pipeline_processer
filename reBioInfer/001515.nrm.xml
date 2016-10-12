@@ -1,0 +1,127 @@
+<rexml>
+<doc id="1515">
+  
+  <markup>
+   <nes>
+    <ne id="e5524" gid="g5277" t="Individual_protein" fr="w23814" to="w23814" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1515.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5526" gid="g5279" t="Substructure_of_protein" fr="w23817" to="w23829" nam="yes" sid="s1">
+     <textspan>motif in [..] yeast protein Sla2p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1515.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5527" gid="g5280" t="Substructure_of_protein" fr="w23817" to="w23824" nam="yes" sid="s1">
+     <textspan>motif in [..] metazoan [..] protein talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1515.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5529" gid="g5282" t="Individual_protein" fr="w23820" to="w23824" nam="yes" sid="s1">
+     <textspan>metazoan [..] protein talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1515.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5530" gid="g5283" t="Individual_protein" fr="w23824" to="w23824" nam="yes" sid="s1">
+     <textspan>talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1515.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5528" gid="g5281" t="Individual_protein" fr="w23827" to="w23829" nam="yes" sid="s1">
+     <textspan>yeast protein Sla2p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1515.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5531" gid="g5284" t="Individual_protein" fr="w23829" to="w23829" nam="yes" sid="s1">
+     <textspan>Sla2p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1515.7"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2117" t="BIND" e1="e5527" e2="e5524" re="e5525">
+     <textspan>actin - binding motif in the metazoan focal adhesion protein talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1515.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2118" t="BIND" e1="e5526" e2="e5524" re="e5525">
+     <textspan>actin - binding motif in the metazoan focal adhesion protein talin and the yeast protein Sla2p</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1515.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

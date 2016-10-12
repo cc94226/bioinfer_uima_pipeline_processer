@@ -1,0 +1,69 @@
+<rexml>
+<doc id="1957">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31440" g="w31441" t="nn" cr="nn:w31441" w="Tyrosine" l="~" p="N"/>
+     <dpg d="w31441" g="w31446" t="s" cr="s+obj:w31446" w="phosphorylation" l="~" p="N"/>
+     <dpg d="w31442" g="w31441" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31443" g="w31442" t="pcomp-n" cr="mod*of*n:w31441" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w31444" g="w31446" t="be" cr="be:w31446" w="was" l="be" p="be"/>
+     <dpg d="w31445" g="w31446" t="amod" cr="amod:w31446" w="concomitantly" l="~" p="A"/>
+     <dpg d="w31446" g="E2" t="i" cr="" w="induced" l="induce" p="V"/>
+     <dpg d="E5" g="w31446" t="obj" cr="" w="" l="phosphorylation" p="N"/>
+     <dpg d="E5" g="w31441" t="antecedent" cr="" w="" l="phosphorylation" p="N"/>
+     <dpg d="w31447" g="w31446" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w31448" g="w31447" t="pcomp-n" cr="mod*with*n:w31446" w="association" l="~" p="N"/>
+     <dpg d="w31449" g="w31448" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31450" g="w31449" t="pcomp-n" cr="mod*of*n:w31448" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w31451" g="w31450" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w31452" g="w31453" t="lex-mod" cr="lex-mod:w31453" w="EGF" l="~" p="U"/>
+     <dpg d="w31453" g="w31451" t="pcomp-n" cr="mod*with*n:w31450" w="receptor" l="EGF receptor" p="N"/>
+     <dpg d="w31454" g="w31455" t="punc" cr="punc:w31455" w="(" l="~" p="U"/>
+     <dpg d="w31455" g="w31453" t="abbrev" cr="abbrev:w31453" w="EGFR" l="~" p="N"/>
+     <dpg d="w31456" g="w31455" t="punc" cr="punc:w31455" w=")" l="~" p="U"/>
+     <dpg d="E1" g="w31446" t="mod" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31457" g="E1" t="wha" cr="wha:w31463" w="when" l="~" p="A"/>
+     <dpg d="w31458" g="w31459" t="mod" cr="mod:w31459" w="quiescent" l="~" p="A"/>
+     <dpg d="w31459" g="w31463" t="s" cr="s+obj:w31463||s+obj:w31472" w="cells" l="cell" p="N"/>
+     <dpg d="w31460" g="w31459" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w31461" g="w31460" t="pcomp-n" cr="mod*at*n:w31459" w="confluence" l="~" p="N"/>
+     <dpg d="w31462" g="w31463" t="be" cr="be:w31463" w="were" l="be" p="be"/>
+     <dpg d="w31463" g="E1" t="i" cr="mod:w31446" w="dissociated" l="dissociate" p="V"/>
+     <dpg d="E6" g="w31463" t="obj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E6" g="w31459" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w31464" g="w31463" t="mod" cr="" w="into" l="~" p="Prep"/>
+     <dpg d="w31465" g="w31466" t="mod" cr="mod:w31466" w="single" l="~" p="A"/>
+     <dpg d="w31466" g="w31464" t="pcomp-n" cr="mod*into*n:w31463" w="cells" l="cell" p="N"/>
+     <dpg d="w31467" g="w31466" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w31468" g="w31469" t="mod" cr="mod:w31469" w="tryptic" l="~" p="A"/>
+     <dpg d="w31469" g="w31467" t="pcomp-n" cr="mod*by*n:w31466" w="digestion" l="~" p="N"/>
+     <dpg d="w31470" g="w31463" t="punc" cr="punc:w31463" w="," l="~" p="U"/>
+     <dpg d="E0" g="w31463" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w31459" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31471" g="w31472" t="be" cr="be:w31472" w="being" l="be" p="be"/>
+     <dpg d="w31472" g="E0" t="i" cr="mod:w31463" w="accompanied" l="accompany" p="V"/>
+     <dpg d="E7" g="w31472" t="obj" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31473" g="w31472" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w31474" g="w31473" t="pcomp-n" cr="by-subj*by*n:w31472" w="dissociation" l="~" p="N"/>
+     <dpg d="w31475" g="w31474" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31476" g="w31475" t="pcomp-n" cr="mod*of*n:w31474" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w31477" g="w31476" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w31478" g="w31477" t="pcomp-n" cr="mod*from*n:w31476" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w31479" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

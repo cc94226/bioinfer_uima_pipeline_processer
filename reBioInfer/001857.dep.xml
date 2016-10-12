@@ -1,0 +1,54 @@
+<rexml>
+<doc id="1857">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29801" g="w29806" t="s" cr="s+subj:w29806" w="Thrombin" l="~" p="N"/>
+     <dpg d="w29802" g="w29806" t="punc" cr="punc:w29806" w="," l="~" p="U"/>
+     <dpg d="w29803" g="w29806" t="mod-before" cr="" w="within" l="~" p="Prep"/>
+     <dpg d="w29804" g="w29803" t="pcomp-n" cr="mod-before*within*n:w29806" w="seconds" l="second" p="N"/>
+     <dpg d="w29805" g="w29806" t="punc" cr="punc:w29806" w="," l="~" p="U"/>
+     <dpg d="w29806" g="E1" t="i" cr="" w="caused" l="cause" p="V"/>
+     <dpg d="E3" g="w29806" t="subj" cr="" w="" l="thrombin" p="N"/>
+     <dpg d="E3" g="w29801" t="antecedent" cr="" w="" l="thrombin" p="N"/>
+     <dpg d="w29807" g="w29808" t="mod" cr="mod:w29808" w="quantitative" l="~" p="A"/>
+     <dpg d="w29808" g="w29806" t="obj" cr="obj:w29806" w="conversion" l="~" p="N"/>
+     <dpg d="w29809" g="w29808" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29810" g="w29811" t="nn" cr="nn:w29811" w="platelet" l="~" p="N"/>
+     <dpg d="w29811" g="w29809" t="pcomp-n" cr="mod*of*n:w29808" w="profilin" l="~" p="N"/>
+     <dpg d="w29812" g="w29811" t="punc" cr="punc:w29811" w="and" l="~" p="U"/>
+     <dpg d="w29813" g="w29811" t="conj" cr="conj:w29811" w="gelsolin" l="~" p="N"/>
+     <dpg d="w29814" g="w29813" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w29815" g="w29816" t="mod" cr="mod:w29816" w="high-affinity" l="high-affinity" p="A"/>
+     <dpg d="w29816" g="w29814" t="pcomp-n" cr="mod*to*n:w29813" w="complexes" l="complex" p="N"/>
+     <dpg d="w29817" g="w29816" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w29818" g="w29817" t="pcomp-n" cr="mod*with*n:w29816" w="actin" l="~" p="N"/>
+     <dpg d="w29819" g="E1" t="punc" cr="punc:w29806" w="," l="~" p="U"/>
+     <dpg d="w29820" g="E1" t="punc" cr="punc:w29806" w="but" l="~" p="U"/>
+     <dpg d="E0" g="E1" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29821" g="w29822" t="det" cr="det:w29822" w="these" l="~" p="Det"/>
+     <dpg d="w29822" g="w29823" t="s" cr="s:w29823||subj:w29827" w="complexes" l="complex" p="N"/>
+     <dpg d="w29823" g="E0" t="i" cr="conj:w29806" w="were" l="be" p="VBE"/>
+     <dpg d="w29824" g="w29823" t="neg" cr="neg:w29823" w="not" l="~" p="A"/>
+     <dpg d="E4" g="w29827" t="subj" cr="" w="" l="complex" p="N"/>
+     <dpg d="E4" g="w29822" t="antecedent" cr="" w="" l="complex" p="N"/>
+     <dpg d="w29825" g="w29827" t="mod" cr="mod:w29827" w="present" l="~" p="A"/>
+     <dpg d="w29826" g="w29827" t="amount-value" cr="amount-value:w29827" w="5" l="~" p="N"/>
+     <dpg d="w29827" g="w29823" t="pred" cr="pred:w29823" w="min" l="~" p="N"/>
+     <dpg d="w29828" g="w29827" t="mod" cr="" w="after" l="~" p="Prep"/>
+     <dpg d="w29829" g="w29828" t="pcomp-n" cr="mod*after*n:w29827" w="stimulation" l="~" p="N"/>
+     <dpg d="w29830" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

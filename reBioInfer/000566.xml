@@ -1,0 +1,35 @@
+<rexml>
+<doc id="566">
+  <text>
+<p><s id="s1"><w id="w8074">Here</w> <w id="w8075">,</w> <w id="w8076">we</w> <w id="w8077">describe</w> <w id="w8078">proline-rich</w> <w id="w8079">proteins</w> <w id="w8080">involved</w> <w id="w8081">in</w> <w id="w8082">regulating</w> <w id="w8083">actin</w> <w id="w8084">polymerization</w> <w id="w8085">and</w> <w id="w8086">classify</w> <w id="w8087">them</w> <w id="w8088">according</w> <w id="w8089">to</w> <w id="w8090">their</w> <w id="w8091">role</w> <w id="w8092">in</w> <w id="w8093">recruiting</w> <w id="w8094">profilin</w> <w id="w8095">to</w> <w id="w8096">the</w> <w id="w8097">membrane</w> <w id="w8098">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1904" gid="g1823" t="Gene/protein/RNA" fr="w8094" to="w8094" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.566.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1905" gid="g1824" t="Gene/protein/RNA" fr="w8083" to="w8083" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.566.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

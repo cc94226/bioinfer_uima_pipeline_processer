@@ -1,0 +1,325 @@
+<rexml>
+<doc id="1381">
+  <text>
+<p><s id="s1"><w id="w21503">The</w> <w id="w21504">Arp</w><w id="w21505">2</w><w id="w21506">/</w><w id="w21507">3</w> <w id="w21508">complex</w> <w id="w21509">with</w> <w id="w21510">full-length</w> <w id="w21511">Scar</w> <w id="w21512">,</w> <w id="w21513">Scar</w> <w id="w21514">containing</w> <w id="w21515">P</w> <w id="w21516">,</w> <w id="w21517">W</w> <w id="w21518">,</w> <w id="w21519">and</w> <w id="w21520">A</w> <w id="w21521">domains</w> <w id="w21522">,</w> <w id="w21523">or</w> <w id="w21524">Scar</w> <w id="w21525">containing</w> <w id="w21526">W</w> <w id="w21527">and</w> <w id="w21528">A</w> <w id="w21529">domains</w> <w id="w21530">overcomes</w> <w id="w21531">inhibition</w> <w id="w21532">of</w> <w id="w21533">nucleation</w> <w id="w21534">by</w> <w id="w21535">the</w> <w id="w21536">actin</w> <w id="w21537">monomer</w><w id="w21538">-</w><w id="w21539">binding</w> <w id="w21540">protein</w> <w id="w21541">profilin</w> <w id="w21542">,</w> <w id="w21543">giving</w> <w id="w21544">active</w> <w id="w21545">nucleation</w> <w id="w21546">over</w> <w id="w21547">a</w> <w id="w21548">low</w> <w id="w21549">background</w> <w id="w21550">of</w> <w id="w21551">spontaneous</w> <w id="w21552">nucleation</w> <w id="w21553">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4992" gid="g4766" t="Individual_protein" fr="w21504" to="w21505" nam="yes">
+     <textspan type="extent">Arp2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1381.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4993" gid="g4767" t="RELATIONSHIP_TEXTBINDING" fr="w21508" to="w21508">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1381.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4994" gid="g4768" t="RELATIONSHIP_TEXTBINDING" fr="w21509" to="w21509">
+     <textspan type="extent">with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1381.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4995" gid="g4769" t="Individual_protein" fr="w21504" to="w21507" nam="yes">
+     <textspan type="extent">Arp [..] 3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1381.3"/>
+      <exattr n="nst" v="st.1381.1.0"/>
+      <exattr n="nst" v="st.1381.1.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4996" gid="g4770" t="Mutant" fr="w21524" to="w21529" nam="yes">
+     <textspan type="extent">Scar containing W and A domains</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.1381.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4997" gid="g4771" t="Mutant" fr="w21513" to="w21521" nam="yes">
+     <textspan type="extent">Scar containing P , W , and A domains</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.1381.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4998" gid="g4772" t="Individual_protein" fr="w21540" to="w21541" nam="yes">
+     <textspan type="extent">protein profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1381.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4999" gid="g4773" t="Individual_protein" fr="w21536" to="w21537" nam="yes">
+     <textspan type="extent">actin monomer</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1381.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5000" gid="g4774" t="ASSEMBLY" fr="w21533" to="w21541">
+     <textspan type="extent">nucleation by [..] protein profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1381.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e5001" gid="g4775" t="Individual_protein" fr="w21511" to="w21511" nam="yes">
+     <textspan type="extent">Scar</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1381.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e5002" gid="g4776" t="Individual_protein" fr="w21541" to="w21541" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1381.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e5003" gid="g4777" t="Individual_protein" fr="w21541" to="w21541" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1381.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e5004" gid="g4778" t="Protein_complex" fr="w21504" to="w21508" nam="yes">
+     <textspan type="extent">Arp2/3 complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1381.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e5005" gid="g4779" t="Individual_protein" fr="w21536" to="w21536" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1381.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e5006" gid="g4780" t="Individual_protein" fr="w21541" to="w21541" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1381.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e5007" gid="g4781" t="RELATIONSHIP_TEXTBINDING" fr="w21539" to="w21539">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1381.15"/>
+     </exattrs>
+    </ne>
+    <ne id="e5008" gid="g4782" t="SUPPRESSION" fr="w21531" to="w21541">
+     <textspan type="extent">inhibition of nucleation by [..] protein profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Negative"/>
+      <exattr n="t4" v="SUPPRESSION"/>
+      <exattr n="bd" v="e.1381.16"/>
+     </exattrs>
+    </ne>
+    <ne id="e5009" gid="g4783" t="Individual_protein" fr="w21513" to="w21513" nam="yes">
+     <textspan type="extent">Scar</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1381.17"/>
+     </exattrs>
+    </ne>
+    <ne id="e5010" gid="g4784" t="Individual_protein" fr="w21524" to="w21524" nam="yes">
+     <textspan type="extent">Scar</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1381.18"/>
+     </exattrs>
+    </ne>
+    <ne id="e5011" gid="g4785" t="RELATIONSHIP_TEXTBINDING" fr="w21530" to="w21530">
+     <textspan type="extent">overcomes</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1381.19"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1911" t="CONTAIN" e1="e5004" e2="e4992" re="e4993">
+     <textspan type="extent">Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1381.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1912" t="CONTAIN" e1="e5004" e2="e4995" re="e4993">
+     <textspan type="extent">Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1381.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1913" t="BIND" e1="e4998" e2="e4999" re="e5007">
+     <textspan type="extent">actin monomer - binding protein profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1381.15"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1914" t="PRESENCE" e1="e5001" e2="e5011" re="e4994">
+     <textspan type="extent">Arp 2 / 3 complex with full-length Scar , Scar containing P , W , and A domains , or Scar containing W and A domains overcomes inhibition of nucleation by the actin monomer - binding protein profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1381.2"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="PRESENCE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1915" t="HALT" e1="e5004" e2="e5008" re="e5011">
+     <textspan type="extent">Arp 2 / 3 complex with full-length Scar , Scar containing P , W , and A domains , or Scar containing W and A domains overcomes inhibition of nucleation by the actin monomer - binding protein profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1381.19"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Full-Stop"/>
+      <exattr n="t5" v="HALT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1916" t="PRESENCE" e1="e4997" e2="e5011" re="e4994">
+     <textspan type="extent">Arp 2 / 3 complex with full-length Scar , Scar containing P , W , and A domains , or Scar containing W and A domains overcomes inhibition of nucleation by the actin monomer - binding protein profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1381.2"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="PRESENCE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1917" t="HALT" e1="e5004" e2="e5008" re="e5011">
+     <textspan type="extent">Arp 2 / 3 complex with full-length Scar , Scar containing P , W , and A domains , or Scar containing W and A domains overcomes inhibition of nucleation by the actin monomer - binding protein profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1381.19"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Full-Stop"/>
+      <exattr n="t5" v="HALT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1918" t="PRESENCE" e1="e4996" e2="e5011" re="e4994">
+     <textspan type="extent">Arp 2 / 3 complex with full-length Scar , Scar containing P , W , and A domains , or Scar containing W and A domains overcomes inhibition of nucleation by the actin monomer - binding protein profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1381.2"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="PRESENCE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1919" t="HALT" e1="e5004" e2="e5008" re="e5011">
+     <textspan type="extent">Arp 2 / 3 complex with full-length Scar , Scar containing P , W , and A domains , or Scar containing W and A domains overcomes inhibition of nucleation by the actin monomer - binding protein profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1381.19"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Full-Stop"/>
+      <exattr n="t5" v="HALT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,316 @@
+<rexml>
+<doc id="1111">
+  <text>
+<p><s id="s1"><w id="w17574">PDGF</w> <w id="w17575">treatment</w> <w id="w17576">had</w> <w id="w17577">no</w> <w id="w17578">effect</w> <w id="w17579">on</w> <w id="w17580">talin</w> <w id="w17581">,</w> <w id="w17582">vimentin</w> <w id="w17583">,</w> <w id="w17584">or</w> <w id="w17585">microtubule</w> <w id="w17586">distribution</w> <w id="w17587">in</w> <w id="w17588">BALB/c-3T3</w> <w id="w17589">cells</w> <w id="w17590">;</w> <w id="w17591">in</w> <w id="w17592">addition</w> <w id="w17593">,</w> <w id="w17594">exposure</w> <w id="w17595">of</w> <w id="w17596">cells</w> <w id="w17597">to</w> <w id="w17598">5</w> <w id="w17599">%</w> <w id="w17600">platelet-poor</w> <w id="w17601">plasma</w> <w id="w17602">(</w> <w id="w17603">PPP</w> <w id="w17604">)</w> <w id="w17605">,</w> <w id="w17606">0.1</w> <w id="w17607">%</w> <w id="w17608">PPP</w> <w id="w17609">,</w> <w id="w17610">30</w> <w id="w17611">ng/ml</w> <w id="w17612">epidermal</w> <w id="w17613">growth</w> <w id="w17614">factor</w> <w id="w17615">(</w> <w id="w17616">EGF</w> <w id="w17617">)</w> <w id="w17618">,</w> <w id="w17619">30</w> <w id="w17620">ng/ml</w> <w id="w17621">somatomedin</w> <w id="w17622">C</w> <w id="w17623">,</w> <w id="w17624">or</w> <w id="w17625">10</w> <w id="w17626">microM</w> <w id="w17627">insulin</w> <w id="w17628">also</w> <w id="w17629">had</w> <w id="w17630">no</w> <w id="w17631">effect</w> <w id="w17632">on</w> <w id="w17633">vinculin</w> <w id="w17634">or</w> <w id="w17635">actin</w> <w id="w17636">distribution</w> <w id="w17637">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4057" gid="g3878" t="Individual_protein" fr="w17627" to="w17627" nam="yes">
+     <textspan type="extent">insulin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1111.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4058" gid="g3879" t="Individual_protein" fr="w17635" to="w17635" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1111.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4059" gid="g3880" t="Individual_protein" fr="w17580" to="w17580" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1111.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4060" gid="g3881" t="RELATIONSHIP_TEXTBINDING" fr="w17578" to="w17579">
+     <textspan type="extent">effect on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1111.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4061" gid="g3882" t="RELATIONSHIP_TEXTBINDING" fr="w17577" to="w17577">
+     <textspan type="extent">no</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1111.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4062" gid="g3883" t="RELATIONSHIP_TEXTBINDING" fr="w17631" to="w17632">
+     <textspan type="extent">effect on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1111.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4063" gid="g3884" t="RELATIONSHIP_TEXTBINDING" fr="w17630" to="w17630">
+     <textspan type="extent">no</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1111.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4064" gid="g3885" t="Individual_protein" fr="w17633" to="w17633" nam="yes">
+     <textspan type="extent">vinculin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1111.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e4065" gid="g3886" t="Individual_protein" fr="w17574" to="w17574" nam="yes">
+     <textspan type="extent">PDGF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1111.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e4066" gid="g3887" t="Individual_protein" fr="w17582" to="w17582" nam="yes">
+     <textspan type="extent">vimentin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1111.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e4067" gid="g3888" t="Individual_protein" fr="w17621" to="w17622" nam="yes">
+     <textspan type="extent">somatomedin C</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1111.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e4068" gid="g3889" t="Artificial" fr="w17574" to="w17575" nam="yes">
+     <textspan type="extent">PDGF treatment</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Artificial"/>
+      <exattr n="bd" v="e.1111.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e4069" gid="g3890" t="LOCALIZATION" fr="w17582" to="w17586">
+     <textspan type="extent">vimentin [..] distribution</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.1111.12"/>
+      <exattr n="nst" v="st.1111.8.0"/>
+      <exattr n="nst" v="st.1111.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4070" gid="g3891" t="LOCALIZATION" fr="w17580" to="w17586">
+     <textspan type="extent">talin [..] distribution</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.1111.13"/>
+      <exattr n="nst" v="st.1111.6.0"/>
+      <exattr n="nst" v="st.1111.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4071" gid="g3892" t="Artificial" fr="w17594" to="w17622" nam="yes">
+     <textspan type="extent">exposure [..] to [..] somatomedin C</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Artificial"/>
+      <exattr n="bd" v="e.1111.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e4072" gid="g3893" t="Artificial" fr="w17594" to="w17614" nam="yes">
+     <textspan type="extent">exposure [..] to [..] epidermal growth factor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Artificial"/>
+      <exattr n="bd" v="e.1111.15"/>
+     </exattrs>
+    </ne>
+    <ne id="e4073" gid="g3894" t="LOCALIZATION" fr="w17633" to="w17636">
+     <textspan type="extent">vinculin [..] distribution</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.1111.16"/>
+      <exattr n="nst" v="st.1111.59.0"/>
+      <exattr n="nst" v="st.1111.62.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4074" gid="g3895" t="Artificial" fr="w17594" to="w17627" nam="yes">
+     <textspan type="extent">exposure [..] to [..] insulin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Artificial"/>
+      <exattr n="bd" v="e.1111.17"/>
+     </exattrs>
+    </ne>
+    <ne id="e4075" gid="g3896" t="Individual_protein" fr="w17616" to="w17616" nam="yes">
+     <textspan type="extent">EGF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1111.18"/>
+     </exattrs>
+    </ne>
+    <ne id="e4076" gid="g3897" t="LOCALIZATION" fr="w17635" to="w17636">
+     <textspan type="extent">actin distribution</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.1111.19"/>
+     </exattrs>
+    </ne>
+    <ne id="e4077" gid="g3896" t="Individual_protein" fr="w17612" to="w17614" nam="yes">
+     <textspan type="extent">epidermal growth factor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1111.20"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1556" t="AFFECT" e1="e4068" e2="e4070" re="e4060">
+     <textspan type="extent">PDGF treatment had no effect on talin , vimentin , or microtubule distribution</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1111.3"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1558" t="AFFECT" e1="e4068" e2="e4069" re="e4060">
+     <textspan type="extent">PDGF treatment had no effect on talin , vimentin , or microtubule distribution</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1111.3"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1560" t="AFFECT" e1="e4072" e2="e4073" re="e4062">
+     <textspan type="extent">exposure of cells to 5 % platelet-poor plasma ( PPP ) , 0.1 % PPP , 30 ng/ml epidermal growth factor ( EGF ) , 30 ng/ml somatomedin C , or 10 microM insulin also had no effect on vinculin or actin distribution</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1111.5"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1562" t="AFFECT" e1="e4071" e2="e4073" re="e4062">
+     <textspan type="extent">exposure of cells to 5 % platelet-poor plasma ( PPP ) , 0.1 % PPP , 30 ng/ml epidermal growth factor ( EGF ) , 30 ng/ml somatomedin C , or 10 microM insulin also had no effect on vinculin or actin distribution</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1111.5"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1564" t="AFFECT" e1="e4074" e2="e4073" re="e4062">
+     <textspan type="extent">exposure of cells to 5 % platelet-poor plasma ( PPP ) , 0.1 % PPP , 30 ng/ml epidermal growth factor ( EGF ) , 30 ng/ml somatomedin C , or 10 microM insulin also had no effect on vinculin or actin distribution</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1111.5"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1566" t="AFFECT" e1="e4072" e2="e4076" re="e4062">
+     <textspan type="extent">exposure of cells to 5 % platelet-poor plasma ( PPP ) , 0.1 % PPP , 30 ng/ml epidermal growth factor ( EGF ) , 30 ng/ml somatomedin C , or 10 microM insulin also had no effect on vinculin or actin distribution</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1111.5"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1568" t="AFFECT" e1="e4071" e2="e4076" re="e4062">
+     <textspan type="extent">exposure of cells to 5 % platelet-poor plasma ( PPP ) , 0.1 % PPP , 30 ng/ml epidermal growth factor ( EGF ) , 30 ng/ml somatomedin C , or 10 microM insulin also had no effect on vinculin or actin distribution</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1111.5"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1570" t="AFFECT" e1="e4074" e2="e4076" re="e4062">
+     <textspan type="extent">exposure of cells to 5 % platelet-poor plasma ( PPP ) , 0.1 % PPP , 30 ng/ml epidermal growth factor ( EGF ) , 30 ng/ml somatomedin C , or 10 microM insulin also had no effect on vinculin or actin distribution</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1111.5"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

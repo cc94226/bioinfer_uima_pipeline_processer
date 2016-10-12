@@ -1,0 +1,77 @@
+<rexml>
+<doc id="643">
+  <text>
+<p><s id="s1"><w id="w9707">However</w> <w id="w9708">,</w> <w id="w9709">upon</w> <w id="w9710">treatment</w> <w id="w9711">with</w> <w id="w9712">DMSO</w> <w id="w9713">,</w> <w id="w9714">cytoplasmic</w> <w id="w9715">actin</w> <w id="w9716">filaments</w> <w id="w9717">were</w> <w id="w9718">disrupted</w> <w id="w9719">and</w> <w id="w9720">intranuclear</w> <w id="w9721">rod</w> <w id="w9722">structures</w> <w id="w9723">containing</w> <w id="w9724">cofilin</w> <w id="w9725">and</w> <w id="w9726">actin</w> <w id="w9727">were</w> <w id="w9728">apparently</w> <w id="w9729">larger</w> <w id="w9730">and</w> <w id="w9731">thicker</w> <w id="w9732">in</w> <w id="w9733">cells</w> <w id="w9734">overexpressing</w> <w id="w9735">cofilin</w> <w id="w9736">than</w> <w id="w9737">in</w> <w id="w9738">normal</w> <w id="w9739">cells</w> <w id="w9740">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2297" gid="g2199" t="Gene/protein/RNA" fr="w9715" to="w9715" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.643.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2298" gid="g2200" t="RELATIONSHIP_TEXTBINDING" fr="w9722" to="w9723">
+     <textspan type="extent">structures containing</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.643.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2299" gid="g2201" t="Individual_protein" fr="w9726" to="w9726" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.643.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2300" gid="g2202" t="Individual_protein" fr="w9724" to="w9724" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.643.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2301" gid="g2203" t="Gene/protein/RNA" fr="w9735" to="w9735" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.643.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r891" t="COLOCALIZE" e1="e2300" e2="e2299" re="e2298">
+     <textspan type="extent">structures containing cofilin and actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.643.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

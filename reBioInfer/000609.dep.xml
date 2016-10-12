@@ -1,0 +1,89 @@
+<rexml>
+<doc id="609">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w8922" g="w8924" t="lex-mod" cr="lex-mod:w8924" w="Herpes" l="~" p="U"/>
+     <dpg d="w8923" g="w8924" t="lex-mod" cr="lex-mod:w8924" w="simplex" l="~" p="U"/>
+     <dpg d="w8924" g="w8926" t="nn" cr="nn:w8926" w="virus" l="herpes simplex virus" p="N"/>
+     <dpg d="w8925" g="w8926" t="lex-mod" cr="lex-mod:w8926" w="type" l="~" p="U"/>
+     <dpg d="w8926" g="E2" t="subclass" cr="subclass:E2" w="1" l="type 1" p="N"/>
+     <dpg d="w8927" g="w8926" t="punc" cr="punc:w8926" w="(" l="~" p="U"/>
+     <dpg d="w8928" g="w8926" t="appo" cr="appo:w8926" w="HSV-1" l="HSV-1" p="N"/>
+     <dpg d="w8929" g="E2" t="punc" cr="punc:E2" w=")" l="~" p="U"/>
+     <dpg d="w8930" g="E2" t="punc" cr="punc:E2" w="encodes" l="~" p="U"/>
+     <dpg d="w8931" g="E2" t="punc" cr="punc:E2" w="a" l="~" p="U"/>
+     <dpg d="w8932" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="helicase-primase" l="helicase-primase" p="A"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8933" g="E0" t="whn" cr="whn+subj:w8934" w="that" l="~" p="THAT"/>
+     <dpg d="w8934" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="consists" l="consist of" p="V"/>
+     <dpg d="w8935" g="w8934" t="lex-mod" cr="lex-mod:w8934" w="of" l="~" p="U"/>
+     <dpg d="E3" g="w8934" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E3" g="w8933" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w8936" g="w8937" t="nn" cr="nn:w8937" w="three" l="~" p="N"/>
+     <dpg d="w8937" g="w8934" t="obj" cr="obj:w8934||obj:w8938" w="polypeptides" l="polypeptide" p="N"/>
+     <dpg d="w8938" g="w8937" t="vrel" cr="vrel:w8937" w="encoded" l="encode" p="V"/>
+     <dpg d="E4" g="w8938" t="obj" cr="" w="" l="polypeptide" p="N"/>
+     <dpg d="E4" g="w8937" t="antecedent" cr="" w="" l="polypeptide" p="N"/>
+     <dpg d="w8939" g="w8938" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w8940" g="w8941" t="det" cr="det:w8941" w="the" l="~" p="Det"/>
+     <dpg d="w8941" g="w8939" t="pcomp-n" cr="by-subj*by*n:w8938" w="UL5" l="~" p="N"/>
+     <dpg d="w8942" g="w8941" t="punc" cr="punc:w8941" w="," l="~" p="U"/>
+     <dpg d="w8943" g="w8941" t="conj" cr="conj:w8941" w="UL8" l="~" p="N"/>
+     <dpg d="w8944" g="w8943" t="punc" cr="punc:w8943" w="," l="~" p="U"/>
+     <dpg d="w8945" g="w8943" t="punc" cr="punc:w8943" w="and" l="~" p="U"/>
+     <dpg d="w8946" g="w8949" t="nn" cr="nn:w8949" w="UL52" l="~" p="N"/>
+     <dpg d="w8947" g="w8949" t="nn" cr="nn:w8949" w="genes" l="gene" p="N"/>
+     <dpg d="w8948" g="w8949" t="punc" cr="punc:w8949" w="(" l="~" p="U"/>
+     <dpg d="w8949" g="w8943" t="conj" cr="conj:w8943" w="Crute" l="~" p="N"/>
+     <dpg d="w8950" g="w8941" t="punc" cr="punc:w8941" w="," l="~" p="U"/>
+     <dpg d="w8951" g="w8941" t="appo" cr="appo:w8941" w="J.J." l="~" p="N"/>
+     <dpg d="w8952" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w8953" g="E2" t="subclass" cr="subclass:E2" w="Tsurumi" l="~" p="N"/>
+     <dpg d="w8954" g="w8953" t="punc" cr="punc:w8953" w="," l="~" p="U"/>
+     <dpg d="w8955" g="w8953" t="appo" cr="appo:w8953" w="T." l="~" p="N"/>
+     <dpg d="w8956" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w8957" g="E2" t="subclass" cr="subclass:E2" w="Zhu" l="~" p="N"/>
+     <dpg d="w8958" g="w8957" t="punc" cr="punc:w8957" w="," l="~" p="U"/>
+     <dpg d="w8959" g="w8957" t="appo" cr="appo:w8957" w="L." l="~" p="N"/>
+     <dpg d="w8960" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w8961" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="Weller" l="well" p="A"/>
+     <dpg d="w8962" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w8963" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="S.K." l="~" p="N"/>
+     <dpg d="w8964" g="w8963" t="punc" cr="punc:w8963" w="," l="~" p="U"/>
+     <dpg d="w8965" g="w8963" t="conj" cr="conj:w8963" w="Olivo" l="~" p="N"/>
+     <dpg d="w8966" g="w8965" t="punc" cr="punc:w8965" w="," l="~" p="U"/>
+     <dpg d="w8967" g="w8965" t="conj" cr="conj:w8965" w="P.D." l="~" p="N"/>
+     <dpg d="w8968" g="w8967" t="punc" cr="punc:w8967" w="," l="~" p="U"/>
+     <dpg d="w8969" g="w8967" t="conj" cr="conj:w8967" w="Challberg" l="~" p="N"/>
+     <dpg d="w8970" g="w8969" t="punc" cr="punc:w8969" w="," l="~" p="U"/>
+     <dpg d="w8971" g="w8969" t="conj" cr="conj:w8969" w="M.D." l="~" p="N"/>
+     <dpg d="w8972" g="w8971" t="punc" cr="punc:w8971" w="," l="~" p="U"/>
+     <dpg d="w8973" g="w8971" t="conj" cr="conj:w8971" w="Mocarski" l="~" p="N"/>
+     <dpg d="w8974" g="w8973" t="punc" cr="punc:w8973" w="," l="~" p="U"/>
+     <dpg d="w8975" g="w8973" t="conj" cr="conj:w8973" w="E.S." l="~" p="N"/>
+     <dpg d="w8976" g="w8975" t="punc" cr="punc:w8975" w="," l="~" p="U"/>
+     <dpg d="w8977" g="w8975" t="punc" cr="punc:w8975" w="and" l="~" p="U"/>
+     <dpg d="w8978" g="w8975" t="conj" cr="conj:w8975" w="Lehman" l="~" p="N"/>
+     <dpg d="w8979" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w8980" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="I.R." l="~" p="N"/>
+     <dpg d="w8981" g="E2" t="punc" cr="punc:E2" w="(" l="~" p="U"/>
+     <dpg d="w8982" g="w8985" t="num" cr="num:w8985" w="1989" l="~" p="N"/>
+     <dpg d="w8983" g="w8985" t="punc" cr="punc:w8985" w=")" l="~" p="U"/>
+     <dpg d="w8984" g="w8985" t="lex-mod" cr="lex-mod:w8985" w="Proc." l="~" p="U"/>
+     <dpg d="w8985" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="Natl" l="Proc Natl" p="N"/>
+     <dpg d="w8986" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

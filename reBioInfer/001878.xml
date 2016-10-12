@@ -1,0 +1,106 @@
+<rexml>
+<doc id="1878">
+  <text>
+<p><s id="s1"><w id="w30089">Thus</w> <w id="w30090">,</w> <w id="w30091">poly-L-proline</w> <w id="w30092">binding</w> <w id="w30093">,</w> <w id="w30094">actin</w> <w id="w30095">binding</w> <w id="w30096">,</w> <w id="w30097">and</w> <w id="w30098">actin</w> <w id="w30099">nucleotide</w> <w id="w30100">exchange</w> <w id="w30101">are</w> <w id="w30102">each</w> <w id="w30103">independent</w> <w id="w30104">requirements</w> <w id="w30105">for</w> <w id="w30106">profilin</w> <w id="w30107">function</w> <w id="w30108">in</w> <w id="w30109">fission</w> <w id="w30110">yeast</w> <w id="w30111">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6975" gid="g6659" t="BINDING" fr="w30094" to="w30095">
+     <textspan type="extent">actin binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="BINDING"/>
+      <exattr n="bd" v="e.1878.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6976" gid="g6660" t="RELATIONSHIP_TEXTBINDING" fr="w30104" to="w30105">
+     <textspan type="extent">requirements for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1878.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6977" gid="g6661" t="Function_property" fr="w30106" to="w30107">
+     <textspan type="extent">profilin function</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.1878.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6978" gid="g6662" t="Individual_protein" fr="w30094" to="w30094" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1878.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6979" gid="g6663" t="LOCALIZATION" fr="w30098" to="w30100">
+     <textspan type="extent">actin [..] exchange</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.1878.4"/>
+      <exattr n="nst" v="st.1878.9.0"/>
+      <exattr n="nst" v="st.1878.11.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6980" gid="g6664" t="Individual_protein" fr="w30098" to="w30098" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1878.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6981" gid="g6665" t="Individual_protein" fr="w30106" to="w30106" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1878.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2685" t="CONDITION" e1="e6975" e2="e6977" re="e6976">
+     <textspan type="extent">actin binding , and actin nucleotide exchange are each independent requirements for profilin function</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1878.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2686" t="CONDITION" e1="e6979" e2="e6977" re="e6976">
+     <textspan type="extent">actin nucleotide exchange are each independent requirements for profilin function</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1878.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

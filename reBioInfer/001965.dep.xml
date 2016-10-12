@@ -1,0 +1,52 @@
+<rexml>
+<doc id="1965">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31554" g="E1" t="mod" cr="" w="Unlike" l="~" p="Prep"/>
+     <dpg d="w31555" g="w31554" t="pcomp-n" cr="mod*unlike*n:w31563" w="fimbrin" l="~" p="N"/>
+     <dpg d="w31556" g="E1" t="punc" cr="punc:w31563" w="," l="~" p="U"/>
+     <dpg d="w31557" g="w31562" t="gen" cr="gen:w31562" w="L-plastin" l="L-plastin" p="N"/>
+     <dpg d="w31558" g="w31557" t="poss" cr="poss:w31557" w="'s" l="~" p="U"/>
+     <dpg d="w31559" g="w31561" t="lex-mod" cr="lex-mod:w31561" w="actin" l="~" p="U"/>
+     <dpg d="w31560" g="w31561" t="lex-mod" cr="lex-mod:w31561" w="-" l="~" p="U"/>
+     <dpg d="w31561" g="w31562" t="mod" cr="mod:w31562" w="bundling" l="actin - bundling" p="A"/>
+     <dpg d="w31562" g="w31563" t="s" cr="s:w31563||subj:w31565" w="action" l="~" p="N"/>
+     <dpg d="w31563" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="was" l="be" p="VBE"/>
+     <dpg d="w31564" g="w31563" t="guest" cr="guest:w31563" w="strictly" l="~" p="A"/>
+     <dpg d="E4" g="w31565" t="subj" cr="" w="" l="action" p="N"/>
+     <dpg d="E4" g="w31562" t="antecedent" cr="" w="" l="action" p="N"/>
+     <dpg d="w31565" g="w31563" t="pred" cr="pred:w31563" w="calcium-dependent" l="calcium-dependent" p="N"/>
+     <dpg d="w31566" g="E3" t="punc" cr="punc:E3" w=":" l="~" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31567" g="w31568" t="det" cr="det:w31568" w="the" l="~" p="Det"/>
+     <dpg d="w31568" g="w31570" t="s" cr="s+obj:w31570" w="bundles" l="bundle" p="N"/>
+     <dpg d="w31569" g="w31570" t="be" cr="be:w31570" w="were" l="be" p="be"/>
+     <dpg d="w31570" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="formed" l="form" p="V"/>
+     <dpg d="E5" g="w31570" t="obj" cr="" w="" l="bundle" p="N"/>
+     <dpg d="E5" g="w31568" t="antecedent" cr="" w="" l="bundle" p="N"/>
+     <dpg d="w31571" g="w31570" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w31572" g="w31571" t="pcomp-n" cr="mod*at*n:w31570" w="pCa" l="~" p="N"/>
+     <dpg d="w31573" g="w31572" t="num" cr="num:w31572" w="7" l="~" p="N"/>
+     <dpg d="w31574" g="w31571" t="punc" cr="punc:w31571" w="," l="~" p="U"/>
+     <dpg d="w31575" g="w31571" t="punc" cr="punc:w31571" w="but" l="~" p="U"/>
+     <dpg d="w31576" g="w31571" t="punc" cr="punc:w31571" w="not" l="~" p="U"/>
+     <dpg d="w31577" g="w31571" t="conj" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w31578" g="w31577" t="pcomp-n" cr="mod*at*n:w31570" w="pCa" l="~" p="N"/>
+     <dpg d="w31579" g="w31578" t="num" cr="num:w31578" w="6" l="~" p="N"/>
+     <dpg d="w31580" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

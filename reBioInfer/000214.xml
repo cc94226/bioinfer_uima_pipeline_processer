@@ -1,0 +1,152 @@
+<rexml>
+<doc id="214">
+  <text>
+<p><s id="s1"><w id="w3259">Because</w> <w id="w3260">both</w> <w id="w3261">proteins</w> <w id="w3262">exchange</w> <w id="w3263">rapidly</w> <w id="w3264">between</w> <w id="w3265">actin</w> <w id="w3266">molecules</w> <w id="w3267">,</w> <w id="w3268">low</w> <w id="w3269">concentrations</w> <w id="w3270">of</w> <w id="w3271">profilin</w> <w id="w3272">can</w> <w id="w3273">overcome</w> <w id="w3274">the</w> <w id="w3275">inhibitory</w> <w id="w3276">effects</w> <w id="w3277">of</w> <w id="w3278">high</w> <w id="w3279">concentrations</w> <w id="w3280">of</w> <w id="w3281">thymosin</w> <w id="w3282">beta</w> <w id="w3283">4</w> <w id="w3284">on</w> <w id="w3285">the</w> <w id="w3286">nucleotide</w> <w id="w3287">exchange</w> <w id="w3288">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e789" gid="g762" t="Individual_protein" fr="w3265" to="w3265" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.214.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e790" gid="g763" t="RELATIONSHIP_TEXTBINDING" fr="w3273" to="w3273">
+     <textspan type="extent">overcome</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.214.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e791" gid="g764" t="EFFECT" fr="w3276" to="w3283">
+     <textspan type="extent">effects of [..] concentrations of thymosin beta 4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="EFFECT"/>
+      <exattr n="bd" v="e.214.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e792" gid="g765" t="Amount_property" fr="w3269" to="w3271">
+     <textspan type="extent">concentrations of profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.214.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e793" gid="g766" t="Individual_protein" fr="w3265" to="w3266" nam="yes">
+     <textspan type="extent">actin molecules</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.214.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e794" gid="g767" t="Amount_property" fr="w3279" to="w3283">
+     <textspan type="extent">concentrations of thymosin beta 4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.214.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e795" gid="g768" t="Individual_protein" fr="w3281" to="w3283" nam="yes">
+     <textspan type="extent">thymosin beta 4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.214.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e796" gid="g769" t="Individual_protein" fr="w3271" to="w3271" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.214.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e797" gid="g770" t="Individual_protein" fr="w3260" to="w3261" nam="yes">
+     <textspan type="extent">both proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.214.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e798" gid="g768" t="Individual_protein" fr="w3260" to="w3260" nam="yes">
+     <textspan type="extent">both</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.214.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e799" gid="g771" t="RELATIONSHIP_TEXTBINDING" fr="w3262" to="w3264">
+     <textspan type="extent">exchange [..] between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.214.10"/>
+      <exattr n="nst" v="st.214.3.0"/>
+      <exattr n="nst" v="st.214.5.0"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r295" t="HALT" e1="e792" e2="e791" re="e790">
+     <textspan type="extent">concentrations of profilin can overcome the inhibitory effects of high concentrations of thymosin beta 4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.214.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Full-Stop"/>
+      <exattr n="t5" v="HALT"/>
+     </exattrs>
+    </rel>
+    <rel id="r298" t="LOCALIZE-TO" e1="e797" e2="e793" re="e799">
+     <textspan type="extent">both proteins exchange rapidly between actin molecules</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.214.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

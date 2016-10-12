@@ -1,0 +1,85 @@
+<rexml>
+<doc id="845">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13113" g="E2" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w13114" g="w13116" t="gen" cr="gen:w13116" w="their" l="~" p="N"/>
+     <dpg d="w13115" g="w13116" t="mod" cr="mod:w13116" w="cytoplasmic" l="~" p="A"/>
+     <dpg d="w13116" g="w13113" t="pcomp-n" cr="mod*in*n:w13122" w="region" l="~" p="N"/>
+     <dpg d="w13117" g="E2" t="punc" cr="punc:w13122" w="," l="~" p="U"/>
+     <dpg d="w13118" g="w13122" t="s" cr="s+subj:w13122" w="some" l="~" p="N"/>
+     <dpg d="w13119" g="w13118" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w13120" g="w13121" t="det" cr="det:w13121" w="these" l="~" p="Det"/>
+     <dpg d="w13121" g="w13119" t="pcomp-n" cr="mod*of*n:w13118" w="receptors" l="receptor" p="N"/>
+     <dpg d="w13122" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="share" l="~" p="V"/>
+     <dpg d="E6" g="w13122" t="subj" cr="" w="" l="some" p="N"/>
+     <dpg d="E6" g="w13118" t="antecedent" cr="" w="" l="some" p="N"/>
+     <dpg d="w13123" g="w13125" t="det" cr="det:w13125" w="a" l="~" p="Det"/>
+     <dpg d="w13124" g="w13125" t="mod" cr="mod:w13125" w="conserved" l="~" p="A"/>
+     <dpg d="w13125" g="w13122" t="obj" cr="obj:w13122" w="sequence" l="~" p="N"/>
+     <dpg d="E1" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13126" g="w13128" t="lex-mod" cr="lex-mod:w13128" w="motif" l="~" p="U"/>
+     <dpg d="w13127" g="w13128" t="lex-mod" cr="lex-mod:w13128" w="-" l="~" p="U"/>
+     <dpg d="w13128" g="w13132" t="mod" cr="mod:w13132" w="the" l="motif - the" p="A"/>
+     <dpg d="w13129" g="w13132" t="nn" cr="nn:w13132" w="death" l="~" p="N"/>
+     <dpg d="w13130" g="w13132" t="lex-mod" cr="lex-mod:w13132" w="domain" l="~" p="U"/>
+     <dpg d="w13131" g="w13132" t="lex-mod" cr="lex-mod:w13132" w="-" l="~" p="U"/>
+     <dpg d="w13132" g="w13134" t="s" cr="s+obj:w13134||s+subj:w13142" w="which" l="domain - which" p="N"/>
+     <dpg d="w13133" g="w13134" t="be" cr="be:w13134" w="is" l="be" p="be"/>
+     <dpg d="w13134" g="E1" t="i" cr="UNSPECRELTYPE:E5" w="required" l="require" p="V"/>
+     <dpg d="E7" g="w13134" t="obj" cr="" w="" l="domain - which" p="N"/>
+     <dpg d="E7" g="w13132" t="antecedent" cr="" w="" l="domain - which" p="N"/>
+     <dpg d="w13135" g="w13134" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w13136" g="w13135" t="pcomp-n" cr="mod*for*n:w13134" w="transduction" l="~" p="N"/>
+     <dpg d="w13137" g="w13136" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w13138" g="w13140" t="det" cr="det:w13140" w="the" l="~" p="Det"/>
+     <dpg d="w13139" g="w13140" t="mod" cr="mod:w13140" w="apoptotic" l="~" p="A"/>
+     <dpg d="w13140" g="w13137" t="pcomp-n" cr="mod*of*n:w13136" w="signal" l="~" p="N"/>
+     <dpg d="w13141" g="w13140" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E0" g="w13141" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w13132" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w13142" g="E0" t="i" cr="mod*by*c:w13140" w="recruiting" l="recruit" p="V"/>
+     <dpg d="E8" g="w13142" t="subj" cr="" w="" l="domain - which" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="domain - which" p="N"/>
+     <dpg d="w13143" g="w13146" t="mod" cr="mod:w13146" w="other" l="~" p="A"/>
+     <dpg d="w13144" g="w13146" t="mod" cr="mod:w13146" w="death-domain-containing" l="death-domain-containing" p="A"/>
+     <dpg d="w13145" g="w13146" t="nn" cr="nn:w13146" w="adaptor" l="~" p="N"/>
+     <dpg d="w13146" g="w13142" t="obj" cr="obj:w13142" w="molecules" l="molecule" p="N"/>
+     <dpg d="w13147" g="w13146" t="mod" cr="" w="like" l="~" p="Prep"/>
+     <dpg d="w13148" g="w13155" t="det" cr="det:w13155" w="the" l="~" p="Det"/>
+     <dpg d="w13149" g="w13151" t="lex-mod" cr="lex-mod:w13151" w="Fas" l="~" p="U"/>
+     <dpg d="w13150" g="w13151" t="lex-mod" cr="lex-mod:w13151" w="-" l="~" p="U"/>
+     <dpg d="w13151" g="w13155" t="mod" cr="mod:w13155" w="associated" l="Fas - associated" p="A"/>
+     <dpg d="w13152" g="w13155" t="nn" cr="nn:w13155" w="protein" l="~" p="N"/>
+     <dpg d="w13153" g="w13155" t="nn" cr="nn:w13155" w="FADD" l="~" p="N"/>
+     <dpg d="w13154" g="w13155" t="nn" cr="nn:w13155" w="/" l="~" p="N"/>
+     <dpg d="w13155" g="w13147" t="pcomp-n" cr="mod*like*n:w13146" w="MORT1" l="~" p="N"/>
+     <dpg d="w13156" g="w13155" t="punc" cr="punc:w13155" w="or" l="~" p="U"/>
+     <dpg d="w13157" g="w13158" t="det" cr="det:w13158" w="the" l="~" p="Det"/>
+     <dpg d="w13158" g="w13155" t="conj" cr="conj:w13155" w="TNF" l="~" p="N"/>
+     <dpg d="w13159" g="w13161" t="lex-mod" cr="lex-mod:w13161" w="receptor" l="~" p="U"/>
+     <dpg d="w13160" g="w13161" t="lex-mod" cr="lex-mod:w13161" w="-" l="~" p="U"/>
+     <dpg d="w13161" g="w13165" t="mod" cr="mod:w13165" w="associated" l="receptor - associated" p="A"/>
+     <dpg d="w13162" g="w13165" t="nn" cr="nn:w13165" w="protein" l="~" p="N"/>
+     <dpg d="w13163" g="w13165" t="nn" cr="nn:w13165" w="TRADD" l="~" p="N"/>
+     <dpg d="w13164" g="w13165" t="punc" cr="punc:w13165" w="[" l="~" p="U"/>
+     <dpg d="w13165" g="E5" t="subcat" cr="subcat:E5" w="2-4" l="2-4" p="N"/>
+     <dpg d="w13166" g="" t="" cr="" w="]" l="~" p="U"/>
+     <dpg d="w13167" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

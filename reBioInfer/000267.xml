@@ -1,0 +1,66 @@
+<rexml>
+<doc id="267">
+  <text>
+<p><s id="s1"><w id="w4029">By</w> <w id="w4030">1</w> <w id="w4031">h</w> <w id="w4032">the</w> <w id="w4033">cells</w> <w id="w4034">were</w> <w id="w4035">well</w> <w id="w4036">spread</w> <w id="w4037">with</w> <w id="w4038">straight</w> <w id="w4039">actin</w> <w id="w4040">bundles</w> <w id="w4041">many</w> <w id="w4042">of</w> <w id="w4043">which</w> <w id="w4044">ended</w> <w id="w4045">at</w> <w id="w4046">more</w> <w id="w4047">central</w> <w id="w4048">sites</w> <w id="w4049">terminating</w> <w id="w4050">on</w> <w id="w4051">patches</w> <w id="w4052">containing</w> <w id="w4053">vinculin</w> <w id="w4054">and</w> <w id="w4055">talin</w> <w id="w4056">;</w> <w id="w4057">thus</w> <w id="w4058">the</w> <w id="w4059">cells</w> <w id="w4060">assemble</w> <w id="w4061">typical</w> <w id="w4062">stress</w> <w id="w4063">fibers</w> <w id="w4064">but</w> <w id="w4065">do</w> <w id="w4066">not</w> <w id="w4067">appear</w> <w id="w4068">to</w> <w id="w4069">polarize</w> <w id="w4070">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e987" gid="g946" t="Gene/protein/RNA" fr="w4039" to="w4039" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.267.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e988" gid="g947" t="RELATIONSHIP_TEXTBINDING" fr="w4051" to="w4052">
+     <textspan type="extent">patches containing</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.267.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e989" gid="g948" t="Individual_protein" fr="w4055" to="w4055" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.267.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e990" gid="g949" t="Individual_protein" fr="w4053" to="w4053" nam="yes">
+     <textspan type="extent">vinculin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.267.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r378" t="COLOCALIZE" e1="e990" e2="e989" re="e988">
+     <textspan type="extent">patches containing vinculin and talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.267.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

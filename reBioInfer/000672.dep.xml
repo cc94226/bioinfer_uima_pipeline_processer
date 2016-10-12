@@ -1,0 +1,57 @@
+<rexml>
+<doc id="672">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10141" g="w10142" t="nn" cr="nn:w10142" w="Immunofluorescence" l="~" p="N"/>
+     <dpg d="w10142" g="w10151" t="s" cr="s+subj:w10151" w="staining" l="~" p="N"/>
+     <dpg d="w10143" g="w10142" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10144" g="w10146" t="det" cr="det:w10146" w="a" l="~" p="Det"/>
+     <dpg d="w10145" g="w10146" t="mod" cr="mod:w10146" w="wild-type" l="wild-type" p="A"/>
+     <dpg d="w10146" g="w10143" t="pcomp-n" cr="mod*of*n:w10142||s+subj:w10147" w="strain" l="~" p="N"/>
+     <dpg d="E2" g="w10146" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w10146" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w10147" g="E2" t="i" cr="rel:w10146" w="using" l="use" p="V"/>
+     <dpg d="E6" g="w10147" t="subj" cr="" w="" l="strain" p="N"/>
+     <dpg d="E6" g="E4" t="antecedent" cr="" w="" l="strain" p="N"/>
+     <dpg d="w10148" g="w10149" t="lex-mod" cr="lex-mod:w10149" w="anti-" l="~" p="U"/>
+     <dpg d="w10149" g="w10150" t="mod" cr="mod:w10150" w="Aip1" l="anti- Aip1" p="A"/>
+     <dpg d="w10150" g="w10147" t="obj" cr="obj:w10147" w="antibodies" l="antibody" p="N"/>
+     <dpg d="w10151" g="E3" t="i" cr="" w="revealed" l="reveal" p="V"/>
+     <dpg d="E7" g="w10151" t="subj" cr="" w="" l="staining" p="N"/>
+     <dpg d="E7" g="w10142" t="antecedent" cr="" w="" l="staining" p="N"/>
+     <dpg d="E1" g="w10151" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10152" g="E1" t="c" cr="c:w10155" w="that" l="~" p="COMP"/>
+     <dpg d="w10153" g="w10155" t="s" cr="s+obj:w10155" w="Aip1" l="~" p="N"/>
+     <dpg d="w10154" g="w10155" t="be" cr="be:w10155" w="was" l="be" p="be"/>
+     <dpg d="w10155" g="E1" t="i" cr="fc:w10151" w="distributed" l="distribute" p="V"/>
+     <dpg d="E8" g="w10155" t="obj" cr="" w="" l="Aip1" p="N"/>
+     <dpg d="E8" g="w10153" t="antecedent" cr="" w="" l="Aip1" p="N"/>
+     <dpg d="w10156" g="w10155" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w10157" g="w10159" t="mod" cr="mod:w10159" w="cortical" l="~" p="A"/>
+     <dpg d="w10158" g="w10159" t="nn" cr="nn:w10159" w="actin" l="~" p="N"/>
+     <dpg d="w10159" g="w10156" t="pcomp-n" cr="mod*in*n:w10155" w="patches" l="patch" p="N"/>
+     <dpg d="E0" g="w10159" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10160" g="E0" t="wha" cr="wha:w10162" w="where" l="~" p="A"/>
+     <dpg d="w10161" g="w10162" t="s" cr="s:w10162||subj:w10164" w="cofilin" l="~" p="N"/>
+     <dpg d="w10162" g="E0" t="i" cr="rel:w10159" w="was" l="be" p="VBE"/>
+     <dpg d="w10163" g="w10162" t="guest" cr="guest:w10162" w="also" l="~" p="A"/>
+     <dpg d="E9" g="w10164" t="subj" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="E9" g="w10161" t="antecedent" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="w10164" g="w10162" t="pred" cr="pred:w10162" w="co-localized" l="co-localized" p="N"/>
+     <dpg d="w10165" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

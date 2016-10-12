@@ -1,0 +1,161 @@
+<rexml>
+<doc id="1073">
+  <text>
+<p><s id="s1"><w id="w17014">Opposite</w> <w id="w17015">effects</w> <w id="w17016">of</w> <w id="w17017">cofilin</w> <w id="w17018">and</w> <w id="w17019">profilin</w> <w id="w17020">from</w> <w id="w17021">porcine</w> <w id="w17022">brain</w> <w id="w17023">on</w> <w id="w17024">rate</w> <w id="w17025">of</w> <w id="w17026">exchange</w> <w id="w17027">of</w> <w id="w17028">actin</w><w id="w17029">-bound</w> <w id="w17030">adenosine</w> <w id="w17031">5'-triphosphate</w> <w id="w17032">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3884" gid="g3714" t="RELATIONSHIP_TEXTBINDING" fr="w17015" to="w17023">
+     <textspan type="extent">effects of [..] on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1073.0"/>
+      <exattr n="nst" v="st.1073.1.0"/>
+      <exattr n="nst" v="st.1073.2.0"/>
+      <exattr n="nst" v="st.1073.9.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3885" gid="g3715" t="Individual_protein" fr="w17017" to="w17022" nam="yes">
+     <textspan type="extent">cofilin [..] from porcine brain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1073.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3886" gid="g3716" t="Dynamics_property" fr="w17024" to="w17031">
+     <textspan type="extent">rate of exchange of actin-bound adenosine 5'-triphosphate</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.1073.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3887" gid="g3717" t="Individual_protein" fr="w17019" to="w17022" nam="yes">
+     <textspan type="extent">profilin from porcine brain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1073.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3888" gid="g3718" t="LOCALIZATION" fr="w17026" to="w17031">
+     <textspan type="extent">exchange of actin-bound adenosine 5'-triphosphate</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.1073.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3889" gid="g3719" t="Nucleotide" fr="w17028" to="w17031" nam="yes">
+     <textspan type="extent">actin-bound adenosine 5'-triphosphate</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="Nucleotide"/>
+      <exattr n="bd" v="e.1073.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3890" gid="g3720" t="Individual_protein" fr="w17017" to="w17017" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1073.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3891" gid="g3721" t="Individual_protein" fr="w17019" to="w17019" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1073.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e3892" gid="g3722" t="Individual_protein" fr="w17028" to="w17028" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1073.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e3893" gid="g3723" t="Individual_protein" fr="w17028" to="w17028" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1073.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e3894" gid="g3724" t="Individual_protein" fr="w17028" to="w17028" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1073.10"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1487" t="AFFECT" e1="e3885" e2="e3886" re="e3884">
+     <textspan type="extent">effects of cofilin and profilin from porcine brain on rate of exchange of actin -bound adenosine 5'-triphosphate</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1073.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1488" t="AFFECT" e1="e3887" e2="e3886" re="e3884">
+     <textspan type="extent">effects of cofilin and profilin from porcine brain on rate of exchange of actin -bound adenosine 5'-triphosphate</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1073.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

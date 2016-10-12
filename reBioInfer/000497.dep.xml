@@ -1,0 +1,47 @@
+<rexml>
+<doc id="497">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6916" g="E1" t="mod" cr="mod:w6926" w="First" l="~" p="A"/>
+     <dpg d="w6917" g="E1" t="punc" cr="punc:w6926" w="," l="~" p="U"/>
+     <dpg d="w6918" g="w6924" t="det" cr="det:w6924" w="the" l="~" p="Det"/>
+     <dpg d="w6919" g="w6924" t="mod" cr="mod:w6924" w="C-terminal" l="C-terminal" p="A"/>
+     <dpg d="w6920" g="w6923" t="lex-mod" cr="lex-mod:w6923" w="verprolin" l="~" p="U"/>
+     <dpg d="w6921" g="w6923" t="lex-mod" cr="lex-mod:w6923" w="-" l="~" p="U"/>
+     <dpg d="w6922" g="w6923" t="lex-mod" cr="lex-mod:w6923" w="cofilin" l="~" p="U"/>
+     <dpg d="w6923" g="w6924" t="mod" cr="mod:w6924" w="-acidic" l="verprolin - cofilin -acidic" p="A"/>
+     <dpg d="w6924" g="w6926" t="s" cr="s+obj:w6926||s:w6928||subj:w6929" w="domain" l="~" p="N"/>
+     <dpg d="w6925" g="w6926" t="be" cr="be:w6926" w="was" l="be" p="be"/>
+     <dpg d="w6926" g="E1" t="i" cr="" w="shown" l="show" p="V"/>
+     <dpg d="E4" g="w6926" t="obj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E4" g="w6924" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="E0" g="w6926" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w6924" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6927" g="w6928" t="aux" cr="aux:w6928" w="to" l="~" p="Aux"/>
+     <dpg d="w6928" g="E0" t="i" cr="mod:w6926" w="be" l="~" p="VBE"/>
+     <dpg d="w6929" g="w6928" t="pred" cr="pred:w6928" w="essential" l="~" p="N"/>
+     <dpg d="E5" g="w6929" t="subj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="w6930" g="w6929" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w6931" g="w6932" t="det" cr="det:w6932" w="the" l="~" p="Det"/>
+     <dpg d="w6932" g="w6930" t="pcomp-n" cr="mod*for*n:w6929" w="regulation" l="~" p="N"/>
+     <dpg d="w6933" g="w6932" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6934" g="w6935" t="nn" cr="nn:w6935" w="actin" l="~" p="N"/>
+     <dpg d="w6935" g="w6933" t="pcomp-n" cr="mod*of*n:w6932" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w6936" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

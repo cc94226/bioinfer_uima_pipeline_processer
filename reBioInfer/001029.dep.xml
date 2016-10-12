@@ -1,0 +1,52 @@
+<rexml>
+<doc id="1029">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16290" g="w16294" t="nn" cr="nn:w16294" w="Myosin" l="~" p="N"/>
+     <dpg d="w16291" g="w16294" t="mod" cr="mod:w16294" w="heavy" l="~" p="A"/>
+     <dpg d="w16292" g="w16294" t="nn" cr="nn:w16294" w="chain" l="~" p="N"/>
+     <dpg d="w16293" g="w16294" t="nn" cr="nn:w16294" w="A" l="~" p="N"/>
+     <dpg d="w16294" g="w16295" t="s" cr="s:w16295||subj:w16296" w="staining" l="~" p="N"/>
+     <dpg d="w16295" g="E1" t="i" cr="" w="was" l="be" p="VBE"/>
+     <dpg d="w16296" g="w16295" t="pred" cr="pred:w16295" w="dimmer" l="~" p="N"/>
+     <dpg d="E3" g="w16296" t="subj" cr="" w="" l="staining" p="N"/>
+     <dpg d="E3" g="w16294" t="antecedent" cr="" w="" l="staining" p="N"/>
+     <dpg d="w16297" g="E1" t="punc" cr="punc:w16295" w="and" l="~" p="U"/>
+     <dpg d="E0" g="E1" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16298" g="w16299" t="gen" cr="gen:w16299" w="its" l="~" p="N"/>
+     <dpg d="w16299" g="w16307" t="s" cr="s:w16307||subj:w16309" w="colocalization" l="~" p="N"/>
+     <dpg d="w16300" g="w16299" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w16301" g="w16303" t="mod" cr="mod:w16303" w="filamentous" l="~" p="A"/>
+     <dpg d="w16302" g="w16303" t="nn" cr="nn:w16303" w="actin" l="~" p="N"/>
+     <dpg d="w16303" g="w16300" t="pcomp-n" cr="mod*with*n:w16299" w="bundles" l="bundle" p="N"/>
+     <dpg d="w16304" g="w16303" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w16305" g="w16306" t="nn" cr="nn:w16306" w="growth" l="~" p="N"/>
+     <dpg d="w16306" g="w16304" t="pcomp-n" cr="mod*in*n:w16303" w="cones" l="cone" p="N"/>
+     <dpg d="w16307" g="E0" t="i" cr="conj:w16295" w="was" l="be" p="VBE"/>
+     <dpg d="w16308" g="w16307" t="guest" cr="guest:w16307" w="less" l="~" p="A"/>
+     <dpg d="E4" g="w16309" t="subj" cr="" w="" l="colocalization" p="N"/>
+     <dpg d="E4" g="w16299" t="antecedent" cr="" w="" l="colocalization" p="N"/>
+     <dpg d="w16309" g="w16307" t="pred" cr="pred:w16307" w="striking" l="~" p="N"/>
+     <dpg d="w16310" g="w16309" t="mod" cr="" w="than" l="~" p="Prep"/>
+     <dpg d="w16311" g="w16310" t="pcomp-n" cr="mod*than*n:w16309" w="that" l="~" p="N"/>
+     <dpg d="w16312" g="w16309" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w16313" g="w16316" t="nn" cr="nn:w16316" w="myosin" l="~" p="N"/>
+     <dpg d="w16314" g="w16316" t="mod" cr="mod:w16316" w="heavy" l="~" p="A"/>
+     <dpg d="w16315" g="w16316" t="nn" cr="nn:w16316" w="chain" l="~" p="N"/>
+     <dpg d="w16316" g="w16312" t="pcomp-n" cr="mod*of*n:w16309" w="B" l="~" p="N"/>
+     <dpg d="w16317" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

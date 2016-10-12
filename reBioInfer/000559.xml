@@ -1,0 +1,86 @@
+<rexml>
+<doc id="559">
+  <text>
+<p><s id="s1"><w id="w7882">Hence</w> <w id="w7883">,</w> <w id="w7884">we</w> <w id="w7885">conclude</w> <w id="w7886">that</w> <w id="w7887">in</w> <w id="w7888">its</w> <w id="w7889">dimeric</w> <w id="w7890">form</w> <w id="w7891">,</w> <w id="w7892">which</w> <w id="w7893">is</w> <w id="w7894">used</w> <w id="w7895">in</w> <w id="w7896">actin</w> <w id="w7897">and</w> <w id="w7898">lipid</w> <w id="w7899">binding</w> <w id="w7900">,</w> <w id="w7901">talin</w> <w id="w7902">is</w> <w id="w7903">a</w> <w id="w7904">dumbbell-shaped</w> <w id="w7905">molecule</w> <w id="w7906">built</w> <w id="w7907">of</w> <w id="w7908">two</w> <w id="w7909">antiparallel</w> <w id="w7910">subunits</w> <w id="w7911">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1863" gid="g1783" t="Individual_protein" fr="w7896" to="w7896" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.559.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1864" gid="g1784" t="RELATIONSHIP_TEXTBINDING" fr="w7899" to="w7899">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.559.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1865" gid="g1785" t="Protein_complex" fr="w7888" to="w7890" nam="yes">
+     <textspan type="extent">its [..] form</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.559.2"/>
+      <exattr n="nst" v="st.559.6.0"/>
+      <exattr n="nst" v="st.559.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1866" gid="g1786" t="Individual_protein" fr="w7901" to="w7901" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.559.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1867" gid="g1786" t="Individual_protein" fr="w7888" to="w7888" nam="yes">
+     <textspan type="extent">its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.559.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r736" t="BIND" e1="e1865" e2="e1863" re="e1864">
+     <textspan type="extent">its dimeric form , which is used in actin and lipid binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.559.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

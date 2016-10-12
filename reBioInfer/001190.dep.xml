@@ -1,0 +1,63 @@
+<rexml>
+<doc id="1190">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w18808" g="w18809" t="mod" cr="mod:w18809" w="Reduced" l="~" p="A"/>
+     <dpg d="w18809" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="expression" l="~" p="N"/>
+     <dpg d="w18810" g="w18809" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w18811" g="w18810" t="pcomp-n" cr="mod*of*n:w18809" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w18812" g="w18811" t="punc" cr="punc:w18811" w="and" l="~" p="U"/>
+     <dpg d="w18813" g="w18811" t="conj" cr="conj:w18811" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w18814" g="w18813" t="punc" cr="punc:w18813" w="," l="~" p="U"/>
+     <dpg d="w18815" g="w18813" t="punc" cr="punc:w18813" w="as" l="~" p="U"/>
+     <dpg d="w18816" g="w18813" t="punc" cr="punc:w18813" w="well" l="~" p="U"/>
+     <dpg d="w18817" g="w18813" t="punc" cr="punc:w18813" w="as" l="~" p="U"/>
+     <dpg d="w18818" g="w18813" t="conj" cr="conj:w18813" w="mutations" l="mutation" p="N"/>
+     <dpg d="w18819" g="w18818" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w18820" g="w18822" t="det" cr="det:w18822" w="the" l="~" p="Det"/>
+     <dpg d="w18821" g="w18822" t="mod" cr="mod:w18822" w="E-cadherin" l="E-cadherin" p="A"/>
+     <dpg d="w18822" g="w18819" t="pcomp-n" cr="mod*in*n:w18818" w="gene" l="~" p="N"/>
+     <dpg d="w18823" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w18824" g="E2" t="punc" cr="punc:E2" w="have" l="~" p="U"/>
+     <dpg d="w18825" g="E2" t="punc" cr="punc:E2" w="been" l="~" p="U"/>
+     <dpg d="w18826" g="E2" t="punc" cr="punc:E2" w="found" l="~" p="U"/>
+     <dpg d="w18827" g="E2" t="p" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w18828" g="w18829" t="mod" cr="mod:w18829" w="various" l="~" p="A"/>
+     <dpg d="w18829" g="w18827" t="pcomp-n" cr="p*in*n:E2" w="carcinomas" l="carcinoma" p="N"/>
+     <dpg d="w18830" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w18831" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="whereas" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w18831" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18832" g="w18842" t="s" cr="s+obj:w18842" w="mutations" l="mutation" p="N"/>
+     <dpg d="w18833" g="w18832" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w18834" g="w18839" t="det" cr="det:w18839" w="the" l="~" p="Det"/>
+     <dpg d="w18835" g="w18838" t="lex-mod" cr="lex-mod:w18838" w="alpha-" l="~" p="U"/>
+     <dpg d="w18836" g="w18838" t="lex-mod" cr="lex-mod:w18838" w="and" l="~" p="U"/>
+     <dpg d="w18837" g="w18838" t="lex-mod" cr="lex-mod:w18838" w="beta-" l="~" p="U"/>
+     <dpg d="w18838" g="w18839" t="mod" cr="mod:w18839" w="catenin" l="alpha- and beta- catenin" p="A"/>
+     <dpg d="w18839" g="w18833" t="pcomp-n" cr="mod*in*n:w18832" w="genes" l="gene" p="N"/>
+     <dpg d="w18840" g="w18842" t="have" cr="have:w18842" w="have" l="~" p="have"/>
+     <dpg d="w18841" g="w18842" t="be" cr="be:w18842" w="been" l="be" p="be"/>
+     <dpg d="w18842" g="E0" t="i" cr="comp1:w18831" w="described" l="describe" p="V"/>
+     <dpg d="E3" g="w18842" t="obj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E3" g="w18832" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="w18843" g="w18842" t="mod" cr="mod:w18842" w="only" l="~" p="A"/>
+     <dpg d="w18844" g="w18843" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w18845" g="w18847" t="nn" cr="nn:w18847" w="carcinoma" l="~" p="N"/>
+     <dpg d="w18846" g="w18847" t="nn" cr="nn:w18847" w="cell" l="~" p="N"/>
+     <dpg d="w18847" g="w18844" t="pcomp-n" cr="mod*in*n:w18843" w="lines" l="line" p="N"/>
+     <dpg d="w18848" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

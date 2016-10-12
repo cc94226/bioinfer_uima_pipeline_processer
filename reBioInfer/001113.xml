@@ -1,0 +1,72 @@
+<rexml>
+<doc id="1113">
+  <text>
+<p><s id="s1"><w id="w17638">Pervanadate</w> <w id="w17639">caused</w> <w id="w17640">a</w> <w id="w17641">dramatic</w> <w id="w17642">augmentation</w> <w id="w17643">of</w> <w id="w17644">the</w> <w id="w17645">phosphorylation</w> <w id="w17646">of</w> <w id="w17647">E-cadherin</w> <w id="w17648">,</w> <w id="w17649">beta-catenin</w> <w id="w17650">,</w> <w id="w17651">and</w> <w id="w17652">gamma-catenin</w> <w id="w17653">(</w> <w id="w17654">plakoglobin</w> <w id="w17655">)</w> <w id="w17656">,</w> <w id="w17657">but</w> <w id="w17658">alpha-catenin</w> <w id="w17659">was</w> <w id="w17660">not</w> <w id="w17661">detectably</w> <w id="w17662">phosphorylated</w> <w id="w17663">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4078" gid="g3898" t="Gene/protein/RNA" fr="w17647" to="w17647" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1113.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4079" gid="g3899" t="Individual_protein" fr="w17652" to="w17652" nam="yes">
+     <textspan type="extent">gamma-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1113.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4080" gid="g3900" t="Gene/protein/RNA" fr="w17649" to="w17649" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1113.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4081" gid="g3899" t="Individual_protein" fr="w17654" to="w17654" nam="yes">
+     <textspan type="extent">plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1113.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4082" gid="g3901" t="Gene/protein/RNA" fr="w17658" to="w17658" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1113.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

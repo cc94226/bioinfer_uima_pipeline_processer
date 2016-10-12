@@ -1,0 +1,68 @@
+<rexml>
+<doc id="1766">
+  <text>
+<p><s id="s1"><w id="w28121">These</w> <w id="w28122">two</w> <w id="w28123">proteins</w> <w id="w28124">were</w> <w id="w28125">identified</w> <w id="w28126">as</w> <w id="w28127">the</w> <w id="w28128">phosphorylated</w> <w id="w28129">and</w> <w id="w28130">non-phosphorylated</w> <w id="w28131">forms</w> <w id="w28132">of</w> <w id="w28133">the</w> <w id="w28134">pH-sensitive</w> <w id="w28135">actin</w><w id="w28136">-</w><w id="w28137">depolymerizing</w> <w id="w28138">protein</w> <w id="w28139">,</w> <w id="w28140">cofilin</w> <w id="w28141">,</w> <w id="w28142">by</w> <w id="w28143">sequencing</w> <w id="w28144">of</w> <w id="w28145">peptide</w> <w id="w28146">fragments</w> <w id="w28147">and</w> <w id="w28148">immunoblotting</w> <w id="w28149">with</w> <w id="w28150">a</w> <w id="w28151">monoclonal</w> <w id="w28152">antibody</w> <w id="w28153">specific</w> <w id="w28154">for</w> <w id="w28155">cofilin</w> <w id="w28156">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6508" gid="g6210" t="Individual_protein" fr="w28135" to="w28135" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1766.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6509" gid="g6211" t="RELATIONSHIP_TEXTBINDING" fr="w28137" to="w28137">
+     <textspan type="extent">depolymerizing</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1766.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6510" gid="g6212" t="Gene/protein/RNA" fr="w28155" to="w28155" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1766.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6511" gid="g6213" t="Individual_protein" fr="w28140" to="w28140" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1766.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2510" t="DEPOLYMERIZE" e1="e6511" e2="e6508" re="e6509">
+     <textspan type="extent">actin - depolymerizing protein , cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1766.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="DEPOLYMERIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

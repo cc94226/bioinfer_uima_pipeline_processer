@@ -1,0 +1,99 @@
+<rexml>
+<doc id="1881">
+  
+  <markup>
+   <nes>
+    <ne id="e6982" gid="g6666" t="Individual_protein" fr="w30115" to="w30115" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1881.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6986" gid="g6670" t="Substructure_of_protein" fr="w30119" to="w30121" nam="yes" sid="s1">
+     <textspan>sequence of cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1881.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6987" gid="g6671" t="Individual_protein" fr="w30121" to="w30121" nam="yes" sid="s1">
+     <textspan>cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1881.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6984" gid="g6668" t="Substructure_of_protein" fr="w30126" to="w30128" nam="yes" sid="s1">
+     <textspan>domain in cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1881.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6988" gid="g6672" t="Individual_protein" fr="w30128" to="w30128" nam="yes" sid="s1">
+     <textspan>cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1881.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2687" t="BIND" e1="e6986" e2="e6982" re="e6983">
+     <textspan>actin - binding dodecapeptide sequence of cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1881.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2688" t="SUBSTRUCTURE" e1="e6984" e2="e6986" re="e6985">
+     <textspan>sequence of cofilin may constitute a multifunctional domain in cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1881.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="SUBSTRUCTURE"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

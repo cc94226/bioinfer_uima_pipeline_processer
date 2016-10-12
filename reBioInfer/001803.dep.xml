@@ -1,0 +1,78 @@
+<rexml>
+<doc id="1803">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E10" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E3" g="E10" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28975" g="w28976" t="det" cr="det:w28976" w="This" l="~" p="Det"/>
+     <dpg d="w28976" g="w28977" t="s" cr="s:w28977||subj:w28978" w="activity" l="~" p="N"/>
+     <dpg d="w28977" g="E3" t="i" cr="UNSPECRELTYPE:E10" w="is" l="be" p="VBE"/>
+     <dpg d="w28978" g="w28977" t="pred" cr="pred:w28977" w="independent" l="~" p="A"/>
+     <dpg d="E11" g="w28978" t="subj" cr="" w="" l="activity" p="N"/>
+     <dpg d="E11" g="w28976" t="antecedent" cr="" w="" l="activity" p="N"/>
+     <dpg d="w28979" g="w28978" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w28980" g="w28979" t="pcomp-n" cr="mod*of*n:w28978" w="FADD-DN" l="FADD-DN" p="N"/>
+     <dpg d="w28981" g="w28980" t="poss" cr="poss:w28980" w="'s" l="~" p="U"/>
+     <dpg d="E2" g="E10" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28982" g="w28987" t="s" cr="s+subj:w28984||s+subj:w28987||s+subj:w28988" w="ability" l="~" p="N"/>
+     <dpg d="E1" g="w28982" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E8" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="w28982" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w28983" g="w28984" t="aux" cr="aux:w28984" w="to" l="~" p="Aux"/>
+     <dpg d="w28984" g="E1" t="i" cr="rel:w28982" w="bind" l="~" p="V"/>
+     <dpg d="E12" g="w28984" t="subj" cr="" w="" l="ability" p="N"/>
+     <dpg d="E12" g="E8" t="antecedent" cr="" w="" l="ability" p="N"/>
+     <dpg d="w28985" g="w28984" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w28986" g="w28985" t="pcomp-n" cr="mod*to*n:w28984" w="three" l="~" p="N"/>
+     <dpg d="w28987" g="E2" t="i" cr="UNSPECRELTYPE:E10" w="known" l="know" p="V"/>
+     <dpg d="E13" g="w28987" t="subj" cr="" w="" l="ability" p="N"/>
+     <dpg d="E13" g="w28982" t="antecedent" cr="" w="" l="ability" p="N"/>
+     <dpg d="E0" g="w28987" t="fc" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E7" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="w28982" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w28988" g="E0" t="i" cr="fc:w28987" w="interacting" l="interact" p="V"/>
+     <dpg d="E14" g="w28988" t="subj" cr="" w="" l="ability" p="N"/>
+     <dpg d="E14" g="E7" t="antecedent" cr="" w="" l="ability" p="N"/>
+     <dpg d="w28989" g="E10" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E10" w="proteins" l="protein" p="N"/>
+     <dpg d="w28990" g="w28989" t="punc" cr="punc:w28989" w="," l="~" p="U"/>
+     <dpg d="w28991" g="w28989" t="conj" cr="conj:w28989" w="Fas" l="fa" p="N"/>
+     <dpg d="w28992" g="w28991" t="punc" cr="punc:w28991" w="," l="~" p="U"/>
+     <dpg d="w28993" g="w28991" t="conj" cr="conj:w28991" w="TRADD" l="~" p="N"/>
+     <dpg d="w28994" g="w28993" t="punc" cr="punc:w28993" w="or" l="~" p="U"/>
+     <dpg d="w28995" g="w28993" t="conj" cr="conj:w28993||s+subj:w28996" w="RIP" l="~" p="N"/>
+     <dpg d="E5" g="w28995" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E6" g="E5" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w28995" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w28996" g="E5" t="i" cr="rel:w28995" w="suggesting" l="suggest" p="V"/>
+     <dpg d="E15" g="w28996" t="subj" cr="" w="" l="rip" p="N"/>
+     <dpg d="E15" g="E6" t="antecedent" cr="" w="" l="rip" p="N"/>
+     <dpg d="E4" g="w28996" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28997" g="E4" t="c" cr="c:w28999" w="that" l="~" p="COMP"/>
+     <dpg d="w28998" g="w28999" t="s" cr="s:w28999||subj:w29000" w="it" l="~" p="N"/>
+     <dpg d="w28999" g="E4" t="i" cr="fc:w28996" w="is" l="be" p="VBE"/>
+     <dpg d="w29000" g="w28999" t="pred" cr="pred:w28999" w="distinct" l="~" p="A"/>
+     <dpg d="E16" g="w29000" t="subj" cr="" w="" l="it" p="N"/>
+     <dpg d="E16" g="w28998" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w29001" g="w29000" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w29002" g="w29004" t="gen" cr="gen:w29004" w="FADD" l="~" p="N"/>
+     <dpg d="w29003" g="w29002" t="poss" cr="poss:w29002" w="'s" l="~" p="U"/>
+     <dpg d="w29004" g="w29001" t="pcomp-n" cr="mod*from*n:w29000" w="functions" l="function" p="N"/>
+     <dpg d="w29005" g="w29004" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w29006" g="w29008" t="mod" cr="mod:w29008" w="activated" l="~" p="A"/>
+     <dpg d="w29007" g="w29008" t="nn" cr="nn:w29008" w="death" l="~" p="N"/>
+     <dpg d="w29008" g="w29005" t="pcomp-n" cr="mod*at*n:w29004" w="receptors" l="receptor" p="N"/>
+     <dpg d="w29009" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

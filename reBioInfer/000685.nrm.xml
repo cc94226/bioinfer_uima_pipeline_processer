@@ -1,0 +1,118 @@
+<rexml>
+<doc id="685">
+  
+  <markup>
+   <nes>
+    <ne id="e2452" gid="g2344" t="Individual_protein" fr="w10474" to="w10474" nam="yes" sid="s1">
+     <textspan>proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.685.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2453" gid="g2350" t="Individual_protein" fr="w10476" to="w10476" nam="yes" sid="s1">
+     <textspan>HECD-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.685.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e2446" gid="g2344" t="Individual_protein" fr="w10482" to="w10482" nam="yes" sid="s1">
+     <textspan>E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.685.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2448" gid="g2346" t="Individual_protein" fr="w10484" to="w10484" nam="yes" sid="s1">
+     <textspan>alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.685.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2447" gid="g2345" t="Individual_protein" fr="w10487" to="w10487" nam="yes" sid="s1">
+     <textspan>gamma-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.685.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2450" gid="g2348" t="Gene/protein/RNA" fr="w10500" to="w10500" nam="yes" sid="s1">
+     <textspan>beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.685.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2451" gid="g2349" t="Mutant" fr="w10503" to="w10504" nam="yes" sid="s1">
+     <textspan>truncated beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.685.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2449" gid="g2347" t="Individual_protein" fr="w10504" to="w10504" nam="yes" sid="s1">
+     <textspan>beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.685.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r939" t="COPRECIPITATE" e1="e2453" e2="e2452" re="e2445">
+     <textspan>Immunoprecipitation of metabolically labeled proteins with HECD-1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.685.0"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COPRECIPITATE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

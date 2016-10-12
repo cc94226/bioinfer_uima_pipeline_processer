@@ -1,0 +1,122 @@
+<rexml>
+<doc id="1119">
+  <text>
+<p><s id="s1"><w id="w17720">Phosphorylation</w> <w id="w17721">by</w> <w id="w17722">LIM-kinase</w> <w id="w17723">1</w> <w id="w17724">inactivates</w> <w id="w17725">cofilin</w> <w id="w17726">,</w> <w id="w17727">leading</w> <w id="w17728">to</w> <w id="w17729">accumulation</w> <w id="w17730">of</w> <w id="w17731">actin</w> <w id="w17732">filaments</w> <w id="w17733">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4106" gid="g3924" t="Individual_protein" fr="w17722" to="w17723" nam="yes">
+     <textspan type="extent">LIM-kinase 1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1119.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4107" gid="g3925" t="RELATIONSHIP_TEXTBINDING" fr="w17724" to="w17724">
+     <textspan type="extent">inactivates</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1119.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4108" gid="g3926" t="RELATIONSHIP_TEXTBINDING" fr="w17720" to="w17721">
+     <textspan type="extent">Phosphorylation by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1119.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4109" gid="g3927" t="Individual_protein" fr="w17725" to="w17725" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1119.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4110" gid="g3928" t="Cell_component" fr="w17731" to="w17732" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1119.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4111" gid="g3929" t="INCREASE" fr="w17729" to="w17732">
+     <textspan type="extent">accumulation of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="INCREASE"/>
+      <exattr n="bd" v="e.1119.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4112" gid="g3930" t="RELATIONSHIP_TEXTBINDING" fr="w17727" to="w17728">
+     <textspan type="extent">leading to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1119.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4113" gid="g3931" t="Individual_protein" fr="w17731" to="w17731" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1119.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1583" t="CAUSE" e1="e4107" e2="e4111" re="e4112">
+     <textspan type="extent">Phosphorylation by LIM-kinase 1 inactivates cofilin , leading to accumulation of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1119.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1584" t="INACTIVATE" e1="e4108" e2="e4109" re="e4107">
+     <textspan type="extent">Phosphorylation by LIM-kinase 1 inactivates cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1119.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Full-Stop"/>
+      <exattr n="t5" v="INACTIVATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1585" t="PHOSPHORYLATE" e1="e4106" e2="e4109" re="e4108">
+     <textspan type="extent">Phosphorylation by LIM-kinase 1 inactivates cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1119.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

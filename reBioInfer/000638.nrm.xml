@@ -1,0 +1,72 @@
+<rexml>
+<doc id="638">
+  
+  <markup>
+   <nes>
+    <ne id="e2274" gid="g2176" t="Fusion_protein" fr="w9610" to="w9611" nam="yes" sid="s1">
+     <textspan>fusion protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Fusion_protein"/>
+      <exattr n="bd" v="e.638.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2273" gid="g2175" t="Individual_protein" fr="w9614" to="w9614" nam="yes" sid="s1">
+     <textspan>beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.638.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2276" gid="g2178" t="Individual_protein" fr="w9616" to="w9616" nam="yes" sid="s1">
+     <textspan>alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.638.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r884" t="F-CONTAIN" e1="e2274" e2="e2273" re="e2272">
+     <textspan>fusion protein containing wild-type beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.638.0"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="F-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r885" t="COPRECIPITATE" e1="e2274" e2="e2276" re="e2275">
+     <textspan>fusion protein containing wild-type beta-catenin precipitated alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.638.3"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COPRECIPITATE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

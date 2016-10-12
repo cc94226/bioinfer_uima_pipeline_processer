@@ -1,0 +1,85 @@
+<rexml>
+<doc id="960">
+  
+  <markup>
+   <nes>
+    <ne id="e3412" gid="g3275" t="Gene" fr="w14989" to="w14989" nam="yes" sid="s1">
+     <textspan>MDP2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.960.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3415" gid="g3275" t="Gene" fr="w14994" to="w14994" nam="yes" sid="s1">
+     <textspan>VRP1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.960.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3418" gid="g3280" t="Individual_protein" fr="w14998" to="w14998" nam="yes" sid="s1">
+     <textspan>verprolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.960.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3416" gid="g3278" t="Cell_component" fr="w15005" to="w15007" nam="yes" sid="s1">
+     <textspan>the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.960.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3420" gid="g3282" t="Individual_protein" fr="w15006" to="w15006" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.960.8"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1294" t="ENCODE" e1="e3415" e2="e3418" re="e3413">
+     <textspan>VRP1 , which encodes verprolin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.960.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

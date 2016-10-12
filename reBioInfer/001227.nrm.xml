@@ -1,0 +1,189 @@
+<rexml>
+<doc id="1227">
+  
+  <markup>
+   <nes>
+    <ne id="e4477" gid="g4283" t="Gene/protein/RNA" fr="w19270" to="w19270" nam="yes" sid="s1">
+     <textspan>RAD14</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1227.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4479" gid="g4285" t="Gene/protein/RNA" fr="w19278" to="w19278" nam="yes" sid="s1">
+     <textspan>MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1227.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4478" gid="g4284" t="Individual_protein" fr="w19286" to="w19286" nam="yes" sid="s1">
+     <textspan>MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1227.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4481" gid="g4287" t="Individual_protein" fr="w19288" to="w19288" nam="yes" sid="s1">
+     <textspan>RAD1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1227.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4480" gid="g4286" t="Individual_protein" fr="w19290" to="w19290" nam="yes" sid="s1">
+     <textspan>RAD2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1227.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4483" gid="g4289" t="Individual_protein" fr="w19292" to="w19292" nam="yes" sid="s1">
+     <textspan>RAD3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1227.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4482" gid="g4288" t="Individual_protein" fr="w19294" to="w19294" nam="yes" sid="s1">
+     <textspan>RAD10</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1227.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4485" gid="g4291" t="Individual_protein" fr="w19296" to="w19296" nam="yes" sid="s1">
+     <textspan>RAD14</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1227.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e4484" gid="g4290" t="Individual_protein" fr="w19299" to="w19299" nam="yes" sid="s1">
+     <textspan>RAD25</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1227.7"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1706" t="INTERACT" e1="e4478" e2="e4481" re="e4486">
+     <textspan>interactions between MSH2 and RAD1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1227.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1707" t="INTERACT" e1="e4478" e2="e4480" re="e4486">
+     <textspan>interactions between MSH2 and RAD1 , RAD2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1227.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1708" t="INTERACT" e1="e4478" e2="e4483" re="e4486">
+     <textspan>interactions between MSH2 and RAD1 , RAD2 , RAD3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1227.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1709" t="INTERACT" e1="e4478" e2="e4482" re="e4486">
+     <textspan>interactions between MSH2 and RAD1 , RAD2 , RAD3 , RAD10</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1227.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1710" t="INTERACT" e1="e4478" e2="e4485" re="e4486">
+     <textspan>interactions between MSH2 and RAD1 , RAD2 , RAD3 , RAD10 , RAD14</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1227.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1711" t="INTERACT" e1="e4478" e2="e4484" re="e4486">
+     <textspan>interactions between MSH2 and RAD1 , RAD2 , RAD3 , RAD10 , RAD14 , and RAD25</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1227.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,80 @@
+<rexml>
+<doc id="1792">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28795" g="w28799" t="det" cr="det:w28799" w="The" l="~" p="Det"/>
+     <dpg d="w28796" g="w28797" t="mod" cr="mod:w28797" w="very" l="~" p="A"/>
+     <dpg d="w28797" g="w28798" t="mod" cr="mod:w28798" w="much" l="~" p="A"/>
+     <dpg d="w28798" g="w28799" t="mod" cr="mod:w28799" w="lower" l="low" p="A"/>
+     <dpg d="w28799" g="w28805" t="s" cr="s+subj:w28805" w="affinity" l="~" p="N"/>
+     <dpg d="w28800" g="w28799" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w28801" g="w28800" t="pcomp-n" cr="mod*of*n:w28799" w="profilin" l="~" p="N"/>
+     <dpg d="w28802" g="w28801" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w28803" g="w28804" t="mod" cr="mod:w28804" w="modified" l="~" p="A"/>
+     <dpg d="w28804" g="w28802" t="pcomp-n" cr="mod*for*n:w28801" w="actin" l="~" p="N"/>
+     <dpg d="w28805" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="explains" l="explain" p="V"/>
+     <dpg d="E4" g="w28805" t="subj" cr="" w="" l="affinity" p="N"/>
+     <dpg d="E4" g="w28799" t="antecedent" cr="" w="" l="affinity" p="N"/>
+     <dpg d="w28806" g="w28810" t="det" cr="det:w28810" w="the" l="~" p="Det"/>
+     <dpg d="w28807" g="w28810" t="mod" cr="mod:w28810" w="anomalous" l="~" p="A"/>
+     <dpg d="w28808" g="w28810" t="mod" cr="mod:w28810" w="critical" l="~" p="A"/>
+     <dpg d="w28809" g="w28810" t="nn" cr="nn:w28810" w="concentrations" l="concentration" p="N"/>
+     <dpg d="w28810" g="w28805" t="obj" cr="obj:w28805||obj:w28811" w="curves" l="curve" p="N"/>
+     <dpg d="w28811" g="w28810" t="vrel" cr="vrel:w28810" w="obtained" l="obtain" p="V"/>
+     <dpg d="E5" g="w28811" t="obj" cr="" w="" l="curve" p="N"/>
+     <dpg d="E5" g="w28810" t="antecedent" cr="" w="" l="curve" p="N"/>
+     <dpg d="w28812" g="w28811" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w28813" g="w28812" t="pcomp-n" cr="mod*for*n:w28811" w="5-10" l="5-10" p="N"/>
+     <dpg d="w28814" g="E3" t="punc" cr="punc:E3" w="%" l="~" p="U"/>
+     <dpg d="w28815" g="w28816" t="mod" cr="mod:w28816" w="pyrenyl-labeled" l="pyrenyl-labeled" p="A"/>
+     <dpg d="w28816" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="actin" l="~" p="N"/>
+     <dpg d="w28817" g="w28816" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w28818" g="w28819" t="det" cr="det:w28819" w="the" l="~" p="Det"/>
+     <dpg d="w28819" g="w28817" t="pcomp-n" cr="mod*in*n:w28816" w="presence" l="~" p="N"/>
+     <dpg d="w28820" g="w28819" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w28821" g="w28820" t="pcomp-n" cr="mod*of*n:w28819" w="profilin" l="~" p="N"/>
+     <dpg d="w28822" g="w28821" t="punc" cr="punc:w28821" w="and" l="~" p="U"/>
+     <dpg d="w28823" g="w28826" t="det" cr="det:w28826" w="the" l="~" p="Det"/>
+     <dpg d="w28824" g="w28825" t="mod" cr="mod:w28825" w="apparently" l="~" p="A"/>
+     <dpg d="w28825" g="w28826" t="mod" cr="mod:w28826" w="weak" l="~" p="A"/>
+     <dpg d="w28826" g="w28821" t="conj" cr="conj:w28821" w="inhibition" l="~" p="N"/>
+     <dpg d="w28827" g="w28826" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w28828" g="w28827" t="pcomp-n" cr="mod*by*n:w28826" w="profilin" l="~" p="N"/>
+     <dpg d="w28829" g="w28828" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w28830" g="w28831" t="det" cr="det:w28831" w="the" l="~" p="Det"/>
+     <dpg d="w28831" g="w28829" t="pcomp-n" cr="mod*of*n:w28828" w="rate" l="~" p="N"/>
+     <dpg d="w28832" g="w28831" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w28833" g="w28834" t="nn" cr="nn:w28834" w="filament" l="~" p="N"/>
+     <dpg d="w28834" g="w28832" t="pcomp-n" cr="mod*of*n:w28831" w="elongation" l="~" p="N"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28835" g="E0" t="wha" cr="wha:w28838" w="when" l="~" p="A"/>
+     <dpg d="w28836" g="w28838" t="s" cr="s+obj:w28838" w="polymerization" l="~" p="N"/>
+     <dpg d="w28837" g="w28838" t="be" cr="be:w28838" w="is" l="be" p="be"/>
+     <dpg d="w28838" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="quantified" l="quantify" p="V"/>
+     <dpg d="E6" g="w28838" t="obj" cr="" w="" l="polymerization" p="N"/>
+     <dpg d="E6" g="w28836" t="antecedent" cr="" w="" l="polymerization" p="N"/>
+     <dpg d="w28839" g="w28838" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w28840" g="w28841" t="det" cr="det:w28841" w="the" l="~" p="Det"/>
+     <dpg d="w28841" g="w28839" t="pcomp-n" cr="by-subj*by*n:w28838" w="increase" l="~" p="N"/>
+     <dpg d="w28842" g="w28841" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w28843" g="w28842" t="pcomp-n" cr="mod*in*n:w28841" w="fluorescence" l="~" p="N"/>
+     <dpg d="w28844" g="w28843" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w28845" g="w28846" t="mod" cr="mod:w28846" w="pyrenyl-labeled" l="pyrenyl-labeled" p="A"/>
+     <dpg d="w28846" g="w28844" t="pcomp-n" cr="mod*of*n:w28843" w="actin" l="~" p="N"/>
+     <dpg d="w28847" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

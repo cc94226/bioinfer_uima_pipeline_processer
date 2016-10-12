@@ -1,0 +1,110 @@
+<rexml>
+<doc id="593">
+  <text>
+<p><s id="s1"><w id="w8548">Here</w> <w id="w8549">we</w> <w id="w8550">show</w> <w id="w8551">that</w> <w id="w8552">the</w> <w id="w8553">Arp2</w> <w id="w8554">subunit</w> <w id="w8555">of</w> <w id="w8556">the</w> <w id="w8557">complex</w> <w id="w8558">can</w> <w id="w8559">be</w> <w id="w8560">chemically</w> <w id="w8561">cross-linked</w> <w id="w8562">to</w> <w id="w8563">the</w> <w id="w8564">actin</w><w id="w8565">-</w><w id="w8566">binding</w> <w id="w8567">site</w> <w id="w8568">of</w> <w id="w8569">profilin</w> <w id="w8570">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2013" gid="g1928" t="Individual_protein" fr="w8553" to="w8554" nam="yes">
+     <textspan type="extent">Arp2 subunit</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.593.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2014" gid="g1929" t="RELATIONSHIP_TEXTBINDING" fr="w8561" to="w8562">
+     <textspan type="extent">cross-linked to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.593.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2015" gid="g1930" t="Substructure_of_protein" fr="w8567" to="w8569" nam="yes">
+     <textspan type="extent">site of profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.593.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2016" gid="g1931" t="RELATIONSHIP_TEXTBINDING" fr="w8566" to="w8566">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.593.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2017" gid="g1932" t="Individual_protein" fr="w8569" to="w8569" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.593.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2018" gid="g1933" t="Individual_protein" fr="w8553" to="w8553" nam="yes">
+     <textspan type="extent">Arp2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.593.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2019" gid="g1934" t="Individual_protein" fr="w8564" to="w8564" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.593.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r800" t="HUMANMADE" e1="e2013" e2="e2015" re="e2014">
+     <textspan type="extent">Arp2 subunit of the complex can be chemically cross-linked to the actin - binding site of profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.593.1"/>
+      <exattr n="t1" v="HUMANMADE"/>
+     </exattrs>
+    </rel>
+    <rel id="r801" t="BIND" e1="e2015" e2="e2019" re="e2016">
+     <textspan type="extent">actin - binding site of profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.593.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,67 @@
+<rexml>
+<doc id="1699">
+  <text>
+<p><s id="s1"><w id="w27038">These</w> <w id="w27039">findings</w> <w id="w27040">suggest</w> <w id="w27041">a</w> <w id="w27042">role</w> <w id="w27043">of</w> <w id="w27044">cofilin</w> <w id="w27045">in</w> <w id="w27046">stimulus-dependent</w> <w id="w27047">actin</w> <w id="w27048">remodeling</w> <w id="w27049">in</w> <w id="w27050">motile</w> <w id="w27051">neutrophils</w> <w id="w27052">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6236" gid="g5951" t="RELATIONSHIP_TEXTBINDING" fr="w27042" to="w27045">
+     <textspan type="extent">role of [..] in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1699.0"/>
+      <exattr n="nst" v="st.1699.4.0"/>
+      <exattr n="nst" v="st.1699.5.0"/>
+      <exattr n="nst" v="st.1699.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6237" gid="g5952" t="Individual_protein" fr="w27044" to="w27044" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1699.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6238" gid="g5953" t="MODIFICATION" fr="w27047" to="w27048">
+     <textspan type="extent">actin remodeling</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1699.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6239" gid="g5954" t="Individual_protein" fr="w27047" to="w27047" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1699.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2389" t="PARTICIPATE" e1="e6237" e2="e6238" re="e6236">
+     <textspan type="extent">role of cofilin in stimulus-dependent actin remodeling</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1699.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

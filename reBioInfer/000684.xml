@@ -1,0 +1,35 @@
+<rexml>
+<doc id="684">
+  <text>
+<p><s id="s1"><w id="w10444">Immunoprecipitation</w> <w id="w10445">of</w> <w id="w10446">alpha-catenin</w> <w id="w10447">was</w> <w id="w10448">increased</w> <w id="w10449">in</w> <w id="w10450">response</w> <w id="w10451">to</w> <w id="w10452">both</w> <w id="w10453">doses</w> <w id="w10454">of</w> <w id="w10455">CdCl2</w> <w id="w10456">,</w> <w id="w10457">while</w> <w id="w10458">the</w> <w id="w10459">immunoprecipitation</w> <w id="w10460">of</w> <w id="w10461">beta-catenin</w> <w id="w10462">was</w> <w id="w10463">little</w> <w id="w10464">changed</w> <w id="w10465">by</w> <w id="w10466">either</w> <w id="w10467">cadmium</w> <w id="w10468">dose</w> <w id="w10469">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2443" gid="g2341" t="Gene/protein/RNA" fr="w10446" to="w10446" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.684.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2444" gid="g2342" t="Gene/protein/RNA" fr="w10461" to="w10461" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.684.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

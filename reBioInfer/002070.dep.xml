@@ -1,0 +1,59 @@
+<rexml>
+<doc id="2070">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32838" g="w32840" t="s" cr="s+subj:w32840" w="We" l="~" p="N"/>
+     <dpg d="w32839" g="w32840" t="have" cr="have:w32840" w="have" l="~" p="have"/>
+     <dpg d="w32840" g="E1" t="i" cr="" w="analyzed" l="analyze" p="V"/>
+     <dpg d="E4" g="w32840" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E4" g="w32838" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w32841" g="w32843" t="det" cr="det:w32843" w="the" l="~" p="Det"/>
+     <dpg d="w32842" g="w32843" t="nn" cr="nn:w32843" w="expression" l="~" p="N"/>
+     <dpg d="w32843" g="w32840" t="obj" cr="obj:w32840" w="levels" l="level" p="N"/>
+     <dpg d="w32844" g="w32843" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32845" g="w32846" t="det" cr="det:w32846" w="the" l="~" p="Det"/>
+     <dpg d="w32846" g="w32844" t="pcomp-n" cr="mod*of*n:w32843||s+subj:w32847" w="genes" l="gene" p="N"/>
+     <dpg d="E0" g="w32846" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w32846" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w32847" g="E0" t="i" cr="rel:w32846" w="encoding" l="encode" p="V"/>
+     <dpg d="E5" g="w32847" t="subj" cr="" w="" l="gene" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="gene" p="N"/>
+     <dpg d="w32848" g="w32847" t="obj" cr="obj:w32847" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w32849" g="w32848" t="punc" cr="punc:w32848" w="," l="~" p="U"/>
+     <dpg d="w32850" g="w32848" t="conj" cr="conj:w32848" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w32851" g="w32850" t="punc" cr="punc:w32850" w="and" l="~" p="U"/>
+     <dpg d="w32852" g="w32850" t="conj" cr="conj:w32850" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w32853" g="w32852" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w32854" g="w32853" t="pcomp-n" cr="mod*in*n:w32852" w="correlation" l="~" p="N"/>
+     <dpg d="w32855" g="w32854" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w32856" g="w32859" t="det" cr="det:w32859" w="the" l="~" p="Det"/>
+     <dpg d="w32857" g="w32859" t="mod" cr="mod:w32859" w="E-cadherin" l="E-cadherin" p="A"/>
+     <dpg d="w32858" g="w32859" t="nn" cr="nn:w32859" w="expression" l="~" p="N"/>
+     <dpg d="w32859" g="w32855" t="pcomp-n" cr="mod*to*n:w32854" w="levels" l="level" p="N"/>
+     <dpg d="w32860" g="w32859" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w32861" g="w32862" t="nn" cr="nn:w32862" w="cell" l="~" p="N"/>
+     <dpg d="w32862" g="w32860" t="pcomp-n" cr="mod*in*n:w32859||obj:w32863" w="lines" l="line" p="N"/>
+     <dpg d="w32863" g="w32862" t="vrel" cr="vrel:w32862" w="derived" l="derive" p="V"/>
+     <dpg d="E6" g="w32863" t="obj" cr="" w="" l="line" p="N"/>
+     <dpg d="E6" g="w32862" t="antecedent" cr="" w="" l="line" p="N"/>
+     <dpg d="w32864" g="w32863" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w32865" g="w32867" t="mod" cr="mod:w32867" w="human" l="~" p="A"/>
+     <dpg d="w32866" g="w32867" t="mod" cr="mod:w32867" w="cervical" l="~" p="A"/>
+     <dpg d="w32867" g="w32864" t="pcomp-n" cr="mod*from*n:w32863" w="carcinomas" l="carcinoma" p="N"/>
+     <dpg d="w32868" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

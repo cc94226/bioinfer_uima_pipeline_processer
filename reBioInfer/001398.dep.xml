@@ -1,0 +1,47 @@
+<rexml>
+<doc id="1398">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21849" g="w21852" t="det" cr="det:w21852" w="The" l="~" p="Det"/>
+     <dpg d="w21850" g="w21852" t="lex-mod" cr="lex-mod:w21852" w="myosin" l="~" p="U"/>
+     <dpg d="w21851" g="w21852" t="lex-mod" cr="lex-mod:w21852" w="heavy" l="~" p="U"/>
+     <dpg d="w21852" g="w21856" t="s" cr="s+subj:w21856||subj:w21865" w="chain" l="myosin heavy chain" p="N"/>
+     <dpg d="w21853" g="w21854" t="punc" cr="punc:w21854" w="(" l="~" p="U"/>
+     <dpg d="w21854" g="w21852" t="abbrev" cr="abbrev:w21852" w="MHC" l="~" p="N"/>
+     <dpg d="w21855" g="w21854" t="punc" cr="punc:w21854" w=")" l="~" p="U"/>
+     <dpg d="w21856" g="E0" t="i" cr="" w="contains" l="contain" p="V"/>
+     <dpg d="E2" g="w21856" t="subj" cr="" w="" l="myosin heavy chain" p="N"/>
+     <dpg d="E2" g="w21852" t="antecedent" cr="" w="" l="myosin heavy chain" p="N"/>
+     <dpg d="w21857" g="w21863" t="det" cr="det:w21863" w="the" l="~" p="Det"/>
+     <dpg d="w21858" g="w21862" t="lex-mod" cr="lex-mod:w21862" w="actin" l="~" p="U"/>
+     <dpg d="w21859" g="w21862" t="lex-mod" cr="lex-mod:w21862" w="-" l="~" p="U"/>
+     <dpg d="w21860" g="w21862" t="lex-mod" cr="lex-mod:w21862" w="and" l="~" p="U"/>
+     <dpg d="w21861" g="w21862" t="lex-mod" cr="lex-mod:w21862" w="ATP-" l="~" p="U"/>
+     <dpg d="w21862" g="w21863" t="mod" cr="mod:w21863" w="binding" l="actin - and ATP- binding" p="A"/>
+     <dpg d="w21863" g="w21856" t="obj" cr="obj:w21856" w="sites" l="site" p="N"/>
+     <dpg d="w21864" g="w21856" t="punc" cr="punc:w21856" w="and" l="~" p="U"/>
+     <dpg d="w21865" g="w21856" t="conj" cr="conj:w21856" w="represents" l="represent" p="V"/>
+     <dpg d="E3" g="w21865" t="subj" cr="" w="" l="myosin heavy chain" p="N"/>
+     <dpg d="E3" g="w21852" t="antecedent" cr="" w="" l="myosin heavy chain" p="N"/>
+     <dpg d="w21866" g="w21868" t="det" cr="det:w21868" w="the" l="~" p="Det"/>
+     <dpg d="w21867" g="w21868" t="mod" cr="mod:w21868" w="molecular" l="~" p="A"/>
+     <dpg d="w21868" g="w21865" t="obj" cr="obj:w21865" w="motor" l="~" p="N"/>
+     <dpg d="w21869" g="w21868" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21870" g="w21871" t="nn" cr="nn:w21871" w="muscle" l="~" p="N"/>
+     <dpg d="w21871" g="w21869" t="pcomp-n" cr="mod*of*n:w21868" w="contraction" l="~" p="N"/>
+     <dpg d="w21872" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

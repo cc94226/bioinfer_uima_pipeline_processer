@@ -1,0 +1,63 @@
+<rexml>
+<doc id="1962">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w31518" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="Unexpectedly" l="~" p="A"/>
+     <dpg d="w31519" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="w31520" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="treatment" l="~" p="N"/>
+     <dpg d="w31521" g="w31520" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w31522" g="w31527" t="det" cr="det:w31527" w="the" l="~" p="Det"/>
+     <dpg d="w31523" g="w31524" t="lex-mod" cr="lex-mod:w31524" w="actin" l="~" p="U"/>
+     <dpg d="w31524" g="w31527" t="mod" cr="mod:w31527" w="-depolymerizing" l="actin -depolymerizing" p="A"/>
+     <dpg d="w31525" g="w31527" t="nn" cr="nn:w31527" w="drug" l="~" p="N"/>
+     <dpg d="w31526" g="w31527" t="nn" cr="nn:w31527" w="latrunculin-A" l="latrunculin-A" p="N"/>
+     <dpg d="w31527" g="w31521" t="pcomp-n" cr="mod*with*n:w31520" w="disrupted" l="~" p="N"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31528" g="w31530" t="det" cr="det:w31530" w="the" l="~" p="Det"/>
+     <dpg d="w31529" g="w31530" t="mod" cr="mod:w31530" w="medial" l="~" p="A"/>
+     <dpg d="w31530" g="w31547" t="s" cr="s+subj:w31531||s+subj:w31547" w="region" l="~" p="N"/>
+     <dpg d="E0" g="w31530" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w31530" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31531" g="E0" t="i" cr="rel:w31530" w="targeting" l="target" p="V"/>
+     <dpg d="E5" g="w31531" t="subj" cr="" w="" l="region" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="region" p="N"/>
+     <dpg d="w31532" g="w31531" t="obj" cr="obj:w31531" w="pattern" l="~" p="N"/>
+     <dpg d="w31533" g="w31532" t="punc" cr="punc:w31532" w="," l="~" p="U"/>
+     <dpg d="w31534" g="w31532" t="punc" cr="punc:w31532" w="and" l="~" p="U"/>
+     <dpg d="w31535" g="w31532" t="conj" cr="conj:w31532" w="cells" l="cell" p="N"/>
+     <dpg d="w31536" g="w31535" t="pnmod" cr="pnmod:w31535" w="deficient" l="~" p="A"/>
+     <dpg d="w31537" g="w31536" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w31538" g="w31541" t="det" cr="det:w31541" w="the" l="~" p="Det"/>
+     <dpg d="w31539" g="w31541" t="mod" cr="mod:w31541" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w31540" g="w31541" t="nn" cr="nn:w31541" w="proteins" l="protein" p="N"/>
+     <dpg d="w31541" g="w31537" t="pcomp-n" cr="mod*in*n:w31536" w="tropomyosin" l="~" p="N"/>
+     <dpg d="w31542" g="w31541" t="punc" cr="punc:w31541" w="and" l="~" p="U"/>
+     <dpg d="w31543" g="w31541" t="conj" cr="conj:w31541" w="profilin" l="~" p="N"/>
+     <dpg d="w31544" g="w31547" t="mod-before" cr="mod-before:w31547" w="also" l="~" p="A"/>
+     <dpg d="w31545" g="w31547" t="aux" cr="aux:w31547" w="did" l="do" p="Aux"/>
+     <dpg d="w31546" g="w31545" t="neg" cr="neg:w31545" w="not" l="~" p="A"/>
+     <dpg d="w31547" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="exhibit" l="~" p="V"/>
+     <dpg d="E6" g="w31547" t="subj" cr="" w="" l="region" p="N"/>
+     <dpg d="E6" g="w31530" t="antecedent" cr="" w="" l="region" p="N"/>
+     <dpg d="w31548" g="w31551" t="mod" cr="mod:w31551" w="medial" l="~" p="A"/>
+     <dpg d="w31549" g="w31551" t="lex-mod" cr="lex-mod:w31551" w="GFP" l="~" p="U"/>
+     <dpg d="w31550" g="w31551" t="lex-mod" cr="lex-mod:w31551" w="-" l="~" p="U"/>
+     <dpg d="w31551" g="w31547" t="obj1" cr="obj1:w31547" w="Cdc42p" l="GFP - Cdc42p" p="N"/>
+     <dpg d="w31552" g="w31547" t="obj2" cr="obj2:w31547" w="staining" l="~" p="N"/>
+     <dpg d="w31553" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

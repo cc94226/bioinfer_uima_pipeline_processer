@@ -1,0 +1,97 @@
+<rexml>
+<doc id="1008">
+  
+  <markup>
+   <nes>
+    <ne id="e3647" gid="g3494" t="Gene" fr="w16001" to="w16001" nam="yes" sid="s1">
+     <textspan>cdc3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1008.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3650" gid="g3497" t="Gene" fr="w16003" to="w16003" nam="yes" sid="s1">
+     <textspan>cdc8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1008.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3649" gid="g3496" t="Individual_protein" fr="w16007" to="w16007" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1008.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3652" gid="g3499" t="Individual_protein" fr="w16009" to="w16009" nam="yes" sid="s1">
+     <textspan>tropomyosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1008.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3651" gid="g3498" t="Gene/protein/RNA" fr="w16014" to="w16014" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1008.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1388" t="ENCODE" e1="e3647" e2="e3649" re="e3648">
+     <textspan>cdc3 and cdc8 , which encode profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1008.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1389" t="ENCODE" e1="e3650" e2="e3652" re="e3648">
+     <textspan>cdc8 , which encode profilin and tropomyosin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1008.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1174">
+  
+  <markup>
+   <nes>
+    <ne id="e4317" gid="g4126" t="Mutant" fr="w18590" to="w18594" nam="yes" sid="s1">
+     <textspan>fragment of myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.1174.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4320" gid="g4129" t="Individual_protein" fr="w18592" to="w18594" nam="yes" sid="s1">
+     <textspan>myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1174.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4319" gid="g4128" t="Individual_protein" fr="w18606" to="w18606" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1174.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1658" t="BIND" e1="e4317" e2="e4319" re="e4318">
+     <textspan>fragment of myosin heavy chain , which contains the consensus ATP binding site , binds to actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1174.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

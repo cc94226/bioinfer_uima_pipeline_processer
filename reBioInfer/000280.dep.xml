@@ -1,0 +1,91 @@
+<rexml>
+<doc id="280">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4333" g="E2" t="mod" cr="" w="By" l="~" p="Prep"/>
+     <dpg d="E1" g="w4333" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="s+subj:w4334" w="" l="~" p="N"/>
+     <dpg d="w4334" g="E1" t="i" cr="mod*by*c:w4344" w="using" l="use" p="V"/>
+     <dpg d="E7" g="w4334" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w4335" g="w4341" t="det" cr="det:w4341" w="a" l="~" p="Det"/>
+     <dpg d="w4336" g="w4337" t="lex-mod" cr="lex-mod:w4337" w="chromatin" l="~" p="U"/>
+     <dpg d="w4337" g="w4341" t="nn" cr="nn:w4341" w="immunoprecipitation" l="chromatin immunoprecipitation" p="N"/>
+     <dpg d="w4338" g="w4339" t="punc" cr="punc:w4339" w="(" l="~" p="U"/>
+     <dpg d="w4339" g="w4337" t="abbrev" cr="abbrev:w4337" w="ChIP" l="~" p="N"/>
+     <dpg d="w4340" g="w4339" t="punc" cr="punc:w4339" w=")" l="~" p="U"/>
+     <dpg d="w4341" g="w4334" t="obj" cr="obj:w4334" w="assay" l="~" p="N"/>
+     <dpg d="w4342" g="E2" t="punc" cr="punc:w4344" w="," l="~" p="U"/>
+     <dpg d="w4343" g="w4344" t="s" cr="s+subj:w4344" w="we" l="~" p="N"/>
+     <dpg d="w4344" g="E2" t="i" cr="UNSPECRELTYPE:w4378" w="observed" l="observe" p="V"/>
+     <dpg d="E8" g="w4344" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E8" g="w4343" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w4345" g="w4347" t="det" cr="det:w4347" w="that" l="~" p="Det"/>
+     <dpg d="w4346" g="w4347" t="nn" cr="nn:w4347" w="histone" l="~" p="N"/>
+     <dpg d="w4347" g="w4344" t="obj" cr="obj:w4344" w="H4" l="~" p="N"/>
+     <dpg d="w4348" g="E6" t="punc" cr="punc:w4378" w="," l="~" p="U"/>
+     <dpg d="w4349" g="E6" t="punc" cr="punc:w4378" w="and" l="~" p="U"/>
+     <dpg d="w4350" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w4378" w="not" l="~" p="A"/>
+     <dpg d="w4351" g="w4352" t="nn" cr="nn:w4352" w="histone" l="~" p="N"/>
+     <dpg d="w4352" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w4378" w="H3" l="~" p="N"/>
+     <dpg d="w4353" g="E6" t="punc" cr="punc:w4378" w="," l="~" p="U"/>
+     <dpg d="w4354" g="E6" t="punc" cr="punc:w4378" w="was" l="~" p="U"/>
+     <dpg d="w4355" g="E6" t="punc" cr="punc:w4378" w="acetylated" l="~" p="U"/>
+     <dpg d="w4356" g="E6" t="p" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w4357" g="w4362" t="det" cr="det:w4362" w="the" l="~" p="Det"/>
+     <dpg d="w4358" g="w4362" t="mod" cr="mod:w4362" w="endogenous" l="~" p="A"/>
+     <dpg d="w4359" g="w4362" t="nn" cr="nn:w4362" w="p21" l="~" p="N"/>
+     <dpg d="w4360" g="w4362" t="nn" cr="nn:w4362" w="/" l="~" p="N"/>
+     <dpg d="w4361" g="w4362" t="nn" cr="nn:w4362" w="waf1" l="~" p="N"/>
+     <dpg d="w4362" g="w4356" t="pcomp-n" cr="p*from*n:w4378" w="promoter" l="~" p="N"/>
+     <dpg d="w4363" g="w4364" t="lex-mod" cr="lex-mod:w4364" w="in" l="~" p="U"/>
+     <dpg d="w4364" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w4378" w="vivo" l="in vivo" p="A"/>
+     <dpg d="w4365" g="E6" t="punc" cr="punc:w4378" w="," l="~" p="U"/>
+     <dpg d="E0" g="E6" t="UNSPECRELTYPE" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="s+subj:w4366" w="" l="~" p="N"/>
+     <dpg d="w4366" g="E0" t="i" cr="UNSPECRELTYPE:w4378" w="implying" l="imply" p="V"/>
+     <dpg d="E9" g="w4366" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E9" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w4367" g="w4370" t="det" cr="det:w4370" w="that" l="~" p="Det"/>
+     <dpg d="w4368" g="w4370" t="nn" cr="nn:w4370" w="CBP" l="~" p="N"/>
+     <dpg d="w4369" g="w4370" t="nn" cr="nn:w4370" w="/" l="~" p="N"/>
+     <dpg d="w4370" g="w4366" t="obj" cr="obj:w4366" w="p300" l="~" p="N"/>
+     <dpg d="w4371" g="E6" t="punc" cr="punc:w4378" w="," l="~" p="U"/>
+     <dpg d="w4372" g="E6" t="punc" cr="punc:w4378" w="and" l="~" p="U"/>
+     <dpg d="w4373" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w4378" w="not" l="~" p="A"/>
+     <dpg d="w4374" g="w4376" t="det" cr="det:w4376" w="the" l="~" p="Det"/>
+     <dpg d="w4375" g="w4376" t="nn" cr="nn:w4376" w="SAGA" l="~" p="N"/>
+     <dpg d="w4376" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w4378" w="complex" l="~" p="N"/>
+     <dpg d="w4377" g="E6" t="punc" cr="punc:w4378" w="," l="~" p="U"/>
+     <dpg d="w4378" g="E6" t="i" cr="" w="was" l="be" p="VBE"/>
+     <dpg d="w4379" g="w4378" t="pred" cr="pred:w4378" w="critical" l="~" p="A"/>
+     <dpg d="w4380" g="E6" t="punc" cr="punc:w4378" w="in" l="~" p="U"/>
+     <dpg d="w4381" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w4378" w="complexing" l="~" p="A"/>
+     <dpg d="w4382" g="w4381" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w4383" g="w4382" t="pcomp-n" cr="mod*with*n:w4381" w="E2A" l="~" p="N"/>
+     <dpg d="w4384" g="w4383" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w4385" g="w4384" t="pcomp-n" cr="mod*in*n:w4383" w="up-regulation" l="up-regulation" p="N"/>
+     <dpg d="w4386" g="w4385" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4387" g="w4389" t="nn" cr="nn:w4389" w="p21" l="~" p="N"/>
+     <dpg d="w4388" g="w4389" t="nn" cr="nn:w4389" w="/" l="~" p="N"/>
+     <dpg d="w4389" g="w4386" t="pcomp-n" cr="mod*of*n:w4385" w="waf1" l="~" p="N"/>
+     <dpg d="w4390" g="w4389" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w4391" g="w4392" t="mod" cr="mod:w4392" w="HTLV-1-infected" l="HTLV-1-infected" p="A"/>
+     <dpg d="w4392" g="w4390" t="pcomp-n" cr="mod*in*n:w4389" w="cells" l="cell" p="N"/>
+     <dpg d="w4393" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

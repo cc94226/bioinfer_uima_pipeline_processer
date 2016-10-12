@@ -1,0 +1,51 @@
+<rexml>
+<doc id="793">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12507" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w12508" g="w12507" t="pcomp-n" cr="mod*in*n:w12519" w="particular" l="~" p="N"/>
+     <dpg d="w12509" g="E1" t="punc" cr="punc:w12519" w="," l="~" p="U"/>
+     <dpg d="w12510" g="E1" t="punc" cr="punc:w12519" w="both" l="~" p="U"/>
+     <dpg d="w12511" g="w12519" t="s" cr="s+obj:w12519||s+subj:w12521" w="profilin" l="~" p="N"/>
+     <dpg d="w12512" g="w12511" t="punc" cr="punc:w12511" w="and" l="~" p="U"/>
+     <dpg d="w12513" g="w12516" t="mod" cr="mod:w12516" w="free" l="~" p="A"/>
+     <dpg d="w12514" g="w12516" t="nn" cr="nn:w12516" w="filament" l="~" p="N"/>
+     <dpg d="w12515" g="w12516" t="mod" cr="mod:w12516" w="barbed" l="~" p="A"/>
+     <dpg d="w12516" g="w12511" t="conj" cr="conj:w12511" w="ends" l="end" p="N"/>
+     <dpg d="w12517" g="w12519" t="have" cr="have:w12519" w="have" l="~" p="have"/>
+     <dpg d="w12518" g="w12519" t="be" cr="be:w12519" w="been" l="be" p="be"/>
+     <dpg d="w12519" g="E1" t="i" cr="" w="shown" l="show" p="V"/>
+     <dpg d="E4" g="w12519" t="obj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E4" g="w12511" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E0" g="w12519" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w12511" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w12520" g="w12521" t="aux" cr="aux:w12521" w="to" l="~" p="Aux"/>
+     <dpg d="w12521" g="E0" t="i" cr="mod:w12519" w="play" l="~" p="V"/>
+     <dpg d="E5" g="w12521" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w12522" g="w12523" t="mod" cr="mod:w12523" w="major" l="~" p="A"/>
+     <dpg d="w12523" g="w12521" t="obj" cr="obj:w12521" w="roles" l="role" p="N"/>
+     <dpg d="w12524" g="w12523" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w12525" g="w12526" t="det" cr="det:w12526" w="the" l="~" p="Det"/>
+     <dpg d="w12526" g="w12524" t="pcomp-n" cr="mod*in*n:w12523" w="processing" l="~" p="N"/>
+     <dpg d="w12527" g="w12526" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12528" g="w12527" t="pcomp-n" cr="mod*of*n:w12526" w="ATP" l="~" p="N"/>
+     <dpg d="w12529" g="w12528" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w12530" g="w12529" t="pcomp-n" cr="mod*by*n:w12528" w="actin" l="~" p="N"/>
+     <dpg d="w12531" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

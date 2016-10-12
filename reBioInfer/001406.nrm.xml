@@ -1,0 +1,150 @@
+<rexml>
+<doc id="1406">
+  
+  <markup>
+   <nes>
+    <ne id="e5123" gid="g4890" t="Individual_protein" fr="w21987" to="w21987" nam="yes" sid="s1">
+     <textspan>verprolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1406.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e5117" gid="g4884" t="Substructure_of_protein" fr="w21994" to="w21998" nam="yes" sid="s1">
+     <textspan>region of Wiskott-Aldrich syndrome protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1406.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5121" gid="g4888" t="Individual_protein" fr="w21996" to="w21998" nam="yes" sid="s1">
+     <textspan>Wiskott-Aldrich syndrome protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1406.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5115" gid="g4882" t="Protein_complex" fr="w22000" to="w22004" nam="yes" sid="s1">
+     <textspan>Arp2/3 complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1406.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5124" gid="g4891" t="Individual_protein" fr="w22000" to="w22003" nam="yes" sid="s1">
+     <textspan>Arp [..] 3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1406.10"/>
+      <exattr n="nst" v="st.1406.12.0"/>
+      <exattr n="nst" v="st.1406.12.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5119" gid="g4886" t="Individual_protein" fr="w22000" to="w22001" nam="yes" sid="s1">
+     <textspan>Arp2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1406.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5125" gid="g4892" t="Individual_protein" fr="w22007" to="w22007" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1406.11"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1957" t="SIMILAR" e1="e5117" e2="e5123" re="e5116">
+     <textspan>verprolin - like central ( vc ) region of Wiskott-Aldrich syndrome protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1406.2"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1958" t="COOF-CONTAIN" e1="e5119" e2="e5124" re="e5122">
+     <textspan>Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1406.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1958" t="CONTAIN" e1="e5115" e2="e5119" re="e5122">
+     <textspan>Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1406.8"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1959" t="CONTAIN" e1="e5115" e2="e5124" re="e5122">
+     <textspan>Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1406.8"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

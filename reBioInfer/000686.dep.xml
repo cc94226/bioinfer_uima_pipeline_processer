@@ -1,0 +1,59 @@
+<rexml>
+<doc id="686">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10506" g="w10507" t="s" cr="s+subj:w10507" w="Immunoprecipitations" l="~" p="N"/>
+     <dpg d="w10507" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="showed" l="show" p="V"/>
+     <dpg d="E3" g="w10507" t="subj" cr="" w="" l="Immunoprecipitations" p="N"/>
+     <dpg d="E3" g="w10506" t="antecedent" cr="" w="" l="Immunoprecipitations" p="N"/>
+     <dpg d="w10508" g="w10507" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w10509" g="w10511" t="det" cr="det:w10511" w="both" l="~" p="Det"/>
+     <dpg d="w10510" g="w10511" t="nn" cr="nn:w10511" w="cell" l="~" p="N"/>
+     <dpg d="w10511" g="w10508" t="pcomp-n" cr="mod*in*n:w10507" w="lines" l="line" p="N"/>
+     <dpg d="w10512" g="w10513" t="det" cr="det:w10513" w="the" l="~" p="Det"/>
+     <dpg d="w10513" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="presence" l="~" p="N"/>
+     <dpg d="w10514" g="w10513" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10515" g="w10514" t="pcomp-n" cr="mod*of*n:w10513" w="two" l="~" p="N"/>
+     <dpg d="w10516" g="w10520" t="mod" cr="mod:w10520" w="different" l="~" p="A"/>
+     <dpg d="w10517" g="w10519" t="lex-mod" cr="lex-mod:w10519" w="E-cadherin" l="~" p="U"/>
+     <dpg d="w10518" g="w10519" t="lex-mod" cr="lex-mod:w10519" w="-" l="~" p="U"/>
+     <dpg d="w10519" g="w10520" t="mod" cr="mod:w10520" w="catenin" l="E-cadherin - catenin" p="A"/>
+     <dpg d="w10520" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="complexes" l="complex" p="N"/>
+     <dpg d="w10521" g="w10520" t="punc" cr="punc:w10520" w="," l="~" p="U"/>
+     <dpg d="w10522" g="w10520" t="conj" cr="conj:w10520||obj:w10523" w="one" l="~" p="N"/>
+     <dpg d="w10523" g="w10522" t="vrel" cr="vrel:w10522" w="composed" l="compose" p="V"/>
+     <dpg d="E4" g="w10523" t="obj" cr="" w="" l="one" p="N"/>
+     <dpg d="E4" g="w10522" t="antecedent" cr="" w="" l="one" p="N"/>
+     <dpg d="w10524" g="w10523" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10525" g="w10524" t="pcomp-n" cr="mod*of*n:w10523" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w10526" g="w10525" t="punc" cr="punc:w10525" w="," l="~" p="U"/>
+     <dpg d="w10527" g="w10525" t="conj" cr="conj:w10525" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w10528" g="w10527" t="punc" cr="punc:w10527" w="and" l="~" p="U"/>
+     <dpg d="w10529" g="w10527" t="conj" cr="conj:w10527" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w10530" g="w10529" t="punc" cr="punc:w10529" w="," l="~" p="U"/>
+     <dpg d="w10531" g="w10529" t="punc" cr="punc:w10529" w="and" l="~" p="U"/>
+     <dpg d="w10532" g="w10533" t="det" cr="det:w10533" w="the" l="~" p="Det"/>
+     <dpg d="w10533" g="w10529" t="conj" cr="conj:w10529" w="other" l="~" p="N"/>
+     <dpg d="w10534" g="w10533" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10535" g="w10534" t="pcomp-n" cr="mod*of*n:w10533" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w10536" g="w10535" t="punc" cr="punc:w10535" w="," l="~" p="U"/>
+     <dpg d="w10537" g="w10535" t="conj" cr="conj:w10535" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w10538" g="w10537" t="punc" cr="punc:w10537" w="and" l="~" p="U"/>
+     <dpg d="w10539" g="w10537" t="conj" cr="conj:w10537" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w10540" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,131 @@
+<rexml>
+<doc id="265">
+  
+  <markup>
+   <nes>
+    <ne id="e973" gid="g933" t="Individual_protein" fr="w3978" to="w3978" nam="yes" sid="s1">
+     <textspan>SNF11</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.265.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e978" gid="g938" t="Individual_protein" fr="w3981" to="w3981" nam="yes" sid="s1">
+     <textspan>SNF2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.265.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e977" gid="g937" t="Protein_complex" fr="w3988" to="w3991" nam="yes" sid="s1">
+     <textspan>SNF-SWI complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.265.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e975" gid="g935" t="Individual_protein" fr="w3988" to="w3988" nam="yes" sid="s1">
+     <textspan>SNF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.265.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e980" gid="g940" t="Individual_protein" fr="w3990" to="w3990" nam="yes" sid="s1">
+     <textspan>SWI</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.265.7"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r373" t="INTERACT" e1="e973" e2="e978" re="e974">
+     <textspan>SNF11 interacts with SNF2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.265.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r374" t="RELATE" e1="e973" e2="e977" re="e976">
+     <textspan>SNF11 interacts with SNF2 in vitro and copurifies with the SNF - SWI complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.265.3"/>
+      <exattr n="t1" v="RELATE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r375" t="COOF-CONTAIN" e1="e975" e2="e980" re="e979">
+     <textspan>SNF - SWI complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.265.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r375" t="CONTAIN" e1="e977" e2="e975" re="e979">
+     <textspan>SNF - SWI complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.265.6"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r376" t="CONTAIN" e1="e977" e2="e980" re="e979">
+     <textspan>SNF - SWI complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.265.6"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

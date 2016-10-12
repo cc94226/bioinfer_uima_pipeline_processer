@@ -1,0 +1,35 @@
+<rexml>
+<doc id="933">
+  <text>
+<p><s id="s1"><w id="w14563">Like</w> <w id="w14564">the</w> <w id="w14565">spectrin</w> <w id="w14566">alpha-chain</w> <w id="w14567">,</w> <w id="w14568">the</w> <w id="w14569">major</w> <w id="w14570">central</w> <w id="w14571">part</w> <w id="w14572">of</w> <w id="w14573">the</w> <w id="w14574">spectrin</w> <w id="w14575">beta-chain</w> <w id="w14576">is</w> <w id="w14577">made</w> <w id="w14578">up</w> <w id="w14579">of</w> <w id="w14580">repeat</w> <w id="w14581">units</w> <w id="w14582">of</w> <w id="w14583">106</w> <w id="w14584">amino-acids</w> <w id="w14585">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3320" gid="g3187" t="Gene/protein/RNA" fr="w14565" to="w14566" nam="yes">
+     <textspan type="extent">spectrin alpha-chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.933.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3321" gid="g3188" t="Gene/protein/RNA" fr="w14574" to="w14575" nam="yes">
+     <textspan type="extent">spectrin beta-chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.933.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,136 @@
+<rexml>
+<doc id="435">
+  
+  <markup>
+   <nes>
+    <ne id="e1523" gid="g1454" t="Substructure_of_protein" fr="w6269" to="w6274" nam="yes" sid="s1">
+     <textspan>domains of the PRP21 [..] factor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.435.0"/>
+      <exattr n="nst" v="st.435.1.0"/>
+      <exattr n="nst" v="st.435.2.0"/>
+      <exattr n="nst" v="st.435.3.0"/>
+      <exattr n="nst" v="st.435.4.0"/>
+      <exattr n="nst" v="st.435.6.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1527" gid="g1458" t="Individual_protein" fr="w6272" to="w6274" nam="yes" sid="s1">
+     <textspan>PRP21 [..] factor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.435.4"/>
+      <exattr n="nst" v="st.435.4.0"/>
+      <exattr n="nst" v="st.435.6.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1531" gid="g1462" t="Individual_protein" fr="w6272" to="w6272" nam="yes" sid="s1">
+     <textspan>PRP21</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.435.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e1528" gid="g1459" t="Individual_protein" fr="w6281" to="w6284" nam="yes" sid="s1">
+     <textspan>PRP9 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.435.5"/>
+      <exattr n="nst" v="st.435.13.0"/>
+      <exattr n="nst" v="st.435.16.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1529" gid="g1460" t="Individual_protein" fr="w6281" to="w6281" nam="yes" sid="s1">
+     <textspan>PRP9</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.435.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1525" gid="g1456" t="Individual_protein" fr="w6283" to="w6284" nam="yes" sid="s1">
+     <textspan>PRP11 proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.435.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1530" gid="g1461" t="Individual_protein" fr="w6283" to="w6283" nam="yes" sid="s1">
+     <textspan>PRP11</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.435.7"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r602" t="BIND" e1="e1527" e2="e1528" re="e1524">
+     <textspan>PRP21 splicing factor are implicated in the binding to PRP9 and PRP11 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.435.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r604" t="BIND" e1="e1527" e2="e1525" re="e1524">
+     <textspan>PRP21 splicing factor are implicated in the binding to PRP9 and PRP11 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.435.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

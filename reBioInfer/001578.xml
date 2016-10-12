@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1578">
+  <text>
+<p><s id="s1"><w id="w25083">The</w> <w id="w25084">ordered</w> <w id="w25085">assembly</w> <w id="w25086">of</w> <w id="w25087">the</w> <w id="w25088">talin</w> <w id="w25089">homologue</w> <w id="w25090">together</w> <w id="w25091">with</w> <w id="w25092">actin</w> <w id="w25093">and</w> <w id="w25094">a</w> <w id="w25095">series</w> <w id="w25096">of</w> <w id="w25097">other</w> <w id="w25098">proteins</w> <w id="w25099">is</w> <w id="w25100">considered</w> <w id="w25101">to</w> <w id="w25102">play</w> <w id="w25103">a</w> <w id="w25104">key</w> <w id="w25105">role</w> <w id="w25106">in</w> <w id="w25107">chemotactic</w> <w id="w25108">orientation</w> <w id="w25109">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5797" gid="g5530" t="RELATIONSHIP_TEXTBINDING" fr="w25085" to="w25091">
+     <textspan type="extent">assembly of [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1578.0"/>
+      <exattr n="nst" v="st.1578.2.0"/>
+      <exattr n="nst" v="st.1578.3.0"/>
+      <exattr n="nst" v="st.1578.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5798" gid="g5531" t="Homolog" fr="w25088" to="w25089" nam="yes">
+     <textspan type="extent">talin homologue</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Homolog"/>
+      <exattr n="bd" v="e.1578.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5799" gid="g5532" t="Individual_protein" fr="w25092" to="w25092" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1578.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5800" gid="g5533" t="Individual_protein" fr="w25088" to="w25088" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1578.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

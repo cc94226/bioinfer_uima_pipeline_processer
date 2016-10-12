@@ -1,0 +1,189 @@
+<rexml>
+<doc id="346">
+  <text>
+<p><s id="s1"><w id="w5208">Consistent</w> <w id="w5209">with</w> <w id="w5210">the</w> <w id="w5211">observation</w> <w id="w5212">that</w> <w id="w5213">beta-catenin</w> <w id="w5214">and</w> <w id="w5215">plakoglobin</w> <w id="w5216">bind</w> <w id="w5217">to</w> <w id="w5218">the</w> <w id="w5219">same</w> <w id="w5220">region</w> <w id="w5221">of</w> <w id="w5222">alpha-catenin</w> <w id="w5223">,</w> <w id="w5224">beta-catenin</w> <w id="w5225">competed</w> <w id="w5226">with</w> <w id="w5227">the</w> <w id="w5228">binding</w> <w id="w5229">of</w> <w id="w5230">plakoglobin</w> <w id="w5231">to</w> <w id="w5232">alpha-catenin</w> <w id="w5233">and</w> <w id="w5234">vice</w> <w id="w5235">versa</w> <w id="w5236">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1246" gid="g1188" t="Individual_protein" fr="w5213" to="w5213" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.346.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1247" gid="g1189" t="RELATIONSHIP_TEXTBINDING" fr="w5216" to="w5217">
+     <textspan type="extent">bind to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.346.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1248" gid="g1190" t="Substructure_of_protein" fr="w5220" to="w5222" nam="yes">
+     <textspan type="extent">region of alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.346.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1249" gid="g1191" t="Individual_protein" fr="w5215" to="w5215" nam="yes">
+     <textspan type="extent">plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.346.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1250" gid="g1192" t="Individual_protein" fr="w5230" to="w5230" nam="yes">
+     <textspan type="extent">plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.346.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1251" gid="g1193" t="Individual_protein" fr="w5224" to="w5224" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.346.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1252" gid="g1194" t="Individual_protein" fr="w5232" to="w5232" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.346.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1253" gid="g1195" t="RELATIONSHIP_TEXTBINDING" fr="w5225" to="w5226">
+     <textspan type="extent">competed with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.346.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1254" gid="g1196" t="RELATIONSHIP_TEXTBINDING" fr="w5228" to="w5231">
+     <textspan type="extent">binding [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.346.8"/>
+      <exattr n="nst" v="st.346.20.0"/>
+      <exattr n="nst" v="st.346.23.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1255" gid="g1197" t="Individual_protein" fr="w5222" to="w5222" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.346.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e1256" gid="g1198" t="RELATIONSHIP_TEXTBINDING" fr="w5228" to="w5231">
+     <textspan type="extent">binding of [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.346.10"/>
+      <exattr n="nst" v="st.346.20.0"/>
+      <exattr n="nst" v="st.346.21.0"/>
+      <exattr n="nst" v="st.346.23.0"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r485" t="BIND" e1="e1246" e2="e1248" re="e1247">
+     <textspan type="extent">beta-catenin and plakoglobin bind to the same region of alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.346.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r486" t="BIND" e1="e1249" e2="e1248" re="e1247">
+     <textspan type="extent">plakoglobin bind to the same region of alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.346.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r487" t="XOR" e1="e1256" e2="e1254" re="e1253">
+     <textspan type="extent">beta-catenin competed with the binding of plakoglobin to alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.346.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="XOR"/>
+     </exattrs>
+    </rel>
+    <rel id="r488" t="BIND" e1="e1250" e2="e1252" re="e1256">
+     <textspan type="extent">binding of plakoglobin to alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.346.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r489" t="BIND" e1="e1251" e2="e1252" re="e1254">
+     <textspan type="extent">beta-catenin competed with the binding of plakoglobin to alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.346.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

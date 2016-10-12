@@ -1,0 +1,206 @@
+<rexml>
+<doc id="2236">
+  <text>
+<p><s id="s1"><w id="w34406">Yeast</w> <w id="w34407">profilin</w> <w id="w34408">can</w> <w id="w34409">sequester</w> <w id="w34410">yeast</w> <w id="w34411">actin</w> <w id="w34412">monomers</w> <w id="w34413">and</w> <w id="w34414">thereby</w> <w id="w34415">reduce</w> <w id="w34416">the</w> <w id="w34417">ability</w> <w id="w34418">of</w> <w id="w34419">yeast</w> <w id="w34420">actin</w> <w id="w34421">to</w> <w id="w34422">polymerize</w> <w id="w34423">,</w> <w id="w34424">whereas</w> <w id="w34425">it</w> <w id="w34426">has</w> <w id="w34427">little</w> <w id="w34428">effect</w> <w id="w34429">on</w> <w id="w34430">the</w> <w id="w34431">degree</w> <w id="w34432">of</w> <w id="w34433">polymerization</w> <w id="w34434">of</w> <w id="w34435">rabbit</w> <w id="w34436">skeletal</w> <w id="w34437">muscle</w> <w id="w34438">actin</w> <w id="w34439">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7796" gid="g7434" t="Individual_protein" fr="w34406" to="w34407" nam="yes">
+     <textspan type="extent">Yeast profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2236.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7797" gid="g7435" t="RELATIONSHIP_TEXTBINDING" fr="w34409" to="w34409">
+     <textspan type="extent">sequester</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2236.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7798" gid="g7434" t="Individual_protein" fr="w34425" to="w34425" nam="yes">
+     <textspan type="extent">it</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2236.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7799" gid="g7436" t="RELATIONSHIP_TEXTBINDING" fr="w34415" to="w34415">
+     <textspan type="extent">reduce</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2236.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7800" gid="g7437" t="Individual_protein" fr="w34419" to="w34420" nam="yes">
+     <textspan type="extent">yeast actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2236.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7801" gid="g7438" t="RELATIONSHIP_TEXTBINDING" fr="w34422" to="w34422">
+     <textspan type="extent">polymerize</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2236.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7802" gid="g7439" t="POLYMERIZATION" fr="w34433" to="w34438">
+     <textspan type="extent">polymerization of rabbit skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.2236.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7803" gid="g7440" t="Individual_protein" fr="w34435" to="w34438" nam="yes">
+     <textspan type="extent">rabbit skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2236.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7804" gid="g7441" t="RELATIONSHIP_TEXTBINDING" fr="w34428" to="w34429">
+     <textspan type="extent">effect on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2236.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e7805" gid="g7442" t="Individual_protein" fr="w34407" to="w34407" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2236.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e7806" gid="g7443" t="Individual_protein" fr="w34410" to="w34412" nam="yes">
+     <textspan type="extent">yeast actin monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2236.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e7807" gid="g7444" t="Individual_protein" fr="w34411" to="w34411" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2236.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e7808" gid="g7445" t="Individual_protein" fr="w34420" to="w34420" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2236.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e7809" gid="g7446" t="Individual_protein" fr="w34436" to="w34438" nam="yes">
+     <textspan type="extent">skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2236.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e7810" gid="g7447" t="Amount_property" fr="w34431" to="w34438">
+     <textspan type="extent">degree of polymerization of rabbit skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.2236.14"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r3015" t="LOCALIZE" e1="e7796" e2="e7806" re="e7797">
+     <textspan type="extent">Yeast profilin can sequester yeast actin monomers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2236.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r3016" t="SUPPRESS" e1="e7796" e2="e7801" re="e7799">
+     <textspan type="extent">Yeast profilin can sequester yeast actin monomers and thereby reduce the ability of yeast actin to polymerize</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2236.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r3019" t="AFFECT" e1="e7798" e2="e7810" re="e7804">
+     <textspan type="extent">it has little effect on the degree of polymerization of rabbit skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2236.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

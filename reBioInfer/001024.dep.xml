@@ -1,0 +1,76 @@
+<rexml>
+<doc id="1024">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16193" g="w16203" t="s" cr="s:w16203||subj:w16195||subj:w16204||subj:w16211||s+subj:w16218" w="Mutations" l="mutation" p="N"/>
+     <dpg d="E2" g="w16193" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16194" g="E2" t="whn" cr="whn:w16195" w="that" l="~" p="THAT"/>
+     <dpg d="w16194" g="w16193" t="antecedent" cr="antecedent:w16193" w="that" l="~" p="THAT"/>
+     <dpg d="w16195" g="E2" t="i" cr="rel:w16193" w="alter" l="~" p="V"/>
+     <dpg d="E6" g="w16195" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E6" g="w16193" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w16196" g="w16198" t="mod" cr="mod:w16198" w="putative" l="~" p="A"/>
+     <dpg d="w16197" g="w16198" t="mod" cr="mod:w16198" w="RNA-binding" l="RNA-binding" p="A"/>
+     <dpg d="w16198" g="w16195" t="obj" cr="obj:w16195" w="residues" l="residue" p="N"/>
+     <dpg d="w16199" g="w16198" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w16200" g="w16202" t="nn" cr="nn:w16202" w="either" l="~" p="N"/>
+     <dpg d="w16201" g="w16202" t="lex-mod" cr="lex-mod:w16202" w="HSH49" l="~" p="U"/>
+     <dpg d="w16202" g="w16199" t="pcomp-n" cr="mod*of*n:w16198" w="RRM" l="HSH49 RRM" p="N"/>
+     <dpg d="w16203" g="E3" t="i" cr="" w="are" l="be" p="VBE"/>
+     <dpg d="w16204" g="w16203" t="pred" cr="pred:w16203" w="lethal" l="~" p="A"/>
+     <dpg d="E7" g="w16204" t="subj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E7" g="w16193" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="w16205" g="w16206" t="lex-mod" cr="lex-mod:w16206" w="in" l="~" p="U"/>
+     <dpg d="w16206" g="w16203" t="mod" cr="mod:w16203" w="vivo" l="in vivo" p="A"/>
+     <dpg d="w16207" g="w16203" t="punc" cr="punc:w16203" w="," l="~" p="U"/>
+     <dpg d="w16208" g="w16203" t="punc" cr="punc:w16203" w="but" l="~" p="U"/>
+     <dpg d="w16209" g="w16211" t="aux" cr="aux:w16211" w="do" l="~" p="Aux"/>
+     <dpg d="w16210" g="w16209" t="neg" cr="neg:w16209" w="not" l="~" p="A"/>
+     <dpg d="w16211" g="w16203" t="conj" cr="conj:w16203" w="prevent" l="~" p="V"/>
+     <dpg d="E8" g="w16211" t="subj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E8" g="w16193" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="w16212" g="w16211" t="obj" cr="obj:w16211" w="binding" l="~" p="N"/>
+     <dpg d="w16213" g="w16212" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w16214" g="w16213" t="pcomp-n" cr="mod*to*n:w16212" w="CUS1" l="~" p="N"/>
+     <dpg d="w16215" g="w16216" t="lex-mod" cr="lex-mod:w16216" w="in" l="~" p="U"/>
+     <dpg d="w16216" g="w16211" t="mod" cr="mod:w16211" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w16217" g="w16211" t="punc" cr="punc:w16211" w="," l="~" p="U"/>
+     <dpg d="E1" g="w16211" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w16193" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w16218" g="E1" t="i" cr="mod:w16211" w="suggesting" l="suggest" p="V"/>
+     <dpg d="E9" g="w16218" t="subj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E9" g="E4" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E0" g="w16218" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16219" g="E0" t="c" cr="c:w16228" w="that" l="~" p="COMP"/>
+     <dpg d="w16220" g="w16223" t="det" cr="det:w16223" w="the" l="~" p="Det"/>
+     <dpg d="w16221" g="w16223" t="mod" cr="mod:w16223" w="predicted" l="~" p="A"/>
+     <dpg d="w16222" g="w16223" t="mod" cr="mod:w16223" w="RNA-binding" l="RNA-binding" p="A"/>
+     <dpg d="w16223" g="w16228" t="s" cr="s+obj:w16228" w="surfaces" l="surface" p="N"/>
+     <dpg d="w16224" g="w16223" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w16225" g="w16224" t="pcomp-n" cr="mod*of*n:w16223" w="HSH49" l="~" p="N"/>
+     <dpg d="w16226" g="w16228" t="be" cr="be:w16228" w="are" l="be" p="be"/>
+     <dpg d="w16227" g="w16226" t="neg" cr="neg:w16226" w="not" l="~" p="A"/>
+     <dpg d="w16228" g="E0" t="i" cr="fc:w16218" w="required" l="require" p="V"/>
+     <dpg d="E10" g="w16228" t="obj" cr="" w="" l="surface" p="N"/>
+     <dpg d="E10" g="w16223" t="antecedent" cr="" w="" l="surface" p="N"/>
+     <dpg d="w16229" g="w16228" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w16230" g="w16229" t="pcomp-n" cr="mod*for*n:w16228" w="interaction" l="~" p="N"/>
+     <dpg d="w16231" g="w16230" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w16232" g="w16231" t="pcomp-n" cr="mod*with*n:w16230" w="CUS1" l="~" p="N"/>
+     <dpg d="w16233" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

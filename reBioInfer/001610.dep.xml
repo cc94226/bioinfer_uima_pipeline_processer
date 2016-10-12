@@ -1,0 +1,56 @@
+<rexml>
+<doc id="1610">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25574" g="w25575" t="det" cr="det:w25575" w="The" l="~" p="Det"/>
+     <dpg d="w25575" g="w25576" t="s" cr="s+subj:w25576" w="procedure" l="~" p="N"/>
+     <dpg d="w25576" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="allows" l="allow" p="V"/>
+     <dpg d="E4" g="w25576" t="subj" cr="" w="" l="procedure" p="N"/>
+     <dpg d="E4" g="w25575" t="antecedent" cr="" w="" l="procedure" p="N"/>
+     <dpg d="E0" g="w25576" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25577" g="E0" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w25578" g="w25580" t="det" cr="det:w25580" w="the" l="~" p="Det"/>
+     <dpg d="w25579" g="w25580" t="mod" cr="mod:w25580" w="simultaneous" l="~" p="A"/>
+     <dpg d="w25580" g="w25577" t="pcomp-n" cr="mod*for*n:w25587" w="quantification" l="~" p="N"/>
+     <dpg d="w25581" g="w25580" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25582" g="w25584" t="nn" cr="nn:w25584" w="myosin" l="~" p="N"/>
+     <dpg d="w25583" g="w25584" t="mod" cr="mod:w25584" w="heavy" l="~" p="A"/>
+     <dpg d="w25584" g="w25581" t="pcomp-n" cr="mod*of*n:w25580" w="chain" l="~" p="N"/>
+     <dpg d="w25585" g="E0" t="punc" cr="punc:w25587" w="," l="~" p="U"/>
+     <dpg d="w25586" g="w25587" t="s" cr="s+subj:w25587" w="myosin" l="~" p="N"/>
+     <dpg d="w25587" g="E0" t="i" cr="fc:w25576" w="light" l="~" p="V"/>
+     <dpg d="E5" g="w25587" t="subj" cr="" w="" l="myosin" p="N"/>
+     <dpg d="E5" g="w25586" t="antecedent" cr="" w="" l="myosin" p="N"/>
+     <dpg d="w25588" g="w25587" t="obj" cr="obj:w25587" w="chain" l="~" p="N"/>
+     <dpg d="w25589" g="w25588" t="punc" cr="punc:w25588" w="," l="~" p="U"/>
+     <dpg d="w25590" g="w25593" t="mod" cr="mod:w25593" w="phosphorylatable" l="~" p="A"/>
+     <dpg d="w25591" g="w25593" t="nn" cr="nn:w25593" w="myosin" l="~" p="N"/>
+     <dpg d="w25592" g="w25593" t="mod" cr="mod:w25593" w="light" l="~" p="A"/>
+     <dpg d="w25593" g="w25588" t="conj" cr="conj:w25588" w="chain" l="~" p="N"/>
+     <dpg d="w25594" g="w25593" t="punc" cr="punc:w25593" w="and" l="~" p="U"/>
+     <dpg d="w25595" g="w25593" t="conj" cr="conj:w25593" w="actin" l="~" p="N"/>
+     <dpg d="w25596" g="E3" t="punc" cr="punc:E3" w="from" l="~" p="U"/>
+     <dpg d="w25597" g="E3" t="p" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w25598" g="w25597" t="pcomp-n" cr="p*as*n:E3" w="little" l="~" p="N"/>
+     <dpg d="w25599" g="w25598" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w25600" g="w25601" t="amount-value" cr="amount-value:w25601" w="50" l="~" p="N"/>
+     <dpg d="w25601" g="w25599" t="pcomp-n" cr="mod*as*n:w25598" w="mg" l="~" p="N"/>
+     <dpg d="w25602" g="w25601" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25603" g="w25602" t="pcomp-n" cr="mod*of*n:w25601" w="tissue" l="~" p="N"/>
+     <dpg d="w25604" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

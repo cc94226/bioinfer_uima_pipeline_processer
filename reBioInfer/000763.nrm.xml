@@ -1,0 +1,94 @@
+<rexml>
+<doc id="763">
+  
+  <markup>
+   <nes>
+    <ne id="e2759" gid="g2643" t="Individual_protein" fr="w11834" to="w11834" nam="yes" sid="s1">
+     <textspan>cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.763.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2764" gid="g2648" t="Cell_component" fr="w11839" to="w11840" nam="yes" sid="s1">
+     <textspan>actin-cytoskeletons</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.763.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2765" gid="g2649" t="Individual_protein" fr="w11839" to="w11839" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.763.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2761" gid="g2645" t="Cell_component" fr="w11853" to="w11854" nam="yes" sid="s1">
+     <textspan>actin meshwork</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.763.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2766" gid="g2650" t="Individual_protein" fr="w11853" to="w11853" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.763.7"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1054" t="LOCALIZE-TO" e1="e2759" e2="e2764" re="e2760">
+     <textspan>cofilin localized at dramatically reorganizing actin -cytoskeletons</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.763.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1056" t="LOCALIZE-TO" e1="e2759" e2="e2761" re="e2762">
+     <textspan>cofilin localized at dramatically reorganizing actin -cytoskeletons in ruffling membranes of the leading edge , but not at rigid actin meshwork</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.763.3"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

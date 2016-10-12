@@ -1,0 +1,52 @@
+<rexml>
+<doc id="449">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6429" g="w6437" t="s" cr="obj:w6430||s+subj:w6437" w="Experiments" l="experiment" p="N"/>
+     <dpg d="w6430" g="w6429" t="vrel" cr="vrel:w6429" w="performed" l="perform" p="V"/>
+     <dpg d="E5" g="w6430" t="obj" cr="" w="" l="experiment" p="N"/>
+     <dpg d="E5" g="w6429" t="antecedent" cr="" w="" l="experiment" p="N"/>
+     <dpg d="E1" g="w6430" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="s+subj:w6431" w="" l="~" p="N"/>
+     <dpg d="w6431" g="E1" t="i" cr="mod:w6430" w="using" l="use" p="V"/>
+     <dpg d="E6" g="w6431" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6432" g="w6431" t="obj" cr="obj:w6431" w="extracts" l="extract" p="N"/>
+     <dpg d="w6433" g="w6432" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w6434" g="w6435" t="mod" cr="mod:w6435" w="doubly" l="~" p="A"/>
+     <dpg d="w6435" g="w6436" t="mod" cr="mod:w6436" w="infected" l="~" p="A"/>
+     <dpg d="w6436" g="w6433" t="pcomp-n" cr="mod*from*n:w6432" w="cells" l="cell" p="N"/>
+     <dpg d="w6437" g="E2" t="i" cr="" w="indicated" l="indicate" p="V"/>
+     <dpg d="E7" g="w6437" t="subj" cr="" w="" l="experiment" p="N"/>
+     <dpg d="E7" g="w6429" t="antecedent" cr="" w="" l="experiment" p="N"/>
+     <dpg d="E0" g="w6437" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6438" g="E0" t="c" cr="c:w6441" w="that" l="~" p="COMP"/>
+     <dpg d="w6439" g="w6441" t="s" cr="s+subj:w6441" w="UL8" l="~" p="N"/>
+     <dpg d="w6440" g="w6441" t="aux" cr="aux:w6441" w="could" l="~" p="Aux"/>
+     <dpg d="w6441" g="E0" t="i" cr="fc:w6437" w="interact" l="~" p="V"/>
+     <dpg d="E8" g="w6441" t="subj" cr="" w="" l="UL8" p="N"/>
+     <dpg d="E8" g="w6439" t="antecedent" cr="" w="" l="UL8" p="N"/>
+     <dpg d="w6442" g="w6441" t="mod" cr="mod:w6441" w="separately" l="~" p="A"/>
+     <dpg d="w6443" g="w6442" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w6444" g="w6443" t="punc" cr="punc:w6443" w="both" l="~" p="U"/>
+     <dpg d="w6445" g="w6446" t="det" cr="det:w6446" w="the" l="~" p="Det"/>
+     <dpg d="w6446" g="w6443" t="pcomp-n" cr="mod*with*n:w6442" w="UL5" l="~" p="N"/>
+     <dpg d="w6447" g="w6446" t="punc" cr="punc:w6446" w="and" l="~" p="U"/>
+     <dpg d="w6448" g="w6449" t="nn" cr="nn:w6449" w="UL52" l="~" p="N"/>
+     <dpg d="w6449" g="w6446" t="conj" cr="conj:w6446" w="proteins" l="protein" p="N"/>
+     <dpg d="w6450" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

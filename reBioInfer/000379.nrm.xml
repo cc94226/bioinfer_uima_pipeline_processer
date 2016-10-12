@@ -1,0 +1,121 @@
+<rexml>
+<doc id="379">
+  
+  <markup>
+   <nes>
+    <ne id="e1374" gid="g1311" t="Individual_protein" fr="w5709" to="w5713" nam="yes" sid="s1">
+     <textspan>plant [..] profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.379.0"/>
+      <exattr n="nst" v="st.379.10.0"/>
+      <exattr n="nst" v="st.379.14.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1378" gid="g1315" t="Multi-cell_organism" fr="w5709" to="w5709" nam="yes" sid="s1">
+     <textspan>plant</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Organism"/>
+      <exattr n="t5" v="Multi-cell_organism"/>
+      <exattr n="bd" v="e.379.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1379" gid="g1315" t="Multi-cell_organism" fr="w5711" to="w5711" nam="yes" sid="s1">
+     <textspan>birch</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Organism"/>
+      <exattr n="t5" v="Multi-cell_organism"/>
+      <exattr n="bd" v="e.379.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1380" gid="g1316" t="Individual_protein" fr="w5713" to="w5713" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.379.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1377" gid="g1314" t="Individual_protein" fr="w5721" to="w5721" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.379.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1376" gid="g1313" t="Individual_protein" fr="w5724" to="w5725" nam="yes" sid="s1">
+     <textspan>mammalian profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.379.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1382" gid="g1318" t="Individual_protein" fr="w5725" to="w5725" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.379.8"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r543" t="INTERACT" e1="e1374" e2="e1377" re="e1375">
+     <textspan>plant ( birch ) profilin exhibited two different modes of interaction with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.379.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r544" t="INTERACT" e1="e1376" e2="e1377" re="e1381">
+     <textspan>interaction with actin , like mammalian profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.379.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,57 @@
+<rexml>
+<doc id="2035">
+  <text>
+<p><s id="s1"><w id="w32281">We</w> <w id="w32282">conclude</w> <w id="w32283">that</w> <w id="w32284">germ-line</w> <w id="w32285">involvement</w> <w id="w32286">of</w> <w id="w32287">MSH6</w> <w id="w32288">and</w> <w id="w32289">MSH3</w> <w id="w32290">is</w> <w id="w32291">rare</w> <w id="w32292">and</w> <w id="w32293">that</w> <w id="w32294">other</w> <w id="w32295">genes</w> <w id="w32296">are</w> <w id="w32297">likely</w> <w id="w32298">to</w> <w id="w32299">account</w> <w id="w32300">for</w> <w id="w32301">a</w> <w id="w32302">majority</w> <w id="w32303">of</w> <w id="w32304">MSH2</w><w id="w32305">-</w> <w id="w32306">,</w> <w id="w32307">MLH1</w><w id="w32308">-mutation</w> <w id="w32309">negative</w> <w id="w32310">families</w> <w id="w32311">with</w> <w id="w32312">nonpolypotic</w> <w id="w32313">colon</w> <w id="w32314">cancer</w> <w id="w32315">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7377" gid="g7039" t="Gene/protein/RNA" fr="w32287" to="w32287" nam="yes">
+     <textspan type="extent">MSH6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2035.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7378" gid="g7040" t="Gene/protein/RNA" fr="w32304" to="w32304" nam="yes">
+     <textspan type="extent">MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2035.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7379" gid="g7041" t="Gene/protein/RNA" fr="w32289" to="w32289" nam="yes">
+     <textspan type="extent">MSH3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2035.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7380" gid="g7042" t="Gene/protein/RNA" fr="w32307" to="w32307" nam="yes">
+     <textspan type="extent">MLH1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2035.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

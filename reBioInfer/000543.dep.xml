@@ -1,0 +1,51 @@
+<rexml>
+<doc id="543">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7641" g="w7642" t="nn" cr="nn:w7642" w="Gel" l="~" p="N"/>
+     <dpg d="w7642" g="w7644" t="s" cr="s+obj:w7644||s+subj:w7646" w="electrophoresis" l="~" p="N"/>
+     <dpg d="w7643" g="w7644" t="be" cr="be:w7644" w="was" l="be" p="be"/>
+     <dpg d="w7644" g="E1" t="i" cr="" w="used" l="use" p="V"/>
+     <dpg d="E4" g="w7644" t="obj" cr="" w="" l="electrophoresis" p="N"/>
+     <dpg d="E4" g="w7642" t="antecedent" cr="" w="" l="electrophoresis" p="N"/>
+     <dpg d="E0" g="w7644" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w7642" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w7645" g="w7646" t="aux" cr="aux:w7646" w="to" l="~" p="Aux"/>
+     <dpg d="w7646" g="E0" t="i" cr="mod:w7644" w="measure" l="~" p="V"/>
+     <dpg d="E5" g="w7646" t="subj" cr="" w="" l="electrophoresis" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="electrophoresis" p="N"/>
+     <dpg d="w7647" g="w7646" t="obj" cr="obj:w7646" w="changes" l="change" p="N"/>
+     <dpg d="w7648" g="w7647" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w7649" g="w7651" t="det" cr="det:w7651" w="the" l="~" p="Det"/>
+     <dpg d="w7650" g="w7651" t="mod" cr="mod:w7651" w="relative" l="~" p="A"/>
+     <dpg d="w7651" g="w7648" t="pcomp-n" cr="mod*in*n:w7647" w="amounts" l="amount" p="N"/>
+     <dpg d="w7652" g="w7651" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w7653" g="w7652" t="pcomp-n" cr="mod*of*n:w7651" w="actin" l="~" p="N"/>
+     <dpg d="w7654" g="w7653" t="punc" cr="punc:w7653" w="or" l="~" p="U"/>
+     <dpg d="w7655" g="w7653" t="conj" cr="conj:w7653" w="myosin" l="~" p="N"/>
+     <dpg d="w7656" g="w7652" t="punc" cr="punc:w7652" w="and" l="~" p="U"/>
+     <dpg d="w7657" g="w7652" t="conj" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w7658" g="w7660" t="lex-mod" cr="lex-mod:w7660" w="myosin" l="~" p="U"/>
+     <dpg d="w7659" g="w7660" t="lex-mod" cr="lex-mod:w7660" w="heavy" l="~" p="U"/>
+     <dpg d="w7660" g="w7664" t="nn" cr="nn:w7664" w="chain" l="myosin heavy chain" p="N"/>
+     <dpg d="w7661" g="w7662" t="punc" cr="punc:w7662" w="(" l="~" p="U"/>
+     <dpg d="w7662" g="w7660" t="abbrev" cr="abbrev:w7660" w="MHC" l="~" p="N"/>
+     <dpg d="w7663" g="w7662" t="punc" cr="punc:w7662" w=")" l="~" p="U"/>
+     <dpg d="w7664" g="w7657" t="pcomp-n" cr="mod*of*n:w7651" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w7665" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

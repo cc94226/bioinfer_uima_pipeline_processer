@@ -1,0 +1,81 @@
+<rexml>
+<doc id="926">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w14414" g="E4" t="i" cr="" w="Lack" l="~" p="V"/>
+     <dpg d="w14415" g="w14414" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w14416" g="w14415" t="pcomp-n" cr="mod*of*n:w14414" w="detection" l="~" p="N"/>
+     <dpg d="w14417" g="w14416" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w14418" g="w14419" t="det" cr="det:w14419" w="these" l="~" p="Det"/>
+     <dpg d="w14419" g="w14417" t="pcomp-n" cr="mod*in*n:w14416" w="preparations" l="preparation" p="N"/>
+     <dpg d="w14420" g="w14419" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w14421" g="w14422" t="det" cr="det:w14422" w="a" l="~" p="Det"/>
+     <dpg d="w14422" g="w14420" t="pcomp-n" cr="mod*of*n:w14419||subj:w14424" w="constituent" l="~" p="N"/>
+     <dpg d="E2" g="w14422" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14423" g="E2" t="whn" cr="whn:w14424" w="that" l="~" p="THAT"/>
+     <dpg d="w14423" g="w14422" t="antecedent" cr="antecedent:w14422" w="that" l="~" p="THAT"/>
+     <dpg d="w14424" g="E2" t="i" cr="rel:w14422" w="binds" l="bind" p="V"/>
+     <dpg d="E5" g="w14424" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E5" g="w14422" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w14425" g="w14424" t="obj" cr="obj:w14424" w="RBC" l="~" p="N"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14426" g="w14427" t="mod" cr="mod:w14427" w="alpha-spectrin" l="alpha-spectrin" p="A"/>
+     <dpg d="w14427" g="w14438" t="s" cr="s+subj:w14438" w="antibody" l="~" p="N"/>
+     <dpg d="w14428" g="w14427" t="mod" cr="" w="plus" l="~" p="Prep"/>
+     <dpg d="w14429" g="w14430" t="det" cr="det:w14430" w="the" l="~" p="Det"/>
+     <dpg d="w14430" g="w14428" t="pcomp-n" cr="mod*plus*n:w14427" w="presence" l="~" p="N"/>
+     <dpg d="w14431" g="w14430" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w14432" g="w14433" t="mod" cr="mod:w14433" w="significant" l="~" p="A"/>
+     <dpg d="w14433" g="w14431" t="pcomp-n" cr="mod*of*n:w14430" w="quantities" l="quantity" p="N"/>
+     <dpg d="w14434" g="w14433" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w14435" g="w14434" t="pcomp-n" cr="mod*of*n:w14433" w="actin" l="~" p="N"/>
+     <dpg d="w14436" g="w14438" t="punc" cr="punc:w14438" w="," l="~" p="U"/>
+     <dpg d="w14437" g="w14438" t="mod-before" cr="mod-before:w14438" w="further" l="~" p="A"/>
+     <dpg d="w14438" g="E1" t="i" cr="UNSPECRELTYPE:w14414" w="suggests" l="suggest" p="V"/>
+     <dpg d="E6" g="w14438" t="subj" cr="" w="" l="antibody" p="N"/>
+     <dpg d="E6" g="w14427" t="antecedent" cr="" w="" l="antibody" p="N"/>
+     <dpg d="E0" g="w14438" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14439" g="E0" t="c" cr="c:w14445" w="that" l="~" p="COMP"/>
+     <dpg d="w14440" g="w14444" t="det" cr="det:w14444" w="the" l="~" p="Det"/>
+     <dpg d="w14441" g="w14444" t="mod" cr="mod:w14444" w="principal" l="~" p="A"/>
+     <dpg d="w14442" g="w14444" t="nn" cr="nn:w14444" w="membrane" l="~" p="N"/>
+     <dpg d="w14443" g="w14444" t="mod" cr="mod:w14444" w="skeletal" l="~" p="A"/>
+     <dpg d="w14444" g="w14445" t="s" cr="s:w14445||subj:w14446" w="element" l="~" p="N"/>
+     <dpg d="w14445" g="E0" t="i" cr="fc:w14438" w="is" l="be" p="VBE"/>
+     <dpg d="w14446" g="w14445" t="pred" cr="pred:w14445" w="actin" l="~" p="N"/>
+     <dpg d="E7" g="w14446" t="subj" cr="" w="" l="element" p="N"/>
+     <dpg d="E7" g="w14444" t="antecedent" cr="" w="" l="element" p="N"/>
+     <dpg d="w14447" g="w14446" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w14448" g="w14449" t="mod" cr="mod:w14449" w="perhaps" l="~" p="A"/>
+     <dpg d="w14449" g="w14450" t="mod" cr="mod:w14450" w="smaller" l="small" p="A"/>
+     <dpg d="w14450" g="w14447" t="pcomp-n" cr="mod*with*n:w14446" w="quantities" l="quantity" p="N"/>
+     <dpg d="w14451" g="w14450" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w14452" g="w14454" t="det" cr="det:w14454" w="a" l="~" p="Det"/>
+     <dpg d="w14453" g="w14454" t="mod" cr="mod:w14454" w="240-kd" l="240-kd" p="A"/>
+     <dpg d="w14454" g="w14451" t="pcomp-n" cr="mod*of*n:w14450||obj:w14456" w="component" l="~" p="N"/>
+     <dpg d="w14455" g="w14454" t="punc" cr="punc:w14454" w="," l="~" p="U"/>
+     <dpg d="w14456" g="w14454" t="vrel" cr="vrel:w14454" w="identified" l="identify" p="V"/>
+     <dpg d="E8" g="w14456" t="obj" cr="" w="" l="component" p="N"/>
+     <dpg d="E8" g="w14454" t="antecedent" cr="" w="" l="component" p="N"/>
+     <dpg d="w14457" g="w14456" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w14458" g="w14457" t="pcomp-n" cr="by-subj*by*n:w14456" w="others" l="~" p="N"/>
+     <dpg d="w14459" g="w14458" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w14460" g="w14462" t="det" cr="det:w14462" w="the" l="~" p="Det"/>
+     <dpg d="w14461" g="w14462" t="nn" cr="nn:w14462" w="protein" l="~" p="N"/>
+     <dpg d="w14462" g="w14459" t="pcomp-n" cr="mod*as*n:w14458" w="talin" l="~" p="N"/>
+     <dpg d="w14463" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

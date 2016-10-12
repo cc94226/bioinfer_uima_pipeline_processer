@@ -1,0 +1,83 @@
+<rexml>
+<doc id="279">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4287" g="E1" t="mod" cr="" w="By" l="~" p="Prep"/>
+     <dpg d="w4288" g="w4289" t="mod" cr="mod:w4289" w="two-hybrid" l="two-hybrid" p="A"/>
+     <dpg d="w4289" g="w4287" t="pcomp-n" cr="mod*by*n:w4292" w="screening" l="~" p="N"/>
+     <dpg d="w4290" g="w4292" t="s" cr="s+subj:w4292" w="we" l="~" p="N"/>
+     <dpg d="w4291" g="w4292" t="have" cr="have:w4292" w="have" l="~" p="have"/>
+     <dpg d="w4292" g="E1" t="i" cr="UNSPECRELTYPE:E6" w="identified" l="identify" p="V"/>
+     <dpg d="E7" g="w4292" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E7" g="w4290" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w4293" g="w4294" t="nn" cr="nn:w4294" w="two" l="~" p="N"/>
+     <dpg d="w4294" g="w4292" t="obj" cr="obj:w4292||subj:w4297" w="partners" l="partner" p="N"/>
+     <dpg d="E0" g="w4294" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4295" g="E0" t="whn" cr="whn:w4297" w="that" l="~" p="THAT"/>
+     <dpg d="w4295" g="w4294" t="antecedent" cr="antecedent:w4294" w="that" l="~" p="THAT"/>
+     <dpg d="w4296" g="w4297" t="mod-before" cr="mod-before:w4297" w="directly" l="~" p="A"/>
+     <dpg d="w4297" g="E0" t="i" cr="rel:w4294" w="associate" l="associate with" p="V"/>
+     <dpg d="w4298" g="w4297" t="lex-mod" cr="lex-mod:w4297" w="with" l="~" p="U"/>
+     <dpg d="E8" g="w4297" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E8" g="w4294" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w4299" g="w4297" t="obj" cr="obj:w4297" w="TIF34" l="~" p="N"/>
+     <dpg d="w4300" g="E6" t="punc" cr="punc:E6" w=":" l="~" p="U"/>
+     <dpg d="w4301" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="PRT1" l="~" p="N"/>
+     <dpg d="w4302" g="w4301" t="punc" cr="punc:w4301" w="," l="~" p="U"/>
+     <dpg d="w4303" g="w4307" t="det" cr="det:w4307" w="a" l="~" p="Det"/>
+     <dpg d="w4304" g="w4305" t="mod" cr="mod:w4305" w="previously" l="~" p="A"/>
+     <dpg d="w4305" g="w4307" t="mod" cr="mod:w4307" w="characterized" l="~" p="A"/>
+     <dpg d="w4306" g="w4307" t="nn" cr="nn:w4307" w="eIF3" l="~" p="N"/>
+     <dpg d="w4307" g="w4301" t="conj" cr="conj:w4301" w="subunit" l="~" p="N"/>
+     <dpg d="w4308" g="w4307" t="punc" cr="punc:w4307" w="," l="~" p="U"/>
+     <dpg d="w4309" g="w4307" t="punc" cr="punc:w4307" w="and" l="~" p="U"/>
+     <dpg d="w4310" g="w4312" t="det" cr="det:w4312" w="a" l="~" p="Det"/>
+     <dpg d="w4311" g="w4312" t="mod" cr="mod:w4312" w="novel" l="~" p="A"/>
+     <dpg d="w4312" g="w4307" t="conj" cr="conj:w4307" w="protein" l="~" p="N"/>
+     <dpg d="w4313" g="w4312" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4314" g="w4317" t="num" cr="num:w4317" w="33" l="~" p="N"/>
+     <dpg d="w4315" g="w4317" t="nn" cr="nn:w4317" w="kDa" l="~" p="N"/>
+     <dpg d="w4316" g="w4317" t="punc" cr="punc:w4317" w="(" l="~" p="U"/>
+     <dpg d="w4317" g="w4313" t="pcomp-n" cr="mod*of*n:w4312||subj:w4321||subj:w4327" w="eIF3-p33" l="eIF3-p33" p="N"/>
+     <dpg d="w4318" g="w4317" t="punc" cr="punc:w4317" w=")" l="~" p="U"/>
+     <dpg d="E3" g="w4317" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4319" g="E3" t="whn" cr="whn:w4320" w="which" l="~" p="N"/>
+     <dpg d="w4319" g="w4317" t="antecedent" cr="antecedent:w4317" w="which" l="~" p="N"/>
+     <dpg d="w4320" g="E3" t="i" cr="rel:w4317" w="is" l="be" p="VBE"/>
+     <dpg d="w4321" g="w4320" t="pred" cr="pred:w4320" w="part" l="~" p="N"/>
+     <dpg d="E9" g="w4321" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E9" g="w4317" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w4322" g="w4321" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4323" g="w4325" t="det" cr="det:w4325" w="the" l="~" p="Det"/>
+     <dpg d="w4324" g="w4325" t="nn" cr="nn:w4325" w="eIF3" l="~" p="N"/>
+     <dpg d="w4325" g="w4322" t="pcomp-n" cr="mod*of*n:w4321" w="complex" l="~" p="N"/>
+     <dpg d="w4326" g="w4320" t="punc" cr="punc:w4320" w="and" l="~" p="U"/>
+     <dpg d="w4327" g="w4320" t="conj" cr="conj:w4320" w="has" l="have" p="V"/>
+     <dpg d="E10" g="w4327" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E10" g="w4317" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w4328" g="w4329" t="det" cr="det:w4329" w="an" l="~" p="Det"/>
+     <dpg d="w4329" g="w4327" t="obj" cr="obj:w4327||s+subj:w4330" w="RNA" l="~" p="N"/>
+     <dpg d="E2" g="w4329" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w4329" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w4330" g="E2" t="i" cr="rel:w4329" w="binding" l="bind" p="V"/>
+     <dpg d="E11" g="w4330" t="subj" cr="" w="" l="RNA" p="N"/>
+     <dpg d="E11" g="E4" t="antecedent" cr="" w="" l="RNA" p="N"/>
+     <dpg d="w4331" g="w4330" t="obj" cr="obj:w4330" w="domain" l="~" p="N"/>
+     <dpg d="w4332" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

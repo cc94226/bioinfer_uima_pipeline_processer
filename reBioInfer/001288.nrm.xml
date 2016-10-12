@@ -1,0 +1,99 @@
+<rexml>
+<doc id="1288">
+  
+  <markup>
+   <nes>
+    <ne id="e4664" gid="g4460" t="Individual_protein" fr="w20260" to="w20274" nam="yes" sid="s1">
+     <textspan>nucleocapsid protein [..] of vesicular stomatitis virus</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1288.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4661" gid="g4458" t="Individual_protein" fr="w20260" to="w20261" nam="yes" sid="s1">
+     <textspan>nucleocapsid protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1288.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4662" gid="g4458" t="Individual_protein" fr="w20263" to="w20263" nam="yes" sid="s1">
+     <textspan>N</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1288.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4666" gid="g4461" t="Individual_protein" fr="w20267" to="w20274" nam="yes" sid="s1">
+     <textspan>phosphoprotein [..] of vesicular stomatitis virus</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1288.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4663" gid="g4459" t="Individual_protein" fr="w20267" to="w20267" nam="yes" sid="s1">
+     <textspan>phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1288.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4665" gid="g4459" t="Individual_protein" fr="w20269" to="w20269" nam="yes" sid="s1">
+     <textspan>P</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1288.5"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1774" t="INTERACT" e1="e4664" e2="e4666" re="e4660">
+     <textspan>interaction between the nucleocapsid protein ( N ) and the phosphoprotein ( P ) of vesicular stomatitis virus</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1288.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

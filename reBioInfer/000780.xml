@@ -1,0 +1,35 @@
+<rexml>
+<doc id="780">
+  <text>
+<p><s id="s1"><w id="w12213">In</w> <w id="w12214">isolated</w> <w id="w12215">hearts</w> <w id="w12216">,</w> <w id="w12217">PD</w> <w id="w12218">81,723</w> <w id="w12219">alone</w> <w id="w12220">produced</w> <w id="w12221">only</w> <w id="w12222">a</w> <w id="w12223">small</w> <w id="w12224">stimulus</w> <w id="w12225">to</w> <w id="w12226">His</w> <w id="w12227">bundle</w> <w id="w12228">(</w> <w id="w12229">S-H</w> <w id="w12230">)</w> <w id="w12231">interval</w> <w id="w12232">prolongation</w> <w id="w12233">of</w> <w id="w12234">1.5</w> <w id="w12235">to</w> <w id="w12236">4</w> <w id="w12237">msec</w> <w id="w12238">,</w> <w id="w12239">which</w> <w id="w12240">was</w> <w id="w12241">completely</w> <w id="w12242">reversed</w> <w id="w12243">by</w> <w id="w12244">the</w> <w id="w12245">A1</w> <w id="w12246">adenosine</w> <w id="w12247">receptor</w> <w id="w12248">antagonist</w> <w id="w12249">8-cyclopentyltheophylline</w> <w id="w12250">and</w> <w id="w12251">adenosine</w> <w id="w12252">deaminase</w> <w id="w12253">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2839" gid="g2720" t="Gene/protein/RNA" fr="w12245" to="w12247" nam="yes">
+     <textspan type="extent">A1 adenosine receptor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.780.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2840" gid="g2721" t="Gene/protein/RNA" fr="w12251" to="w12252" nam="yes">
+     <textspan type="extent">adenosine deaminase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.780.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

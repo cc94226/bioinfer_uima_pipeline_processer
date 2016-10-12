@@ -1,0 +1,48 @@
+<rexml>
+<doc id="1773">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28358" g="w28360" t="det" cr="det:w28360" w="The" l="~" p="Det"/>
+     <dpg d="w28359" g="w28360" t="mod" cr="mod:w28360" w="structural" l="~" p="A"/>
+     <dpg d="w28360" g="w28370" t="s" cr="s+obj:w28370" w="homology" l="~" p="N"/>
+     <dpg d="w28361" g="w28360" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w28362" g="w28361" t="pcomp-n" cr="mod*between*n:w28360" w="cofilin" l="~" p="N"/>
+     <dpg d="w28363" g="w28362" t="punc" cr="punc:w28362" w="and" l="~" p="U"/>
+     <dpg d="w28364" g="w28365" t="nn" cr="nn:w28365" w="gelsolin" l="~" p="N"/>
+     <dpg d="w28365" g="w28362" t="conj" cr="conj:w28362||s+subj:w28366" w="segment-1" l="segment-1" p="N"/>
+     <dpg d="E0" g="w28365" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w28365" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w28366" g="E0" t="i" cr="rel:w28365" w="binding" l="bind" p="V"/>
+     <dpg d="E4" g="w28366" t="subj" cr="" w="" l="segment-1" p="N"/>
+     <dpg d="E4" g="E2" t="antecedent" cr="" w="" l="segment-1" p="N"/>
+     <dpg d="w28367" g="w28366" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w28368" g="w28367" t="pcomp-n" cr="mod*to*n:w28366" w="actin" l="~" p="N"/>
+     <dpg d="w28369" g="w28370" t="be" cr="be:w28370" w="was" l="be" p="be"/>
+     <dpg d="w28370" g="E1" t="i" cr="" w="confirmed" l="confirm" p="V"/>
+     <dpg d="E5" g="w28370" t="obj" cr="" w="" l="homology" p="N"/>
+     <dpg d="E5" g="w28360" t="antecedent" cr="" w="" l="homology" p="N"/>
+     <dpg d="w28371" g="w28370" t="mod" cr="mod:w28370" w="experimentally" l="~" p="A"/>
+     <dpg d="w28372" g="w28371" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w28373" g="w28374" t="nn" cr="nn:w28374" w="two" l="~" p="N"/>
+     <dpg d="w28374" g="w28372" t="pcomp-n" cr="mod*by*n:w28371" w="types" l="type" p="N"/>
+     <dpg d="w28375" g="w28374" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w28376" g="w28378" t="mod" cr="mod:w28378" w="competitive" l="~" p="A"/>
+     <dpg d="w28377" g="w28378" t="mod" cr="mod:w28378" w="binding" l="~" p="A"/>
+     <dpg d="w28378" g="w28375" t="pcomp-n" cr="mod*of*n:w28374" w="assays" l="assay" p="N"/>
+     <dpg d="w28379" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,32 @@
+<rexml>
+<doc id="1443">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22792" g="w22795" t="lex-mod" cr="lex-mod:w22795" w="alpha-" l="~" p="U"/>
+     <dpg d="w22793" g="w22795" t="lex-mod" cr="lex-mod:w22795" w="and" l="~" p="U"/>
+     <dpg d="w22794" g="w22795" t="lex-mod" cr="lex-mod:w22795" w="beta-" l="~" p="U"/>
+     <dpg d="w22795" g="w22796" t="s" cr="s+subj:w22796" w="catenin" l="alpha- and beta- catenin" p="N"/>
+     <dpg d="w22796" g="E0" t="i" cr="" w="assemble" l="~" p="V"/>
+     <dpg d="E2" g="w22796" t="subj" cr="" w="" l="alpha- and beta- catenin" p="N"/>
+     <dpg d="E2" g="w22795" t="antecedent" cr="" w="" l="alpha- and beta- catenin" p="N"/>
+     <dpg d="w22797" g="w22796" t="mod" cr="" w="into" l="~" p="Prep"/>
+     <dpg d="w22798" g="w22801" t="det" cr="det:w22801" w="a" l="~" p="Det"/>
+     <dpg d="w22799" g="w22801" t="nn" cr="nn:w22801" w="1:1" l="~" p="N"/>
+     <dpg d="w22800" g="w22801" t="mod" cr="mod:w22801" w="heterodimeric" l="~" p="A"/>
+     <dpg d="w22801" g="w22797" t="pcomp-n" cr="mod*into*n:w22796" w="complex" l="~" p="N"/>
+     <dpg d="w22802" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

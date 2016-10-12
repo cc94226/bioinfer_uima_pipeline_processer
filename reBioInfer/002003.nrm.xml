@@ -1,0 +1,98 @@
+<rexml>
+<doc id="2003">
+  
+  <markup>
+   <nes>
+    <ne id="e7313" gid="g6975" t="Individual_protein" fr="w32032" to="w32032" nam="yes" sid="s1">
+     <textspan>VASP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2003.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7316" gid="g6978" t="Individual_protein" fr="w32058" to="w32058" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2003.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7315" gid="g6977" t="Individual_protein" fr="w32061" to="w32061" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2003.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7317" gid="g6979" t="Cell_component" fr="w32067" to="w32068" nam="yes" sid="s1">
+     <textspan>actin filament</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.2003.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7321" gid="g6983" t="Individual_protein" fr="w32067" to="w32067" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2003.8"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2801" t="BIND" e1="e7313" e2="e7316" re="e7314">
+     <textspan>VASP , in turn , provides the ABM-2 sequences [ XPPPPP , X = G , P , L , S , A ] for binding profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2003.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2802" t="MODULATE" e1="e7316" e2="e7315" re="e7320">
+     <textspan>profilin , an actin - regulatory</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2003.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="MODULATE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,70 @@
+<rexml>
+<doc id="833">
+  <text>
+<p><s id="s1"><w id="w12874">Interestingly</w> <w id="w12875">,</w> <w id="w12876">two</w> <w id="w12877">major</w> <w id="w12878">actin-binding</w> <w id="w12879">proteins</w> <w id="w12880">found</w> <w id="w12881">in</w> <w id="w12882">brain</w> <w id="w12883">,</w> <w id="w12884">gelsolin</w> <w id="w12885">and</w> <w id="w12886">profilin</w> <w id="w12887">,</w> <w id="w12888">specifically</w> <w id="w12889">interact</w> <w id="w12890">with</w> <w id="w12891">phosphatidylinositol</w> <w id="w12892">4,5-bisphosphate</w> <w id="w12893">,</w> <w id="w12894">and</w> <w id="w12895">may</w> <w id="w12896">themselves</w> <w id="w12897">play</w> <w id="w12898">a</w> <w id="w12899">role</w> <w id="w12900">in</w> <w id="w12901">regulating</w> <w id="w12902">phosphoinositide</w> <w id="w12903">turnover</w> <w id="w12904">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2989" gid="g2867" t="Protein_family_or_group" fr="w12878" to="w12879" nam="yes">
+     <textspan type="extent">actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.833.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2990" gid="g2868" t="Individual_protein" fr="w12886" to="w12886" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.833.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2991" gid="g2869" t="Individual_protein" fr="w12884" to="w12884" nam="yes">
+     <textspan type="extent">gelsolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.833.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1154" t="MEMBER" e1="e2989" e2="e2991" re="">
+     <textspan type="extent">actin-binding proteins found in brain , gelsolin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1155" t="MEMBER" e1="e2989" e2="e2990" re="">
+     <textspan type="extent">actin-binding proteins found in brain , gelsolin and profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,110 @@
+<rexml>
+<doc id="537">
+  
+  <markup>
+   <nes>
+    <ne id="e1770" gid="g1698" t="Individual_protein" fr="w7451" to="w7451" nam="yes" sid="s1">
+     <textspan>calmodulin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.537.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1778" gid="g1706" t="Substructure_of_protein" fr="w7458" to="w7463" nam="yes" sid="s1">
+     <textspan>region of [..] protein alpha-actinin2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.537.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e1774" gid="g1702" t="Individual_protein" fr="w7462" to="w7463" nam="yes" sid="s1">
+     <textspan>protein alpha-actinin2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.537.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1776" gid="g1704" t="Individual_protein" fr="w7463" to="w7463" nam="yes" sid="s1">
+     <textspan>alpha-actinin2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.537.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1777" gid="g1705" t="Substructure_of_protein" fr="w7470" to="w7472" nam="yes" sid="s1">
+     <textspan>region of NR1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.537.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1779" gid="g1707" t="Individual_protein" fr="w7472" to="w7472" nam="yes" sid="s1">
+     <textspan>NR1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.537.9"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r694" t="INTERACT" e1="e1778" e2="e1777" re="e1771">
+     <textspan>region of the cytoskeletal protein alpha-actinin2 known to interact with the CO region of NR1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.537.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r696" t="COEXPRESS" e1="e1770" e2="e1778" re="e1772">
+     <textspan>calmodulin can be prevented by coexpressing a region of the cytoskeletal protein alpha-actinin2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.537.2"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Temporal"/>
+      <exattr n="t3" v="COEXPRESS"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,60 @@
+<rexml>
+<doc id="1508">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23650" g="w23655" t="det" cr="det:w23655" w="The" l="~" p="Det"/>
+     <dpg d="w23651" g="w23653" t="lex-mod" cr="lex-mod:w23653" w="herpes" l="~" p="U"/>
+     <dpg d="w23652" g="w23653" t="lex-mod" cr="lex-mod:w23653" w="simplex" l="~" p="U"/>
+     <dpg d="w23653" g="w23655" t="nn" cr="nn:w23655" w="virus" l="herpes simplex virus" p="N"/>
+     <dpg d="w23654" g="w23655" t="nn" cr="nn:w23655" w="type-1" l="type-1" p="N"/>
+     <dpg d="w23655" g="w23662" t="s" cr="s+subj:w23662" w="UL5" l="~" p="N"/>
+     <dpg d="w23656" g="w23655" t="punc" cr="punc:w23655" w="," l="~" p="U"/>
+     <dpg d="w23657" g="w23655" t="conj" cr="conj:w23655" w="UL8" l="~" p="N"/>
+     <dpg d="w23658" g="w23657" t="punc" cr="punc:w23657" w="," l="~" p="U"/>
+     <dpg d="w23659" g="w23657" t="punc" cr="punc:w23657" w="and" l="~" p="U"/>
+     <dpg d="w23660" g="w23661" t="nn" cr="nn:w23661" w="UL52" l="~" p="N"/>
+     <dpg d="w23661" g="w23657" t="conj" cr="conj:w23657" w="genes" l="gene" p="N"/>
+     <dpg d="w23662" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="encode" l="~" p="V"/>
+     <dpg d="E4" g="w23662" t="subj" cr="" w="" l="UL5" p="N"/>
+     <dpg d="E4" g="w23655" t="antecedent" cr="" w="" l="UL5" p="N"/>
+     <dpg d="w23663" g="w23666" t="det" cr="det:w23666" w="an" l="~" p="Det"/>
+     <dpg d="w23664" g="w23666" t="mod" cr="mod:w23666" w="essential" l="~" p="A"/>
+     <dpg d="w23665" g="w23666" t="mod" cr="mod:w23666" w="heterotrimeric" l="~" p="A"/>
+     <dpg d="w23666" g="w23662" t="obj" cr="obj:w23662" w="DNA" l="~" p="N"/>
+     <dpg d="w23667" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="helicase-primase" l="helicase-primase" p="A"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23668" g="E0" t="whn" cr="whn:w23669||subj:w23670" w="that" l="~" p="THAT"/>
+     <dpg d="w23669" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="is" l="be" p="VBE"/>
+     <dpg d="w23670" g="w23669" t="pred" cr="pred:w23669" w="responsible" l="~" p="A"/>
+     <dpg d="E5" g="w23670" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E5" g="w23668" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w23671" g="w23670" t="comp1" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w23672" g="w23677" t="mod" cr="mod:w23677" w="concomitant" l="~" p="A"/>
+     <dpg d="w23673" g="w23677" t="nn" cr="nn:w23677" w="DNA" l="~" p="N"/>
+     <dpg d="w23674" g="w23677" t="mod" cr="mod:w23677" w="unwinding" l="~" p="A"/>
+     <dpg d="w23675" g="w23674" t="punc" cr="punc:w23674" w="and" l="~" p="U"/>
+     <dpg d="w23676" g="w23674" t="conj" cr="conj:w23674" w="primer" l="prim" p="A"/>
+     <dpg d="w23677" g="w23671" t="pcomp-n" cr="comp1*for*n:w23670" w="synthesis" l="~" p="N"/>
+     <dpg d="w23678" g="w23677" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w23679" g="w23683" t="det" cr="det:w23683" w="the" l="~" p="Det"/>
+     <dpg d="w23680" g="w23683" t="mod" cr="mod:w23683" w="viral" l="~" p="A"/>
+     <dpg d="w23681" g="w23683" t="nn" cr="nn:w23683" w="DNA" l="~" p="N"/>
+     <dpg d="w23682" g="w23683" t="nn" cr="nn:w23683" w="replication" l="~" p="N"/>
+     <dpg d="w23683" g="w23678" t="pcomp-n" cr="mod*at*n:w23677" w="fork" l="~" p="N"/>
+     <dpg d="w23684" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

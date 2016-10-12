@@ -1,0 +1,74 @@
+<rexml>
+<doc id="157">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E3" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2572" g="w2573" t="nn" cr="nn:w2573" w="Archaeal" l="~" p="N"/>
+     <dpg d="w2573" g="w2574" t="s" cr="s:w2574||subj:w2575" w="histones" l="~" p="N"/>
+     <dpg d="w2574" g="E3" t="i" cr="UNSPECRELTYPE:E6" w="are" l="be" p="VBE"/>
+     <dpg d="w2575" g="w2574" t="pred" cr="pred:w2574" w="most" l="~" p="N"/>
+     <dpg d="E7" g="w2575" t="subj" cr="" w="" l="histones" p="N"/>
+     <dpg d="E7" g="w2573" t="antecedent" cr="" w="" l="histones" p="N"/>
+     <dpg d="w2576" g="w2575" t="pnmod" cr="pnmod:w2575" w="similar" l="~" p="A"/>
+     <dpg d="w2577" g="w2576" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w2578" g="w2581" t="det" cr="det:w2581" w="the" l="~" p="Det"/>
+     <dpg d="w2579" g="w2581" t="mod" cr="mod:w2581" w="globular" l="~" p="A"/>
+     <dpg d="w2580" g="w2581" t="nn" cr="nn:w2581" w="histone" l="~" p="N"/>
+     <dpg d="w2581" g="w2577" t="pcomp-n" cr="mod*to*n:w2576" w="fold" l="~" p="N"/>
+     <dpg d="E2" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2582" g="w2592" t="s" cr="s:w2592||subj:w2593" w="region" l="~" p="N"/>
+     <dpg d="w2583" g="w2582" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2584" g="w2585" t="mod" cr="mod:w2585" w="eukaryal" l="~" p="A"/>
+     <dpg d="w2585" g="w2583" t="pcomp-n" cr="mod*of*n:w2582||obj:w2591" w="histone" l="~" p="N"/>
+     <dpg d="E1" g="w2585" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2586" g="w2591" t="s" cr="s+subj:w2591" w="H4" l="~" p="N"/>
+     <dpg d="w2587" g="w2586" t="punc" cr="punc:w2586" w="," l="~" p="U"/>
+     <dpg d="w2588" g="w2586" t="punc" cr="punc:w2586" w="and" l="~" p="U"/>
+     <dpg d="w2589" g="w2590" t="det" cr="det:w2590" w="the" l="~" p="Det"/>
+     <dpg d="w2590" g="w2586" t="conj" cr="conj:w2586" w="results" l="result" p="N"/>
+     <dpg d="w2591" g="E1" t="i" cr="rel:w2585" w="reported" l="report" p="V"/>
+     <dpg d="E8" g="w2591" t="obj" cr="" w="" l="histone" p="N"/>
+     <dpg d="E8" g="w2585" t="antecedent" cr="" w="" l="histone" p="N"/>
+     <dpg d="E9" g="w2591" t="subj" cr="" w="" l="H4" p="N"/>
+     <dpg d="E9" g="w2586" t="antecedent" cr="" w="" l="H4" p="N"/>
+     <dpg d="w2592" g="E2" t="i" cr="UNSPECRELTYPE:E6" w="are" l="be" p="VBE"/>
+     <dpg d="w2593" g="w2592" t="pred" cr="pred:w2592" w="consistent" l="~" p="A"/>
+     <dpg d="E10" g="w2593" t="subj" cr="" w="" l="region" p="N"/>
+     <dpg d="E10" g="w2582" t="antecedent" cr="" w="" l="region" p="N"/>
+     <dpg d="w2594" g="w2593" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w2595" g="w2596" t="mod" cr="mod:w2596" w="archaeal" l="~" p="A"/>
+     <dpg d="w2596" g="w2594" t="pcomp-n" cr="mod*with*n:w2593||s+subj:w2597" w="nucleosomes" l="~" p="N"/>
+     <dpg d="E0" g="w2596" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w2596" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w2597" g="E0" t="i" cr="rel:w2596" w="resembling" l="resemble" p="V"/>
+     <dpg d="E11" g="w2597" t="subj" cr="" w="" l="nucleosomes" p="N"/>
+     <dpg d="E11" g="E4" t="antecedent" cr="" w="" l="nucleosomes" p="N"/>
+     <dpg d="w2598" g="w2599" t="det" cr="det:w2599" w="the" l="~" p="Det"/>
+     <dpg d="w2599" g="w2597" t="obj" cr="obj:w2597" w="structure" l="~" p="N"/>
+     <dpg d="w2600" g="w2599" t="pnmod" cr="pnmod:w2599" w="formed" l="~" p="A"/>
+     <dpg d="w2601" g="w2600" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w2602" g="w2607" t="mod" cr="mod:w2607" w="eukaryal" l="~" p="A"/>
+     <dpg d="w2603" g="w2607" t="nn" cr="nn:w2607" w="histone" l="~" p="N"/>
+     <dpg d="w2604" g="w2607" t="punc" cr="punc:w2607" w="(" l="~" p="U"/>
+     <dpg d="w2605" g="w2607" t="nn" cr="nn:w2607" w="H3" l="~" p="N"/>
+     <dpg d="w2606" g="w2607" t="nn" cr="nn:w2607" w="+" l="~" p="N"/>
+     <dpg d="w2607" g="w2601" t="pcomp-n" cr="mod*by*n:w2600" w="H4" l="~" p="N"/>
+     <dpg d="w2608" g="w2607" t="num" cr="num:w2607" w=")2" l="~" p="N"/>
+     <dpg d="w2609" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="tetramers" l="~" p="N"/>
+     <dpg d="w2610" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

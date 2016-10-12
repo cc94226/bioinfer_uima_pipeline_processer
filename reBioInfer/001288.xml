@@ -1,0 +1,107 @@
+<rexml>
+<doc id="1288">
+  <text>
+<p><s id="s1"><w id="w20256">Specific</w> <w id="w20257">interaction</w> <w id="w20258">between</w> <w id="w20259">the</w> <w id="w20260">nucleocapsid</w> <w id="w20261">protein</w> <w id="w20262">(</w> <w id="w20263">N</w> <w id="w20264">)</w> <w id="w20265">and</w> <w id="w20266">the</w> <w id="w20267">phosphoprotein</w> <w id="w20268">(</w> <w id="w20269">P</w> <w id="w20270">)</w> <w id="w20271">of</w> <w id="w20272">vesicular</w> <w id="w20273">stomatitis</w> <w id="w20274">virus</w> <w id="w20275">(</w> <w id="w20276">VSV</w> <w id="w20277">)</w> <w id="w20278">,</w> <w id="w20279">an</w> <w id="w20280">important</w> <w id="w20281">step</w> <w id="w20282">in</w> <w id="w20283">the</w> <w id="w20284">life-cycle</w> <w id="w20285">of</w> <w id="w20286">the</w> <w id="w20287">virus</w> <w id="w20288">,</w> <w id="w20289">was</w> <w id="w20290">studied</w> <w id="w20291">by</w> <w id="w20292">using</w> <w id="w20293">a</w> <w id="w20294">two-hybrid</w> <w id="w20295">system</w> <w id="w20296">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4660" gid="g4457" t="RELATIONSHIP_TEXTBINDING" fr="w20257" to="w20258">
+     <textspan type="extent">interaction between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1288.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4661" gid="g4458" t="Individual_protein" fr="w20260" to="w20261" nam="yes">
+     <textspan type="extent">nucleocapsid protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1288.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4662" gid="g4458" t="Individual_protein" fr="w20263" to="w20263" nam="yes">
+     <textspan type="extent">N</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1288.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4663" gid="g4459" t="Individual_protein" fr="w20267" to="w20267" nam="yes">
+     <textspan type="extent">phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1288.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4664" gid="g4460" t="Individual_protein" fr="w20260" to="w20274" nam="yes">
+     <textspan type="extent">nucleocapsid protein [..] of vesicular stomatitis virus</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1288.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4665" gid="g4459" t="Individual_protein" fr="w20269" to="w20269" nam="yes">
+     <textspan type="extent">P</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1288.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4666" gid="g4461" t="Individual_protein" fr="w20267" to="w20274" nam="yes">
+     <textspan type="extent">phosphoprotein [..] of vesicular stomatitis virus</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1288.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1774" t="INTERACT" e1="e4664" e2="e4666" re="e4660">
+     <textspan type="extent">interaction between the nucleocapsid protein ( N ) and the phosphoprotein ( P ) of vesicular stomatitis virus</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1288.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

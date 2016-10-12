@@ -1,0 +1,62 @@
+<rexml>
+<doc id="1338">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20837" g="w20842" t="det" cr="det:w20842" w="The" l="~" p="Det"/>
+     <dpg d="w20838" g="w20842" t="nn" cr="nn:w20842" w="actin" l="~" p="N"/>
+     <dpg d="w20839" g="w20841" t="lex-mod" cr="lex-mod:w20841" w="monomer" l="~" p="U"/>
+     <dpg d="w20840" g="w20841" t="lex-mod" cr="lex-mod:w20841" w="-" l="~" p="U"/>
+     <dpg d="w20841" g="w20842" t="mod" cr="mod:w20842" w="binding" l="monomer - binding" p="A"/>
+     <dpg d="w20842" g="w20846" t="s" cr="s+subj:w20846||s+subj:w20855||subj:w20858||subj:w20865" w="protein" l="~" p="N"/>
+     <dpg d="w20843" g="w20842" t="punc" cr="punc:w20842" w="," l="~" p="U"/>
+     <dpg d="w20844" g="w20842" t="appo" cr="appo:w20842" w="profilin" l="~" p="N"/>
+     <dpg d="w20845" g="w20846" t="punc" cr="punc:w20846" w="," l="~" p="U"/>
+     <dpg d="w20846" g="E1" t="i" cr="" w="influences" l="influence" p="V"/>
+     <dpg d="E4" g="w20846" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E4" g="w20842" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w20847" g="w20848" t="det" cr="det:w20848" w="the" l="~" p="Det"/>
+     <dpg d="w20848" g="w20846" t="obj" cr="obj:w20846" w="dynamics" l="dynamic" p="N"/>
+     <dpg d="w20849" g="w20848" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w20850" g="w20851" t="nn" cr="nn:w20851" w="actin" l="~" p="N"/>
+     <dpg d="w20851" g="w20849" t="pcomp-n" cr="mod*of*n:w20848" w="filaments" l="filament" p="N"/>
+     <dpg d="w20852" g="w20853" t="lex-mod" cr="lex-mod:w20853" w="in" l="~" p="U"/>
+     <dpg d="w20853" g="w20851" t="pnmod" cr="pnmod:w20851" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w20854" g="w20853" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E0" g="w20854" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w20842" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w20855" g="E0" t="i" cr="mod*by*c:w20853" w="suppressing" l="suppress" p="V"/>
+     <dpg d="E5" g="w20855" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w20856" g="w20855" t="obj" cr="obj:w20855" w="nucleation" l="~" p="N"/>
+     <dpg d="w20857" g="w20855" t="punc" cr="punc:w20855" w="," l="~" p="U"/>
+     <dpg d="w20858" g="w20855" t="conj" cr="conj:w20855" w="enhancing" l="enhance" p="V"/>
+     <dpg d="E6" g="w20858" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w20859" g="w20860" t="nn" cr="nn:w20860" w="nucleotide" l="~" p="N"/>
+     <dpg d="w20860" g="w20858" t="obj" cr="obj:w20858" w="exchange" l="~" p="N"/>
+     <dpg d="w20861" g="w20860" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w20862" g="w20861" t="pcomp-n" cr="mod*on*n:w20860" w="actin" l="~" p="N"/>
+     <dpg d="w20863" g="w20858" t="punc" cr="punc:w20858" w="," l="~" p="U"/>
+     <dpg d="w20864" g="w20858" t="punc" cr="punc:w20858" w="and" l="~" p="U"/>
+     <dpg d="w20865" g="w20858" t="conj" cr="conj:w20858" w="promoting" l="promote" p="V"/>
+     <dpg d="E7" g="w20865" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E7" g="E2" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w20866" g="w20867" t="mod" cr="mod:w20867" w="barbed-end" l="barbed-end" p="A"/>
+     <dpg d="w20867" g="w20865" t="obj" cr="obj:w20865" w="assembly" l="~" p="N"/>
+     <dpg d="w20868" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

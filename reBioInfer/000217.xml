@@ -1,0 +1,241 @@
+<rexml>
+<doc id="217">
+  <text>
+<p><s id="s1"><w id="w3289">Because</w> <w id="w3290">other</w> <w id="w3291">researchers</w> <w id="w3292">have</w> <w id="w3293">shown</w> <w id="w3294">that</w> <w id="w3295">the</w> <w id="w3296">RAD51</w> <w id="w3297">and</w> <w id="w3298">RAD52</w> <w id="w3299">proteins</w> <w id="w3300">interact</w> <w id="w3301">,</w> <w id="w3302">RAD51</w> <w id="w3303">on</w> <w id="w3304">a</w> <w id="w3305">high</w> <w id="w3306">copy</w> <w id="w3307">number</w> <w id="w3308">plasmid</w> <w id="w3309">was</w> <w id="w3310">tested</w> <w id="w3311">and</w> <w id="w3312">found</w> <w id="w3313">to</w> <w id="w3314">suppress</w> <w id="w3315">the</w> <w id="w3316">rad52-20</w> <w id="w3317">allele</w> <w id="w3318">,</w> <w id="w3319">but</w> <w id="w3320">RAD</w> <w id="w3321">54</w> <w id="w3322">,</w> <w id="w3323">55</w> <w id="w3324">and</w> <w id="w3325">57</w> <w id="w3326">did</w> <w id="w3327">not</w> <w id="w3328">suppress</w> <w id="w3329">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e800" gid="g772" t="Individual_protein" fr="w3296" to="w3299" nam="yes">
+     <textspan type="extent">RAD51 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.217.0"/>
+      <exattr n="nst" v="st.217.7.0"/>
+      <exattr n="nst" v="st.217.10.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e801" gid="g773" t="RELATIONSHIP_TEXTBINDING" fr="w3300" to="w3300">
+     <textspan type="extent">interact</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.217.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e802" gid="g774" t="Gene" fr="w3302" to="w3302" nam="yes">
+     <textspan type="extent">RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.217.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e803" gid="g775" t="Individual_protein" fr="w3298" to="w3299" nam="yes">
+     <textspan type="extent">RAD52 proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.217.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e804" gid="g776" t="Gene" fr="w3320" to="w3321" nam="yes">
+     <textspan type="extent">RAD 54</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.217.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e805" gid="g777" t="Gene" fr="w3316" to="w3317" nam="yes">
+     <textspan type="extent">rad52-20 allele</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.217.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e806" gid="g778" t="Gene" fr="w3320" to="w3325" nam="yes">
+     <textspan type="extent">RAD [..] 57</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.217.6"/>
+      <exattr n="nst" v="st.217.31.0"/>
+      <exattr n="nst" v="st.217.36.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e807" gid="g779" t="Gene" fr="w3320" to="w3323" nam="yes">
+     <textspan type="extent">RAD [..] 55</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.217.7"/>
+      <exattr n="nst" v="st.217.31.0"/>
+      <exattr n="nst" v="st.217.34.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e808" gid="g780" t="RELATIONSHIP_TEXTBINDING" fr="w3328" to="w3328">
+     <textspan type="extent">suppress</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.217.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e809" gid="g781" t="Gene" fr="w3296" to="w3296" nam="yes">
+     <textspan type="extent">RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.217.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e810" gid="g782" t="RELATIONSHIP_TEXTBINDING" fr="w3314" to="w3314">
+     <textspan type="extent">suppress</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.217.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e811" gid="g783" t="Gene" fr="w3298" to="w3298" nam="yes">
+     <textspan type="extent">RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.217.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e812" gid="g784" t="Gene" fr="w3316" to="w3316" nam="yes">
+     <textspan type="extent">rad52-20</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.217.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e813" gid="g785" t="RELATIONSHIP_TEXTBINDING" fr="w3327" to="w3327">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.217.13"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r299" t="INTERACT" e1="e800" e2="e803" re="e801">
+     <textspan type="extent">RAD51 and RAD52 proteins interact</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.217.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r300" t="DOWNREGULATE" e1="e802" e2="e805" re="e810">
+     <textspan type="extent">RAD51 on a high copy number plasmid was tested and found to suppress the rad52-20 allele</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.217.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="DOWNREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r302" t="DOWNREGULATE" e1="e802" e2="e804" re="e808">
+     <textspan type="extent">RAD51 on a high copy number plasmid was tested and found to suppress the rad52-20 allele , but RAD 54 , 55 and 57 did not suppress</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.217.8"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="DOWNREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r304" t="DOWNREGULATE" e1="e802" e2="e807" re="e808">
+     <textspan type="extent">RAD51 on a high copy number plasmid was tested and found to suppress the rad52-20 allele , but RAD 54 , 55 and 57 did not suppress</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.217.8"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="DOWNREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r306" t="DOWNREGULATE" e1="e802" e2="e806" re="e808">
+     <textspan type="extent">RAD51 on a high copy number plasmid was tested and found to suppress the rad52-20 allele , but RAD 54 , 55 and 57 did not suppress</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.217.8"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="DOWNREGULATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

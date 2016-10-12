@@ -1,0 +1,62 @@
+<rexml>
+<doc id="1064">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w16766" g="E3" t="subcat" cr="subcat:E3" w="One" l="~" p="N"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16767" g="w16768" t="pre" cr="pre:w16768" w="such" l="~" p="PreDet"/>
+     <dpg d="w16768" g="w16769" t="s" cr="s:w16769||subj:w16774" w="protein" l="~" p="N"/>
+     <dpg d="w16769" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="is" l="be" p="VBE"/>
+     <dpg d="E4" g="w16774" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E4" g="w16768" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w16770" g="w16774" t="det" cr="det:w16774" w="the" l="~" p="Det"/>
+     <dpg d="w16771" g="w16774" t="nn" cr="nn:w16774" w="yeast" l="~" p="N"/>
+     <dpg d="w16772" g="w16774" t="mod" cr="mod:w16774" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w16773" g="w16774" t="nn" cr="nn:w16774" w="protein" l="~" p="N"/>
+     <dpg d="w16774" g="w16769" t="pred" cr="pred:w16769||subj:w16778" w="Sac6p" l="~" p="N"/>
+     <dpg d="w16775" g="w16774" t="punc" cr="punc:w16774" w="," l="~" p="U"/>
+     <dpg d="E0" g="w16774" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16776" g="E0" t="whn" cr="whn:w16777" w="which" l="~" p="N"/>
+     <dpg d="w16776" g="w16774" t="antecedent" cr="antecedent:w16774" w="which" l="~" p="N"/>
+     <dpg d="w16777" g="E0" t="i" cr="rel:w16774" w="is" l="be" p="VBE"/>
+     <dpg d="w16778" g="w16777" t="pred" cr="pred:w16777" w="homologous" l="~" p="A"/>
+     <dpg d="E5" g="w16778" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E5" g="w16774" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w16779" g="w16778" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w16780" g="w16783" t="mod" cr="mod:w16783" w="vertebrate" l="~" p="A"/>
+     <dpg d="w16781" g="w16783" t="nn" cr="nn:w16783" w="fimbrin" l="~" p="N"/>
+     <dpg d="w16782" g="w16783" t="punc" cr="punc:w16783" w="(" l="~" p="U"/>
+     <dpg d="w16783" g="w16779" t="pcomp-n" cr="mod*to*n:w16778" w="Adams" l="~" p="N"/>
+     <dpg d="w16784" g="w16783" t="punc" cr="punc:w16783" w="," l="~" p="U"/>
+     <dpg d="w16785" g="w16787" t="lex-mod" cr="lex-mod:w16787" w="A." l="~" p="U"/>
+     <dpg d="w16786" g="w16787" t="lex-mod" cr="lex-mod:w16787" w="E." l="~" p="U"/>
+     <dpg d="w16787" g="w16783" t="conj" cr="conj:w16783" w="M." l="A. E. M." p="N"/>
+     <dpg d="w16788" g="w16787" t="punc" cr="punc:w16787" w="," l="~" p="U"/>
+     <dpg d="w16789" g="w16790" t="lex-mod" cr="lex-mod:w16790" w="D." l="~" p="U"/>
+     <dpg d="w16790" g="w16787" t="conj" cr="conj:w16787" w="Botstein" l="D. Botstein" p="N"/>
+     <dpg d="w16791" g="w16790" t="punc" cr="punc:w16790" w="," l="~" p="U"/>
+     <dpg d="w16792" g="w16790" t="punc" cr="punc:w16790" w="and" l="~" p="U"/>
+     <dpg d="w16793" g="w16795" t="nn" cr="nn:w16795" w="D." l="~" p="N"/>
+     <dpg d="w16794" g="w16795" t="nn" cr="nn:w16795" w="G." l="~" p="N"/>
+     <dpg d="w16795" g="w16790" t="conj" cr="conj:w16790" w="Drubin." l="~" p="N"/>
+     <dpg d="w16796" g="w16795" t="num" cr="num:w16795" w="1991." l="~" p="N"/>
+     <dpg d="w16797" g="w16798" t="nn" cr="nn:w16798" w="Nature" l="~" p="N"/>
+     <dpg d="w16798" g="E3" t="punc" cr="punc:E3" w="(Lond.)." l="~" p="U"/>
+     <dpg d="w16799" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="354:404-408." l="354:404- 408" p="N"/>
+     <dpg d="w16800" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w16801" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

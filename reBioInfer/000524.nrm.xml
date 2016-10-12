@@ -1,0 +1,139 @@
+<rexml>
+<doc id="524">
+  
+  <markup>
+   <nes>
+    <ne id="e1744" gid="g1672" t="Individual_protein" fr="w7350" to="w7352" nam="yes" sid="s1">
+     <textspan>WASP family proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.524.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1750" gid="g1678" t="Protein_family_or_group" fr="w7350" to="w7351" nam="yes" sid="s1">
+     <textspan>WASP family</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.524.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1751" gid="g1679" t="Individual_protein" fr="w7350" to="w7350" nam="yes" sid="s1">
+     <textspan>WASP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.524.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1747" gid="g1675" t="Individual_protein" fr="w7359" to="w7360" nam="yes" sid="s1">
+     <textspan>actin monomer</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.524.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1753" gid="g1681" t="Individual_protein" fr="w7359" to="w7359" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.524.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e1749" gid="g1677" t="Substructure_of_protein" fr="w7363" to="w7363" nam="yes" sid="s1">
+     <textspan>region</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.524.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1746" gid="g1674" t="Individual_protein" fr="w7367" to="w7367" nam="yes" sid="s1">
+     <textspan>cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.524.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1748" gid="g1676" t="Substructure_of_protein" fr="w7369" to="w7369" nam="yes" sid="s1">
+     <textspan>sequence</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.524.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r689" t="BIND" e1="e1749" e2="e1747" re="e1745">
+     <textspan>actin monomer - binding region</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.524.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r690" t="SQSIMILAR" e1="e1748" e2="e1746" re="e1752">
+     <textspan>cofilin homology sequence</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.524.8"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Physical-Similarity"/>
+      <exattr n="t4" v="SQSIMILAR"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

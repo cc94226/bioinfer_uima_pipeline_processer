@@ -1,0 +1,53 @@
+<rexml>
+<doc id="772">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12059" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w12060" g="w12061" t="mod" cr="mod:w12061" w="higher" l="~" p="A"/>
+     <dpg d="w12061" g="w12059" t="pcomp-n" cr="mod*in*n:w12078" w="plants" l="plant" p="N"/>
+     <dpg d="w12062" g="E1" t="punc" cr="punc:w12078" w="," l="~" p="U"/>
+     <dpg d="w12063" g="w12065" t="det" cr="det:w12065" w="a" l="~" p="Det"/>
+     <dpg d="w12064" g="w12065" t="lex-mod" cr="lex-mod:w12065" w="large" l="~" p="U"/>
+     <dpg d="w12065" g="w12078" t="s" cr="s+obj:w12078" w="number" l="large number" p="N"/>
+     <dpg d="w12066" g="w12065" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12067" g="w12066" t="pcomp-n" cr="mod*of*n:w12065" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w12068" g="w12067" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w12069" g="w12075" t="det" cr="det:w12075" w="the" l="~" p="Det"/>
+     <dpg d="w12070" g="w12075" t="nn" cr="nn:w12075" w="actin" l="~" p="N"/>
+     <dpg d="w12071" g="w12073" t="lex-mod" cr="lex-mod:w12073" w="monomer" l="~" p="U"/>
+     <dpg d="w12072" g="w12073" t="lex-mod" cr="lex-mod:w12073" w="-" l="~" p="U"/>
+     <dpg d="w12073" g="w12075" t="mod" cr="mod:w12075" w="binding" l="monomer - binding" p="A"/>
+     <dpg d="w12074" g="w12075" t="nn" cr="nn:w12075" w="protein" l="~" p="N"/>
+     <dpg d="w12075" g="w12068" t="pcomp-n" cr="mod*for*n:w12067" w="profilin" l="~" p="N"/>
+     <dpg d="w12076" g="w12078" t="have" cr="have:w12078" w="have" l="~" p="have"/>
+     <dpg d="w12077" g="w12078" t="be" cr="be:w12078" w="been" l="be" p="be"/>
+     <dpg d="w12078" g="E1" t="i" cr="" w="identified" l="identify" p="V"/>
+     <dpg d="E3" g="w12078" t="obj" cr="" w="" l="large number" p="N"/>
+     <dpg d="E3" g="w12065" t="antecedent" cr="" w="" l="large number" p="N"/>
+     <dpg d="w12079" g="w12078" t="punc" cr="punc:w12078" w="," l="~" p="U"/>
+     <dpg d="w12080" g="w12078" t="mod" cr="mod:w12078" w="whereas" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w12080" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12081" g="w12082" t="mod" cr="mod:w12082" w="other" l="~" p="A"/>
+     <dpg d="w12082" g="w12083" t="s" cr="s+subj:w12083" w="organisms" l="organism" p="N"/>
+     <dpg d="w12083" g="E0" t="i" cr="comp1:w12080" w="express" l="~" p="V"/>
+     <dpg d="E4" g="w12083" t="subj" cr="" w="" l="organism" p="N"/>
+     <dpg d="E4" g="w12082" t="antecedent" cr="" w="" l="organism" p="N"/>
+     <dpg d="w12084" g="w12083" t="guest" cr="guest:w12083" w="only" l="~" p="A"/>
+     <dpg d="w12085" g="w12086" t="det" cr="det:w12086" w="few" l="~" p="Det"/>
+     <dpg d="w12086" g="w12083" t="obj" cr="obj:w12083" w="profilins" l="~" p="N"/>
+     <dpg d="w12087" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

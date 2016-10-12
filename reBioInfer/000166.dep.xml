@@ -1,0 +1,59 @@
+<rexml>
+<doc id="166">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2729" g="E1" t="mod" cr="" w="As" l="~" p="Prep"/>
+     <dpg d="w2730" g="w2733" t="det" cr="det:w2733" w="a" l="~" p="Det"/>
+     <dpg d="w2731" g="w2733" t="mod" cr="mod:w2733" w="nuclear" l="~" p="A"/>
+     <dpg d="w2732" g="w2733" t="nn" cr="nn:w2733" w="transport" l="~" p="N"/>
+     <dpg d="w2733" g="w2729" t="pcomp-n" cr="mod*as*n:w2735" w="signal" l="~" p="N"/>
+     <dpg d="w2734" g="w2735" t="s" cr="s+subj:w2735" w="sequence" l="~" p="N"/>
+     <dpg d="w2735" g="E1" t="i" cr="" w="exists" l="exist" p="V"/>
+     <dpg d="E3" g="w2735" t="subj" cr="" w="" l="sequence" p="N"/>
+     <dpg d="E3" g="w2734" t="antecedent" cr="" w="" l="sequence" p="N"/>
+     <dpg d="w2736" g="w2735" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w2737" g="w2736" t="pcomp-n" cr="mod*in*n:w2735" w="cofilin" l="~" p="N"/>
+     <dpg d="w2738" g="w2737" t="punc" cr="punc:w2737" w="and" l="~" p="U"/>
+     <dpg d="w2739" g="w2737" t="conj" cr="conj:w2737" w="ADF" l="~" p="N"/>
+     <dpg d="w2740" g="E1" t="punc" cr="punc:w2735" w="but" l="~" p="U"/>
+     <dpg d="w2741" g="E1" t="punc" cr="punc:w2735" w="not" l="~" p="U"/>
+     <dpg d="E0" g="E1" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2742" g="E0" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w2743" g="w2742" t="pcomp-n" cr="mod*in*n:w2749" w="actin" l="~" p="N"/>
+     <dpg d="w2744" g="E0" t="punc" cr="punc:w2749" w="," l="~" p="U"/>
+     <dpg d="w2745" g="w2749" t="s" cr="s:w2749||subj:w2750" w="ADF" l="~" p="N"/>
+     <dpg d="w2746" g="w2745" t="punc" cr="punc:w2745" w="and/or" l="~" p="U"/>
+     <dpg d="w2747" g="w2745" t="conj" cr="conj:w2745" w="cofilin" l="~" p="N"/>
+     <dpg d="w2748" g="w2749" t="aux" cr="aux:w2749" w="may" l="~" p="Aux"/>
+     <dpg d="w2749" g="E0" t="i" cr="conj:w2735" w="be" l="~" p="VBE"/>
+     <dpg d="w2750" g="w2749" t="pred" cr="pred:w2749" w="responsible" l="~" p="A"/>
+     <dpg d="E4" g="w2750" t="subj" cr="" w="" l="ADF" p="N"/>
+     <dpg d="E4" g="w2745" t="antecedent" cr="" w="" l="ADF" p="N"/>
+     <dpg d="w2751" g="w2750" t="comp1" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w2752" g="w2754" t="det" cr="det:w2754" w="the" l="~" p="Det"/>
+     <dpg d="w2753" g="w2754" t="mod" cr="mod:w2754" w="nuclear" l="~" p="A"/>
+     <dpg d="w2754" g="w2751" t="pcomp-n" cr="comp1*for*n:w2750" w="import" l="~" p="N"/>
+     <dpg d="w2755" g="w2754" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2756" g="w2755" t="pcomp-n" cr="mod*of*n:w2754" w="actin" l="~" p="N"/>
+     <dpg d="w2757" g="w2756" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w2758" g="w2759" t="mod" cr="mod:w2759" w="myogenic" l="~" p="A"/>
+     <dpg d="w2759" g="w2757" t="pcomp-n" cr="mod*in*n:w2756" w="cells" l="cell" p="N"/>
+     <dpg d="w2760" g="w2759" t="mod" cr="" w="under" l="~" p="Prep"/>
+     <dpg d="w2761" g="w2762" t="mod" cr="mod:w2762" w="certain" l="~" p="A"/>
+     <dpg d="w2762" g="w2760" t="pcomp-n" cr="mod*under*n:w2759" w="conditions" l="condition" p="N"/>
+     <dpg d="w2763" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

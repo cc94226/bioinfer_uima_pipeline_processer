@@ -1,0 +1,102 @@
+<rexml>
+<doc id="1796">
+  
+  <markup>
+   <nes>
+    <ne id="e6683" gid="g6372" t="Individual_protein" fr="w28883" to="w28894" nam="yes" sid="s1">
+     <textspan>Rinderpest virus [..] nucleocapsid protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1796.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6681" gid="g6371" t="Individual_protein" fr="w28883" to="w28888" nam="yes" sid="s1">
+     <textspan>Rinderpest virus [..] phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1796.4"/>
+      <exattr n="nst" v="st.1796.17.0"/>
+      <exattr n="nst" v="st.1796.18.0"/>
+      <exattr n="nst" v="st.1796.22.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6678" gid="g6369" t="Individual_protein" fr="w28888" to="w28888" nam="yes" sid="s1">
+     <textspan>phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1796.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6679" gid="g6369" t="Individual_protein" fr="w28890" to="w28890" nam="yes" sid="s1">
+     <textspan>P</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1796.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6680" gid="g6370" t="Individual_protein" fr="w28893" to="w28894" nam="yes" sid="s1">
+     <textspan>nucleocapsid protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1796.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6682" gid="g6370" t="Individual_protein" fr="w28896" to="w28896" nam="yes" sid="s1">
+     <textspan>N</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1796.5"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2565" t="INTERACT" e1="e6681" e2="e6683" re="e6677">
+     <textspan>interactions between the Rinderpest virus ( RPV ) phosphoprotein ( P ) and nucleocapsid protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1796.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

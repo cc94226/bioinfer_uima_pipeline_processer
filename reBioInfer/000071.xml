@@ -1,0 +1,96 @@
+<rexml>
+<doc id="71">
+  <text>
+<p><s id="s1"><w id="w1154">Aip1p</w> <w id="w1155">interacts</w> <w id="w1156">with</w> <w id="w1157">cofilin</w> <w id="w1158">to</w> <w id="w1159">disassemble</w> <w id="w1160">actin</w> <w id="w1161">filaments</w> <w id="w1162">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e295" gid="g286" t="Individual_protein" fr="w1154" to="w1154" nam="yes">
+     <textspan type="extent">Aip1p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.71.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e296" gid="g287" t="RELATIONSHIP_TEXTBINDING" fr="w1155" to="w1156">
+     <textspan type="extent">interacts with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.71.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e297" gid="g288" t="Cell_component" fr="w1160" to="w1161" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.71.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e298" gid="g289" t="RELATIONSHIP_TEXTBINDING" fr="w1159" to="w1159">
+     <textspan type="extent">disassemble</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.71.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e299" gid="g290" t="Individual_protein" fr="w1157" to="w1157" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.71.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e300" gid="g291" t="Individual_protein" fr="w1160" to="w1160" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.71.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r99" t="DEPOLYMERIZE" e1="e296" e2="e297" re="e298">
+     <textspan type="extent">Aip1p interacts with cofilin to disassemble actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.71.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="DEPOLYMERIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r100" t="INTERACT" e1="e295" e2="e299" re="e296">
+     <textspan type="extent">Aip1p interacts with cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.71.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

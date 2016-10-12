@@ -1,0 +1,56 @@
+<rexml>
+<doc id="127">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2099" g="w2109" t="s" cr="s+subj:w2109" w="Analysis" l="~" p="N"/>
+     <dpg d="w2100" g="w2099" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2101" g="w2100" t="pcomp-n" cr="mod*of*n:w2099" w="V3" l="~" p="N"/>
+     <dpg d="w2102" g="w2101" t="punc" cr="punc:w2101" w="," l="~" p="U"/>
+     <dpg d="w2103" g="w2105" t="det" cr="det:w2105" w="a" l="~" p="Det"/>
+     <dpg d="w2104" g="w2105" t="nn" cr="nn:w2105" w="hamster" l="~" p="N"/>
+     <dpg d="w2105" g="w2101" t="appo" cr="appo:w2101" w="equivalent" l="~" p="N"/>
+     <dpg d="w2106" g="w2105" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2107" g="w2106" t="pcomp-n" cr="mod*of*n:w2105" w="SCID" l="~" p="N"/>
+     <dpg d="w2108" g="w2109" t="punc" cr="punc:w2109" w="," l="~" p="U"/>
+     <dpg d="w2109" g="E2" t="i" cr="" w="indicates" l="indicate" p="V"/>
+     <dpg d="E4" g="w2109" t="subj" cr="" w="" l="analysis" p="N"/>
+     <dpg d="E4" g="w2099" t="antecedent" cr="" w="" l="analysis" p="N"/>
+     <dpg d="E0" g="w2109" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2110" g="E0" t="c" cr="c:w2114" w="that" l="~" p="COMP"/>
+     <dpg d="w2111" g="w2113" t="det" cr="det:w2113" w="the" l="~" p="Det"/>
+     <dpg d="w2112" g="w2113" t="nn" cr="nn:w2113" w="protein" l="~" p="N"/>
+     <dpg d="w2113" g="w2114" t="s" cr="s+subj:w2114" w="level" l="~" p="N"/>
+     <dpg d="w2114" g="E0" t="i" cr="fc:w2109" w="increases" l="increase" p="V"/>
+     <dpg d="E5" g="w2114" t="subj" cr="" w="" l="level" p="N"/>
+     <dpg d="E5" g="w2113" t="antecedent" cr="" w="" l="level" p="N"/>
+     <dpg d="w2115" g="w2114" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2116" g="w2115" t="pcomp-n" cr="mod*of*n:w2114" w="RAD51" l="~" p="N"/>
+     <dpg d="w2117" g="E2" t="punc" cr="punc:w2109" w="and" l="~" p="U"/>
+     <dpg d="E1" g="E2" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2118" g="w2125" t="s" cr="s+subj:w2125" w="RAD52" l="~" p="N"/>
+     <dpg d="w2119" g="w2118" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w2120" g="w2119" t="pcomp-n" cr="mod*from*n:w2118" w="G0" l="~" p="N"/>
+     <dpg d="w2121" g="w2120" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w2122" g="w2121" t="pcomp-n" cr="mod*to*n:w2120" w="G1/S/G2" l="~" p="N"/>
+     <dpg d="w2123" g="w2125" t="aux" cr="aux:w2125" w="do" l="~" p="Aux"/>
+     <dpg d="w2124" g="w2123" t="neg" cr="neg:w2123" w="not" l="~" p="A"/>
+     <dpg d="w2125" g="E1" t="i" cr="conj:w2109" w="require" l="~" p="V"/>
+     <dpg d="E6" g="w2125" t="subj" cr="" w="" l="RAD52" p="N"/>
+     <dpg d="E6" g="w2118" t="antecedent" cr="" w="" l="RAD52" p="N"/>
+     <dpg d="w2126" g="w2125" t="obj" cr="obj:w2125" w="DNA-PK" l="DNA-PK" p="N"/>
+     <dpg d="w2127" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

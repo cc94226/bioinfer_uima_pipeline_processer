@@ -1,0 +1,56 @@
+<rexml>
+<doc id="714">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11032" g="E0" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w11033" g="w11032" t="pcomp-n" cr="mod*in*n:w11037" w="addition" l="~" p="N"/>
+     <dpg d="w11034" g="E0" t="punc" cr="punc:w11037" w="," l="~" p="U"/>
+     <dpg d="w11035" g="w11037" t="s" cr="s+subj:w11037" w="we" l="~" p="N"/>
+     <dpg d="w11036" g="w11037" t="have" cr="have:w11037" w="have" l="~" p="have"/>
+     <dpg d="w11037" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="demonstrated" l="demonstrate" p="V"/>
+     <dpg d="E3" g="w11037" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E3" g="w11035" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w11038" g="w11041" t="det" cr="det:w11041" w="that" l="~" p="Det"/>
+     <dpg d="w11039" g="w11041" t="mod" cr="mod:w11041" w="increased" l="~" p="A"/>
+     <dpg d="w11040" g="w11041" t="nn" cr="nn:w11041" w="gene" l="~" p="N"/>
+     <dpg d="w11041" g="w11037" t="obj" cr="obj:w11037" w="dosage" l="~" p="N"/>
+     <dpg d="w11042" g="w11041" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11043" g="w11042" t="punc" cr="punc:w11042" w="either" l="~" p="U"/>
+     <dpg d="w11044" g="w11042" t="pcomp-n" cr="mod*of*n:w11041" w="SIR1" l="~" p="N"/>
+     <dpg d="w11045" g="w11044" t="punc" cr="punc:w11044" w="or" l="~" p="U"/>
+     <dpg d="w11046" g="w11044" t="conj" cr="conj:w11044" w="SIR4" l="~" p="N"/>
+     <dpg d="w11047" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w11048" g="w11050" t="nn" cr="nn:w11050" w="two" l="~" p="N"/>
+     <dpg d="w11049" g="w11050" t="mod" cr="mod:w11050" w="other" l="~" p="A"/>
+     <dpg d="w11050" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2||obj:w11051" w="factors" l="factor" p="N"/>
+     <dpg d="w11051" g="w11050" t="vrel" cr="vrel:w11050" w="required" l="require" p="V"/>
+     <dpg d="E4" g="w11051" t="obj" cr="" w="" l="factor" p="N"/>
+     <dpg d="E4" g="w11050" t="antecedent" cr="" w="" l="factor" p="N"/>
+     <dpg d="w11052" g="E2" t="punc" cr="punc:E2" w="for" l="~" p="U"/>
+     <dpg d="w11053" g="E2" t="punc" cr="punc:E2" w="silencing" l="~" p="U"/>
+     <dpg d="w11054" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w11055" g="E2" t="punc" cr="punc:E2" w="suppresses" l="~" p="U"/>
+     <dpg d="w11056" g="w11058" t="det" cr="det:w11058" w="the" l="~" p="Det"/>
+     <dpg d="w11057" g="w11058" t="mod" cr="mod:w11058" w="silencing" l="~" p="A"/>
+     <dpg d="w11058" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="defect" l="~" p="N"/>
+     <dpg d="w11059" g="w11058" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11060" g="w11062" t="det" cr="det:w11062" w="the" l="~" p="Det"/>
+     <dpg d="w11061" g="w11062" t="nn" cr="nn:w11062" w="rap1" l="~" p="N"/>
+     <dpg d="w11062" g="w11059" t="pcomp-n" cr="mod*of*n:w11058" w="mutants" l="mutant" p="N"/>
+     <dpg d="w11063" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

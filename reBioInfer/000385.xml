@@ -1,0 +1,98 @@
+<rexml>
+<doc id="385">
+  <text>
+<p><s id="s1"><w id="w5727">Detection</w> <w id="w5728">of</w> <w id="w5729">a</w> <w id="w5730">sequence</w> <w id="w5731">involved</w> <w id="w5732">in</w> <w id="w5733">actin</w><w id="w5734">-</w><w id="w5735">binding</w> <w id="w5736">and</w> <w id="w5737">phosphoinositide-binding</w> <w id="w5738">in</w> <w id="w5739">the</w> <w id="w5740">N-terminal</w> <w id="w5741">side</w> <w id="w5742">of</w> <w id="w5743">cofilin</w> <w id="w5744">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1383" gid="g1319" t="Individual_protein" fr="w5733" to="w5733" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.385.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1384" gid="g1320" t="RELATIONSHIP_TEXTBINDING" fr="w5735" to="w5735">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.385.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1385" gid="g1321" t="Individual_protein" fr="w5743" to="w5743" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.385.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1386" gid="g1322" t="RELATIONSHIP_TEXTBINDING" fr="w5731" to="w5732">
+     <textspan type="extent">involved in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.385.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1387" gid="g1323" t="Substructure_of_protein" fr="w5741" to="w5743" nam="yes">
+     <textspan type="extent">side of cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.385.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1388" gid="g1324" t="Substructure_of_protein" fr="w5730" to="w5743" nam="yes">
+     <textspan type="extent">sequence [..] in [..] side of cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.385.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r545" t="PARTICIPATE" e1="e1388" e2="e1384" re="e1386">
+     <textspan type="extent">sequence involved in actin - binding and phosphoinositide-binding in the N-terminal side of cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.385.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r546" t="BIND" e1="e1385" e2="e1383" re="e1384">
+     <textspan type="extent">actin - binding and phosphoinositide-binding in the N-terminal side of cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.385.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

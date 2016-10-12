@@ -1,0 +1,61 @@
+<rexml>
+<doc id="813">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w12711" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="Interaction" l="~" p="N"/>
+     <dpg d="w12712" g="w12711" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w12713" g="w12714" t="lex-mod" cr="lex-mod:w12714" w="nucleocapsid" l="~" p="U"/>
+     <dpg d="w12714" g="w12712" t="pcomp-n" cr="mod*between*n:w12711" w="protein" l="nucleocapsid protein" p="N"/>
+     <dpg d="w12715" g="w12716" t="punc" cr="punc:w12716" w="(" l="~" p="U"/>
+     <dpg d="w12716" g="w12714" t="abbrev" cr="abbrev:w12714" w="NP" l="~" p="N"/>
+     <dpg d="w12717" g="w12716" t="punc" cr="punc:w12716" w=")" l="~" p="U"/>
+     <dpg d="w12718" g="w12714" t="punc" cr="punc:w12714" w="and" l="~" p="U"/>
+     <dpg d="w12719" g="w12721" t="nn" cr="nn:w12721" w="phosphoprotein" l="~" p="N"/>
+     <dpg d="w12720" g="w12721" t="punc" cr="punc:w12721" w="(" l="~" p="U"/>
+     <dpg d="w12721" g="w12714" t="conj" cr="conj:w12714" w="P" l="~" p="N"/>
+     <dpg d="w12722" g="w12721" t="punc" cr="punc:w12721" w=")" l="~" p="U"/>
+     <dpg d="w12723" g="w12721" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12724" g="w12728" t="mod" cr="mod:w12728" w="human" l="~" p="A"/>
+     <dpg d="w12725" g="w12728" t="nn" cr="nn:w12728" w="parainfluenza" l="~" p="N"/>
+     <dpg d="w12726" g="w12728" t="nn" cr="nn:w12728" w="virus" l="~" p="N"/>
+     <dpg d="w12727" g="w12728" t="lex-mod" cr="lex-mod:w12728" w="type" l="~" p="U"/>
+     <dpg d="w12728" g="w12723" t="pcomp-n" cr="mod*of*n:w12721" w="2" l="type 2" p="N"/>
+     <dpg d="w12729" g="E4" t="punc" cr="punc:E4" w=":" l="~" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12730" g="w12739" t="s" cr="s:w12739||subj:w12740" w="one" l="~" p="N"/>
+     <dpg d="w12731" g="w12730" t="comp1" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12732" g="w12734" t="det" cr="det:w12734" w="the" l="~" p="Det"/>
+     <dpg d="w12733" g="w12734" t="nn" cr="nn:w12734" w="two" l="~" p="N"/>
+     <dpg d="w12734" g="w12731" t="pcomp-n" cr="comp1*of*n:w12730||s+subj:w12735" w="NP" l="~" p="N"/>
+     <dpg d="E0" g="w12734" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w12734" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w12735" g="E0" t="i" cr="rel:w12734" w="binding" l="bind" p="V"/>
+     <dpg d="E5" g="w12735" t="subj" cr="" w="" l="Np" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="Np" p="N"/>
+     <dpg d="w12736" g="w12735" t="obj" cr="obj:w12735" w="sites" l="site" p="N"/>
+     <dpg d="w12737" g="w12736" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w12738" g="w12737" t="pcomp-n" cr="mod*on*n:w12736" w="P" l="~" p="N"/>
+     <dpg d="w12739" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="is" l="be" p="VBE"/>
+     <dpg d="w12740" g="w12739" t="pred" cr="pred:w12739" w="essential" l="~" p="N"/>
+     <dpg d="E6" g="w12740" t="subj" cr="" w="" l="one" p="N"/>
+     <dpg d="E6" g="w12730" t="antecedent" cr="" w="" l="one" p="N"/>
+     <dpg d="w12741" g="w12740" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w12742" g="w12743" t="nn" cr="nn:w12743" w="granule" l="~" p="N"/>
+     <dpg d="w12743" g="w12741" t="pcomp-n" cr="mod*for*n:w12740" w="formation" l="~" p="N"/>
+     <dpg d="w12744" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

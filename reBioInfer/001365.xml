@@ -1,0 +1,35 @@
+<rexml>
+<doc id="1365">
+  <text>
+<p><s id="s1"><w id="w21211">The</w> <w id="w21212">amino</w> <w id="w21213">acid</w> <w id="w21214">composition</w> <w id="w21215">of</w> <w id="w21216">the</w> <w id="w21217">15-kDa</w> <w id="w21218">protein</w> <w id="w21219">was</w> <w id="w21220">similar</w> <w id="w21221">to</w> <w id="w21222">that</w> <w id="w21223">of</w> <w id="w21224">mammalian</w> <w id="w21225">profilin</w> <w id="w21226">and</w> <w id="w21227">it</w> <w id="w21228">inhibited</w> <w id="w21229">the</w> <w id="w21230">salt-induced</w> <w id="w21231">polymerization</w> <w id="w21232">of</w> <w id="w21233">rabbit</w> <w id="w21234">skeletal</w> <w id="w21235">muscle</w> <w id="w21236">actin</w> <w id="w21237">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4913" gid="g4693" t="Gene/protein/RNA" fr="w21225" to="w21225" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1365.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4914" gid="g4694" t="Gene/protein/RNA" fr="w21234" to="w21236" nam="yes">
+     <textspan type="extent">skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1365.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

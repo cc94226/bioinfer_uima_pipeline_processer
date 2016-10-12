@@ -1,0 +1,190 @@
+<rexml>
+<doc id="185">
+  <text>
+<p><s id="s1"><w id="w2972">Associations</w> <w id="w2973">of</w> <w id="w2974">UBE2I</w> <w id="w2975">with</w> <w id="w2976">RAD52</w> <w id="w2977">,</w> <w id="w2978">UBL1</w> <w id="w2979">,</w> <w id="w2980">p53</w> <w id="w2981">,</w> <w id="w2982">and</w> <w id="w2983">RAD51</w> <w id="w2984">proteins</w> <w id="w2985">in</w> <w id="w2986">a</w> <w id="w2987">yeast</w> <w id="w2988">two-hybrid</w> <w id="w2989">system</w> <w id="w2990">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e717" gid="g691" t="RELATIONSHIP_TEXTBINDING" fr="w2972" to="w2975">
+     <textspan type="extent">Associations of [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.185.0"/>
+      <exattr n="nst" v="st.185.0.0"/>
+      <exattr n="nst" v="st.185.1.0"/>
+      <exattr n="nst" v="st.185.3.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e718" gid="g692" t="Individual_protein" fr="w2974" to="w2974" nam="yes">
+     <textspan type="extent">UBE2I</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.185.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e719" gid="g693" t="Individual_protein" fr="w2978" to="w2984" nam="yes">
+     <textspan type="extent">UBL1 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.185.2"/>
+      <exattr n="nst" v="st.185.6.0"/>
+      <exattr n="nst" v="st.185.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e720" gid="g694" t="Individual_protein" fr="w2976" to="w2984" nam="yes">
+     <textspan type="extent">RAD52 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.185.3"/>
+      <exattr n="nst" v="st.185.4.0"/>
+      <exattr n="nst" v="st.185.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e721" gid="g695" t="Individual_protein" fr="w2983" to="w2984" nam="yes">
+     <textspan type="extent">RAD51 proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.185.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e722" gid="g696" t="Individual_protein" fr="w2980" to="w2984" nam="yes">
+     <textspan type="extent">p53 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.185.5"/>
+      <exattr n="nst" v="st.185.8.0"/>
+      <exattr n="nst" v="st.185.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e723" gid="g697" t="Individual_protein" fr="w2976" to="w2976" nam="yes">
+     <textspan type="extent">RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.185.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e724" gid="g698" t="Individual_protein" fr="w2978" to="w2978" nam="yes">
+     <textspan type="extent">UBL1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.185.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e725" gid="g699" t="Individual_protein" fr="w2983" to="w2983" nam="yes">
+     <textspan type="extent">RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.185.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e726" gid="g700" t="Individual_protein" fr="w2980" to="w2980" nam="yes">
+     <textspan type="extent">p53</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.185.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r267" t="BIND" e1="e718" e2="e720" re="e717">
+     <textspan type="extent">Associations of UBE2I with RAD52 , UBL1 , p53 , and RAD51 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.185.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r268" t="BIND" e1="e718" e2="e719" re="e717">
+     <textspan type="extent">Associations of UBE2I with RAD52 , UBL1 , p53 , and RAD51 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.185.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r269" t="BIND" e1="e718" e2="e722" re="e717">
+     <textspan type="extent">Associations of UBE2I with RAD52 , UBL1 , p53 , and RAD51 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.185.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r270" t="BIND" e1="e718" e2="e721" re="e717">
+     <textspan type="extent">Associations of UBE2I with RAD52 , UBL1 , p53 , and RAD51 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.185.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

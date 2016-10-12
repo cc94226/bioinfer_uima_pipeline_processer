@@ -1,0 +1,109 @@
+<rexml>
+<doc id="2208">
+  
+  <markup>
+   <nes>
+    <ne id="e7737" gid="g7377" t="Gene/protein/RNA" fr="w34058" to="w34058" nam="yes" sid="s1">
+     <textspan>E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2208.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7740" gid="g7380" t="Substructure_of_protein" fr="w34062" to="w34064" nam="yes" sid="s1">
+     <textspan>region of alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.2208.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7742" gid="g7382" t="Individual_protein" fr="w34064" to="w34064" nam="yes" sid="s1">
+     <textspan>alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2208.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7741" gid="g7381" t="Protein_complex" fr="w34073" to="w34075" nam="yes" sid="s1">
+     <textspan>complexes with beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.2208.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7739" gid="g7379" t="Individual_protein" fr="w34075" to="w34075" nam="yes" sid="s1">
+     <textspan>beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2208.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2971" t="COOF-CONTAIN" e1="e7740" e2="e7739" re="e7738">
+     <textspan>formed complexes with beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2208.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2971" t="CONTAIN" e1="e7741" e2="e7740" re="e7738">
+     <textspan>region of alpha-catenin ( from residue 1 to 226 ) formed complexes with beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2208.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2972" t="CONTAIN" e1="e7741" e2="e7739" re="e7738">
+     <textspan>formed complexes with beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2208.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

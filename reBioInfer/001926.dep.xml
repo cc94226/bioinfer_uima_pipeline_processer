@@ -1,0 +1,85 @@
+<rexml>
+<doc id="1926">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w31091" g="w31092" t="nn" cr="nn:w31092" w="Transcriptional" l="~" p="N"/>
+     <dpg d="w31092" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="expression" l="~" p="N"/>
+     <dpg d="w31093" g="w31092" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31094" g="w31096" t="nn" cr="nn:w31096" w="TNFR1" l="~" p="N"/>
+     <dpg d="w31095" g="w31096" t="punc" cr="punc:w31096" w="(" l="~" p="U"/>
+     <dpg d="w31096" g="w31093" t="pcomp-n" cr="mod*of*n:w31092" w="p55" l="~" p="N"/>
+     <dpg d="w31097" g="w31096" t="punc" cr="punc:w31096" w=")" l="~" p="U"/>
+     <dpg d="w31098" g="w31096" t="punc" cr="punc:w31096" w="," l="~" p="U"/>
+     <dpg d="w31099" g="w31096" t="punc" cr="punc:w31096" w="as" l="~" p="U"/>
+     <dpg d="w31100" g="w31096" t="punc" cr="punc:w31096" w="well" l="~" p="U"/>
+     <dpg d="w31101" g="w31096" t="punc" cr="punc:w31096" w="as" l="~" p="U"/>
+     <dpg d="w31102" g="w31096" t="conj" cr="conj:w31096" w="that" l="~" p="N"/>
+     <dpg d="w31103" g="w31096" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31104" g="w31103" t="pcomp-n" cr="mod*of*n:w31096" w="FLICE" l="~" p="N"/>
+     <dpg d="w31105" g="w31104" t="punc" cr="punc:w31104" w="," l="~" p="U"/>
+     <dpg d="w31106" g="w31104" t="appo" cr="appo:w31104" w="Fas" l="fa" p="N"/>
+     <dpg d="w31107" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31108" g="w31118" t="s" cr="s:w31118||subj:w31119||s+subj:w31125" w="FADD" l="~" p="N"/>
+     <dpg d="w31109" g="w31108" t="punc" cr="punc:w31108" w="," l="~" p="U"/>
+     <dpg d="w31110" g="w31108" t="conj" cr="conj:w31108" w="DR3" l="~" p="N"/>
+     <dpg d="w31111" g="w31110" t="punc" cr="punc:w31110" w="," l="~" p="U"/>
+     <dpg d="w31112" g="w31110" t="conj" cr="conj:w31110" w="FAF" l="~" p="N"/>
+     <dpg d="w31113" g="w31112" t="punc" cr="punc:w31112" w="," l="~" p="U"/>
+     <dpg d="w31114" g="w31112" t="conj" cr="conj:w31112" w="TRADD" l="~" p="N"/>
+     <dpg d="w31115" g="w31114" t="punc" cr="punc:w31114" w="," l="~" p="U"/>
+     <dpg d="w31116" g="w31114" t="punc" cr="punc:w31114" w="and" l="~" p="U"/>
+     <dpg d="w31117" g="w31114" t="conj" cr="conj:w31114" w="RIP" l="~" p="N"/>
+     <dpg d="w31118" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="was" l="be" p="VBE"/>
+     <dpg d="w31119" g="w31118" t="pred" cr="pred:w31118" w="similar" l="~" p="A"/>
+     <dpg d="E6" g="w31119" t="subj" cr="" w="" l="FADD" p="N"/>
+     <dpg d="E6" g="w31108" t="antecedent" cr="" w="" l="FADD" p="N"/>
+     <dpg d="w31120" g="w31119" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w31121" g="w31123" t="det" cr="det:w31123" w="these" l="~" p="Det"/>
+     <dpg d="w31122" g="w31123" t="nn" cr="nn:w31123" w="cell" l="~" p="N"/>
+     <dpg d="w31123" g="w31120" t="pcomp-n" cr="mod*in*n:w31119" w="lines" l="line" p="N"/>
+     <dpg d="w31124" g="w31118" t="punc" cr="punc:w31118" w="," l="~" p="U"/>
+     <dpg d="E1" g="w31118" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w31108" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31125" g="E1" t="i" cr="mod:w31118" w="indicating" l="indicate" p="V"/>
+     <dpg d="E7" g="w31125" t="subj" cr="" w="" l="FADD" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="FADD" p="N"/>
+     <dpg d="E0" g="w31125" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31126" g="E0" t="c" cr="c:w31136" w="that" l="~" p="COMP"/>
+     <dpg d="w31127" g="w31128" t="det" cr="det:w31128" w="the" l="~" p="Det"/>
+     <dpg d="w31128" g="w31136" t="s" cr="s+obj:w31136" w="susceptibility" l="~" p="N"/>
+     <dpg d="w31129" g="w31128" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w31130" g="w31131" t="lex-mod" cr="lex-mod:w31131" w="TNFalpha" l="~" p="U"/>
+     <dpg d="w31131" g="w31132" t="mod" cr="mod:w31132" w="-induced" l="TNFalpha -induced" p="A"/>
+     <dpg d="w31132" g="w31129" t="pcomp-n" cr="mod*to*n:w31128" w="apoptosis" l="~" p="N"/>
+     <dpg d="w31133" g="w31136" t="aux" cr="aux:w31136" w="may" l="~" p="Aux"/>
+     <dpg d="w31134" g="w31133" t="neg" cr="neg:w31133" w="not" l="~" p="A"/>
+     <dpg d="w31135" g="w31136" t="be" cr="be:w31136" w="be" l="~" p="be"/>
+     <dpg d="w31136" g="E0" t="i" cr="fc:w31125" w="determined" l="determine" p="V"/>
+     <dpg d="E8" g="w31136" t="obj" cr="" w="" l="susceptibility" p="N"/>
+     <dpg d="E8" g="w31128" t="antecedent" cr="" w="" l="susceptibility" p="N"/>
+     <dpg d="w31137" g="w31136" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w31138" g="w31141" t="det" cr="det:w31141" w="the" l="~" p="Det"/>
+     <dpg d="w31139" g="w31141" t="mod" cr="mod:w31141" w="constitutive" l="~" p="A"/>
+     <dpg d="w31140" g="w31141" t="nn" cr="nn:w31141" w="expression" l="~" p="N"/>
+     <dpg d="w31141" g="w31137" t="pcomp-n" cr="by-subj*by*n:w31136" w="level" l="~" p="N"/>
+     <dpg d="w31142" g="w31141" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31143" g="w31144" t="det" cr="det:w31144" w="these" l="~" p="Det"/>
+     <dpg d="w31144" g="w31142" t="pcomp-n" cr="mod*of*n:w31141" w="factors" l="factor" p="N"/>
+     <dpg d="w31145" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

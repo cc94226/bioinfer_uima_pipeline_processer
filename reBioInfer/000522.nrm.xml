@@ -1,0 +1,112 @@
+<rexml>
+<doc id="522">
+  
+  <markup>
+   <nes>
+    <ne id="e1736" gid="g1664" t="Individual_protein" fr="w7276" to="w7276" nam="yes" sid="s1">
+     <textspan>beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.522.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1741" gid="g1669" t="Gene/protein/RNA" fr="w7278" to="w7293" nam="yes" sid="s1">
+     <textspan>beta-catenin [..] deltaN151</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.522.5"/>
+      <exattr n="nst" v="st.522.3.0"/>
+      <exattr n="nst" v="st.522.18.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1742" gid="g1670" t="Gene/protein/RNA" fr="w7278" to="w7291" nam="yes" sid="s1">
+     <textspan>beta-catenin [..] deltaN131</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.522.6"/>
+      <exattr n="nst" v="st.522.3.0"/>
+      <exattr n="nst" v="st.522.16.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1739" gid="g1667" t="Gene/protein/RNA" fr="w7278" to="w7286" nam="yes" sid="s1">
+     <textspan>beta-catenin [..] deltaN90</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.522.3"/>
+      <exattr n="nst" v="st.522.3.0"/>
+      <exattr n="nst" v="st.522.11.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1738" gid="g1666" t="Individual_protein" fr="w7296" to="w7296" nam="yes" sid="s1">
+     <textspan>alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.522.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1743" gid="g1671" t="Substructure_of_protein" fr="w7298" to="w7298" nam="yes" sid="s1">
+     <textspan>site</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.522.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1740" gid="g1668" t="Gene/protein/RNA" fr="w7303" to="w7310" nam="yes" sid="s1">
+     <textspan>beta-catenin [..] delta C</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.522.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r686" t="BIND" e1="e1743" e2="e1738" re="e1737">
+     <textspan>alpha-catenin binding site</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.522.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

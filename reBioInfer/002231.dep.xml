@@ -1,0 +1,66 @@
+<rexml>
+<doc id="2231">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w34374" g="w34386" t="s" cr="s+subj:w34375||s+subj:w34386" w="YACs" l="~" p="N"/>
+     <dpg d="E2" g="w34374" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w34374" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w34375" g="E2" t="i" cr="rel:w34374" w="containing" l="contain" p="V"/>
+     <dpg d="E7" g="w34375" t="subj" cr="" w="" l="YACs" p="N"/>
+     <dpg d="E7" g="E5" t="antecedent" cr="" w="" l="YACs" p="N"/>
+     <dpg d="w34376" g="w34381" t="mod" cr="mod:w34381" w="color" l="~" p="A"/>
+     <dpg d="w34377" g="w34381" t="nn" cr="nn:w34381" w="vision" l="~" p="N"/>
+     <dpg d="w34378" g="w34381" t="mod" cr="mod:w34381" w="red" l="~" p="A"/>
+     <dpg d="w34379" g="w34381" t="nn" cr="nn:w34381" w="pigment" l="~" p="N"/>
+     <dpg d="w34380" g="w34381" t="nn" cr="nn:w34381" w="gene" l="~" p="N"/>
+     <dpg d="w34381" g="w34375" t="obj" cr="obj:w34375" w="DNA" l="~" p="N"/>
+     <dpg d="w34382" g="w34381" t="punc" cr="punc:w34381" w="or" l="~" p="U"/>
+     <dpg d="w34383" g="w34385" t="num" cr="num:w34385" w="1.5" l="~" p="N"/>
+     <dpg d="w34384" g="w34385" t="nn" cr="nn:w34385" w="rDNA" l="~" p="N"/>
+     <dpg d="w34385" g="w34381" t="conj" cr="conj:w34381" w="tandem" l="~" p="N"/>
+     <dpg d="w34386" g="E3" t="i" cr="" w="repeat" l="~" p="V"/>
+     <dpg d="E8" g="w34386" t="subj" cr="" w="" l="YACs" p="N"/>
+     <dpg d="E8" g="w34374" t="antecedent" cr="" w="" l="YACs" p="N"/>
+     <dpg d="E1" g="w34386" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w34387" g="w34389" t="s" cr="s+obj:w34389" w="units" l="unit" p="N"/>
+     <dpg d="w34388" g="w34389" t="be" cr="be:w34389" w="were" l="be" p="be"/>
+     <dpg d="w34389" g="E1" t="i" cr="fc:w34386" w="transformed" l="transform" p="V"/>
+     <dpg d="E9" g="w34389" t="obj" cr="" w="" l="unit" p="N"/>
+     <dpg d="E9" g="w34387" t="antecedent" cr="" w="" l="unit" p="N"/>
+     <dpg d="w34390" g="w34389" t="mod" cr="" w="into" l="~" p="Prep"/>
+     <dpg d="w34391" g="w34390" t="pcomp-n" cr="mod*into*n:w34389||s+subj:w34392" w="hosts" l="host" p="N"/>
+     <dpg d="E0" g="w34391" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w34391" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w34392" g="E0" t="i" cr="rel:w34391" w="bearing" l="bear" p="V"/>
+     <dpg d="E10" g="w34392" t="subj" cr="" w="" l="host" p="N"/>
+     <dpg d="E10" g="E4" t="antecedent" cr="" w="" l="host" p="N"/>
+     <dpg d="w34393" g="w34392" t="obj" cr="obj:w34392" w="lesions" l="lesion" p="N"/>
+     <dpg d="w34394" g="w34393" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w34395" g="w34396" t="det" cr="det:w34396" w="the" l="~" p="Det"/>
+     <dpg d="w34396" g="w34394" t="pcomp-n" cr="mod*at*n:w34393" w="RAD1" l="~" p="N"/>
+     <dpg d="w34397" g="w34396" t="punc" cr="punc:w34396" w="," l="~" p="U"/>
+     <dpg d="w34398" g="w34396" t="conj" cr="conj:w34396" w="RAD6" l="~" p="N"/>
+     <dpg d="w34399" g="w34398" t="punc" cr="punc:w34398" w="," l="~" p="U"/>
+     <dpg d="w34400" g="w34398" t="conj" cr="conj:w34398" w="RAD51" l="~" p="N"/>
+     <dpg d="w34401" g="w34400" t="punc" cr="punc:w34400" w="," l="~" p="U"/>
+     <dpg d="w34402" g="w34400" t="punc" cr="punc:w34400" w="or" l="~" p="U"/>
+     <dpg d="w34403" g="w34404" t="nn" cr="nn:w34404" w="RAD52" l="~" p="N"/>
+     <dpg d="w34404" g="w34400" t="conj" cr="conj:w34400" w="loci" l="~" p="N"/>
+     <dpg d="w34405" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

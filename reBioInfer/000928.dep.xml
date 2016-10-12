@@ -1,0 +1,86 @@
+<rexml>
+<doc id="928">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14464" g="w14477" t="s" cr="s+obj:w14477||s+subj:w14495" w="Lethality" l="~" p="N"/>
+     <dpg d="w14465" g="w14464" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w14466" g="w14468" t="det" cr="det:w14468" w="the" l="~" p="Det"/>
+     <dpg d="w14467" g="w14468" t="nn" cr="nn:w14468" w="srs2Delta" l="~" p="N"/>
+     <dpg d="w14468" g="w14465" t="pcomp-n" cr="mod*of*n:w14464" w="rad54Delta" l="~" p="N"/>
+     <dpg d="w14469" g="w14468" t="punc" cr="punc:w14468" w="and" l="~" p="U"/>
+     <dpg d="w14470" g="w14473" t="nn" cr="nn:w14473" w="srs2Delta" l="~" p="N"/>
+     <dpg d="w14471" g="w14473" t="nn" cr="nn:w14473" w="rdh54Delta" l="~" p="N"/>
+     <dpg d="w14472" g="w14473" t="mod" cr="mod:w14473" w="double" l="~" p="A"/>
+     <dpg d="w14473" g="w14468" t="conj" cr="conj:w14468" w="mutants" l="mutant" p="N"/>
+     <dpg d="w14474" g="w14477" t="aux" cr="aux:w14477" w="can" l="~" p="Aux"/>
+     <dpg d="w14475" g="w14477" t="guest" cr="guest:w14477" w="also" l="~" p="A"/>
+     <dpg d="w14476" g="w14477" t="be" cr="be:w14477" w="be" l="~" p="Be"/>
+     <dpg d="w14477" g="E3" t="i" cr="" w="rescued" l="rescue" p="V"/>
+     <dpg d="E6" g="w14477" t="obj" cr="" w="" l="lethality" p="N"/>
+     <dpg d="E6" g="w14464" t="antecedent" cr="" w="" l="lethality" p="N"/>
+     <dpg d="w14478" g="w14477" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w14479" g="w14478" t="pcomp-n" cr="by-subj*by*n:w14477" w="mutations" l="mutation" p="N"/>
+     <dpg d="w14480" g="w14479" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w14481" g="w14486" t="det" cr="det:w14486" w="the" l="~" p="Det"/>
+     <dpg d="w14482" g="w14486" t="nn" cr="nn:w14486" w="DNA" l="~" p="N"/>
+     <dpg d="w14483" g="w14486" t="nn" cr="nn:w14486" w="damage" l="~" p="N"/>
+     <dpg d="w14484" g="w14486" t="nn" cr="nn:w14486" w="checkpoint" l="~" p="N"/>
+     <dpg d="w14485" g="w14486" t="nn" cr="nn:w14486" w="functions" l="function" p="N"/>
+     <dpg d="w14486" g="w14480" t="pcomp-n" cr="mod*in*n:w14479" w="RAD9" l="~" p="N"/>
+     <dpg d="w14487" g="w14486" t="punc" cr="punc:w14486" w="," l="~" p="U"/>
+     <dpg d="w14488" g="w14486" t="conj" cr="conj:w14486" w="RAD17" l="~" p="N"/>
+     <dpg d="w14489" g="w14488" t="punc" cr="punc:w14488" w="," l="~" p="U"/>
+     <dpg d="w14490" g="w14488" t="conj" cr="conj:w14488" w="RAD24" l="~" p="N"/>
+     <dpg d="w14491" g="w14490" t="punc" cr="punc:w14490" w="," l="~" p="U"/>
+     <dpg d="w14492" g="w14490" t="punc" cr="punc:w14490" w="and" l="~" p="U"/>
+     <dpg d="w14493" g="w14490" t="conj" cr="conj:w14490" w="MEC3" l="~" p="N"/>
+     <dpg d="w14494" g="w14477" t="punc" cr="punc:w14477" w="," l="~" p="U"/>
+     <dpg d="E2" g="w14477" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w14464" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w14495" g="E2" t="i" cr="mod:w14477" w="indicating" l="indicate" p="V"/>
+     <dpg d="E7" g="w14495" t="subj" cr="" w="" l="lethality" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="lethality" p="N"/>
+     <dpg d="E1" g="w14495" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14496" g="E1" t="c" cr="c:w14505" w="that" l="~" p="COMP"/>
+     <dpg d="w14497" g="w14499" t="det" cr="det:w14499" w="the" l="~" p="Det"/>
+     <dpg d="w14498" g="w14499" t="nn" cr="nn:w14499" w="srs2" l="~" p="N"/>
+     <dpg d="w14499" g="w14505" t="s" cr="s+subj:w14505" w="rad54" l="~" p="N"/>
+     <dpg d="w14500" g="w14499" t="punc" cr="punc:w14499" w="and" l="~" p="U"/>
+     <dpg d="w14501" g="w14504" t="nn" cr="nn:w14504" w="srs2" l="~" p="N"/>
+     <dpg d="w14502" g="w14504" t="nn" cr="nn:w14504" w="rdh54" l="~" p="N"/>
+     <dpg d="w14503" g="w14504" t="mod" cr="mod:w14504" w="mutant" l="~" p="A"/>
+     <dpg d="w14504" g="w14499" t="conj" cr="conj:w14499" w="combinations" l="combination" p="N"/>
+     <dpg d="w14505" g="E1" t="i" cr="fc:w14495" w="lead" l="lead to" p="V"/>
+     <dpg d="w14506" g="w14505" t="lex-mod" cr="lex-mod:w14505" w="to" l="~" p="U"/>
+     <dpg d="E8" g="w14505" t="subj" cr="" w="" l="rad54" p="N"/>
+     <dpg d="E8" g="w14499" t="antecedent" cr="" w="" l="rad54" p="N"/>
+     <dpg d="w14507" g="w14508" t="det" cr="det:w14508" w="an" l="~" p="Det"/>
+     <dpg d="w14508" g="w14505" t="obj" cr="obj:w14505||obj:w14511" w="intermediate" l="~" p="N"/>
+     <dpg d="E0" g="w14508" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14509" g="E0" t="whn" cr="whn:w14511" w="that" l="~" p="THAT"/>
+     <dpg d="w14509" g="w14508" t="antecedent" cr="antecedent:w14508" w="that" l="~" p="THAT"/>
+     <dpg d="w14510" g="w14511" t="be" cr="be:w14511" w="is" l="be" p="Be"/>
+     <dpg d="w14511" g="E0" t="i" cr="rel:w14508" w="sensed" l="sense" p="V"/>
+     <dpg d="E9" g="w14511" t="obj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E9" g="w14508" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w14512" g="w14511" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w14513" g="w14515" t="det" cr="det:w14515" w="these" l="~" p="Det"/>
+     <dpg d="w14514" g="w14515" t="nn" cr="nn:w14515" w="checkpoint" l="~" p="N"/>
+     <dpg d="w14515" g="w14512" t="pcomp-n" cr="by-subj*by*n:w14511" w="functions" l="function" p="N"/>
+     <dpg d="w14516" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,60 @@
+<rexml>
+<doc id="1959">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31480" g="E0" t="mod" cr="" w="Under" l="~" p="Prep"/>
+     <dpg d="w31481" g="w31482" t="pre" cr="pre:w31482" w="all" l="~" p="PreDet"/>
+     <dpg d="w31482" g="w31480" t="pcomp-n" cr="mod*under*n:w31485" w="conditions" l="condition" p="N"/>
+     <dpg d="w31483" g="E0" t="punc" cr="punc:w31485" w="," l="~" p="U"/>
+     <dpg d="w31484" g="w31485" t="s" cr="s+subj:w31485" w="platelets" l="platelet" p="N"/>
+     <dpg d="w31485" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="retained" l="retain" p="V"/>
+     <dpg d="E3" g="w31485" t="subj" cr="" w="" l="platelet" p="N"/>
+     <dpg d="E3" g="w31484" t="antecedent" cr="" w="" l="platelet" p="N"/>
+     <dpg d="w31486" g="w31485" t="obj" cr="obj:w31485" w="40-50" l="40-50" p="N"/>
+     <dpg d="w31487" g="E2" t="punc" cr="punc:E2" w="%" l="~" p="U"/>
+     <dpg d="w31488" g="E2" t="p" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31489" g="w31491" t="gen" cr="gen:w31491" w="their" l="~" p="N"/>
+     <dpg d="w31490" g="w31491" t="mod" cr="mod:w31491" w="total" l="~" p="A"/>
+     <dpg d="w31491" g="w31488" t="pcomp-n" cr="p*of*n:E2" w="actin" l="~" p="N"/>
+     <dpg d="w31492" g="E2" t="punc" cr="punc:E2" w="and" l="~" p="U"/>
+     <dpg d="w31493" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="greater" l="great" p="A"/>
+     <dpg d="w31494" g="w31493" t="mod" cr="" w="than" l="~" p="Prep"/>
+     <dpg d="w31495" g="w31496" t="lex-mod" cr="lex-mod:w31496" w="70" l="~" p="U"/>
+     <dpg d="w31496" g="w31494" t="pcomp-n" cr="mod*than*n:w31493" w="%" l="70 %" p="N"/>
+     <dpg d="w31497" g="w31496" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31498" g="w31500" t="gen" cr="gen:w31500" w="their" l="~" p="N"/>
+     <dpg d="w31499" g="w31500" t="lex-mod" cr="lex-mod:w31500" w="actin-binding" l="~" p="U"/>
+     <dpg d="w31500" g="w31497" t="pcomp-n" cr="mod*of*n:w31496" w="protein" l="actin-binding protein" p="N"/>
+     <dpg d="w31501" g="w31502" t="punc" cr="punc:w31502" w="(" l="~" p="U"/>
+     <dpg d="w31502" g="w31500" t="abbrev" cr="abbrev:w31500" w="ABP" l="~" p="N"/>
+     <dpg d="w31503" g="w31502" t="punc" cr="punc:w31502" w=")" l="~" p="U"/>
+     <dpg d="w31504" g="w31493" t="punc" cr="punc:w31493" w="but" l="~" p="U"/>
+     <dpg d="w31505" g="w31493" t="conj" cr="conj:w31493" w="lost" l="~" p="A"/>
+     <dpg d="w31506" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="greater" l="great" p="A"/>
+     <dpg d="w31507" g="w31506" t="mod" cr="" w="than" l="~" p="Prep"/>
+     <dpg d="w31508" g="w31509" t="lex-mod" cr="lex-mod:w31509" w="80" l="~" p="U"/>
+     <dpg d="w31509" g="w31507" t="pcomp-n" cr="mod*than*n:w31506" w="%" l="80 %" p="N"/>
+     <dpg d="w31510" g="w31509" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31511" g="w31510" t="pcomp-n" cr="mod*of*n:w31509" w="talin" l="~" p="N"/>
+     <dpg d="w31512" g="w31511" t="punc" cr="punc:w31511" w="and" l="~" p="U"/>
+     <dpg d="w31513" g="w31511" t="conj" cr="conj:w31511" w="myosin" l="~" p="N"/>
+     <dpg d="w31514" g="w31513" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w31515" g="w31516" t="det" cr="det:w31516" w="the" l="~" p="Det"/>
+     <dpg d="w31516" g="w31514" t="pcomp-n" cr="mod*to*n:w31513" w="supernatant" l="~" p="N"/>
+     <dpg d="w31517" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

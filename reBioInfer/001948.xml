@@ -1,0 +1,112 @@
+<rexml>
+<doc id="1948">
+  <text>
+<p><s id="s1"><w id="w31386">Two-hybrid</w> <w id="w31387">analysis</w> <w id="w31388">of</w> <w id="w31389">the</w> <w id="w31390">interaction</w> <w id="w31391">between</w> <w id="w31392">the</w> <w id="w31393">UL52</w> <w id="w31394">and</w> <w id="w31395">UL8</w> <w id="w31396">subunits</w> <w id="w31397">of</w> <w id="w31398">the</w> <w id="w31399">herpes</w> <w id="w31400">simplex</w> <w id="w31401">virus</w> <w id="w31402">type</w> <w id="w31403">1</w> <w id="w31404">helicase-primase</w> <w id="w31405">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7188" gid="g6860" t="RELATIONSHIP_TEXTBINDING" fr="w31390" to="w31391">
+     <textspan type="extent">interaction between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1948.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7189" gid="g6861" t="Individual_protein" fr="w31393" to="w31396" nam="yes">
+     <textspan type="extent">UL52 [..] subunits</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1948.1"/>
+      <exattr n="nst" v="st.1948.7.0"/>
+      <exattr n="nst" v="st.1948.10.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7190" gid="g6862" t="Protein_complex" fr="w31399" to="w31404" nam="yes">
+     <textspan type="extent">herpes simplex virus type 1 helicase-primase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1948.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7191" gid="g6863" t="RELATIONSHIP_TEXTBINDING" fr="w31396" to="w31397">
+     <textspan type="extent">subunits of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1948.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7192" gid="g6864" t="Individual_protein" fr="w31395" to="w31396" nam="yes">
+     <textspan type="extent">UL8 subunits</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1948.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7193" gid="g6865" t="Protein_complex" fr="w31404" to="w31404" nam="yes">
+     <textspan type="extent">helicase-primase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1948.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2749" t="BIND" e1="e7189" e2="e7192" re="e7188">
+     <textspan type="extent">interaction between the UL52 and UL8 subunits</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1948.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2750" t="CONTAIN" e1="e7190" e2="e7189" re="e7191">
+     <textspan type="extent">UL52 and UL8 subunits of the herpes simplex virus type 1 helicase-primase</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1948.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2751" t="CONTAIN" e1="e7190" e2="e7192" re="e7191">
+     <textspan type="extent">UL8 subunits of the herpes simplex virus type 1 helicase-primase</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1948.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

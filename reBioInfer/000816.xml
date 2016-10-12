@@ -1,0 +1,102 @@
+<rexml>
+<doc id="816">
+  <text>
+<p><s id="s1"><w id="w12745">Interaction</w> <w id="w12746">of</w> <w id="w12747">Munc-18-2</w> <w id="w12748">with</w> <w id="w12749">syntaxin</w> <w id="w12750">3</w> <w id="w12751">controls</w> <w id="w12752">the</w> <w id="w12753">association</w> <w id="w12754">of</w> <w id="w12755">apical</w> <w id="w12756">SNAREs</w> <w id="w12757">in</w> <w id="w12758">epithelial</w> <w id="w12759">cells</w> <w id="w12760">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2944" gid="g2823" t="RELATIONSHIP_TEXTBINDING" fr="w12745" to="w12748">
+     <textspan type="extent">Interaction of [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.816.0"/>
+      <exattr n="nst" v="st.816.0.0"/>
+      <exattr n="nst" v="st.816.1.0"/>
+      <exattr n="nst" v="st.816.3.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2945" gid="g2824" t="Individual_protein" fr="w12747" to="w12747" nam="yes">
+     <textspan type="extent">Munc-18-2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.816.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2946" gid="g2825" t="BINDING" fr="w12753" to="w12756">
+     <textspan type="extent">association of [..] SNAREs</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="BINDING"/>
+      <exattr n="bd" v="e.816.2"/>
+      <exattr n="nst" v="st.816.8.0"/>
+      <exattr n="nst" v="st.816.9.0"/>
+      <exattr n="nst" v="st.816.11.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2947" gid="g2826" t="RELATIONSHIP_TEXTBINDING" fr="w12751" to="w12751">
+     <textspan type="extent">controls</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.816.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2948" gid="g2827" t="Individual_protein" fr="w12749" to="w12750" nam="yes">
+     <textspan type="extent">syntaxin 3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.816.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2949" gid="g2828" t="Protein_family_or_group" fr="w12756" to="w12756" nam="yes">
+     <textspan type="extent">SNAREs</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.816.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1141" t="CONTROL" e1="e2944" e2="e2946" re="e2947">
+     <textspan type="extent">Interaction of Munc-18-2 with syntaxin 3 controls the association of apical SNAREs</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.816.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r1142" t="INTERACT" e1="e2945" e2="e2948" re="e2944">
+     <textspan type="extent">Interaction of Munc-18-2 with syntaxin 3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.816.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,180 @@
+<rexml>
+<doc id="1676">
+  <text>
+<p><s id="s1"><w id="w26676">The</w> <w id="w26677">Schizosaccharomyces</w> <w id="w26678">pombe</w> <w id="w26679">rhp51+</w> <w id="w26680">,</w> <w id="w26681">rad22+</w> <w id="w26682">and</w> <w id="w26683">rhp54+</w> <w id="w26684">genes</w> <w id="w26685">are</w> <w id="w26686">homologous</w> <w id="w26687">to</w> <w id="w26688">RAD51</w> <w id="w26689">,</w> <w id="w26690">RAD52</w> <w id="w26691">and</w> <w id="w26692">RAD54</w> <w id="w26693">respectively</w> <w id="w26694">,</w> <w id="w26695">which</w> <w id="w26696">are</w> <w id="w26697">indispensable</w> <w id="w26698">in</w> <w id="w26699">the</w> <w id="w26700">recombinational</w> <w id="w26701">repair</w> <w id="w26702">of</w> <w id="w26703">double-strand</w> <w id="w26704">breaks</w> <w id="w26705">(</w> <w id="w26706">DSBs</w> <w id="w26707">)</w> <w id="w26708">in</w> <w id="w26709">Saccharomyces</w> <w id="w26710">cerevisiae</w> <w id="w26711">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6147" gid="g5865" t="Gene" fr="w26677" to="w26684" nam="yes">
+     <textspan type="extent">Schizosaccharomyces pombe rhp51+ [..] genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1676.0"/>
+      <exattr n="nst" v="st.1676.1.0"/>
+      <exattr n="nst" v="st.1676.2.0"/>
+      <exattr n="nst" v="st.1676.3.0"/>
+      <exattr n="nst" v="st.1676.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6148" gid="g5866" t="RELATIONSHIP_TEXTBINDING" fr="w26686" to="w26687">
+     <textspan type="extent">homologous to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1676.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6149" gid="g5867" t="Gene" fr="w26677" to="w26684" nam="yes">
+     <textspan type="extent">Schizosaccharomyces pombe [..] rhp54+ genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1676.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6150" gid="g5868" t="Gene" fr="w26677" to="w26684" nam="yes">
+     <textspan type="extent">Schizosaccharomyces pombe [..] rad22+ [..] genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1676.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6151" gid="g5869" t="Gene" fr="w26690" to="w26690" nam="yes">
+     <textspan type="extent">RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1676.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6152" gid="g5870" t="Gene" fr="w26688" to="w26688" nam="yes">
+     <textspan type="extent">RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1676.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6153" gid="g5871" t="Gene" fr="w26692" to="w26692" nam="yes">
+     <textspan type="extent">RAD54</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1676.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6154" gid="g5872" t="Gene" fr="w26679" to="w26679" nam="yes">
+     <textspan type="extent">rhp51+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1676.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6155" gid="g5873" t="Gene" fr="w26681" to="w26681" nam="yes">
+     <textspan type="extent">rad22+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1676.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6156" gid="g5874" t="Gene" fr="w26683" to="w26683" nam="yes">
+     <textspan type="extent">rhp54+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1676.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2360" t="SQSIMILAR" e1="e6147" e2="e6152" re="e6148">
+     <textspan type="extent">Schizosaccharomyces pombe rhp51+ , rad22+ and rhp54+ genes are homologous to RAD51</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1676.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Physical-Similarity"/>
+      <exattr n="t4" v="SQSIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r2361" t="SQSIMILAR" e1="e6150" e2="e6151" re="e6148">
+     <textspan type="extent">Schizosaccharomyces pombe rhp51+ , rad22+ and rhp54+ genes are homologous to RAD51 , RAD52</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1676.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Physical-Similarity"/>
+      <exattr n="t4" v="SQSIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r2362" t="SQSIMILAR" e1="e6149" e2="e6153" re="e6148">
+     <textspan type="extent">Schizosaccharomyces pombe rhp51+ , rad22+ and rhp54+ genes are homologous to RAD51 , RAD52 and RAD54</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1676.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Physical-Similarity"/>
+      <exattr n="t4" v="SQSIMILAR"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

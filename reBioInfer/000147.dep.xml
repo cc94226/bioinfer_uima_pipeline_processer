@@ -1,0 +1,52 @@
+<rexml>
+<doc id="147">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2353" g="w2354" t="det" cr="det:w2354" w="A" l="~" p="Det"/>
+     <dpg d="w2354" g="w2357" t="s" cr="s+subj:w2357||s:w2359||subj:w2360" w="portion" l="~" p="N"/>
+     <dpg d="w2355" g="w2354" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2356" g="w2355" t="pcomp-n" cr="mod*of*n:w2354" w="glucokinase" l="~" p="N"/>
+     <dpg d="w2357" g="E1" t="i" cr="" w="appeared" l="appear" p="V"/>
+     <dpg d="E4" g="w2357" t="subj" cr="" w="" l="portion" p="N"/>
+     <dpg d="E4" g="w2354" t="antecedent" cr="" w="" l="portion" p="N"/>
+     <dpg d="E0" g="w2357" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w2354" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w2358" g="w2359" t="aux" cr="aux:w2359" w="to" l="~" p="Aux"/>
+     <dpg d="w2359" g="E0" t="i" cr="mod:w2357" w="be" l="~" p="VBE"/>
+     <dpg d="E5" g="w2360" t="subj" cr="" w="" l="portion" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="portion" p="N"/>
+     <dpg d="w2360" g="w2359" t="pred" cr="pred:w2359" w="co-localized" l="co-localized" p="N"/>
+     <dpg d="w2361" g="w2360" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w2362" g="w2363" t="nn" cr="nn:w2363" w="actin" l="~" p="N"/>
+     <dpg d="w2363" g="w2361" t="pcomp-n" cr="mod*with*n:w2360" w="filaments" l="filament" p="N"/>
+     <dpg d="w2364" g="w2363" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w2365" g="w2366" t="det" cr="det:w2366" w="the" l="~" p="Det"/>
+     <dpg d="w2366" g="w2364" t="pcomp-n" cr="mod*in*n:w2363" w="cytoplasm" l="~" p="N"/>
+     <dpg d="w2367" g="w2366" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2368" g="w2370" t="mod" cr="mod:w2370" w="cultured" l="~" p="A"/>
+     <dpg d="w2369" g="w2370" t="nn" cr="nn:w2370" w="rat" l="~" p="N"/>
+     <dpg d="w2370" g="w2367" t="pcomp-n" cr="mod*of*n:w2366||obj:w2371" w="hepatocytes" l="~" p="N"/>
+     <dpg d="w2371" g="w2370" t="vrel" cr="vrel:w2370" w="incubated" l="incubate" p="V"/>
+     <dpg d="E6" g="w2371" t="obj" cr="" w="" l="hepatocytes" p="N"/>
+     <dpg d="E6" g="w2370" t="antecedent" cr="" w="" l="hepatocytes" p="N"/>
+     <dpg d="w2372" g="w2371" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w2373" g="w2374" t="amount-value" cr="amount-value:w2374" w="25" l="~" p="N"/>
+     <dpg d="w2374" g="w2375" t="nn" cr="nn:w2375" w="mM" l="~" p="N"/>
+     <dpg d="w2375" g="w2372" t="pcomp-n" cr="mod*with*n:w2371" w="glucose" l="~" p="N"/>
+     <dpg d="w2376" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

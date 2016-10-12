@@ -1,0 +1,57 @@
+<rexml>
+<doc id="983">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w15462" g="w15463" t="nn" cr="nn:w15463" w="Mitochondrial" l="~" p="N"/>
+     <dpg d="w15463" g="E3" t="subclass" cr="subclass:E3" w="genes" l="gene" p="N"/>
+     <dpg d="w15464" g="w15463" t="punc" cr="punc:w15463" w="(" l="~" p="U"/>
+     <dpg d="w15465" g="w15466" t="lex-mod" cr="lex-mod:w15466" w="16.2" l="~" p="U"/>
+     <dpg d="w15466" g="w15463" t="appo" cr="appo:w15463" w="%" l="16.2 %" p="N"/>
+     <dpg d="w15467" g="E3" t="punc" cr="punc:E3" w=")" l="~" p="U"/>
+     <dpg d="w15468" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w15469" g="w15470" t="nn" cr="nn:w15470" w="myosin" l="~" p="N"/>
+     <dpg d="w15470" g="w15471" t="s" cr="s+subj:w15471" w="heavy" l="~" p="N"/>
+     <dpg d="w15471" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="chain" l="~" p="V"/>
+     <dpg d="E4" g="w15471" t="subj" cr="" w="" l="heavy" p="N"/>
+     <dpg d="E4" g="w15470" t="antecedent" cr="" w="" l="heavy" p="N"/>
+     <dpg d="w15472" g="w15475" t="nn" cr="nn:w15475" w="genes" l="gene" p="N"/>
+     <dpg d="w15473" g="w15475" t="punc" cr="punc:w15475" w="(" l="~" p="U"/>
+     <dpg d="w15474" g="w15475" t="lex-mod" cr="lex-mod:w15475" w="9" l="~" p="U"/>
+     <dpg d="w15475" g="w15471" t="obj" cr="obj:w15471" w="%" l="9 %" p="N"/>
+     <dpg d="w15476" g="E1" t="punc" cr="punc:w15471" w=")" l="~" p="U"/>
+     <dpg d="w15477" g="E1" t="punc" cr="punc:w15471" w="and" l="~" p="U"/>
+     <dpg d="E0" g="E1" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w15478" g="w15483" t="det" cr="det:w15483" w="the" l="~" p="Det"/>
+     <dpg d="w15479" g="w15483" t="nn" cr="nn:w15483" w="actin" l="~" p="N"/>
+     <dpg d="w15480" g="w15483" t="mod" cr="mod:w15483" w="alpha" l="~" p="A"/>
+     <dpg d="w15481" g="w15482" t="lex-mod" cr="lex-mod:w15482" w="skeletal" l="~" p="U"/>
+     <dpg d="w15482" g="w15483" t="nn" cr="nn:w15483" w="muscle" l="skeletal muscle" p="N"/>
+     <dpg d="w15483" g="w15488" t="s" cr="s:w15488||subj:w15492" w="gene" l="~" p="N"/>
+     <dpg d="w15484" g="w15483" t="punc" cr="punc:w15483" w="(" l="~" p="U"/>
+     <dpg d="w15485" g="w15486" t="lex-mod" cr="lex-mod:w15486" w="9" l="~" p="U"/>
+     <dpg d="w15486" g="w15483" t="appo" cr="appo:w15483" w="%" l="9 %" p="N"/>
+     <dpg d="w15487" g="w15488" t="punc" cr="punc:w15488" w=")" l="~" p="U"/>
+     <dpg d="w15488" g="E0" t="i" cr="conj:w15471" w="were" l="be" p="VBE"/>
+     <dpg d="E5" g="w15492" t="subj" cr="" w="" l="gene" p="N"/>
+     <dpg d="E5" g="w15483" t="antecedent" cr="" w="" l="gene" p="N"/>
+     <dpg d="w15489" g="w15492" t="det" cr="det:w15492" w="the" l="~" p="Det"/>
+     <dpg d="w15490" g="w15491" t="mod" cr="mod:w15491" w="most" l="~" p="A"/>
+     <dpg d="w15491" g="w15492" t="mod" cr="mod:w15492" w="abundant" l="~" p="A"/>
+     <dpg d="w15492" g="w15488" t="pred" cr="pred:w15488" w="transcripts" l="transcript" p="N"/>
+     <dpg d="w15493" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

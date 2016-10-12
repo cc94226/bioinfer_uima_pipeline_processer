@@ -1,0 +1,65 @@
+<rexml>
+<doc id="1411">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E3" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22067" g="w22069" t="det" cr="det:w22069" w="The" l="~" p="Det"/>
+     <dpg d="w22068" g="w22069" t="mod" cr="mod:w22069" w="cardiac" l="~" p="A"/>
+     <dpg d="w22069" g="w22071" t="s" cr="s+subj:w22071" w="myosin" l="~" p="N"/>
+     <dpg d="w22070" g="w22071" t="mod-before" cr="mod-before:w22071" w="heavy" l="~" p="A"/>
+     <dpg d="w22071" g="E3" t="i" cr="UNSPECRELTYPE:E5" w="chain" l="~" p="V"/>
+     <dpg d="E6" g="w22071" t="subj" cr="" w="" l="myosin" p="N"/>
+     <dpg d="E6" g="w22069" t="antecedent" cr="" w="" l="myosin" p="N"/>
+     <dpg d="w22072" g="w22073" t="lex-mod" cr="lex-mod:w22073" w="Arg-403" l="~" p="U"/>
+     <dpg d="w22073" g="w22071" t="obj" cr="obj:w22071" w="--" l="Arg-403 --" p="N"/>
+     <dpg d="w22074" g="E5" t="punc" cr="punc:E5" w=">" l="~" p="U"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22075" g="w22076" t="nn" cr="nn:w22076" w="Gln" l="~" p="N"/>
+     <dpg d="w22076" g="w22083" t="s" cr="subj:w22078||s+subj:w22083" w="mutation" l="~" p="N"/>
+     <dpg d="E1" g="w22076" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22077" g="E1" t="whn" cr="whn:w22078" w="that" l="~" p="THAT"/>
+     <dpg d="w22077" g="w22076" t="antecedent" cr="antecedent:w22076" w="that" l="~" p="THAT"/>
+     <dpg d="w22078" g="E1" t="i" cr="rel:w22076" w="causes" l="cause" p="V"/>
+     <dpg d="E7" g="w22078" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E7" g="w22076" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w22079" g="w22080" t="mod" cr="mod:w22080" w="hypertrophic" l="~" p="A"/>
+     <dpg d="w22080" g="w22078" t="obj" cr="obj:w22078" w="cardiomyopathy" l="~" p="N"/>
+     <dpg d="w22081" g="w22083" t="aux" cr="aux:w22083" w="does" l="do" p="Aux"/>
+     <dpg d="w22082" g="w22081" t="neg" cr="neg:w22081" w="not" l="~" p="A"/>
+     <dpg d="w22083" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="affect" l="~" p="V"/>
+     <dpg d="E8" g="w22083" t="subj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E8" g="w22076" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E0" g="w22083" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22084" g="w22090" t="det" cr="det:w22090" w="the" l="~" p="Det"/>
+     <dpg d="w22085" g="w22089" t="lex-mod" cr="lex-mod:w22089" w="actin" l="~" p="U"/>
+     <dpg d="w22086" g="w22089" t="lex-mod" cr="lex-mod:w22089" w="-" l="~" p="U"/>
+     <dpg d="w22087" g="w22089" t="lex-mod" cr="lex-mod:w22089" w="or" l="~" p="U"/>
+     <dpg d="w22088" g="w22089" t="lex-mod" cr="lex-mod:w22089" w="ATP-" l="~" p="U"/>
+     <dpg d="w22089" g="w22090" t="mod" cr="mod:w22090" w="binding" l="actin - or ATP- binding" p="A"/>
+     <dpg d="w22090" g="w22097" t="s" cr="s+subj:w22097" w="capacities" l="capacity" p="N"/>
+     <dpg d="w22091" g="w22090" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w22092" g="w22095" t="nn" cr="nn:w22095" w="two" l="~" p="N"/>
+     <dpg d="w22093" g="w22095" t="mod" cr="mod:w22095" w="size-limited" l="size-limited" p="A"/>
+     <dpg d="w22094" g="w22095" t="nn" cr="nn:w22095" w="recombinant" l="~" p="N"/>
+     <dpg d="w22095" g="w22091" t="pcomp-n" cr="mod*of*n:w22090" w="myosin" l="~" p="N"/>
+     <dpg d="w22096" g="w22097" t="mod-before" cr="mod-before:w22097" w="heavy" l="~" p="A"/>
+     <dpg d="w22097" g="E0" t="i" cr="fc:w22083" w="chain" l="~" p="V"/>
+     <dpg d="E9" g="w22097" t="subj" cr="" w="" l="capacity" p="N"/>
+     <dpg d="E9" g="w22090" t="antecedent" cr="" w="" l="capacity" p="N"/>
+     <dpg d="w22098" g="w22097" t="obj" cr="obj:w22097" w="fragments" l="fragment" p="N"/>
+     <dpg d="w22099" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

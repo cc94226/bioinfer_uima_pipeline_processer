@@ -1,0 +1,162 @@
+<rexml>
+<doc id="2075">
+  <text>
+<p><s id="s1"><w id="w32911">We</w> <w id="w32912">have</w> <w id="w32913">characterized</w> <w id="w32914">this</w> <w id="w32915">actin</w> <w id="w32916">with</w> <w id="w32917">respect</w> <w id="w32918">to</w> <w id="w32919">its</w> <w id="w32920">ability</w> <w id="w32921">to</w> <w id="w32922">interact</w> <w id="w32923">with</w> <w id="w32924">yeast</w> <w id="w32925">profilin</w> <w id="w32926">and</w> <w id="w32927">tropomyosin</w> <w id="w32928">,</w> <w id="w32929">the</w> <w id="w32930">only</w> <w id="w32931">yeast</w> <w id="w32932">actin-binding</w> <w id="w32933">proteins</w> <w id="w32934">so</w> <w id="w32935">far</w> <w id="w32936">purified</w> <w id="w32937">and</w> <w id="w32938">characterized</w> <w id="w32939">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7510" gid="g7160" t="Individual_protein" fr="w32915" to="w32915" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2075.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7511" gid="g7161" t="RELATIONSHIP_TEXTBINDING" fr="w32922" to="w32923">
+     <textspan type="extent">interact with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2075.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7512" gid="g7162" t="Individual_protein" fr="w32924" to="w32927" nam="yes">
+     <textspan type="extent">yeast [..] tropomyosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2075.2"/>
+      <exattr n="nst" v="st.2075.13.0"/>
+      <exattr n="nst" v="st.2075.16.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7513" gid="g7163" t="Individual_protein" fr="w32924" to="w32925" nam="yes">
+     <textspan type="extent">yeast profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2075.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7514" gid="g7160" t="Individual_protein" fr="w32919" to="w32919" nam="yes">
+     <textspan type="extent">its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2075.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7515" gid="g7164" t="Individual_protein" fr="w32931" to="w32933" nam="yes">
+     <textspan type="extent">yeast actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2075.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7516" gid="g7165" t="Individual_protein" fr="w32925" to="w32925" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2075.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7517" gid="g7166" t="Individual_protein" fr="w32927" to="w32927" nam="yes">
+     <textspan type="extent">tropomyosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2075.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7518" gid="g7167" t="Individual_protein" fr="w32932" to="w32933" nam="yes">
+     <textspan type="extent">actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2075.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2880" t="INTERACT" e1="e7514" e2="e7513" re="e7511">
+     <textspan type="extent">its ability to interact with yeast profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2075.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2881" t="INTERACT" e1="e7514" e2="e7512" re="e7511">
+     <textspan type="extent">its ability to interact with yeast profilin and tropomyosin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2075.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2882" t="MEMBER" e1="e7515" e2="e7513" re="">
+     <textspan type="extent">yeast profilin and tropomyosin , the only yeast actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2883" t="MEMBER" e1="e7515" e2="e7512" re="">
+     <textspan type="extent">yeast profilin and tropomyosin , the only yeast actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

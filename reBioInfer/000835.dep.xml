@@ -1,0 +1,64 @@
+<rexml>
+<doc id="835">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w12905" g="E3" t="p" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w12906" g="w12909" t="det" cr="det:w12909" w="the" l="~" p="Det"/>
+     <dpg d="w12907" g="w12909" t="nn" cr="nn:w12909" w="ADE2" l="~" p="N"/>
+     <dpg d="w12908" g="w12909" t="nn" cr="nn:w12909" w="assay" l="~" p="N"/>
+     <dpg d="w12909" g="w12905" t="pcomp-n" cr="p*in*n:w12931" w="system" l="~" p="N"/>
+     <dpg d="w12910" g="E3" t="punc" cr="punc:w12931" w="," l="~" p="U"/>
+     <dpg d="w12911" g="E3" t="punc" cr="punc:w12931" w="silencing" l="~" p="U"/>
+     <dpg d="w12912" g="E3" t="punc" cr="punc:w12931" w="depends" l="~" p="U"/>
+     <dpg d="w12913" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w12931" w="completely" l="~" p="A"/>
+     <dpg d="w12914" g="w12913" t="mod" cr="" w="upon" l="~" p="Prep"/>
+     <dpg d="w12915" g="w12916" t="det" cr="det:w12916" w="the" l="~" p="Det"/>
+     <dpg d="w12916" g="w12914" t="pcomp-n" cr="mod*upon*n:w12913" w="function" l="~" p="N"/>
+     <dpg d="w12917" g="w12916" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12918" g="w12920" t="det" cr="det:w12920" w="the" l="~" p="Det"/>
+     <dpg d="w12919" g="w12920" t="nn" cr="nn:w12920" w="SIR" l="~" p="N"/>
+     <dpg d="w12920" g="w12917" t="pcomp-n" cr="mod*of*n:w12916" w="genes" l="gene" p="N"/>
+     <dpg d="w12921" g="E3" t="punc" cr="punc:w12931" w="," l="~" p="U"/>
+     <dpg d="w12922" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w12931" w="known" l="~" p="A"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="s+subj:w12923" w="" l="~" p="N"/>
+     <dpg d="w12923" g="E0" t="i" cr="UNSPECRELTYPE:w12931" w="trans-acting" l="transact" p="V"/>
+     <dpg d="E4" g="w12923" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="E1" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w12924" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w12931" w="regulators" l="regulator" p="N"/>
+     <dpg d="w12925" g="w12924" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12926" g="w12928" t="det" cr="det:w12928" w="the" l="~" p="Det"/>
+     <dpg d="w12927" g="w12928" t="mod" cr="mod:w12928" w="silent" l="~" p="A"/>
+     <dpg d="w12928" g="w12925" t="pcomp-n" cr="mod*of*n:w12924" w="loci" l="~" p="N"/>
+     <dpg d="w12929" g="E3" t="punc" cr="punc:w12931" w="," l="~" p="U"/>
+     <dpg d="w12930" g="E3" t="punc" cr="punc:w12931" w="and" l="~" p="U"/>
+     <dpg d="w12931" g="E3" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="w12932" g="w12931" t="pred" cr="pred:w12931" w="sensitive" l="~" p="A"/>
+     <dpg d="w12933" g="w12932" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w12934" g="w12936" t="det" cr="det:w12936" w="the" l="~" p="Det"/>
+     <dpg d="w12935" g="w12936" t="nn" cr="nn:w12936" w="gene" l="~" p="N"/>
+     <dpg d="w12936" g="w12933" t="pcomp-n" cr="mod*to*n:w12932" w="dosage" l="~" p="N"/>
+     <dpg d="w12937" g="w12936" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12938" g="w12940" t="nn" cr="nn:w12940" w="two" l="~" p="N"/>
+     <dpg d="w12939" g="w12940" t="nn" cr="nn:w12940" w="SIR" l="~" p="N"/>
+     <dpg d="w12940" g="w12937" t="pcomp-n" cr="mod*of*n:w12936" w="genes" l="gene" p="N"/>
+     <dpg d="w12941" g="w12940" t="punc" cr="punc:w12940" w="," l="~" p="U"/>
+     <dpg d="w12942" g="w12940" t="conj" cr="conj:w12940" w="SIR1" l="~" p="N"/>
+     <dpg d="w12943" g="w12942" t="punc" cr="punc:w12942" w="and" l="~" p="U"/>
+     <dpg d="w12944" g="w12942" t="conj" cr="conj:w12942" w="SIR4" l="~" p="N"/>
+     <dpg d="w12945" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,141 @@
+<rexml>
+<doc id="1059">
+  <text>
+<p><s id="s1"><w id="w16651">One</w> <w id="w16652">complex</w> <w id="w16653">is</w> <w id="w16654">composed</w> <w id="w16655">of</w> <w id="w16656">E-cadherin</w> <w id="w16657">,</w> <w id="w16658">alpha-</w> <w id="w16659">and</w> <w id="w16660">beta-</w><w id="w16661">catenin</w> <w id="w16662">,</w> <w id="w16663">the</w> <w id="w16664">other</w> <w id="w16665">of</w> <w id="w16666">E-cadherin</w> <w id="w16667">,</w> <w id="w16668">alpha-catenin</w> <w id="w16669">and</w> <w id="w16670">plakoglobin</w> <w id="w16671">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3798" gid="g3635" t="Individual_protein" fr="w16656" to="w16656" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1059.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3799" gid="g3636" t="Individual_protein" fr="w16660" to="w16661" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1059.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3800" gid="g3637" t="Individual_protein" fr="w16658" to="w16661" nam="yes">
+     <textspan type="extent">alpha- [..] catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1059.2"/>
+      <exattr n="nst" v="st.1059.7.0"/>
+      <exattr n="nst" v="st.1059.9.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3801" gid="g3638" t="Individual_protein" fr="w16668" to="w16668" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1059.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3802" gid="g3639" t="RELATIONSHIP_TEXTBINDING" fr="w16654" to="w16655">
+     <textspan type="extent">composed of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1059.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3803" gid="g3640" t="Protein_complex" fr="w16652" to="w16652" nam="yes">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1059.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3804" gid="g3641" t="Individual_protein" fr="w16670" to="w16670" nam="yes">
+     <textspan type="extent">plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1059.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3806" gid="g3643" t="Individual_protein" fr="w16666" to="w16666" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1059.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1449" t="CONTAIN" e1="e3803" e2="e3798" re="e3802">
+     <textspan type="extent">complex is composed of E-cadherin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1059.4"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1450" t="CONTAIN" e1="e3803" e2="e3800" re="e3802">
+     <textspan type="extent">complex is composed of E-cadherin , alpha- and beta- catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1059.4"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1451" t="CONTAIN" e1="e3803" e2="e3799" re="e3802">
+     <textspan type="extent">complex is composed of E-cadherin , alpha- and beta- catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1059.4"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

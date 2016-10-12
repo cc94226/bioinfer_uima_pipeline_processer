@@ -1,0 +1,40 @@
+<rexml>
+<doc id="1760">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28050" g="w28053" t="det" cr="det:w28053" w="The" l="~" p="Det"/>
+     <dpg d="w28051" g="w28053" t="nn" cr="nn:w28053" w="serine" l="~" p="N"/>
+     <dpg d="w28052" g="w28053" t="nn" cr="nn:w28053" w="phosphatases" l="~" p="N"/>
+     <dpg d="w28053" g="w28056" t="s" cr="s+subj:w28056" w="PP1" l="~" p="N"/>
+     <dpg d="w28054" g="w28053" t="punc" cr="punc:w28053" w="and" l="~" p="U"/>
+     <dpg d="w28055" g="w28053" t="conj" cr="conj:w28053" w="PP2A" l="~" p="N"/>
+     <dpg d="w28056" g="E0" t="i" cr="" w="associate" l="associate with" p="V"/>
+     <dpg d="w28057" g="w28056" t="lex-mod" cr="lex-mod:w28056" w="with" l="~" p="U"/>
+     <dpg d="E2" g="w28056" t="subj" cr="" w="" l="PP1" p="N"/>
+     <dpg d="E2" g="w28053" t="antecedent" cr="" w="" l="PP1" p="N"/>
+     <dpg d="w28058" g="w28056" t="lex-mod" cr="lex-mod:w28056" w="and" l="~" p="U"/>
+     <dpg d="w28059" g="w28056" t="lex-dep" cr="lex-dep:w28056" w="activate" l="~" p="V"/>
+     <dpg d="w28060" g="w28063" t="det" cr="det:w28063" w="the" l="~" p="Det"/>
+     <dpg d="w28061" g="w28063" t="mod" cr="mod:w28063" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w28062" g="w28063" t="nn" cr="nn:w28063" w="protein" l="~" p="N"/>
+     <dpg d="w28063" g="w28056" t="obj" cr="obj:w28056" w="cofilin" l="~" p="N"/>
+     <dpg d="w28064" g="w28063" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w28065" g="w28067" t="mod" cr="mod:w28067" w="human" l="~" p="A"/>
+     <dpg d="w28066" g="w28067" t="lex-mod" cr="lex-mod:w28067" w="T" l="~" p="U"/>
+     <dpg d="w28067" g="w28064" t="pcomp-n" cr="mod*in*n:w28063" w="lymphocytes" l="T lymphocyte" p="N"/>
+     <dpg d="w28068" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

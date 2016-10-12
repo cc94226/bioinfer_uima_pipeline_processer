@@ -1,0 +1,183 @@
+<rexml>
+<doc id="351">
+  <text>
+<p><s id="s1"><w id="w5237">Conversely</w> <w id="w5238">,</w> <w id="w5239">inhibition</w> <w id="w5240">of</w> <w id="w5241">LIMK</w> <w id="w5242">'s</w> <w id="w5243">activity</w> <w id="w5244">by</w> <w id="w5245">expressing</w> <w id="w5246">a</w> <w id="w5247">dominant</w> <w id="w5248">negative</w> <w id="w5249">construct</w> <w id="w5250">,</w> <w id="w5251">LIMK1-</w> <w id="w5252">,</w> <w id="w5253">or</w> <w id="w5254">expression</w> <w id="w5255">of</w> <w id="w5256">the</w> <w id="w5257">constitutively</w> <w id="w5258">active</w> <w id="w5259">S3A</w> <w id="w5260">cofilin</w> <w id="w5261">mutant</w> <w id="w5262">induces</w> <w id="w5263">loss</w> <w id="w5264">of</w> <w id="w5265">actin</w> <w id="w5266">filaments</w> <w id="w5267">at</w> <w id="w5268">the</w> <w id="w5269">phagocytic</w> <w id="w5270">cup</w> <w id="w5271">and</w> <w id="w5272">also</w> <w id="w5273">inhibits</w> <w id="w5274">phagocytosis</w> <w id="w5275">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1257" gid="g1199" t="RELATIONSHIP_TEXTBINDING" fr="w5239" to="w5244">
+     <textspan type="extent">inhibition of [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.351.0"/>
+      <exattr n="nst" v="st.351.2.0"/>
+      <exattr n="nst" v="st.351.3.0"/>
+      <exattr n="nst" v="st.351.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1258" gid="g1200" t="Dynamics_property" fr="w5241" to="w5243">
+     <textspan type="extent">LIMK 's activity</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.351.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1259" gid="g1201" t="Expression" fr="w5254" to="w5261">
+     <textspan type="extent">expression of [..] cofilin mutant</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.351.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1260" gid="g1202" t="RELATIONSHIP_TEXTBINDING" fr="w5262" to="w5262">
+     <textspan type="extent">induces</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.351.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1261" gid="g1203" t="Expression" fr="w5245" to="w5251">
+     <textspan type="extent">expressing [..] LIMK1-</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.351.4"/>
+      <exattr n="nst" v="st.351.8.0"/>
+      <exattr n="nst" v="st.351.14.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1262" gid="g1204" t="DECREASE" fr="w5263" to="w5266">
+     <textspan type="extent">loss of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="DECREASE"/>
+      <exattr n="bd" v="e.351.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1263" gid="g1205" t="Mutant" fr="w5260" to="w5261" nam="yes">
+     <textspan type="extent">cofilin mutant</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.351.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1264" gid="g1206" t="Individual_protein" fr="w5241" to="w5241" nam="yes">
+     <textspan type="extent">LIMK</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.351.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1265" gid="g1207" t="Cell_component" fr="w5265" to="w5266" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.351.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e1266" gid="g1208" t="Individual_protein" fr="w5265" to="w5265" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.351.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e1267" gid="g1209" t="Individual_protein" fr="w5260" to="w5260" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.351.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e1268" gid="g1210" t="Individual_protein" fr="w5251" to="w5251" nam="yes">
+     <textspan type="extent">LIMK1-</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.351.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e1269" gid="g1211" t="Individual_protein" fr="w5260" to="w5260" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.351.12"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r490" t="INITIATE" e1="e1257" e2="e1262" re="e1260">
+     <textspan type="extent">inhibition of LIMK 's activity by expressing a dominant negative construct , LIMK1- , or expression of the constitutively active S3A cofilin mutant induces loss of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.351.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r491" t="INHIBIT" e1="e1261" e2="e1258" re="e1257">
+     <textspan type="extent">inhibition of LIMK 's activity by expressing a dominant negative construct , LIMK1-</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.351.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="INHIBIT"/>
+     </exattrs>
+    </rel>
+    <rel id="r492" t="INITIATE" e1="e1259" e2="e1262" re="e1260">
+     <textspan type="extent">expression of the constitutively active S3A cofilin mutant induces loss of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.351.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

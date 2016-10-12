@@ -1,0 +1,37 @@
+<rexml>
+<doc id="1483">
+  <text>
+<p><s id="s1"><w id="w23198">alpha-</w> <w id="w23199">and</w> <w id="w23200">beta-</w><w id="w23201">catenin</w> <w id="w23202">were</w> <w id="w23203">present</w> <w id="w23204">in</w> <w id="w23205">most</w> <w id="w23206">ovarian</w> <w id="w23207">cells</w> <w id="w23208">at</w> <w id="w23209">all</w> <w id="w23210">stages</w> <w id="w23211">of</w> <w id="w23212">folliculogenesis</w> <w id="w23213">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5366" gid="g5121" t="Gene/protein/RNA" fr="w23198" to="w23201" nam="yes">
+     <textspan type="extent">alpha- [..] catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1483.0"/>
+      <exattr n="nst" v="st.1483.0.0"/>
+      <exattr n="nst" v="st.1483.2.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5367" gid="g5122" t="Gene/protein/RNA" fr="w23200" to="w23201" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1483.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

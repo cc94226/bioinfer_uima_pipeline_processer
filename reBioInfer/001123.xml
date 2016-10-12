@@ -1,0 +1,81 @@
+<rexml>
+<doc id="1123">
+  <text>
+<p><s id="s1"><w id="w17779">Photochemical</w> <w id="w17780">cleavage</w> <w id="w17781">of</w> <w id="w17782">myosin</w> <w id="w17783">heavy</w> <w id="w17784">chain</w> <w id="w17785">and</w> <w id="w17786">the</w> <w id="w17787">effect</w> <w id="w17788">on</w> <w id="w17789">the</w> <w id="w17790">interaction</w> <w id="w17791">with</w> <w id="w17792">actin</w> <w id="w17793">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4135" gid="g3952" t="Individual_protein" fr="w17782" to="w17784" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1123.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4136" gid="g3953" t="RELATIONSHIP_TEXTBINDING" fr="w17790" to="w17791">
+     <textspan type="extent">interaction with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1123.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4137" gid="g3954" t="CLEAVAGE" fr="w17780" to="w17784">
+     <textspan type="extent">cleavage of myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Break-down"/>
+      <exattr n="t4" v="CLEAVAGE"/>
+      <exattr n="bd" v="e.1123.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4138" gid="g3955" t="RELATIONSHIP_TEXTBINDING" fr="w17787" to="w17788">
+     <textspan type="extent">effect on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1123.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4139" gid="g3956" t="Individual_protein" fr="w17792" to="w17792" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1123.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1595" t="AFFECT" e1="e4137" e2="e4136" re="e4138">
+     <textspan type="extent">cleavage of myosin heavy chain and the effect on the interaction with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1123.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1596" t="INTERACT" e1="e4135" e2="e4139" re="e4136">
+     <textspan type="extent">myosin heavy chain and the effect on the interaction with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1123.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

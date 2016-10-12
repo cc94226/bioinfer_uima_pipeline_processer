@@ -1,0 +1,296 @@
+<rexml>
+<doc id="784">
+  <text>
+<p><s id="s1"><w id="w12340">In</w> <w id="w12341">normal</w> <w id="w12342">livers</w> <w id="w12343">,</w> <w id="w12344">E-cad</w> <w id="w12345">,</w> <w id="w12346">alpha-catenin</w> <w id="w12347">and</w> <w id="w12348">beta-catenin</w> <w id="w12349">,</w> <w id="w12350">but</w> <w id="w12351">not</w> <w id="w12352">CD44s</w> <w id="w12353">,</w> <w id="w12354">CD44v5</w> <w id="w12355">,</w> <w id="w12356">CD44v6</w> <w id="w12357">,</w> <w id="w12358">CD44v7-8</w> <w id="w12359">,</w> <w id="w12360">and</w> <w id="w12361">CD44v10</w> <w id="w12362">,</w> <w id="w12363">were</w> <w id="w12364">expressed</w> <w id="w12365">at</w> <w id="w12366">the</w> <w id="w12367">cell</w> <w id="w12368">membrane</w> <w id="w12369">of</w> <w id="w12370">normal</w> <w id="w12371">intrahepatic</w> <w id="w12372">bile</w> <w id="w12373">ducts</w> <w id="w12374">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2859" gid="g2740" t="Individual_protein" fr="w12344" to="w12344" nam="yes">
+     <textspan type="extent">E-cad</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.784.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2860" gid="g2741" t="RELATIONSHIP_TEXTBINDING" fr="w12364" to="w12368">
+     <textspan type="extent">expressed at [..] membrane</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.784.1"/>
+      <exattr n="nst" v="st.784.24.0"/>
+      <exattr n="nst" v="st.784.25.0"/>
+      <exattr n="nst" v="st.784.28.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2861" gid="g2742" t="Individual_protein" fr="w12348" to="w12348" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.784.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2862" gid="g2743" t="Individual_protein" fr="w12346" to="w12346" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.784.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2863" gid="g2744" t="Individual_protein" fr="w12354" to="w12354" nam="yes">
+     <textspan type="extent">CD44v5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.784.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2864" gid="g2745" t="Individual_protein" fr="w12352" to="w12352" nam="yes">
+     <textspan type="extent">CD44s</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.784.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2865" gid="g2746" t="Individual_protein" fr="w12358" to="w12358" nam="yes">
+     <textspan type="extent">CD44v7-8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.784.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2866" gid="g2747" t="Individual_protein" fr="w12356" to="w12356" nam="yes">
+     <textspan type="extent">CD44v6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.784.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2867" gid="g2748" t="Individual_protein" fr="w12361" to="w12361" nam="yes">
+     <textspan type="extent">CD44v10</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.784.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e2868" gid="g2749" t="RELATIONSHIP_TEXTBINDING" fr="w12351" to="w12351">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.784.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1087" t="COLOCALIZE" e1="e2859" e2="e2862,e2861" re="e2860">
+     <textspan type="extent">E-cad , alpha-catenin and beta-catenin , but not CD44s , CD44v5 , CD44v6 , CD44v7-8 , and CD44v10 , were expressed at the cell membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.784.1"/>
+      <exattr n="arg" v="e2859"/>
+      <exattr n="arg" v="e2862"/>
+      <exattr n="arg" v="e2861"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1089" t="COLOCALIZE" e1="e2859" e2="e2864" re="e2860">
+     <textspan type="extent">E-cad , alpha-catenin and beta-catenin , but not CD44s , CD44v5 , CD44v6 , CD44v7-8 , and CD44v10 , were expressed at the cell membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.784.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1091" t="COLOCALIZE" e1="e2859" e2="e2863" re="e2860">
+     <textspan type="extent">E-cad , alpha-catenin and beta-catenin , but not CD44s , CD44v5 , CD44v6 , CD44v7-8 , and CD44v10 , were expressed at the cell membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.784.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1093" t="COLOCALIZE" e1="e2859" e2="e2866" re="e2860">
+     <textspan type="extent">E-cad , alpha-catenin and beta-catenin , but not CD44s , CD44v5 , CD44v6 , CD44v7-8 , and CD44v10 , were expressed at the cell membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.784.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1095" t="COLOCALIZE" e1="e2859" e2="e2865" re="e2860">
+     <textspan type="extent">E-cad , alpha-catenin and beta-catenin , but not CD44s , CD44v5 , CD44v6 , CD44v7-8 , and CD44v10 , were expressed at the cell membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.784.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1097" t="COLOCALIZE" e1="e2859" e2="e2867" re="e2860">
+     <textspan type="extent">E-cad , alpha-catenin and beta-catenin , but not CD44s , CD44v5 , CD44v6 , CD44v7-8 , and CD44v10 , were expressed at the cell membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.784.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1099" t="COLOCALIZE" e1="e2862" e2="e2864" re="e2860">
+     <textspan type="extent">alpha-catenin and beta-catenin , but not CD44s , CD44v5 , CD44v6 , CD44v7-8 , and CD44v10 , were expressed at the cell membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.784.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1101" t="COLOCALIZE" e1="e2862" e2="e2863" re="e2860">
+     <textspan type="extent">alpha-catenin and beta-catenin , but not CD44s , CD44v5 , CD44v6 , CD44v7-8 , and CD44v10 , were expressed at the cell membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.784.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1103" t="COLOCALIZE" e1="e2862" e2="e2866" re="e2860">
+     <textspan type="extent">alpha-catenin and beta-catenin , but not CD44s , CD44v5 , CD44v6 , CD44v7-8 , and CD44v10 , were expressed at the cell membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.784.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1105" t="COLOCALIZE" e1="e2862" e2="e2865" re="e2860">
+     <textspan type="extent">alpha-catenin and beta-catenin , but not CD44s , CD44v5 , CD44v6 , CD44v7-8 , and CD44v10 , were expressed at the cell membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.784.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1107" t="COLOCALIZE" e1="e2862" e2="e2867" re="e2860">
+     <textspan type="extent">alpha-catenin and beta-catenin , but not CD44s , CD44v5 , CD44v6 , CD44v7-8 , and CD44v10 , were expressed at the cell membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.784.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1109" t="COLOCALIZE" e1="e2861" e2="e2864" re="e2860">
+     <textspan type="extent">beta-catenin , but not CD44s , CD44v5 , CD44v6 , CD44v7-8 , and CD44v10 , were expressed at the cell membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.784.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1111" t="COLOCALIZE" e1="e2861" e2="e2863" re="e2860">
+     <textspan type="extent">beta-catenin , but not CD44s , CD44v5 , CD44v6 , CD44v7-8 , and CD44v10 , were expressed at the cell membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.784.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1113" t="COLOCALIZE" e1="e2861" e2="e2866" re="e2860">
+     <textspan type="extent">beta-catenin , but not CD44s , CD44v5 , CD44v6 , CD44v7-8 , and CD44v10 , were expressed at the cell membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.784.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1115" t="COLOCALIZE" e1="e2861" e2="e2865" re="e2860">
+     <textspan type="extent">beta-catenin , but not CD44s , CD44v5 , CD44v6 , CD44v7-8 , and CD44v10 , were expressed at the cell membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.784.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1117" t="COLOCALIZE" e1="e2861" e2="e2867" re="e2860">
+     <textspan type="extent">beta-catenin , but not CD44s , CD44v5 , CD44v6 , CD44v7-8 , and CD44v10 , were expressed at the cell membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.784.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

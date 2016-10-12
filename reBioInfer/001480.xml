@@ -1,0 +1,103 @@
+<rexml>
+<doc id="1480">
+  <text>
+<p><s id="s1"><w id="w23175">The</w> <w id="w23176">exogeneous</w> <w id="w23177">cofilin</w> <w id="w23178">,</w> <w id="w23179">but</w> <w id="w23180">not</w> <w id="w23181">ADF</w> <w id="w23182">,</w> <w id="w23183">caused</w> <w id="w23184">quick</w> <w id="w23185">disassembly</w> <w id="w23186">of</w> <w id="w23187">actin</w> <w id="w23188">filaments</w> <w id="w23189">and</w> <w id="w23190">accumulated</w> <w id="w23191">in</w> <w id="w23192">furrow</w> <w id="w23193">region</w> <w id="w23194">of</w> <w id="w23195">dividing</w> <w id="w23196">cells</w> <w id="w23197">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5359" gid="g5114" t="Individual_protein" fr="w23177" to="w23177" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1480.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5360" gid="g5115" t="DISASSEMBLY" fr="w23185" to="w23188">
+     <textspan type="extent">disassembly of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Break-down"/>
+      <exattr n="t4" v="DISASSEMBLY"/>
+      <exattr n="bd" v="e.1480.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5361" gid="g5116" t="Individual_protein" fr="w23181" to="w23181" nam="yes">
+     <textspan type="extent">ADF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1480.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5362" gid="g5117" t="RELATIONSHIP_TEXTBINDING" fr="w23183" to="w23183">
+     <textspan type="extent">caused</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1480.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5363" gid="g5118" t="RELATIONSHIP_TEXTBINDING" fr="w23180" to="w23180">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1480.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5364" gid="g5119" t="Individual_protein" fr="w23187" to="w23187" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1480.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5365" gid="g5120" t="Cell_component" fr="w23187" to="w23188" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1480.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2068" t="CAUSE" e1="e5359" e2="e5360" re="e5362">
+     <textspan type="extent">cofilin , but not ADF , caused quick disassembly of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1480.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2070" t="CAUSE" e1="e5361" e2="e5360" re="e5362">
+     <textspan type="extent">ADF , caused quick disassembly of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1480.3"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

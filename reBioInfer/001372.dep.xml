@@ -1,0 +1,69 @@
+<rexml>
+<doc id="1372">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21316" g="w21317" t="det" cr="det:w21317" w="The" l="~" p="Det"/>
+     <dpg d="w21317" g="w21323" t="s" cr="s:w21323||s+subj:w21318||subj:w21324" w="APC" l="~" p="N"/>
+     <dpg d="E3" g="w21317" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E3" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w21317" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w21318" g="E3" t="i" cr="rel:w21317" w="binding" l="bind" p="V"/>
+     <dpg d="E7" g="w21318" t="subj" cr="" w="" l="APC" p="N"/>
+     <dpg d="E7" g="E5" t="antecedent" cr="" w="" l="APC" p="N"/>
+     <dpg d="w21319" g="w21318" t="obj" cr="obj:w21318" w="site" l="~" p="N"/>
+     <dpg d="w21320" g="w21317" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w21321" g="w21320" t="pcomp-n" cr="mod*on*n:w21317" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w21322" g="w21323" t="aux" cr="aux:w21323" w="may" l="~" p="Aux"/>
+     <dpg d="w21323" g="E4" t="i" cr="" w="be" l="~" p="VBE"/>
+     <dpg d="w21324" g="w21323" t="pred" cr="pred:w21323" w="discontinuous" l="~" p="A"/>
+     <dpg d="E8" g="w21324" t="subj" cr="" w="" l="APC" p="N"/>
+     <dpg d="E8" g="w21317" t="antecedent" cr="" w="" l="APC" p="N"/>
+     <dpg d="w21325" g="w21323" t="mod" cr="mod:w21323" w="since" l="~" p="SentAdjunct"/>
+     <dpg d="E2" g="w21325" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21326" g="w21336" t="s" cr="obj:w21331||s+subj:w21336" w="neither" l="~" p="N"/>
+     <dpg d="E1" g="w21326" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21327" g="w21330" t="det" cr="det:w21330" w="the" l="~" p="Det"/>
+     <dpg d="w21328" g="w21329" t="lex-mod" cr="lex-mod:w21329" w="carboxyl-" l="~" p="U"/>
+     <dpg d="w21329" g="w21330" t="nn" cr="nn:w21330" w="nor" l="carboxyl- nor" p="N"/>
+     <dpg d="w21330" g="w21331" t="s" cr="s+subj:w21331" w="amino-terminal" l="amino-terminal" p="N"/>
+     <dpg d="w21331" g="E1" t="i" cr="rel:w21326" w="halves" l="halve" p="V"/>
+     <dpg d="E9" g="w21331" t="obj" cr="" w="" l="neither" p="N"/>
+     <dpg d="E9" g="w21326" t="antecedent" cr="" w="" l="neither" p="N"/>
+     <dpg d="E10" g="w21331" t="subj" cr="" w="" l="amino-terminal" p="N"/>
+     <dpg d="E10" g="w21330" t="antecedent" cr="" w="" l="amino-terminal" p="N"/>
+     <dpg d="w21332" g="w21331" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21333" g="w21334" t="mod" cr="mod:w21334" w="beta-catenin" l="beta-catenin" p="A"/>
+     <dpg d="w21334" g="w21332" t="pcomp-n" cr="mod*of*n:w21331" w="will" l="~" p="N"/>
+     <dpg d="w21335" g="w21336" t="mod-before" cr="mod-before:w21336" w="independently" l="~" p="A"/>
+     <dpg d="w21336" g="E2" t="i" cr="comp1:w21325" w="associate" l="associate with" p="V"/>
+     <dpg d="w21337" g="w21336" t="lex-mod" cr="lex-mod:w21336" w="with" l="~" p="U"/>
+     <dpg d="E11" g="w21336" t="subj" cr="" w="" l="neither" p="N"/>
+     <dpg d="E11" g="w21326" t="antecedent" cr="" w="" l="neither" p="N"/>
+     <dpg d="w21338" g="w21336" t="obj" cr="obj:w21336" w="APC" l="~" p="N"/>
+     <dpg d="w21339" g="w21336" t="punc" cr="punc:w21336" w="," l="~" p="U"/>
+     <dpg d="w21340" g="w21336" t="mod" cr="mod:w21336" w="although" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w21340" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21341" g="w21343" t="det" cr="det:w21343" w="the" l="~" p="Det"/>
+     <dpg d="w21342" g="w21343" t="mod" cr="mod:w21343" w="amino-terminal" l="amino-terminal" p="A"/>
+     <dpg d="w21343" g="w21345" t="s" cr="s+subj:w21345" w="half" l="~" p="N"/>
+     <dpg d="w21344" g="w21345" t="mod-before" cr="mod-before:w21345" w="independently" l="~" p="A"/>
+     <dpg d="w21345" g="E0" t="i" cr="comp1:w21340" w="binds" l="bind" p="V"/>
+     <dpg d="E12" g="w21345" t="subj" cr="" w="" l="half" p="N"/>
+     <dpg d="E12" g="w21343" t="antecedent" cr="" w="" l="half" p="N"/>
+     <dpg d="w21346" g="w21345" t="obj" cr="obj:w21345" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w21347" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

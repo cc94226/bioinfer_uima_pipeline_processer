@@ -1,0 +1,83 @@
+<rexml>
+<doc id="305">
+  <text>
+<p><s id="s1"><w id="w4693">Characterization</w> <w id="w4694">of</w> <w id="w4695">actin</w> <w id="w4696">and</w> <w id="w4697">poly-L-proline</w> <w id="w4698">binding</w> <w id="w4699">sites</w> <w id="w4700">of</w> <w id="w4701">Acanthamoeba</w> <w id="w4702">profilin</w> <w id="w4703">with</w> <w id="w4704">monoclonal</w> <w id="w4705">antibodies</w> <w id="w4706">and</w> <w id="w4707">by</w> <w id="w4708">mutagenesis</w> <w id="w4709">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1126" gid="g1072" t="RELATIONSHIP_TEXTBINDING" fr="w4698" to="w4698">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.305.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1127" gid="g1073" t="Substructure_of_protein" fr="w4699" to="w4702" nam="yes">
+     <textspan type="extent">sites of Acanthamoeba profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.305.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1128" gid="g1074" t="Individual_protein" fr="w4701" to="w4702" nam="yes">
+     <textspan type="extent">Acanthamoeba profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.305.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1129" gid="g1075" t="Individual_protein" fr="w4695" to="w4695" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.305.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1130" gid="g1076" t="Individual_protein" fr="w4702" to="w4702" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.305.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r447" t="BIND" e1="e1127" e2="e1129" re="e1126">
+     <textspan type="extent">actin and poly-L-proline binding sites of Acanthamoeba profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.305.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

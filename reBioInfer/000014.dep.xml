@@ -1,0 +1,40 @@
+<rexml>
+<doc id="14">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w195" g="w196" t="nn" cr="nn:w196" w="Acanthamoeba" l="~" p="N"/>
+     <dpg d="w196" g="w197" t="s" cr="s:w197||subj:w198" w="profilin" l="~" p="N"/>
+     <dpg d="w197" g="E1" t="i" cr="" w="was" l="be" p="VBE"/>
+     <dpg d="E4" g="w198" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E4" g="w196" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w198" g="w197" t="pred" cr="pred:w197" w="cross-linked" l="cross-linked" p="N"/>
+     <dpg d="w199" g="w198" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w200" g="w199" t="pcomp-n" cr="mod*to*n:w198" w="actin" l="~" p="N"/>
+     <dpg d="w201" g="w200" t="mod" cr="" w="via" l="~" p="Prep"/>
+     <dpg d="w202" g="w205" t="det" cr="det:w205" w="a" l="~" p="Det"/>
+     <dpg d="w203" g="w205" t="mod" cr="mod:w205" w="zero-length" l="zero-length" p="A"/>
+     <dpg d="w204" g="w205" t="nn" cr="nn:w205" w="isopeptide" l="~" p="N"/>
+     <dpg d="w205" g="w201" t="pcomp-n" cr="mod*via*n:w200||s+subj:w206" w="bond" l="~" p="N"/>
+     <dpg d="E0" g="w205" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w205" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w206" g="E0" t="i" cr="rel:w205" w="using" l="use" p="V"/>
+     <dpg d="E5" g="w206" t="subj" cr="" w="" l="bond" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="bond" p="N"/>
+     <dpg d="w207" g="w206" t="obj" cr="obj:w206" w="carbodiimide" l="~" p="N"/>
+     <dpg d="w208" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

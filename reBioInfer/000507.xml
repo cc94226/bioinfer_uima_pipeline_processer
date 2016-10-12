@@ -1,0 +1,65 @@
+<rexml>
+<doc id="507">
+  <text>
+<p><s id="s1"><w id="w7004">For</w> <w id="w7005">example</w> <w id="w7006">,</w> <w id="w7007">profilin</w> <w id="w7008">with</w> <w id="w7009">a</w> <w id="w7010">deletion</w> <w id="w7011">of</w> <w id="w7012">the</w> <w id="w7013">eight</w> <w id="w7014">C-terminal</w> <w id="w7015">residues</w> <w id="w7016">has</w> <w id="w7017">many</w> <w id="w7018">of</w> <w id="w7019">the</w> <w id="w7020">physical</w> <w id="w7021">properties</w> <w id="w7022">of</w> <w id="w7023">a</w> <w id="w7024">molten</w> <w id="w7025">globule</w> <w id="w7026">,</w> <w id="w7027">yet</w> <w id="w7028">remarkably</w> <w id="w7029">still</w> <w id="w7030">binds</w> <w id="w7031">to</w> <w id="w7032">actin</w> <w id="w7033">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1680" gid="g1609" t="Mutant" fr="w7007" to="w7010" nam="yes">
+     <textspan type="extent">profilin with a deletion</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.507.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1681" gid="g1610" t="RELATIONSHIP_TEXTBINDING" fr="w7030" to="w7031">
+     <textspan type="extent">binds to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.507.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1682" gid="g1611" t="Individual_protein" fr="w7032" to="w7032" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.507.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1683" gid="g1612" t="Individual_protein" fr="w7007" to="w7007" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.507.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r663" t="BIND" e1="e1680" e2="e1682" re="e1681">
+     <textspan type="extent">profilin with a deletion of the eight C-terminal residues has many of the physical properties of a molten globule , yet remarkably still binds to actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.507.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,192 @@
+<rexml>
+<doc id="1406">
+  <text>
+<p><s id="s1"><w id="w21986">The</w> <w id="w21987">verprolin</w><w id="w21988">-</w><w id="w21989">like</w> <w id="w21990">central</w> <w id="w21991">(</w> <w id="w21992">vc</w> <w id="w21993">)</w> <w id="w21994">region</w> <w id="w21995">of</w> <w id="w21996">Wiskott-Aldrich</w> <w id="w21997">syndrome</w> <w id="w21998">protein</w> <w id="w21999">induces</w> <w id="w22000">Arp</w><w id="w22001">2</w><w id="w22002">/</w><w id="w22003">3</w> <w id="w22004">complex</w><w id="w22005">-</w><w id="w22006">dependent</w> <w id="w22007">actin</w> <w id="w22008">nucleation</w> <w id="w22009">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5114" gid="g4881" t="RELATIONSHIP_TEXTBINDING" fr="w21999" to="w21999">
+     <textspan type="extent">induces</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1406.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5115" gid="g4882" t="Protein_complex" fr="w22000" to="w22004" nam="yes">
+     <textspan type="extent">Arp2/3 complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1406.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5116" gid="g4883" t="RELATIONSHIP_TEXTBINDING" fr="w21989" to="w21989">
+     <textspan type="extent">like</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1406.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5117" gid="g4884" t="Substructure_of_protein" fr="w21994" to="w21998" nam="yes">
+     <textspan type="extent">region of Wiskott-Aldrich syndrome protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1406.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5118" gid="g4885" t="ASSEMBLY" fr="w22007" to="w22008">
+     <textspan type="extent">actin nucleation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1406.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5119" gid="g4886" t="Individual_protein" fr="w22000" to="w22001" nam="yes">
+     <textspan type="extent">Arp2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1406.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5120" gid="g4887" t="RELATIONSHIP_TEXTBINDING" fr="w22006" to="w22006">
+     <textspan type="extent">dependent</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1406.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5121" gid="g4888" t="Individual_protein" fr="w21996" to="w21998" nam="yes">
+     <textspan type="extent">Wiskott-Aldrich syndrome protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1406.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5122" gid="g4889" t="RELATIONSHIP_TEXTBINDING" fr="w22004" to="w22004">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1406.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e5123" gid="g4890" t="Individual_protein" fr="w21987" to="w21987" nam="yes">
+     <textspan type="extent">verprolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1406.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e5124" gid="g4891" t="Individual_protein" fr="w22000" to="w22003" nam="yes">
+     <textspan type="extent">Arp [..] 3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1406.10"/>
+      <exattr n="nst" v="st.1406.12.0"/>
+      <exattr n="nst" v="st.1406.12.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5125" gid="g4892" t="Individual_protein" fr="w22007" to="w22007" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1406.11"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1957" t="SIMILAR" e1="e5117" e2="e5123" re="e5116">
+     <textspan type="extent">verprolin - like central ( vc ) region of Wiskott-Aldrich syndrome protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1406.2"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r1958" t="CONTAIN" e1="e5115" e2="e5119" re="e5122">
+     <textspan type="extent">Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1406.8"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1959" t="CONTAIN" e1="e5115" e2="e5124" re="e5122">
+     <textspan type="extent">Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1406.8"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1960" t="CONDITION" e1="e5115" e2="e5118" re="e5120">
+     <textspan type="extent">Arp 2 / 3 complex - dependent actin nucleation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1406.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r1961" t="INITIATE" e1="e5117" e2="e5118" re="e5114">
+     <textspan type="extent">region of Wiskott-Aldrich syndrome protein induces Arp 2 / 3 complex - dependent actin nucleation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1406.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

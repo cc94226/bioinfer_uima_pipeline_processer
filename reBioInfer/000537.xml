@@ -1,0 +1,147 @@
+<rexml>
+<doc id="537">
+  <text>
+<p><s id="s1"><w id="w7445">Furthermore</w> <w id="w7446">,</w> <w id="w7447">this</w> <w id="w7448">inactivating</w> <w id="w7449">effect</w> <w id="w7450">of</w> <w id="w7451">calmodulin</w> <w id="w7452">can</w> <w id="w7453">be</w> <w id="w7454">prevented</w> <w id="w7455">by</w> <w id="w7456">coexpressing</w> <w id="w7457">a</w> <w id="w7458">region</w> <w id="w7459">of</w> <w id="w7460">the</w> <w id="w7461">cytoskeletal</w> <w id="w7462">protein</w> <w id="w7463">alpha-actinin2</w> <w id="w7464">known</w> <w id="w7465">to</w> <w id="w7466">interact</w> <w id="w7467">with</w> <w id="w7468">the</w> <w id="w7469">CO</w> <w id="w7470">region</w> <w id="w7471">of</w> <w id="w7472">NR1</w> <w id="w7473">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1770" gid="g1698" t="Individual_protein" fr="w7451" to="w7451" nam="yes">
+     <textspan type="extent">calmodulin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.537.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1771" gid="g1699" t="RELATIONSHIP_TEXTBINDING" fr="w7466" to="w7467">
+     <textspan type="extent">interact with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.537.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1772" gid="g1700" t="RELATIONSHIP_TEXTBINDING" fr="w7456" to="w7456">
+     <textspan type="extent">coexpressing</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.537.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1773" gid="g1701" t="RELATIONSHIP_TEXTBINDING" fr="w7454" to="w7455">
+     <textspan type="extent">prevented by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.537.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1774" gid="g1702" t="Individual_protein" fr="w7462" to="w7463" nam="yes">
+     <textspan type="extent">protein alpha-actinin2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.537.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1775" gid="g1703" t="EFFECT" fr="w7449" to="w7451">
+     <textspan type="extent">effect of calmodulin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="EFFECT"/>
+      <exattr n="bd" v="e.537.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1776" gid="g1704" t="Individual_protein" fr="w7463" to="w7463" nam="yes">
+     <textspan type="extent">alpha-actinin2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.537.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1777" gid="g1705" t="Substructure_of_protein" fr="w7470" to="w7472" nam="yes">
+     <textspan type="extent">region of NR1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.537.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1778" gid="g1706" t="Substructure_of_protein" fr="w7458" to="w7463" nam="yes">
+     <textspan type="extent">region of [..] protein alpha-actinin2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.537.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e1779" gid="g1707" t="Individual_protein" fr="w7472" to="w7472" nam="yes">
+     <textspan type="extent">NR1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.537.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r694" t="INTERACT" e1="e1778" e2="e1777" re="e1771">
+     <textspan type="extent">region of the cytoskeletal protein alpha-actinin2 known to interact with the CO region of NR1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.537.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r695" t="PREVENT" e1="e1772" e2="e1775" re="e1773">
+     <textspan type="extent">effect of calmodulin can be prevented by coexpressing a region of the cytoskeletal protein alpha-actinin2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.537.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="PREVENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r696" t="COEXPRESS" e1="e1770" e2="e1778" re="e1772">
+     <textspan type="extent">calmodulin can be prevented by coexpressing a region of the cytoskeletal protein alpha-actinin2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.537.2"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Temporal"/>
+      <exattr n="t3" v="COEXPRESS"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

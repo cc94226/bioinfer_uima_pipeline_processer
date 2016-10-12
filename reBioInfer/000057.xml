@@ -1,0 +1,46 @@
+<rexml>
+<doc id="57">
+  <text>
+<p><s id="s1"><w id="w847">After</w> <w id="w848">24</w> <w id="w849">or</w> <w id="w850">48</w> <w id="w851">hours</w> <w id="w852">of</w> <w id="w853">shear</w> <w id="w854">,</w> <w id="w855">staining</w> <w id="w856">for</w> <w id="w857">VE-cadherin</w> <w id="w858">,</w> <w id="w859">alpha-catenin</w> <w id="w860">,</w> <w id="w861">and</w> <w id="w862">beta-catenin</w> <w id="w863">was</w> <w id="w864">intense</w> <w id="w865">and</w> <w id="w866">peripheral</w> <w id="w867">,</w> <w id="w868">forming</w> <w id="w869">a</w> <w id="w870">band</w> <w id="w871">of</w> <w id="w872">dashes</w> <w id="w873">(</w> <w id="w874">adherens</w> <w id="w875">plaques</w> <w id="w876">)</w> <w id="w877">that</w> <w id="w878">colocalized</w> <w id="w879">with</w> <w id="w880">the</w> <w id="w881">ends</w> <w id="w882">of</w> <w id="w883">stress</w> <w id="w884">fibers</w> <w id="w885">that</w> <w id="w886">inserted</w> <w id="w887">along</w> <w id="w888">the</w> <w id="w889">lateral</w> <w id="w890">membranes</w> <w id="w891">of</w> <w id="w892">cells</w> <w id="w893">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e234" gid="g228" t="Gene/protein/RNA" fr="w857" to="w857" nam="yes">
+     <textspan type="extent">VE-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.57.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e235" gid="g229" t="Gene/protein/RNA" fr="w862" to="w862" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.57.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e236" gid="g230" t="Gene/protein/RNA" fr="w859" to="w859" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.57.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

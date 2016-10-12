@@ -1,0 +1,57 @@
+<rexml>
+<doc id="754">
+  <text>
+<p><s id="s1"><w id="w11708">Increasing</w> <w id="w11709">the</w> <w id="w11710">ionic</w> <w id="w11711">strength</w> <w id="w11712">within</w> <w id="w11713">a</w> <w id="w11714">relatively</w> <w id="w11715">narrow</w> <w id="w11716">range</w> <w id="w11717">significantly</w> <w id="w11718">decreased</w> <w id="w11719">ability</w> <w id="w11720">of</w> <w id="w11721">talin</w> <w id="w11722">to</w> <w id="w11723">bind</w> <w id="w11724">to</w> <w id="w11725">actin</w> <w id="w11726">,</w> <w id="w11727">regardless</w> <w id="w11728">of</w> <w id="w11729">pH</w> <w id="w11730">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2734" gid="g2619" t="Individual_protein" fr="w11721" to="w11721" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.754.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2735" gid="g2620" t="RELATIONSHIP_TEXTBINDING" fr="w11723" to="w11724">
+     <textspan type="extent">bind to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.754.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2736" gid="g2621" t="Individual_protein" fr="w11725" to="w11725" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.754.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1043" t="BIND" e1="e2734" e2="e2736" re="e2735">
+     <textspan type="extent">talin to bind to actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.754.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,57 @@
+<rexml>
+<doc id="2153">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w33518" g="w33519" t="s" cr="s+subj:w33519" w="We" l="~" p="N"/>
+     <dpg d="w33519" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="show" l="~" p="V"/>
+     <dpg d="E4" g="w33519" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E4" g="w33518" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w33520" g="w33519" t="guest" cr="guest:w33519" w="here" l="~" p="N"/>
+     <dpg d="E0" g="w33519" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w33521" g="E0" t="c" cr="c:w33527" w="that" l="~" p="COMP"/>
+     <dpg d="w33522" g="w33523" t="det" cr="det:w33523" w="the" l="~" p="Det"/>
+     <dpg d="w33523" g="w33527" t="s" cr="s:w33527||subj:w33529" w="phenotype" l="~" p="N"/>
+     <dpg d="w33524" g="w33523" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33525" g="w33526" t="nn" cr="nn:w33526" w="ts" l="T" p="N"/>
+     <dpg d="w33526" g="w33524" t="pcomp-n" cr="mod*of*n:w33523" w="cut2-364" l="cut2-364" p="N"/>
+     <dpg d="w33527" g="E0" t="i" cr="fc:w33519" w="is" l="be" p="VBE"/>
+     <dpg d="E5" g="w33529" t="subj" cr="" w="" l="phenotype" p="N"/>
+     <dpg d="E5" g="w33523" t="antecedent" cr="" w="" l="phenotype" p="N"/>
+     <dpg d="w33528" g="w33529" t="mod" cr="mod:w33529" w="highly" l="~" p="A"/>
+     <dpg d="w33529" g="w33527" t="pred" cr="pred:w33527" w="similar" l="~" p="A"/>
+     <dpg d="w33530" g="w33529" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w33531" g="w33530" t="pcomp-n" cr="mod*to*n:w33529" w="that" l="~" p="N"/>
+     <dpg d="w33532" g="w33527" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33533" g="w33532" t="pcomp-n" cr="mod*of*n:w33527" w="cut1" l="~" p="N"/>
+     <dpg d="w33534" g="w33533" t="punc" cr="punc:w33533" w="and" l="~" p="U"/>
+     <dpg d="w33535" g="w33533" t="conj" cr="conj:w33533" w="that" l="~" p="N"/>
+     <dpg d="w33536" g="w33537" t="det" cr="det:w33537" w="the" l="~" p="Det"/>
+     <dpg d="w33537" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="functions" l="function" p="N"/>
+     <dpg d="w33538" g="w33537" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33539" g="w33541" t="det" cr="det:w33541" w="the" l="~" p="Det"/>
+     <dpg d="w33540" g="w33541" t="nn" cr="nn:w33541" w="gene" l="~" p="N"/>
+     <dpg d="w33541" g="w33538" t="pcomp-n" cr="mod*of*n:w33537" w="products" l="product" p="N"/>
+     <dpg d="w33542" g="w33541" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33543" g="w33542" t="pcomp-n" cr="mod*of*n:w33541" w="cut1+" l="~" p="N"/>
+     <dpg d="w33544" g="w33543" t="punc" cr="punc:w33543" w="and" l="~" p="U"/>
+     <dpg d="w33545" g="w33543" t="conj" cr="conj:w33543" w="cut2+" l="~" p="N"/>
+     <dpg d="w33546" g="E3" t="punc" cr="punc:E3" w="are" l="~" p="U"/>
+     <dpg d="w33547" g="w33548" t="mod" cr="mod:w33548" w="closely" l="~" p="A"/>
+     <dpg d="w33548" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="interrelated" l="~" p="A"/>
+     <dpg d="w33549" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

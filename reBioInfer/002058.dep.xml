@@ -1,0 +1,64 @@
+<rexml>
+<doc id="2058">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32613" g="w32614" t="s" cr="s+subj:w32614" w="We" l="~" p="N"/>
+     <dpg d="w32614" g="E2" t="i" cr="UNSPECRELTYPE:E4" w="find" l="~" p="V"/>
+     <dpg d="E5" g="w32614" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E5" g="w32613" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w32615" g="w32616" t="det" cr="det:w32616" w="that" l="~" p="Det"/>
+     <dpg d="w32616" g="w32614" t="obj" cr="obj:w32614" w="heterozygotes" l="~" p="N"/>
+     <dpg d="w32617" g="w32616" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w32618" g="w32620" t="nn" cr="nn:w32620" w="actin" l="~" p="N"/>
+     <dpg d="w32619" g="w32620" t="punc" cr="punc:w32620" w="(" l="~" p="U"/>
+     <dpg d="w32620" g="w32617" t="pcomp-n" cr="mod*for*n:w32616" w="Act88F" l="~" p="N"/>
+     <dpg d="w32621" g="w32620" t="punc" cr="punc:w32620" w=")" l="~" p="U"/>
+     <dpg d="w32622" g="w32620" t="punc" cr="punc:w32620" w="or" l="~" p="U"/>
+     <dpg d="w32623" g="w32624" t="nn" cr="nn:w32624" w="myosin" l="~" p="N"/>
+     <dpg d="w32624" g="w32620" t="conj" cr="conj:w32620" w="heavy" l="~" p="N"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32625" g="w32630" t="nn" cr="nn:w32630" w="chain" l="~" p="N"/>
+     <dpg d="w32626" g="w32630" t="punc" cr="punc:w32630" w="(" l="~" p="U"/>
+     <dpg d="w32627" g="w32630" t="nn" cr="nn:w32630" w="Mhc36B" l="~" p="N"/>
+     <dpg d="w32628" g="w32630" t="punc" cr="punc:w32630" w=")" l="~" p="U"/>
+     <dpg d="w32629" g="w32630" t="mod" cr="mod:w32630" w="null" l="~" p="A"/>
+     <dpg d="w32630" g="w32631" t="s" cr="s+subj:w32631" w="alleles" l="allele" p="N"/>
+     <dpg d="w32631" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="have" l="~" p="V"/>
+     <dpg d="E6" g="w32631" t="subj" cr="" w="" l="allele" p="N"/>
+     <dpg d="E6" g="w32630" t="antecedent" cr="" w="" l="allele" p="N"/>
+     <dpg d="w32632" g="w32634" t="mod" cr="mod:w32634" w="complex" l="~" p="A"/>
+     <dpg d="w32633" g="w32634" t="mod" cr="mod:w32634" w="myofibrillar" l="~" p="A"/>
+     <dpg d="w32634" g="w32631" t="obj" cr="obj:w32631" w="defects" l="defect" p="N"/>
+     <dpg d="w32635" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="w32636" g="E4" t="punc" cr="punc:E4" w="whereas" l="~" p="U"/>
+     <dpg d="w32637" g="w32638" t="lex-mod" cr="lex-mod:w32638" w="Mhc36B" l="~" p="U"/>
+     <dpg d="w32638" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="-/+" l="Mhc36B -/+" p="N"/>
+     <dpg d="w32639" g="E4" t="punc" cr="punc:E4" w=";" l="~" p="U"/>
+     <dpg d="E0" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32640" g="w32641" t="lex-mod" cr="lex-mod:w32641" w="Act88F" l="~" p="U"/>
+     <dpg d="w32641" g="w32643" t="mod" cr="mod:w32643" w="-/+" l="Act88F -/+" p="A"/>
+     <dpg d="w32642" g="w32643" t="mod" cr="mod:w32643" w="double" l="~" p="A"/>
+     <dpg d="w32643" g="w32644" t="s" cr="s+subj:w32644" w="heterozygotes" l="~" p="N"/>
+     <dpg d="w32644" g="E0" t="i" cr="UNSPECRELTYPE:E4" w="have" l="~" p="V"/>
+     <dpg d="E7" g="w32644" t="subj" cr="" w="" l="heterozygotes" p="N"/>
+     <dpg d="E7" g="w32643" t="antecedent" cr="" w="" l="heterozygotes" p="N"/>
+     <dpg d="w32645" g="w32646" t="mod" cr="mod:w32646" w="nearly" l="~" p="A"/>
+     <dpg d="w32646" g="w32647" t="mod" cr="mod:w32647" w="normal" l="~" p="A"/>
+     <dpg d="w32647" g="w32644" t="obj" cr="obj:w32644" w="myofibrils" l="myofibril" p="N"/>
+     <dpg d="w32648" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

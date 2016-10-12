@@ -1,0 +1,96 @@
+<rexml>
+<doc id="698">
+  <text>
+<p><s id="s1"><w id="w10783">In</w> <w id="w10784">Acanthamoeba</w> <w id="w10785">,</w> <w id="w10786">the</w> <w id="w10787">two</w> <w id="w10788">isoforms</w> <w id="w10789">of</w> <w id="w10790">profilin</w> <w id="w10791">may</w> <w id="w10792">have</w> <w id="w10793">specialized</w> <w id="w10794">functions</w> <w id="w10795">on</w> <w id="w10796">the</w> <w id="w10797">basis</w> <w id="w10798">of</w> <w id="w10799">their</w> <w id="w10800">identical</w> <w id="w10801">(</w> <w id="w10802">approximately</w> <w id="w10803">10</w> <w id="w10804">microM</w> <w id="w10805">)</w> <w id="w10806">affinities</w> <w id="w10807">for</w> <w id="w10808">actin</w> <w id="w10809">monomers</w> <w id="w10810">and</w> <w id="w10811">different</w> <w id="w10812">affinities</w> <w id="w10813">for</w> <w id="w10814">PIP2</w> <w id="w10815">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2528" gid="g2424" t="Individual_protein" fr="w10788" to="w10790" nam="yes">
+     <textspan type="extent">isoforms of profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.698.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2529" gid="g2425" t="Individual_protein" fr="w10790" to="w10790" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.698.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2530" gid="g2426" t="Individual_protein" fr="w10808" to="w10809" nam="yes">
+     <textspan type="extent">actin monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.698.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2531" gid="g2424" t="Individual_protein" fr="w10799" to="w10799" nam="yes">
+     <textspan type="extent">their</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.698.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2532" gid="g2427" t="RELATIONSHIP_TEXTBINDING" fr="w10806" to="w10807">
+     <textspan type="extent">affinities for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.698.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2533" gid="g2428" t="Individual_protein" fr="w10808" to="w10808" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.698.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r969" t="BIND" e1="e2531" e2="e2530" re="e2532">
+     <textspan type="extent">their identical ( approximately 10 microM ) affinities for actin monomers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.698.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

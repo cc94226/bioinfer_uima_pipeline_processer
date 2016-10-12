@@ -1,0 +1,133 @@
+<rexml>
+<doc id="509">
+  <text>
+<p><s id="s1"><w id="w7034">For</w> <w id="w7035">example</w> <w id="w7036">,</w> <w id="w7037">it</w> <w id="w7038">is</w> <w id="w7039">associated</w> <w id="w7040">with</w> <w id="w7041">alpha-catenin</w> <w id="w7042">and</w> <w id="w7043">beta-catenin</w> <w id="w7044">(</w> <w id="w7045">Armadillo</w> <w id="w7046">)</w> <w id="w7047">,</w> <w id="w7048">and</w> <w id="w7049">protected</w> <w id="w7050">from</w> <w id="w7051">trypsin</w> <w id="w7052">digestion</w> <w id="w7053">only</w> <w id="w7054">in</w> <w id="w7055">the</w> <w id="w7056">presence</w> <w id="w7057">of</w> <w id="w7058">Ca2+</w> <w id="w7059">,</w> <w id="w7060">as</w> <w id="w7061">is</w> <w id="w7062">the</w> <w id="w7063">case</w> <w id="w7064">for</w> <w id="w7065">many</w> <w id="w7066">of</w> <w id="w7067">classic</w> <w id="w7068">cadherins</w> <w id="w7069">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1684" gid="g1613" t="RELATIONSHIP_TEXTBINDING" fr="w7039" to="w7064">
+     <textspan type="extent">associated with [..] as is the case for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.509.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1685" gid="g1614" t="Individual_protein" fr="w7041" to="w7041" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.509.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1686" gid="g1615" t="RELATIONSHIP_TEXTBINDING" fr="w7052" to="w7052">
+     <textspan type="extent">digestion</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.509.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1687" gid="g1616" t="RELATIONSHIP_TEXTBINDING" fr="w7049" to="w7064">
+     <textspan type="extent">protected from [..] as is the case for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.509.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1688" gid="g1617" t="Individual_protein" fr="w7051" to="w7051" nam="yes">
+     <textspan type="extent">trypsin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.509.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1689" gid="g1618" t="Individual_protein" fr="w7045" to="w7045" nam="yes">
+     <textspan type="extent">Armadillo</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.509.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1690" gid="g1619" t="Individual_protein" fr="w7068" to="w7068" nam="yes">
+     <textspan type="extent">cadherins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.509.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1691" gid="g1618" t="Individual_protein" fr="w7043" to="w7043" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.509.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r665" t="BIND" e1="e1690" e2="e1685" re="e1684">
+     <textspan type="extent">associated with alpha-catenin and beta-catenin ( Armadillo ) , and protected from trypsin digestion only in the presence of Ca2+ , as is the case for many of classic cadherins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.509.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r666" t="BIND" e1="e1690" e2="e1691" re="e1684">
+     <textspan type="extent">associated with alpha-catenin and beta-catenin ( Armadillo ) , and protected from trypsin digestion only in the presence of Ca2+ , as is the case for many of classic cadherins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.509.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r668" t="CLEAVE" e1="e1688" e2="e1690" re="e1686">
+     <textspan type="extent">trypsin digestion only in the presence of Ca2+ , as is the case for many of classic cadherins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.509.2"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="CLEAVE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

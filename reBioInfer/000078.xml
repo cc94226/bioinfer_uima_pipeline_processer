@@ -1,0 +1,83 @@
+<rexml>
+<doc id="78">
+  <text>
+<p><s id="s1"><w id="w1222">All</w> <w id="w1223">of</w> <w id="w1224">the</w> <w id="w1225">experimental</w> <w id="w1226">data</w> <w id="w1227">were</w> <w id="w1228">quantitatively</w> <w id="w1229">accounted</w> <w id="w1230">for</w> <w id="w1231">on</w> <w id="w1232">the</w> <w id="w1233">basis</w> <w id="w1234">of</w> <w id="w1235">a</w> <w id="w1236">1:1</w> <w id="w1237">complex</w> <w id="w1238">between</w> <w id="w1239">profilin</w> <w id="w1240">and</w> <w id="w1241">monomeric</w> <w id="w1242">actin</w> <w id="w1243">with</w> <w id="w1244">a</w> <w id="w1245">Kr</w> <w id="w1246">between</w> <w id="w1247">4</w> <w id="w1248">and</w> <w id="w1249">9</w> <w id="w1250">microM</w> <w id="w1251">,</w> <w id="w1252">the</w> <w id="w1253">same</w> <w id="w1254">value</w> <w id="w1255">obtained</w> <w id="w1256">previously</w> <w id="w1257">in</w> <w id="w1258">the</w> <w id="w1259">absence</w> <w id="w1260">of</w> <w id="w1261">MgCl2</w> <w id="w1262">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e322" gid="g313" t="RELATIONSHIP_TEXTBINDING" fr="w1237" to="w1238">
+     <textspan type="extent">complex between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.78.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e323" gid="g314" t="Individual_protein" fr="w1239" to="w1239" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.78.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e324" gid="g315" t="Protein_complex" fr="w1237" to="w1242" nam="yes">
+     <textspan type="extent">complex between profilin and [..] actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.78.2"/>
+      <exattr n="nst" v="st.78.15.0"/>
+      <exattr n="nst" v="st.78.16.0"/>
+      <exattr n="nst" v="st.78.17.0"/>
+      <exattr n="nst" v="st.78.18.0"/>
+      <exattr n="nst" v="st.78.20.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e325" gid="g316" t="Individual_protein" fr="w1242" to="w1242" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.78.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r112" t="CONTAIN" e1="e324" e2="e323" re="e322">
+     <textspan type="extent">complex between profilin and monomeric actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.78.0"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r113" t="CONTAIN" e1="e324" e2="e325" re="e322">
+     <textspan type="extent">complex between profilin and monomeric actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.78.0"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

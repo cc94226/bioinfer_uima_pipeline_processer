@@ -1,0 +1,93 @@
+<rexml>
+<doc id="539">
+  <text>
+<p><s id="s1"><w id="w7521">Further</w> <w id="w7522">,</w> <w id="w7523">we</w> <w id="w7524">show</w> <w id="w7525">that</w> <w id="w7526">talin</w> <w id="w7527">,</w> <w id="w7528">a</w> <w id="w7529">high</w> <w id="w7530">molecular</w> <w id="w7531">weight</w> <w id="w7532">structural</w> <w id="w7533">protein</w> <w id="w7534">that</w> <w id="w7535">links</w> <w id="w7536">integrins</w> <w id="w7537">to</w> <w id="w7538">the</w> <w id="w7539">actin</w> <w id="w7540">cytoskeleton</w> <w id="w7541">,</w> <w id="w7542">is</w> <w id="w7543">proteolytically</w> <w id="w7544">cleaved</w> <w id="w7545">in</w> <w id="w7546">fetal</w> <w id="w7547">,</w> <w id="w7548">but</w> <w id="w7549">not</w> <w id="w7550">in</w> <w id="w7551">neonatal</w> <w id="w7552">melanocytes</w> <w id="w7553">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1793" gid="g1721" t="Individual_protein" fr="w7526" to="w7526" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.539.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1794" gid="g1722" t="Cell_component" fr="w7539" to="w7540" nam="yes">
+     <textspan type="extent">actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.539.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1795" gid="g1723" t="Individual_protein" fr="w7539" to="w7539" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.539.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1796" gid="g1724" t="Individual_protein" fr="w7536" to="w7536" nam="yes">
+     <textspan type="extent">integrins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.539.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1797" gid="g1725" t="RELATIONSHIP_TEXTBINDING" fr="w7535" to="w7535">
+     <textspan type="extent">links</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.539.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1798" gid="g1726" t="RELATIONSHIP_TEXTBINDING" fr="w7535" to="w7537">
+     <textspan type="extent">links [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.539.5"/>
+      <exattr n="nst" v="st.539.14.0"/>
+      <exattr n="nst" v="st.539.16.0"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r701" t="CAUSE" e1="e1793" e2="e1798" re="e1797">
+     <textspan type="extent">talin , a high molecular weight structural protein that links integrins to the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.539.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r702" t="RELATE" e1="e1796" e2="e1794" re="e1798">
+     <textspan type="extent">links integrins to the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.539.5"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

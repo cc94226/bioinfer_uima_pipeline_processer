@@ -1,0 +1,195 @@
+<rexml>
+<doc id="1004">
+  <text>
+<p><s id="s1"><w id="w15922">Most</w> <w id="w15923">of</w> <w id="w15924">these</w> <w id="w15925">integrins</w> <w id="w15926">,</w> <w id="w15927">with</w> <w id="w15928">their</w> <w id="w15929">intracellular</w> <w id="w15930">domains</w> <w id="w15931">,</w> <w id="w15932">interact</w> <w id="w15933">with</w> <w id="w15934">the</w> <w id="w15935">actin</w><w id="w15936">-containing</w> <w id="w15937">cytoskeleton</w> <w id="w15938">,</w> <w id="w15939">via</w> <w id="w15940">linking</w> <w id="w15941">proteins</w> <w id="w15942">such</w> <w id="w15943">as</w> <w id="w15944">vinculin</w> <w id="w15945">and</w> <w id="w15946">talin</w> <w id="w15947">,</w> <w id="w15948">while</w> <w id="w15949">one</w> <w id="w15950">of</w> <w id="w15951">them</w> <w id="w15952">interacts</w> <w id="w15953">with</w> <w id="w15954">the</w> <w id="w15955">keratin</w> <w id="w15956">filaments</w> <w id="w15957">,</w> <w id="w15958">via</w> <w id="w15959">an</w> <w id="w15960">as</w> <w id="w15961">yet</w> <w id="w15962">unknown</w> <w id="w15963">linking</w> <w id="w15964">molecule(s)</w> <w id="w15965">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3628" gid="g3477" t="Individual_protein" fr="w15925" to="w15925" nam="yes">
+     <textspan type="extent">integrins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1004.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3629" gid="g3478" t="RELATIONSHIP_TEXTBINDING" fr="w15932" to="w15933">
+     <textspan type="extent">interact with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1004.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3630" gid="g3479" t="RELATIONSHIP_TEXTBINDING" fr="w15939" to="w15939">
+     <textspan type="extent">via</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1004.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3631" gid="g3480" t="Cell_component" fr="w15935" to="w15937" nam="yes">
+     <textspan type="extent">actin-containing cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1004.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3632" gid="g3481" t="Cell_component" fr="w15955" to="w15956" nam="yes">
+     <textspan type="extent">keratin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1004.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3633" gid="g3482" t="Individual_protein" fr="w15946" to="w15946" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1004.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3634" gid="g3477" t="Individual_protein" fr="w15951" to="w15951" nam="yes">
+     <textspan type="extent">them</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1004.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3635" gid="g3483" t="Individual_protein" fr="w15944" to="w15944" nam="yes">
+     <textspan type="extent">vinculin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1004.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e3636" gid="g3484" t="RELATIONSHIP_TEXTBINDING" fr="w15952" to="w15953">
+     <textspan type="extent">interacts with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1004.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e3637" gid="g3485" t="Individual_protein" fr="w15935" to="w15935" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1004.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e3638" gid="g3486" t="Individual_protein" fr="w15955" to="w15955" nam="yes">
+     <textspan type="extent">keratin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1004.10"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1375" t="MEDIATE" e1="e3635" e2="e3629" re="e3630">
+     <textspan type="extent">integrins , with their intracellular domains , interact with the actin -containing cytoskeleton , via linking proteins such as vinculin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1004.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1376" t="INTERACT" e1="e3628" e2="e3631" re="e3629">
+     <textspan type="extent">integrins , with their intracellular domains , interact with the actin -containing cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1004.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1377" t="MEDIATE" e1="e3633" e2="e3629" re="e3630">
+     <textspan type="extent">integrins , with their intracellular domains , interact with the actin -containing cytoskeleton , via linking proteins such as vinculin and talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1004.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1378" t="INTERACT" e1="e3628" e2="e3631" re="e3629">
+     <textspan type="extent">integrins , with their intracellular domains , interact with the actin -containing cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1004.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1379" t="RELATE" e1="e3628" e2="e3635" re="e3630">
+     <textspan type="extent">integrins , with their intracellular domains , interact with the actin -containing cytoskeleton , via linking proteins such as vinculin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1004.2"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1380" t="RELATE" e1="e3628" e2="e3633" re="e3630">
+     <textspan type="extent">integrins , with their intracellular domains , interact with the actin -containing cytoskeleton , via linking proteins such as vinculin and talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1004.2"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1382" t="INTERACT" e1="e3634" e2="e3632" re="e3636">
+     <textspan type="extent">them interacts with the keratin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1004.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

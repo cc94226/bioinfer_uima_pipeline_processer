@@ -1,0 +1,131 @@
+<rexml>
+<doc id="2030">
+  
+  <markup>
+   <nes>
+    <ne id="e7366" gid="g7028" t="Individual_protein" fr="w32257" to="w32257" nam="yes" sid="s1">
+     <textspan>Aip1p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2030.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7373" gid="g7035" t="Individual_protein" fr="w32260" to="w32260" nam="yes" sid="s1">
+     <textspan>cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2030.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7368" gid="g7030" t="Dynamics_property" fr="w32269" to="w32271" sid="s1">
+     <textspan>activity of cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.2030.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7374" gid="g7036" t="Individual_protein" fr="w32271" to="w32271" nam="yes" sid="s1">
+     <textspan>cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2030.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e7371" gid="g7033" t="Individual_protein" fr="w32274" to="w32274" nam="yes" sid="s1">
+     <textspan>cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2030.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7370" gid="g7032" t="Cell_component" fr="w32278" to="w32279" nam="yes" sid="s1">
+     <textspan>actin patches</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.2030.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7375" gid="g7037" t="Individual_protein" fr="w32278" to="w32278" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2030.9"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2820" t="BIND" e1="e7366" e2="e7373" re="e7367">
+     <textspan>Aip1p is a cofilin - associated</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2030.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2821" t="ACTIVATE" e1="e7366" e2="e7368" re="e7369">
+     <textspan>Aip1p is a cofilin - associated protein that enhances the filament disassembly activity of cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2030.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="ACTIVATE"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2823" t="LOCALIZE-TO" e1="e7371" e2="e7370" re="e7376">
+     <textspan>cofilin localization to cortical actin patches</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2030.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,46 @@
+<rexml>
+<doc id="321">
+  <text>
+<p><s id="s1"><w id="w4896">cDNA</w> <w id="w4897">clones</w> <w id="w4898">of</w> <w id="w4899">the</w> <w id="w4900">N</w> <w id="w4901">,</w> <w id="w4902">P</w> <w id="w4903">,</w> <w id="w4904">and</w> <w id="w4905">L</w> <w id="w4906">genes</w> <w id="w4907">were</w> <w id="w4908">constructed</w> <w id="w4909">in</w> <w id="w4910">pGEM-based</w> <w id="w4911">expression</w> <w id="w4912">plasmids</w> <w id="w4913">and</w> <w id="w4914">shown</w> <w id="w4915">to</w> <w id="w4916">direct</w> <w id="w4917">expression</w> <w id="w4918">of</w> <w id="w4919">the</w> <w id="w4920">appropriate</w> <w id="w4921">polypeptides</w> <w id="w4922">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1188" gid="g1132" t="Gene/protein/RNA" fr="w4900" to="w4900" nam="yes">
+     <textspan type="extent">N</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.321.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1189" gid="g1133" t="Gene/protein/RNA" fr="w4905" to="w4905" nam="yes">
+     <textspan type="extent">L</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.321.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1190" gid="g1134" t="Gene/protein/RNA" fr="w4902" to="w4902" nam="yes">
+     <textspan type="extent">P</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.321.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,499 @@
+<rexml>
+<doc id="93">
+  <text>
+<p><s id="s1"><w id="w1520">Although</w> <w id="w1521">neither</w> <w id="w1522">activation</w> <w id="w1523">of</w> <w id="w1524">BCK1</w> <w id="w1525">(</w> <w id="w1526">MEKK</w> <w id="w1527">)</w> <w id="w1528">by</w> <w id="w1529">the</w> <w id="w1530">dominant</w> <w id="w1531">BCK1-20</w> <w id="w1532">mutation</w> <w id="w1533">nor</w> <w id="w1534">increased</w> <w id="w1535">dosage</w> <w id="w1536">of</w> <w id="w1537">MKK1</w> <w id="w1538">(</w> <w id="w1539">MEK</w> <w id="w1540">)</w> <w id="w1541">or</w> <w id="w1542">MPK1</w> <w id="w1543">(</w> <w id="w1544">MAP</w> <w id="w1545">kinase</w> <w id="w1546">)</w> <w id="w1547">mimicked</w> <w id="w1548">PKC1</w> <w id="w1549">as</w> <w id="w1550">a</w> <w id="w1551">glc7-10</w> <w id="w1552">dosage</w> <w id="w1553">suppressor</w> <w id="w1554">,</w> <w id="w1555">extra</w> <w id="w1556">copies</w> <w id="w1557">of</w> <w id="w1558">genes</w> <w id="w1559">encoding</w> <w id="w1560">upstream</w> <w id="w1561">components</w> <w id="w1562">of</w> <w id="w1563">the</w> <w id="w1564">Pkc1p</w> <w id="w1565">pathway</w> <w id="w1566">such</w> <w id="w1567">as</w> <w id="w1568">ROM2</w> <w id="w1569">,</w> <w id="w1570">RHO2</w> <w id="w1571">,</w> <w id="w1572">HCS77</w><w id="w1573">/</w><w id="w1574">WSC1</w><w id="w1575">/</w><w id="w1576">SLG1</w> <w id="w1577">and</w> <w id="w1578">MID2</w> <w id="w1579">also</w> <w id="w1580">suppressed</w> <w id="w1581">glc7-10</w> <w id="w1582">effectively</w> <w id="w1583">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e384" gid="g372" t="Gene" fr="w1531" to="w1531" nam="yes">
+     <textspan type="extent">BCK1-20</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.93.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e385" gid="g373" t="Individual_protein" fr="w1564" to="w1564" nam="yes">
+     <textspan type="extent">Pkc1p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.93.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e386" gid="g374" t="RELATIONSHIP_TEXTBINDING" fr="w1522" to="w1528">
+     <textspan type="extent">activation of [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.93.2"/>
+      <exattr n="nst" v="st.93.2.0"/>
+      <exattr n="nst" v="st.93.3.0"/>
+      <exattr n="nst" v="st.93.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e387" gid="g375" t="RELATIONSHIP_TEXTBINDING" fr="w1547" to="w1553">
+     <textspan type="extent">mimicked [..] as [..] suppressor</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.93.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e388" gid="g376" t="RELATIONSHIP_TEXTBINDING" fr="w1580" to="w1580">
+     <textspan type="extent">suppressed</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.93.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e389" gid="g377" t="RELATIONSHIP_TEXTBINDING" fr="w1559" to="w1559">
+     <textspan type="extent">encoding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.93.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e390" gid="g378" t="RELATIONSHIP_TEXTBINDING" fr="w1533" to="w1533">
+     <textspan type="extent">nor</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.93.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e391" gid="g379" t="Gene" fr="w1524" to="w1524" nam="yes">
+     <textspan type="extent">BCK1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.93.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e392" gid="g380" t="Gene" fr="w1537" to="w1537" nam="yes">
+     <textspan type="extent">MKK1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.93.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e393" gid="g381" t="MODIFICATION" fr="w1531" to="w1532">
+     <textspan type="extent">BCK1-20 mutation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.93.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e394" gid="g382" t="Gene" fr="w1548" to="w1548" nam="yes">
+     <textspan type="extent">PKC1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.93.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e395" gid="g383" t="Gene" fr="w1542" to="w1542" nam="yes">
+     <textspan type="extent">MPK1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.93.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e396" gid="g384" t="Gene" fr="w1568" to="w1568" nam="yes">
+     <textspan type="extent">ROM2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.93.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e397" gid="g385" t="Individual_protein" fr="w1561" to="w1565" nam="yes">
+     <textspan type="extent">components of the Pkc1p pathway</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.93.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e398" gid="g386" t="Gene" fr="w1572" to="w1572" nam="yes">
+     <textspan type="extent">HCS77</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.93.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e399" gid="g387" t="Gene" fr="w1570" to="w1570" nam="yes">
+     <textspan type="extent">RHO2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.93.15"/>
+     </exattrs>
+    </ne>
+    <ne id="e400" gid="g388" t="Gene" fr="w1581" to="w1581" nam="yes">
+     <textspan type="extent">glc7-10</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.93.16"/>
+     </exattrs>
+    </ne>
+    <ne id="e401" gid="g389" t="Gene" fr="w1578" to="w1578" nam="yes">
+     <textspan type="extent">MID2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.93.17"/>
+     </exattrs>
+    </ne>
+    <ne id="e402" gid="g386" t="Gene" fr="w1574" to="w1574" nam="yes">
+     <textspan type="extent">WSC1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.93.18"/>
+     </exattrs>
+    </ne>
+    <ne id="e403" gid="g390" t="Gene" fr="w1551" to="w1551" nam="yes">
+     <textspan type="extent">glc7-10</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.93.19"/>
+     </exattrs>
+    </ne>
+    <ne id="e404" gid="g391" t="DNA_family_or_group" fr="w1526" to="w1526" nam="yes">
+     <textspan type="extent">MEKK</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="DNA_family_or_group"/>
+      <exattr n="bd" v="e.93.20"/>
+     </exattrs>
+    </ne>
+    <ne id="e405" gid="g386" t="Gene" fr="w1576" to="w1576" nam="yes">
+     <textspan type="extent">SLG1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.93.21"/>
+     </exattrs>
+    </ne>
+    <ne id="e406" gid="g392" t="DNA_family_or_group" fr="w1544" to="w1545" nam="yes">
+     <textspan type="extent">MAP kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="DNA_family_or_group"/>
+      <exattr n="bd" v="e.93.22"/>
+     </exattrs>
+    </ne>
+    <ne id="e407" gid="g393" t="DNA_family_or_group" fr="w1539" to="w1539" nam="yes">
+     <textspan type="extent">MEK</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="DNA_family_or_group"/>
+      <exattr n="bd" v="e.93.23"/>
+     </exattrs>
+    </ne>
+    <ne id="e408" gid="g394" t="Amount_property" fr="w1535" to="w1542">
+     <textspan type="extent">dosage of [..] MPK1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.93.24"/>
+      <exattr n="nst" v="st.93.15.0"/>
+      <exattr n="nst" v="st.93.16.0"/>
+      <exattr n="nst" v="st.93.22.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e409" gid="g395" t="Amount_property" fr="w1535" to="w1537">
+     <textspan type="extent">dosage of MKK1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.93.25"/>
+     </exattrs>
+    </ne>
+    <ne id="e410" gid="g396" t="Process_entity" fr="w1563" to="w1565">
+     <textspan type="extent">the Pkc1p pathway</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.93.26"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r138" t="MEMBER" e1="e404" e2="e391" re="">
+     <textspan type="extent">BCK1 ( MEKK</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r139" t="MEMBER" e1="e407" e2="e392" re="">
+     <textspan type="extent">MKK1 ( MEK</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r140" t="MEMBER" e1="e406" e2="e395" re="">
+     <textspan type="extent">MPK1 ( MAP kinase</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r141" t="DOWNREGULATE" e1="e394" e2="e403" re="e387">
+     <textspan type="extent">mimicked PKC1 as a glc7-10 dosage suppressor</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.93.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="DOWNREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r143" t="DOWNREGULATE" e1="e386" e2="e403" re="e387">
+     <textspan type="extent">activation of BCK1 ( MEKK ) by the dominant BCK1-20 mutation nor increased dosage of MKK1 ( MEK ) or MPK1 ( MAP kinase ) mimicked PKC1 as a glc7-10 dosage suppressor</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.93.3"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="DOWNREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r144" t="ACTIVATE" e1="e393" e2="e391" re="e386">
+     <textspan type="extent">activation of BCK1 ( MEKK ) by the dominant BCK1-20 mutation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.93.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="ACTIVATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r146" t="DOWNREGULATE" e1="e409" e2="e403" re="e387">
+     <textspan type="extent">dosage of MKK1 ( MEK ) or MPK1 ( MAP kinase ) mimicked PKC1 as a glc7-10 dosage suppressor</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.93.3"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="DOWNREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r148" t="DOWNREGULATE" e1="e408" e2="e403" re="e387">
+     <textspan type="extent">dosage of MKK1 ( MEK ) or MPK1 ( MAP kinase ) mimicked PKC1 as a glc7-10 dosage suppressor</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.93.3"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="DOWNREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r149" t="ENCODE" e1="e396" e2="e397" re="e389">
+     <textspan type="extent">encoding upstream components of the Pkc1p pathway such as ROM2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.93.5"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+    <rel id="r150" t="ENCODE" e1="e399" e2="e397" re="e389">
+     <textspan type="extent">encoding upstream components of the Pkc1p pathway such as ROM2 , RHO2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.93.5"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+    <rel id="r151" t="ENCODE" e1="e398" e2="e397" re="e389">
+     <textspan type="extent">encoding upstream components of the Pkc1p pathway such as ROM2 , RHO2 , HCS77</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.93.5"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+    <rel id="r152" t="ENCODE" e1="e401" e2="e397" re="e389">
+     <textspan type="extent">encoding upstream components of the Pkc1p pathway such as ROM2 , RHO2 , HCS77 / WSC1 / SLG1 and MID2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.93.5"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+    <rel id="r155" t="DOWNREGULATE" e1="e396" e2="e400" re="e388">
+     <textspan type="extent">ROM2 , RHO2 , HCS77 / WSC1 / SLG1 and MID2 also suppressed glc7-10</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.93.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="DOWNREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r156" t="DOWNREGULATE" e1="e399" e2="e400" re="e388">
+     <textspan type="extent">RHO2 , HCS77 / WSC1 / SLG1 and MID2 also suppressed glc7-10</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.93.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="DOWNREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r157" t="DOWNREGULATE" e1="e398" e2="e400" re="e388">
+     <textspan type="extent">HCS77 / WSC1 / SLG1 and MID2 also suppressed glc7-10</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.93.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="DOWNREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r158" t="DOWNREGULATE" e1="e401" e2="e400" re="e388">
+     <textspan type="extent">MID2 also suppressed glc7-10</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.93.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="DOWNREGULATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

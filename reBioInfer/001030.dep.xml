@@ -1,0 +1,55 @@
+<rexml>
+<doc id="1030">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w16318" g="w16319" t="mod" cr="mod:w16319" w="Native" l="~" p="A"/>
+     <dpg d="w16319" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3||obj:w16321" w="profilin" l="~" p="N"/>
+     <dpg d="w16320" g="w16319" t="punc" cr="punc:w16319" w="," l="~" p="U"/>
+     <dpg d="w16321" g="w16319" t="vrel" cr="vrel:w16319" w="purified" l="purify" p="V"/>
+     <dpg d="E4" g="w16321" t="obj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E4" g="w16319" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w16322" g="w16321" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w16323" g="w16322" t="pcomp-n" cr="mod*from*n:w16321" w="extracts" l="extract" p="N"/>
+     <dpg d="w16324" g="w16323" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w16325" g="w16327" t="nn" cr="nn:w16327" w="lung" l="~" p="N"/>
+     <dpg d="w16326" g="w16327" t="lex-mod" cr="lex-mod:w16327" w="epithelial" l="~" p="U"/>
+     <dpg d="w16327" g="w16324" t="pcomp-n" cr="mod*of*n:w16323" w="cells" l="epithelial cell" p="N"/>
+     <dpg d="w16328" g="w16327" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w16329" g="w16328" t="pcomp-n" cr="mod*by*n:w16327||s+subj:w16330" w="affinity" l="~" p="N"/>
+     <dpg d="E0" g="w16329" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E1" g="w16329" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w16330" g="E0" t="i" cr="rel:w16329" w="binding" l="bind" p="V"/>
+     <dpg d="E5" g="w16330" t="subj" cr="" w="" l="affinity" p="N"/>
+     <dpg d="E5" g="E1" t="antecedent" cr="" w="" l="affinity" p="N"/>
+     <dpg d="w16331" g="w16330" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w16332" g="w16334" t="det" cr="det:w16334" w="a" l="~" p="Det"/>
+     <dpg d="w16333" g="w16334" t="mod" cr="mod:w16334" w="poly-L-proline" l="poly-L-proline" p="A"/>
+     <dpg d="w16334" g="w16331" t="pcomp-n" cr="mod*to*n:w16330" w="matrix" l="~" p="N"/>
+     <dpg d="w16335" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w16336" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="stimulated" l="~" p="A"/>
+     <dpg d="w16337" g="w16341" t="det" cr="det:w16341" w="the" l="~" p="Det"/>
+     <dpg d="w16338" g="w16339" t="lex-mod" cr="lex-mod:w16339" w="actin" l="~" p="U"/>
+     <dpg d="w16339" g="w16341" t="mod" cr="mod:w16341" w="-saturated" l="actin -saturated" p="A"/>
+     <dpg d="w16340" g="w16341" t="nn" cr="nn:w16341" w="RSV" l="~" p="N"/>
+     <dpg d="w16341" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="transcription" l="~" p="N"/>
+     <dpg d="w16342" g="w16341" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w16343" g="w16345" t="lex-mod" cr="lex-mod:w16345" w="2.5-" l="~" p="U"/>
+     <dpg d="w16344" g="w16345" t="lex-mod" cr="lex-mod:w16345" w="to" l="~" p="U"/>
+     <dpg d="w16345" g="w16342" t="pcomp-n" cr="mod*by*n:w16341" w="3-fold" l="2.5- to 3-fold" p="N"/>
+     <dpg d="w16346" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

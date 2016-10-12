@@ -1,0 +1,84 @@
+<rexml>
+<doc id="648">
+  
+  <markup>
+   <nes>
+    <ne id="e2316" gid="g2218" t="Individual_protein" fr="w9815" to="w9817" nam="yes" sid="s1">
+     <textspan>Human platelet P-235</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.648.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2320" gid="g2222" t="Individual_protein" fr="w9816" to="w9817" nam="yes" sid="s1">
+     <textspan>platelet P-235</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.648.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2319" gid="g2221" t="Individual_protein" fr="w9820" to="w9820" nam="yes" sid="s1">
+     <textspan>talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.648.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2318" gid="g2220" t="Protein_family_or_group" fr="w9823" to="w9825" nam="yes" sid="s1">
+     <textspan>actin binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.648.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r897" t="SIMILAR" e1="e2316" e2="e2319" re="e2317">
+     <textspan>Human platelet P-235 , a talin - like</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.648.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r898" t="MEMBER" e1="e2318" e2="e2316" re="">
+     <textspan>Human platelet P-235 , a talin - like actin binding protein</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

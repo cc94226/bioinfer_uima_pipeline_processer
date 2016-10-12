@@ -1,0 +1,121 @@
+<rexml>
+<doc id="1382">
+  <text>
+<p><s id="s1"><w id="w21554">The</w> <w id="w21555">assay</w> <w id="w21556">detects</w> <w id="w21557">the</w> <w id="w21558">high-affinity</w> <w id="w21559">binding</w> <w id="w21560">of</w> <w id="w21561">actin</w> <w id="w21562">to</w> <w id="w21563">actin-binding</w> <w id="w21564">proteins</w> <w id="w21565">(</w> <w id="w21566">ABPs</w> <w id="w21567">)</w> <w id="w21568">,</w> <w id="w21569">cofilin</w> <w id="w21570">or</w> <w id="w21571">DNase</w> <w id="w21572">I</w> <w id="w21573">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5012" gid="g4786" t="RELATIONSHIP_TEXTBINDING" fr="w21559" to="w21562">
+     <textspan type="extent">binding of [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1382.0"/>
+      <exattr n="nst" v="st.1382.5.0"/>
+      <exattr n="nst" v="st.1382.6.0"/>
+      <exattr n="nst" v="st.1382.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5013" gid="g4787" t="Individual_protein" fr="w21561" to="w21561" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1382.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5014" gid="g4788" t="Individual_protein" fr="w21569" to="w21569" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1382.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5015" gid="g4789" t="Individual_protein" fr="w21563" to="w21564" nam="yes">
+     <textspan type="extent">actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1382.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5016" gid="g4789" t="Individual_protein" fr="w21566" to="w21566" nam="yes">
+     <textspan type="extent">ABPs</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1382.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5017" gid="g4790" t="Individual_protein" fr="w21571" to="w21572" nam="yes">
+     <textspan type="extent">DNase I</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1382.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1921" t="BIND" e1="e5013" e2="e5014" re="e5012">
+     <textspan type="extent">binding of actin to actin-binding proteins ( ABPs ) , cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1382.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1922" t="BIND" e1="e5013" e2="e5017" re="e5012">
+     <textspan type="extent">binding of actin to actin-binding proteins ( ABPs ) , cofilin or DNase I</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1382.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1923" t="BIND" e1="e5013" e2="e5015" re="e5012">
+     <textspan type="extent">binding of actin to actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1382.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

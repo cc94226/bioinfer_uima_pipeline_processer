@@ -1,0 +1,83 @@
+<rexml>
+<doc id="53">
+  
+  <markup>
+   <nes>
+    <ne id="e223" gid="g217" t="Substructure_of_protein" fr="w795" to="w799" nam="yes" sid="s1">
+     <textspan>domain in glucocorticoid receptor monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.53.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e220" gid="g214" t="Individual_protein" fr="w797" to="w799" nam="yes" sid="s1">
+     <textspan>glucocorticoid receptor monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.53.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e225" gid="g219" t="Individual_protein" fr="w797" to="w798" nam="yes" sid="s1">
+     <textspan>glucocorticoid receptor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.53.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e218" gid="g212" t="Dynamics_property" fr="w804" to="w809" sid="s1">
+     <textspan>activity of [..] factor AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.53.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e219" gid="g213" t="Individual_protein" fr="w808" to="w809" nam="yes" sid="s1">
+     <textspan>factor AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.53.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e221" gid="g215" t="Individual_protein" fr="w809" to="w809" nam="yes" sid="s1">
+     <textspan>AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.53.5"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

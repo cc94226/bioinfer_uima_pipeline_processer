@@ -1,0 +1,64 @@
+<rexml>
+<doc id="235">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3523" g="w3524" t="mod" cr="mod:w3524" w="Birch" l="~" p="A"/>
+     <dpg d="w3524" g="w3525" t="s" cr="s+subj:w3525||s+subj:w3541" w="profilin" l="~" p="N"/>
+     <dpg d="w3525" g="E1" t="i" cr="" w="increased" l="increase" p="V"/>
+     <dpg d="E4" g="w3525" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E4" g="w3524" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w3526" g="w3528" t="det" cr="det:w3528" w="the" l="~" p="Det"/>
+     <dpg d="w3527" g="w3528" t="mod" cr="mod:w3528" w="critical" l="~" p="A"/>
+     <dpg d="w3528" g="w3525" t="obj" cr="obj:w3525||obj:w3529" w="concentration" l="~" p="N"/>
+     <dpg d="w3529" g="w3528" t="vrel" cr="vrel:w3528" w="required" l="require" p="V"/>
+     <dpg d="E5" g="w3529" t="obj" cr="" w="" l="concentration" p="N"/>
+     <dpg d="E5" g="w3528" t="antecedent" cr="" w="" l="concentration" p="N"/>
+     <dpg d="w3530" g="w3529" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w3531" g="w3530" t="pcomp-n" cr="mod*for*n:w3529" w="muscle" l="~" p="N"/>
+     <dpg d="w3532" g="w3531" t="punc" cr="punc:w3531" w="and" l="~" p="U"/>
+     <dpg d="w3533" g="w3535" t="nn" cr="nn:w3535" w="brain" l="~" p="N"/>
+     <dpg d="w3534" g="w3535" t="nn" cr="nn:w3535" w="actin" l="~" p="N"/>
+     <dpg d="w3535" g="w3531" t="conj" cr="conj:w3531" w="polymerization" l="~" p="N"/>
+     <dpg d="w3536" g="w3535" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w3537" g="w3539" t="det" cr="det:w3539" w="a" l="~" p="Det"/>
+     <dpg d="w3538" g="w3539" t="mod" cr="mod:w3539" w="concentration-dependent" l="concentration-dependent" p="A"/>
+     <dpg d="w3539" g="w3536" t="pcomp-n" cr="mod*in*n:w3535" w="manner" l="~" p="N"/>
+     <dpg d="w3540" g="w3529" t="punc" cr="punc:w3529" w="," l="~" p="U"/>
+     <dpg d="E0" g="w3529" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w3524" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w3541" g="E0" t="i" cr="mod:w3529" w="supporting" l="support" p="V"/>
+     <dpg d="E6" g="w3541" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w3542" g="w3543" t="det" cr="det:w3543" w="the" l="~" p="Det"/>
+     <dpg d="w3543" g="w3541" t="obj" cr="obj:w3541" w="notion" l="~" p="N"/>
+     <dpg d="w3544" g="w3543" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3545" g="w3546" t="det" cr="det:w3546" w="the" l="~" p="Det"/>
+     <dpg d="w3546" g="w3544" t="pcomp-n" cr="mod*of*n:w3543" w="formation" l="~" p="N"/>
+     <dpg d="w3547" g="w3546" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3548" g="w3550" t="det" cr="det:w3550" w="a" l="~" p="Det"/>
+     <dpg d="w3549" g="w3550" t="mod" cr="mod:w3550" w="heterologous" l="~" p="A"/>
+     <dpg d="w3550" g="w3547" t="pcomp-n" cr="mod*of*n:w3546" w="complex" l="~" p="N"/>
+     <dpg d="w3551" g="w3550" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w3552" g="w3554" t="det" cr="det:w3554" w="the" l="~" p="Det"/>
+     <dpg d="w3553" g="w3554" t="nn" cr="nn:w3554" w="plant" l="~" p="N"/>
+     <dpg d="w3554" g="w3551" t="pcomp-n" cr="mod*between*n:w3550" w="protein" l="~" p="N"/>
+     <dpg d="w3555" g="w3554" t="punc" cr="punc:w3554" w="and" l="~" p="U"/>
+     <dpg d="w3556" g="w3557" t="mod" cr="mod:w3557" w="animal" l="~" p="A"/>
+     <dpg d="w3557" g="w3554" t="conj" cr="conj:w3554" w="actin" l="~" p="N"/>
+     <dpg d="w3558" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

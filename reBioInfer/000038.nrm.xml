@@ -1,0 +1,155 @@
+<rexml>
+<doc id="38">
+  
+  <markup>
+   <nes>
+    <ne id="e163" gid="g160" t="Individual_protein" fr="w579" to="w579" nam="yes" sid="s1">
+     <textspan>CREB</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.38.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e168" gid="g165" t="Expression" fr="w581" to="w581" sid="s1">
+     <textspan>transcription</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.38.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e173" gid="g169" t="Individual_protein" fr="w591" to="w592" nam="yes" sid="s1">
+     <textspan>protein CREB-binding-protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.38.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e172" gid="g167" t="Individual_protein" fr="w592" to="w592" nam="yes" sid="s1">
+     <textspan>CREB-binding-protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.38.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e170" gid="g167" t="Individual_protein" fr="w594" to="w594" nam="yes" sid="s1">
+     <textspan>CBP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.38.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e175" gid="g171" t="Protein_complex" fr="w599" to="w601" nam="yes" sid="s1">
+     <textspan>CRE/CREB complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.38.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e174" gid="g170" t="Individual_protein" fr="w600" to="w600" nam="yes" sid="s1">
+     <textspan>CREB</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.38.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e171" gid="g168" t="Individual_protein" fr="w603" to="w603" nam="yes" sid="s1">
+     <textspan>components</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.38.8"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r61" t="INTERACT" e1="e163" e2="e173" re="e166">
+     <textspan>CREB effects transcription of CRE-dependent genes via interaction with the 265-kDa co-activator protein CREB-binding-protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.38.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r62" t="INITIATE" e1="e163" e2="e168" re="e169">
+     <textspan>CREB effects transcription</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.38.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r64" t="RELATE" e1="e175" e2="e171" re="e167">
+     <textspan>bridges the CRE/ CREB complex to components</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.38.4"/>
+      <exattr n="t1" v="RELATE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r65" t="CONTAIN" e1="e175" e2="e174" re="e164">
+     <textspan>CRE/ CREB complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.38.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

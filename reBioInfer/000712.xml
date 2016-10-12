@@ -1,0 +1,204 @@
+<rexml>
+<doc id="712">
+  <text>
+<p><s id="s1"><w id="w10980">In</w> <w id="w10981">addition</w> <w id="w10982">,</w> <w id="w10983">we</w> <w id="w10984">also</w> <w id="w10985">provide</w> <w id="w10986">new</w> <w id="w10987">evidence</w> <w id="w10988">to</w> <w id="w10989">suggest</w> <w id="w10990">that</w> <w id="w10991">HRG</w> <w id="w10992">stimulation</w> <w id="w10993">of</w> <w id="w10994">the</w> <w id="w10995">EF-1alpha</w> <w id="w10996">promoter</w> <w id="w10997">involves</w> <w id="w10998">increased</w> <w id="w10999">physical</w> <w id="w11000">interactions</w> <w id="w11001">with</w> <w id="w11002">acetylated</w> <w id="w11003">histone</w> <w id="w11004">H3</w> <w id="w11005">and</w> <w id="w11006">histone</w> <w id="w11007">H4</w> <w id="w11008">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2571" gid="g2465" t="Individual_protein" fr="w10991" to="w10991" nam="yes">
+     <textspan type="extent">HRG</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.712.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2572" gid="g2466" t="RELATIONSHIP_TEXTBINDING" fr="w10992" to="w10993">
+     <textspan type="extent">stimulation of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.712.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2573" gid="g2467" t="RELATIONSHIP_TEXTBINDING" fr="w10997" to="w10997">
+     <textspan type="extent">involves</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.712.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2574" gid="g2468" t="Domain_or_region_of_DNA" fr="w10995" to="w10996" nam="yes">
+     <textspan type="extent">EF-1alpha promoter</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="bd" v="e.712.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2575" gid="g2469" t="Protein_family_or_group" fr="w11003" to="w11003" nam="yes">
+     <textspan type="extent">histone</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.712.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2576" gid="g2470" t="Individual_protein" fr="w11007" to="w11007" nam="yes">
+     <textspan type="extent">H4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.712.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2577" gid="g2471" t="Protein_family_or_group" fr="w11006" to="w11006" nam="yes">
+     <textspan type="extent">histone</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.712.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2578" gid="g2472" t="Individual_protein" fr="w11004" to="w11004" nam="yes">
+     <textspan type="extent">H3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.712.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2579" gid="g2473" t="RELATIONSHIP_TEXTBINDING" fr="w11000" to="w11001">
+     <textspan type="extent">interactions with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.712.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e2580" gid="g2474" t="Gene" fr="w10995" to="w10995" nam="yes">
+     <textspan type="extent">EF-1alpha</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.712.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r981" t="PARTICIPATE" e1="e2579" e2="e2572" re="e2573">
+     <textspan type="extent">HRG stimulation of the EF-1alpha promoter involves increased physical interactions with acetylated histone H3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.712.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r982" t="BIND" e1="e2571" e2="e2578" re="e2579">
+     <textspan type="extent">HRG stimulation of the EF-1alpha promoter involves increased physical interactions with acetylated histone H3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.712.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r983" t="UPREGULATE" e1="e2571" e2="e2574" re="e2572">
+     <textspan type="extent">HRG stimulation of the EF-1alpha promoter</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.712.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="UPREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r984" t="PARTICIPATE" e1="e2579" e2="e2572" re="e2573">
+     <textspan type="extent">HRG stimulation of the EF-1alpha promoter involves increased physical interactions with acetylated histone H3 and histone H4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.712.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r985" t="BIND" e1="e2571" e2="e2576" re="e2579">
+     <textspan type="extent">HRG stimulation of the EF-1alpha promoter involves increased physical interactions with acetylated histone H3 and histone H4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.712.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r986" t="UPREGULATE" e1="e2571" e2="e2574" re="e2572">
+     <textspan type="extent">HRG stimulation of the EF-1alpha promoter</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.712.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="UPREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r987" t="MEMBER" e1="e2575" e2="e2578" re="">
+     <textspan type="extent">histone H3</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r988" t="MEMBER" e1="e2577" e2="e2576" re="">
+     <textspan type="extent">histone H4</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,44 @@
+<rexml>
+<doc id="1060">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16672" g="w16673" t="s" cr="s+subj:w16673||s+subj:w16682" w="One" l="~" p="N"/>
+     <dpg d="w16673" g="E2" t="i" cr="" w="involves" l="involve" p="V"/>
+     <dpg d="E5" g="w16673" t="subj" cr="" w="" l="One" p="N"/>
+     <dpg d="E5" g="w16672" t="antecedent" cr="" w="" l="One" p="N"/>
+     <dpg d="w16674" g="w16673" t="obj" cr="obj:w16673||obj:w16680" w="talin" l="~" p="N"/>
+     <dpg d="w16675" g="w16674" t="punc" cr="punc:w16674" w="," l="~" p="U"/>
+     <dpg d="E1" g="w16674" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16676" g="E1" t="whn" cr="whn:w16680" w="which" l="~" p="N"/>
+     <dpg d="w16676" g="w16674" t="antecedent" cr="antecedent:w16674" w="which" l="~" p="N"/>
+     <dpg d="w16677" g="w16680" t="have" cr="have:w16680" w="has" l="have" p="have"/>
+     <dpg d="w16678" g="w16680" t="guest" cr="guest:w16680" w="recently" l="~" p="A"/>
+     <dpg d="w16679" g="w16680" t="be" cr="be:w16680" w="been" l="be" p="be"/>
+     <dpg d="w16680" g="E1" t="i" cr="rel:w16674" w="shown" l="show" p="V"/>
+     <dpg d="E6" g="w16680" t="obj" cr="" w="" l="which" p="N"/>
+     <dpg d="E6" g="w16674" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="E0" g="w16680" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w16672" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w16681" g="w16682" t="aux" cr="aux:w16682" w="to" l="~" p="Aux"/>
+     <dpg d="w16682" g="E0" t="i" cr="mod:w16680" w="bind" l="~" p="V"/>
+     <dpg d="E7" g="w16682" t="subj" cr="" w="" l="One" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="One" p="N"/>
+     <dpg d="w16683" g="w16682" t="obj" cr="obj:w16682" w="actin" l="~" p="N"/>
+     <dpg d="w16684" g="w16682" t="mod" cr="mod:w16682" w="directly" l="~" p="A"/>
+     <dpg d="w16685" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

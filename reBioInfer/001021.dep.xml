@@ -1,0 +1,72 @@
+<rexml>
+<doc id="1021">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w16146" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="Mutations" l="mutation" p="N"/>
+     <dpg d="w16147" g="w16146" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w16148" g="w16149" t="lex-mod" cr="lex-mod:w16149" w="Saccharomyces" l="~" p="U"/>
+     <dpg d="w16149" g="w16150" t="nn" cr="nn:w16150" w="cerevisiae" l="Saccharomyces cerevisiae" p="N"/>
+     <dpg d="w16150" g="w16147" t="pcomp-n" cr="mod*in*n:w16146" w="RFC5" l="~" p="N"/>
+     <dpg d="w16151" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16152" g="w16167" t="s" cr="s+subj:w16167" w="DPB11" l="~" p="N"/>
+     <dpg d="w16153" g="w16152" t="punc" cr="punc:w16152" w="," l="~" p="U"/>
+     <dpg d="w16154" g="w16152" t="conj" cr="conj:w16152" w="MEC1" l="~" p="N"/>
+     <dpg d="w16155" g="w16154" t="punc" cr="punc:w16154" w="," l="~" p="U"/>
+     <dpg d="w16156" g="w16157" t="lex-mod" cr="lex-mod:w16157" w="DDC2" l="~" p="U"/>
+     <dpg d="w16157" g="w16154" t="conj" cr="conj:w16154" w="MEC3" l="DDC2 MEC3" p="N"/>
+     <dpg d="w16158" g="w16157" t="punc" cr="punc:w16157" w="," l="~" p="U"/>
+     <dpg d="w16159" g="w16157" t="conj" cr="conj:w16157" w="RAD53" l="~" p="N"/>
+     <dpg d="w16160" g="w16159" t="punc" cr="punc:w16159" w="," l="~" p="U"/>
+     <dpg d="w16161" g="w16159" t="conj" cr="conj:w16159" w="CHK1" l="~" p="N"/>
+     <dpg d="w16162" g="w16161" t="punc" cr="punc:w16161" w="," l="~" p="U"/>
+     <dpg d="w16163" g="w16161" t="conj" cr="conj:w16161" w="PDS1" l="~" p="N"/>
+     <dpg d="w16164" g="w16163" t="punc" cr="punc:w16163" w="," l="~" p="U"/>
+     <dpg d="w16165" g="w16163" t="punc" cr="punc:w16163" w="and" l="~" p="U"/>
+     <dpg d="w16166" g="w16163" t="conj" cr="conj:w16163" w="DUN1" l="~" p="N"/>
+     <dpg d="w16167" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="increased" l="increase" p="V"/>
+     <dpg d="E4" g="w16167" t="subj" cr="" w="" l="DPB11" p="N"/>
+     <dpg d="E4" g="w16152" t="antecedent" cr="" w="" l="DPB11" p="N"/>
+     <dpg d="w16168" g="w16169" t="det" cr="det:w16169" w="the" l="~" p="Det"/>
+     <dpg d="w16169" g="w16167" t="obj" cr="obj:w16167" w="rate" l="~" p="N"/>
+     <dpg d="w16170" g="w16169" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w16171" g="w16172" t="nn" cr="nn:w16172" w="genome" l="~" p="N"/>
+     <dpg d="w16172" g="w16170" t="pcomp-n" cr="mod*of*n:w16169" w="rearrangements" l="rearrangement" p="N"/>
+     <dpg d="w16173" g="w16175" t="lex-mod" cr="lex-mod:w16175" w="up" l="~" p="U"/>
+     <dpg d="w16174" g="w16175" t="lex-mod" cr="lex-mod:w16175" w="to" l="~" p="U"/>
+     <dpg d="w16175" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="200-fold" l="up to 200-fold" p="N"/>
+     <dpg d="w16176" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="whereas" l="~" p="SentAdjunct"/>
+     <dpg d="E1" g="w16176" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16177" g="w16189" t="s" cr="s+subj:w16189" w="mutations" l="mutation" p="N"/>
+     <dpg d="w16178" g="w16177" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w16179" g="w16178" t="pcomp-n" cr="mod*in*n:w16177" w="RAD9" l="~" p="N"/>
+     <dpg d="w16180" g="w16179" t="punc" cr="punc:w16179" w="," l="~" p="U"/>
+     <dpg d="w16181" g="w16179" t="conj" cr="conj:w16179" w="RAD17" l="~" p="N"/>
+     <dpg d="w16182" g="w16181" t="punc" cr="punc:w16181" w="," l="~" p="U"/>
+     <dpg d="w16183" g="w16181" t="conj" cr="conj:w16181" w="RAD24" l="~" p="N"/>
+     <dpg d="w16184" g="w16183" t="punc" cr="punc:w16183" w="," l="~" p="U"/>
+     <dpg d="w16185" g="w16183" t="conj" cr="conj:w16183" w="BUB3" l="~" p="N"/>
+     <dpg d="w16186" g="w16185" t="punc" cr="punc:w16185" w="," l="~" p="U"/>
+     <dpg d="w16187" g="w16185" t="punc" cr="punc:w16185" w="and" l="~" p="U"/>
+     <dpg d="w16188" g="w16185" t="conj" cr="conj:w16185" w="MAD3" l="~" p="N"/>
+     <dpg d="w16189" g="E1" t="i" cr="comp1:w16176" w="had" l="have" p="V"/>
+     <dpg d="E5" g="w16189" t="subj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E5" g="w16177" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="w16190" g="w16191" t="det" cr="det:w16191" w="little" l="~" p="Det"/>
+     <dpg d="w16191" g="w16189" t="obj" cr="obj:w16189" w="effect" l="~" p="N"/>
+     <dpg d="w16192" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

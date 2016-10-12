@@ -1,0 +1,121 @@
+<rexml>
+<doc id="1570">
+  <text>
+<p><s id="s1"><w id="w24923">The</w> <w id="w24924">N-terminal</w> <w id="w24925">talin</w> <w id="w24926">polypeptide</w> <w id="w24927">eventually</w> <w id="w24928">disrupted</w> <w id="w24929">actin</w> <w id="w24930">stress</w> <w id="w24931">fibres</w> <w id="w24932">whereas</w> <w id="w24933">the</w> <w id="w24934">C-terminal</w> <w id="w24935">polypeptide</w> <w id="w24936">was</w> <w id="w24937">without</w> <w id="w24938">effect</w> <w id="w24939">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5772" gid="g5510" t="Substructure_of_protein" fr="w24925" to="w24926" nam="yes">
+     <textspan type="extent">talin polypeptide</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1570.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5773" gid="g5511" t="RELATIONSHIP_TEXTBINDING" fr="w24928" to="w24928">
+     <textspan type="extent">disrupted</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1570.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5774" gid="g5512" t="Substructure_of_protein" fr="w24935" to="w24935" nam="yes">
+     <textspan type="extent">polypeptide</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1570.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5775" gid="g5513" t="Cell_component" fr="w24929" to="w24931" nam="yes">
+     <textspan type="extent">actin [..] fibres</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1570.3"/>
+      <exattr n="nst" v="st.1570.6.0"/>
+      <exattr n="nst" v="st.1570.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5776" gid="g5514" t="Individual_protein" fr="w24925" to="w24925" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1570.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5777" gid="g5515" t="RELATIONSHIP_TEXTBINDING" fr="w24937" to="w24937">
+     <textspan type="extent">without</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1570.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5778" gid="g5516" t="Individual_protein" fr="w24929" to="w24929" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1570.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2205" t="DISRUPT" e1="e5772" e2="e5775" re="e5773">
+     <textspan type="extent">talin polypeptide eventually disrupted actin stress fibres</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1570.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="DISRUPT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2206" t="REL-ENT" e1="e5774" e2="e5776" re="">
+     <textspan type="extent">talin polypeptide eventually disrupted actin stress fibres whereas the C-terminal polypeptide</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="REL-ENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2208" t="DISRUPT" e1="e5774" e2="e5775" re="e5773">
+     <textspan type="extent">disrupted actin stress fibres whereas the C-terminal polypeptide</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1570.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="DISRUPT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

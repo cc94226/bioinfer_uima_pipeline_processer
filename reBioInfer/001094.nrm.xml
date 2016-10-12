@@ -1,0 +1,197 @@
+<rexml>
+<doc id="1094">
+  
+  <markup>
+   <nes>
+    <ne id="e3978" gid="g3807" t="Individual_protein" fr="w17320" to="w17320" nam="yes" sid="s1">
+     <textspan>TIF34</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1094.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3982" gid="g3811" t="Individual_protein" fr="w17322" to="w17322" nam="yes" sid="s1">
+     <textspan>PRT1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1094.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3979" gid="g3808" t="Individual_protein" fr="w17324" to="w17324" nam="yes" sid="s1">
+     <textspan>p33</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1094.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3981" gid="g3810" t="Protein_complex" fr="w17328" to="w17329" nam="yes" sid="s1">
+     <textspan>eIF3 complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1094.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3983" gid="g3812" t="Protein_complex" fr="w17328" to="w17328" nam="yes" sid="s1">
+     <textspan>eIF3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1094.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1530" t="COOF-CONTAIN" e1="e3978" e2="e3982" re="e3980">
+     <textspan>subunits , TIF34 , PRT1 and p33 , in the eIF3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1094.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1530" t="COOF-CONTAIN" e1="e3978" e2="e3979" re="e3980">
+     <textspan>subunits , TIF34 , PRT1 and p33 , in the eIF3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1094.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1530" t="COOF-CONTAIN" e1="e3982" e2="e3979" re="e3980">
+     <textspan>subunits , TIF34 , PRT1 and p33 , in the eIF3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1094.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1530" t="CONTAIN" e1="e3981" e2="e3978" re="e3980">
+     <textspan>subunits , TIF34 , PRT1 and p33 , in the eIF3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1094.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1531" t="CONTAIN" e1="e3981" e2="e3982" re="e3980">
+     <textspan>subunits , TIF34 , PRT1 and p33 , in the eIF3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1094.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1532" t="CONTAIN" e1="e3981" e2="e3979" re="e3980">
+     <textspan>subunits , TIF34 , PRT1 and p33 , in the eIF3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1094.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1533" t="BIND" e1="e3978" e2="e3982" re="e3977">
+     <textspan>physical and functional interactions between three subunits , TIF34 , PRT1 and p33</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1094.0"/>
+      <exattr n="arg" v="e3978"/>
+      <exattr n="arg" v="e3982"/>
+      <exattr n="arg" v="e3979"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1533" t="BIND" e1="e3978" e2="e3979" re="e3977">
+     <textspan>physical and functional interactions between three subunits , TIF34 , PRT1 and p33</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1094.0"/>
+      <exattr n="arg" v="e3978"/>
+      <exattr n="arg" v="e3982"/>
+      <exattr n="arg" v="e3979"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1533" t="BIND" e1="e3982" e2="e3979" re="e3977">
+     <textspan>physical and functional interactions between three subunits , TIF34 , PRT1 and p33</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1094.0"/>
+      <exattr n="arg" v="e3978"/>
+      <exattr n="arg" v="e3982"/>
+      <exattr n="arg" v="e3979"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

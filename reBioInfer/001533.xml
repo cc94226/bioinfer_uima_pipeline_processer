@@ -1,0 +1,78 @@
+<rexml>
+<doc id="1533">
+  <text>
+<p><s id="s1"><w id="w24190">The</w> <w id="w24191">in</w> <w id="w24192">vivo</w> <w id="w24193">and</w> <w id="w24194">in</w> <w id="w24195">vitro</w> <w id="w24196">properties</w> <w id="w24197">of</w> <w id="w24198">yeast</w> <w id="w24199">profilin</w> <w id="w24200">mutants</w> <w id="w24201">with</w> <w id="w24202">altered</w> <w id="w24203">poly-L-proline</w> <w id="w24204">and</w> <w id="w24205">actin</w> <w id="w24206">binding</w> <w id="w24207">sites</w> <w id="w24208">are</w> <w id="w24209">discussed</w> <w id="w24210">in</w> <w id="w24211">the</w> <w id="w24212">context</w> <w id="w24213">of</w> <w id="w24214">the</w> <w id="w24215">crystal</w> <w id="w24216">structure</w> <w id="w24217">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5622" gid="g5368" t="Mutant" fr="w24198" to="w24200" nam="yes">
+     <textspan type="extent">yeast profilin mutants</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.1533.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5623" gid="g5369" t="RELATIONSHIP_TEXTBINDING" fr="w24206" to="w24206">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1533.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5624" gid="g5370" t="Individual_protein" fr="w24205" to="w24205" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1533.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5625" gid="g5371" t="Individual_protein" fr="w24198" to="w24199" nam="yes">
+     <textspan type="extent">yeast profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1533.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5626" gid="g5372" t="Individual_protein" fr="w24199" to="w24199" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1533.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2152" t="BIND" e1="e5622" e2="e5624" re="e5623">
+     <textspan type="extent">yeast profilin mutants with altered poly-L-proline and actin binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1533.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

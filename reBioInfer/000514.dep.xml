@@ -1,0 +1,64 @@
+<rexml>
+<doc id="514">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7093" g="E3" t="mod" cr="" w="From" l="~" p="Prep"/>
+     <dpg d="w7094" g="w7095" t="det" cr="det:w7095" w="an" l="~" p="Det"/>
+     <dpg d="w7095" g="w7093" t="pcomp-n" cr="mod*from*n:w7107" w="analysis" l="~" p="N"/>
+     <dpg d="w7096" g="w7095" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w7097" g="w7098" t="nn" cr="nn:w7098" w="profilin" l="~" p="N"/>
+     <dpg d="w7098" g="w7096" t="pcomp-n" cr="mod*of*n:w7095" w="mutants" l="mutant" p="N"/>
+     <dpg d="w7099" g="w7098" t="punc" cr="punc:w7098" w="," l="~" p="U"/>
+     <dpg d="E2" g="w7098" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7100" g="w7102" t="gen" cr="gen:w7102" w="whose" l="~" p="N"/>
+     <dpg d="w7100" g="w7098" t="antecedent" cr="antecedent:w7098" w="whose" l="~" p="N"/>
+     <dpg d="w7101" g="w7102" t="nn" cr="nn:w7102" w="actin" l="~" p="N"/>
+     <dpg d="w7102" g="E2" t="whn" cr="whn+obj:w7104" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w7103" g="w7104" t="be" cr="be:w7104" w="is" l="be" p="be"/>
+     <dpg d="w7104" g="E2" t="i" cr="rel:w7098" w="disrupted" l="disrupt" p="V"/>
+     <dpg d="E6" g="w7104" t="obj" cr="" w="" l="cytoskeleton" p="N"/>
+     <dpg d="E6" g="w7102" t="antecedent" cr="" w="" l="cytoskeleton" p="N"/>
+     <dpg d="w7105" g="E3" t="punc" cr="punc:w7107" w="," l="~" p="U"/>
+     <dpg d="w7106" g="w7107" t="s" cr="s+subj:w7107" w="we" l="~" p="N"/>
+     <dpg d="w7107" g="E3" t="i" cr="" w="found" l="find" p="V"/>
+     <dpg d="E7" g="w7107" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E7" g="w7106" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="E1" g="w7107" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7108" g="E1" t="c" cr="c:w7111" w="that" l="~" p="COMP"/>
+     <dpg d="w7109" g="w7111" t="s" cr="s+subj:w7111" w="E-APC" l="E-APC" p="N"/>
+     <dpg d="w7110" g="w7111" t="mod-before" cr="mod-before:w7111" w="also" l="~" p="A"/>
+     <dpg d="w7111" g="E1" t="i" cr="fc:w7107" w="requires" l="require" p="V"/>
+     <dpg d="E8" g="w7111" t="subj" cr="" w="" l="E-APC" p="N"/>
+     <dpg d="E8" g="w7109" t="antecedent" cr="" w="" l="E-APC" p="N"/>
+     <dpg d="w7112" g="w7113" t="nn" cr="nn:w7113" w="actin" l="~" p="N"/>
+     <dpg d="w7113" g="w7111" t="obj" cr="obj:w7111||s+subj:w7115" w="filaments" l="filament" p="N"/>
+     <dpg d="E0" g="w7113" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w7113" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w7114" g="w7115" t="aux" cr="aux:w7115" w="to" l="~" p="Aux"/>
+     <dpg d="w7115" g="E0" t="i" cr="rel:w7113" w="associate" l="associate with" p="V"/>
+     <dpg d="w7116" g="w7115" t="lex-mod" cr="lex-mod:w7115" w="with" l="~" p="U"/>
+     <dpg d="E9" g="w7115" t="subj" cr="" w="" l="filament" p="N"/>
+     <dpg d="E9" g="E4" t="antecedent" cr="" w="" l="filament" p="N"/>
+     <dpg d="w7117" g="w7119" t="mod" cr="mod:w7119" w="adhesive" l="~" p="A"/>
+     <dpg d="w7118" g="w7119" t="nn" cr="nn:w7119" w="cell" l="~" p="N"/>
+     <dpg d="w7119" g="w7115" t="obj" cr="obj:w7115" w="membranes" l="membrane" p="N"/>
+     <dpg d="w7120" g="w7119" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w7121" g="w7122" t="det" cr="det:w7122" w="the" l="~" p="Det"/>
+     <dpg d="w7122" g="w7120" t="pcomp-n" cr="mod*in*n:w7119" w="ovary" l="~" p="N"/>
+     <dpg d="w7123" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

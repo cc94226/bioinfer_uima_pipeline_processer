@@ -1,0 +1,141 @@
+<rexml>
+<doc id="718">
+  <text>
+<p><s id="s1"><w id="w11129">In</w> <w id="w11130">adherens</w> <w id="w11131">junctions</w> <w id="w11132">,</w> <w id="w11133">the</w> <w id="w11134">cytoplasmic</w> <w id="w11135">domain</w> <w id="w11136">of</w> <w id="w11137">cadherins</w> <w id="w11138">bind</w> <w id="w11139">to</w> <w id="w11140">beta-catenin</w> <w id="w11141">,</w> <w id="w11142">which</w> <w id="w11143">in</w> <w id="w11144">turn</w> <w id="w11145">binds</w> <w id="w11146">to</w> <w id="w11147">the</w> <w id="w11148">actin</w><w id="w11149">-</w><w id="w11150">associated</w> <w id="w11151">protein</w> <w id="w11152">alpha-catenin</w> <w id="w11153">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2614" gid="g2504" t="Substructure_of_protein" fr="w11135" to="w11137" nam="yes">
+     <textspan type="extent">domain of cadherins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.718.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2615" gid="g2505" t="RELATIONSHIP_TEXTBINDING" fr="w11138" to="w11139">
+     <textspan type="extent">bind to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.718.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2616" gid="g2506" t="Individual_protein" fr="w11148" to="w11148" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.718.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2617" gid="g2507" t="RELATIONSHIP_TEXTBINDING" fr="w11145" to="w11146">
+     <textspan type="extent">binds to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.718.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2618" gid="g2508" t="Individual_protein" fr="w11151" to="w11152" nam="yes">
+     <textspan type="extent">protein alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.718.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2619" gid="g2509" t="RELATIONSHIP_TEXTBINDING" fr="w11150" to="w11150">
+     <textspan type="extent">associated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.718.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2620" gid="g2510" t="Protein_family_or_group" fr="w11137" to="w11137" nam="yes">
+     <textspan type="extent">cadherins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.718.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2621" gid="g2511" t="Individual_protein" fr="w11140" to="w11140" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.718.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2622" gid="g2512" t="Individual_protein" fr="w11152" to="w11152" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.718.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1002" t="BIND" e1="e2614" e2="e2621" re="e2615">
+     <textspan type="extent">domain of cadherins bind to beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.718.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1003" t="BIND" e1="e2621" e2="e2618" re="e2617">
+     <textspan type="extent">beta-catenin , which in turn binds to the actin - associated protein alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.718.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1004" t="RELATE" e1="e2618" e2="e2616" re="e2619">
+     <textspan type="extent">actin - associated protein alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.718.5"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,42 @@
+<rexml>
+<doc id="2072">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32869" g="w32872" t="s" cr="s+subj:w32872" w="We" l="~" p="N"/>
+     <dpg d="w32870" g="w32872" t="have" cr="have:w32872" w="have" l="~" p="have"/>
+     <dpg d="w32871" g="w32872" t="amod" cr="amod:w32872" w="biochemically" l="~" p="A"/>
+     <dpg d="w32872" g="E1" t="i" cr="" w="identified" l="identify" p="V"/>
+     <dpg d="E4" g="w32872" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E4" g="w32869" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w32873" g="w32876" t="det" cr="det:w32876" w="the" l="~" p="Det"/>
+     <dpg d="w32874" g="w32875" t="lex-mod" cr="lex-mod:w32875" w="Saccharomyces" l="~" p="U"/>
+     <dpg d="w32875" g="w32876" t="nn" cr="nn:w32876" w="cerevisiae" l="Saccharomyces cerevisiae" p="N"/>
+     <dpg d="w32876" g="w32872" t="obj" cr="obj:w32872" w="homologue" l="~" p="N"/>
+     <dpg d="w32877" g="w32876" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32878" g="w32880" t="det" cr="det:w32880" w="the" l="~" p="Det"/>
+     <dpg d="w32879" g="w32880" t="mod" cr="mod:w32880" w="mammalian" l="~" p="A"/>
+     <dpg d="w32880" g="w32877" t="pcomp-n" cr="mod*of*n:w32876||s+subj:w32881" w="actin" l="~" p="N"/>
+     <dpg d="E0" g="w32880" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w32880" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w32881" g="E0" t="i" cr="rel:w32880" w="binding" l="bind" p="V"/>
+     <dpg d="E5" g="w32881" t="subj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w32882" g="w32883" t="nn" cr="nn:w32883" w="protein" l="~" p="N"/>
+     <dpg d="w32883" g="w32881" t="obj" cr="obj:w32881" w="cofilin" l="~" p="N"/>
+     <dpg d="w32884" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

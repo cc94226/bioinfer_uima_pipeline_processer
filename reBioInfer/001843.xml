@@ -1,0 +1,199 @@
+<rexml>
+<doc id="1843">
+  <text>
+<p><s id="s1"><w id="w29545">This</w> <w id="w29546">technique</w> <w id="w29547">was</w> <w id="w29548">employed</w> <w id="w29549">to</w> <w id="w29550">quantify</w> <w id="w29551">changes</w> <w id="w29552">caused</w> <w id="w29553">by</w> <w id="w29554">the</w> <w id="w29555">lack</w> <w id="w29556">of</w> <w id="w29557">talin</w> <w id="w29558">,</w> <w id="w29559">a</w> <w id="w29560">protein</w> <w id="w29561">that</w> <w id="w29562">couples</w> <w id="w29563">the</w> <w id="w29564">actin</w> <w id="w29565">network</w> <w id="w29566">to</w> <w id="w29567">the</w> <w id="w29568">plasma</w> <w id="w29569">membrane</w> <w id="w29570">,</w> <w id="w29571">or</w> <w id="w29572">by</w> <w id="w29573">the</w> <w id="w29574">lack</w> <w id="w29575">of</w> <w id="w29576">cortexillin</w> <w id="w29577">I</w> <w id="w29578">or</w> <w id="w29579">II</w> <w id="w29580">,</w> <w id="w29581">two</w> <w id="w29582">isoforms</w> <w id="w29583">of</w> <w id="w29584">the</w> <w id="w29585">actin</w><w id="w29586">-</w><w id="w29587">bundling</w> <w id="w29588">protein</w> <w id="w29589">cortexillin</w> <w id="w29590">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6834" gid="g6520" t="Individual_protein" fr="w29557" to="w29557" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1843.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6835" gid="g6521" t="RELATIONSHIP_TEXTBINDING" fr="w29562" to="w29562">
+     <textspan type="extent">couples</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1843.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6836" gid="g6522" t="RELATIONSHIP_TEXTBINDING" fr="w29562" to="w29566">
+     <textspan type="extent">couples [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1843.2"/>
+      <exattr n="nst" v="st.1843.17.0"/>
+      <exattr n="nst" v="st.1843.21.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6837" gid="g6523" t="Cell_component" fr="w29564" to="w29565" nam="yes">
+     <textspan type="extent">actin network</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1843.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6838" gid="g6524" t="Individual_protein" fr="w29585" to="w29585" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1843.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6839" gid="g6525" t="Individual_protein" fr="w29576" to="w29579" nam="yes">
+     <textspan type="extent">cortexillin [..] II</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1843.5"/>
+      <exattr n="nst" v="st.1843.31.0"/>
+      <exattr n="nst" v="st.1843.34.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6840" gid="g6526" t="Cell_component" fr="w29569" to="w29569" nam="yes">
+     <textspan type="extent">membrane</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1843.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6841" gid="g6527" t="Individual_protein" fr="w29588" to="w29589" nam="yes">
+     <textspan type="extent">protein cortexillin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1843.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6842" gid="g6528" t="Individual_protein" fr="w29576" to="w29577" nam="yes">
+     <textspan type="extent">cortexillin I</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1843.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6843" gid="g6529" t="Individual_protein" fr="w29589" to="w29589" nam="yes">
+     <textspan type="extent">cortexillin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1843.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6844" gid="g6530" t="RELATIONSHIP_TEXTBINDING" fr="w29587" to="w29587">
+     <textspan type="extent">bundling</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1843.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e6845" gid="g6531" t="Individual_protein" fr="w29564" to="w29564" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1843.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e6846" gid="g6532" t="RELATIONSHIP_TEXTBINDING" fr="w29582" to="w29583">
+     <textspan type="extent">isoforms of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1843.12"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2621" t="CAUSE" e1="e6834" e2="e6836" re="e6835">
+     <textspan type="extent">talin , a protein that couples the actin network to the plasma membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1843.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2622" t="RELATE" e1="e6837" e2="e6840" re="e6836">
+     <textspan type="extent">couples the actin network to the plasma membrane</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1843.2"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2623" t="MEMBER" e1="e6841" e2="e6842" re="e6846">
+     <textspan type="extent">cortexillin I or II , two isoforms of the actin - bundling protein cortexillin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1843.12"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2624" t="MEMBER" e1="e6841" e2="e6839" re="e6846">
+     <textspan type="extent">cortexillin I or II , two isoforms of the actin - bundling protein cortexillin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1843.12"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2625" t="LOCALIZE" e1="e6841" e2="e6838" re="e6844">
+     <textspan type="extent">actin - bundling protein cortexillin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1843.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

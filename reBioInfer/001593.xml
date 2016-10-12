@@ -1,0 +1,155 @@
+<rexml>
+<doc id="1593">
+  <text>
+<p><s id="s1"><w id="w25299">The</w> <w id="w25300">potentiating</w> <w id="w25301">effect</w> <w id="w25302">of</w> <w id="w25303">insulin</w> <w id="w25304">appears</w> <w id="w25305">to</w> <w id="w25306">involve</w> <w id="w25307">increases</w> <w id="w25308">in</w> <w id="w25309">the</w> <w id="w25310">expression</w> <w id="w25311">of</w> <w id="w25312">cyclin</w> <w id="w25313">E</w> <w id="w25314">and</w> <w id="w25315">decreases</w> <w id="w25316">in</w> <w id="w25317">the</w> <w id="w25318">expression</w> <w id="w25319">of</w> <w id="w25320">the</w> <w id="w25321">cyclin-dependent</w> <w id="w25322">kinase</w> <w id="w25323">inhibitor</w> <w id="w25324">p27</w><w id="w25325">(</w><w id="w25326">Kip1</w><w id="w25327">)</w> <w id="w25328">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5871" gid="g5601" t="Individual_protein" fr="w25303" to="w25303" nam="yes">
+     <textspan type="extent">insulin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1593.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5872" gid="g5602" t="RELATIONSHIP_TEXTBINDING" fr="w25301" to="w25302">
+     <textspan type="extent">effect of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1593.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5873" gid="g5603" t="INCREASE" fr="w25307" to="w25313">
+     <textspan type="extent">increases in the expression of cyclin E</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="INCREASE"/>
+      <exattr n="bd" v="e.1593.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5874" gid="g5604" t="Protein_family_or_group" fr="w25321" to="w25323" nam="yes">
+     <textspan type="extent">cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1593.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5875" gid="g5605" t="Individual_protein" fr="w25326" to="w25326" nam="yes">
+     <textspan type="extent">Kip1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1593.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5876" gid="g5606" t="Expression" fr="w25310" to="w25313">
+     <textspan type="extent">expression of cyclin E</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.1593.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5877" gid="g5607" t="DECREASE" fr="w25315" to="w25324">
+     <textspan type="extent">decreases in the expression of [..] p27</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="DECREASE"/>
+      <exattr n="bd" v="e.1593.6"/>
+      <exattr n="nst" v="st.1593.16.0"/>
+      <exattr n="nst" v="st.1593.17.0"/>
+      <exattr n="nst" v="st.1593.18.0"/>
+      <exattr n="nst" v="st.1593.19.0"/>
+      <exattr n="nst" v="st.1593.20.0"/>
+      <exattr n="nst" v="st.1593.25.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5878" gid="g5608" t="Expression" fr="w25318" to="w25324">
+     <textspan type="extent">expression of [..] p27</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.1593.7"/>
+      <exattr n="nst" v="st.1593.19.0"/>
+      <exattr n="nst" v="st.1593.20.0"/>
+      <exattr n="nst" v="st.1593.25.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5879" gid="g5605" t="Individual_protein" fr="w25324" to="w25324" nam="yes">
+     <textspan type="extent">p27</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1593.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e5880" gid="g5609" t="Individual_protein" fr="w25312" to="w25313" nam="yes">
+     <textspan type="extent">cyclin E</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1593.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2254" t="MEMBER" e1="e5874" e2="e5879" re="">
+     <textspan type="extent">cyclin-dependent kinase inhibitor p27</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2256" t="CAUSE" e1="e5871" e2="e5873" re="e5872">
+     <textspan type="extent">effect of insulin appears to involve increases in the expression of cyclin E</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1593.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2257" t="CAUSE" e1="e5871" e2="e5877" re="e5872">
+     <textspan type="extent">effect of insulin appears to involve increases in the expression of cyclin E and decreases in the expression of the cyclin-dependent kinase inhibitor p27</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1593.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

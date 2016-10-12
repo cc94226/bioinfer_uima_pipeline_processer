@@ -1,0 +1,35 @@
+<rexml>
+<doc id="2225">
+  <text>
+<p><s id="s1"><w id="w34310">Within</w> <w id="w34311">the</w> <w id="w34312">sieve-tube</w> <w id="w34313">exudate</w> <w id="w34314">,</w> <w id="w34315">profilin</w> <w id="w34316">was</w> <w id="w34317">present</w> <w id="w34318">in</w> <w id="w34319">15-fold</w> <w id="w34320">molar</w> <w id="w34321">excess</w> <w id="w34322">to</w> <w id="w34323">actin</w> <w id="w34324">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7784" gid="g7422" t="Gene/protein/RNA" fr="w34315" to="w34315" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2225.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7785" gid="g7423" t="Gene/protein/RNA" fr="w34323" to="w34323" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2225.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

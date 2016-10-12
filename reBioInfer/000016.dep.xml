@@ -1,0 +1,72 @@
+<rexml>
+<doc id="16">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w226" g="w227" t="det" cr="det:w227" w="A" l="~" p="Det"/>
+     <dpg d="w227" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6||s+subj:w228" w="chimera" l="~" p="N"/>
+     <dpg d="E2" g="w227" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w227" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w228" g="E2" t="i" cr="rel:w227" w="consisting" l="consist of" p="V"/>
+     <dpg d="w229" g="w228" t="lex-mod" cr="lex-mod:w228" w="of" l="~" p="U"/>
+     <dpg d="E7" g="w228" t="subj" cr="" w="" l="Chimera" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="Chimera" p="N"/>
+     <dpg d="w230" g="w234" t="det" cr="det:w234" w="the" l="~" p="Det"/>
+     <dpg d="w231" g="w233" t="lex-mod" cr="lex-mod:w233" w="alpha-catenin" l="~" p="U"/>
+     <dpg d="w232" g="w233" t="lex-mod" cr="lex-mod:w233" w="-" l="~" p="U"/>
+     <dpg d="w233" g="w234" t="mod" cr="mod:w234" w="binding" l="alpha-catenin - binding" p="A"/>
+     <dpg d="w234" g="w228" t="obj" cr="obj:w228" w="region" l="~" p="N"/>
+     <dpg d="w235" g="w234" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w236" g="w235" t="pcomp-n" cr="mod*of*n:w234||obj:w237" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w237" g="w236" t="vrel" cr="vrel:w236" w="linked" l="link" p="V"/>
+     <dpg d="E8" g="w237" t="obj" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="E8" g="w236" t="antecedent" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="w238" g="w237" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w239" g="w241" t="det" cr="det:w241" w="the" l="~" p="Det"/>
+     <dpg d="w240" g="w241" t="mod" cr="mod:w241" w="amino" l="~" p="A"/>
+     <dpg d="w241" g="w238" t="pcomp-n" cr="mod*to*n:w237" w="terminus" l="~" p="N"/>
+     <dpg d="w242" g="E6" t="punc" cr="punc:E6" w="of" l="~" p="U"/>
+     <dpg d="E1" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w243" g="w244" t="mod" cr="mod:w244" w="alpha-catenin" l="alpha-catenin" p="A"/>
+     <dpg d="w244" g="w245" t="s" cr="s+subj:w245" w="57-264" l="57-264" p="N"/>
+     <dpg d="w245" g="E1" t="i" cr="UNSPECRELTYPE:E6" w="behaves" l="behave" p="V"/>
+     <dpg d="E9" g="w245" t="subj" cr="" w="" l="57-264" p="N"/>
+     <dpg d="E9" g="w244" t="antecedent" cr="" w="" l="57-264" p="N"/>
+     <dpg d="w246" g="w245" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w247" g="w248" t="det" cr="det:w248" w="a" l="~" p="Det"/>
+     <dpg d="w248" g="w246" t="pcomp-n" cr="mod*as*n:w245" w="monomer" l="~" p="N"/>
+     <dpg d="w249" g="w248" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w250" g="w249" t="pcomp-n" cr="mod*in*n:w248" w="solution" l="~" p="N"/>
+     <dpg d="w251" g="w245" t="punc" cr="punc:w245" w="," l="~" p="U"/>
+     <dpg d="w252" g="w245" t="mod" cr="mod:w245" w="as" l="~" p="A"/>
+     <dpg d="w253" g="w252" t="comp1" cr="comp1:w252" w="expected" l="expect" p="V"/>
+     <dpg d="E3" g="w253" t="ECR" cr="ECR+obj:w253" w="" l="~" p="EC"/>
+     <dpg d="E10" g="w253" t="obj" cr="" w="" l="~" p="EC"/>
+     <dpg d="E10" g="E3" t="antecedent" cr="" w="" l="~" p="EC"/>
+     <dpg d="w254" g="w253" t="punc" cr="punc:w253" w="," l="~" p="U"/>
+     <dpg d="w255" g="w253" t="mod" cr="mod:w253" w="since" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w255" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w256" g="w257" t="mod" cr="mod:w257" w="beta-catenin" l="beta-catenin" p="A"/>
+     <dpg d="w257" g="w258" t="s" cr="s+subj:w258" w="binding" l="~" p="N"/>
+     <dpg d="w258" g="E0" t="i" cr="comp1:w255" w="disrupts" l="disrupt" p="V"/>
+     <dpg d="E11" g="w258" t="subj" cr="" w="" l="binding" p="N"/>
+     <dpg d="E11" g="w257" t="antecedent" cr="" w="" l="binding" p="N"/>
+     <dpg d="w259" g="w261" t="det" cr="det:w261" w="the" l="~" p="Det"/>
+     <dpg d="w260" g="w261" t="mod" cr="mod:w261" w="alpha-catenin" l="alpha-catenin" p="A"/>
+     <dpg d="w261" g="w258" t="obj" cr="obj:w258" w="dimer" l="~" p="N"/>
+     <dpg d="w262" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

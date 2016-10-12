@@ -1,0 +1,41 @@
+<rexml>
+<doc id="1254">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="s+subj:w19871" w="" l="~" p="N"/>
+     <dpg d="w19871" g="E0" t="i" cr="" w="Signaling" l="signal" p="V"/>
+     <dpg d="E3" g="w19871" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="E1" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w19872" g="w19871" t="obj" cr="obj:w19871||obj:w19873" w="pathways" l="pathway" p="N"/>
+     <dpg d="w19873" g="w19872" t="vrel" cr="vrel:w19872" w="involved" l="involve" p="V"/>
+     <dpg d="E4" g="w19873" t="obj" cr="" w="" l="pathway" p="N"/>
+     <dpg d="E4" g="w19872" t="antecedent" cr="" w="" l="pathway" p="N"/>
+     <dpg d="w19874" g="w19873" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w19875" g="w19874" t="pcomp-n" cr="mod*in*n:w19873" w="dephosphorylation" l="~" p="N"/>
+     <dpg d="w19876" g="w19875" t="punc" cr="punc:w19875" w="and" l="~" p="U"/>
+     <dpg d="w19877" g="w19875" t="conj" cr="conj:w19875" w="localization" l="~" p="N"/>
+     <dpg d="w19878" g="w19877" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w19879" g="w19882" t="det" cr="det:w19882" w="the" l="~" p="Det"/>
+     <dpg d="w19880" g="w19882" t="mod" cr="mod:w19882" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w19881" g="w19882" t="nn" cr="nn:w19882" w="protein" l="~" p="N"/>
+     <dpg d="w19882" g="w19878" t="pcomp-n" cr="mod*of*n:w19877" w="cofilin" l="~" p="N"/>
+     <dpg d="w19883" g="w19882" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w19884" g="w19886" t="mod" cr="mod:w19886" w="stimulated" l="~" p="A"/>
+     <dpg d="w19885" g="w19886" t="mod" cr="mod:w19886" w="human" l="~" p="A"/>
+     <dpg d="w19886" g="w19883" t="pcomp-n" cr="mod*in*n:w19882" w="neutrophils" l="neutrophil" p="N"/>
+     <dpg d="w19887" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

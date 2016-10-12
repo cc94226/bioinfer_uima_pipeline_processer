@@ -1,0 +1,53 @@
+<rexml>
+<doc id="201">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3080" g="w3082" t="det" cr="det:w3082" w="A" l="~" p="Det"/>
+     <dpg d="w3081" g="w3082" t="mod" cr="mod:w3082" w="two-hybrid-based" l="two-hybrid-based" p="A"/>
+     <dpg d="w3082" g="w3088" t="s" cr="s+subj:w3083||s+subj:w3088" w="approach" l="~" p="N"/>
+     <dpg d="E0" g="w3082" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w3082" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w3083" g="E0" t="i" cr="rel:w3082" w="using" l="use" p="V"/>
+     <dpg d="E4" g="w3083" t="subj" cr="" w="" l="approach" p="N"/>
+     <dpg d="E4" g="E2" t="antecedent" cr="" w="" l="approach" p="N"/>
+     <dpg d="w3084" g="w3083" t="obj" cr="obj:w3083" w="cofilin" l="~" p="N"/>
+     <dpg d="w3085" g="w3084" t="punc" cr="punc:w3084" w="and" l="~" p="U"/>
+     <dpg d="w3086" g="w3087" t="nn" cr="nn:w3087" w="actin" l="~" p="N"/>
+     <dpg d="w3087" g="w3084" t="conj" cr="conj:w3084" w="mutants" l="mutant" p="N"/>
+     <dpg d="w3088" g="E1" t="i" cr="" w="identified" l="identify" p="V"/>
+     <dpg d="E5" g="w3088" t="subj" cr="" w="" l="approach" p="N"/>
+     <dpg d="E5" g="w3082" t="antecedent" cr="" w="" l="approach" p="N"/>
+     <dpg d="w3089" g="w3088" t="obj" cr="obj:w3088" w="residues" l="residue" p="N"/>
+     <dpg d="w3090" g="w3089" t="pnmod" cr="pnmod:w3089" w="necessary" l="~" p="A"/>
+     <dpg d="w3091" g="w3090" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w3092" g="w3093" t="det" cr="det:w3093" w="the" l="~" p="Det"/>
+     <dpg d="w3093" g="w3091" t="pcomp-n" cr="mod*for*n:w3090" w="interaction" l="~" p="N"/>
+     <dpg d="w3094" g="w3093" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3095" g="w3094" t="pcomp-n" cr="mod*of*n:w3093" w="actin" l="~" p="N"/>
+     <dpg d="w3096" g="w3095" t="punc" cr="punc:w3095" w="," l="~" p="U"/>
+     <dpg d="w3097" g="w3095" t="conj" cr="conj:w3095" w="cofilin" l="~" p="N"/>
+     <dpg d="w3098" g="w3097" t="punc" cr="punc:w3097" w="," l="~" p="U"/>
+     <dpg d="w3099" g="w3097" t="punc" cr="punc:w3097" w="and" l="~" p="U"/>
+     <dpg d="w3100" g="w3097" t="conj" cr="conj:w3097" w="Aip1p" l="~" p="N"/>
+     <dpg d="w3101" g="w3100" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w3102" g="w3105" t="det" cr="det:w3105" w="an" l="~" p="Det"/>
+     <dpg d="w3103" g="w3105" t="mod" cr="mod:w3105" w="apparent" l="~" p="A"/>
+     <dpg d="w3104" g="w3105" t="mod" cr="mod:w3105" w="ternary" l="~" p="A"/>
+     <dpg d="w3105" g="w3101" t="pcomp-n" cr="mod*in*n:w3100" w="complex" l="~" p="N"/>
+     <dpg d="w3106" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

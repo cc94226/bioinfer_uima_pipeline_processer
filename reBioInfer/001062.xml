@@ -1,0 +1,81 @@
+<rexml>
+<doc id="1062">
+  <text>
+<p><s id="s1"><w id="w16734">One</w> <w id="w16735">mutation</w> <w id="w16736">,</w> <w id="w16737">sac6-69</w> <w id="w16738">,</w> <w id="w16739">is</w> <w id="w16740">in</w> <w id="w16741">the</w> <w id="w16742">gene</w> <w id="w16743">encoding</w> <w id="w16744">fimbrin</w> <w id="w16745">,</w> <w id="w16746">another</w> <w id="w16747">actin-binding</w> <w id="w16748">protein</w> <w id="w16749">,</w> <w id="w16750">which</w> <w id="w16751">was</w> <w id="w16752">expected</w> <w id="w16753">because</w> <w id="w16754">null</w> <w id="w16755">mutations</w> <w id="w16756">in</w> <w id="w16757">SAC6</w> <w id="w16758">and</w> <w id="w16759">CAP2</w> <w id="w16760">are</w> <w id="w16761">known</w> <w id="w16762">to</w> <w id="w16763">be</w> <w id="w16764">synthetic-lethal</w> <w id="w16765">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3831" gid="g3663" t="Individual_protein" fr="w16744" to="w16744" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1062.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3832" gid="g3664" t="Gene/protein/RNA" fr="w16737" to="w16737" nam="yes">
+     <textspan type="extent">sac6-69</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1062.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3833" gid="g3665" t="Gene/protein/RNA" fr="w16757" to="w16757" nam="yes">
+     <textspan type="extent">SAC6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1062.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3834" gid="g3666" t="Protein_family_or_group" fr="w16747" to="w16748" nam="yes">
+     <textspan type="extent">actin-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1062.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3835" gid="g3667" t="Gene/protein/RNA" fr="w16759" to="w16759" nam="yes">
+     <textspan type="extent">CAP2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1062.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1469" t="MEMBER" e1="e3834" e2="e3831" re="">
+     <textspan type="extent">fimbrin , another actin-binding protein</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

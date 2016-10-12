@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1548">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24510" g="w24511" t="det" cr="det:w24511" w="The" l="~" p="Det"/>
+     <dpg d="w24511" g="w24519" t="s" cr="s+obj:w24519" w="majority" l="~" p="N"/>
+     <dpg d="w24512" g="w24511" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w24513" g="w24515" t="det" cr="det:w24515" w="the" l="~" p="Det"/>
+     <dpg d="w24514" g="w24515" t="mod" cr="mod:w24515" w="aromatic" l="~" p="A"/>
+     <dpg d="w24515" g="w24512" t="pcomp-n" cr="mod*of*n:w24511" w="residues" l="residue" p="N"/>
+     <dpg d="w24516" g="w24515" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w24517" g="w24516" t="pcomp-n" cr="mod*in*n:w24515" w="profilin" l="~" p="N"/>
+     <dpg d="w24518" g="w24519" t="be" cr="be:w24519" w="are" l="be" p="be"/>
+     <dpg d="w24519" g="E1" t="i" cr="" w="exposed" l="expose" p="V"/>
+     <dpg d="E3" g="w24519" t="obj" cr="" w="" l="majority" p="N"/>
+     <dpg d="E3" g="w24511" t="antecedent" cr="" w="" l="majority" p="N"/>
+     <dpg d="w24520" g="w24519" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w24521" g="w24520" t="pcomp-n" cr="mod*to*n:w24519" w="solvent" l="~" p="N"/>
+     <dpg d="w24522" g="w24521" t="punc" cr="punc:w24521" w="and" l="~" p="U"/>
+     <dpg d="w24523" g="w24521" t="conj" cr="conj:w24521" w="lie" l="~" p="N"/>
+     <dpg d="w24524" g="w24523" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w24525" g="w24524" t="pcomp-n" cr="mod*in*n:w24523" w="either" l="~" p="N"/>
+     <dpg d="w24526" g="w24525" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w24527" g="w24529" t="nn" cr="nn:w24529" w="two" l="~" p="N"/>
+     <dpg d="w24528" g="w24529" t="mod" cr="mod:w24529" w="hydrophobic" l="~" p="A"/>
+     <dpg d="w24529" g="w24526" t="pcomp-n" cr="mod*of*n:w24525" w="patches" l="patch" p="N"/>
+     <dpg d="w24530" g="w24529" t="punc" cr="punc:w24529" w="," l="~" p="U"/>
+     <dpg d="E0" g="w24529" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24531" g="E0" t="whn" cr="whn+subj:w24534" w="neither" l="~" p="N"/>
+     <dpg d="w24532" g="w24531" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w24533" g="w24532" t="pcomp-n" cr="mod*of*n:w24531" w="which" l="~" p="N"/>
+     <dpg d="w24533" g="w24529" t="antecedent" cr="antecedent:w24529" w="which" l="~" p="N"/>
+     <dpg d="w24534" g="E0" t="i" cr="rel:w24529" w="takes" l="take" p="V"/>
+     <dpg d="E4" g="w24534" t="subj" cr="" w="" l="neither" p="N"/>
+     <dpg d="E4" g="w24531" t="antecedent" cr="" w="" l="neither" p="N"/>
+     <dpg d="w24535" g="w24534" t="obj" cr="obj:w24534" w="part" l="~" p="N"/>
+     <dpg d="w24536" g="w24535" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w24537" g="w24538" t="det" cr="det:w24538" w="an" l="~" p="Det"/>
+     <dpg d="w24538" g="w24536" t="pcomp-n" cr="mod*in*n:w24535" w="interface" l="~" p="N"/>
+     <dpg d="w24539" g="w24538" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w24540" g="w24539" t="pcomp-n" cr="mod*with*n:w24538" w="actin" l="~" p="N"/>
+     <dpg d="w24541" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

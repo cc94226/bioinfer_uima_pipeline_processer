@@ -1,0 +1,36 @@
+<rexml>
+<doc id="443">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6370" g="w6377" t="s" cr="s+subj:w6377" w="Evidence" l="~" p="N"/>
+     <dpg d="w6371" g="w6370" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w6372" g="w6374" t="det" cr="det:w6374" w="a" l="~" p="Det"/>
+     <dpg d="w6373" g="w6374" t="mod" cr="mod:w6374" w="conformational" l="~" p="A"/>
+     <dpg d="w6374" g="w6371" t="pcomp-n" cr="mod*for*n:w6370" w="change" l="~" p="N"/>
+     <dpg d="w6375" g="w6374" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w6376" g="w6375" t="pcomp-n" cr="mod*in*n:w6374" w="actin" l="~" p="N"/>
+     <dpg d="w6377" g="E0" t="i" cr="" w="induced" l="induce" p="V"/>
+     <dpg d="E2" g="w6377" t="subj" cr="" w="" l="evidence" p="N"/>
+     <dpg d="E2" g="w6370" t="antecedent" cr="" w="" l="evidence" p="N"/>
+     <dpg d="w6378" g="w6377" t="guest" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w6379" g="w6378" t="pcomp-n" cr="guest*by*n:w6377" w="fimbrin" l="~" p="N"/>
+     <dpg d="w6380" g="w6377" t="punc" cr="punc:w6377" w="(" l="~" p="U"/>
+     <dpg d="w6381" g="w6383" t="nn" cr="nn:w6383" w="N375" l="~" p="N"/>
+     <dpg d="w6382" g="w6383" t="punc" cr="punc:w6383" w=")" l="~" p="U"/>
+     <dpg d="w6383" g="w6377" t="obj" cr="obj:w6377" w="binding" l="~" p="N"/>
+     <dpg d="w6384" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

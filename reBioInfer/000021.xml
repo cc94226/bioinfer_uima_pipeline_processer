@@ -1,0 +1,102 @@
+<rexml>
+<doc id="21">
+  <text>
+<p><s id="s1"><w id="w312">A</w> <w id="w313">core</w> <w id="w314">activity</w> <w id="w315">associated</w> <w id="w316">with</w> <w id="w317">the</w> <w id="w318">N</w> <w id="w319">terminus</w> <w id="w320">of</w> <w id="w321">the</w> <w id="w322">yeast</w> <w id="w323">RAD52</w> <w id="w324">protein</w> <w id="w325">is</w> <w id="w326">revealed</w> <w id="w327">by</w> <w id="w328">RAD51</w> <w id="w329">overexpression</w> <w id="w330">suppression</w> <w id="w331">of</w> <w id="w332">C-terminal</w> <w id="w333">rad52</w> <w id="w334">truncation</w> <w id="w335">alleles</w> <w id="w336">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e101" gid="g99" t="Gene/protein/RNA" fr="w323" to="w323" nam="yes">
+     <textspan type="extent">RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.21.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e102" gid="g100" t="RELATIONSHIP_TEXTBINDING" fr="w330" to="w331">
+     <textspan type="extent">suppression of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.21.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e103" gid="g101" t="Mutant" fr="w333" to="w335" nam="yes">
+     <textspan type="extent">rad52 truncation alleles</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.21.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e104" gid="g102" t="Expression" fr="w328" to="w329">
+     <textspan type="extent">RAD51 overexpression</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.21.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e105" gid="g103" t="Gene" fr="w333" to="w335" nam="yes">
+     <textspan type="extent">rad52 [..] alleles</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.21.4"/>
+      <exattr n="nst" v="st.21.21.0"/>
+      <exattr n="nst" v="st.21.23.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e106" gid="g104" t="Individual_protein" fr="w328" to="w328" nam="yes">
+     <textspan type="extent">RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.21.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e107" gid="g105" t="Gene" fr="w333" to="w333" nam="yes">
+     <textspan type="extent">rad52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.21.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r39" t="INHIBIT" e1="e104" e2="e103" re="e102">
+     <textspan type="extent">RAD51 overexpression suppression of C-terminal rad52 truncation alleles</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.21.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="INHIBIT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

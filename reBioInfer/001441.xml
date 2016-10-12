@@ -1,0 +1,151 @@
+<rexml>
+<doc id="1441">
+  <text>
+<p><s id="s1"><w id="w22669">The</w> <w id="w22670">current</w> <w id="w22671">view</w> <w id="w22672">of</w> <w id="w22673">the</w> <w id="w22674">mechanism</w> <w id="w22675">of</w> <w id="w22676">action</w> <w id="w22677">of</w> <w id="w22678">Acanthamoeba</w> <w id="w22679">profilin</w> <w id="w22680">is</w> <w id="w22681">that</w> <w id="w22682">it</w> <w id="w22683">binds</w> <w id="w22684">to</w> <w id="w22685">actin</w> <w id="w22686">monomers</w> <w id="w22687">,</w> <w id="w22688">forming</w> <w id="w22689">a</w> <w id="w22690">complex</w> <w id="w22691">that</w> <w id="w22692">cannot</w> <w id="w22693">polymerize</w> <w id="w22694">[</w> <w id="w22695">Tobacman</w> <w id="w22696">,</w> <w id="w22697">L.</w> <w id="w22698">S.</w> <w id="w22699">,</w> <w id="w22700">&amp;</w> <w id="w22701">Korn</w> <w id="w22702">,</w> <w id="w22703">E.</w> <w id="w22704">D.</w> <w id="w22705">(</w> <w id="w22706">1982</w> <w id="w22707">)</w> <w id="w22708">J.</w> <w id="w22709">Biol.</w> <w id="w22710">Chem.</w> <w id="w22711">257</w> <w id="w22712">,</w> <w id="w22713">4166-4170</w> <w id="w22714">;</w> <w id="w22715">Tseng</w> <w id="w22716">,</w> <w id="w22717">P.</w> <w id="w22718">,</w> <w id="w22719">&amp;</w> <w id="w22720">Pollard</w> <w id="w22721">,</w> <w id="w22722">T.</w> <w id="w22723">D.</w> <w id="w22724">(</w> <w id="w22725">1982</w> <w id="w22726">)</w> <w id="w22727">J.</w> <w id="w22728">Cell</w> <w id="w22729">Biol.</w> <w id="w22730">94</w> <w id="w22731">,</w> <w id="w22732">213-218</w> <w id="w22733">;</w> <w id="w22734">Tobacman</w> <w id="w22735">,</w> <w id="w22736">L.</w> <w id="w22737">S.</w> <w id="w22738">,</w> <w id="w22739">Brenner</w> <w id="w22740">,</w> <w id="w22741">S.</w> <w id="w22742">L.</w> <w id="w22743">,</w> <w id="w22744">&amp;</w> <w id="w22745">Korn</w> <w id="w22746">,</w> <w id="w22747">E.</w> <w id="w22748">D.</w> <w id="w22749">(</w> <w id="w22750">1983</w> <w id="w22751">)</w> <w id="w22752">J.</w> <w id="w22753">Biol.</w> <w id="w22754">Chem.</w> <w id="w22755">258</w> <w id="w22756">,</w> <w id="w22757">8806-8812</w> <w id="w22758">]</w> <w id="w22759">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5238" gid="g4999" t="Individual_protein" fr="w22678" to="w22679" nam="yes">
+     <textspan type="extent">Acanthamoeba profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1441.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5239" gid="g5000" t="RELATIONSHIP_TEXTBINDING" fr="w22683" to="w22684">
+     <textspan type="extent">binds to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1441.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5240" gid="g4999" t="Individual_protein" fr="w22682" to="w22682" nam="yes">
+     <textspan type="extent">it</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1441.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5241" gid="g5001" t="Individual_protein" fr="w22685" to="w22686" nam="yes">
+     <textspan type="extent">actin monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1441.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5242" gid="g5002" t="Protein_complex" fr="w22690" to="w22690" nam="yes">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1441.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5243" gid="g5003" t="RELATIONSHIP_TEXTBINDING" fr="w22692" to="w22692">
+     <textspan type="extent">cannot</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1441.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5244" gid="g5004" t="Individual_protein" fr="w22679" to="w22679" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1441.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5245" gid="g5005" t="RELATIONSHIP_TEXTBINDING" fr="w22688" to="w22690">
+     <textspan type="extent">forming [..] complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1441.7"/>
+      <exattr n="nst" v="st.1441.19.0"/>
+      <exattr n="nst" v="st.1441.21.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5246" gid="g5006" t="Individual_protein" fr="w22685" to="w22685" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1441.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e5247" gid="g5007" t="RELATIONSHIP_TEXTBINDING" fr="w22693" to="w22693">
+     <textspan type="extent">polymerize</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1441.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2013" t="BIND" e1="e5240" e2="e5241" re="e5239">
+     <textspan type="extent">it binds to actin monomers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1441.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2014" t="CONTAIN" e1="e5242" e2="e5240" re="e5245">
+     <textspan type="extent">it binds to actin monomers , forming a complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1441.7"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2015" t="CONTAIN" e1="e5242" e2="e5241" re="e5245">
+     <textspan type="extent">actin monomers , forming a complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1441.7"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

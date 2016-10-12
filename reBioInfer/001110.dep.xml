@@ -1,0 +1,45 @@
+<rexml>
+<doc id="1110">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w17550" g="w17551" t="mod" cr="mod:w17551" w="P-cadherin" l="P-cadherin" p="A"/>
+     <dpg d="w17551" g="w17552" t="s" cr="s:w17552||subj:w17555" w="expression" l="~" p="N"/>
+     <dpg d="w17552" g="E0" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="E2" g="w17555" t="subj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E2" g="w17551" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w17553" g="w17555" t="det" cr="det:w17555" w="a" l="~" p="Det"/>
+     <dpg d="w17554" g="w17555" t="mod" cr="mod:w17555" w="better" l="~" p="A"/>
+     <dpg d="w17555" g="w17552" t="pred" cr="pred:w17552" w="indicator" l="~" p="N"/>
+     <dpg d="w17556" g="w17555" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w17557" g="w17558" t="mod" cr="mod:w17558" w="clinical" l="~" p="A"/>
+     <dpg d="w17558" g="w17556" t="pcomp-n" cr="mod*of*n:w17555" w="outcome" l="~" p="N"/>
+     <dpg d="w17559" g="w17558" t="mod" cr="" w="than" l="~" p="Prep"/>
+     <dpg d="w17560" g="w17559" t="pcomp-n" cr="mod*than*n:w17558" w="alterations" l="alteration" p="N"/>
+     <dpg d="w17561" g="w17560" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w17562" g="w17563" t="det" cr="det:w17563" w="the" l="~" p="Det"/>
+     <dpg d="w17563" g="w17561" t="pcomp-n" cr="mod*in*n:w17560" w="expression" l="~" p="N"/>
+     <dpg d="w17564" g="w17563" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w17565" g="w17564" t="pcomp-n" cr="mod*of*n:w17563" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w17566" g="w17565" t="punc" cr="punc:w17565" w="," l="~" p="U"/>
+     <dpg d="w17567" g="w17565" t="conj" cr="conj:w17565" w="N-cadherin" l="N-cadherin" p="N"/>
+     <dpg d="w17568" g="w17567" t="punc" cr="punc:w17567" w="," l="~" p="U"/>
+     <dpg d="w17569" g="w17567" t="conj" cr="conj:w17567" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w17570" g="w17569" t="punc" cr="punc:w17569" w="," l="~" p="U"/>
+     <dpg d="w17571" g="w17569" t="punc" cr="punc:w17569" w="or" l="~" p="U"/>
+     <dpg d="w17572" g="w17569" t="conj" cr="conj:w17569" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w17573" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

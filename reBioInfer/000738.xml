@@ -1,0 +1,90 @@
+<rexml>
+<doc id="738">
+  <text>
+<p><s id="s1"><w id="w11476">In</w> <w id="w11477">contrast</w> <w id="w11478">,</w> <w id="w11479">profilin</w> <w id="w11480">had</w> <w id="w11481">little</w> <w id="w11482">effect</w> <w id="w11483">on</w> <w id="w11484">the</w> <w id="w11485">rigidity</w> <w id="w11486">and</w> <w id="w11487">viscosity</w> <w id="w11488">of</w> <w id="w11489">actin</w> <w id="w11490">filaments</w> <w id="w11491">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2680" gid="g2567" t="Individual_protein" fr="w11479" to="w11479" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.738.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2681" gid="g2568" t="RELATIONSHIP_TEXTBINDING" fr="w11482" to="w11483">
+     <textspan type="extent">effect on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.738.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2682" gid="g2569" t="Physical_property" fr="w11487" to="w11490">
+     <textspan type="extent">viscosity of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Physical_property"/>
+      <exattr n="bd" v="e.738.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2683" gid="g2570" t="Physical_property" fr="w11485" to="w11490">
+     <textspan type="extent">rigidity [..] of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Physical_property"/>
+      <exattr n="bd" v="e.738.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2684" gid="g2571" t="Cell_component" fr="w11489" to="w11490" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.738.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2685" gid="g2572" t="Individual_protein" fr="w11489" to="w11489" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.738.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1027" t="AFFECT" e1="e2680" e2="e2683" re="e2681">
+     <textspan type="extent">profilin had little effect on the rigidity and viscosity of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.738.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1028" t="AFFECT" e1="e2680" e2="e2682" re="e2681">
+     <textspan type="extent">profilin had little effect on the rigidity and viscosity of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.738.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

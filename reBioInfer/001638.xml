@@ -1,0 +1,83 @@
+<rexml>
+<doc id="1638">
+  <text>
+<p><s id="s1"><w id="w26157">The</w> <w id="w26158">recombinant</w> <w id="w26159">material</w> <w id="w26160">is</w> <w id="w26161">similar</w> <w id="w26162">to</w> <w id="w26163">authentic</w> <w id="w26164">human</w> <w id="w26165">platelet</w> <w id="w26166">profilin</w> <w id="w26167">based</w> <w id="w26168">on</w> <w id="w26169">the</w> <w id="w26170">measured</w> <w id="w26171">Kd</w> <w id="w26172">for</w> <w id="w26173">rabbit</w> <w id="w26174">skeletal</w> <w id="w26175">muscle</w> <w id="w26176">actin</w> <w id="w26177">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6020" gid="g5740" t="Individual_protein" fr="w26164" to="w26166" nam="yes">
+     <textspan type="extent">human platelet profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1638.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6021" gid="g5741" t="RELATIONSHIP_TEXTBINDING" fr="w26171" to="w26172">
+     <textspan type="extent">Kd for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1638.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6022" gid="g5742" t="Individual_protein" fr="w26173" to="w26176" nam="yes">
+     <textspan type="extent">rabbit skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1638.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6023" gid="g5743" t="Individual_protein" fr="w26165" to="w26166" nam="yes">
+     <textspan type="extent">platelet profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1638.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6024" gid="g5744" t="Individual_protein" fr="w26174" to="w26176" nam="yes">
+     <textspan type="extent">skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1638.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2295" t="BIND" e1="e6020" e2="e6022" re="e6021">
+     <textspan type="extent">human platelet profilin based on the measured Kd for rabbit skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1638.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

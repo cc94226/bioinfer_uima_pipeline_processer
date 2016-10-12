@@ -1,0 +1,58 @@
+<rexml>
+<doc id="876">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13773" g="E2" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w13774" g="w13775" t="det" cr="det:w13775" w="this" l="~" p="Det"/>
+     <dpg d="w13775" g="w13773" t="pcomp-n" cr="mod*in*n:w13778" w="study" l="~" p="N"/>
+     <dpg d="w13776" g="E2" t="punc" cr="punc:w13778" w="," l="~" p="U"/>
+     <dpg d="w13777" g="w13778" t="s" cr="s+subj:w13778||s+subj:w13779" w="we" l="~" p="N"/>
+     <dpg d="w13778" g="E2" t="i" cr="" w="demonstrate" l="~" p="V"/>
+     <dpg d="E5" g="w13778" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E5" g="w13777" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="E1" g="w13778" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="E0" g="E1" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w13777" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w13779" g="E0" t="i" cr="mod:w13796" w="using" l="use" p="V"/>
+     <dpg d="E6" g="w13779" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w13780" g="w13779" t="obj" cr="obj:w13779" w="viscosity" l="~" p="N"/>
+     <dpg d="w13781" g="w13780" t="punc" cr="punc:w13780" w="," l="~" p="U"/>
+     <dpg d="w13782" g="w13780" t="conj" cr="conj:w13780" w="sedimentation" l="~" p="N"/>
+     <dpg d="w13783" g="w13782" t="punc" cr="punc:w13782" w="," l="~" p="U"/>
+     <dpg d="w13784" g="w13782" t="punc" cr="punc:w13782" w="and" l="~" p="U"/>
+     <dpg d="w13785" g="w13788" t="nn" cr="nn:w13788" w="actin" l="~" p="N"/>
+     <dpg d="w13786" g="w13788" t="nn" cr="nn:w13788" w="assembly" l="~" p="N"/>
+     <dpg d="w13787" g="w13788" t="nn" cr="nn:w13788" w="rate" l="~" p="N"/>
+     <dpg d="w13788" g="w13782" t="conj" cr="conj:w13782" w="assays" l="assay" p="N"/>
+     <dpg d="w13789" g="w13791" t="det" cr="det:w13791" w="that" l="~" p="Det"/>
+     <dpg d="w13790" g="w13791" t="nn" cr="nn:w13791" w="yeast" l="~" p="N"/>
+     <dpg d="w13791" g="w13796" t="s" cr="s+subj:w13796" w="cofilin" l="~" p="N"/>
+     <dpg d="w13792" g="w13791" t="punc" cr="punc:w13791" w="(" l="~" p="U"/>
+     <dpg d="w13793" g="w13794" t="num" cr="num:w13794" w="16" l="~" p="N"/>
+     <dpg d="w13794" g="w13791" t="appo" cr="appo:w13791" w="kD" l="~" p="N"/>
+     <dpg d="w13795" g="w13796" t="punc" cr="punc:w13796" w=")" l="~" p="U"/>
+     <dpg d="w13796" g="E1" t="i" cr="fc:w13778" w="possesses" l="possess" p="V"/>
+     <dpg d="E7" g="w13796" t="subj" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="E7" g="w13791" t="antecedent" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="w13797" g="w13796" t="obj" cr="obj:w13796" w="all" l="~" p="N"/>
+     <dpg d="w13798" g="w13797" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w13799" g="w13800" t="det" cr="det:w13800" w="these" l="~" p="Det"/>
+     <dpg d="w13800" g="w13798" t="pcomp-n" cr="mod*of*n:w13797" w="properties" l="property" p="N"/>
+     <dpg d="w13801" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

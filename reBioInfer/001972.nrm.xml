@@ -1,0 +1,60 @@
+<rexml>
+<doc id="1972">
+  
+  <markup>
+   <nes>
+    <ne id="e7235" gid="g6903" t="Individual_protein" fr="w31620" to="w31620" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1972.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7238" gid="g6906" t="Individual_protein" fr="w31628" to="w31628" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1972.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7237" gid="g6905" t="Gene/protein/RNA" fr="w31630" to="w31632" nam="yes" sid="s1">
+     <textspan>Bet v 1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1972.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2772" t="MODULATE" e1="e7235" e2="e7238" re="e7236">
+     <textspan>profilin , a 14 kd protein that regulates actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1972.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="MODULATE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

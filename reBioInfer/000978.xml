@@ -1,0 +1,108 @@
+<rexml>
+<doc id="978">
+  <text>
+<p><s id="s1"><w id="w15415">MgCl2</w> <w id="w15416">strongly</w> <w id="w15417">inhibits</w> <w id="w15418">these</w> <w id="w15419">effects</w> <w id="w15420">of</w> <w id="w15421">profilin</w> <w id="w15422">,</w> <w id="w15423">most</w> <w id="w15424">likely</w> <w id="w15425">by</w> <w id="w15426">binding</w> <w id="w15427">to</w> <w id="w15428">the</w> <w id="w15429">high-affinity</w> <w id="w15430">divalent</w> <w id="w15431">cation</w> <w id="w15432">site</w> <w id="w15433">on</w> <w id="w15434">the</w> <w id="w15435">actin</w> <w id="w15436">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3481" gid="g3334" t="RELATIONSHIP_TEXTBINDING" fr="w15417" to="w15425">
+     <textspan type="extent">inhibits [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.978.0"/>
+      <exattr n="nst" v="st.978.2.0"/>
+      <exattr n="nst" v="st.978.10.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3482" gid="g3335" t="EFFECT" fr="w15419" to="w15421">
+     <textspan type="extent">effects of profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="EFFECT"/>
+      <exattr n="bd" v="e.978.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3483" gid="g3336" t="Inorganic" fr="w15415" to="w15415" nam="yes">
+     <textspan type="extent">MgCl2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Inorganic"/>
+      <exattr n="bd" v="e.978.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3484" gid="g3337" t="RELATIONSHIP_TEXTBINDING" fr="w15425" to="w15427">
+     <textspan type="extent">by binding to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.978.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3485" gid="g3338" t="Individual_protein" fr="w15421" to="w15421" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.978.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3486" gid="g3339" t="Substructure_of_protein" fr="w15432" to="w15435" nam="yes">
+     <textspan type="extent">site on the actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.978.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3487" gid="g3340" t="Individual_protein" fr="w15435" to="w15435" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.978.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1311" t="SUPPRESS" e1="e3484" e2="e3482" re="e3481">
+     <textspan type="extent">MgCl2 strongly inhibits these effects of profilin , most likely by binding to the high-affinity divalent cation site on the actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.978.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r1312" t="BIND" e1="e3483" e2="e3486" re="e3484">
+     <textspan type="extent">MgCl2 strongly inhibits these effects of profilin , most likely by binding to the high-affinity divalent cation site on the actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.978.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

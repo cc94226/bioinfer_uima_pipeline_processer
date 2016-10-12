@@ -1,0 +1,58 @@
+<rexml>
+<doc id="1977">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="E1" g="E2" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="s+subj:w31718" w="" l="~" p="N"/>
+     <dpg d="w31718" g="E1" t="i" cr="mod:w31730" w="Using" l="use" p="V"/>
+     <dpg d="E6" g="w31718" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31719" g="w31723" t="det" cr="det:w31723" w="an" l="~" p="Det"/>
+     <dpg d="w31720" g="w31721" t="lex-mod" cr="lex-mod:w31721" w="in" l="~" p="U"/>
+     <dpg d="w31721" g="w31723" t="mod" cr="mod:w31723" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w31722" g="w31723" t="nn" cr="nn:w31723" w="assay" l="~" p="N"/>
+     <dpg d="w31723" g="w31718" t="obj" cr="obj:w31718||s+subj:w31724" w="system" l="~" p="N"/>
+     <dpg d="E0" g="w31723" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w31723" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31724" g="E0" t="i" cr="rel:w31723" w="involving" l="involve" p="V"/>
+     <dpg d="E7" g="w31724" t="subj" cr="" w="" l="system" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="system" p="N"/>
+     <dpg d="w31725" g="w31726" t="mod" cr="mod:w31726" w="bacterially" l="~" p="A"/>
+     <dpg d="w31726" g="w31727" t="mod" cr="mod:w31727" w="expressed" l="~" p="A"/>
+     <dpg d="w31727" g="w31724" t="obj" cr="obj:w31724" w="proteins" l="protein" p="N"/>
+     <dpg d="w31728" g="E2" t="punc" cr="punc:w31730" w="," l="~" p="U"/>
+     <dpg d="w31729" g="w31730" t="s" cr="s+subj:w31730" w="we" l="~" p="N"/>
+     <dpg d="w31730" g="E2" t="i" cr="" w="localized" l="localize" p="V"/>
+     <dpg d="E8" g="w31730" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E8" g="w31729" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w31731" g="w31732" t="det" cr="det:w31732" w="a" l="~" p="Det"/>
+     <dpg d="w31732" g="w31730" t="obj" cr="obj:w31730" w="region" l="~" p="N"/>
+     <dpg d="w31733" g="w31732" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w31734" g="w31733" t="pcomp-n" cr="mod*in*n:w31732||obj:w31735" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w31735" g="w31734" t="vrel" cr="vrel:w31734" w="required" l="require" p="V"/>
+     <dpg d="E9" g="w31735" t="obj" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="E9" g="w31734" t="antecedent" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="w31736" g="w31735" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w31737" g="w31738" t="mod" cr="mod:w31738" w="molecular" l="~" p="A"/>
+     <dpg d="w31738" g="w31736" t="pcomp-n" cr="mod*for*n:w31735" w="interaction" l="~" p="N"/>
+     <dpg d="w31739" g="w31738" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w31740" g="w31739" t="pcomp-n" cr="mod*with*n:w31738" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w31741" g="w31740" t="punc" cr="punc:w31740" w="and" l="~" p="U"/>
+     <dpg d="w31742" g="w31740" t="conj" cr="conj:w31740" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w31743" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

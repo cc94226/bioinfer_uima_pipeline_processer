@@ -1,0 +1,145 @@
+<rexml>
+<doc id="721">
+  
+  <markup>
+   <nes>
+    <ne id="e2627" gid="g2517" t="Individual_protein" fr="w11163" to="w11163" nam="yes" sid="s1">
+     <textspan>TFIIIC</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.721.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2624" gid="g2514" t="Individual_protein" fr="w11167" to="w11167" nam="yes" sid="s1">
+     <textspan>PRP21</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.721.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2626" gid="g2516" t="Individual_protein" fr="w11169" to="w11169" nam="yes" sid="s1">
+     <textspan>PRP9</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.721.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2625" gid="g2515" t="Individual_protein" fr="w11171" to="w11171" nam="yes" sid="s1">
+     <textspan>PRP21</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.721.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2628" gid="g2518" t="Individual_protein" fr="w11173" to="w11173" nam="yes" sid="s1">
+     <textspan>PRP11</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.721.5"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1005" t="INTERACT" e1="e2624" e2="e2626" re="e2623">
+     <textspan>interacting proteins recruiting TFIIIC to DNA were PRP21 and PRP9</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.721.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1006" t="INTERACT" e1="e2625" e2="e2628" re="e2623">
+     <textspan>interacting proteins recruiting TFIIIC to DNA were PRP21 and PRP9 or PRP21 and PRP11</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.721.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1007" t="LOCALIZE" e1="e2624" e2="e2627" re="e2629">
+     <textspan>recruiting TFIIIC to DNA were PRP21</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.721.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1008" t="LOCALIZE" e1="e2626" e2="e2627" re="e2629">
+     <textspan>recruiting TFIIIC to DNA were PRP21 and PRP9</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.721.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1009" t="LOCALIZE" e1="e2625" e2="e2627" re="e2629">
+     <textspan>recruiting TFIIIC to DNA were PRP21 and PRP9 or PRP21</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.721.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1010" t="LOCALIZE" e1="e2628" e2="e2627" re="e2629">
+     <textspan>recruiting TFIIIC to DNA were PRP21 and PRP9 or PRP21 and PRP11</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.721.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,80 @@
+<rexml>
+<doc id="1899">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E1" t="s" cr="s+subj:w30450" w="" l="~" p="N"/>
+     <dpg d="w30449" g="w30450" t="aux" cr="aux:w30450" w="To" l="~" p="Aux"/>
+     <dpg d="w30450" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="determine" l="~" p="V"/>
+     <dpg d="E5" g="w30450" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w30451" g="w30452" t="det" cr="det:w30452" w="the" l="~" p="Det"/>
+     <dpg d="w30452" g="w30450" t="obj" cr="obj:w30450" w="effect" l="~" p="N"/>
+     <dpg d="w30453" g="w30452" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w30454" g="w30457" t="lex-mod" cr="lex-mod:w30457" w="insulin-like" l="~" p="U"/>
+     <dpg d="w30455" g="w30457" t="lex-mod" cr="lex-mod:w30457" w="growth" l="~" p="U"/>
+     <dpg d="w30456" g="w30457" t="lex-mod" cr="lex-mod:w30457" w="factor" l="~" p="U"/>
+     <dpg d="w30457" g="w30453" t="pcomp-n" cr="mod*of*n:w30452" w="I" l="insulin-like growth factor I" p="N"/>
+     <dpg d="w30458" g="w30459" t="punc" cr="punc:w30459" w="(" l="~" p="U"/>
+     <dpg d="w30459" g="w30457" t="abbrev" cr="abbrev:w30457" w="IGF-I" l="IGF-I" p="N"/>
+     <dpg d="w30460" g="w30459" t="punc" cr="punc:w30459" w=")" l="~" p="U"/>
+     <dpg d="w30461" g="w30457" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w30462" g="w30465" t="mod" cr="mod:w30465" w="cardiac" l="~" p="A"/>
+     <dpg d="w30463" g="w30465" t="mod" cr="mod:w30465" w="contractile" l="~" p="A"/>
+     <dpg d="w30464" g="w30465" t="nn" cr="nn:w30465" w="protein" l="~" p="N"/>
+     <dpg d="w30465" g="w30461" t="pcomp-n" cr="mod*on*n:w30457" w="synthesis" l="~" p="N"/>
+     <dpg d="E0" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w30466" g="w30467" t="lex-mod" cr="lex-mod:w30467" w="in" l="~" p="U"/>
+     <dpg d="w30467" g="E0" t="mod" cr="mod:w30470" w="vivo" l="in vivo" p="A"/>
+     <dpg d="w30468" g="E0" t="punc" cr="punc:w30470" w="," l="~" p="U"/>
+     <dpg d="w30469" g="w30470" t="s" cr="s+subj:w30470" w="we" l="~" p="N"/>
+     <dpg d="w30470" g="E0" t="i" cr="UNSPECRELTYPE:E4" w="measured" l="measure" p="V"/>
+     <dpg d="E6" g="w30470" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E6" g="w30469" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w30471" g="w30470" t="obj" cr="obj:w30470" w="L-[ring-2" l="ring-2" p="N"/>
+     <dpg d="w30472" g="w30471" t="punc" cr="punc:w30471" w="," l="~" p="U"/>
+     <dpg d="w30473" g="w30474" t="nn" cr="nn:w30474" w="6-3H]phenylalanine" l="~" p="N"/>
+     <dpg d="w30474" g="w30471" t="conj" cr="conj:w30471" w="incorporation" l="~" p="N"/>
+     <dpg d="w30475" g="w30474" t="mod" cr="" w="into" l="~" p="Prep"/>
+     <dpg d="w30476" g="w30478" t="nn" cr="nn:w30478" w="myosin" l="~" p="N"/>
+     <dpg d="w30477" g="w30478" t="mod" cr="mod:w30478" w="heavy" l="~" p="A"/>
+     <dpg d="w30478" g="w30475" t="pcomp-n" cr="mod*into*n:w30474" w="chain" l="~" p="N"/>
+     <dpg d="w30479" g="w30478" t="punc" cr="punc:w30478" w="and" l="~" p="U"/>
+     <dpg d="w30480" g="w30478" t="conj" cr="conj:w30478" w="actin" l="~" p="N"/>
+     <dpg d="w30481" g="w30480" t="mod" cr="" w="during" l="~" p="Prep"/>
+     <dpg d="w30482" g="w30483" t="mod" cr="mod:w30483" w="intravenous" l="~" p="A"/>
+     <dpg d="w30483" g="w30481" t="pcomp-n" cr="mod*during*n:w30480" w="infusions" l="infusion" p="N"/>
+     <dpg d="w30484" g="w30483" t="punc" cr="punc:w30483" w="(" l="~" p="U"/>
+     <dpg d="w30485" g="w30486" t="num" cr="num:w30486" w="4" l="~" p="N"/>
+     <dpg d="w30486" g="w30483" t="appo" cr="appo:w30483" w="h" l="~" p="N"/>
+     <dpg d="w30487" g="w30480" t="punc" cr="punc:w30480" w=")" l="~" p="U"/>
+     <dpg d="w30488" g="w30480" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w30489" g="w30488" t="punc" cr="punc:w30488" w="either" l="~" p="U"/>
+     <dpg d="w30490" g="w30488" t="pcomp-n" cr="mod*of*n:w30480" w="saline" l="~" p="N"/>
+     <dpg d="w30491" g="w30490" t="punc" cr="punc:w30490" w="or" l="~" p="U"/>
+     <dpg d="w30492" g="w30495" t="nn" cr="nn:w30495" w="IGF-I" l="IGF-I" p="N"/>
+     <dpg d="w30493" g="w30495" t="punc" cr="punc:w30495" w="(" l="~" p="U"/>
+     <dpg d="w30494" g="w30495" t="amount-value" cr="amount-value:w30495" w="1" l="~" p="N"/>
+     <dpg d="w30495" g="w30490" t="conj" cr="conj:w30490" w="microgram." l="~" p="N"/>
+     <dpg d="w30496" g="w30497" t="lex-mod" cr="lex-mod:w30497" w="kg-1." l="~" p="U"/>
+     <dpg d="w30497" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="min-1" l="kg-1. min-1" p="N"/>
+     <dpg d="w30498" g="E4" t="punc" cr="punc:E4" w=")" l="~" p="U"/>
+     <dpg d="w30499" g="E4" t="punc" cr="punc:E4" w="in" l="~" p="U"/>
+     <dpg d="w30500" g="E4" t="subcat" cr="subcat:E4" w="awake" l="~" p="A"/>
+     <dpg d="w30501" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="rats" l="rat" p="N"/>
+     <dpg d="w30502" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

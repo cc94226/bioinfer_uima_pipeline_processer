@@ -1,0 +1,144 @@
+<rexml>
+<doc id="205">
+  <text>
+<p><s id="s1"><w id="w3163">BACKGROUND</w> <w id="w3164">:</w> <w id="w3165">p27</w><w id="w3166">(</w><w id="w3167">Kip1</w><w id="w3168">)</w> <w id="w3169">,</w> <w id="w3170">a</w> <w id="w3171">cyclin-dependent</w> <w id="w3172">kinase</w> <w id="w3173">inhibitor</w> <w id="w3174">,</w> <w id="w3175">negatively</w> <w id="w3176">regulates</w> <w id="w3177">the</w> <w id="w3178">G1</w> <w id="w3179">phase</w> <w id="w3180">progression</w> <w id="w3181">of</w> <w id="w3182">the</w> <w id="w3183">cell</w> <w id="w3184">cycle</w> <w id="w3185">by</w> <w id="w3186">binding</w> <w id="w3187">to</w> <w id="w3188">the</w> <w id="w3189">cyclin</w> <w id="w3190">E</w><w id="w3191">/</w><w id="w3192">cyclin-dependent</w> <w id="w3193">kinase</w> <w id="w3194">2</w> <w id="w3195">complex</w> <w id="w3196">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e760" gid="g734" t="Individual_protein" fr="w3165" to="w3165" nam="yes">
+     <textspan type="extent">p27</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.205.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e761" gid="g735" t="RELATIONSHIP_TEXTBINDING" fr="w3185" to="w3187">
+     <textspan type="extent">by binding to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.205.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e762" gid="g734" t="Individual_protein" fr="w3167" to="w3167" nam="yes">
+     <textspan type="extent">Kip1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.205.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e763" gid="g736" t="Individual_protein" fr="w3189" to="w3190" nam="yes">
+     <textspan type="extent">cyclin E</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.205.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e764" gid="g737" t="Protein_complex" fr="w3189" to="w3195" nam="yes">
+     <textspan type="extent">cyclin E/cyclin-dependent kinase 2 complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.205.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e765" gid="g738" t="Protein_family_or_group" fr="w3171" to="w3173" nam="yes">
+     <textspan type="extent">cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.205.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e766" gid="g739" t="RELATIONSHIP_TEXTBINDING" fr="w3195" to="w3195">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.205.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e767" gid="g740" t="Individual_protein" fr="w3192" to="w3194" nam="yes">
+     <textspan type="extent">cyclin-dependent kinase 2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.205.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r281" t="CONTAIN" e1="e764" e2="e763" re="e766">
+     <textspan type="extent">cyclin E / cyclin-dependent kinase 2 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.205.6"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r282" t="CONTAIN" e1="e764" e2="e767" re="e766">
+     <textspan type="extent">cyclin E / cyclin-dependent kinase 2 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.205.6"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r283" t="BIND" e1="e760" e2="e764" re="e761">
+     <textspan type="extent">p27 ( Kip1 ) , a cyclin-dependent kinase inhibitor , negatively regulates the G1 phase progression of the cell cycle by binding to the cyclin E / cyclin-dependent kinase 2 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.205.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r284" t="MEMBER" e1="e765" e2="e760" re="">
+     <textspan type="extent">p27 ( Kip1 ) , a cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

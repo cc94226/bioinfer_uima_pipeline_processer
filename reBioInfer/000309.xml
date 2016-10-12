@@ -1,0 +1,81 @@
+<rexml>
+<doc id="309">
+  <text>
+<p><s id="s1"><w id="w4764">Characterization</w> <w id="w4765">of</w> <w id="w4766">the</w> <w id="w4767">action</w> <w id="w4768">of</w> <w id="w4769">porcine</w> <w id="w4770">brain</w> <w id="w4771">profilin</w> <w id="w4772">on</w> <w id="w4773">actin</w> <w id="w4774">polymerization</w> <w id="w4775">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1148" gid="g1094" t="RELATIONSHIP_TEXTBINDING" fr="w4767" to="w4772">
+     <textspan type="extent">action of [..] on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.309.0"/>
+      <exattr n="nst" v="st.309.3.0"/>
+      <exattr n="nst" v="st.309.4.0"/>
+      <exattr n="nst" v="st.309.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1149" gid="g1095" t="Individual_protein" fr="w4769" to="w4771" nam="yes">
+     <textspan type="extent">porcine brain profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.309.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1150" gid="g1096" t="POLYMERIZATION" fr="w4773" to="w4774">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.309.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1151" gid="g1097" t="Individual_protein" fr="w4770" to="w4771" nam="yes">
+     <textspan type="extent">brain profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.309.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1152" gid="g1098" t="Individual_protein" fr="w4773" to="w4773" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.309.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r454" t="AFFECT" e1="e1149" e2="e1150" re="e1148">
+     <textspan type="extent">action of porcine brain profilin on actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.309.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

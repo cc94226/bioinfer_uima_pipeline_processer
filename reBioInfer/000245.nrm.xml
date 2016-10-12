@@ -1,0 +1,101 @@
+<rexml>
+<doc id="245">
+  
+  <markup>
+   <nes>
+    <ne id="e913" gid="g876" t="Individual_protein" fr="w3749" to="w3749" nam="yes" sid="s1">
+     <textspan>Neuropilin-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.245.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e918" gid="g876" t="Individual_protein" fr="w3751" to="w3751" nam="yes" sid="s1">
+     <textspan>NRP1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.245.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e919" gid="g880" t="Protein_family_or_group" fr="w3759" to="w3759" nam="yes" sid="s1">
+     <textspan>semaphorins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.245.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e915" gid="g878" t="Individual_protein" fr="w3768" to="w3772" nam="yes" sid="s1">
+     <textspan>vascular endothelial growth factor 165</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.245.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e917" gid="g878" t="Individual_protein" fr="w3774" to="w3774" nam="yes" sid="s1">
+     <textspan>VEGF(165)</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.245.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r347" t="BIND" e1="e913" e2="e919" re="e914">
+     <textspan>Neuropilin-1 ( NRP1 ) is a 130-kDa transmembrane receptor for semaphorins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.245.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r348" t="BIND" e1="e913" e2="e915" re="e916">
+     <textspan>Neuropilin-1 ( NRP1 ) is a 130-kDa transmembrane receptor for semaphorins , mediators of neuronal guidance , and for vascular endothelial growth factor 165</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.245.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

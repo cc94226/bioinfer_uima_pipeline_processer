@@ -1,0 +1,58 @@
+<rexml>
+<doc id="586">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8406" g="E2" t="mod" cr="mod:w8408" w="Here" l="~" p="N"/>
+     <dpg d="w8407" g="w8408" t="s" cr="s+subj:w8408" w="we" l="~" p="N"/>
+     <dpg d="w8408" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="report" l="~" p="V"/>
+     <dpg d="E6" g="w8408" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E6" g="w8407" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w8409" g="w8411" t="det" cr="det:w8411" w="the" l="~" p="Det"/>
+     <dpg d="w8410" g="w8411" t="mod" cr="mod:w8411" w="functional" l="~" p="A"/>
+     <dpg d="w8411" g="w8408" t="obj" cr="obj:w8408" w="importance" l="~" p="N"/>
+     <dpg d="w8412" g="w8411" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w8413" g="w8412" t="pcomp-n" cr="mod*of*n:w8411" w="profilin" l="~" p="N"/>
+     <dpg d="w8414" g="w8413" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w8415" g="w8419" t="mod" cr="mod:w8419" w="various" l="~" p="A"/>
+     <dpg d="w8416" g="w8417" t="lex-mod" cr="lex-mod:w8417" w="actin" l="~" p="U"/>
+     <dpg d="w8417" g="w8419" t="nn" cr="nn:w8419" w="-mediated" l="actin -mediated" p="N"/>
+     <dpg d="w8418" g="w8419" t="mod" cr="mod:w8419" w="morphological" l="~" p="A"/>
+     <dpg d="w8419" g="w8414" t="pcomp-n" cr="mod*in*n:w8413||s+subj:w8420" w="changes" l="change" p="N"/>
+     <dpg d="E1" g="w8419" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w8419" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w8420" g="E1" t="i" cr="rel:w8419" w="using" l="use" p="V"/>
+     <dpg d="E7" g="w8420" t="subj" cr="" w="" l="change" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="change" p="N"/>
+     <dpg d="w8421" g="w8423" t="nn" cr="nn:w8423" w="H119E" l="~" p="N"/>
+     <dpg d="w8422" g="w8423" t="mod" cr="mod:w8423" w="mutant" l="~" p="A"/>
+     <dpg d="w8423" g="w8420" t="obj" cr="obj:w8420" w="profilin" l="~" p="N"/>
+     <dpg d="w8424" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="I" l="~" p="N"/>
+     <dpg d="w8425" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="E0" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8426" g="E0" t="whn" cr="whn:w8427||subj:w8428" w="which" l="~" p="N"/>
+     <dpg d="w8427" g="E0" t="i" cr="UNSPECRELTYPE:E5" w="is" l="be" p="VBE"/>
+     <dpg d="w8428" g="w8427" t="pred" cr="pred:w8427" w="deficient" l="~" p="A"/>
+     <dpg d="E8" g="w8428" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E8" g="w8426" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w8429" g="w8427" t="mod" cr="mod:w8427" w="only" l="~" p="A"/>
+     <dpg d="w8430" g="w8429" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w8431" g="w8432" t="nn" cr="nn:w8432" w="actin" l="~" p="N"/>
+     <dpg d="w8432" g="w8430" t="pcomp-n" cr="mod*in*n:w8429" w="binding" l="~" p="N"/>
+     <dpg d="w8433" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

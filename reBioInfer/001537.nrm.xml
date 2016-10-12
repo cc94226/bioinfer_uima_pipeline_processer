@@ -1,0 +1,152 @@
+<rexml>
+<doc id="1537">
+  
+  <markup>
+   <nes>
+    <ne id="e5649" gid="g5392" t="Individual_protein" fr="w24330" to="w24330" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1537.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5651" gid="g5394" t="Individual_protein" fr="w24332" to="w24332" nam="yes" sid="s1">
+     <textspan>villin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1537.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5650" gid="g5393" t="Individual_protein" fr="w24334" to="w24334" nam="yes" sid="s1">
+     <textspan>fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1537.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5652" gid="g5395" t="Individual_protein" fr="w24336" to="w24338" nam="yes" sid="s1">
+     <textspan>brush border myosin-I</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1537.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2167" t="COLOCALIZE" e1="e5649" e2="e5651" re="e5648">
+     <textspan>cytoskeleton ( core ) consists of four major proteins : actin , villin , fimbrin and brush border myosin-I</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1537.0"/>
+      <exattr n="arg" v="e5649"/>
+      <exattr n="arg" v="e5651"/>
+      <exattr n="arg" v="e5650"/>
+      <exattr n="arg" v="e5652"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2167" t="COLOCALIZE" e1="e5649" e2="e5650" re="e5648">
+     <textspan>cytoskeleton ( core ) consists of four major proteins : actin , villin , fimbrin and brush border myosin-I</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1537.0"/>
+      <exattr n="arg" v="e5649"/>
+      <exattr n="arg" v="e5651"/>
+      <exattr n="arg" v="e5650"/>
+      <exattr n="arg" v="e5652"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2167" t="COLOCALIZE" e1="e5649" e2="e5652" re="e5648">
+     <textspan>cytoskeleton ( core ) consists of four major proteins : actin , villin , fimbrin and brush border myosin-I</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1537.0"/>
+      <exattr n="arg" v="e5649"/>
+      <exattr n="arg" v="e5651"/>
+      <exattr n="arg" v="e5650"/>
+      <exattr n="arg" v="e5652"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2167" t="COLOCALIZE" e1="e5651" e2="e5650" re="e5648">
+     <textspan>cytoskeleton ( core ) consists of four major proteins : actin , villin , fimbrin and brush border myosin-I</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1537.0"/>
+      <exattr n="arg" v="e5649"/>
+      <exattr n="arg" v="e5651"/>
+      <exattr n="arg" v="e5650"/>
+      <exattr n="arg" v="e5652"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2167" t="COLOCALIZE" e1="e5651" e2="e5652" re="e5648">
+     <textspan>cytoskeleton ( core ) consists of four major proteins : actin , villin , fimbrin and brush border myosin-I</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1537.0"/>
+      <exattr n="arg" v="e5649"/>
+      <exattr n="arg" v="e5651"/>
+      <exattr n="arg" v="e5650"/>
+      <exattr n="arg" v="e5652"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2167" t="COLOCALIZE" e1="e5650" e2="e5652" re="e5648">
+     <textspan>cytoskeleton ( core ) consists of four major proteins : actin , villin , fimbrin and brush border myosin-I</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1537.0"/>
+      <exattr n="arg" v="e5649"/>
+      <exattr n="arg" v="e5651"/>
+      <exattr n="arg" v="e5650"/>
+      <exattr n="arg" v="e5652"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

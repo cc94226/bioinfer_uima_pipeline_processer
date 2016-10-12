@@ -1,0 +1,244 @@
+<rexml>
+<doc id="1842">
+  <text>
+<p><s id="s1"><w id="w29511">This</w> <w id="w29512">suggests</w> <w id="w29513">that</w> <w id="w29514">dephosphorylation</w> <w id="w29515">of</w> <w id="w29516">cofilin</w> <w id="w29517">and</w> <w id="w29518">destrin</w><w id="w29519">/</w><w id="w29520">ADF</w> <w id="w29521">by</w> <w id="w29522">TSH</w> <w id="w29523">could</w> <w id="w29524">be</w> <w id="w29525">implicated</w> <w id="w29526">in</w> <w id="w29527">the</w> <w id="w29528">disruption</w> <w id="w29529">of</w> <w id="w29530">actin</w><w id="w29531">-containing</w> <w id="w29532">stress</w> <w id="w29533">fibers</w> <w id="w29534">and</w> <w id="w29535">in</w> <w id="w29536">the</w> <w id="w29537">reorganization</w> <w id="w29538">of</w> <w id="w29539">microfilaments</w> <w id="w29540">induced</w> <w id="w29541">by</w> <w id="w29542">this</w> <w id="w29543">hormone</w> <w id="w29544">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6821" gid="g6509" t="RELATIONSHIP_TEXTBINDING" fr="w29514" to="w29521">
+     <textspan type="extent">dephosphorylation of [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1842.0"/>
+      <exattr n="nst" v="st.1842.3.0"/>
+      <exattr n="nst" v="st.1842.4.0"/>
+      <exattr n="nst" v="st.1842.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6822" gid="g6510" t="Individual_protein" fr="w29516" to="w29516" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1842.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6823" gid="g6511" t="Individual_protein" fr="w29522" to="w29522" nam="yes">
+     <textspan type="extent">TSH</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1842.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6824" gid="g6512" t="Individual_protein" fr="w29518" to="w29518" nam="yes">
+     <textspan type="extent">destrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1842.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6825" gid="g6512" t="Individual_protein" fr="w29520" to="w29520" nam="yes">
+     <textspan type="extent">ADF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1842.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6826" gid="g6513" t="DISASSEMBLY" fr="w29528" to="w29533">
+     <textspan type="extent">disruption of actin-containing [..] fibers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Break-down"/>
+      <exattr n="t4" v="DISASSEMBLY"/>
+      <exattr n="bd" v="e.1842.5"/>
+      <exattr n="nst" v="st.1842.15.0"/>
+      <exattr n="nst" v="st.1842.16.0"/>
+      <exattr n="nst" v="st.1842.17.0"/>
+      <exattr n="nst" v="st.1842.17.1"/>
+      <exattr n="nst" v="st.1842.19.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6827" gid="g6514" t="MODIFICATION" fr="w29537" to="w29543">
+     <textspan type="extent">reorganization [..] induced by this hormone</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1842.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6828" gid="g6515" t="Cell_component" fr="w29530" to="w29533" nam="yes">
+     <textspan type="extent">actin-containing [..] fibers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1842.7"/>
+      <exattr n="nst" v="st.1842.17.0"/>
+      <exattr n="nst" v="st.1842.17.1"/>
+      <exattr n="nst" v="st.1842.19.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6829" gid="g6511" t="Individual_protein" fr="w29542" to="w29542" nam="yes">
+     <textspan type="extent">this</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1842.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6830" gid="g6516" t="Individual_protein" fr="w29542" to="w29543" nam="yes">
+     <textspan type="extent">this hormone</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1842.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6831" gid="g6517" t="RELATIONSHIP_TEXTBINDING" fr="w29525" to="w29535">
+     <textspan type="extent">implicated [..] in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1842.10"/>
+      <exattr n="nst" v="st.1842.12.0"/>
+      <exattr n="nst" v="st.1842.21.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6832" gid="g6518" t="Individual_protein" fr="w29530" to="w29530" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1842.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e6833" gid="g6519" t="RELATIONSHIP_TEXTBINDING" fr="w29525" to="w29526">
+     <textspan type="extent">implicated in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1842.12"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2612" t="PARTICIPATE" e1="e6821" e2="e6826" re="e6833">
+     <textspan type="extent">dephosphorylation of cofilin and destrin / ADF by TSH could be implicated in the disruption of actin -containing stress fibers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1842.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2613" t="DEPHOSPHORYLATE" e1="e6823" e2="e6822" re="e6821">
+     <textspan type="extent">dephosphorylation of cofilin and destrin / ADF by TSH</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1842.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Removal"/>
+     </exattrs>
+    </rel>
+    <rel id="r2614" t="PARTICIPATE" e1="e6821" e2="e6826" re="e6833">
+     <textspan type="extent">dephosphorylation of cofilin and destrin / ADF by TSH could be implicated in the disruption of actin -containing stress fibers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1842.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2615" t="DEPHOSPHORYLATE" e1="e6823" e2="e6824" re="e6821">
+     <textspan type="extent">dephosphorylation of cofilin and destrin / ADF by TSH</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1842.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Removal"/>
+     </exattrs>
+    </rel>
+    <rel id="r2617" t="PARTICIPATE" e1="e6821" e2="e6827" re="e6831">
+     <textspan type="extent">dephosphorylation of cofilin and destrin / ADF by TSH could be implicated in the disruption of actin -containing stress fibers and in the reorganization of microfilaments induced by this hormone</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1842.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2618" t="DEPHOSPHORYLATE" e1="e6823" e2="e6822" re="e6821">
+     <textspan type="extent">dephosphorylation of cofilin and destrin / ADF by TSH</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1842.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Removal"/>
+     </exattrs>
+    </rel>
+    <rel id="r2619" t="PARTICIPATE" e1="e6821" e2="e6827" re="e6831">
+     <textspan type="extent">dephosphorylation of cofilin and destrin / ADF by TSH could be implicated in the disruption of actin -containing stress fibers and in the reorganization of microfilaments induced by this hormone</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1842.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2620" t="DEPHOSPHORYLATE" e1="e6823" e2="e6824" re="e6821">
+     <textspan type="extent">dephosphorylation of cofilin and destrin / ADF by TSH</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1842.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Removal"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

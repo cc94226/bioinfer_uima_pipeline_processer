@@ -1,0 +1,36 @@
+<rexml>
+<doc id="1200">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w18951" g="" t="" cr="" w="Removal" l="~" p="N"/>
+     <dpg d="w18952" g="w18951" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w18953" g="w18956" t="nn" cr="nn:w18956" w="one" l="~" p="N"/>
+     <dpg d="w18954" g="w18956" t="mod" cr="mod:w18956" w="nonhomologous" l="~" p="A"/>
+     <dpg d="w18955" g="w18956" t="lex-mod" cr="lex-mod:w18956" w="DNA" l="~" p="U"/>
+     <dpg d="w18956" g="w18952" t="pcomp-n" cr="mod*of*n:w18951" w="end" l="DNA end" p="N"/>
+     <dpg d="w18957" g="w18956" t="mod" cr="" w="during" l="~" p="Prep"/>
+     <dpg d="w18958" g="w18959" t="nn" cr="nn:w18959" w="gene" l="~" p="N"/>
+     <dpg d="w18959" g="w18957" t="pcomp-n" cr="mod*during*n:w18956" w="conversion" l="~" p="N"/>
+     <dpg d="w18960" g="w18959" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w18961" g="w18967" t="det" cr="det:w18967" w="a" l="~" p="Det"/>
+     <dpg d="w18962" g="w18966" t="lex-mod" cr="lex-mod:w18966" w="RAD1" l="~" p="U"/>
+     <dpg d="w18963" g="w18966" t="lex-mod" cr="lex-mod:w18966" w="-" l="~" p="U"/>
+     <dpg d="w18964" g="w18966" t="lex-mod" cr="lex-mod:w18966" w="and" l="~" p="U"/>
+     <dpg d="w18965" g="w18966" t="lex-mod" cr="lex-mod:w18966" w="MSH2" l="~" p="U"/>
+     <dpg d="w18966" g="w18967" t="mod" cr="mod:w18967" w="-independent" l="RAD1 - and MSH2 -independent" p="A"/>
+     <dpg d="w18967" g="w18960" t="pcomp-n" cr="mod*by*n:w18959" w="pathway" l="~" p="N"/>
+     <dpg d="w18968" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

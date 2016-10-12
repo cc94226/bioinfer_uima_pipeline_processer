@@ -1,0 +1,76 @@
+<rexml>
+<doc id="1595">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25329" g="w25331" t="det" cr="det:w25331" w="The" l="~" p="Det"/>
+     <dpg d="w25330" g="w25331" t="mod" cr="mod:w25331" w="predicted" l="~" p="A"/>
+     <dpg d="w25331" g="w25334" t="s" cr="s+subj:w25334||subj:w25343||s+subj:w25349" w="sequence" l="~" p="N"/>
+     <dpg d="w25332" g="w25331" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25333" g="w25332" t="pcomp-n" cr="mod*of*n:w25331" w="AtFim1" l="~" p="N"/>
+     <dpg d="w25334" g="E1" t="i" cr="" w="shares" l="share" p="V"/>
+     <dpg d="E4" g="w25334" t="subj" cr="" w="" l="sequence" p="N"/>
+     <dpg d="E4" g="w25331" t="antecedent" cr="" w="" l="sequence" p="N"/>
+     <dpg d="w25335" g="w25338" t="nn" cr="nn:w25338" w="ca." l="~" p="N"/>
+     <dpg d="w25336" g="w25337" t="lex-mod" cr="lex-mod:w25337" w="40" l="~" p="U"/>
+     <dpg d="w25337" g="w25338" t="nn" cr="nn:w25338" w="%" l="40 %" p="N"/>
+     <dpg d="w25338" g="w25334" t="obj" cr="obj:w25334" w="identity" l="~" p="N"/>
+     <dpg d="w25339" g="w25338" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w25340" g="w25341" t="nn" cr="nn:w25341" w="nonplant" l="~" p="N"/>
+     <dpg d="w25341" g="w25339" t="pcomp-n" cr="mod*with*n:w25338" w="fimbrins" l="~" p="N"/>
+     <dpg d="w25342" g="w25334" t="punc" cr="punc:w25334" w="and" l="~" p="U"/>
+     <dpg d="w25343" g="w25334" t="conj" cr="conj:w25334" w="contains" l="contain" p="V"/>
+     <dpg d="E5" g="w25343" t="subj" cr="" w="" l="sequence" p="N"/>
+     <dpg d="E5" g="w25331" t="antecedent" cr="" w="" l="sequence" p="N"/>
+     <dpg d="w25344" g="w25346" t="nn" cr="nn:w25346" w="two" l="~" p="N"/>
+     <dpg d="w25345" g="w25346" t="nn" cr="nn:w25346" w="tandem" l="~" p="N"/>
+     <dpg d="w25346" g="w25343" t="obj" cr="obj:w25343" w="repeats" l="repeat" p="N"/>
+     <dpg d="w25347" g="w25343" t="punc" cr="punc:w25343" w="," l="~" p="U"/>
+     <dpg d="E0" g="w25343" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w25331" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w25348" g="w25349" t="amod" cr="amod:w25349" w="each" l="~" p="A"/>
+     <dpg d="w25349" g="E0" t="i" cr="mod:w25343" w="possessing" l="possess" p="V"/>
+     <dpg d="E6" g="w25349" t="subj" cr="" w="" l="sequence" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="sequence" p="N"/>
+     <dpg d="w25350" g="w25354" t="det" cr="det:w25354" w="a" l="~" p="Det"/>
+     <dpg d="w25351" g="w25354" t="num" cr="num:w25354" w="27" l="~" p="N"/>
+     <dpg d="w25352" g="w25353" t="lex-mod" cr="lex-mod:w25353" w="amino" l="~" p="U"/>
+     <dpg d="w25353" g="w25354" t="nn" cr="nn:w25354" w="acid" l="amino acid" p="N"/>
+     <dpg d="w25354" g="w25349" t="obj" cr="obj:w25349||obj:w25355" w="region" l="~" p="N"/>
+     <dpg d="w25355" g="w25354" t="vrel" cr="vrel:w25354" w="identified" l="identify" p="V"/>
+     <dpg d="E7" g="w25355" t="obj" cr="" w="" l="region" p="N"/>
+     <dpg d="E7" g="w25354" t="antecedent" cr="" w="" l="region" p="N"/>
+     <dpg d="w25356" g="w25355" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w25357" g="w25362" t="det" cr="det:w25362" w="a" l="~" p="Det"/>
+     <dpg d="w25358" g="w25362" t="mod" cr="mod:w25362" w="putative" l="~" p="A"/>
+     <dpg d="w25359" g="w25361" t="lex-mod" cr="lex-mod:w25361" w="actin" l="~" p="U"/>
+     <dpg d="w25360" g="w25361" t="lex-mod" cr="lex-mod:w25361" w="-" l="~" p="U"/>
+     <dpg d="w25361" g="w25362" t="mod" cr="mod:w25362" w="binding" l="actin - binding" p="A"/>
+     <dpg d="w25362" g="w25356" t="pcomp-n" cr="mod*as*n:w25355" w="domain" l="~" p="N"/>
+     <dpg d="w25363" g="w25362" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w25364" g="w25363" t="pcomp-n" cr="mod*in*n:w25362" w="fimbrins" l="~" p="N"/>
+     <dpg d="w25365" g="w25363" t="punc" cr="punc:w25363" w="and" l="~" p="U"/>
+     <dpg d="w25366" g="w25363" t="conj" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w25367" g="w25369" t="det" cr="det:w25369" w="a" l="~" p="Det"/>
+     <dpg d="w25368" g="w25369" t="mod" cr="mod:w25369" w="larger" l="large" p="A"/>
+     <dpg d="w25369" g="w25366" t="pcomp-n" cr="mod*in*n:w25362" w="family" l="~" p="N"/>
+     <dpg d="w25370" g="w25369" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25371" g="w25373" t="nn" cr="nn:w25373" w="actin" l="~" p="N"/>
+     <dpg d="w25372" g="w25373" t="mod" cr="mod:w25373" w="cross-linking" l="cross-linking" p="A"/>
+     <dpg d="w25373" g="w25370" t="pcomp-n" cr="mod*of*n:w25369" w="proteins" l="protein" p="N"/>
+     <dpg d="w25374" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

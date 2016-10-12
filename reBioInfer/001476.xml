@@ -1,0 +1,46 @@
+<rexml>
+<doc id="1476">
+  <text>
+<p><s id="s1"><w id="w23107">The</w> <w id="w23108">enzyme</w> <w id="w23109">showed</w> <w id="w23110">hardly</w> <w id="w23111">any</w> <w id="w23112">activity</w> <w id="w23113">below</w> <w id="w23114">50</w> <w id="w23115">degrees</w> <w id="w23116">C</w> <w id="w23117">but</w> <w id="w23118">considerable</w> <w id="w23119">activity</w> <w id="w23120">at</w> <w id="w23121">around</w> <w id="w23122">60</w> <w id="w23123">degrees</w> <w id="w23124">C</w> <w id="w23125">against</w> <w id="w23126">myofibrils</w> <w id="w23127">,</w> <w id="w23128">digesting</w> <w id="w23129">myosin</w> <w id="w23130">heavy</w> <w id="w23131">chain</w> <w id="w23132">,</w> <w id="w23133">actin</w> <w id="w23134">and</w> <w id="w23135">tropomyosin</w> <w id="w23136">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5346" gid="g5101" t="Gene/protein/RNA" fr="w23129" to="w23131" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1476.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5347" gid="g5102" t="Gene/protein/RNA" fr="w23135" to="w23135" nam="yes">
+     <textspan type="extent">tropomyosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1476.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5348" gid="g5103" t="Gene/protein/RNA" fr="w23133" to="w23133" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1476.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

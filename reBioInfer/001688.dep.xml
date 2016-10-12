@@ -1,0 +1,53 @@
+<rexml>
+<doc id="1688">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26891" g="w26892" t="det" cr="det:w26892" w="These" l="~" p="Det"/>
+     <dpg d="w26892" g="w26893" t="s" cr="s+subj:w26893" w="data" l="~" p="N"/>
+     <dpg d="w26893" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="suggest" l="~" p="V"/>
+     <dpg d="E5" g="w26893" t="subj" cr="" w="" l="data" p="N"/>
+     <dpg d="E5" g="w26892" t="antecedent" cr="" w="" l="data" p="N"/>
+     <dpg d="E0" g="w26893" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26894" g="E0" t="c" cr="c:w26898" w="that" l="~" p="COMP"/>
+     <dpg d="w26895" g="w26896" t="mod" cr="mod:w26896" w="nuclear" l="~" p="A"/>
+     <dpg d="w26896" g="w26898" t="s" cr="s+subj:w26898" w="profilin" l="~" p="N"/>
+     <dpg d="w26897" g="w26898" t="aux" cr="aux:w26898" w="can" l="~" p="Aux"/>
+     <dpg d="w26898" g="E0" t="i" cr="fc:w26893" w="mediate" l="~" p="V"/>
+     <dpg d="E6" g="w26898" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E6" g="w26896" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w26899" g="w26901" t="det" cr="det:w26901" w="a" l="~" p="Det"/>
+     <dpg d="w26900" g="w26901" t="mod" cr="mod:w26901" w="stimulus-response" l="stimulus-response" p="A"/>
+     <dpg d="w26901" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="action" l="~" p="N"/>
+     <dpg d="w26902" g="w26901" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w26903" g="w26905" t="det" cr="det:w26905" w="the" l="~" p="Det"/>
+     <dpg d="w26904" g="w26905" t="nn" cr="nn:w26905" w="actin" l="~" p="N"/>
+     <dpg d="w26905" g="w26902" t="pcomp-n" cr="mod*on*n:w26901||obj:w26909" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="E2" g="w26905" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26906" g="E2" t="whn" cr="whn:w26909" w="which" l="~" p="N"/>
+     <dpg d="w26906" g="w26905" t="antecedent" cr="antecedent:w26905" w="which" l="~" p="N"/>
+     <dpg d="w26907" g="w26909" t="be" cr="be:w26909" w="is" l="be" p="be"/>
+     <dpg d="w26908" g="w26909" t="amod" cr="amod:w26909" w="somehow" l="~" p="A"/>
+     <dpg d="w26909" g="E2" t="i" cr="rel:w26905" w="linked" l="link" p="V"/>
+     <dpg d="E7" g="w26909" t="obj" cr="" w="" l="which" p="N"/>
+     <dpg d="E7" g="w26905" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w26910" g="w26909" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w26911" g="w26913" t="det" cr="det:w26913" w="a" l="~" p="Det"/>
+     <dpg d="w26912" g="w26913" t="mod" cr="mod:w26913" w="phosphoinositide-signaling" l="phosphoinositide-signaling" p="A"/>
+     <dpg d="w26913" g="w26910" t="pcomp-n" cr="mod*to*n:w26909" w="cascade" l="~" p="N"/>
+     <dpg d="w26914" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

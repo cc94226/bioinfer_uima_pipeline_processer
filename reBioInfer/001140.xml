@@ -1,0 +1,80 @@
+<rexml>
+<doc id="1140">
+  <text>
+<p><s id="s1"><w id="w17987">Production</w> <w id="w17988">of</w> <w id="w17989">PIP</w> <w id="w17990">and</w> <w id="w17991">PIP2</w> <w id="w17992">may</w> <w id="w17993">be</w> <w id="w17994">important</w> <w id="w17995">downstream</w> <w id="w17996">signals</w> <w id="w17997">since</w> <w id="w17998">these</w> <w id="w17999">polyphosphoinositides</w> <w id="w18000">are</w> <w id="w18001">able</w> <w id="w18002">to</w> <w id="w18003">regulate</w> <w id="w18004">the</w> <w id="w18005">interaction</w> <w id="w18006">of</w> <w id="w18007">gelsolin</w> <w id="w18008">and</w> <w id="w18009">profilin</w> <w id="w18010">with</w> <w id="w18011">actin</w> <w id="w18012">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4168" gid="g3985" t="Individual_protein" fr="w18007" to="w18007" nam="yes">
+     <textspan type="extent">gelsolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1140.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4169" gid="g3986" t="RELATIONSHIP_TEXTBINDING" fr="w18005" to="w18010">
+     <textspan type="extent">interaction of [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1140.1"/>
+      <exattr n="nst" v="st.1140.18.0"/>
+      <exattr n="nst" v="st.1140.19.0"/>
+      <exattr n="nst" v="st.1140.23.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4170" gid="g3987" t="Individual_protein" fr="w18011" to="w18011" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1140.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4171" gid="g3988" t="Individual_protein" fr="w18009" to="w18009" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1140.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1606" t="INTERACT" e1="e4168" e2="e4170" re="e4169">
+     <textspan type="extent">interaction of gelsolin and profilin with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1140.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1607" t="INTERACT" e1="e4171" e2="e4170" re="e4169">
+     <textspan type="extent">interaction of gelsolin and profilin with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1140.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

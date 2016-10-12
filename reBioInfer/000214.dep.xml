@@ -1,0 +1,52 @@
+<rexml>
+<doc id="214">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w3259" g="" t="" cr="" w="Because" l="~" p="U"/>
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w3260" g="w3262" t="det" cr="det:w3262" w="both" l="~" p="Det"/>
+     <dpg d="w3261" g="w3262" t="nn" cr="nn:w3262" w="proteins" l="protein" p="N"/>
+     <dpg d="w3262" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="exchange" l="~" p="N"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3263" g="E0" t="mod" cr="mod:w3273" w="rapidly" l="~" p="A"/>
+     <dpg d="w3264" g="w3263" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w3265" g="w3266" t="nn" cr="nn:w3266" w="actin" l="~" p="N"/>
+     <dpg d="w3266" g="w3264" t="pcomp-n" cr="mod*between*n:w3263" w="molecules" l="molecule" p="N"/>
+     <dpg d="w3267" g="E0" t="punc" cr="punc:w3273" w="," l="~" p="U"/>
+     <dpg d="w3268" g="w3269" t="mod" cr="mod:w3269" w="low" l="~" p="A"/>
+     <dpg d="w3269" g="w3273" t="s" cr="s+subj:w3273" w="concentrations" l="concentration" p="N"/>
+     <dpg d="w3270" g="w3269" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3271" g="w3270" t="pcomp-n" cr="mod*of*n:w3269" w="profilin" l="~" p="N"/>
+     <dpg d="w3272" g="w3273" t="aux" cr="aux:w3273" w="can" l="~" p="Aux"/>
+     <dpg d="w3273" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="overcome" l="~" p="V"/>
+     <dpg d="E3" g="w3273" t="subj" cr="" w="" l="concentration" p="N"/>
+     <dpg d="E3" g="w3269" t="antecedent" cr="" w="" l="concentration" p="N"/>
+     <dpg d="w3274" g="w3276" t="det" cr="det:w3276" w="the" l="~" p="Det"/>
+     <dpg d="w3275" g="w3276" t="mod" cr="mod:w3276" w="inhibitory" l="~" p="A"/>
+     <dpg d="w3276" g="w3273" t="obj" cr="obj:w3273" w="effects" l="effect" p="N"/>
+     <dpg d="w3277" g="w3276" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3278" g="w3279" t="mod" cr="mod:w3279" w="high" l="~" p="A"/>
+     <dpg d="w3279" g="w3277" t="pcomp-n" cr="mod*of*n:w3276" w="concentrations" l="concentration" p="N"/>
+     <dpg d="w3280" g="w3279" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3281" g="w3283" t="nn" cr="nn:w3283" w="thymosin" l="~" p="N"/>
+     <dpg d="w3282" g="w3283" t="lex-mod" cr="lex-mod:w3283" w="beta" l="~" p="U"/>
+     <dpg d="w3283" g="w3280" t="pcomp-n" cr="mod*of*n:w3279" w="4" l="beta 4" p="N"/>
+     <dpg d="w3284" g="w3283" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w3285" g="w3287" t="det" cr="det:w3287" w="the" l="~" p="Det"/>
+     <dpg d="w3286" g="w3287" t="nn" cr="nn:w3287" w="nucleotide" l="~" p="N"/>
+     <dpg d="w3287" g="w3284" t="pcomp-n" cr="mod*on*n:w3283" w="exchange" l="~" p="N"/>
+     <dpg d="w3288" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

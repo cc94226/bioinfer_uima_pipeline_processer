@@ -1,0 +1,59 @@
+<rexml>
+<doc id="236">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3559" g="w3561" t="mod" cr="mod:w3561" w="Birch" l="~" p="A"/>
+     <dpg d="w3560" g="w3561" t="nn" cr="nn:w3561" w="pollen" l="~" p="N"/>
+     <dpg d="w3561" g="w3565" t="s" cr="s:w3565||subj:w3566" w="profilin" l="~" p="N"/>
+     <dpg d="w3562" g="w3561" t="punc" cr="punc:w3561" w="and" l="~" p="U"/>
+     <dpg d="w3563" g="w3561" t="conj" cr="conj:w3561" w="actin" l="~" p="N"/>
+     <dpg d="w3564" g="w3565" t="aux" cr="aux:w3565" w="can" l="~" p="Aux"/>
+     <dpg d="w3565" g="E2" t="i" cr="" w="be" l="~" p="VBE"/>
+     <dpg d="w3566" g="w3565" t="pred" cr="pred:w3565" w="copurified" l="~" p="A"/>
+     <dpg d="E5" g="w3566" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E5" g="w3561" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w3567" g="w3566" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w3568" g="w3569" t="det" cr="det:w3569" w="a" l="~" p="Det"/>
+     <dpg d="w3569" g="w3567" t="pcomp-n" cr="mod*as*n:w3566" w="complex" l="~" p="N"/>
+     <dpg d="w3570" g="E2" t="punc" cr="punc:w3565" w="," l="~" p="U"/>
+     <dpg d="w3571" g="E2" t="punc" cr="punc:w3565" w="and" l="~" p="U"/>
+     <dpg d="E1" g="E2" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3572" g="w3575" t="mod" cr="mod:w3575" w="purified" l="~" p="A"/>
+     <dpg d="w3573" g="w3575" t="nn" cr="nn:w3575" w="recombinant" l="~" p="N"/>
+     <dpg d="w3574" g="w3575" t="mod" cr="mod:w3575" w="birch" l="~" p="A"/>
+     <dpg d="w3575" g="w3578" t="s" cr="s+obj:w3578" w="profilin" l="~" p="N"/>
+     <dpg d="w3576" g="w3578" t="aux" cr="aux:w3578" w="can" l="~" p="Aux"/>
+     <dpg d="w3577" g="w3578" t="be" cr="be:w3578" w="be" l="~" p="Be"/>
+     <dpg d="w3578" g="E1" t="i" cr="conj:w3565" w="used" l="use" p="V"/>
+     <dpg d="E6" g="w3578" t="obj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E6" g="w3575" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w3579" g="w3578" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w3580" g="w3582" t="det" cr="det:w3582" w="an" l="~" p="Det"/>
+     <dpg d="w3581" g="w3582" t="nn" cr="nn:w3582" w="affinity" l="~" p="N"/>
+     <dpg d="w3582" g="w3579" t="pcomp-n" cr="mod*as*n:w3578||s+subj:w3584" w="matrix" l="~" p="N"/>
+     <dpg d="E0" g="w3582" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w3582" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w3583" g="w3584" t="aux" cr="aux:w3584" w="to" l="~" p="Aux"/>
+     <dpg d="w3584" g="E0" t="i" cr="rel:w3582" w="obtain" l="~" p="V"/>
+     <dpg d="E7" g="w3584" t="subj" cr="" w="" l="matrix" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="matrix" p="N"/>
+     <dpg d="w3585" g="w3587" t="mod" cr="mod:w3587" w="birch" l="~" p="A"/>
+     <dpg d="w3586" g="w3587" t="nn" cr="nn:w3587" w="pollen" l="~" p="N"/>
+     <dpg d="w3587" g="w3584" t="obj" cr="obj:w3584" w="actin" l="~" p="N"/>
+     <dpg d="w3588" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

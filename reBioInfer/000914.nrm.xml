@@ -1,0 +1,80 @@
+<rexml>
+<doc id="914">
+  
+  <markup>
+   <nes>
+    <ne id="e3242" gid="g3111" t="Gene/protein/RNA" fr="w14254" to="w14254" nam="yes" sid="s1">
+     <textspan>L</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.914.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3244" gid="g3113" t="Individual_protein" fr="w14259" to="w14259" nam="yes" sid="s1">
+     <textspan>phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.914.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3245" gid="g3114" t="Individual_protein" fr="w14260" to="w14260" nam="yes" sid="s1">
+     <textspan>P</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.914.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3243" gid="g3112" t="Gene/protein/RNA" fr="w14267" to="w14267" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.914.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3246" gid="g3115" t="Gene/protein/RNA" fr="w14269" to="w14269" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.914.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1242" t="MEMBER" e1="e3244" e2="e3245" re="">
+     <textspan>phosphoprotein P</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

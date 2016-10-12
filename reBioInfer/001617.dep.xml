@@ -1,0 +1,52 @@
+<rexml>
+<doc id="1617">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25770" g="w25772" t="det" cr="det:w25772" w="The" l="~" p="Det"/>
+     <dpg d="w25771" g="w25772" t="nn" cr="nn:w25772" w="protein" l="~" p="N"/>
+     <dpg d="w25772" g="w25773" t="s" cr="s+subj:w25773" w="profilin" l="~" p="N"/>
+     <dpg d="w25773" g="E0" t="i" cr="UNSPECRELTYPE:E4" w="binds" l="bind" p="V"/>
+     <dpg d="E5" g="w25773" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E5" g="w25772" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w25774" g="w25773" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w25775" g="w25774" t="punc" cr="punc:w25774" w="both" l="~" p="U"/>
+     <dpg d="w25776" g="w25774" t="pcomp-n" cr="mod*to*n:w25773" w="actin" l="~" p="N"/>
+     <dpg d="w25777" g="w25776" t="punc" cr="punc:w25776" w="and" l="~" p="U"/>
+     <dpg d="w25778" g="w25780" t="det" cr="det:w25780" w="the" l="~" p="Det"/>
+     <dpg d="w25779" g="w25780" t="mod" cr="mod:w25780" w="head" l="~" p="A"/>
+     <dpg d="w25780" g="w25776" t="conj" cr="conj:w25776" w="groups" l="group" p="N"/>
+     <dpg d="w25781" g="E4" t="punc" cr="punc:E4" w="of" l="~" p="U"/>
+     <dpg d="w25782" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="poly)phosphoinositide)s" l="~" p="N"/>
+     <dpg d="w25783" g="E4" t="punc" cr="punc:E4" w="and" l="~" p="U"/>
+     <dpg d="w25784" g="E4" t="punc" cr="punc:E4" w="may" l="~" p="U"/>
+     <dpg d="w25785" g="E4" t="punc" cr="punc:E4" w="regulate" l="~" p="U"/>
+     <dpg d="w25786" g="E4" t="punc" cr="punc:E4" w="both" l="~" p="U"/>
+     <dpg d="w25787" g="w25788" t="nn" cr="nn:w25788" w="actin" l="~" p="N"/>
+     <dpg d="w25788" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="assembly" l="~" p="N"/>
+     <dpg d="w25789" g="w25788" t="punc" cr="punc:w25788" w="and" l="~" p="U"/>
+     <dpg d="w25790" g="w25791" t="det" cr="det:w25791" w="the" l="~" p="Det"/>
+     <dpg d="w25791" g="w25788" t="conj" cr="conj:w25788||s+subj:w25792" w="phosphoinositide" l="~" p="N"/>
+     <dpg d="E1" g="w25791" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w25791" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w25792" g="E1" t="i" cr="rel:w25791" w="signaling" l="signal" p="V"/>
+     <dpg d="E6" g="w25792" t="subj" cr="" w="" l="phosphoinositide" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="phosphoinositide" p="N"/>
+     <dpg d="w25793" g="w25792" t="obj" cr="obj:w25792" w="pathway" l="~" p="N"/>
+     <dpg d="w25794" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

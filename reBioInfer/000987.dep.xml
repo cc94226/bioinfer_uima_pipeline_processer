@@ -1,0 +1,70 @@
+<rexml>
+<doc id="987">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w15594" g="w15597" t="s" cr="s+subj:w15597||s+subj:w15599" w="beta-Catenin" l="beta-Catenin" p="N"/>
+     <dpg d="w15595" g="w15597" t="aux" cr="aux:w15597" w="may" l="~" p="Aux"/>
+     <dpg d="w15596" g="w15597" t="amod" cr="amod:w15597" w="also" l="~" p="A"/>
+     <dpg d="w15597" g="E3" t="i" cr="" w="function" l="~" p="V"/>
+     <dpg d="E6" g="w15597" t="subj" cr="" w="" l="beta-Catenin" p="N"/>
+     <dpg d="E6" g="w15594" t="antecedent" cr="" w="" l="beta-Catenin" p="N"/>
+     <dpg d="w15598" g="w15597" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="E2" g="w15598" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w15594" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w15599" g="E2" t="i" cr="mod*in*c:w15597" w="signalling" l="signal" p="V"/>
+     <dpg d="E7" g="w15599" t="subj" cr="" w="" l="beta-Catenin" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="beta-Catenin" p="N"/>
+     <dpg d="w15600" g="w15599" t="obj" cr="obj:w15599||obj:w15602" w="pathways" l="pathway" p="N"/>
+     <dpg d="w15601" g="w15600" t="punc" cr="punc:w15600" w="," l="~" p="U"/>
+     <dpg d="w15602" g="w15600" t="vrel" cr="vrel:w15600" w="given" l="give" p="V"/>
+     <dpg d="E8" g="w15602" t="obj" cr="" w="" l="pathway" p="N"/>
+     <dpg d="E8" g="w15600" t="antecedent" cr="" w="" l="pathway" p="N"/>
+     <dpg d="E1" g="w15602" t="fc" cr="" w="" l="inf" p="C"/>
+     <dpg d="w15603" g="w15604" t="gen" cr="gen:w15604" w="its" l="~" p="N"/>
+     <dpg d="w15604" g="w15622" t="s" cr="s+obj:w15622" w="homology" l="~" p="N"/>
+     <dpg d="w15605" g="w15604" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w15606" g="w15608" t="det" cr="det:w15608" w="the" l="~" p="Det"/>
+     <dpg d="w15607" g="w15608" t="nn" cr="nn:w15608" w="gene" l="~" p="N"/>
+     <dpg d="w15608" g="w15605" t="pcomp-n" cr="mod*to*n:w15604" w="product" l="~" p="N"/>
+     <dpg d="w15609" g="w15608" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15610" g="w15615" t="det" cr="det:w15615" w="the" l="~" p="Det"/>
+     <dpg d="w15611" g="w15615" t="nn" cr="nn:w15615" w="Drosophila" l="~" p="N"/>
+     <dpg d="w15612" g="w15615" t="nn" cr="nn:w15615" w="segment" l="~" p="N"/>
+     <dpg d="w15613" g="w15615" t="nn" cr="nn:w15615" w="polarity" l="~" p="N"/>
+     <dpg d="w15614" g="w15615" t="nn" cr="nn:w15615" w="gene" l="~" p="N"/>
+     <dpg d="w15615" g="w15609" t="pcomp-n" cr="mod*of*n:w15608||obj:w15619" w="armadillo" l="~" p="N"/>
+     <dpg d="w15616" g="w15615" t="punc" cr="punc:w15615" w="," l="~" p="U"/>
+     <dpg d="E0" g="w15615" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w15617" g="E0" t="whn" cr="whn:w15619" w="which" l="~" p="N"/>
+     <dpg d="w15617" g="w15615" t="antecedent" cr="antecedent:w15615" w="which" l="~" p="N"/>
+     <dpg d="w15618" g="w15619" t="be" cr="be:w15619" w="is" l="be" p="be"/>
+     <dpg d="w15619" g="E0" t="i" cr="rel:w15615" w="known" l="know" p="V"/>
+     <dpg d="E9" g="w15619" t="obj" cr="" w="" l="which" p="N"/>
+     <dpg d="E9" g="w15615" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w15620" g="w15622" t="aux" cr="aux:w15622" w="to" l="~" p="Aux"/>
+     <dpg d="w15621" g="w15622" t="be" cr="be:w15622" w="be" l="~" p="be"/>
+     <dpg d="w15622" g="E1" t="i" cr="fc:w15602" w="involved" l="involve" p="V"/>
+     <dpg d="E10" g="w15622" t="obj" cr="" w="" l="homology" p="N"/>
+     <dpg d="E10" g="w15604" t="antecedent" cr="" w="" l="homology" p="N"/>
+     <dpg d="w15623" g="w15622" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w15624" g="w15627" t="det" cr="det:w15627" w="the" l="~" p="Det"/>
+     <dpg d="w15625" g="w15627" t="mod" cr="mod:w15627" w="wingless" l="~" p="A"/>
+     <dpg d="w15626" g="w15627" t="nn" cr="nn:w15627" w="signalling" l="~" p="N"/>
+     <dpg d="w15627" g="w15623" t="pcomp-n" cr="mod*in*n:w15622" w="cascade" l="~" p="N"/>
+     <dpg d="w15628" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,193 @@
+<rexml>
+<doc id="598">
+  
+  <markup>
+   <nes>
+    <ne id="e2054" gid="g1968" t="Physical_property" fr="w8678" to="w8684" sid="s1">
+     <textspan>sensitivity of rad55 [..] mutant strains</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Physical_property"/>
+      <exattr n="bd" v="e.598.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2057" gid="g1971" t="Physical_property" fr="w8678" to="w8684" sid="s1">
+     <textspan>sensitivity of [..] rad57 mutant strains</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Physical_property"/>
+      <exattr n="bd" v="e.598.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2058" gid="g1972" t="Mutant" fr="w8680" to="w8684" nam="yes" sid="s1">
+     <textspan>rad55 [..] mutant strains</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.598.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2060" gid="g1974" t="Cell_line" fr="w8680" to="w8684" nam="yes" sid="s1">
+     <textspan>rad55 [..] strains</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Artificial"/>
+      <exattr n="t4" v="Cell_line"/>
+      <exattr n="bd" v="e.598.6"/>
+      <exattr n="nst" v="st.598.9.0"/>
+      <exattr n="nst" v="st.598.13.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2064" gid="g1978" t="Gene" fr="w8680" to="w8680" nam="yes" sid="s1">
+     <textspan>rad55</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.598.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e2061" gid="g1975" t="Mutant" fr="w8682" to="w8684" nam="yes" sid="s1">
+     <textspan>rad57 mutant strains</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.598.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2062" gid="g1976" t="Cell_line" fr="w8682" to="w8684" nam="yes" sid="s1">
+     <textspan>rad57 [..] strains</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Artificial"/>
+      <exattr n="t4" v="Cell_line"/>
+      <exattr n="bd" v="e.598.8"/>
+      <exattr n="nst" v="st.598.11.0"/>
+      <exattr n="nst" v="st.598.13.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2063" gid="g1977" t="Gene" fr="w8682" to="w8682" nam="yes" sid="s1">
+     <textspan>rad57</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.598.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e2059" gid="g1973" t="Expression" fr="w8688" to="w8692" sid="s1">
+     <textspan>overexpression of [..] RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.598.5"/>
+      <exattr n="nst" v="st.598.17.0"/>
+      <exattr n="nst" v="st.598.18.0"/>
+      <exattr n="nst" v="st.598.21.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2056" gid="g1970" t="Expression" fr="w8688" to="w8690" sid="s1">
+     <textspan>overexpression of RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.598.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2066" gid="g1980" t="Individual_protein" fr="w8690" to="w8690" nam="yes" sid="s1">
+     <textspan>RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.598.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e2070" gid="g1984" t="Individual_protein" fr="w8692" to="w8692" nam="yes" sid="s1">
+     <textspan>RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.598.16"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r813" t="SUPPRESS" e1="e2056" e2="e2054" re="e2055">
+     <textspan>sensitivity of rad55 and rad57 mutant strains is suppressible by overexpression of RAD51</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.598.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r814" t="SUPPRESS" e1="e2056" e2="e2057" re="e2055">
+     <textspan>sensitivity of rad55 and rad57 mutant strains is suppressible by overexpression of RAD51</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.598.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r815" t="SUPPRESS" e1="e2059" e2="e2054" re="e2055">
+     <textspan>sensitivity of rad55 and rad57 mutant strains is suppressible by overexpression of RAD51 or RAD52</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.598.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r816" t="SUPPRESS" e1="e2059" e2="e2057" re="e2055">
+     <textspan>sensitivity of rad55 and rad57 mutant strains is suppressible by overexpression of RAD51 or RAD52</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.598.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

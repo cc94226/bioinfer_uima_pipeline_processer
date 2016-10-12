@@ -1,0 +1,102 @@
+<rexml>
+<doc id="395">
+  <text>
+<p><s id="s1"><w id="w5824">Direct</w> <w id="w5825">binding</w> <w id="w5826">of</w> <w id="w5827">the</w> <w id="w5828">verprolin</w><w id="w5829">-</w><w id="w5830">homology</w> <w id="w5831">domain</w> <w id="w5832">in</w> <w id="w5833">N-WASP</w> <w id="w5834">to</w> <w id="w5835">actin</w> <w id="w5836">is</w> <w id="w5837">essential</w> <w id="w5838">for</w> <w id="w5839">cytoskeletal</w> <w id="w5840">reorganization</w> <w id="w5841">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1408" gid="g1344" t="RELATIONSHIP_TEXTBINDING" fr="w5825" to="w5834">
+     <textspan type="extent">binding of [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.395.0"/>
+      <exattr n="nst" v="st.395.1.0"/>
+      <exattr n="nst" v="st.395.2.0"/>
+      <exattr n="nst" v="st.395.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1409" gid="g1345" t="Substructure_of_protein" fr="w5831" to="w5833" nam="yes">
+     <textspan type="extent">domain in N-WASP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.395.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1410" gid="g1346" t="RELATIONSHIP_TEXTBINDING" fr="w5830" to="w5830">
+     <textspan type="extent">homology</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.395.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1411" gid="g1347" t="Individual_protein" fr="w5833" to="w5833" nam="yes">
+     <textspan type="extent">N-WASP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.395.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1412" gid="g1348" t="Individual_protein" fr="w5835" to="w5835" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.395.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1413" gid="g1349" t="Individual_protein" fr="w5828" to="w5828" nam="yes">
+     <textspan type="extent">verprolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.395.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r551" t="SIMILAR" e1="e1409" e2="e1413" re="e1410">
+     <textspan type="extent">verprolin - homology domain in N-WASP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.395.2"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r552" t="BIND" e1="e1409" e2="e1412" re="e1408">
+     <textspan type="extent">binding of the verprolin - homology domain in N-WASP to actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.395.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,74 @@
+<rexml>
+<doc id="2162">
+  <text>
+<p><s id="s1"><w id="w33599">We</w> <w id="w33600">speculate</w> <w id="w33601">that</w> <w id="w33602">fimbrin</w> <w id="w33603">may</w> <w id="w33604">help</w> <w id="w33605">maintain</w> <w id="w33606">the</w> <w id="w33607">parallel</w> <w id="w33608">growth</w> <w id="w33609">of</w> <w id="w33610">actin</w> <w id="w33611">filaments</w> <w id="w33612">within</w> <w id="w33613">the</w> <w id="w33614">stereocilia</w> <w id="w33615">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7658" gid="g7299" t="Individual_protein" fr="w33602" to="w33602" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2162.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7659" gid="g7300" t="RELATIONSHIP_TEXTBINDING" fr="w33605" to="w33605">
+     <textspan type="extent">maintain</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2162.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7660" gid="g7301" t="Cell_component" fr="w33610" to="w33611" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.2162.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7661" gid="g7302" t="INCREASE" fr="w33608" to="w33611">
+     <textspan type="extent">growth of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="INCREASE"/>
+      <exattr n="bd" v="e.2162.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7662" gid="g7303" t="Individual_protein" fr="w33610" to="w33610" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2162.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2945" t="AFFECT" e1="e7658" e2="e7661" re="e7659">
+     <textspan type="extent">fimbrin may help maintain the parallel growth of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2162.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

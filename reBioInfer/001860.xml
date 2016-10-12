@@ -1,0 +1,131 @@
+<rexml>
+<doc id="1860">
+  <text>
+<p><s id="s1"><w id="w29862">Thus</w> <w id="w29863">,</w> <w id="w29864">alpha-syntrophin</w> <w id="w29865">has</w> <w id="w29866">an</w> <w id="w29867">important</w> <w id="w29868">role</w> <w id="w29869">in</w> <w id="w29870">synapse</w> <w id="w29871">formation</w> <w id="w29872">and</w> <w id="w29873">in</w> <w id="w29874">the</w> <w id="w29875">organization</w> <w id="w29876">of</w> <w id="w29877">utrophin</w> <w id="w29878">,</w> <w id="w29879">acetylcholine</w> <w id="w29880">receptor</w> <w id="w29881">,</w> <w id="w29882">and</w> <w id="w29883">acetylcholinesterase</w> <w id="w29884">at</w> <w id="w29885">the</w> <w id="w29886">neuromuscular</w> <w id="w29887">synapse</w> <w id="w29888">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6910" gid="g6595" t="Individual_protein" fr="w29864" to="w29864" nam="yes">
+     <textspan type="extent">alpha-syntrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1860.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6911" gid="g6596" t="RELATIONSHIP_TEXTBINDING" fr="w29868" to="w29873">
+     <textspan type="extent">role [..] in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1860.1"/>
+      <exattr n="nst" v="st.1860.6.0"/>
+      <exattr n="nst" v="st.1860.11.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6912" gid="g6597" t="MODIFICATION" fr="w29875" to="w29883">
+     <textspan type="extent">organization of [..] acetylcholinesterase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1860.2"/>
+      <exattr n="nst" v="st.1860.13.0"/>
+      <exattr n="nst" v="st.1860.14.0"/>
+      <exattr n="nst" v="st.1860.21.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6913" gid="g6598" t="MODIFICATION" fr="w29875" to="w29877">
+     <textspan type="extent">organization of utrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1860.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6914" gid="g6599" t="Individual_protein" fr="w29877" to="w29877" nam="yes">
+     <textspan type="extent">utrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1860.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6915" gid="g6600" t="MODIFICATION" fr="w29875" to="w29880">
+     <textspan type="extent">organization of [..] acetylcholine receptor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1860.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6916" gid="g6601" t="Individual_protein" fr="w29883" to="w29883" nam="yes">
+     <textspan type="extent">acetylcholinesterase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1860.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6917" gid="g6602" t="Individual_protein" fr="w29879" to="w29880" nam="yes">
+     <textspan type="extent">acetylcholine receptor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1860.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2653" t="PARTICIPATE" e1="e6910" e2="e6913" re="e6911">
+     <textspan type="extent">alpha-syntrophin has an important role in synapse formation and in the organization of utrophin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1860.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2654" t="PARTICIPATE" e1="e6910" e2="e6912" re="e6911">
+     <textspan type="extent">alpha-syntrophin has an important role in synapse formation and in the organization of utrophin , acetylcholine receptor , and acetylcholinesterase</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1860.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2655" t="PARTICIPATE" e1="e6910" e2="e6915" re="e6911">
+     <textspan type="extent">alpha-syntrophin has an important role in synapse formation and in the organization of utrophin , acetylcholine receptor</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1860.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

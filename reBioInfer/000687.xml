@@ -1,0 +1,142 @@
+<rexml>
+<doc id="687">
+  <text>
+<p><s id="s1"><w id="w10541">Immunoprecipitation</w> <w id="w10542">with</w> <w id="w10543">an</w> <w id="w10544">E-cadherin</w> <w id="w10545">mAb</w> <w id="w10546">,</w> <w id="w10547">which</w> <w id="w10548">is</w> <w id="w10549">known</w> <w id="w10550">to</w> <w id="w10551">co-precipitate</w> <w id="w10552">the</w> <w id="w10553">catenins</w> <w id="w10554">,</w> <w id="w10555">demonstrated</w> <w id="w10556">that</w> <w id="w10557">the</w> <w id="w10558">three</w> <w id="w10559">poorly</w> <w id="w10560">differentiated</w> <w id="w10561">cell</w> <w id="w10562">lines</w> <w id="w10563">expressing</w> <w id="w10564">E-cadherin</w> <w id="w10565">did</w> <w id="w10566">not</w> <w id="w10567">co-precipitate</w> <w id="w10568">alpha-catenin</w> <w id="w10569">,</w> <w id="w10570">although</w> <w id="w10571">all</w> <w id="w10572">of</w> <w id="w10573">the</w> <w id="w10574">moderately-well</w> <w id="w10575">differentiated</w> <w id="w10576">cell</w> <w id="w10577">lines</w> <w id="w10578">expressed</w> <w id="w10579">both</w> <w id="w10580">alpha-</w> <w id="w10581">and</w> <w id="w10582">beta-</w><w id="w10583">catenin</w> <w id="w10584">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2468" gid="g2365" t="Individual_protein" fr="w10544" to="w10545" nam="yes">
+     <textspan type="extent">E-cadherin mAb</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.687.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2469" gid="g2366" t="Individual_protein" fr="w10564" to="w10564" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.687.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2470" gid="g2367" t="Individual_protein" fr="w10553" to="w10553" nam="yes">
+     <textspan type="extent">catenins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.687.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2471" gid="g2368" t="Gene/protein/RNA" fr="w10580" to="w10583" nam="yes">
+     <textspan type="extent">alpha- [..] catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.687.3"/>
+      <exattr n="nst" v="st.687.39.0"/>
+      <exattr n="nst" v="st.687.41.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2472" gid="g2369" t="Individual_protein" fr="w10568" to="w10568" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.687.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2473" gid="g2370" t="Gene/protein/RNA" fr="w10582" to="w10583" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.687.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2474" gid="g2371" t="RELATIONSHIP_TEXTBINDING" fr="w10566" to="w10566">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.687.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2475" gid="g2372" t="Individual_protein" fr="w10544" to="w10544" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.687.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2476" gid="g2373" t="RELATIONSHIP_TEXTBINDING" fr="w10567" to="w10567">
+     <textspan type="extent">co-precipitate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.687.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e2477" gid="g2374" t="RELATIONSHIP_TEXTBINDING" fr="w10551" to="w10551">
+     <textspan type="extent">co-precipitate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.687.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r950" t="COPRECIPITATE" e1="e2468" e2="e2470" re="e2477">
+     <textspan type="extent">E-cadherin mAb , which is known to co-precipitate the catenins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.687.9"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COPRECIPITATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r952" t="COPRECIPITATE" e1="e2469" e2="e2472" re="e2476">
+     <textspan type="extent">E-cadherin did not co-precipitate alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.687.8"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COPRECIPITATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

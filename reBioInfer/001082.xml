@@ -1,0 +1,164 @@
+<rexml>
+<doc id="1082">
+  <text>
+<p><s id="s1"><w id="w17153">Our</w> <w id="w17154">data</w> <w id="w17155">strongly</w> <w id="w17156">support</w> <w id="w17157">the</w> <w id="w17158">view</w> <w id="w17159">that</w> <w id="w17160">the</w> <w id="w17161">mobile</w> <w id="w17162">form</w> <w id="w17163">of</w> <w id="w17164">actin</w> <w id="w17165">in</w> <w id="w17166">slow</w> <w id="w17167">transport</w> <w id="w17168">is</w> <w id="w17169">soluble</w> <w id="w17170">and</w> <w id="w17171">that</w> <w id="w17172">a</w> <w id="w17173">substantial</w> <w id="w17174">amount</w> <w id="w17175">of</w> <w id="w17176">this</w> <w id="w17177">actin</w> <w id="w17178">may</w> <w id="w17179">travel</w> <w id="w17180">as</w> <w id="w17181">a</w> <w id="w17182">complex</w> <w id="w17183">with</w> <w id="w17184">actin</w> <w id="w17185">depolymerizing</w> <w id="w17186">factor</w> <w id="w17187">,</w> <w id="w17188">cofilin</w> <w id="w17189">,</w> <w id="w17190">and</w> <w id="w17191">profilin</w> <w id="w17192">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3936" gid="g3765" t="Gene/protein/RNA" fr="w17164" to="w17164" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1082.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3937" gid="g3766" t="RELATIONSHIP_TEXTBINDING" fr="w17180" to="w17183">
+     <textspan type="extent">as [..] complex with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1082.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3938" gid="g3767" t="RELATIONSHIP_TEXTBINDING" fr="w17180" to="w17182">
+     <textspan type="extent">as [..] complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1082.2"/>
+      <exattr n="nst" v="st.1082.27.0"/>
+      <exattr n="nst" v="st.1082.29.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3939" gid="g3768" t="RELATIONSHIP_TEXTBINDING" fr="w17179" to="w17183">
+     <textspan type="extent">travel [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1082.3"/>
+      <exattr n="nst" v="st.1082.26.0"/>
+      <exattr n="nst" v="st.1082.30.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3940" gid="g3769" t="Individual_protein" fr="w17191" to="w17191" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1082.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3941" gid="g3770" t="Individual_protein" fr="w17188" to="w17188" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1082.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3942" gid="g3771" t="Protein_complex" fr="w17182" to="w17182" nam="yes">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1082.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3943" gid="g3772" t="Individual_protein" fr="w17184" to="w17186" nam="yes">
+     <textspan type="extent">actin depolymerizing factor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1082.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e3944" gid="g3773" t="Individual_protein" fr="w17177" to="w17177" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1082.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1506" t="CONTAIN" e1="e3942" e2="e3944" re="e3938">
+     <textspan type="extent">actin may travel as a complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1082.2"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1507" t="CONTAIN" e1="e3942" e2="e3943" re="e3937">
+     <textspan type="extent">as a complex with actin depolymerizing factor</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1082.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1508" t="CONTAIN" e1="e3942" e2="e3941" re="e3937">
+     <textspan type="extent">as a complex with actin depolymerizing factor , cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1082.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1509" t="CONTAIN" e1="e3942" e2="e3940" re="e3937">
+     <textspan type="extent">as a complex with actin depolymerizing factor , cofilin , and profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1082.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1510" t="COLOCALIZE" e1="e3944" e2="e3943,e3941,e3940" re="e3939">
+     <textspan type="extent">actin may travel as a complex with actin depolymerizing factor , cofilin , and profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1082.3"/>
+      <exattr n="arg" v="e3944"/>
+      <exattr n="arg" v="e3943"/>
+      <exattr n="arg" v="e3941"/>
+      <exattr n="arg" v="e3940"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

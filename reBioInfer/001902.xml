@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1902">
+  <text>
+<p><s id="s1"><w id="w30612">To</w> <w id="w30613">determine</w> <w id="w30614">the</w> <w id="w30615">relative</w> <w id="w30616">importance</w> <w id="w30617">of</w> <w id="w30618">protein</w> <w id="w30619">degradation</w> <w id="w30620">in</w> <w id="w30621">the</w> <w id="w30622">development</w> <w id="w30623">of</w> <w id="w30624">starvation-induced</w> <w id="w30625">cardiac</w> <w id="w30626">atrophy</w> <w id="w30627">,</w> <w id="w30628">in</w> <w id="w30629">vivo</w> <w id="w30630">fractional</w> <w id="w30631">synthetic</w> <w id="w30632">rates</w> <w id="w30633">of</w> <w id="w30634">total</w> <w id="w30635">cardiac</w> <w id="w30636">protein</w> <w id="w30637">,</w> <w id="w30638">myosin</w> <w id="w30639">heavy</w> <w id="w30640">chain</w> <w id="w30641">,</w> <w id="w30642">actin</w> <w id="w30643">,</w> <w id="w30644">light</w> <w id="w30645">chain</w> <w id="w30646">1</w> <w id="w30647">,</w> <w id="w30648">and</w> <w id="w30649">light</w> <w id="w30650">chain</w> <w id="w30651">2</w> <w id="w30652">were</w> <w id="w30653">measured</w> <w id="w30654">in</w> <w id="w30655">fed</w> <w id="w30656">and</w> <w id="w30657">fasted</w> <w id="w30658">rabbits</w> <w id="w30659">by</w> <w id="w30660">continuous</w> <w id="w30661">infusion</w> <w id="w30662">of</w> <w id="w30663">[</w> <w id="w30664">3H</w> <w id="w30665">]</w> <w id="w30666">leucine</w> <w id="w30667">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7054" gid="g6734" t="Gene/protein/RNA" fr="w30638" to="w30640" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1902.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7055" gid="g6735" t="Gene/protein/RNA" fr="w30638" to="w30646" nam="yes">
+     <textspan type="extent">myosin [..] light chain 1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1902.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7056" gid="g6736" t="Gene/protein/RNA" fr="w30642" to="w30642" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1902.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7057" gid="g6737" t="Gene/protein/RNA" fr="w30638" to="w30651" nam="yes">
+     <textspan type="extent">myosin [..] light chain 2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1902.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

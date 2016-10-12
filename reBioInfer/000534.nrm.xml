@@ -1,0 +1,127 @@
+<rexml>
+<doc id="534">
+  
+  <markup>
+   <nes>
+    <ne id="e1765" gid="g1693" t="Gene" fr="w7419" to="w7419" nam="yes" sid="s1">
+     <textspan>SJL1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.534.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1761" gid="g1689" t="Function_property" fr="w7424" to="w7426" sid="s1">
+     <textspan>defect of sac6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.534.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1767" gid="g1695" t="Gene" fr="w7426" to="w7426" nam="yes" sid="s1">
+     <textspan>sac6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.534.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e1760" gid="g1688" t="Gene/protein/RNA" fr="w7432" to="w7432" nam="yes" sid="s1">
+     <textspan>fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.534.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1763" gid="g1691" t="Individual_protein" fr="w7438" to="w7440" nam="yes" sid="s1">
+     <textspan>synaptojanin family members</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.534.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1764" gid="g1692" t="Protein_family_or_group" fr="w7438" to="w7439" nam="yes" sid="s1">
+     <textspan>synaptojanin family</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.534.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1769" gid="g1697" t="Protein_family_or_group" fr="w7438" to="w7438" nam="yes" sid="s1">
+     <textspan>synaptojanin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.534.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e1762" gid="g1690" t="Function_property" fr="w7442" to="w7443" sid="s1">
+     <textspan>actin function</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.534.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1768" gid="g1696" t="Individual_protein" fr="w7442" to="w7442" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.534.10"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r693" t="PARTICIPATE" e1="e1763" e2="e1762" re="e1766">
+     <textspan>role for synaptojanin family members in actin function</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.534.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

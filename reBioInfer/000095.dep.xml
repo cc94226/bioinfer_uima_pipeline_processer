@@ -1,0 +1,55 @@
+<rexml>
+<doc id="95">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w1584" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="Although" l="~" p="SentAdjunct"/>
+     <dpg d="E1" g="w1584" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1585" g="w1586" t="s" cr="s+subj:w1586" w="platelets" l="platelet" p="N"/>
+     <dpg d="w1586" g="E1" t="i" cr="comp1:w1584" w="contain" l="~" p="V"/>
+     <dpg d="E4" g="w1586" t="subj" cr="" w="" l="platelet" p="N"/>
+     <dpg d="E4" g="w1585" t="antecedent" cr="" w="" l="platelet" p="N"/>
+     <dpg d="w1587" g="w1586" t="guest" cr="guest:w1586" w="only" l="~" p="A"/>
+     <dpg d="w1588" g="w1589" t="num" cr="num:w1589" w="1" l="~" p="N"/>
+     <dpg d="w1589" g="w1586" t="obj" cr="obj:w1586" w="profilin" l="~" p="N"/>
+     <dpg d="w1590" g="w1589" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w1591" g="w1592" t="det" cr="det:w1592" w="every" l="~" p="Det"/>
+     <dpg d="w1592" g="w1590" t="pcomp-n" cr="mod*for*n:w1589" w="5-10" l="5-10" p="N"/>
+     <dpg d="w1593" g="w1594" t="nn" cr="nn:w1594" w="actin" l="~" p="N"/>
+     <dpg d="w1594" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="molecules" l="molecule" p="N"/>
+     <dpg d="w1595" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1596" g="w1598" t="det" cr="det:w1598" w="these" l="~" p="Det"/>
+     <dpg d="w1597" g="w1598" t="mod" cr="mod:w1598" w="complex" l="~" p="A"/>
+     <dpg d="w1598" g="w1600" t="s" cr="s+subj:w1600" w="reactions" l="reaction" p="N"/>
+     <dpg d="w1599" g="w1600" t="aux" cr="aux:w1600" w="may" l="~" p="Aux"/>
+     <dpg d="w1600" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="allow" l="~" p="V"/>
+     <dpg d="E5" g="w1600" t="subj" cr="" w="" l="reaction" p="N"/>
+     <dpg d="E5" g="w1598" t="antecedent" cr="" w="" l="reaction" p="N"/>
+     <dpg d="w1601" g="w1602" t="mod" cr="mod:w1602" w="substoichiometric" l="~" p="A"/>
+     <dpg d="w1602" g="w1604" t="s" cr="s+subj:w1604" w="profilin" l="~" p="N"/>
+     <dpg d="w1603" g="w1604" t="aux" cr="aux:w1604" w="to" l="~" p="Aux"/>
+     <dpg d="w1604" g="w1600" t="sc" cr="sc:w1600" w="have" l="~" p="V"/>
+     <dpg d="E6" g="w1604" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E6" g="w1602" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w1605" g="w1607" t="det" cr="det:w1607" w="an" l="~" p="Det"/>
+     <dpg d="w1606" g="w1607" t="mod" cr="mod:w1607" w="important" l="~" p="A"/>
+     <dpg d="w1607" g="w1604" t="obj" cr="obj:w1604" w="influence" l="~" p="N"/>
+     <dpg d="w1608" g="w1607" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w1609" g="w1610" t="nn" cr="nn:w1610" w="actin" l="~" p="N"/>
+     <dpg d="w1610" g="w1608" t="pcomp-n" cr="mod*on*n:w1607" w="assembly" l="~" p="N"/>
+     <dpg d="w1611" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

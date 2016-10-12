@@ -1,0 +1,57 @@
+<rexml>
+<doc id="926">
+  <text>
+<p><s id="s1"><w id="w14414">Lack</w> <w id="w14415">of</w> <w id="w14416">detection</w> <w id="w14417">in</w> <w id="w14418">these</w> <w id="w14419">preparations</w> <w id="w14420">of</w> <w id="w14421">a</w> <w id="w14422">constituent</w> <w id="w14423">that</w> <w id="w14424">binds</w> <w id="w14425">RBC</w> <w id="w14426">alpha-spectrin</w> <w id="w14427">antibody</w> <w id="w14428">plus</w> <w id="w14429">the</w> <w id="w14430">presence</w> <w id="w14431">of</w> <w id="w14432">significant</w> <w id="w14433">quantities</w> <w id="w14434">of</w> <w id="w14435">actin</w> <w id="w14436">,</w> <w id="w14437">further</w> <w id="w14438">suggests</w> <w id="w14439">that</w> <w id="w14440">the</w> <w id="w14441">principal</w> <w id="w14442">membrane</w> <w id="w14443">skeletal</w> <w id="w14444">element</w> <w id="w14445">is</w> <w id="w14446">actin</w> <w id="w14447">with</w> <w id="w14448">perhaps</w> <w id="w14449">smaller</w> <w id="w14450">quantities</w> <w id="w14451">of</w> <w id="w14452">a</w> <w id="w14453">240-kd</w> <w id="w14454">component</w> <w id="w14455">,</w> <w id="w14456">identified</w> <w id="w14457">by</w> <w id="w14458">others</w> <w id="w14459">as</w> <w id="w14460">the</w> <w id="w14461">protein</w> <w id="w14462">talin</w> <w id="w14463">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3284" gid="g3151" t="Gene/protein/RNA" fr="w14426" to="w14426" nam="yes">
+     <textspan type="extent">alpha-spectrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.926.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3285" gid="g3152" t="Gene/protein/RNA" fr="w14446" to="w14446" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.926.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3286" gid="g3153" t="Gene/protein/RNA" fr="w14435" to="w14435" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.926.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3287" gid="g3154" t="Gene/protein/RNA" fr="w14462" to="w14462" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.926.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

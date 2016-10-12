@@ -1,0 +1,88 @@
+<rexml>
+<doc id="1696">
+  <text>
+<p><s id="s1"><w id="w26996">These</w> <w id="w26997">findings</w> <w id="w26998">provide</w> <w id="w26999">the</w> <w id="w27000">first</w> <w id="w27001">evidence</w> <w id="w27002">that</w> <w id="w27003">profilin</w> <w id="w27004">is</w> <w id="w27005">a</w> <w id="w27006">key</w> <w id="w27007">molecule</w> <w id="w27008">linking</w> <w id="w27009">a</w> <w id="w27010">signaling</w> <w id="w27011">network</w> <w id="w27012">to</w> <w id="w27013">rapid</w> <w id="w27014">actin</w> <w id="w27015">polymerization</w> <w id="w27016">in</w> <w id="w27017">microspike</w> <w id="w27018">formation</w> <w id="w27019">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6228" gid="g5943" t="Individual_protein" fr="w27003" to="w27003" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1696.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6229" gid="g5944" t="RELATIONSHIP_TEXTBINDING" fr="w27008" to="w27008">
+     <textspan type="extent">linking</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1696.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6230" gid="g5945" t="Other" fr="w27011" to="w27011" nam="yes">
+     <textspan type="extent">network</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Other"/>
+      <exattr n="bd" v="e.1696.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6231" gid="g5946" t="RELATIONSHIP_TEXTBINDING" fr="w27008" to="w27012">
+     <textspan type="extent">linking [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1696.3"/>
+      <exattr n="nst" v="st.1696.12.0"/>
+      <exattr n="nst" v="st.1696.16.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6232" gid="g5947" t="POLYMERIZATION" fr="w27014" to="w27015">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.1696.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6233" gid="g5948" t="Individual_protein" fr="w27014" to="w27014" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1696.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2387" t="CAUSE" e1="e6228" e2="e6231" re="e6229">
+     <textspan type="extent">profilin is a key molecule linking a signaling network to rapid actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1696.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2388" t="RELATE" e1="e6230" e2="e6232" re="e6231">
+     <textspan type="extent">linking a signaling network to rapid actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1696.3"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,67 @@
+<rexml>
+<doc id="780">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12213" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w12214" g="w12215" t="mod" cr="mod:w12215" w="isolated" l="~" p="A"/>
+     <dpg d="w12215" g="w12213" t="pcomp-n" cr="mod*in*n:w12220" w="hearts" l="heart" p="N"/>
+     <dpg d="w12216" g="E1" t="punc" cr="punc:w12220" w="," l="~" p="U"/>
+     <dpg d="w12217" g="w12218" t="lex-mod" cr="lex-mod:w12218" w="PD" l="~" p="U"/>
+     <dpg d="w12218" g="w12220" t="s" cr="s+subj:w12220" w="81,723" l="PD 81,723" p="N"/>
+     <dpg d="w12219" g="w12220" t="mod-before" cr="mod-before:w12220" w="alone" l="~" p="A"/>
+     <dpg d="w12220" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="produced" l="produce" p="V"/>
+     <dpg d="E4" g="w12220" t="subj" cr="" w="" l="PD 81,723" p="N"/>
+     <dpg d="E4" g="w12218" t="antecedent" cr="" w="" l="PD 81,723" p="N"/>
+     <dpg d="w12221" g="w12220" t="guest" cr="guest:w12220" w="only" l="~" p="A"/>
+     <dpg d="w12222" g="w12224" t="det" cr="det:w12224" w="a" l="~" p="Det"/>
+     <dpg d="w12223" g="w12224" t="mod" cr="mod:w12224" w="small" l="~" p="A"/>
+     <dpg d="w12224" g="w12220" t="obj" cr="obj:w12220||obj:w12242" w="stimulus" l="~" p="N"/>
+     <dpg d="w12225" g="w12224" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w12226" g="w12227" t="gen" cr="gen:w12227" w="His" l="~" p="N"/>
+     <dpg d="w12227" g="w12225" t="pcomp-n" cr="mod*to*n:w12224" w="bundle" l="~" p="N"/>
+     <dpg d="w12228" g="w12227" t="punc" cr="punc:w12227" w="(" l="~" p="U"/>
+     <dpg d="w12229" g="w12232" t="nn" cr="nn:w12232" w="S-H" l="S-H" p="N"/>
+     <dpg d="w12230" g="w12232" t="punc" cr="punc:w12232" w=")" l="~" p="U"/>
+     <dpg d="w12231" g="w12232" t="nn" cr="nn:w12232" w="interval" l="~" p="N"/>
+     <dpg d="w12232" g="w12227" t="appo" cr="appo:w12227" w="prolongation" l="~" p="N"/>
+     <dpg d="w12233" g="w12232" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12234" g="w12236" t="lex-mod" cr="lex-mod:w12236" w="1.5" l="~" p="U"/>
+     <dpg d="w12235" g="w12236" t="lex-mod" cr="lex-mod:w12236" w="to" l="~" p="U"/>
+     <dpg d="w12236" g="w12237" t="amount-value" cr="amount-value:w12237" w="4" l="1.5 to 4" p="N"/>
+     <dpg d="w12237" g="w12233" t="pcomp-n" cr="mod*of*n:w12232" w="msec" l="~" p="N"/>
+     <dpg d="w12238" g="w12224" t="punc" cr="punc:w12224" w="," l="~" p="U"/>
+     <dpg d="E0" g="w12224" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12239" g="E0" t="whn" cr="whn:w12242" w="which" l="~" p="N"/>
+     <dpg d="w12239" g="w12224" t="antecedent" cr="antecedent:w12224" w="which" l="~" p="N"/>
+     <dpg d="w12240" g="w12242" t="be" cr="be:w12242" w="was" l="be" p="be"/>
+     <dpg d="w12241" g="w12242" t="amod" cr="amod:w12242" w="completely" l="~" p="A"/>
+     <dpg d="w12242" g="E0" t="i" cr="rel:w12224" w="reversed" l="reverse" p="V"/>
+     <dpg d="E5" g="w12242" t="obj" cr="" w="" l="which" p="N"/>
+     <dpg d="E5" g="w12224" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w12243" g="w12242" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w12244" g="w12246" t="det" cr="det:w12246" w="the" l="~" p="Det"/>
+     <dpg d="w12245" g="w12246" t="nn" cr="nn:w12246" w="A1" l="~" p="N"/>
+     <dpg d="w12246" g="w12243" t="pcomp-n" cr="by-subj*by*n:w12242" w="adenosine" l="~" p="N"/>
+     <dpg d="w12247" g="w12249" t="nn" cr="nn:w12249" w="receptor" l="~" p="N"/>
+     <dpg d="w12248" g="w12249" t="nn" cr="nn:w12249" w="antagonist" l="~" p="N"/>
+     <dpg d="w12249" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="8-cyclopentyltheophylline" l="8-cyclopentyltheophylline" p="N"/>
+     <dpg d="w12250" g="w12249" t="punc" cr="punc:w12249" w="and" l="~" p="U"/>
+     <dpg d="w12251" g="w12252" t="nn" cr="nn:w12252" w="adenosine" l="~" p="N"/>
+     <dpg d="w12252" g="w12249" t="conj" cr="conj:w12249" w="deaminase" l="~" p="N"/>
+     <dpg d="w12253" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

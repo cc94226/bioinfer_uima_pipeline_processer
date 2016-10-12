@@ -1,0 +1,61 @@
+<rexml>
+<doc id="543">
+  <text>
+<p><s id="s1"><w id="w7641">Gel</w> <w id="w7642">electrophoresis</w> <w id="w7643">was</w> <w id="w7644">used</w> <w id="w7645">to</w> <w id="w7646">measure</w> <w id="w7647">changes</w> <w id="w7648">in</w> <w id="w7649">the</w> <w id="w7650">relative</w> <w id="w7651">amounts</w> <w id="w7652">of</w> <w id="w7653">actin</w> <w id="w7654">or</w> <w id="w7655">myosin</w> <w id="w7656">and</w> <w id="w7657">of</w> <w id="w7658">myosin</w> <w id="w7659">heavy</w> <w id="w7660">chain</w> <w id="w7661">(</w> <w id="w7662">MHC</w> <w id="w7663">)</w> <w id="w7664">isoforms</w> <w id="w7665">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1808" gid="g1736" t="Gene/protein/RNA" fr="w7653" to="w7653" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.543.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1809" gid="g1737" t="Individual_protein" fr="w7658" to="w7660" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.543.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1810" gid="g1738" t="Gene/protein/RNA" fr="w7655" to="w7655" nam="yes">
+     <textspan type="extent">myosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.543.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1811" gid="g1737" t="Individual_protein" fr="w7662" to="w7662" nam="yes">
+     <textspan type="extent">MHC</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.543.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

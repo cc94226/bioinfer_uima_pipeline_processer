@@ -1,0 +1,128 @@
+<rexml>
+<doc id="1901">
+  
+  <markup>
+   <nes>
+    <ne id="e7047" gid="g6728" t="Gene/protein/RNA" fr="w30578" to="w30579" nam="yes" sid="s1">
+     <textspan>cyclin A</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1901.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7049" gid="g6730" t="Gene/protein/RNA" fr="w30581" to="w30582" nam="yes" sid="s1">
+     <textspan>cyclin B1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1901.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7048" gid="g6729" t="Gene/protein/RNA" fr="w30584" to="w30585" nam="yes" sid="s1">
+     <textspan>cyclin D1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1901.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7053" gid="g6733" t="Protein_family_or_group" fr="w30588" to="w30590" nam="yes" sid="s1">
+     <textspan>cyclin-dependent kinase inhibitors</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1901.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7052" gid="g6733" t="Protein_family_or_group" fr="w30592" to="w30592" nam="yes" sid="s1">
+     <textspan>CKIs</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1901.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7051" gid="g6732" t="Individual_protein" fr="w30594" to="w30594" nam="yes" sid="s1">
+     <textspan>p27</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1901.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7050" gid="g6731" t="Individual_protein" fr="w30596" to="w30596" nam="yes" sid="s1">
+     <textspan>p57</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1901.3"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2699" t="COOF-MEMBER" e1="e7051" e2="e7050" re="">
+     <textspan>cyclin-dependent kinase inhibitors ( CKIs ) p27 and p57</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2699" t="MEMBER" e1="e7053" e2="e7051" re="">
+     <textspan>cyclin-dependent kinase inhibitors ( CKIs ) p27</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2700" t="MEMBER" e1="e7053" e2="e7050" re="">
+     <textspan>cyclin-dependent kinase inhibitors ( CKIs ) p27 and p57</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

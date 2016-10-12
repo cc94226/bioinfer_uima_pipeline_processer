@@ -1,0 +1,48 @@
+<rexml>
+<doc id="1041">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w16449" g="w16450" t="det" cr="det:w16450" w="No" l="~" p="Det"/>
+     <dpg d="w16450" g="E2" t="subcat" cr="subcat:E2" w="evidence" l="~" p="N"/>
+     <dpg d="w16451" g="w16450" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w16452" g="w16454" t="det" cr="det:w16454" w="the" l="~" p="Det"/>
+     <dpg d="w16453" g="w16454" t="mod" cr="mod:w16454" w="surface" l="~" p="A"/>
+     <dpg d="w16454" g="w16451" t="pcomp-n" cr="mod*for*n:w16450" w="expression" l="~" p="N"/>
+     <dpg d="w16455" g="w16454" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w16456" g="w16457" t="det" cr="det:w16457" w="the" l="~" p="Det"/>
+     <dpg d="w16457" g="w16455" t="pcomp-n" cr="mod*of*n:w16454" w="phosphoprotein" l="~" p="N"/>
+     <dpg d="w16458" g="w16457" t="punc" cr="punc:w16457" w="(" l="~" p="U"/>
+     <dpg d="w16459" g="w16457" t="appo" cr="appo:w16457" w="P" l="~" p="N"/>
+     <dpg d="w16460" g="E2" t="punc" cr="punc:E2" w=")" l="~" p="U"/>
+     <dpg d="w16461" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16462" g="w16464" t="nn" cr="nn:w16464" w="matrix" l="~" p="N"/>
+     <dpg d="w16463" g="w16464" t="punc" cr="punc:w16464" w="(" l="~" p="U"/>
+     <dpg d="w16464" g="w16473" t="s" cr="s+obj:w16473" w="M" l="~" p="N"/>
+     <dpg d="w16465" g="w16464" t="punc" cr="punc:w16464" w=")" l="~" p="U"/>
+     <dpg d="w16466" g="w16464" t="punc" cr="punc:w16464" w="or" l="~" p="U"/>
+     <dpg d="w16467" g="w16471" t="nn" cr="nn:w16471" w="nucleocapsid" l="~" p="N"/>
+     <dpg d="w16468" g="w16471" t="punc" cr="punc:w16471" w="(" l="~" p="U"/>
+     <dpg d="w16469" g="w16471" t="nn" cr="nn:w16471" w="N" l="~" p="N"/>
+     <dpg d="w16470" g="w16471" t="punc" cr="punc:w16471" w=")" l="~" p="U"/>
+     <dpg d="w16471" g="w16464" t="conj" cr="conj:w16464" w="proteins" l="protein" p="N"/>
+     <dpg d="w16472" g="w16473" t="be" cr="be:w16473" w="was" l="be" p="be"/>
+     <dpg d="w16473" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="found" l="find" p="V"/>
+     <dpg d="E3" g="w16473" t="obj" cr="" w="" l="m" p="N"/>
+     <dpg d="E3" g="w16464" t="antecedent" cr="" w="" l="m" p="N"/>
+     <dpg d="w16474" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

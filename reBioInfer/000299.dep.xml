@@ -1,0 +1,52 @@
+<rexml>
+<doc id="299">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4621" g="w4628" t="s" cr="s+subj:w4628||s+subj:w4629" w="Cells" l="cell" p="N"/>
+     <dpg d="w4622" g="w4621" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4623" g="w4627" t="det" cr="det:w4627" w="the" l="~" p="Det"/>
+     <dpg d="w4624" g="w4627" t="nn" cr="nn:w4627" w="fission" l="~" p="N"/>
+     <dpg d="w4625" g="w4627" t="nn" cr="nn:w4627" w="yeast" l="~" p="N"/>
+     <dpg d="w4626" g="w4627" t="nn" cr="nn:w4627" w="Schizosaccharomyces" l="~" p="N"/>
+     <dpg d="w4627" g="w4622" t="pcomp-n" cr="mod*of*n:w4621" w="pombe" l="~" p="N"/>
+     <dpg d="w4628" g="E2" t="i" cr="" w="divide" l="~" p="V"/>
+     <dpg d="E5" g="w4628" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E5" g="w4621" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="E1" g="w4628" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w4621" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w4629" g="E1" t="i" cr="mod:w4628" w="using" l="use" p="V"/>
+     <dpg d="E6" g="w4629" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w4630" g="w4633" t="det" cr="det:w4633" w="a" l="~" p="Det"/>
+     <dpg d="w4631" g="w4633" t="mod" cr="mod:w4633" w="medial" l="~" p="A"/>
+     <dpg d="w4632" g="w4633" t="nn" cr="nn:w4633" w="actomyosin" l="~" p="N"/>
+     <dpg d="w4633" g="w4629" t="obj" cr="obj:w4629||subj:w4635" w="ring" l="~" p="N"/>
+     <dpg d="E0" g="w4633" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4634" g="E0" t="whn" cr="whn:w4635" w="that" l="~" p="THAT"/>
+     <dpg d="w4634" g="w4633" t="antecedent" cr="antecedent:w4633" w="that" l="~" p="THAT"/>
+     <dpg d="w4635" g="E0" t="i" cr="rel:w4633" w="assembles" l="assemble" p="V"/>
+     <dpg d="E7" g="w4635" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E7" g="w4633" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w4636" g="w4635" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w4637" g="w4638" t="mod" cr="mod:w4638" w="early" l="~" p="A"/>
+     <dpg d="w4638" g="w4636" t="pcomp-n" cr="mod*in*n:w4635" w="mitosis" l="~" p="N"/>
+     <dpg d="w4639" g="w4638" t="punc" cr="punc:w4638" w="[" l="~" p="U"/>
+     <dpg d="w4640" g="w4638" t="num" cr="num:w4638" w="1" l="~" p="N"/>
+     <dpg d="w4641" g="" t="" cr="" w="]" l="~" p="U"/>
+     <dpg d="w4642" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

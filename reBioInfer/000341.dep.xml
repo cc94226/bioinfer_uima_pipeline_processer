@@ -1,0 +1,73 @@
+<rexml>
+<doc id="341">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5162" g="w5167" t="mod" cr="mod:w5167" w="Confluent" l="~" p="A"/>
+     <dpg d="w5163" g="w5167" t="nn" cr="nn:w5167" w="calf" l="~" p="N"/>
+     <dpg d="w5164" g="w5165" t="lex-mod" cr="lex-mod:w5165" w="pulmonary" l="~" p="U"/>
+     <dpg d="w5165" g="w5167" t="nn" cr="nn:w5167" w="artery" l="pulmonary artery" p="N"/>
+     <dpg d="w5166" g="w5167" t="mod" cr="mod:w5167" w="endothelial" l="~" p="A"/>
+     <dpg d="w5167" g="w5181" t="s" cr="obj:w5168||s+subj:w5181" w="monolayers" l="~" p="N"/>
+     <dpg d="w5168" g="w5167" t="vrel" cr="vrel:w5167" w="exposed" l="expose" p="V"/>
+     <dpg d="E3" g="w5168" t="obj" cr="" w="" l="monolayers" p="N"/>
+     <dpg d="E3" g="w5167" t="antecedent" cr="" w="" l="monolayers" p="N"/>
+     <dpg d="w5169" g="w5168" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w5170" g="w5171" t="lex-mod" cr="lex-mod:w5171" w="95" l="~" p="U"/>
+     <dpg d="w5171" g="w5172" t="nn" cr="nn:w5172" w="%" l="95 %" p="N"/>
+     <dpg d="w5172" g="w5169" t="pcomp-n" cr="mod*to*n:w5168" w="oxygen" l="~" p="N"/>
+     <dpg d="w5173" g="w5172" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w5174" g="w5173" t="pcomp-n" cr="mod*for*n:w5172" w="1" l="~" p="N"/>
+     <dpg d="w5175" g="w5174" t="punc" cr="punc:w5174" w="," l="~" p="U"/>
+     <dpg d="w5176" g="w5174" t="conj" cr="conj:w5174" w="2" l="~" p="N"/>
+     <dpg d="w5177" g="w5176" t="punc" cr="punc:w5176" w="," l="~" p="U"/>
+     <dpg d="w5178" g="w5176" t="punc" cr="punc:w5176" w="or" l="~" p="U"/>
+     <dpg d="w5179" g="w5180" t="amount-value" cr="amount-value:w5180" w="3" l="~" p="N"/>
+     <dpg d="w5180" g="w5176" t="conj" cr="conj:w5176" w="days" l="~" p="N"/>
+     <dpg d="w5181" g="E1" t="i" cr="" w="exhibit" l="~" p="V"/>
+     <dpg d="E4" g="w5181" t="subj" cr="" w="" l="monolayers" p="N"/>
+     <dpg d="E4" g="w5167" t="antecedent" cr="" w="" l="monolayers" p="N"/>
+     <dpg d="w5182" g="w5184" t="det" cr="det:w5184" w="a" l="~" p="Det"/>
+     <dpg d="w5183" g="w5184" t="mod" cr="mod:w5184" w="time-dependent" l="time-dependent" p="A"/>
+     <dpg d="w5184" g="w5181" t="obj" cr="obj:w5181" w="increase" l="~" p="N"/>
+     <dpg d="w5185" g="w5184" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w5186" g="w5185" t="pcomp-n" cr="mod*in*n:w5184" w="adherence" l="~" p="N"/>
+     <dpg d="w5187" g="w5186" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w5188" g="w5187" t="pcomp-n" cr="mod*to*n:w5186||subj:w5192" w="substratum" l="~" p="N"/>
+     <dpg d="w5189" g="w5188" t="punc" cr="punc:w5188" w="," l="~" p="U"/>
+     <dpg d="E0" g="w5188" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5190" g="E0" t="whn" cr="whn:w5192" w="which" l="~" p="N"/>
+     <dpg d="w5190" g="w5188" t="antecedent" cr="antecedent:w5188" w="which" l="~" p="N"/>
+     <dpg d="w5191" g="E0" t="mod" cr="mod:w5192" w="closely" l="~" p="A"/>
+     <dpg d="w5192" g="E0" t="i" cr="rel:w5188" w="parallels" l="parallel" p="V"/>
+     <dpg d="E5" g="w5192" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E5" g="w5188" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w5193" g="w5192" t="obj" cr="obj:w5192" w="changes" l="change" p="N"/>
+     <dpg d="w5194" g="w5193" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w5195" g="w5196" t="nn" cr="nn:w5196" w="actin" l="~" p="N"/>
+     <dpg d="w5196" g="w5194" t="pcomp-n" cr="mod*in*n:w5193" w="cytoarchitecture" l="~" p="N"/>
+     <dpg d="w5197" g="w5196" t="punc" cr="punc:w5196" w="and" l="~" p="U"/>
+     <dpg d="w5198" g="w5199" t="det" cr="det:w5199" w="the" l="~" p="Det"/>
+     <dpg d="w5199" g="w5196" t="conj" cr="conj:w5196" w="distribution" l="~" p="N"/>
+     <dpg d="w5200" g="w5199" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5201" g="w5204" t="mod" cr="mod:w5204" w="focal" l="~" p="A"/>
+     <dpg d="w5202" g="w5204" t="nn" cr="nn:w5204" w="contact" l="~" p="N"/>
+     <dpg d="w5203" g="w5204" t="nn" cr="nn:w5204" w="proteins" l="protein" p="N"/>
+     <dpg d="w5204" g="w5200" t="pcomp-n" cr="mod*of*n:w5199" w="vinculin" l="~" p="N"/>
+     <dpg d="w5205" g="w5204" t="punc" cr="punc:w5204" w="and" l="~" p="U"/>
+     <dpg d="w5206" g="w5204" t="conj" cr="conj:w5204" w="talin" l="~" p="N"/>
+     <dpg d="w5207" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

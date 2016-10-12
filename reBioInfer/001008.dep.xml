@@ -1,0 +1,46 @@
+<rexml>
+<doc id="1008">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w15999" g="w16012" t="s" cr="s+subj:w16012" w="Mutants" l="mutant" p="N"/>
+     <dpg d="w16000" g="w15999" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w16001" g="w16000" t="pcomp-n" cr="mod*of*n:w15999" w="cdc3" l="~" p="N"/>
+     <dpg d="w16002" g="w16001" t="punc" cr="punc:w16001" w="and" l="~" p="U"/>
+     <dpg d="w16003" g="w16001" t="conj" cr="conj:w16001||subj:w16006" w="cdc8" l="~" p="N"/>
+     <dpg d="w16004" g="w16003" t="punc" cr="punc:w16003" w="," l="~" p="U"/>
+     <dpg d="E0" g="w16003" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16005" g="E0" t="whn" cr="whn:w16006" w="which" l="~" p="N"/>
+     <dpg d="w16005" g="w16003" t="antecedent" cr="antecedent:w16003" w="which" l="~" p="N"/>
+     <dpg d="w16006" g="E0" t="i" cr="rel:w16003" w="encode" l="~" p="V"/>
+     <dpg d="E3" g="w16006" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E3" g="w16003" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w16007" g="w16006" t="obj" cr="obj:w16006" w="profilin" l="~" p="N"/>
+     <dpg d="w16008" g="w16007" t="punc" cr="punc:w16007" w="and" l="~" p="U"/>
+     <dpg d="w16009" g="w16007" t="conj" cr="conj:w16007" w="tropomyosin" l="~" p="N"/>
+     <dpg d="w16010" g="w16012" t="mod-before" cr="mod-before:w16012" w="respectively" l="~" p="A"/>
+     <dpg d="w16011" g="w16012" t="punc" cr="punc:w16012" w="," l="~" p="U"/>
+     <dpg d="w16012" g="E1" t="i" cr="" w="display" l="~" p="V"/>
+     <dpg d="E4" g="w16012" t="subj" cr="" w="" l="mutant" p="N"/>
+     <dpg d="E4" g="w15999" t="antecedent" cr="" w="" l="mutant" p="N"/>
+     <dpg d="w16013" g="w16015" t="mod" cr="mod:w16015" w="disorganized" l="~" p="A"/>
+     <dpg d="w16014" g="w16015" t="nn" cr="nn:w16015" w="actin" l="~" p="N"/>
+     <dpg d="w16015" g="w16012" t="obj" cr="obj:w16012" w="patches" l="patch" p="N"/>
+     <dpg d="w16016" g="w16015" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w16017" g="w16018" t="pre" cr="pre:w16018" w="all" l="~" p="PreDet"/>
+     <dpg d="w16018" g="w16016" t="pcomp-n" cr="mod*in*n:w16015" w="cells" l="cell" p="N"/>
+     <dpg d="w16019" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

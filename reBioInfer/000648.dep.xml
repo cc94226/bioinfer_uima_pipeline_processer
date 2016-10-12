@@ -1,0 +1,50 @@
+<rexml>
+<doc id="648">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9815" g="w9817" t="mod" cr="mod:w9817" w="Human" l="~" p="A"/>
+     <dpg d="w9816" g="w9817" t="nn" cr="nn:w9817" w="platelet" l="~" p="N"/>
+     <dpg d="w9817" g="w9827" t="s" cr="s+subj:w9827||s+subj:w9830" w="P-235" l="P-235" p="N"/>
+     <dpg d="w9818" g="w9817" t="punc" cr="punc:w9817" w="," l="~" p="U"/>
+     <dpg d="w9819" g="w9823" t="det" cr="det:w9823" w="a" l="~" p="Det"/>
+     <dpg d="w9820" g="w9822" t="lex-mod" cr="lex-mod:w9822" w="talin" l="~" p="U"/>
+     <dpg d="w9821" g="w9822" t="lex-mod" cr="lex-mod:w9822" w="-" l="~" p="U"/>
+     <dpg d="w9822" g="w9823" t="mod" cr="mod:w9823" w="like" l="talin - like" p="A"/>
+     <dpg d="w9823" g="w9817" t="appo" cr="appo:w9817||s+subj:w9824" w="actin" l="~" p="N"/>
+     <dpg d="E1" g="w9823" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w9823" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w9824" g="E1" t="i" cr="rel:w9823" w="binding" l="bind" p="V"/>
+     <dpg d="E6" g="w9824" t="subj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E6" g="E4" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w9825" g="w9824" t="obj" cr="obj:w9824" w="protein" l="~" p="N"/>
+     <dpg d="w9826" g="w9827" t="punc" cr="punc:w9827" w="," l="~" p="U"/>
+     <dpg d="w9827" g="E2" t="i" cr="" w="binds" l="bind" p="V"/>
+     <dpg d="E7" g="w9827" t="subj" cr="" w="" l="P-235" p="N"/>
+     <dpg d="E7" g="w9817" t="antecedent" cr="" w="" l="P-235" p="N"/>
+     <dpg d="w9828" g="w9827" t="mod" cr="mod:w9827" w="selectively" l="~" p="A"/>
+     <dpg d="E0" g="w9827" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w9817" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w9829" g="w9830" t="aux" cr="aux:w9830" w="to" l="~" p="Aux"/>
+     <dpg d="w9830" g="E0" t="i" cr="mod:w9827" w="mixed" l="mix" p="V"/>
+     <dpg d="E8" g="w9830" t="subj" cr="" w="" l="P-235" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="P-235" p="N"/>
+     <dpg d="w9831" g="w9832" t="nn" cr="nn:w9832" w="lipid" l="~" p="N"/>
+     <dpg d="w9832" g="w9830" t="obj" cr="obj:w9830" w="bilayers" l="~" p="N"/>
+     <dpg d="w9833" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

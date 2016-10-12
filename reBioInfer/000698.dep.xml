@@ -1,0 +1,55 @@
+<rexml>
+<doc id="698">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10783" g="E0" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w10784" g="w10783" t="pcomp-n" cr="mod*in*n:w10793" w="Acanthamoeba" l="~" p="N"/>
+     <dpg d="w10785" g="E0" t="punc" cr="punc:w10793" w="," l="~" p="U"/>
+     <dpg d="w10786" g="w10788" t="det" cr="det:w10788" w="the" l="~" p="Det"/>
+     <dpg d="w10787" g="w10788" t="nn" cr="nn:w10788" w="two" l="~" p="N"/>
+     <dpg d="w10788" g="w10793" t="s" cr="s+subj:w10793" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w10789" g="w10788" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10790" g="w10789" t="pcomp-n" cr="mod*of*n:w10788" w="profilin" l="~" p="N"/>
+     <dpg d="w10791" g="w10793" t="aux" cr="aux:w10793" w="may" l="~" p="Aux"/>
+     <dpg d="w10792" g="w10793" t="have" cr="have:w10793" w="have" l="~" p="have"/>
+     <dpg d="w10793" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="specialized" l="specialize" p="V"/>
+     <dpg d="E3" g="w10793" t="subj" cr="" w="" l="isoform" p="N"/>
+     <dpg d="E3" g="w10788" t="antecedent" cr="" w="" l="isoform" p="N"/>
+     <dpg d="w10794" g="w10793" t="obj" cr="obj:w10793" w="functions" l="function" p="N"/>
+     <dpg d="w10795" g="w10794" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w10796" g="w10797" t="det" cr="det:w10797" w="the" l="~" p="Det"/>
+     <dpg d="w10797" g="w10795" t="pcomp-n" cr="mod*on*n:w10794" w="basis" l="~" p="N"/>
+     <dpg d="w10798" g="w10797" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10799" g="w10798" t="pcomp-n" cr="mod*of*n:w10797" w="their" l="~" p="N"/>
+     <dpg d="w10800" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="identical" l="~" p="A"/>
+     <dpg d="w10801" g="E2" t="punc" cr="punc:E2" w="(" l="~" p="U"/>
+     <dpg d="w10802" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="approximately" l="~" p="A"/>
+     <dpg d="w10803" g="w10806" t="num" cr="num:w10806" w="10" l="~" p="N"/>
+     <dpg d="w10804" g="w10806" t="nn" cr="nn:w10806" w="microM" l="~" p="N"/>
+     <dpg d="w10805" g="w10806" t="punc" cr="punc:w10806" w=")" l="~" p="U"/>
+     <dpg d="w10806" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="affinities" l="affinity" p="N"/>
+     <dpg d="w10807" g="w10806" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w10808" g="w10809" t="nn" cr="nn:w10809" w="actin" l="~" p="N"/>
+     <dpg d="w10809" g="w10807" t="pcomp-n" cr="mod*for*n:w10806" w="monomers" l="monomer" p="N"/>
+     <dpg d="w10810" g="w10809" t="punc" cr="punc:w10809" w="and" l="~" p="U"/>
+     <dpg d="w10811" g="w10812" t="mod" cr="mod:w10812" w="different" l="~" p="A"/>
+     <dpg d="w10812" g="w10809" t="conj" cr="conj:w10809" w="affinities" l="affinity" p="N"/>
+     <dpg d="w10813" g="w10812" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w10814" g="w10813" t="pcomp-n" cr="mod*for*n:w10812" w="PIP2" l="~" p="N"/>
+     <dpg d="w10815" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

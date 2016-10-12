@@ -1,0 +1,85 @@
+<rexml>
+<doc id="1808">
+  
+  <markup>
+   <nes>
+    <ne id="e6734" gid="g6423" t="Protein_complex" fr="w29111" to="w29114" nam="yes" sid="s1">
+     <textspan>cadherin-catenin complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1808.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6732" gid="g6421" t="Individual_protein" fr="w29111" to="w29111" nam="yes" sid="s1">
+     <textspan>cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1808.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6735" gid="g6424" t="Individual_protein" fr="w29113" to="w29113" nam="yes" sid="s1">
+     <textspan>catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1808.3"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2580" t="COOF-CONTAIN" e1="e6732" e2="e6735" re="e6733">
+     <textspan>cadherin - catenin complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1808.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2580" t="CONTAIN" e1="e6734" e2="e6732" re="e6733">
+     <textspan>cadherin - catenin complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1808.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2581" t="CONTAIN" e1="e6734" e2="e6735" re="e6733">
+     <textspan>cadherin - catenin complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1808.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

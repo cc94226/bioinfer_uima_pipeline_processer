@@ -1,0 +1,47 @@
+<rexml>
+<doc id="152">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2489" g="w2495" t="s" cr="s+subj:w2495" w="RAD51" l="~" p="N"/>
+     <dpg d="w2490" g="w2489" t="punc" cr="punc:w2489" w="," l="~" p="U"/>
+     <dpg d="w2491" g="w2489" t="conj" cr="conj:w2489" w="RAD52" l="~" p="N"/>
+     <dpg d="w2492" g="w2491" t="punc" cr="punc:w2491" w="," l="~" p="U"/>
+     <dpg d="w2493" g="w2491" t="punc" cr="punc:w2491" w="and" l="~" p="U"/>
+     <dpg d="w2494" g="w2491" t="conj" cr="conj:w2491" w="RAD54" l="~" p="N"/>
+     <dpg d="w2495" g="E1" t="i" cr="" w="encode" l="~" p="V"/>
+     <dpg d="E3" g="w2495" t="subj" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="E3" g="w2489" t="antecedent" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="w2496" g="w2495" t="obj" cr="obj:w2495||subj:w2499" w="proteins" l="protein" p="N"/>
+     <dpg d="E0" g="w2496" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2497" g="E0" t="whn" cr="whn:w2498" w="that" l="~" p="THAT"/>
+     <dpg d="w2497" g="w2496" t="antecedent" cr="antecedent:w2496" w="that" l="~" p="THAT"/>
+     <dpg d="w2498" g="E0" t="i" cr="rel:w2496" w="are" l="be" p="VBE"/>
+     <dpg d="w2499" g="w2498" t="pred" cr="pred:w2498" w="critical" l="~" p="A"/>
+     <dpg d="E4" g="w2499" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E4" g="w2496" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w2500" g="w2499" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w2501" g="w2502" t="det" cr="det:w2502" w="the" l="~" p="Det"/>
+     <dpg d="w2502" g="w2500" t="pcomp-n" cr="mod*to*n:w2499" w="repair" l="~" p="N"/>
+     <dpg d="w2503" g="w2502" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2504" g="w2506" t="mod" cr="mod:w2506" w="double-strand" l="double-strand" p="A"/>
+     <dpg d="w2505" g="w2506" t="nn" cr="nn:w2506" w="DNA" l="~" p="N"/>
+     <dpg d="w2506" g="w2503" t="pcomp-n" cr="mod*of*n:w2502" w="breaks" l="break" p="N"/>
+     <dpg d="w2507" g="w2506" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w2508" g="w2509" t="mod" cr="mod:w2509" w="homologous" l="~" p="A"/>
+     <dpg d="w2509" g="w2507" t="pcomp-n" cr="mod*by*n:w2506" w="recombination" l="~" p="N"/>
+     <dpg d="w2510" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

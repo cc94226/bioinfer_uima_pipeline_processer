@@ -1,0 +1,41 @@
+<rexml>
+<doc id="373">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5622" g="w5628" t="s" cr="s+subj:w5628" w="Deletion" l="~" p="N"/>
+     <dpg d="w5623" g="w5622" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5624" g="w5623" t="punc" cr="punc:w5623" w="both" l="~" p="U"/>
+     <dpg d="w5625" g="w5623" t="pcomp-n" cr="mod*of*n:w5622" w="RAD50" l="~" p="N"/>
+     <dpg d="w5626" g="w5625" t="punc" cr="punc:w5625" w="and" l="~" p="U"/>
+     <dpg d="w5627" g="w5625" t="conj" cr="conj:w5625" w="RAD51" l="~" p="N"/>
+     <dpg d="w5628" g="E0" t="i" cr="" w="produces" l="produce" p="V"/>
+     <dpg d="E2" g="w5628" t="subj" cr="" w="" l="deletion" p="N"/>
+     <dpg d="E2" g="w5622" t="antecedent" cr="" w="" l="deletion" p="N"/>
+     <dpg d="w5629" g="w5630" t="det" cr="det:w5630" w="a" l="~" p="Det"/>
+     <dpg d="w5630" g="w5628" t="obj" cr="obj:w5628||obj:w5634" w="phenotype" l="~" p="N"/>
+     <dpg d="w5631" g="w5630" t="pnmod" cr="pnmod:w5630" w="similar" l="~" p="A"/>
+     <dpg d="w5632" g="w5631" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w5633" g="w5632" t="pcomp-n" cr="mod*to*n:w5631" w="that" l="~" p="N"/>
+     <dpg d="w5634" g="w5630" t="vrel" cr="vrel:w5630" w="produced" l="produce" p="V"/>
+     <dpg d="E3" g="w5634" t="obj" cr="" w="" l="phenotype" p="N"/>
+     <dpg d="E3" g="w5630" t="antecedent" cr="" w="" l="phenotype" p="N"/>
+     <dpg d="w5635" g="w5634" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w5636" g="w5635" t="pcomp-n" cr="by-subj*by*n:w5634" w="deletion" l="~" p="N"/>
+     <dpg d="w5637" g="w5636" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5638" g="w5637" t="pcomp-n" cr="mod*of*n:w5636" w="RAD52" l="~" p="N"/>
+     <dpg d="w5639" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

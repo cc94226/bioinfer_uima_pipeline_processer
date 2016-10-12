@@ -1,0 +1,53 @@
+<rexml>
+<doc id="699">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10816" g="w10829" t="s" cr="s+subj:w10829" w="Inactivation" l="~" p="N"/>
+     <dpg d="w10817" g="w10816" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10818" g="w10820" t="det" cr="det:w10820" w="the" l="~" p="Det"/>
+     <dpg d="w10819" g="w10820" t="nn" cr="nn:w10820" w="Rb" l="~" p="N"/>
+     <dpg d="w10820" g="w10817" t="pcomp-n" cr="mod*of*n:w10816" w="pathway" l="~" p="N"/>
+     <dpg d="w10821" g="w10820" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w10822" g="w10825" t="lex-mod" cr="lex-mod:w10825" w="non-small" l="~" p="U"/>
+     <dpg d="w10823" g="w10825" t="lex-mod" cr="lex-mod:w10825" w="cell" l="~" p="U"/>
+     <dpg d="w10824" g="w10825" t="lex-mod" cr="lex-mod:w10825" w="lung" l="~" p="U"/>
+     <dpg d="w10825" g="w10821" t="pcomp-n" cr="mod*in*n:w10820" w="carcinoma" l="non-small cell lung carcinoma" p="N"/>
+     <dpg d="w10826" g="w10827" t="punc" cr="punc:w10827" w="(" l="~" p="U"/>
+     <dpg d="w10827" g="w10825" t="abbrev" cr="abbrev:w10825" w="NSCLC" l="~" p="N"/>
+     <dpg d="w10828" g="w10827" t="punc" cr="punc:w10827" w=")" l="~" p="U"/>
+     <dpg d="w10829" g="E0" t="i" cr="" w="occurs" l="occur" p="V"/>
+     <dpg d="E2" g="w10829" t="subj" cr="" w="" l="inactivation" p="N"/>
+     <dpg d="E2" g="w10816" t="antecedent" cr="" w="" l="inactivation" p="N"/>
+     <dpg d="w10830" g="w10829" t="mod" cr="mod:w10829" w="mostly" l="~" p="A"/>
+     <dpg d="w10831" g="w10830" t="mod" cr="" w="through" l="~" p="Prep"/>
+     <dpg d="w10832" g="w10831" t="pcomp-n" cr="mod*through*n:w10830" w="inactivation" l="~" p="N"/>
+     <dpg d="w10833" g="w10832" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10834" g="w10840" t="det" cr="det:w10840" w="the" l="~" p="Det"/>
+     <dpg d="w10835" g="w10840" t="mod" cr="mod:w10840" w="cyclin-dependent" l="cyclin-dependent" p="A"/>
+     <dpg d="w10836" g="w10840" t="nn" cr="nn:w10840" w="kinase" l="~" p="N"/>
+     <dpg d="w10837" g="w10840" t="nn" cr="nn:w10840" w="inhibitor" l="~" p="N"/>
+     <dpg d="w10838" g="w10840" t="nn" cr="nn:w10840" w="p16" l="~" p="N"/>
+     <dpg d="w10839" g="w10840" t="punc" cr="punc:w10840" w="(" l="~" p="U"/>
+     <dpg d="w10840" g="w10833" t="pcomp-n" cr="mod*of*n:w10832" w="INK4A" l="~" p="N"/>
+     <dpg d="w10841" g="w10840" t="punc" cr="punc:w10840" w=")" l="~" p="U"/>
+     <dpg d="w10842" g="w10840" t="punc" cr="punc:w10840" w="and/or" l="~" p="U"/>
+     <dpg d="w10843" g="w10840" t="conj" cr="conj:w10840" w="up-regulation" l="up-regulation" p="N"/>
+     <dpg d="w10844" g="w10843" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10845" g="w10846" t="nn" cr="nn:w10846" w="cyclin" l="~" p="N"/>
+     <dpg d="w10846" g="w10844" t="pcomp-n" cr="mod*of*n:w10843" w="D1" l="~" p="N"/>
+     <dpg d="w10847" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,461 @@
+<rexml>
+<doc id="2165">
+  
+  <markup>
+   <nes>
+    <ne id="e7665" gid="g7306" t="Protein_complex" fr="w33642" to="w33651" nam="yes" sid="s1">
+     <textspan>USF-nucleosome [..] complexes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.2165.0"/>
+      <exattr n="nst" v="st.2165.4.0"/>
+      <exattr n="nst" v="st.2165.4.1"/>
+      <exattr n="nst" v="st.2165.4.2"/>
+      <exattr n="nst" v="st.2165.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7669" gid="g7310" t="Individual_protein" fr="w33642" to="w33642" nam="yes" sid="s1">
+     <textspan>USF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2165.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7675" gid="g7316" t="Individual_protein" fr="w33644" to="w33644" nam="yes" sid="s1">
+     <textspan>nucleosome</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2165.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e7668" gid="g7309" t="Protein_complex" fr="w33646" to="w33651" nam="yes" sid="s1">
+     <textspan>GAL4-AH-nucleosome complexes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.2165.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7672" gid="g7313" t="Fusion_protein" fr="w33646" to="w33648" nam="yes" sid="s1">
+     <textspan>GAL4-AH</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Fusion_protein"/>
+      <exattr n="bd" v="e.2165.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7671" gid="g7312" t="Individual_protein" fr="w33646" to="w33646" nam="yes" sid="s1">
+     <textspan>GAL4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2165.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7674" gid="g7315" t="Individual_protein" fr="w33648" to="w33648" nam="yes" sid="s1">
+     <textspan>AH</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2165.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e7677" gid="g7318" t="Individual_protein" fr="w33650" to="w33650" nam="yes" sid="s1">
+     <textspan>nucleosome</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2165.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e7673" gid="g7314" t="Protein_family_or_group" fr="w33658" to="w33658" nam="yes" sid="s1">
+     <textspan>histone</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.2165.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e7667" gid="g7308" t="Individual_protein" fr="w33659" to="w33659" nam="yes" sid="s1">
+     <textspan>H4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2165.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7676" gid="g7317" t="Protein_family_or_group" fr="w33663" to="w33663" nam="yes" sid="s1">
+     <textspan>histone</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.2165.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e7670" gid="g7311" t="Individual_protein" fr="w33664" to="w33664" nam="yes" sid="s1">
+     <textspan>H3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2165.5"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2946" t="COOF-F-CONTAIN" e1="e7671" e2="e7674" re="">
+     <textspan>GAL4 - AH</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-F-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2946" t="F-CONTAIN" e1="e7672" e2="e7671" re="">
+     <textspan>GAL4 - AH</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="F-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2947" t="F-CONTAIN" e1="e7672" e2="e7674" re="">
+     <textspan>GAL4 - AH</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="F-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2948" t="COOF-CONTAIN" e1="e7669" e2="e7675" re="e7678">
+     <textspan>USF - nucleosome and GAL4 - AH - nucleosome complexes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.13"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2948" t="COOF-CONTAIN" e1="e7669" e2="e7667" re="e7678">
+     <textspan>USF - nucleosome and GAL4 - AH - nucleosome complexes demonstrated the predominant presence of acetylated histone H4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2948" t="COOF-CONTAIN" e1="e7669" e2="e7670" re="e7678">
+     <textspan>USF - nucleosome and GAL4 - AH - nucleosome complexes demonstrated the predominant presence of acetylated histone H4 relative to acetylated histone H3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2948" t="COOF-CONTAIN" e1="e7675" e2="e7667" re="e7678">
+     <textspan>USF - nucleosome and GAL4 - AH - nucleosome complexes demonstrated the predominant presence of acetylated histone H4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2948" t="COOF-CONTAIN" e1="e7675" e2="e7670" re="e7678">
+     <textspan>USF - nucleosome and GAL4 - AH - nucleosome complexes demonstrated the predominant presence of acetylated histone H4 relative to acetylated histone H3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2948" t="COOF-CONTAIN" e1="e7667" e2="e7670" re="e7678">
+     <textspan>USF - nucleosome and GAL4 - AH - nucleosome complexes demonstrated the predominant presence of acetylated histone H4 relative to acetylated histone H3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2948" t="CONTAIN" e1="e7665" e2="e7669" re="e7678">
+     <textspan>USF - nucleosome and GAL4 - AH - nucleosome complexes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.13"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2949" t="CONTAIN" e1="e7665" e2="e7675" re="e7678">
+     <textspan>USF - nucleosome and GAL4 - AH - nucleosome complexes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.13"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2950" t="COOF-CONTAIN" e1="e7672" e2="e7677" re="e7678">
+     <textspan>GAL4 - AH - nucleosome complexes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.13"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2950" t="COOF-CONTAIN" e1="e7672" e2="e7667" re="e7678">
+     <textspan>GAL4 - AH - nucleosome complexes demonstrated the predominant presence of acetylated histone H4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2950" t="COOF-CONTAIN" e1="e7672" e2="e7670" re="e7678">
+     <textspan>GAL4 - AH - nucleosome complexes demonstrated the predominant presence of acetylated histone H4 relative to acetylated histone H3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2950" t="COOF-CONTAIN" e1="e7677" e2="e7667" re="e7678">
+     <textspan>GAL4 - AH - nucleosome complexes demonstrated the predominant presence of acetylated histone H4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2950" t="COOF-CONTAIN" e1="e7677" e2="e7670" re="e7678">
+     <textspan>GAL4 - AH - nucleosome complexes demonstrated the predominant presence of acetylated histone H4 relative to acetylated histone H3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2950" t="CONTAIN" e1="e7668" e2="e7672" re="e7678">
+     <textspan>GAL4 - AH - nucleosome complexes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.13"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2951" t="CONTAIN" e1="e7668" e2="e7677" re="e7678">
+     <textspan>GAL4 - AH - nucleosome complexes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.13"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2952" t="CONTAIN" e1="e7665" e2="e7667" re="e7666">
+     <textspan>USF - nucleosome and GAL4 - AH - nucleosome complexes demonstrated the predominant presence of acetylated histone H4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2953" t="CONTAIN" e1="e7665" e2="e7670" re="e7666">
+     <textspan>USF - nucleosome and GAL4 - AH - nucleosome complexes demonstrated the predominant presence of acetylated histone H4 relative to acetylated histone H3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2954" t="CONTAIN" e1="e7668" e2="e7667" re="e7666">
+     <textspan>GAL4 - AH - nucleosome complexes demonstrated the predominant presence of acetylated histone H4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2955" t="CONTAIN" e1="e7668" e2="e7670" re="e7666">
+     <textspan>GAL4 - AH - nucleosome complexes demonstrated the predominant presence of acetylated histone H4 relative to acetylated histone H3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2165.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2956" t="MEMBER" e1="e7673" e2="e7667" re="">
+     <textspan>histone H4</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2957" t="MEMBER" e1="e7676" e2="e7670" re="">
+     <textspan>histone H3</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

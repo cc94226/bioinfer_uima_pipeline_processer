@@ -1,0 +1,107 @@
+<rexml>
+<doc id="672">
+  <text>
+<p><s id="s1"><w id="w10141">Immunofluorescence</w> <w id="w10142">staining</w> <w id="w10143">of</w> <w id="w10144">a</w> <w id="w10145">wild-type</w> <w id="w10146">strain</w> <w id="w10147">using</w> <w id="w10148">anti-</w><w id="w10149">Aip1</w> <w id="w10150">antibodies</w> <w id="w10151">revealed</w> <w id="w10152">that</w> <w id="w10153">Aip1</w> <w id="w10154">was</w> <w id="w10155">distributed</w> <w id="w10156">in</w> <w id="w10157">cortical</w> <w id="w10158">actin</w> <w id="w10159">patches</w> <w id="w10160">where</w> <w id="w10161">cofilin</w> <w id="w10162">was</w> <w id="w10163">also</w> <w id="w10164">co-localized</w> <w id="w10165">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2387" gid="g2287" t="Gene/protein/RNA" fr="w10149" to="w10149" nam="yes">
+     <textspan type="extent">Aip1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.672.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2388" gid="g2288" t="RELATIONSHIP_TEXTBINDING" fr="w10155" to="w10156">
+     <textspan type="extent">distributed in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.672.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2389" gid="g2289" t="Cell_component" fr="w10158" to="w10159" nam="yes">
+     <textspan type="extent">actin patches</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.672.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2390" gid="g2290" t="Individual_protein" fr="w10153" to="w10153" nam="yes">
+     <textspan type="extent">Aip1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.672.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2391" gid="g2291" t="Individual_protein" fr="w10161" to="w10161" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.672.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2392" gid="g2292" t="RELATIONSHIP_TEXTBINDING" fr="w10164" to="w10164">
+     <textspan type="extent">co-localized</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.672.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2393" gid="g2293" t="Individual_protein" fr="w10158" to="w10158" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.672.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r923" t="LOCALIZE-TO" e1="e2390" e2="e2389" re="e2388">
+     <textspan type="extent">Aip1 was distributed in cortical actin patches</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.672.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+    <rel id="r924" t="LOCALIZE-TO" e1="e2391" e2="e2389" re="e2392">
+     <textspan type="extent">actin patches where cofilin was also co-localized</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.672.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

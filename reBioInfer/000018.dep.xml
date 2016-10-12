@@ -1,0 +1,45 @@
+<rexml>
+<doc id="18">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w263" g="w264" t="mod" cr="mod:w264" w="Acidic" l="~" p="A"/>
+     <dpg d="w264" g="w276" t="s" cr="s+subj:w276" w="domain" l="~" p="N"/>
+     <dpg d="w265" g="w264" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w266" g="w269" t="det" cr="det:w269" w="the" l="~" p="Det"/>
+     <dpg d="w267" g="w269" t="nn" cr="nn:w269" w="phosphoprotein" l="~" p="N"/>
+     <dpg d="w268" g="w269" t="punc" cr="punc:w269" w="(" l="~" p="U"/>
+     <dpg d="w269" g="w265" t="pcomp-n" cr="mod*of*n:w264" w="P" l="~" p="N"/>
+     <dpg d="w270" g="w269" t="punc" cr="punc:w269" w=")" l="~" p="U"/>
+     <dpg d="w271" g="w269" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w272" g="w274" t="mod" cr="mod:w274" w="vesicular" l="~" p="A"/>
+     <dpg d="w273" g="w274" t="nn" cr="nn:w274" w="stomatitis" l="~" p="N"/>
+     <dpg d="w274" g="w271" t="pcomp-n" cr="mod*of*n:w269" w="virus" l="~" p="N"/>
+     <dpg d="w275" g="w276" t="mod-before" cr="mod-before:w276" w="differentially" l="~" p="A"/>
+     <dpg d="w276" g="E0" t="i" cr="" w="interacts" l="interact" p="V"/>
+     <dpg d="E2" g="w276" t="subj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E2" g="w264" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="w277" g="w276" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w278" g="w284" t="mod" cr="mod:w284" w="homologous" l="~" p="A"/>
+     <dpg d="w279" g="w278" t="punc" cr="punc:w278" w="and" l="~" p="U"/>
+     <dpg d="w280" g="w278" t="conj" cr="conj:w278" w="heterologous" l="~" p="A"/>
+     <dpg d="w281" g="w284" t="nn" cr="nn:w284" w="nucleocapsid" l="~" p="N"/>
+     <dpg d="w282" g="w284" t="nn" cr="nn:w284" w="protein" l="~" p="N"/>
+     <dpg d="w283" g="w284" t="punc" cr="punc:w284" w="(" l="~" p="U"/>
+     <dpg d="w284" g="w277" t="pcomp-n" cr="mod*with*n:w276" w="N" l="~" p="N"/>
+     <dpg d="w285" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w286" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

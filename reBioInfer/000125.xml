@@ -1,0 +1,35 @@
+<rexml>
+<doc id="125">
+  <text>
+<p><s id="s1"><w id="w2033">Analysis</w> <w id="w2034">of</w> <w id="w2035">the</w> <w id="w2036">u.v.</w> <w id="w2037">absorbance</w> <w id="w2038">and</w> <w id="w2039">far-u.v.</w> <w id="w2040">circular</w> <w id="w2041">dichroism</w> <w id="w2042">spectra</w> <w id="w2043">of</w> <w id="w2044">profilin</w> <w id="w2045">and</w> <w id="w2046">actin</w> <w id="w2047">did</w> <w id="w2048">not</w> <w id="w2049">reveal</w> <w id="w2050">any</w> <w id="w2051">major</w> <w id="w2052">changes</w> <w id="w2053">in</w> <w id="w2054">the</w> <w id="w2055">conformation</w> <w id="w2056">of</w> <w id="w2057">the</w> <w id="w2058">proteins</w> <w id="w2059">accompanying</w> <w id="w2060">the</w> <w id="w2061">modifications</w> <w id="w2062">at</w> <w id="w2063">the</w> <w id="w2064">C-terminal</w> <w id="w2065">ends</w> <w id="w2066">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e501" gid="g487" t="Gene/protein/RNA" fr="w2044" to="w2044" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.125.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e502" gid="g488" t="Gene/protein/RNA" fr="w2046" to="w2046" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.125.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

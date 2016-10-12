@@ -1,0 +1,109 @@
+<rexml>
+<doc id="992">
+  <text>
+<p><s id="s1"><w id="w15712">Monoclonal</w> <w id="w15713">antibodies</w> <w id="w15714">recognizing</w> <w id="w15715">the</w> <w id="w15716">N-</w> <w id="w15717">and</w> <w id="w15718">C-terminal</w> <w id="w15719">regions</w> <w id="w15720">of</w> <w id="w15721">talin</w> <w id="w15722">disrupt</w> <w id="w15723">actin</w> <w id="w15724">stress</w> <w id="w15725">fibers</w> <w id="w15726">when</w> <w id="w15727">microinjected</w> <w id="w15728">into</w> <w id="w15729">human</w> <w id="w15730">fibroblasts</w> <w id="w15731">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3575" gid="g3425" t="Antibody" fr="w15713" to="w15721" nam="yes">
+     <textspan type="extent">antibodies recognizing [..] regions of talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Antibody"/>
+      <exattr n="bd" v="e.992.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3576" gid="g3426" t="RELATIONSHIP_TEXTBINDING" fr="w15722" to="w15722">
+     <textspan type="extent">disrupt</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.992.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3577" gid="g3427" t="Substructure_of_protein" fr="w15719" to="w15721" nam="yes">
+     <textspan type="extent">regions of talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.992.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3578" gid="g3428" t="Cell_component" fr="w15723" to="w15725" nam="yes">
+     <textspan type="extent">actin [..] fibers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.992.3"/>
+      <exattr n="nst" v="st.992.11.0"/>
+      <exattr n="nst" v="st.992.13.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3579" gid="g3429" t="Individual_protein" fr="w15721" to="w15721" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.992.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3580" gid="g3430" t="Individual_protein" fr="w15723" to="w15723" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.992.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3581" gid="g3431" t="Individual_protein" fr="w15721" to="w15721" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.992.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1353" t="DISRUPT" e1="e3575" e2="e3578" re="e3576">
+     <textspan type="extent">antibodies recognizing the N- and C-terminal regions of talin disrupt actin stress fibers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.992.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="DISRUPT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

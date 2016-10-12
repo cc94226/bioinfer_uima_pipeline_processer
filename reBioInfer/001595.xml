@@ -1,0 +1,161 @@
+<rexml>
+<doc id="1595">
+  <text>
+<p><s id="s1"><w id="w25329">The</w> <w id="w25330">predicted</w> <w id="w25331">sequence</w> <w id="w25332">of</w> <w id="w25333">AtFim1</w> <w id="w25334">shares</w> <w id="w25335">ca.</w> <w id="w25336">40</w> <w id="w25337">%</w> <w id="w25338">identity</w> <w id="w25339">with</w> <w id="w25340">nonplant</w> <w id="w25341">fimbrins</w> <w id="w25342">and</w> <w id="w25343">contains</w> <w id="w25344">two</w> <w id="w25345">tandem</w> <w id="w25346">repeats</w> <w id="w25347">,</w> <w id="w25348">each</w> <w id="w25349">possessing</w> <w id="w25350">a</w> <w id="w25351">27</w> <w id="w25352">amino</w> <w id="w25353">acid</w> <w id="w25354">region</w> <w id="w25355">identified</w> <w id="w25356">as</w> <w id="w25357">a</w> <w id="w25358">putative</w> <w id="w25359">actin</w><w id="w25360">-</w><w id="w25361">binding</w> <w id="w25362">domain</w> <w id="w25363">in</w> <w id="w25364">fimbrins</w> <w id="w25365">and</w> <w id="w25366">in</w> <w id="w25367">a</w> <w id="w25368">larger</w> <w id="w25369">family</w> <w id="w25370">of</w> <w id="w25371">actin</w> <w id="w25372">cross-linking</w> <w id="w25373">proteins</w> <w id="w25374">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5881" gid="g5610" t="Individual_protein" fr="w25331" to="w25333" nam="yes">
+     <textspan type="extent">sequence of AtFim1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1595.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5882" gid="g5611" t="RELATIONSHIP_TEXTBINDING" fr="w25361" to="w25361">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1595.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5883" gid="g5612" t="Individual_protein" fr="w25359" to="w25359" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1595.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5884" gid="g5613" t="RELATIONSHIP_TEXTBINDING" fr="w25334" to="w25339">
+     <textspan type="extent">shares [..] identity with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1595.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5885" gid="g5614" t="Gene/protein/RNA" fr="w25371" to="w25371" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1595.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5886" gid="g5615" t="Substructure_of_protein" fr="w25362" to="w25364" nam="yes">
+     <textspan type="extent">domain in fimbrins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1595.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5887" gid="g5616" t="Individual_protein" fr="w25333" to="w25333" nam="yes">
+     <textspan type="extent">AtFim1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1595.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5888" gid="g5617" t="Individual_protein" fr="w25340" to="w25341" nam="yes">
+     <textspan type="extent">nonplant fimbrins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1595.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5889" gid="g5618" t="Individual_protein" fr="w25341" to="w25341" nam="yes">
+     <textspan type="extent">fimbrins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1595.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e5890" gid="g5619" t="Individual_protein" fr="w25364" to="w25364" nam="yes">
+     <textspan type="extent">fimbrins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1595.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2258" t="SQSIMILAR" e1="e5881" e2="e5888" re="e5884">
+     <textspan type="extent">sequence of AtFim1 shares ca. 40 % identity with nonplant fimbrins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1595.3"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Physical-Similarity"/>
+      <exattr n="t4" v="SQSIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r2259" t="BIND" e1="e5887" e2="e5883" re="e5882">
+     <textspan type="extent">AtFim1 shares ca. 40 % identity with nonplant fimbrins and contains two tandem repeats , each possessing a 27 amino acid region identified as a putative actin - binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1595.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2260" t="BIND" e1="e5886" e2="e5883" re="e5882">
+     <textspan type="extent">actin - binding domain in fimbrins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1595.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

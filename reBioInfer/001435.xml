@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1435">
+  <text>
+<p><s id="s1"><w id="w22544">The</w> <w id="w22545">core</w> <w id="w22546">,</w> <w id="w22547">isolated</w> <w id="w22548">in</w> <w id="w22549">the</w> <w id="w22550">absence</w> <w id="w22551">of</w> <w id="w22552">free</w> <w id="w22553">Ca2+</w> <w id="w22554">,</w> <w id="w22555">contains</w> <w id="w22556">five</w> <w id="w22557">major</w> <w id="w22558">proteins</w> <w id="w22559">:</w> <w id="w22560">the</w> <w id="w22561">actin</w> <w id="w22562">(</w> <w id="w22563">Mr</w> <w id="w22564">43</w> <w id="w22565">000</w> <w id="w22566">)</w> <w id="w22567">that</w> <w id="w22568">makes</w> <w id="w22569">up</w> <w id="w22570">the</w> <w id="w22571">filaments</w> <w id="w22572">,</w> <w id="w22573">the</w> <w id="w22574">villin</w> <w id="w22575">(</w> <w id="w22576">Mr</w> <w id="w22577">95</w> <w id="w22578">000</w> <w id="w22579">)</w> <w id="w22580">and</w> <w id="w22581">fimbrin</w> <w id="w22582">(</w> <w id="w22583">Mr</w> <w id="w22584">68</w> <w id="w22585">000</w> <w id="w22586">)</w> <w id="w22587">that</w> <w id="w22588">cross-link</w> <w id="w22589">the</w> <w id="w22590">filaments</w> <w id="w22591">together</w> <w id="w22592">,</w> <w id="w22593">and</w> <w id="w22594">the</w> <w id="w22595">110</w> <w id="w22596">000</w> <w id="w22597">Mr</w> <w id="w22598">polypeptide-</w><w id="w22599">calmodulin</w> <w id="w22600">complex</w> <w id="w22601">that</w> <w id="w22602">makes</w> <w id="w22603">up</w> <w id="w22604">cross-filaments</w> <w id="w22605">which</w> <w id="w22606">project</w> <w id="w22607">laterally</w> <w id="w22608">from</w> <w id="w22609">the</w> <w id="w22610">core</w> <w id="w22611">and</w> <w id="w22612">link</w> <w id="w22613">it</w> <w id="w22614">to</w> <w id="w22615">the</w> <w id="w22616">inner</w> <w id="w22617">surface</w> <w id="w22618">of</w> <w id="w22619">the</w> <w id="w22620">microvillus</w> <w id="w22621">membrane</w> <w id="w22622">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5222" gid="g4983" t="Gene/protein/RNA" fr="w22561" to="w22561" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1435.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5223" gid="g4984" t="Gene/protein/RNA" fr="w22581" to="w22581" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1435.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5224" gid="g4985" t="Gene/protein/RNA" fr="w22574" to="w22574" nam="yes">
+     <textspan type="extent">villin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1435.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5225" gid="g4986" t="Gene/protein/RNA" fr="w22599" to="w22599" nam="yes">
+     <textspan type="extent">calmodulin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1435.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

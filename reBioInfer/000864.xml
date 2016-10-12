@@ -1,0 +1,125 @@
+<rexml>
+<doc id="864">
+  <text>
+<p><s id="s1"><w id="w13408">In</w> <w id="w13409">this</w> <w id="w13410">model</w> <w id="w13411">,</w> <w id="w13412">profilin</w> <w id="w13413">can</w> <w id="w13414">bind</w> <w id="w13415">both</w> <w id="w13416">to</w> <w id="w13417">actin</w> <w id="w13418">monomers</w> <w id="w13419">with</w> <w id="w13420">a</w> <w id="w13421">Kd</w> <w id="w13422">of</w> <w id="w13423">about</w> <w id="w13424">5</w> <w id="w13425">microM</w> <w id="w13426">and</w> <w id="w13427">to</w> <w id="w13428">the</w> <w id="w13429">barbed</w> <w id="w13430">end</w> <w id="w13431">of</w> <w id="w13432">actin</w> <w id="w13433">filaments</w> <w id="w13434">with</w> <w id="w13435">a</w> <w id="w13436">Kd</w> <w id="w13437">of</w> <w id="w13438">about</w> <w id="w13439">50-100</w> <w id="w13440">microM</w> <w id="w13441">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3081" gid="g2956" t="Individual_protein" fr="w13412" to="w13412" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.864.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3082" gid="g2957" t="RELATIONSHIP_TEXTBINDING" fr="w13414" to="w13416">
+     <textspan type="extent">bind [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.864.1"/>
+      <exattr n="nst" v="st.864.6.0"/>
+      <exattr n="nst" v="st.864.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3083" gid="g2958" t="Cell_component" fr="w13430" to="w13433" nam="yes">
+     <textspan type="extent">end of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.864.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3084" gid="g2959" t="RELATIONSHIP_TEXTBINDING" fr="w13414" to="w13427">
+     <textspan type="extent">bind [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.864.3"/>
+      <exattr n="nst" v="st.864.6.0"/>
+      <exattr n="nst" v="st.864.19.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3085" gid="g2960" t="Cell_component" fr="w13432" to="w13433" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.864.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3086" gid="g2961" t="Individual_protein" fr="w13417" to="w13418" nam="yes">
+     <textspan type="extent">actin monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.864.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3087" gid="g2962" t="Individual_protein" fr="w13417" to="w13417" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.864.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3088" gid="g2963" t="Individual_protein" fr="w13432" to="w13432" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.864.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1197" t="BIND" e1="e3081" e2="e3086" re="e3082">
+     <textspan type="extent">profilin can bind both to actin monomers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.864.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1198" t="BIND" e1="e3081" e2="e3083" re="e3084">
+     <textspan type="extent">profilin can bind both to actin monomers with a Kd of about 5 microM and to the barbed end of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.864.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

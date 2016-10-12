@@ -1,0 +1,80 @@
+<rexml>
+<doc id="1576">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25039" g="w25044" t="det" cr="det:w25044" w="The" l="~" p="Det"/>
+     <dpg d="w25040" g="w25044" t="mod" cr="mod:w25044" w="observed" l="~" p="A"/>
+     <dpg d="w25041" g="w25042" t="lex-mod" cr="lex-mod:w25042" w="in" l="~" p="U"/>
+     <dpg d="w25042" g="w25044" t="mod" cr="mod:w25044" w="vivo" l="in vivo" p="A"/>
+     <dpg d="w25043" g="w25044" t="nn" cr="nn:w25044" w="expression" l="~" p="N"/>
+     <dpg d="w25044" g="w25052" t="s" cr="s+subj:w25052" w="patterns" l="pattern" p="N"/>
+     <dpg d="w25045" g="w25044" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25046" g="w25045" t="pcomp-n" cr="mod*of*n:w25044" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w25047" g="w25046" t="punc" cr="punc:w25046" w="," l="~" p="U"/>
+     <dpg d="w25048" g="w25046" t="conj" cr="conj:w25046" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w25049" g="w25048" t="punc" cr="punc:w25048" w="," l="~" p="U"/>
+     <dpg d="w25050" g="w25048" t="punc" cr="punc:w25048" w="and" l="~" p="U"/>
+     <dpg d="w25051" g="w25048" t="conj" cr="conj:w25048" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w25052" g="E3" t="i" cr="" w="suggest" l="~" p="V"/>
+     <dpg d="E6" g="w25052" t="subj" cr="" w="" l="pattern" p="N"/>
+     <dpg d="E6" g="w25044" t="antecedent" cr="" w="" l="pattern" p="N"/>
+     <dpg d="E2" g="w25052" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25053" g="E2" t="c" cr="c:w25058" w="that" l="~" p="COMP"/>
+     <dpg d="w25054" g="w25055" t="det" cr="det:w25055" w="these" l="~" p="Det"/>
+     <dpg d="w25055" g="w25058" t="s" cr="s+obj:w25058" w="proteins" l="protein" p="N"/>
+     <dpg d="w25056" g="w25058" t="be" cr="be:w25058" w="are" l="be" p="be"/>
+     <dpg d="w25057" g="w25058" t="amod" cr="amod:w25058" w="directly" l="~" p="A"/>
+     <dpg d="w25058" g="E2" t="i" cr="fc:w25052" w="linked" l="link" p="V"/>
+     <dpg d="E7" g="w25058" t="obj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E7" g="w25055" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w25059" g="w25058" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w25060" g="w25062" t="det" cr="det:w25062" w="the" l="~" p="Det"/>
+     <dpg d="w25061" g="w25062" t="mod" cr="mod:w25062" w="developmental" l="~" p="A"/>
+     <dpg d="w25062" g="w25059" t="pcomp-n" cr="mod*with*n:w25058" w="regulation" l="~" p="N"/>
+     <dpg d="w25063" g="w25062" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25064" g="w25065" t="nn" cr="nn:w25065" w="cell" l="~" p="N"/>
+     <dpg d="w25065" g="w25063" t="pcomp-n" cr="mod*of*n:w25062" w="junctions" l="junction" p="N"/>
+     <dpg d="w25066" g="w25058" t="punc" cr="punc:w25058" w="," l="~" p="U"/>
+     <dpg d="w25067" g="w25058" t="mod" cr="mod:w25058" w="as" l="~" p="SentAdjunct"/>
+     <dpg d="E1" g="w25067" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25068" g="w25069" t="mod" cr="mod:w25069" w="cardiac" l="~" p="A"/>
+     <dpg d="w25069" g="w25072" t="s" cr="obj:w25070||s+subj:w25072||subj:w25075||s+subj:w25078" w="cells" l="cell" p="N"/>
+     <dpg d="w25070" g="w25069" t="vrel" cr="vrel:w25069" w="become" l="~" p="V"/>
+     <dpg d="E8" g="w25070" t="obj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E8" g="w25069" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w25071" g="w25070" t="mod" cr="mod:w25070" w="stably" l="~" p="A"/>
+     <dpg d="w25072" g="E1" t="i" cr="comp1:w25067" w="committed" l="commit" p="V"/>
+     <dpg d="E9" g="w25072" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E9" g="w25069" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w25073" g="w25072" t="punc" cr="punc:w25072" w="and" l="~" p="U"/>
+     <dpg d="w25074" g="w25075" t="mod-before" cr="mod-before:w25075" w="phenotypically" l="~" p="A"/>
+     <dpg d="w25075" g="w25072" t="conj" cr="conj:w25072" w="differentiated" l="differentiate" p="V"/>
+     <dpg d="E10" g="w25075" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E10" g="w25069" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="E0" g="w25075" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w25069" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w25076" g="w25078" t="aux" cr="aux:w25078" w="to" l="~" p="Aux"/>
+     <dpg d="w25077" g="w25078" t="amod" cr="amod:w25078" w="eventually" l="~" p="A"/>
+     <dpg d="w25078" g="E0" t="i" cr="mod:w25075" w="form" l="~" p="V"/>
+     <dpg d="E11" g="w25078" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E11" g="E4" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w25079" g="w25081" t="det" cr="det:w25081" w="a" l="~" p="Det"/>
+     <dpg d="w25080" g="w25081" t="mod" cr="mod:w25081" w="mature" l="~" p="A"/>
+     <dpg d="w25081" g="w25078" t="obj" cr="obj:w25078" w="myocardium" l="~" p="N"/>
+     <dpg d="w25082" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

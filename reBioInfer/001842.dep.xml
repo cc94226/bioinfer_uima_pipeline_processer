@@ -1,0 +1,58 @@
+<rexml>
+<doc id="1842">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29511" g="w29512" t="s" cr="s+subj:w29512" w="This" l="~" p="N"/>
+     <dpg d="w29512" g="E1" t="i" cr="" w="suggests" l="suggest" p="V"/>
+     <dpg d="E3" g="w29512" t="subj" cr="" w="" l="this" p="N"/>
+     <dpg d="E3" g="w29511" t="antecedent" cr="" w="" l="this" p="N"/>
+     <dpg d="E0" g="w29512" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29513" g="E0" t="c" cr="c:w29525" w="that" l="~" p="COMP"/>
+     <dpg d="w29514" g="w29525" t="s" cr="s+obj:w29525" w="dephosphorylation" l="~" p="N"/>
+     <dpg d="w29515" g="w29514" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29516" g="w29515" t="pcomp-n" cr="mod*of*n:w29514" w="cofilin" l="~" p="N"/>
+     <dpg d="w29517" g="w29516" t="punc" cr="punc:w29516" w="and" l="~" p="U"/>
+     <dpg d="w29518" g="w29520" t="nn" cr="nn:w29520" w="destrin" l="~" p="N"/>
+     <dpg d="w29519" g="w29520" t="nn" cr="nn:w29520" w="/" l="~" p="N"/>
+     <dpg d="w29520" g="w29516" t="conj" cr="conj:w29516" w="ADF" l="~" p="N"/>
+     <dpg d="w29521" g="w29520" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w29522" g="w29521" t="pcomp-n" cr="mod*by*n:w29520" w="TSH" l="~" p="N"/>
+     <dpg d="w29523" g="w29525" t="aux" cr="aux:w29525" w="could" l="~" p="Aux"/>
+     <dpg d="w29524" g="w29525" t="be" cr="be:w29525" w="be" l="~" p="Be"/>
+     <dpg d="w29525" g="E0" t="i" cr="fc:w29512" w="implicated" l="implicate" p="V"/>
+     <dpg d="E4" g="w29525" t="obj" cr="" w="" l="dephosphorylation" p="N"/>
+     <dpg d="E4" g="w29514" t="antecedent" cr="" w="" l="dephosphorylation" p="N"/>
+     <dpg d="w29526" g="w29525" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w29527" g="w29528" t="det" cr="det:w29528" w="the" l="~" p="Det"/>
+     <dpg d="w29528" g="w29526" t="pcomp-n" cr="mod*in*n:w29525" w="disruption" l="~" p="N"/>
+     <dpg d="w29529" g="w29528" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29530" g="w29531" t="lex-mod" cr="lex-mod:w29531" w="actin" l="~" p="U"/>
+     <dpg d="w29531" g="w29533" t="mod" cr="mod:w29533" w="-containing" l="actin -containing" p="A"/>
+     <dpg d="w29532" g="w29533" t="nn" cr="nn:w29533" w="stress" l="~" p="N"/>
+     <dpg d="w29533" g="w29529" t="pcomp-n" cr="mod*of*n:w29528" w="fibers" l="fiber" p="N"/>
+     <dpg d="w29534" g="w29529" t="punc" cr="punc:w29529" w="and" l="~" p="U"/>
+     <dpg d="w29535" g="w29529" t="conj" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w29536" g="w29537" t="det" cr="det:w29537" w="the" l="~" p="Det"/>
+     <dpg d="w29537" g="w29535" t="pcomp-n" cr="mod*in*n:w29528" w="reorganization" l="~" p="N"/>
+     <dpg d="w29538" g="w29537" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29539" g="w29538" t="pcomp-n" cr="mod*of*n:w29537" w="microfilaments" l="~" p="N"/>
+     <dpg d="w29540" g="w29539" t="pnmod" cr="pnmod:w29539" w="induced" l="~" p="A"/>
+     <dpg d="w29541" g="w29540" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w29542" g="w29543" t="det" cr="det:w29543" w="this" l="~" p="Det"/>
+     <dpg d="w29543" g="w29541" t="pcomp-n" cr="mod*by*n:w29540" w="hormone" l="~" p="N"/>
+     <dpg d="w29544" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

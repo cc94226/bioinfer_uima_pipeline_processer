@@ -1,0 +1,114 @@
+<rexml>
+<doc id="1946">
+  <text>
+<p><s id="s1"><w id="w31339">Two</w> <w id="w31340">cDNAs</w> <w id="w31341">,</w> <w id="w31342">isolated</w> <w id="w31343">from</w> <w id="w31344">a</w> <w id="w31345">Xenopus</w> <w id="w31346">laevis</w> <w id="w31347">embryonic</w> <w id="w31348">library</w> <w id="w31349">,</w> <w id="w31350">encode</w> <w id="w31351">proteins</w> <w id="w31352">of</w> <w id="w31353">168</w> <w id="w31354">amino</w> <w id="w31355">acids</w> <w id="w31356">,</w> <w id="w31357">both</w> <w id="w31358">of</w> <w id="w31359">which</w> <w id="w31360">are</w> <w id="w31361">77</w> <w id="w31362">%</w> <w id="w31363">identical</w> <w id="w31364">to</w> <w id="w31365">chick</w> <w id="w31366">cofilin</w> <w id="w31367">and</w> <w id="w31368">66</w> <w id="w31369">%</w> <w id="w31370">identical</w> <w id="w31371">to</w> <w id="w31372">chick</w> <w id="w31373">actin-depolymerizing</w> <w id="w31374">factor</w> <w id="w31375">(</w> <w id="w31376">ADF</w> <w id="w31377">)</w> <w id="w31378">,</w> <w id="w31379">two</w> <w id="w31380">structurally</w> <w id="w31381">and</w> <w id="w31382">functionally</w> <w id="w31383">related</w> <w id="w31384">proteins</w> <w id="w31385">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7181" gid="g6854" t="Individual_protein" fr="w31365" to="w31366" nam="yes">
+     <textspan type="extent">chick cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1946.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7182" gid="g6855" t="RELATIONSHIP_TEXTBINDING" fr="w31380" to="w31383">
+     <textspan type="extent">structurally [..] related</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1946.1"/>
+      <exattr n="nst" v="st.1946.41.0"/>
+      <exattr n="nst" v="st.1946.44.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7183" gid="g6856" t="Individual_protein" fr="w31376" to="w31376" nam="yes">
+     <textspan type="extent">ADF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1946.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7184" gid="g6857" t="Individual_protein" fr="w31372" to="w31374" nam="yes">
+     <textspan type="extent">chick actin-depolymerizing factor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1946.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7185" gid="g6856" t="Individual_protein" fr="w31373" to="w31374" nam="yes">
+     <textspan type="extent">actin-depolymerizing factor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1946.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7186" gid="g6858" t="Individual_protein" fr="w31366" to="w31366" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1946.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7187" gid="g6859" t="RELATIONSHIP_TEXTBINDING" fr="w31382" to="w31383">
+     <textspan type="extent">functionally related</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1946.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2747" t="STSIMILAR" e1="e7181" e2="e7184" re="e7182">
+     <textspan type="extent">chick cofilin and 66 % identical to chick actin-depolymerizing factor ( ADF ) , two structurally and functionally related</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1946.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Physical-Similarity"/>
+      <exattr n="t4" v="STSIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r2748" t="FNSIMILAR" e1="e7181" e2="e7184" re="e7187">
+     <textspan type="extent">chick cofilin and 66 % identical to chick actin-depolymerizing factor ( ADF ) , two structurally and functionally related</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1946.6"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Functional-Similarity"/>
+      <exattr n="t4" v="FNSIMILAR"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

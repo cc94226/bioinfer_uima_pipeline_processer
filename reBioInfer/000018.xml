@@ -1,0 +1,107 @@
+<rexml>
+<doc id="18">
+  <text>
+<p><s id="s1"><w id="w263">Acidic</w> <w id="w264">domain</w> <w id="w265">of</w> <w id="w266">the</w> <w id="w267">phosphoprotein</w> <w id="w268">(</w> <w id="w269">P</w> <w id="w270">)</w> <w id="w271">of</w> <w id="w272">vesicular</w> <w id="w273">stomatitis</w> <w id="w274">virus</w> <w id="w275">differentially</w> <w id="w276">interacts</w> <w id="w277">with</w> <w id="w278">homologous</w> <w id="w279">and</w> <w id="w280">heterologous</w> <w id="w281">nucleocapsid</w> <w id="w282">protein</w> <w id="w283">(</w> <w id="w284">N</w> <w id="w285">)</w> <w id="w286">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e92" gid="g92" t="Individual_protein" fr="w267" to="w267" nam="yes">
+     <textspan type="extent">phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.18.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e93" gid="g93" t="RELATIONSHIP_TEXTBINDING" fr="w276" to="w277">
+     <textspan type="extent">interacts with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.18.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e94" gid="g94" t="Substructure_of_protein" fr="w264" to="w274" nam="yes">
+     <textspan type="extent">domain of [..] phosphoprotein [..] of vesicular stomatitis virus</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.18.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e95" gid="g95" t="Individual_protein" fr="w267" to="w274" nam="yes">
+     <textspan type="extent">phosphoprotein [..] of vesicular stomatitis virus</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.18.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e96" gid="g96" t="Individual_protein" fr="w281" to="w282" nam="yes">
+     <textspan type="extent">nucleocapsid protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.18.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e97" gid="g92" t="Individual_protein" fr="w269" to="w269" nam="yes">
+     <textspan type="extent">P</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.18.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e98" gid="g96" t="Individual_protein" fr="w284" to="w284" nam="yes">
+     <textspan type="extent">N</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.18.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r38" t="INTERACT" e1="e94" e2="e96" re="e93">
+     <textspan type="extent">domain of the phosphoprotein ( P ) of vesicular stomatitis virus differentially interacts with homologous and heterologous nucleocapsid protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.18.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

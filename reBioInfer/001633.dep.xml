@@ -1,0 +1,65 @@
+<rexml>
+<doc id="1633">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26090" g="w26091" t="s" cr="s:w26091||subj:w26095" w="There" l="~" p="Subj"/>
+     <dpg d="w26091" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="are" l="be" p="VBE"/>
+     <dpg d="E5" g="w26095" t="subj" cr="" w="" l="there" p="Subj"/>
+     <dpg d="E5" g="w26090" t="antecedent" cr="" w="" l="there" p="Subj"/>
+     <dpg d="w26092" g="w26095" t="nn" cr="nn:w26095" w="three" l="~" p="N"/>
+     <dpg d="w26093" g="w26095" t="nn" cr="nn:w26095" w="histone" l="~" p="N"/>
+     <dpg d="w26094" g="w26095" t="nn" cr="nn:w26095" w="H3" l="~" p="N"/>
+     <dpg d="w26095" g="w26091" t="pred" cr="pred:w26091" w="genes" l="gene" p="N"/>
+     <dpg d="w26096" g="w26095" t="punc" cr="punc:w26095" w="," l="~" p="U"/>
+     <dpg d="E0" g="w26095" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26097" g="E0" t="whn" cr="whn:w26100||subj:w26101" w="two" l="~" p="N"/>
+     <dpg d="w26098" g="w26097" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26099" g="w26098" t="pcomp-n" cr="mod*of*n:w26097" w="which" l="~" p="N"/>
+     <dpg d="w26099" g="w26095" t="antecedent" cr="antecedent:w26095" w="which" l="~" p="N"/>
+     <dpg d="w26100" g="E0" t="i" cr="rel:w26095" w="are" l="be" p="VBE"/>
+     <dpg d="w26101" g="w26100" t="pred" cr="pred:w26100" w="identical" l="~" p="A"/>
+     <dpg d="E6" g="w26101" t="subj" cr="" w="" l="two" p="N"/>
+     <dpg d="E6" g="w26097" t="antecedent" cr="" w="" l="two" p="N"/>
+     <dpg d="w26102" g="E4" t="punc" cr="punc:E4" w=";" l="~" p="U"/>
+     <dpg d="w26103" g="w26106" t="nn" cr="nn:w26106" w="four" l="~" p="N"/>
+     <dpg d="w26104" g="w26106" t="nn" cr="nn:w26106" w="histone" l="~" p="N"/>
+     <dpg d="w26105" g="w26106" t="nn" cr="nn:w26106" w="H2a" l="~" p="N"/>
+     <dpg d="w26106" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="genes" l="gene" p="N"/>
+     <dpg d="w26107" g="w26106" t="punc" cr="punc:w26106" w="," l="~" p="U"/>
+     <dpg d="E2" g="w26106" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26108" g="E2" t="whn" cr="whn:w26111||subj:w26117" w="two" l="~" p="N"/>
+     <dpg d="w26109" g="w26108" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26110" g="w26109" t="pcomp-n" cr="mod*of*n:w26108" w="which" l="~" p="N"/>
+     <dpg d="w26110" g="w26106" t="antecedent" cr="antecedent:w26106" w="which" l="~" p="N"/>
+     <dpg d="w26111" g="E2" t="i" cr="rel:w26106" w="are" l="be" p="VBE"/>
+     <dpg d="E7" g="w26117" t="subj" cr="" w="" l="two" p="N"/>
+     <dpg d="E7" g="w26108" t="antecedent" cr="" w="" l="two" p="N"/>
+     <dpg d="w26112" g="w26117" t="mod" cr="mod:w26117" w="identical" l="~" p="A"/>
+     <dpg d="w26113" g="w26117" t="punc" cr="punc:w26117" w="," l="~" p="U"/>
+     <dpg d="w26114" g="w26117" t="nn" cr="nn:w26117" w="one" l="~" p="N"/>
+     <dpg d="w26115" g="w26117" t="nn" cr="nn:w26117" w="histone" l="~" p="N"/>
+     <dpg d="w26116" g="w26117" t="nn" cr="nn:w26117" w="H4" l="~" p="N"/>
+     <dpg d="w26117" g="w26111" t="pred" cr="pred:w26111" w="gene" l="~" p="N"/>
+     <dpg d="w26118" g="E4" t="punc" cr="punc:E4" w=";" l="~" p="U"/>
+     <dpg d="w26119" g="E4" t="punc" cr="punc:E4" w="and" l="~" p="U"/>
+     <dpg d="w26120" g="w26123" t="nn" cr="nn:w26123" w="two" l="~" p="N"/>
+     <dpg d="w26121" g="w26123" t="nn" cr="nn:w26123" w="histone" l="~" p="N"/>
+     <dpg d="w26122" g="w26123" t="nn" cr="nn:w26123" w="H2b" l="~" p="N"/>
+     <dpg d="w26123" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="genes" l="gene" p="N"/>
+     <dpg d="w26124" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

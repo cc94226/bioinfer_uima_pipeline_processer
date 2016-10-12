@@ -1,0 +1,61 @@
+<rexml>
+<doc id="782">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12289" g="E2" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w12290" g="w12291" t="det" cr="det:w12291" w="most" l="~" p="Det"/>
+     <dpg d="w12291" g="w12289" t="pcomp-n" cr="mod*in*n:w12306" w="cases" l="case" p="N"/>
+     <dpg d="w12292" g="w12291" t="punc" cr="punc:w12291" w="," l="~" p="U"/>
+     <dpg d="w12293" g="w12291" t="conj" cr="conj:w12291" w="ADF" l="~" p="N"/>
+     <dpg d="w12294" g="w12293" t="punc" cr="punc:w12293" w="and" l="~" p="U"/>
+     <dpg d="w12295" g="w12293" t="conj" cr="conj:w12293" w="cofilin" l="~" p="N"/>
+     <dpg d="w12296" g="w12295" t="pnmod" cr="pnmod:w12295" w="colocalized" l="~" p="A"/>
+     <dpg d="w12297" g="w12296" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w12298" g="w12301" t="det" cr="det:w12301" w="the" l="~" p="Det"/>
+     <dpg d="w12299" g="w12301" t="post" cr="post:w12301" w="same" l="~" p="PostDet"/>
+     <dpg d="w12300" g="w12301" t="mod" cr="mod:w12301" w="nuclear" l="~" p="A"/>
+     <dpg d="w12301" g="w12297" t="pcomp-n" cr="mod*in*n:w12296" w="actin" l="~" p="N"/>
+     <dpg d="w12302" g="w12306" t="s" cr="s+subj:w12306||s+subj:w12308" w="rods" l="rod" p="N"/>
+     <dpg d="w12303" g="w12302" t="punc" cr="punc:w12302" w="," l="~" p="U"/>
+     <dpg d="w12304" g="w12302" t="punc" cr="punc:w12302" w="but" l="~" p="U"/>
+     <dpg d="w12305" g="w12302" t="conj" cr="conj:w12302" w="ADF" l="~" p="N"/>
+     <dpg d="w12306" g="E2" t="i" cr="" w="appeared" l="appear" p="V"/>
+     <dpg d="E5" g="w12306" t="subj" cr="" w="" l="rod" p="N"/>
+     <dpg d="E5" g="w12302" t="antecedent" cr="" w="" l="rod" p="N"/>
+     <dpg d="E1" g="w12306" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w12302" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w12307" g="w12308" t="aux" cr="aux:w12308" w="to" l="~" p="Aux"/>
+     <dpg d="w12308" g="E1" t="i" cr="mod:w12306" w="predominate" l="~" p="V"/>
+     <dpg d="E6" g="w12308" t="subj" cr="" w="" l="rod" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="rod" p="N"/>
+     <dpg d="w12309" g="w12308" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w12310" g="w12311" t="mod" cr="mod:w12311" w="mononucleated" l="~" p="A"/>
+     <dpg d="w12311" g="w12309" t="pcomp-n" cr="mod*in*n:w12308" w="cells" l="cell" p="N"/>
+     <dpg d="w12312" g="w12308" t="punc" cr="punc:w12308" w="," l="~" p="U"/>
+     <dpg d="w12313" g="w12308" t="mod" cr="mod:w12308" w="while" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w12313" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12314" g="w12315" t="s" cr="s:w12315||subj:w12316" w="cofilin" l="~" p="N"/>
+     <dpg d="w12315" g="E0" t="i" cr="comp1:w12313" w="was" l="be" p="VBE"/>
+     <dpg d="w12316" g="w12315" t="pred" cr="pred:w12315" w="present" l="~" p="N"/>
+     <dpg d="E7" g="w12316" t="subj" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="E7" g="w12314" t="antecedent" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="w12317" g="w12316" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w12318" g="w12319" t="mod" cr="mod:w12319" w="multinucleated" l="~" p="A"/>
+     <dpg d="w12319" g="w12317" t="pcomp-n" cr="mod*in*n:w12316" w="myotubes" l="~" p="N"/>
+     <dpg d="w12320" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

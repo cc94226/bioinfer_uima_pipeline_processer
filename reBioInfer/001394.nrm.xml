@@ -1,0 +1,123 @@
+<rexml>
+<doc id="1394">
+  
+  <markup>
+   <nes>
+    <ne id="e5066" gid="g4837" t="Individual_protein" fr="w21762" to="w21763" nam="yes" sid="s1">
+     <textspan>Acanthamoeba profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1394.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5071" gid="g4842" t="Individual_protein" fr="w21763" to="w21763" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1394.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5067" gid="g4838" t="Individual_protein" fr="w21766" to="w21773" nam="yes" sid="s1">
+     <textspan>actin [..] from rabbit skeletal muscle</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1394.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5068" gid="g4839" t="Individual_protein" fr="w21766" to="w21768" nam="yes" sid="s1">
+     <textspan>actin from Acanthamoeba</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1394.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5072" gid="g4843" t="Individual_protein" fr="w21766" to="w21766" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1394.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5070" gid="g4841" t="Gene/protein/RNA" fr="w21783" to="w21783" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1394.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5069" gid="g4840" t="Gene/protein/RNA" fr="w21799" to="w21799" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1394.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1937" t="BIND" e1="e5066" e2="e5068" re="e5065">
+     <textspan>binding constants of Acanthamoeba profilin to fluorescein-labeled actin from Acanthamoeba</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1394.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1938" t="BIND" e1="e5066" e2="e5067" re="e5065">
+     <textspan>binding constants of Acanthamoeba profilin to fluorescein-labeled actin from Acanthamoeba and from rabbit skeletal muscle</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1394.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,73 @@
+<rexml>
+<doc id="1965">
+  
+  <markup>
+   <nes>
+    <ne id="e7224" gid="g6892" t="Individual_protein" fr="w31555" to="w31555" nam="yes" sid="s1">
+     <textspan>fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1965.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7228" gid="g6896" t="Individual_protein" fr="w31557" to="w31557" nam="yes" sid="s1">
+     <textspan>L-plastin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1965.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7226" gid="g6894" t="Individual_protein" fr="w31559" to="w31559" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1965.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2767" t="LOCALIZE" e1="e7228" e2="e7226" re="e7225">
+     <textspan>L-plastin 's actin - bundling</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1965.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2768" t="LOCALIZE" e1="e7224" e2="e7226" re="e7227">
+     <textspan>Unlike fimbrin , L-plastin 's actin - bundling</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1965.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

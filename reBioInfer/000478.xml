@@ -1,0 +1,46 @@
+<rexml>
+<doc id="478">
+  <text>
+<p><s id="s1"><w id="w6682">Expression</w> <w id="w6683">of</w> <w id="w6684">the</w> <w id="w6685">A8R</w> <w id="w6686">and</w> <w id="w6687">A23R</w> <w id="w6688">genes</w> <w id="w6689">occurred</w> <w id="w6690">between</w> <w id="w6691">1</w> <w id="w6692">and</w> <w id="w6693">5</w> <w id="w6694">h</w> <w id="w6695">after</w> <w id="w6696">vaccinia</w> <w id="w6697">virus</w> <w id="w6698">infection</w> <w id="w6699">and</w> <w id="w6700">was</w> <w id="w6701">not</w> <w id="w6702">prevented</w> <w id="w6703">by</w> <w id="w6704">an</w> <w id="w6705">inhibitor</w> <w id="w6706">of</w> <w id="w6707">DNA</w> <w id="w6708">replication</w> <w id="w6709">,</w> <w id="w6710">consistent</w> <w id="w6711">with</w> <w id="w6712">a</w> <w id="w6713">role</w> <w id="w6714">for</w> <w id="w6715">VITF-3</w> <w id="w6716">in</w> <w id="w6717">specifically</w> <w id="w6718">regulating</w> <w id="w6719">intermediate</w> <w id="w6720">transcription</w> <w id="w6721">in</w> <w id="w6722">vivo</w> <w id="w6723">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1616" gid="g1546" t="Gene/protein/RNA" fr="w6685" to="w6685" nam="yes">
+     <textspan type="extent">A8R</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.478.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1617" gid="g1547" t="Gene/protein/RNA" fr="w6715" to="w6715" nam="yes">
+     <textspan type="extent">VITF-3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.478.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1618" gid="g1548" t="Gene/protein/RNA" fr="w6687" to="w6687" nam="yes">
+     <textspan type="extent">A23R</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.478.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

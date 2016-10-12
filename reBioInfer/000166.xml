@@ -1,0 +1,117 @@
+<rexml>
+<doc id="166">
+  <text>
+<p><s id="s1"><w id="w2729">As</w> <w id="w2730">a</w> <w id="w2731">nuclear</w> <w id="w2732">transport</w> <w id="w2733">signal</w> <w id="w2734">sequence</w> <w id="w2735">exists</w> <w id="w2736">in</w> <w id="w2737">cofilin</w> <w id="w2738">and</w> <w id="w2739">ADF</w> <w id="w2740">but</w> <w id="w2741">not</w> <w id="w2742">in</w> <w id="w2743">actin</w> <w id="w2744">,</w> <w id="w2745">ADF</w> <w id="w2746">and/or</w> <w id="w2747">cofilin</w> <w id="w2748">may</w> <w id="w2749">be</w> <w id="w2750">responsible</w> <w id="w2751">for</w> <w id="w2752">the</w> <w id="w2753">nuclear</w> <w id="w2754">import</w> <w id="w2755">of</w> <w id="w2756">actin</w> <w id="w2757">in</w> <w id="w2758">myogenic</w> <w id="w2759">cells</w> <w id="w2760">under</w> <w id="w2761">certain</w> <w id="w2762">conditions</w> <w id="w2763">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e671" gid="g648" t="Gene/protein/RNA" fr="w2737" to="w2737" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.166.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e672" gid="g649" t="RELATIONSHIP_TEXTBINDING" fr="w2750" to="w2751">
+     <textspan type="extent">responsible for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.166.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e673" gid="g650" t="Gene/protein/RNA" fr="w2743" to="w2743" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.166.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e674" gid="g651" t="Gene/protein/RNA" fr="w2739" to="w2739" nam="yes">
+     <textspan type="extent">ADF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.166.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e675" gid="g652" t="Individual_protein" fr="w2747" to="w2747" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.166.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e676" gid="g653" t="Individual_protein" fr="w2745" to="w2745" nam="yes">
+     <textspan type="extent">ADF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.166.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e677" gid="g654" t="LOCALIZATION" fr="w2754" to="w2756">
+     <textspan type="extent">import of actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.166.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e678" gid="g655" t="Individual_protein" fr="w2756" to="w2756" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.166.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r251" t="CAUSE" e1="e676" e2="e677" re="e672">
+     <textspan type="extent">ADF and/or cofilin may be responsible for the nuclear import of actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.166.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r252" t="CAUSE" e1="e675" e2="e677" re="e672">
+     <textspan type="extent">cofilin may be responsible for the nuclear import of actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.166.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

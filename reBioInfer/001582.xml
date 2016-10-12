@@ -1,0 +1,287 @@
+<rexml>
+<doc id="1582">
+  <text>
+<p><s id="s1"><w id="w25140">p27</w> <w id="w25141">binds</w> <w id="w25142">to</w> <w id="w25143">and</w> <w id="w25144">inhibits</w> <w id="w25145">complexes</w> <w id="w25146">formed</w> <w id="w25147">by</w> <w id="w25148">cyclin</w> <w id="w25149">E</w><w id="w25150">-</w><w id="w25151">cdk2</w> <w id="w25152">,</w> <w id="w25153">cyclin</w> <w id="w25154">A</w><w id="w25155">-</w><w id="w25156">cdk2</w> <w id="w25157">,</w> <w id="w25158">and</w> <w id="w25159">cyclin</w> <w id="w25160">D</w><w id="w25161">-</w><w id="w25162">cdk4</w> <w id="w25163">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5817" gid="g5549" t="Individual_protein" fr="w25140" to="w25140" nam="yes">
+     <textspan type="extent">p27</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1582.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5818" gid="g5550" t="RELATIONSHIP_TEXTBINDING" fr="w25141" to="w25142">
+     <textspan type="extent">binds to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1582.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5819" gid="g5551" t="RELATIONSHIP_TEXTBINDING" fr="w25145" to="w25147">
+     <textspan type="extent">complexes formed by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1582.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5820" gid="g5552" t="RELATIONSHIP_TEXTBINDING" fr="w25144" to="w25144">
+     <textspan type="extent">inhibits</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1582.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5821" gid="g5553" t="Individual_protein" fr="w25151" to="w25151" nam="yes">
+     <textspan type="extent">cdk2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1582.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5822" gid="g5554" t="Individual_protein" fr="w25159" to="w25160" nam="yes">
+     <textspan type="extent">cyclin D</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1582.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5823" gid="g5555" t="Individual_protein" fr="w25162" to="w25162" nam="yes">
+     <textspan type="extent">cdk4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1582.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5824" gid="g5556" t="Individual_protein" fr="w25156" to="w25156" nam="yes">
+     <textspan type="extent">cdk2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1582.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5825" gid="g5557" t="Protein_complex" fr="w25153" to="w25156" nam="yes">
+     <textspan type="extent">cyclin A-cdk2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1582.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e5826" gid="g5558" t="Protein_complex" fr="w25148" to="w25151" nam="yes">
+     <textspan type="extent">cyclin E-cdk2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1582.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e5827" gid="g5559" t="Protein_complex" fr="w25159" to="w25162" nam="yes">
+     <textspan type="extent">cyclin D-cdk4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1582.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e5828" gid="g5560" t="Individual_protein" fr="w25153" to="w25154" nam="yes">
+     <textspan type="extent">cyclin A</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1582.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e5829" gid="g5561" t="Individual_protein" fr="w25148" to="w25149" nam="yes">
+     <textspan type="extent">cyclin E</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1582.12"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2227" t="CONTAIN" e1="e5826" e2="e5829" re="e5819">
+     <textspan type="extent">complexes formed by cyclin E - cdk2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1582.2"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2228" t="CONTAIN" e1="e5826" e2="e5821" re="e5819">
+     <textspan type="extent">complexes formed by cyclin E - cdk2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1582.2"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2229" t="CONTAIN" e1="e5825" e2="e5828" re="e5819">
+     <textspan type="extent">complexes formed by cyclin E - cdk2 , cyclin A - cdk2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1582.2"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2230" t="CONTAIN" e1="e5825" e2="e5824" re="e5819">
+     <textspan type="extent">complexes formed by cyclin E - cdk2 , cyclin A - cdk2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1582.2"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2231" t="CONTAIN" e1="e5827" e2="e5822" re="e5819">
+     <textspan type="extent">complexes formed by cyclin E - cdk2 , cyclin A - cdk2 , and cyclin D - cdk4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1582.2"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2232" t="CONTAIN" e1="e5827" e2="e5823" re="e5819">
+     <textspan type="extent">complexes formed by cyclin E - cdk2 , cyclin A - cdk2 , and cyclin D - cdk4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1582.2"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2233" t="BIND" e1="e5817" e2="e5826" re="e5818">
+     <textspan type="extent">p27 binds to and inhibits complexes formed by cyclin E - cdk2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1582.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2234" t="BIND" e1="e5817" e2="e5825" re="e5818">
+     <textspan type="extent">p27 binds to and inhibits complexes formed by cyclin E - cdk2 , cyclin A - cdk2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1582.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2235" t="BIND" e1="e5817" e2="e5827" re="e5818">
+     <textspan type="extent">p27 binds to and inhibits complexes formed by cyclin E - cdk2 , cyclin A - cdk2 , and cyclin D - cdk4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1582.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2236" t="INHIBIT" e1="e5817" e2="e5826" re="e5820">
+     <textspan type="extent">p27 binds to and inhibits complexes formed by cyclin E - cdk2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1582.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="INHIBIT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2237" t="INHIBIT" e1="e5817" e2="e5825" re="e5820">
+     <textspan type="extent">p27 binds to and inhibits complexes formed by cyclin E - cdk2 , cyclin A - cdk2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1582.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="INHIBIT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2238" t="INHIBIT" e1="e5817" e2="e5827" re="e5820">
+     <textspan type="extent">p27 binds to and inhibits complexes formed by cyclin E - cdk2 , cyclin A - cdk2 , and cyclin D - cdk4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1582.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="INHIBIT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

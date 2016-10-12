@@ -1,0 +1,36 @@
+<rexml>
+<doc id="746">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11583" g="E0" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w11584" g="w11583" t="pcomp-n" cr="mod*in*n:w11591" w="contrast" l="~" p="N"/>
+     <dpg d="w11585" g="w11584" t="punc" cr="punc:w11584" w="," l="~" p="U"/>
+     <dpg d="w11586" g="w11587" t="det" cr="det:w11587" w="the" l="~" p="Det"/>
+     <dpg d="w11587" g="w11584" t="conj" cr="conj:w11584" w="RAD51" l="~" p="N"/>
+     <dpg d="w11588" g="w11587" t="punc" cr="punc:w11587" w="and" l="~" p="U"/>
+     <dpg d="w11589" g="w11587" t="conj" cr="conj:w11587" w="RAD52" l="~" p="N"/>
+     <dpg d="w11590" g="w11591" t="s" cr="s:w11591||subj:w11592" w="genes" l="gene" p="N"/>
+     <dpg d="w11591" g="E0" t="i" cr="" w="are" l="be" p="VBE"/>
+     <dpg d="w11592" g="w11591" t="pred" cr="pred:w11591" w="essential" l="~" p="N"/>
+     <dpg d="E2" g="w11592" t="subj" cr="" w="" l="gene" p="N"/>
+     <dpg d="E2" g="w11590" t="antecedent" cr="" w="" l="gene" p="N"/>
+     <dpg d="w11593" g="w11592" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w11594" g="w11596" t="mod" cr="mod:w11596" w="homothallic" l="~" p="A"/>
+     <dpg d="w11595" g="w11596" t="mod" cr="mod:w11596" w="mating-type" l="mating-type" p="A"/>
+     <dpg d="w11596" g="w11593" t="pcomp-n" cr="mod*for*n:w11592" w="switching" l="~" p="N"/>
+     <dpg d="w11597" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

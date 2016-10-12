@@ -1,0 +1,301 @@
+<rexml>
+<doc id="1737">
+  <text>
+<p><s id="s1"><w id="w27656">These</w> <w id="w27657">results</w> <w id="w27658">suggest</w> <w id="w27659">that</w> <w id="w27660">activation</w> <w id="w27661">of</w> <w id="w27662">PKC</w> <w id="w27663">precedes</w> <w id="w27664">the</w> <w id="w27665">activation</w> <w id="w27666">of</w> <w id="w27667">PI</w> <w id="w27668">and</w> <w id="w27669">PIP</w> <w id="w27670">kinases</w> <w id="w27671">and</w> <w id="w27672">that</w> <w id="w27673">under</w> <w id="w27674">certain</w> <w id="w27675">circumstances</w> <w id="w27676">activation</w> <w id="w27677">of</w> <w id="w27678">the</w> <w id="w27679">kinases</w> <w id="w27680">and</w> <w id="w27681">the</w> <w id="w27682">increased</w> <w id="w27683">synthesis</w> <w id="w27684">of</w> <w id="w27685">PIP</w> <w id="w27686">and</w> <w id="w27687">PIP2</w> <w id="w27688">may</w> <w id="w27689">be</w> <w id="w27690">involved</w> <w id="w27691">in</w> <w id="w27692">the</w> <w id="w27693">polymerization</w> <w id="w27694">of</w> <w id="w27695">actin</w> <w id="w27696">in</w> <w id="w27697">RBL</w> <w id="w27698">cells</w> <w id="w27699">,</w> <w id="w27700">possibly</w> <w id="w27701">through</w> <w id="w27702">the</w> <w id="w27703">interaction</w> <w id="w27704">of</w> <w id="w27705">the</w> <w id="w27706">polyphosphoinositides</w> <w id="w27707">with</w> <w id="w27708">actin-binding</w> <w id="w27709">proteins</w> <w id="w27710">such</w> <w id="w27711">as</w> <w id="w27712">gelsolin</w> <w id="w27713">and</w> <w id="w27714">profilin</w> <w id="w27715">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6369" gid="g6078" t="ACTIVATION" fr="w27660" to="w27662">
+     <textspan type="extent">activation of PKC</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="ACTIVATION"/>
+      <exattr n="bd" v="e.1737.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6370" gid="g6079" t="RELATIONSHIP_TEXTBINDING" fr="w27710" to="w27711">
+     <textspan type="extent">such as</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1737.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6371" gid="g6080" t="ACTIVATION" fr="w27665" to="w27670">
+     <textspan type="extent">activation of [..] PIP kinases</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="ACTIVATION"/>
+      <exattr n="bd" v="e.1737.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6372" gid="g6081" t="RELATIONSHIP_TEXTBINDING" fr="w27663" to="w27663">
+     <textspan type="extent">precedes</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1737.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6373" gid="g6082" t="ACTIVATION" fr="w27676" to="w27679">
+     <textspan type="extent">activation of [..] kinases</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="ACTIVATION"/>
+      <exattr n="bd" v="e.1737.4"/>
+      <exattr n="nst" v="st.1737.20.0"/>
+      <exattr n="nst" v="st.1737.21.0"/>
+      <exattr n="nst" v="st.1737.23.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6374" gid="g6083" t="Protein_family_or_group" fr="w27679" to="w27679" nam="yes">
+     <textspan type="extent">kinases</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1737.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6375" gid="g6084" t="Protein_family_or_group" fr="w27708" to="w27709" nam="yes">
+     <textspan type="extent">actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1737.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6376" gid="g6085" t="POLYMERIZATION" fr="w27693" to="w27695">
+     <textspan type="extent">polymerization of actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.1737.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6377" gid="g6086" t="RELATIONSHIP_TEXTBINDING" fr="w27690" to="w27691">
+     <textspan type="extent">involved in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1737.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6378" gid="g6087" t="Individual_protein" fr="w27712" to="w27712" nam="yes">
+     <textspan type="extent">gelsolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1737.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6379" gid="g6083" t="Individual_protein" fr="w27667" to="w27670" nam="yes">
+     <textspan type="extent">PI [..] kinases</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1737.10"/>
+      <exattr n="nst" v="st.1737.11.0"/>
+      <exattr n="nst" v="st.1737.14.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6380" gid="g6083" t="Individual_protein" fr="w27662" to="w27662" nam="yes">
+     <textspan type="extent">PKC</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1737.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e6381" gid="g6083" t="Individual_protein" fr="w27669" to="w27670" nam="yes">
+     <textspan type="extent">PIP kinases</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1737.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e6382" gid="g6088" t="Individual_protein" fr="w27695" to="w27695" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1737.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e6383" gid="g6089" t="Other_organic_compounds" fr="w27706" to="w27706" nam="yes">
+     <textspan type="extent">polyphosphoinositides</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Other_organic_compounds"/>
+      <exattr n="bd" v="e.1737.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e6384" gid="g6090" t="ACTIVATION" fr="w27665" to="w27670">
+     <textspan type="extent">activation of PI [..] kinases</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="ACTIVATION"/>
+      <exattr n="bd" v="e.1737.15"/>
+      <exattr n="nst" v="st.1737.9.0"/>
+      <exattr n="nst" v="st.1737.10.0"/>
+      <exattr n="nst" v="st.1737.11.0"/>
+      <exattr n="nst" v="st.1737.14.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6385" gid="g6091" t="RELATIONSHIP_TEXTBINDING" fr="w27703" to="w27707">
+     <textspan type="extent">interaction of [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1737.16"/>
+      <exattr n="nst" v="st.1737.47.0"/>
+      <exattr n="nst" v="st.1737.48.0"/>
+      <exattr n="nst" v="st.1737.51.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6386" gid="g6092" t="Individual_protein" fr="w27714" to="w27714" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1737.17"/>
+     </exattrs>
+    </ne>
+    <ne id="e6387" gid="g6093" t="RELATIONSHIP_TEXTBINDING" fr="w27701" to="w27701">
+     <textspan type="extent">through</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1737.18"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2438" t="RELATE" e1="e6369" e2="e6384" re="e6372">
+     <textspan type="extent">activation of PKC precedes the activation of PI and PIP kinases</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1737.3"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2439" t="RELATE" e1="e6369" e2="e6371" re="e6372">
+     <textspan type="extent">activation of PKC precedes the activation of PI and PIP kinases</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1737.3"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2443" t="MEDIATE" e1="e6385" e2="e6377" re="e6387">
+     <textspan type="extent">activation of the kinases and the increased synthesis of PIP and PIP2 may be involved in the polymerization of actin in RBL cells , possibly through the interaction of the polyphosphoinositides with actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1737.18"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2444" t="INTERACT" e1="e6383" e2="e6375" re="e6385">
+     <textspan type="extent">interaction of the polyphosphoinositides with actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1737.16"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2445" t="PARTICIPATE" e1="e6373" e2="e6376" re="e6377">
+     <textspan type="extent">activation of the kinases and the increased synthesis of PIP and PIP2 may be involved in the polymerization of actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1737.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2446" t="RELATE" e1="e6373" e2="e6385" re="e6387">
+     <textspan type="extent">activation of the kinases and the increased synthesis of PIP and PIP2 may be involved in the polymerization of actin in RBL cells , possibly through the interaction of the polyphosphoinositides with actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1737.18"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2447" t="INTERACT" e1="e6383" e2="e6375" re="e6385">
+     <textspan type="extent">interaction of the polyphosphoinositides with actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1737.16"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2448" t="MEMBER" e1="e6375" e2="e6378" re="e6370">
+     <textspan type="extent">actin-binding proteins such as gelsolin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1737.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2449" t="MEMBER" e1="e6375" e2="e6386" re="e6370">
+     <textspan type="extent">actin-binding proteins such as gelsolin and profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1737.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

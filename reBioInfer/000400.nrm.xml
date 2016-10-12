@@ -1,0 +1,91 @@
+<rexml>
+<doc id="400">
+  
+  <markup>
+   <nes>
+    <ne id="e1429" gid="g1363" t="Gene" fr="w5899" to="w5900" nam="yes" sid="s1">
+     <textspan>RVS167 gene</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.400.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1433" gid="g1367" t="Gene" fr="w5899" to="w5899" nam="yes" sid="s1">
+     <textspan>RVS167</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.400.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1434" gid="g1368" t="Gene" fr="w5906" to="w5906" nam="yes" sid="s1">
+     <textspan>END6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.400.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1435" gid="g1368" t="Gene" fr="w5908" to="w5908" nam="yes" sid="s1">
+     <textspan>RVS161</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.400.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1436" gid="g1369" t="Individual_protein" fr="w5916" to="w5916" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.400.7"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r561" t="SQSIMILAR" e1="e1429" e2="e1434" re="e1430">
+     <textspan>RVS167 gene , which is homologous to END6</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.400.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Physical-Similarity"/>
+      <exattr n="t4" v="SQSIMILAR"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

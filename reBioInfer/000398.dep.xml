@@ -1,0 +1,54 @@
+<rexml>
+<doc id="398">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w5842" g="w5845" t="mod" cr="mod:w5845" w="Discrete" l="~" p="A"/>
+     <dpg d="w5843" g="w5845" t="nn" cr="nn:w5845" w="segments" l="segment" p="N"/>
+     <dpg d="w5844" g="w5845" t="punc" cr="punc:w5845" w="(" l="~" p="U"/>
+     <dpg d="w5845" g="E6" t="subcat" cr="subcat:E6" w="70-150" l="70-150" p="N"/>
+     <dpg d="E2" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5846" g="w5847" t="lex-mod" cr="lex-mod:w5847" w="amino" l="~" p="U"/>
+     <dpg d="w5847" g="w5854" t="s" cr="s+obj:w5854||s:w5856||subj:w5857||s+subj:w5860" w="acids" l="amino acid" p="N"/>
+     <dpg d="w5848" g="w5847" t="punc" cr="punc:w5847" w=")" l="~" p="U"/>
+     <dpg d="w5849" g="w5847" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5850" g="w5849" t="pcomp-n" cr="mod*of*n:w5847" w="PRT1" l="~" p="N"/>
+     <dpg d="w5851" g="w5850" t="punc" cr="punc:w5850" w="and" l="~" p="U"/>
+     <dpg d="w5852" g="w5850" t="conj" cr="conj:w5850" w="TIF35" l="~" p="N"/>
+     <dpg d="w5853" g="w5854" t="be" cr="be:w5854" w="were" l="be" p="be"/>
+     <dpg d="w5854" g="E2" t="i" cr="UNSPECRELTYPE:E6" w="found" l="find" p="V"/>
+     <dpg d="E7" g="w5854" t="obj" cr="" w="" l="amino acid" p="N"/>
+     <dpg d="E7" g="w5847" t="antecedent" cr="" w="" l="amino acid" p="N"/>
+     <dpg d="E1" g="w5854" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w5847" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w5855" g="w5856" t="aux" cr="aux:w5856" w="to" l="~" p="Aux"/>
+     <dpg d="w5856" g="E1" t="i" cr="mod:w5854" w="be" l="~" p="VBE"/>
+     <dpg d="w5857" g="w5856" t="pred" cr="pred:w5856" w="responsible" l="~" p="A"/>
+     <dpg d="E8" g="w5857" t="subj" cr="" w="" l="amino acid" p="N"/>
+     <dpg d="E8" g="E4" t="antecedent" cr="" w="" l="amino acid" p="N"/>
+     <dpg d="w5858" g="w5857" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w5859" g="w5858" t="pcomp-n" cr="mod*for*n:w5857" w="their" l="~" p="N"/>
+     <dpg d="E0" g="w5856" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w5860" g="E0" t="i" cr="mod:w5856" w="binding" l="bind" p="V"/>
+     <dpg d="E9" g="w5860" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E9" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w5861" g="w5860" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w5862" g="w5861" t="pcomp-n" cr="mod*to*n:w5860" w="TIF34" l="~" p="N"/>
+     <dpg d="w5863" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

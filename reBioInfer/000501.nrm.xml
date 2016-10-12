@@ -1,0 +1,57 @@
+<rexml>
+<doc id="501">
+  
+  <markup>
+   <nes>
+    <ne id="e1671" gid="g1600" t="Analog" fr="w6938" to="w6939" nam="yes" sid="s1">
+     <textspan>actin analogs</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Analog"/>
+      <exattr n="bd" v="e.501.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1674" gid="g1603" t="Individual_protein" fr="w6938" to="w6938" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.501.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1673" gid="g1602" t="Individual_protein" fr="w6945" to="w6945" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.501.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r662" t="BIND" e1="e1671" e2="e1673" re="e1672">
+     <textspan>actin analogs with a high affinity for profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.501.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

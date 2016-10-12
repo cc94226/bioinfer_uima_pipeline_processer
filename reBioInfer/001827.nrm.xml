@@ -1,0 +1,82 @@
+<rexml>
+<doc id="1827">
+  
+  <markup>
+   <nes>
+    <ne id="e6791" gid="g6479" t="Protein_family_or_group" fr="w29375" to="w29376" nam="yes" sid="s1">
+     <textspan>actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1827.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6794" gid="g6482" t="Individual_protein" fr="w29380" to="w29380" nam="yes" sid="s1">
+     <textspan>cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1827.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6793" gid="g6481" t="Individual_protein" fr="w29382" to="w29382" nam="yes" sid="s1">
+     <textspan>coronin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1827.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2599" t="COOF-MEMBER" e1="e6794" e2="e6793" re="e6792">
+     <textspan>actin-binding proteins , such as cofilin and coronin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1827.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2599" t="MEMBER" e1="e6791" e2="e6794" re="e6792">
+     <textspan>actin-binding proteins , such as cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1827.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2600" t="MEMBER" e1="e6791" e2="e6793" re="e6792">
+     <textspan>actin-binding proteins , such as cofilin and coronin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1827.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

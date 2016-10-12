@@ -1,0 +1,58 @@
+<rexml>
+<doc id="442">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6339" g="w6340" t="mod" cr="mod:w6340" w="Even" l="~" p="A"/>
+     <dpg d="w6340" g="E1" t="mod" cr="mod:w6348" w="though" l="~" p="A"/>
+     <dpg d="w6341" g="w6348" t="s" cr="s+subj:w6348" w="rates" l="rate" p="N"/>
+     <dpg d="w6342" g="w6341" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6343" g="w6344" t="mod" cr="mod:w6344" w="total" l="~" p="A"/>
+     <dpg d="w6344" g="w6342" t="pcomp-n" cr="mod*of*n:w6341" w="protein" l="~" p="N"/>
+     <dpg d="w6345" g="w6344" t="punc" cr="punc:w6344" w="and" l="~" p="U"/>
+     <dpg d="w6346" g="w6347" t="nn" cr="nn:w6347" w="actin" l="~" p="N"/>
+     <dpg d="w6347" g="w6344" t="conj" cr="conj:w6344" w="synthesis" l="~" p="N"/>
+     <dpg d="w6348" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="resembled" l="resemble" p="V"/>
+     <dpg d="E4" g="w6348" t="subj" cr="" w="" l="rate" p="N"/>
+     <dpg d="E4" g="w6341" t="antecedent" cr="" w="" l="rate" p="N"/>
+     <dpg d="w6349" g="w6348" t="obj" cr="obj:w6348||obj:w6350" w="values" l="value" p="N"/>
+     <dpg d="w6350" g="w6349" t="vrel" cr="vrel:w6349" w="measured" l="measure" p="V"/>
+     <dpg d="E5" g="w6350" t="obj" cr="" w="" l="value" p="N"/>
+     <dpg d="E5" g="w6349" t="antecedent" cr="" w="" l="value" p="N"/>
+     <dpg d="w6351" g="w6352" t="lex-mod" cr="lex-mod:w6352" w="in" l="~" p="U"/>
+     <dpg d="w6352" g="w6350" t="mod" cr="mod:w6350" w="vivo" l="in vivo" p="A"/>
+     <dpg d="w6353" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6354" g="w6358" t="nn" cr="nn:w6358" w="myosin" l="~" p="N"/>
+     <dpg d="w6355" g="w6358" t="mod" cr="mod:w6358" w="heavy" l="~" p="A"/>
+     <dpg d="w6356" g="w6358" t="nn" cr="nn:w6358" w="chain" l="~" p="N"/>
+     <dpg d="w6357" g="w6358" t="mod" cr="mod:w6358" w="fractional" l="~" p="A"/>
+     <dpg d="w6358" g="w6361" t="s" cr="s:w6361||subj:w6364" w="rate" l="~" p="N"/>
+     <dpg d="w6359" g="w6358" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6360" g="w6359" t="pcomp-n" cr="mod*of*n:w6358" w="synthesis" l="~" p="N"/>
+     <dpg d="w6361" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="was" l="be" p="VBE"/>
+     <dpg d="w6362" g="w6361" t="guest" cr="guest:w6361" w="only" l="~" p="A"/>
+     <dpg d="E6" g="w6364" t="subj" cr="" w="" l="rate" p="N"/>
+     <dpg d="E6" g="w6358" t="antecedent" cr="" w="" l="rate" p="N"/>
+     <dpg d="w6363" g="w6364" t="lex-mod" cr="lex-mod:w6364" w="22" l="~" p="U"/>
+     <dpg d="w6364" g="w6361" t="pred" cr="pred:w6361" w="%" l="22 %" p="N"/>
+     <dpg d="w6365" g="w6364" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6366" g="w6367" t="lex-mod" cr="lex-mod:w6367" w="in" l="~" p="U"/>
+     <dpg d="w6367" g="w6368" t="mod" cr="mod:w6368" w="vivo" l="in vivo" p="A"/>
+     <dpg d="w6368" g="w6365" t="pcomp-n" cr="mod*of*n:w6364" w="levels" l="level" p="N"/>
+     <dpg d="w6369" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,35 @@
+<rexml>
+<doc id="1662">
+  <text>
+<p><s id="s1"><w id="w26536">There</w> <w id="w26537">was</w> <w id="w26538">a</w> <w id="w26539">trend</w> <w id="w26540">towards</w> <w id="w26541">an</w> <w id="w26542">association</w> <w id="w26543">between</w> <w id="w26544">advanced</w> <w id="w26545">tumour</w> <w id="w26546">stage</w> <w id="w26547">and</w> <w id="w26548">loss</w> <w id="w26549">of</w> <w id="w26550">membranous</w> <w id="w26551">expression</w> <w id="w26552">of</w> <w id="w26553">alpha-catenin</w> <w id="w26554">or</w> <w id="w26555">beta-catenin</w> <w id="w26556">,</w> <w id="w26557">although</w> <w id="w26558">these</w> <w id="w26559">associations</w> <w id="w26560">were</w> <w id="w26561">not</w> <w id="w26562">statistically</w> <w id="w26563">significant</w> <w id="w26564">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6121" gid="g5839" t="Gene/protein/RNA" fr="w26553" to="w26553" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1662.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6122" gid="g5840" t="Gene/protein/RNA" fr="w26555" to="w26555" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1662.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

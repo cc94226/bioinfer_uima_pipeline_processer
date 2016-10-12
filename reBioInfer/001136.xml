@@ -1,0 +1,35 @@
+<rexml>
+<doc id="1136">
+  <text>
+<p><s id="s1"><w id="w17914">Previously</w> <w id="w17915">,</w> <w id="w17916">we</w> <w id="w17917">have</w> <w id="w17918">shown</w> <w id="w17919">that</w> <w id="w17920">in</w> <w id="w17921">the</w> <w id="w17922">absence</w> <w id="w17923">of</w> <w id="w17924">RAD52</w> <w id="w17925">,</w> <w id="w17926">repair</w> <w id="w17927">is</w> <w id="w17928">nearly</w> <w id="w17929">absent</w> <w id="w17930">and</w> <w id="w17931">diploid</w> <w id="w17932">cells</w> <w id="w17933">lose</w> <w id="w17934">the</w> <w id="w17935">broken</w> <w id="w17936">chromosome</w> <w id="w17937">;</w> <w id="w17938">however</w> <w id="w17939">,</w> <w id="w17940">in</w> <w id="w17941">cells</w> <w id="w17942">lacking</w> <w id="w17943">RAD51</w> <w id="w17944">,</w> <w id="w17945">gene</w> <w id="w17946">conversion</w> <w id="w17947">is</w> <w id="w17948">absent</w> <w id="w17949">but</w> <w id="w17950">cells</w> <w id="w17951">can</w> <w id="w17952">repair</w> <w id="w17953">the</w> <w id="w17954">DSB</w> <w id="w17955">by</w> <w id="w17956">BIR</w> <w id="w17957">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4160" gid="g3977" t="Gene/protein/RNA" fr="w17924" to="w17924" nam="yes">
+     <textspan type="extent">RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1136.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4161" gid="g3978" t="Gene/protein/RNA" fr="w17943" to="w17943" nam="yes">
+     <textspan type="extent">RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1136.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

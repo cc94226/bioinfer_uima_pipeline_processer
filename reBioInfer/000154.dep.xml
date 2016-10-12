@@ -1,0 +1,48 @@
+<rexml>
+<doc id="154">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2532" g="w2539" t="s" cr="s:w2539||subj:w2540||s+subj:w2543" w="RAD51" l="~" p="N"/>
+     <dpg d="w2533" g="w2532" t="punc" cr="punc:w2532" w="," l="~" p="U"/>
+     <dpg d="w2534" g="w2532" t="conj" cr="conj:w2532" w="RAD54" l="~" p="N"/>
+     <dpg d="w2535" g="w2534" t="punc" cr="punc:w2534" w="," l="~" p="U"/>
+     <dpg d="w2536" g="w2534" t="conj" cr="conj:w2534" w="RAD55" l="~" p="N"/>
+     <dpg d="w2537" g="w2536" t="punc" cr="punc:w2536" w="and" l="~" p="U"/>
+     <dpg d="w2538" g="w2536" t="conj" cr="conj:w2536" w="RAD57" l="~" p="N"/>
+     <dpg d="w2539" g="E1" t="i" cr="" w="are" l="be" p="VBE"/>
+     <dpg d="w2540" g="w2539" t="pred" cr="pred:w2539||obj:w2541" w="all" l="~" p="N"/>
+     <dpg d="E4" g="w2540" t="subj" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="E4" g="w2532" t="antecedent" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="w2541" g="w2540" t="vrel" cr="vrel:w2540" w="required" l="require" p="V"/>
+     <dpg d="E5" g="w2541" t="obj" cr="" w="" l="all" p="N"/>
+     <dpg d="E5" g="w2540" t="antecedent" cr="" w="" l="all" p="N"/>
+     <dpg d="E0" g="w2541" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w2532" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w2542" g="w2543" t="aux" cr="aux:w2543" w="to" l="~" p="Aux"/>
+     <dpg d="w2543" g="E0" t="i" cr="mod:w2541" w="facilitate" l="~" p="V"/>
+     <dpg d="E6" g="w2543" t="subj" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="w2544" g="w2545" t="nn" cr="nn:w2545" w="strand" l="~" p="N"/>
+     <dpg d="w2545" g="w2543" t="obj" cr="obj:w2543" w="invasion" l="~" p="N"/>
+     <dpg d="w2546" g="w2545" t="mod" cr="" w="into" l="~" p="Prep"/>
+     <dpg d="w2547" g="w2548" t="mod" cr="mod:w2548" w="otherwise" l="~" p="A"/>
+     <dpg d="w2548" g="w2550" t="mod" cr="mod:w2550" w="inaccessible" l="~" p="A"/>
+     <dpg d="w2549" g="w2550" t="nn" cr="nn:w2550" w="donor" l="~" p="N"/>
+     <dpg d="w2550" g="w2546" t="pcomp-n" cr="mod*into*n:w2545" w="sequences" l="sequence" p="N"/>
+     <dpg d="w2551" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

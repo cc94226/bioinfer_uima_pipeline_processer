@@ -1,0 +1,43 @@
+<rexml>
+<doc id="893">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13995" g="w13996" t="lex-mod" cr="lex-mod:w13996" w="In" l="~" p="U"/>
+     <dpg d="w13996" g="E0" t="mod" cr="mod:w14005" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w13997" g="E0" t="punc" cr="punc:w14005" w="," l="~" p="U"/>
+     <dpg d="w13998" g="w14005" t="s" cr="s:w14005||obj:w13999||subj:w14006||subj:w14010" w="actin" l="~" p="N"/>
+     <dpg d="w13999" g="w13998" t="vrel" cr="vrel:w13998" w="purified" l="purify" p="V"/>
+     <dpg d="E2" g="w13999" t="obj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E2" g="w13998" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w14000" g="w13999" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w14001" g="w14000" t="pcomp-n" cr="mod*from*n:w13999" w="some" l="~" p="N"/>
+     <dpg d="w14002" g="w14001" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w14003" g="w14004" t="det" cr="det:w14004" w="these" l="~" p="Det"/>
+     <dpg d="w14004" g="w14002" t="pcomp-n" cr="mod*of*n:w14001" w="mutants" l="mutant" p="N"/>
+     <dpg d="w14005" g="E0" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="w14006" g="w14005" t="pred" cr="pred:w14005" w="defective" l="~" p="A"/>
+     <dpg d="E3" g="w14006" t="subj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E3" g="w13998" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w14007" g="w14006" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w14008" g="w14007" t="pcomp-n" cr="mod*in*n:w14006" w="polymerization" l="~" p="N"/>
+     <dpg d="w14009" g="w14005" t="punc" cr="punc:w14005" w="or" l="~" p="U"/>
+     <dpg d="w14010" g="w14005" t="conj" cr="conj:w14005" w="binding" l="bind" p="V"/>
+     <dpg d="E4" g="w14010" t="subj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E4" g="w13998" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w14011" g="w14010" t="obj" cr="obj:w14010" w="fimbrin" l="~" p="N"/>
+     <dpg d="w14012" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

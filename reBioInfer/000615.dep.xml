@@ -1,0 +1,39 @@
+<rexml>
+<doc id="615">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9092" g="w9093" t="mod" cr="mod:w9093" w="High" l="~" p="A"/>
+     <dpg d="w9093" g="w9096" t="s" cr="s+subj:w9096" w="levels" l="level" p="N"/>
+     <dpg d="w9094" g="w9093" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9095" g="w9094" t="pcomp-n" cr="mod*of*n:w9093" w="profilin" l="~" p="N"/>
+     <dpg d="w9096" g="E0" t="i" cr="" w="suppress" l="~" p="V"/>
+     <dpg d="E2" g="w9096" t="subj" cr="" w="" l="level" p="N"/>
+     <dpg d="E2" g="w9093" t="antecedent" cr="" w="" l="level" p="N"/>
+     <dpg d="w9097" g="w9098" t="det" cr="det:w9098" w="the" l="~" p="Det"/>
+     <dpg d="w9098" g="w9096" t="obj" cr="obj:w9096||obj:w9099" w="lethality" l="~" p="N"/>
+     <dpg d="w9099" g="w9098" t="vrel" cr="vrel:w9098" w="caused" l="cause" p="V"/>
+     <dpg d="E3" g="w9099" t="obj" cr="" w="" l="lethality" p="N"/>
+     <dpg d="E3" g="w9098" t="antecedent" cr="" w="" l="lethality" p="N"/>
+     <dpg d="w9100" g="w9099" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w9101" g="w9100" t="pcomp-n" cr="by-subj*by*n:w9099" w="overproduction" l="~" p="N"/>
+     <dpg d="w9102" g="w9101" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9103" g="w9102" t="pcomp-n" cr="mod*of*n:w9101" w="actin" l="~" p="N"/>
+     <dpg d="w9104" g="w9103" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w9105" g="w9106" t="nn" cr="nn:w9106" w="yeast" l="~" p="N"/>
+     <dpg d="w9106" g="w9104" t="pcomp-n" cr="mod*in*n:w9103" w="cells" l="cell" p="N"/>
+     <dpg d="w9107" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

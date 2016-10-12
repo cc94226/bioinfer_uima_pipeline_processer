@@ -1,0 +1,162 @@
+<rexml>
+<doc id="1857">
+  
+  <markup>
+   <nes>
+    <ne id="e6896" gid="g6581" t="Individual_protein" fr="w29801" to="w29801" nam="yes" sid="s1">
+     <textspan>Thrombin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1857.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6898" gid="g6583" t="Individual_protein" fr="w29810" to="w29813" nam="yes" sid="s1">
+     <textspan>platelet [..] gelsolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1857.2"/>
+      <exattr n="nst" v="st.1857.9.0"/>
+      <exattr n="nst" v="st.1857.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6903" gid="g6588" t="Individual_protein" fr="w29810" to="w29811" nam="yes" sid="s1">
+     <textspan>platelet profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1857.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6900" gid="g6585" t="Protein_complex" fr="w29816" to="w29818" nam="yes" sid="s1">
+     <textspan>complexes with actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1857.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6902" gid="g6587" t="Protein_complex" fr="w29816" to="w29818" nam="yes" sid="s1">
+     <textspan>complexes with actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1857.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6901" gid="g6586" t="Individual_protein" fr="w29818" to="w29818" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1857.5"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2645" t="COOF-CONTAIN" e1="e6903" e2="e6901" re="e6899">
+     <textspan>complexes with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1857.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2645" t="CONTAIN" e1="e6900" e2="e6903" re="e6899">
+     <textspan>conversion of platelet profilin and gelsolin to high-affinity complexes with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1857.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2647" t="COOF-CONTAIN" e1="e6898" e2="e6901" re="e6899">
+     <textspan>complexes with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1857.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2647" t="CONTAIN" e1="e6902" e2="e6898" re="e6899">
+     <textspan>conversion of platelet profilin and gelsolin to high-affinity complexes with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1857.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2649" t="CONTAIN" e1="e6900" e2="e6901" re="e6897">
+     <textspan>complexes with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1857.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2651" t="CONTAIN" e1="e6902" e2="e6901" re="e6897">
+     <textspan>complexes with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1857.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

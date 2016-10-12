@@ -1,0 +1,105 @@
+<rexml>
+<doc id="1219">
+  
+  <markup>
+   <nes>
+    <ne id="e4443" gid="g4250" t="Individual_protein" fr="w19167" to="w19167" nam="yes" sid="s1">
+     <textspan>RIPc</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1219.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4450" gid="g4256" t="Individual_protein" fr="w19178" to="w19178" nam="yes" sid="s1">
+     <textspan>TRADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1219.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e4445" gid="g4252" t="Individual_protein" fr="w19180" to="w19180" nam="yes" sid="s1">
+     <textspan>FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1219.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4447" gid="g4252" t="Individual_protein" fr="w19182" to="w19182" nam="yes" sid="s1">
+     <textspan>MORT1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1219.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4448" gid="g4254" t="Property_entity" fr="w19186" to="w19189" sid="s1">
+     <textspan>' sensitivity to TNF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="bd" v="e.1219.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4451" gid="g4257" t="Individual_protein" fr="w19189" to="w19189" nam="yes" sid="s1">
+     <textspan>TNF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1219.8"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1694" t="INTERACT" e1="e4450" e2="e4445" re="e4446">
+     <textspan>interaction between TRADD and FADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1219.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1695" t="INCREASE" e1="e4443" e2="e4448" re="e4449">
+     <textspan>RIPc , one of the cleavage products , enhanced interaction between TRADD and FADD / MORT1 and increased cells ' sensitivity to TNF</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1219.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Amount"/>
+      <exattr n="t4" v="INCREASE"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

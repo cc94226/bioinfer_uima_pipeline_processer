@@ -1,0 +1,175 @@
+<rexml>
+<doc id="2076">
+  <text>
+<p><s id="s1"><w id="w32940">We</w> <w id="w32941">have</w> <w id="w32942">cloned</w> <w id="w32943">a</w> <w id="w32944">Saccharomyces</w> <w id="w32945">cerevisiae</w> <w id="w32946">gene</w> <w id="w32947">(</w> <w id="w32948">COF1</w> <w id="w32949">)</w> <w id="w32950">encoding</w> <w id="w32951">a</w> <w id="w32952">low-M(r)</w> <w id="w32953">actin-binding</w> <w id="w32954">protein</w> <w id="w32955">of</w> <w id="w32956">143</w> <w id="w32957">amino</w> <w id="w32958">acid</w> <w id="w32959">(</w> <w id="w32960">aa</w> <w id="w32961">)</w> <w id="w32962">residues</w> <w id="w32963">(</w> <w id="w32964">yeast</w> <w id="w32965">cofilin</w> <w id="w32966">;</w> <w id="w32967">Cof</w> <w id="w32968">)</w> <w id="w32969">;</w> <w id="w32970">its</w> <w id="w32971">aa</w> <w id="w32972">sequence</w> <w id="w32973">is</w> <w id="w32974">35</w> <w id="w32975">%</w> <w id="w32976">identical</w> <w id="w32977">to</w> <w id="w32978">porcine</w> <w id="w32979">Cof</w> <w id="w32980">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7519" gid="g7168" t="Gene" fr="w32948" to="w32948" nam="yes">
+     <textspan type="extent">COF1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.2076.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7520" gid="g7169" t="RELATIONSHIP_TEXTBINDING" fr="w32950" to="w32950">
+     <textspan type="extent">encoding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2076.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7521" gid="g7170" t="RELATIONSHIP_TEXTBINDING" fr="w32976" to="w32977">
+     <textspan type="extent">identical to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2076.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7522" gid="g7171" t="Individual_protein" fr="w32964" to="w32965" nam="yes">
+     <textspan type="extent">yeast cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2076.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7523" gid="g7171" t="Individual_protein" fr="w32967" to="w32967" nam="yes">
+     <textspan type="extent">Cof</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2076.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7524" gid="g7172" t="Protein_family_or_group" fr="w32953" to="w32954" nam="yes">
+     <textspan type="extent">actin-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.2076.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7525" gid="g7171" t="Individual_protein" fr="w32970" to="w32970" nam="yes">
+     <textspan type="extent">its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2076.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7526" gid="g7173" t="Individual_protein" fr="w32970" to="w32972" nam="yes">
+     <textspan type="extent">its [..] sequence</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2076.7"/>
+      <exattr n="nst" v="st.2076.30.0"/>
+      <exattr n="nst" v="st.2076.32.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7527" gid="g7174" t="Individual_protein" fr="w32978" to="w32979" nam="yes">
+     <textspan type="extent">porcine Cof</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2076.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e7528" gid="g7175" t="Individual_protein" fr="w32965" to="w32965" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2076.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e7529" gid="g7176" t="Individual_protein" fr="w32979" to="w32979" nam="yes">
+     <textspan type="extent">Cof</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2076.10"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2884" t="ENCODE" e1="e7519" e2="e7522" re="e7520">
+     <textspan type="extent">COF1 ) encoding a low-M(r) actin-binding protein of 143 amino acid ( aa ) residues ( yeast cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2076.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2885" t="MEMBER" e1="e7524" e2="e7522" re="">
+     <textspan type="extent">actin-binding protein of 143 amino acid ( aa ) residues ( yeast cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2888" t="SQSIMILAR" e1="e7526" e2="e7527" re="e7521">
+     <textspan type="extent">its aa sequence is 35 % identical to porcine Cof</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2076.2"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Physical-Similarity"/>
+      <exattr n="t4" v="SQSIMILAR"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

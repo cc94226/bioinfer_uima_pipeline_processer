@@ -1,0 +1,72 @@
+<rexml>
+<doc id="1164">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18309" g="w18321" t="s" cr="s+subj:w18321" w="Quantitation" l="~" p="N"/>
+     <dpg d="w18310" g="w18309" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w18311" g="w18312" t="det" cr="det:w18312" w="the" l="~" p="Det"/>
+     <dpg d="w18312" g="w18310" t="pcomp-n" cr="mod*of*n:w18309" w="appearance" l="~" p="N"/>
+     <dpg d="w18313" g="w18312" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w18314" g="w18315" t="nn" cr="nn:w18315" w="X22" l="~" p="N"/>
+     <dpg d="w18315" g="w18313" t="pcomp-n" cr="mod*of*n:w18312" w="banding" l="~" p="N"/>
+     <dpg d="w18316" g="w18315" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w18317" g="w18318" t="mod" cr="mod:w18318" w="primary" l="~" p="A"/>
+     <dpg d="w18318" g="w18316" t="pcomp-n" cr="mod*in*n:w18315" w="cultures" l="culture" p="N"/>
+     <dpg d="w18319" g="w18318" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w18320" g="w18319" t="pcomp-n" cr="mod*of*n:w18318" w="myotubes" l="~" p="N"/>
+     <dpg d="w18321" g="E2" t="i" cr="UNSPECRELTYPE:E4" w="indicates" l="indicate" p="V"/>
+     <dpg d="E5" g="w18321" t="subj" cr="" w="" l="Quantitation" p="N"/>
+     <dpg d="E5" g="w18309" t="antecedent" cr="" w="" l="Quantitation" p="N"/>
+     <dpg d="E1" g="w18321" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18322" g="E1" t="c" cr="c:w18324" w="that" l="~" p="COMP"/>
+     <dpg d="w18323" g="w18324" t="s" cr="s+subj:w18324" w="it" l="~" p="N"/>
+     <dpg d="w18324" g="E1" t="i" cr="fc:w18321" w="precedes" l="precede" p="V"/>
+     <dpg d="E6" g="w18324" t="subj" cr="" w="" l="it" p="N"/>
+     <dpg d="E6" g="w18323" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w18325" g="w18324" t="obj" cr="obj:w18324" w="that" l="~" p="N"/>
+     <dpg d="w18326" g="w18324" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w18327" g="w18329" t="mod" cr="mod:w18329" w="other" l="~" p="A"/>
+     <dpg d="w18328" g="w18329" t="mod" cr="mod:w18329" w="myofibrillar" l="~" p="A"/>
+     <dpg d="w18329" g="w18326" t="pcomp-n" cr="mod*of*n:w18324" w="proteins" l="protein" p="N"/>
+     <dpg d="w18330" g="E1" t="punc" cr="punc:w18324" w="and" l="~" p="U"/>
+     <dpg d="E0" g="E1" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18331" g="E0" t="c" cr="c:w18333" w="that" l="~" p="COMP"/>
+     <dpg d="w18332" g="w18333" t="s" cr="s+subj:w18333" w="assembly" l="~" p="N"/>
+     <dpg d="w18333" g="E0" t="i" cr="conj:w18324" w="takes" l="take place" p="V"/>
+     <dpg d="w18334" g="w18333" t="lex-mod" cr="lex-mod:w18333" w="place" l="~" p="U"/>
+     <dpg d="E7" g="w18333" t="subj" cr="" w="" l="assembly" p="N"/>
+     <dpg d="E7" g="w18332" t="antecedent" cr="" w="" l="assembly" p="N"/>
+     <dpg d="w18335" g="w18333" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w18336" g="w18338" t="det" cr="det:w18338" w="the" l="~" p="Det"/>
+     <dpg d="w18337" g="w18338" t="mod" cr="mod:w18338" w="following" l="~" p="A"/>
+     <dpg d="w18338" g="w18335" t="pcomp-n" cr="mod*in*n:w18333" w="order" l="~" p="N"/>
+     <dpg d="w18339" g="E4" t="punc" cr="punc:E4" w=":" l="~" p="U"/>
+     <dpg d="w18340" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="X22" l="~" p="N"/>
+     <dpg d="w18341" g="w18340" t="punc" cr="punc:w18340" w="," l="~" p="U"/>
+     <dpg d="w18342" g="w18340" t="conj" cr="conj:w18340" w="titin" l="~" p="N"/>
+     <dpg d="w18343" g="w18342" t="punc" cr="punc:w18342" w="," l="~" p="U"/>
+     <dpg d="w18344" g="w18346" t="nn" cr="nn:w18346" w="myosin" l="~" p="N"/>
+     <dpg d="w18345" g="w18346" t="mod" cr="mod:w18346" w="heavy" l="~" p="A"/>
+     <dpg d="w18346" g="w18342" t="conj" cr="conj:w18342" w="chain" l="~" p="N"/>
+     <dpg d="w18347" g="w18346" t="punc" cr="punc:w18346" w="," l="~" p="U"/>
+     <dpg d="w18348" g="w18346" t="conj" cr="conj:w18346" w="actin" l="~" p="N"/>
+     <dpg d="w18349" g="w18348" t="punc" cr="punc:w18348" w="," l="~" p="U"/>
+     <dpg d="w18350" g="w18348" t="punc" cr="punc:w18348" w="and" l="~" p="U"/>
+     <dpg d="w18351" g="w18348" t="conj" cr="conj:w18348" w="desmin" l="~" p="N"/>
+     <dpg d="w18352" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

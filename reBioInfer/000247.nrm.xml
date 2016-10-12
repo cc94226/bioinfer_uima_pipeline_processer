@@ -1,0 +1,76 @@
+<rexml>
+<doc id="247">
+  
+  <markup>
+   <nes>
+    <ne id="e935" gid="g895" t="Individual_protein" fr="w3813" to="w3813" nam="yes" sid="s1">
+     <textspan>sNRP1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.247.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e938" gid="g898" t="Individual_protein" fr="w3824" to="w3824" nam="yes" sid="s1">
+     <textspan>VEGF(165)</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.247.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e939" gid="g899" t="Individual_protein" fr="w3828" to="w3828" nam="yes" sid="s1">
+     <textspan>VEGF(121)</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.247.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r355" t="BIND" e1="e935" e2="e938" re="e936">
+     <textspan>sNRP1 is secreted by cells as a 90-kDa protein that binds VEGF(165)</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.247.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r357" t="BIND" e1="e935" e2="e939" re="e936">
+     <textspan>sNRP1 is secreted by cells as a 90-kDa protein that binds VEGF(165) , but not VEGF(121)</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.247.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

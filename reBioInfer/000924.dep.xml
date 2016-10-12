@@ -1,0 +1,53 @@
+<rexml>
+<doc id="924">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14378" g="w14379" t="mod" cr="mod:w14379" w="Kinetic" l="~" p="A"/>
+     <dpg d="w14379" g="w14380" t="s" cr="s+subj:w14380" w="simulation" l="~" p="N"/>
+     <dpg d="w14380" g="E2" t="i" cr="" w="showed" l="show" p="V"/>
+     <dpg d="E4" g="w14380" t="subj" cr="" w="" l="simulation" p="N"/>
+     <dpg d="E4" g="w14379" t="antecedent" cr="" w="" l="simulation" p="N"/>
+     <dpg d="E1" g="w14380" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14381" g="E1" t="c" cr="c:w14384" w="that" l="~" p="COMP"/>
+     <dpg d="w14382" g="w14383" t="det" cr="det:w14383" w="the" l="~" p="Det"/>
+     <dpg d="w14383" g="w14384" t="s" cr="s+subj:w14384" w="profilin" l="~" p="N"/>
+     <dpg d="w14384" g="E1" t="i" cr="fc:w14380" w="exchanges" l="exchange" p="V"/>
+     <dpg d="E5" g="w14384" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E5" g="w14383" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w14385" g="w14384" t="guest" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w14386" g="w14385" t="pcomp-n" cr="guest*between*n:w14384" w="actin" l="~" p="N"/>
+     <dpg d="w14387" g="w14384" t="obj" cr="obj:w14384" w="monomers" l="monomer" p="N"/>
+     <dpg d="w14388" g="w14387" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w14389" g="w14392" t="det" cr="det:w14392" w="a" l="~" p="Det"/>
+     <dpg d="w14390" g="w14392" t="nn" cr="nn:w14392" w="subsecond" l="~" p="N"/>
+     <dpg d="w14391" g="w14392" t="nn" cr="nn:w14392" w="time" l="~" p="N"/>
+     <dpg d="w14392" g="w14388" t="pcomp-n" cr="mod*on*n:w14387||subj:w14394" w="scale" l="~" p="N"/>
+     <dpg d="E0" g="w14392" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14393" g="E0" t="whn" cr="whn:w14394" w="that" l="~" p="THAT"/>
+     <dpg d="w14393" g="w14392" t="antecedent" cr="antecedent:w14392" w="that" l="~" p="THAT"/>
+     <dpg d="w14394" g="E0" t="i" cr="rel:w14392" w="allows" l="allow" p="V"/>
+     <dpg d="E6" g="w14394" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E6" g="w14392" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w14395" g="w14397" t="s" cr="s+subj:w14397" w="it" l="~" p="N"/>
+     <dpg d="w14396" g="w14397" t="aux" cr="aux:w14397" w="to" l="~" p="Aux"/>
+     <dpg d="w14397" g="w14394" t="sc" cr="sc:w14394" w="catalyze" l="~" p="V"/>
+     <dpg d="E7" g="w14397" t="subj" cr="" w="" l="it" p="N"/>
+     <dpg d="E7" g="w14395" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w14398" g="w14399" t="nn" cr="nn:w14399" w="nucleotide" l="~" p="N"/>
+     <dpg d="w14399" g="w14397" t="obj" cr="obj:w14397" w="exchange" l="~" p="N"/>
+     <dpg d="w14400" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

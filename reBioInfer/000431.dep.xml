@@ -1,0 +1,46 @@
+<rexml>
+<doc id="431">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6211" g="w6212" t="s" cr="s+subj:w6212" w="END5" l="~" p="N"/>
+     <dpg d="w6212" g="E0" t="i" cr="" w="encodes" l="encode" p="V"/>
+     <dpg d="E2" g="w6212" t="subj" cr="" w="" l="END5" p="N"/>
+     <dpg d="E2" g="w6211" t="antecedent" cr="" w="" l="END5" p="N"/>
+     <dpg d="w6213" g="w6217" t="det" cr="det:w6217" w="a" l="~" p="Det"/>
+     <dpg d="w6214" g="w6217" t="mod" cr="mod:w6217" w="proline-rich" l="proline-rich" p="A"/>
+     <dpg d="w6215" g="w6217" t="nn" cr="nn:w6217" w="protein" l="~" p="N"/>
+     <dpg d="w6216" g="w6217" t="punc" cr="punc:w6217" w="(" l="~" p="U"/>
+     <dpg d="w6217" g="w6212" t="obj" cr="obj:w6212" w="End5p" l="~" p="N"/>
+     <dpg d="w6218" g="w6217" t="punc" cr="punc:w6217" w="or" l="~" p="U"/>
+     <dpg d="w6219" g="w6217" t="conj" cr="conj:w6217||obj:w6221" w="verprolin" l="~" p="N"/>
+     <dpg d="w6220" g="w6219" t="punc" cr="punc:w6219" w=")" l="~" p="U"/>
+     <dpg d="w6221" g="w6219" t="vrel" cr="vrel:w6219" w="required" l="require" p="V"/>
+     <dpg d="E3" g="w6221" t="obj" cr="" w="" l="verprolin" p="N"/>
+     <dpg d="E3" g="w6219" t="antecedent" cr="" w="" l="verprolin" p="N"/>
+     <dpg d="w6222" g="w6221" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w6223" g="w6227" t="det" cr="det:w6227" w="a" l="~" p="Det"/>
+     <dpg d="w6224" g="w6227" t="mod" cr="mod:w6227" w="polarised" l="~" p="A"/>
+     <dpg d="w6225" g="w6227" t="mod" cr="mod:w6227" w="cortical" l="~" p="A"/>
+     <dpg d="w6226" g="w6227" t="nn" cr="nn:w6227" w="actin" l="~" p="N"/>
+     <dpg d="w6227" g="w6222" t="pcomp-n" cr="mod*for*n:w6221" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w6228" g="w6227" t="punc" cr="punc:w6227" w="and" l="~" p="U"/>
+     <dpg d="w6229" g="w6227" t="conj" cr="conj:w6227" w="endocytosis" l="~" p="N"/>
+     <dpg d="w6230" g="w6229" t="punc" cr="punc:w6229" w="[" l="~" p="U"/>
+     <dpg d="w6231" g="w6229" t="num" cr="num:w6229" w="2,3" l="~" p="N"/>
+     <dpg d="w6232" g="" t="" cr="" w="]" l="~" p="U"/>
+     <dpg d="w6233" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

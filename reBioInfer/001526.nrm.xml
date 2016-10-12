@@ -1,0 +1,144 @@
+<rexml>
+<doc id="1526">
+  
+  <markup>
+   <nes>
+    <ne id="e5577" gid="g5327" t="Individual_protein" fr="w24030" to="w24037" nam="yes" sid="s1">
+     <textspan>bovine respiratory syncytial virus [..] phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1526.1"/>
+      <exattr n="nst" v="st.1526.3.0"/>
+      <exattr n="nst" v="st.1526.4.0"/>
+      <exattr n="nst" v="st.1526.5.0"/>
+      <exattr n="nst" v="st.1526.6.0"/>
+      <exattr n="nst" v="st.1526.10.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5582" gid="g5330" t="Individual_protein" fr="w24037" to="w24037" nam="yes" sid="s1">
+     <textspan>phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1526.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5581" gid="g5330" t="Individual_protein" fr="w24039" to="w24039" nam="yes" sid="s1">
+     <textspan>P</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1526.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5579" gid="g5329" t="Individual_protein" fr="w24042" to="w24052" nam="yes" sid="s1">
+     <textspan>nucleocapsid [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1526.3"/>
+      <exattr n="nst" v="st.1526.15.0"/>
+      <exattr n="nst" v="st.1526.25.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5580" gid="g5329" t="Individual_protein" fr="w24044" to="w24044" nam="yes" sid="s1">
+     <textspan>N</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1526.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5578" gid="g5328" t="Individual_protein" fr="w24047" to="w24052" nam="yes" sid="s1">
+     <textspan>large polymerase [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1526.2"/>
+      <exattr n="nst" v="st.1526.20.0"/>
+      <exattr n="nst" v="st.1526.21.0"/>
+      <exattr n="nst" v="st.1526.25.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5583" gid="g5328" t="Individual_protein" fr="w24050" to="w24050" nam="yes" sid="s1">
+     <textspan>L</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1526.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5584" gid="g5331" t="Gene/protein/RNA" fr="w24059" to="w24059" nam="yes" sid="s1">
+     <textspan>CAT</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1526.8"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2136" t="INTERACT" e1="e5577" e2="e5579" re="e5576">
+     <textspan>interaction of bovine respiratory syncytial virus ( BRSV ) phosphoprotein ( P ) with nucleocapsid ( N ) and large polymerase ( L ) proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1526.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2137" t="INTERACT" e1="e5577" e2="e5578" re="e5576">
+     <textspan>interaction of bovine respiratory syncytial virus ( BRSV ) phosphoprotein ( P ) with nucleocapsid ( N ) and large polymerase ( L ) proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1526.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

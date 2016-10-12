@@ -1,0 +1,112 @@
+<rexml>
+<doc id="1793">
+  <text>
+<p><s id="s1"><w id="w28848">The</w> <w id="w28849">viscoelasticity</w> <w id="w28850">of</w> <w id="w28851">entangled</w> <w id="w28852">actin</w> <w id="w28853">networks</w> <w id="w28854">:</w> <w id="w28855">the</w> <w id="w28856">influence</w> <w id="w28857">of</w> <w id="w28858">defects</w> <w id="w28859">and</w> <w id="w28860">modulation</w> <w id="w28861">by</w> <w id="w28862">talin</w> <w id="w28863">and</w> <w id="w28864">vinculin</w> <w id="w28865">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6670" gid="g6361" t="Physical_property" fr="w28849" to="w28853">
+     <textspan type="extent">viscoelasticity of [..] actin networks</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Physical_property"/>
+      <exattr n="bd" v="e.1793.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6671" gid="g6362" t="RELATIONSHIP_TEXTBINDING" fr="w28860" to="w28861">
+     <textspan type="extent">modulation by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1793.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6672" gid="g6363" t="Individual_protein" fr="w28864" to="w28864" nam="yes">
+     <textspan type="extent">vinculin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1793.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6673" gid="g6364" t="Individual_protein" fr="w28862" to="w28862" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1793.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6674" gid="g6365" t="Cell_component" fr="w28852" to="w28853" nam="yes">
+     <textspan type="extent">actin networks</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1793.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6675" gid="g6366" t="Individual_protein" fr="w28852" to="w28852" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1793.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6676" gid="g6367" t="Individual_protein" fr="w28852" to="w28852" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1793.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2561" t="CONTROL" e1="e6673" e2="e6670" re="e6671">
+     <textspan type="extent">viscoelasticity of entangled actin networks : the influence of defects and modulation by talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1793.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r2562" t="CONTROL" e1="e6672" e2="e6670" re="e6671">
+     <textspan type="extent">viscoelasticity of entangled actin networks : the influence of defects and modulation by talin and vinculin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1793.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

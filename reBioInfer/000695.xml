@@ -1,0 +1,96 @@
+<rexml>
+<doc id="695">
+  <text>
+<p><s id="s1"><w id="w10667">In</w> <w id="w10668">50</w> <w id="w10669">mM</w> <w id="w10670">KCl</w> <w id="w10671">,</w> <w id="w10672">high</w> <w id="w10673">concentrations</w> <w id="w10674">of</w> <w id="w10675">Acanthamoeba</w> <w id="w10676">profilin</w> <w id="w10677">inhibit</w> <w id="w10678">the</w> <w id="w10679">elongation</w> <w id="w10680">rate</w> <w id="w10681">of</w> <w id="w10682">muscle</w> <w id="w10683">actin</w> <w id="w10684">filaments</w> <w id="w10685">measured</w> <w id="w10686">directly</w> <w id="w10687">by</w> <w id="w10688">electron</w> <w id="w10689">microscopy</w> <w id="w10690">,</w> <w id="w10691">but</w> <w id="w10692">the</w> <w id="w10693">effect</w> <w id="w10694">is</w> <w id="w10695">minimal</w> <w id="w10696">in</w> <w id="w10697">KCl</w> <w id="w10698">with</w> <w id="w10699">2</w> <w id="w10700">MgCl2</w> <w id="w10701">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2500" gid="g2397" t="Amount_property" fr="w10673" to="w10676">
+     <textspan type="extent">concentrations of Acanthamoeba profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.695.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2501" gid="g2398" t="RELATIONSHIP_TEXTBINDING" fr="w10677" to="w10677">
+     <textspan type="extent">inhibit</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.695.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2502" gid="g2399" t="Individual_protein" fr="w10675" to="w10676" nam="yes">
+     <textspan type="extent">Acanthamoeba profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.695.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2503" gid="g2400" t="Dynamics_property" fr="w10680" to="w10684">
+     <textspan type="extent">rate of muscle actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.695.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2504" gid="g2401" t="Cell_component" fr="w10682" to="w10684" nam="yes">
+     <textspan type="extent">muscle actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.695.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2505" gid="g2402" t="Individual_protein" fr="w10676" to="w10676" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.695.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2506" gid="g2403" t="Individual_protein" fr="w10682" to="w10683" nam="yes">
+     <textspan type="extent">muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.695.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r958" t="SUPPRESS" e1="e2500" e2="e2503" re="e2501">
+     <textspan type="extent">concentrations of Acanthamoeba profilin inhibit the elongation rate of muscle actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.695.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

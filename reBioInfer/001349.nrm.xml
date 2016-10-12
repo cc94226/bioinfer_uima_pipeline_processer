@@ -1,0 +1,88 @@
+<rexml>
+<doc id="1349">
+  
+  <markup>
+   <nes>
+    <ne id="e4871" gid="g4651" t="Individual_protein" fr="w20998" to="w20998" nam="yes" sid="s1">
+     <textspan>CREB</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1349.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4875" gid="g4655" t="Substructure_of_protein" fr="w21000" to="w21002" nam="yes" sid="s1">
+     <textspan>domain of CBP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1349.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4876" gid="g4656" t="Individual_protein" fr="w21002" to="w21002" nam="yes" sid="s1">
+     <textspan>CBP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1349.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4873" gid="g4653" t="Individual_protein" fr="w21008" to="w21008" nam="yes" sid="s1">
+     <textspan>c-Jun</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1349.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1861" t="BIND" e1="e4875" e2="e4871" re="e4872">
+     <textspan>CREB binding domain of CBP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1349.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1862" t="BIND" e1="e4875" e2="e4873" re="e4874">
+     <textspan>domain of CBP is sufficient to contact to c-Jun</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1349.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

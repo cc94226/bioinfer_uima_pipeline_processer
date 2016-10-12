@@ -1,0 +1,142 @@
+<rexml>
+<doc id="258">
+  <text>
+<p><s id="s1"><w id="w3898">Both</w> <w id="w3899">tyrosine</w> <w id="w3900">phosphorylation</w> <w id="w3901">and</w> <w id="w3902">association</w> <w id="w3903">of</w> <w id="w3904">beta-catenin</w> <w id="w3905">with</w> <w id="w3906">EGFR</w> <w id="w3907">were</w> <w id="w3908">inhibited</w> <w id="w3909">by</w> <w id="w3910">tyrphostin</w> <w id="w3911">,</w> <w id="w3912">a</w> <w id="w3913">specific</w> <w id="w3914">inhibitor</w> <w id="w3915">of</w> <w id="w3916">the</w> <w id="w3917">EGFR</w> <w id="w3918">tyrosine</w> <w id="w3919">kinase</w> <w id="w3920">,</w> <w id="w3921">whereas</w> <w id="w3922">dissociation</w> <w id="w3923">of</w> <w id="w3924">alpha-catenin</w> <w id="w3925">from</w> <w id="w3926">E-cadherin</w> <w id="w3927">was</w> <w id="w3928">not</w> <w id="w3929">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e954" gid="g914" t="RELATIONSHIP_TEXTBINDING" fr="w3902" to="w3905">
+     <textspan type="extent">association of [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.258.0"/>
+      <exattr n="nst" v="st.258.4.0"/>
+      <exattr n="nst" v="st.258.5.0"/>
+      <exattr n="nst" v="st.258.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e955" gid="g915" t="Individual_protein" fr="w3904" to="w3904" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.258.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e956" gid="g916" t="Individual_protein" fr="w3924" to="w3924" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.258.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e957" gid="g917" t="RELATIONSHIP_TEXTBINDING" fr="w3922" to="w3925">
+     <textspan type="extent">dissociation of [..] from</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.258.3"/>
+      <exattr n="nst" v="st.258.24.0"/>
+      <exattr n="nst" v="st.258.25.0"/>
+      <exattr n="nst" v="st.258.27.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e958" gid="g918" t="Individual_protein" fr="w3917" to="w3917" nam="yes">
+     <textspan type="extent">EGFR</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.258.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e959" gid="g919" t="Individual_protein" fr="w3926" to="w3926" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.258.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e960" gid="g920" t="Protein_family_or_group" fr="w3918" to="w3919" nam="yes">
+     <textspan type="extent">tyrosine kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.258.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e961" gid="g921" t="Individual_protein" fr="w3906" to="w3906" nam="yes">
+     <textspan type="extent">EGFR</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.258.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r366" t="BIND" e1="e955" e2="e961" re="e954">
+     <textspan type="extent">association of beta-catenin with EGFR</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.258.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r367" t="MEMBER" e1="e960" e2="e958" re="">
+     <textspan type="extent">EGFR tyrosine kinase</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r368" t="UNBIND" e1="e956" e2="e959" re="e957">
+     <textspan type="extent">dissociation of alpha-catenin from E-cadherin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.258.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="UNBIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

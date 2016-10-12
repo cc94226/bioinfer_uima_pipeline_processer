@@ -1,0 +1,38 @@
+<rexml>
+<doc id="192">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2991" g="w2992" t="lex-mod" cr="lex-mod:w2992" w="At" l="~" p="U"/>
+     <dpg d="w2992" g="w2993" t="num-mod" cr="num-mod:w2993" w="least" l="At least" p="A"/>
+     <dpg d="w2993" g="w2994" t="nn" cr="nn:w2994" w="one" l="~" p="N"/>
+     <dpg d="w2994" g="w3004" t="s" cr="s:w3004||subj:w3006" w="element" l="~" p="N"/>
+     <dpg d="w2995" g="w2994" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2996" g="w3000" t="det" cr="det:w3000" w="the" l="~" p="Det"/>
+     <dpg d="w2997" g="w2999" t="lex-mod" cr="lex-mod:w2999" w="actin" l="~" p="U"/>
+     <dpg d="w2998" g="w2999" t="lex-mod" cr="lex-mod:w2999" w="-" l="~" p="U"/>
+     <dpg d="w2999" g="w3000" t="mod" cr="mod:w3000" w="binding" l="actin - binding" p="A"/>
+     <dpg d="w3000" g="w2995" t="pcomp-n" cr="mod*of*n:w2994" w="region" l="~" p="N"/>
+     <dpg d="w3001" g="w3000" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3002" g="w3003" t="mod" cr="mod:w3003" w="human" l="~" p="A"/>
+     <dpg d="w3003" g="w3001" t="pcomp-n" cr="mod*of*n:w3000" w="profilin" l="~" p="N"/>
+     <dpg d="w3004" g="E0" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="E2" g="w3006" t="subj" cr="" w="" l="element" p="N"/>
+     <dpg d="E2" g="w2994" t="antecedent" cr="" w="" l="element" p="N"/>
+     <dpg d="w3005" g="w3006" t="det" cr="det:w3006" w="an" l="~" p="Det"/>
+     <dpg d="w3006" g="w3004" t="pred" cr="pred:w3004" w="alpha-helix" l="alpha-helix" p="N"/>
+     <dpg d="w3007" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

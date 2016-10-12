@@ -1,0 +1,50 @@
+<rexml>
+<doc id="1607">
+  <text>
+<p><s id="s1"><w id="w25503">The</w> <w id="w25504">primary</w> <w id="w25505">purpose</w> <w id="w25506">of</w> <w id="w25507">this</w> <w id="w25508">study</w> <w id="w25509">was</w> <w id="w25510">to</w> <w id="w25511">determine</w> <w id="w25512">the</w> <w id="w25513">relationship</w> <w id="w25514">between</w> <w id="w25515">myosin</w> <w id="w25516">heavy</w> <w id="w25517">chain</w> <w id="w25518">(</w> <w id="w25519">MHC</w> <w id="w25520">)</w> <w id="w25521">and</w> <w id="w25522">actin</w> <w id="w25523">contents</w> <w id="w25524">and</w> <w id="w25525">maximum</w> <w id="w25526">isometric</w> <w id="w25527">tetanic</w> <w id="w25528">force</w> <w id="w25529">(</w> <w id="w25530">Po</w> <w id="w25531">)</w> <w id="w25532">in</w> <w id="w25533">mouse</w> <w id="w25534">extensor</w> <w id="w25535">digitorum</w> <w id="w25536">longus</w> <w id="w25537">(</w> <w id="w25538">EDL</w> <w id="w25539">)</w> <w id="w25540">muscles</w> <w id="w25541">following</w> <w id="w25542">eccentric</w> <w id="w25543">contraction-induced</w> <w id="w25544">injury</w> <w id="w25545">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5906" gid="g5635" t="Individual_protein" fr="w25519" to="w25519" nam="yes">
+     <textspan type="extent">MHC</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1607.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5907" gid="g5636" t="Gene/protein/RNA" fr="w25522" to="w25522" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1607.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5908" gid="g5635" t="Individual_protein" fr="w25515" to="w25517" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1607.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

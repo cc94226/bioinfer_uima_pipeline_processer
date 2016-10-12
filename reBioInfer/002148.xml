@@ -1,0 +1,208 @@
+<rexml>
+<doc id="2148">
+  <text>
+<p><s id="s1"><w id="w33460">We</w> <w id="w33461">report</w> <w id="w33462">here</w> <w id="w33463">that</w> <w id="w33464">tropomyosin</w> <w id="w33465">,</w> <w id="w33466">which</w> <w id="w33467">is</w> <w id="w33468">found</w> <w id="w33469">in</w> <w id="w33470">the</w> <w id="w33471">rootlet</w> <w id="w33472">but</w> <w id="w33473">not</w> <w id="w33474">in</w> <w id="w33475">the</w> <w id="w33476">microvillus</w> <w id="w33477">core</w> <w id="w33478">,</w> <w id="w33479">can</w> <w id="w33480">bind</w> <w id="w33481">to</w> <w id="w33482">and</w> <w id="w33483">saturate</w> <w id="w33484">the</w> <w id="w33485">actin</w> <w id="w33486">of</w> <w id="w33487">isolated</w> <w id="w33488">cores</w> <w id="w33489">,</w> <w id="w33490">and</w> <w id="w33491">can</w> <w id="w33492">cause</w> <w id="w33493">the</w> <w id="w33494">dissociation</w> <w id="w33495">of</w> <w id="w33496">up</w> <w id="w33497">to</w> <w id="w33498">30</w> <w id="w33499">%</w> <w id="w33500">of</w> <w id="w33501">the</w> <w id="w33502">villin</w> <w id="w33503">and</w> <w id="w33504">fimbrin</w> <w id="w33505">from</w> <w id="w33506">the</w> <w id="w33507">cores</w> <w id="w33508">but</w> <w id="w33509">does</w> <w id="w33510">not</w> <w id="w33511">affect</w> <w id="w33512">actin</w> <w id="w33513">binding</w> <w id="w33514">by</w> <w id="w33515">110-kD</w> <w id="w33516">calmodulin</w> <w id="w33517">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7626" gid="g7267" t="Individual_protein" fr="w33464" to="w33464" nam="yes">
+     <textspan type="extent">tropomyosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2148.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7627" gid="g7268" t="RELATIONSHIP_TEXTBINDING" fr="w33480" to="w33481">
+     <textspan type="extent">bind to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2148.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7628" gid="g7269" t="DISRUPTION" fr="w33494" to="w33502">
+     <textspan type="extent">dissociation [..] of [..] villin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Break-down"/>
+      <exattr n="t4" v="DISRUPTION"/>
+      <exattr n="bd" v="e.2148.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7629" gid="g7270" t="RELATIONSHIP_TEXTBINDING" fr="w33483" to="w33483">
+     <textspan type="extent">saturate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2148.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7630" gid="g7271" t="RELATIONSHIP_TEXTBINDING" fr="w33492" to="w33492">
+     <textspan type="extent">cause</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2148.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7631" gid="g7272" t="DISRUPTION" fr="w33494" to="w33504">
+     <textspan type="extent">dissociation [..] of [..] fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Break-down"/>
+      <exattr n="t4" v="DISRUPTION"/>
+      <exattr n="bd" v="e.2148.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7632" gid="g7273" t="RELATIONSHIP_TEXTBINDING" fr="w33513" to="w33514">
+     <textspan type="extent">binding by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2148.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7633" gid="g7274" t="RELATIONSHIP_TEXTBINDING" fr="w33510" to="w33510">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2148.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7634" gid="g7275" t="Individual_protein" fr="w33516" to="w33516" nam="yes">
+     <textspan type="extent">calmodulin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2148.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e7635" gid="g7276" t="Individual_protein" fr="w33485" to="w33485" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2148.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e7636" gid="g7277" t="Individual_protein" fr="w33512" to="w33512" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2148.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e7637" gid="g7278" t="Individual_protein" fr="w33502" to="w33502" nam="yes">
+     <textspan type="extent">villin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2148.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e7638" gid="g7279" t="Individual_protein" fr="w33504" to="w33504" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2148.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e7639" gid="g7280" t="RELATIONSHIP_TEXTBINDING" fr="w33511" to="w33511">
+     <textspan type="extent">affect</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2148.13"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2937" t="BIND" e1="e7626" e2="e7635" re="e7627">
+     <textspan type="extent">tropomyosin , which is found in the rootlet but not in the microvillus core , can bind to and saturate the actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2148.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2938" t="RELATE" e1="e7626" e2="e7635" re="e7629">
+     <textspan type="extent">tropomyosin , which is found in the rootlet but not in the microvillus core , can bind to and saturate the actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2148.3"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2939" t="CAUSE" e1="e7626" e2="e7628" re="e7630">
+     <textspan type="extent">tropomyosin , which is found in the rootlet but not in the microvillus core , can bind to and saturate the actin of isolated cores , and can cause the dissociation of up to 30 % of the villin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2148.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2940" t="CAUSE" e1="e7626" e2="e7631" re="e7630">
+     <textspan type="extent">tropomyosin , which is found in the rootlet but not in the microvillus core , can bind to and saturate the actin of isolated cores , and can cause the dissociation of up to 30 % of the villin and fimbrin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2148.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2942" t="AFFECT" e1="e7626" e2="e7632" re="e7639">
+     <textspan type="extent">tropomyosin , which is found in the rootlet but not in the microvillus core , can bind to and saturate the actin of isolated cores , and can cause the dissociation of up to 30 % of the villin and fimbrin from the cores but does not affect actin binding by 110-kD calmodulin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2148.13"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2943" t="BIND" e1="e7634" e2="e7636" re="e7632">
+     <textspan type="extent">actin binding by 110-kD calmodulin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2148.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,140 @@
+<rexml>
+<doc id="1345">
+  
+  <markup>
+   <nes>
+    <ne id="e4855" gid="g4636" t="Individual_protein" fr="w20955" to="w20955" nam="yes" sid="s1">
+     <textspan>WIP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1345.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4858" gid="g4639" t="Individual_protein" fr="w20958" to="w20958" nam="yes" sid="s1">
+     <textspan>verprolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1345.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4859" gid="g4640" t="Substructure_of_protein" fr="w20962" to="w20966" nam="yes" sid="s1">
+     <textspan>its [..] domain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1345.4"/>
+      <exattr n="nst" v="st.1345.10.0"/>
+      <exattr n="nst" v="st.1345.14.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4863" gid="g4636" t="Individual_protein" fr="w20962" to="w20962" nam="yes" sid="s1">
+     <textspan>its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1345.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e4862" gid="g4643" t="Individual_protein" fr="w20964" to="w20964" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1345.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e4865" gid="g4645" t="Individual_protein" fr="w20970" to="w20970" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1345.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e4861" gid="g4642" t="Substructure_of_protein" fr="w20972" to="w20972" nam="yes" sid="s1">
+     <textspan>domain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1345.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1854" t="BIND" e1="e4859" e2="e4862" re="e4856">
+     <textspan>its WH2 actin binding domain</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1345.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1855" t="BIND" e1="e4861" e2="e4865" re="e4864">
+     <textspan>profilin binding domain</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1345.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1857" t="SIMILAR" e1="e4855" e2="e4858" re="e4857">
+     <textspan>WIP to replace verprolin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1345.2"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

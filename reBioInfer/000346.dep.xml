@@ -1,0 +1,54 @@
+<rexml>
+<doc id="346">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w5208" g="E3" t="subcat" cr="subcat:E3" w="Consistent" l="~" p="A"/>
+     <dpg d="w5209" g="w5208" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w5210" g="w5211" t="det" cr="det:w5211" w="the" l="~" p="Det"/>
+     <dpg d="w5211" g="w5209" t="pcomp-n" cr="mod*with*n:w5208" w="observation" l="~" p="N"/>
+     <dpg d="E1" g="w5211" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5212" g="E1" t="c" cr="c:w5216" w="that" l="~" p="COMP"/>
+     <dpg d="w5213" g="w5216" t="s" cr="s+subj:w5216" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w5214" g="w5213" t="punc" cr="punc:w5213" w="and" l="~" p="U"/>
+     <dpg d="w5215" g="w5213" t="conj" cr="conj:w5213" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w5216" g="E1" t="i" cr="comp1:w5211" w="bind" l="~" p="V"/>
+     <dpg d="E4" g="w5216" t="subj" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="E4" g="w5213" t="antecedent" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="w5217" g="w5216" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w5218" g="w5220" t="det" cr="det:w5220" w="the" l="~" p="Det"/>
+     <dpg d="w5219" g="w5220" t="post" cr="post:w5220" w="same" l="~" p="PostDet"/>
+     <dpg d="w5220" g="w5217" t="pcomp-n" cr="mod*to*n:w5216" w="region" l="~" p="N"/>
+     <dpg d="w5221" g="w5220" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5222" g="w5221" t="pcomp-n" cr="mod*of*n:w5220" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w5223" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5224" g="w5225" t="s" cr="s+subj:w5225" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w5225" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="competed" l="compete" p="V"/>
+     <dpg d="E5" g="w5225" t="subj" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="E5" g="w5224" t="antecedent" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="w5226" g="w5225" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w5227" g="w5228" t="det" cr="det:w5228" w="the" l="~" p="Det"/>
+     <dpg d="w5228" g="w5226" t="pcomp-n" cr="mod*with*n:w5225" w="binding" l="~" p="N"/>
+     <dpg d="w5229" g="w5228" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5230" g="w5229" t="pcomp-n" cr="mod*of*n:w5228" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w5231" g="w5230" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w5232" g="w5231" t="pcomp-n" cr="mod*to*n:w5230" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w5233" g="w5232" t="punc" cr="punc:w5232" w="and" l="~" p="U"/>
+     <dpg d="w5234" g="w5235" t="nn" cr="nn:w5235" w="vice" l="~" p="N"/>
+     <dpg d="w5235" g="w5232" t="conj" cr="conj:w5232" w="versa" l="~" p="N"/>
+     <dpg d="w5236" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

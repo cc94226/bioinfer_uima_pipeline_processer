@@ -1,0 +1,35 @@
+<rexml>
+<doc id="710">
+  <text>
+<p><s id="s1"><w id="w10913">In</w> <w id="w10914">addition</w> <w id="w10915">to</w> <w id="w10916">their</w> <w id="w10917">role</w> <w id="w10918">in</w> <w id="w10919">mismatch</w> <w id="w10920">repair</w> <w id="w10921">(</w> <w id="w10922">MMR</w> <w id="w10923">)</w> <w id="w10924">,</w> <w id="w10925">the</w> <w id="w10926">MSH2</w> <w id="w10927">and</w> <w id="w10928">MSH3</w> <w id="w10929">gene</w> <w id="w10930">products</w> <w id="w10931">are</w> <w id="w10932">required</w> <w id="w10933">to</w> <w id="w10934">remove</w> <w id="w10935">3'</w> <w id="w10936">nonhomologous</w> <w id="w10937">DNA</w> <w id="w10938">tails</w> <w id="w10939">during</w> <w id="w10940">genetic</w> <w id="w10941">recombination</w> <w id="w10942">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2555" gid="g2449" t="Gene/protein/RNA" fr="w10926" to="w10926" nam="yes">
+     <textspan type="extent">MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.710.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2556" gid="g2450" t="Gene/protein/RNA" fr="w10928" to="w10928" nam="yes">
+     <textspan type="extent">MSH3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.710.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

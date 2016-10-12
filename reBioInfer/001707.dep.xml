@@ -1,0 +1,46 @@
+<rexml>
+<doc id="1707">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w27227" g="w27228" t="det" cr="det:w27228" w="These" l="~" p="Det"/>
+     <dpg d="w27228" g="w27229" t="s" cr="s:w27229||subj:w27230" w="phenotypes" l="phenotype" p="N"/>
+     <dpg d="w27229" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="are" l="be" p="VBE"/>
+     <dpg d="w27230" g="w27229" t="pred" cr="pred:w27229" w="similar" l="~" p="A"/>
+     <dpg d="E4" g="w27230" t="subj" cr="" w="" l="phenotype" p="N"/>
+     <dpg d="E4" g="w27228" t="antecedent" cr="" w="" l="phenotype" p="N"/>
+     <dpg d="w27231" g="w27230" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w27232" g="w27231" t="pcomp-n" cr="mod*to*n:w27230" w="those" l="~" p="N"/>
+     <dpg d="w27233" g="w27232" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w27234" g="w27235" t="det" cr="det:w27235" w="the" l="~" p="Det"/>
+     <dpg d="w27235" g="w27233" t="pcomp-n" cr="mod*of*n:w27232" w="mutant" l="~" p="N"/>
+     <dpg d="w27236" g="w27235" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w27237" g="w27236" t="pcomp-n" cr="mod*of*n:w27235||subj:w27240" w="PFY1" l="~" p="N"/>
+     <dpg d="w27238" g="w27237" t="punc" cr="punc:w27237" w="," l="~" p="U"/>
+     <dpg d="E0" g="w27237" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w27239" g="E0" t="whn" cr="whn:w27240" w="which" l="~" p="N"/>
+     <dpg d="w27239" g="w27237" t="antecedent" cr="antecedent:w27237" w="which" l="~" p="N"/>
+     <dpg d="w27240" g="E0" t="i" cr="rel:w27237" w="encodes" l="encode" p="V"/>
+     <dpg d="E5" g="w27240" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E5" g="w27237" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w27241" g="w27240" t="obj" cr="obj:w27240" w="profilin" l="~" p="N"/>
+     <dpg d="w27242" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w27243" g="w27245" t="det" cr="det:w27245" w="an" l="~" p="Det"/>
+     <dpg d="w27244" g="w27245" t="mod" cr="mod:w27245" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w27245" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="protein" l="~" p="N"/>
+     <dpg d="w27246" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

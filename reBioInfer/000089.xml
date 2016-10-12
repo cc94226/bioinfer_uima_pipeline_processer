@@ -1,0 +1,257 @@
+<rexml>
+<doc id="89">
+  <text>
+<p><s id="s1"><w id="w1442">Although</w> <w id="w1443">talin</w> <w id="w1444">has</w> <w id="w1445">been</w> <w id="w1446">suggested</w> <w id="w1447">to</w> <w id="w1448">act</w> <w id="w1449">as</w> <w id="w1450">a</w> <w id="w1451">linkage</w> <w id="w1452">protein</w> <w id="w1453">mediating</w> <w id="w1454">the</w> <w id="w1455">attachment</w> <w id="w1456">of</w> <w id="w1457">GP</w><w id="w1458">IIb</w><w id="w1459">-</w><w id="w1460">IIIa</w> <w id="w1461">to</w> <w id="w1462">actin</w> <w id="w1463">filaments</w> <w id="w1464">,</w> <w id="w1465">direct</w> <w id="w1466">binding</w> <w id="w1467">of</w> <w id="w1468">GP</w><w id="w1469">IIb</w><w id="w1470">-</w><w id="w1471">IIIa</w> <w id="w1472">to</w> <w id="w1473">this</w> <w id="w1474">cytoskeletal</w> <w id="w1475">protein</w> <w id="w1476">has</w> <w id="w1477">not</w> <w id="w1478">been</w> <w id="w1479">demonstrated</w> <w id="w1480">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e365" gid="g354" t="Individual_protein" fr="w1443" to="w1443" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.89.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e366" gid="g355" t="RELATIONSHIP_TEXTBINDING" fr="w1455" to="w1461">
+     <textspan type="extent">attachment of [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.89.1"/>
+      <exattr n="nst" v="st.89.13.0"/>
+      <exattr n="nst" v="st.89.14.0"/>
+      <exattr n="nst" v="st.89.16.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e367" gid="g356" t="Cell_component" fr="w1462" to="w1463" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.89.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e368" gid="g357" t="RELATIONSHIP_TEXTBINDING" fr="w1453" to="w1453">
+     <textspan type="extent">mediating</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.89.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e369" gid="g358" t="Individual_protein" fr="w1457" to="w1460" nam="yes">
+     <textspan type="extent">GP [..] IIIa</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.89.4"/>
+      <exattr n="nst" v="st.89.15.0"/>
+      <exattr n="nst" v="st.89.15.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e370" gid="g359" t="RELATIONSHIP_TEXTBINDING" fr="w1466" to="w1472">
+     <textspan type="extent">binding of [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.89.5"/>
+      <exattr n="nst" v="st.89.21.0"/>
+      <exattr n="nst" v="st.89.22.0"/>
+      <exattr n="nst" v="st.89.24.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e371" gid="g360" t="Individual_protein" fr="w1473" to="w1475" nam="yes">
+     <textspan type="extent">this [..] protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.89.6"/>
+      <exattr n="nst" v="st.89.25.0"/>
+      <exattr n="nst" v="st.89.27.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e372" gid="g361" t="Individual_protein" fr="w1468" to="w1471" nam="yes">
+     <textspan type="extent">GP [..] IIIa</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.89.7"/>
+      <exattr n="nst" v="st.89.23.0"/>
+      <exattr n="nst" v="st.89.23.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e373" gid="g354" t="Individual_protein" fr="w1473" to="w1473" nam="yes">
+     <textspan type="extent">this</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.89.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e374" gid="g362" t="Individual_protein" fr="w1457" to="w1458" nam="yes">
+     <textspan type="extent">GPIIb</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.89.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e375" gid="g363" t="Protein_complex" fr="w1468" to="w1471" nam="yes">
+     <textspan type="extent">GPIIb-IIIa</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.89.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e376" gid="g364" t="Protein_complex" fr="w1457" to="w1460" nam="yes">
+     <textspan type="extent">GPIIb-IIIa</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.89.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e377" gid="g365" t="Individual_protein" fr="w1462" to="w1462" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.89.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e378" gid="g366" t="Individual_protein" fr="w1468" to="w1469" nam="yes">
+     <textspan type="extent">GPIIb</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.89.13"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r130" t="MEDIATE" e1="e365" e2="e366" re="e368">
+     <textspan type="extent">talin has been suggested to act as a linkage protein mediating the attachment of GP IIb - IIIa to actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.89.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r131" t="ATTACH" e1="e376" e2="e367" re="e366">
+     <textspan type="extent">attachment of GP IIb - IIIa to actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.89.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="ATTACH"/>
+     </exattrs>
+    </rel>
+    <rel id="r132" t="BIND" e1="e375" e2="e371" re="e370">
+     <textspan type="extent">binding of GP IIb - IIIa to this cytoskeletal protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.89.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r133" t="CONTAIN" e1="e376" e2="e374" re="">
+     <textspan type="extent">GP IIb - IIIa</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r134" t="CONTAIN" e1="e376" e2="e369" re="">
+     <textspan type="extent">GP IIb - IIIa</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r135" t="CONTAIN" e1="e375" e2="e378" re="">
+     <textspan type="extent">GP IIb - IIIa</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r136" t="CONTAIN" e1="e375" e2="e372" re="">
+     <textspan type="extent">GP IIb - IIIa</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

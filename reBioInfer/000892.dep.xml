@@ -1,0 +1,45 @@
+<rexml>
+<doc id="892">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13976" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w13977" g="w13978" t="mod" cr="mod:w13978" w="viscometric" l="~" p="A"/>
+     <dpg d="w13978" g="w13976" t="pcomp-n" cr="mod*in*n:w13984" w="assays" l="assay" p="N"/>
+     <dpg d="w13979" g="E1" t="punc" cr="punc:w13984" w="," l="~" p="U"/>
+     <dpg d="w13980" g="w13982" t="det" cr="det:w13982" w="the" l="~" p="Det"/>
+     <dpg d="w13981" g="w13982" t="mod" cr="mod:w13982" w="birch" l="~" p="A"/>
+     <dpg d="w13982" g="w13984" t="s" cr="s+obj:w13984||s+subj:w13986" w="protein" l="~" p="N"/>
+     <dpg d="w13983" g="w13984" t="be" cr="be:w13984" w="was" l="be" p="be"/>
+     <dpg d="w13984" g="E1" t="i" cr="" w="seen" l="see" p="V"/>
+     <dpg d="E4" g="w13984" t="obj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E4" g="w13982" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="E0" g="w13984" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w13982" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w13985" g="w13986" t="aux" cr="aux:w13986" w="to" l="~" p="Aux"/>
+     <dpg d="w13986" g="E0" t="i" cr="mod:w13984" w="modulate" l="~" p="V"/>
+     <dpg d="E5" g="w13986" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w13987" g="w13989" t="nn" cr="nn:w13989" w="actin" l="~" p="N"/>
+     <dpg d="w13988" g="w13989" t="nn" cr="nn:w13989" w="filament" l="~" p="N"/>
+     <dpg d="w13989" g="w13986" t="obj" cr="obj:w13986" w="formation" l="~" p="N"/>
+     <dpg d="w13990" g="w13989" t="pnmod" cr="pnmod:w13989" w="analogous" l="~" p="A"/>
+     <dpg d="w13991" g="w13990" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w13992" g="w13993" t="mod" cr="mod:w13993" w="animal" l="~" p="A"/>
+     <dpg d="w13993" g="w13991" t="pcomp-n" cr="mod*to*n:w13990" w="profilin" l="~" p="N"/>
+     <dpg d="w13994" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

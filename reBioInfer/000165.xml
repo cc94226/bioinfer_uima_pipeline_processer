@@ -1,0 +1,204 @@
+<rexml>
+<doc id="165">
+  <text>
+<p><s id="s1"><w id="w2692">As</w> <w id="w2693">a</w> <w id="w2694">consequence</w> <w id="w2695">,</w> <w id="w2696">in</w> <w id="w2697">the</w> <w id="w2698">presence</w> <w id="w2699">of</w> <w id="w2700">thymosin</w> <w id="w2701">beta</w> <w id="w2702">4</w> <w id="w2703">(</w> <w id="w2704">T</w> <w id="w2705">beta</w> <w id="w2706">4</w> <w id="w2707">)</w> <w id="w2708">,</w> <w id="w2709">low</w> <w id="w2710">amounts</w> <w id="w2711">of</w> <w id="w2712">profilin</w> <w id="w2713">promote</w> <w id="w2714">extensive</w> <w id="w2715">actin</w> <w id="w2716">assembly</w> <w id="w2717">off</w> <w id="w2718">of</w> <w id="w2719">the</w> <w id="w2720">pool</w> <w id="w2721">of</w> <w id="w2722">actin</w><w id="w2723">-</w><w id="w2724">T</w> <w id="w2725">beta</w> <w id="w2726">4</w> <w id="w2727">complex</w> <w id="w2728">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e657" gid="g635" t="Individual_protein" fr="w2700" to="w2702" nam="yes">
+     <textspan type="extent">thymosin beta 4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.165.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e658" gid="g636" t="RELATIONSHIP_TEXTBINDING" fr="w2713" to="w2713">
+     <textspan type="extent">promote</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.165.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e659" gid="g637" t="RELATIONSHIP_TEXTBINDING" fr="w2696" to="w2699">
+     <textspan type="extent">in the presence of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.165.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e660" gid="g638" t="Amount_property" fr="w2710" to="w2712">
+     <textspan type="extent">amounts of profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.165.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e661" gid="g639" t="Individual_protein" fr="w2724" to="w2726" nam="yes">
+     <textspan type="extent">T beta 4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.165.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e662" gid="g640" t="RELATIONSHIP_TEXTBINDING" fr="w2717" to="w2718">
+     <textspan type="extent">off of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.165.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e663" gid="g641" t="Protein_complex" fr="w2722" to="w2727" nam="yes">
+     <textspan type="extent">actin-T beta 4 complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.165.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e664" gid="g635" t="Individual_protein" fr="w2704" to="w2706" nam="yes">
+     <textspan type="extent">T beta 4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.165.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e665" gid="g642" t="Amount_property" fr="w2720" to="w2727">
+     <textspan type="extent">pool of actin-T beta 4 complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.165.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e666" gid="g643" t="ASSEMBLY" fr="w2715" to="w2716">
+     <textspan type="extent">actin assembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.165.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e667" gid="g644" t="RELATIONSHIP_TEXTBINDING" fr="w2727" to="w2727">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.165.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e668" gid="g645" t="Individual_protein" fr="w2712" to="w2712" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.165.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e669" gid="g646" t="Individual_protein" fr="w2715" to="w2715" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.165.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e670" gid="g647" t="Individual_protein" fr="w2722" to="w2722" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.165.13"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r246" t="PRESENCE" e1="e657" e2="e658" re="e659">
+     <textspan type="extent">in the presence of thymosin beta 4 ( T beta 4 ) , low amounts of profilin promote extensive actin assembly</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.165.2"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="PRESENCE"/>
+     </exattrs>
+    </rel>
+    <rel id="r247" t="STIMULATE" e1="e660" e2="e666" re="e658">
+     <textspan type="extent">amounts of profilin promote extensive actin assembly</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.165.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r248" t="CONTAIN" e1="e663" e2="e670" re="e667">
+     <textspan type="extent">actin - T beta 4 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.165.10"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r249" t="CONTAIN" e1="e663" e2="e661" re="e667">
+     <textspan type="extent">actin - T beta 4 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.165.10"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r250" t="RELATE" e1="e666" e2="e665" re="e662">
+     <textspan type="extent">actin assembly off of the pool of actin - T beta 4 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.165.5"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

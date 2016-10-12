@@ -1,0 +1,47 @@
+<rexml>
+<doc id="303">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w4665" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w4685" w="Changes" l="change" p="N"/>
+     <dpg d="w4666" g="w4665" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w4667" g="w4668" t="mod" cr="mod:w4668" w="beta-catenin" l="beta-catenin" p="A"/>
+     <dpg d="w4668" g="w4666" t="pcomp-n" cr="mod*in*n:w4665" w="binding" l="~" p="N"/>
+     <dpg d="w4669" g="w4668" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w4670" g="w4669" t="pcomp-n" cr="mod*to*n:w4668" w="cadherin" l="~" p="N"/>
+     <dpg d="w4671" g="w4670" t="punc" cr="punc:w4670" w="or" l="~" p="U"/>
+     <dpg d="w4672" g="w4673" t="nn" cr="nn:w4673" w="APC" l="~" p="N"/>
+     <dpg d="w4673" g="w4670" t="conj" cr="conj:w4670" w="protein" l="~" p="N"/>
+     <dpg d="w4674" g="w4673" t="punc" cr="punc:w4673" w="," l="~" p="U"/>
+     <dpg d="w4675" g="w4673" t="punc" cr="punc:w4673" w="and" l="~" p="U"/>
+     <dpg d="w4676" g="w4678" t="det" cr="det:w4678" w="the" l="~" p="Det"/>
+     <dpg d="w4677" g="w4678" t="mod" cr="mod:w4678" w="ensuing" l="~" p="A"/>
+     <dpg d="w4678" g="w4673" t="conj" cr="conj:w4673" w="effects" l="effect" p="N"/>
+     <dpg d="w4679" g="w4678" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w4680" g="w4681" t="nn" cr="nn:w4681" w="cell" l="~" p="N"/>
+     <dpg d="w4681" g="w4679" t="pcomp-n" cr="mod*on*n:w4678" w="morphology" l="~" p="N"/>
+     <dpg d="w4682" g="w4681" t="punc" cr="punc:w4681" w="and" l="~" p="U"/>
+     <dpg d="w4683" g="w4681" t="conj" cr="conj:w4681" w="adhesion" l="~" p="N"/>
+     <dpg d="w4684" g="E1" t="punc" cr="punc:w4685" w="," l="~" p="U"/>
+     <dpg d="w4685" g="E1" t="i" cr="" w="are" l="be" p="VBE"/>
+     <dpg d="w4686" g="w4685" t="pred" cr="pred:w4685" w="independent" l="~" p="A"/>
+     <dpg d="w4687" g="w4686" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4688" g="w4689" t="mod" cr="mod:w4689" w="beta-catenin" l="beta-catenin" p="A"/>
+     <dpg d="w4689" g="w4687" t="pcomp-n" cr="mod*of*n:w4686" w="binding" l="~" p="N"/>
+     <dpg d="w4690" g="w4689" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w4691" g="w4690" t="pcomp-n" cr="mod*to*n:w4689" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w4692" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

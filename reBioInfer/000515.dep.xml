@@ -1,0 +1,57 @@
+<rexml>
+<doc id="515">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7124" g="E2" t="mod" cr="" w="From" l="~" p="Prep"/>
+     <dpg d="w7125" g="w7126" t="mod" cr="mod:w7126" w="previous" l="~" p="A"/>
+     <dpg d="w7126" g="w7124" t="pcomp-n" cr="mod*from*n:w7138" w="work" l="~" p="N"/>
+     <dpg d="w7127" g="w7126" t="punc" cr="punc:w7126" w="," l="~" p="U"/>
+     <dpg d="w7128" g="w7129" t="det" cr="det:w7129" w="the" l="~" p="Det"/>
+     <dpg d="w7129" g="w7126" t="conj" cr="conj:w7126" w="BNI1" l="~" p="N"/>
+     <dpg d="w7130" g="w7129" t="punc" cr="punc:w7129" w="," l="~" p="U"/>
+     <dpg d="w7131" g="w7129" t="conj" cr="conj:w7129" w="GIC1" l="~" p="N"/>
+     <dpg d="w7132" g="w7131" t="punc" cr="punc:w7131" w="," l="~" p="U"/>
+     <dpg d="w7133" g="w7131" t="punc" cr="punc:w7131" w="and" l="~" p="U"/>
+     <dpg d="w7134" g="w7131" t="conj" cr="conj:w7131" w="GIC2" l="~" p="N"/>
+     <dpg d="w7135" g="w7136" t="nn" cr="nn:w7136" w="gene" l="~" p="N"/>
+     <dpg d="w7136" g="w7138" t="s" cr="s+subj:w7138||s+obj:w7141||s+subj:w7143" w="products" l="product" p="N"/>
+     <dpg d="w7137" g="w7138" t="amod" cr="amod:w7138" w="also" l="~" p="A"/>
+     <dpg d="w7138" g="E2" t="i" cr="" w="appear" l="~" p="V"/>
+     <dpg d="E6" g="w7138" t="subj" cr="" w="" l="product" p="N"/>
+     <dpg d="E6" g="w7136" t="antecedent" cr="" w="" l="product" p="N"/>
+     <dpg d="E1" g="w7138" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w7136" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w7139" g="w7141" t="aux" cr="aux:w7141" w="to" l="~" p="Aux"/>
+     <dpg d="w7140" g="w7141" t="be" cr="be:w7141" w="be" l="~" p="Be"/>
+     <dpg d="w7141" g="E1" t="i" cr="mod:w7138" w="involved" l="involve" p="V"/>
+     <dpg d="E7" g="w7141" t="obj" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w7142" g="w7141" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="E0" g="w7142" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w7143" g="E0" t="i" cr="mod*in*c:w7141" w="linking" l="link" p="V"/>
+     <dpg d="E8" g="w7143" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w7144" g="w7143" t="obj" cr="obj:w7143" w="Cdc42p" l="~" p="N"/>
+     <dpg d="w7145" g="w7144" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w7146" g="w7148" t="det" cr="det:w7148" w="the" l="~" p="Det"/>
+     <dpg d="w7147" g="w7148" t="nn" cr="nn:w7148" w="actin" l="~" p="N"/>
+     <dpg d="w7148" g="w7145" t="pcomp-n" cr="mod*to*n:w7144" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w7149" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

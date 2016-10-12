@@ -1,0 +1,83 @@
+<rexml>
+<doc id="1460">
+  <text>
+<p><s id="s1"><w id="w22926">The</w> <w id="w22927">distribution</w> <w id="w22928">of</w> <w id="w22929">actin</w> <w id="w22930">filaments</w> <w id="w22931">is</w> <w id="w22932">altered</w> <w id="w22933">by</w> <w id="w22934">profilin</w> <w id="w22935">overexpression</w> <w id="w22936">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5297" gid="g5053" t="LOCALIZATION" fr="w22927" to="w22930">
+     <textspan type="extent">distribution of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.1460.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5298" gid="g5054" t="RELATIONSHIP_TEXTBINDING" fr="w22932" to="w22933">
+     <textspan type="extent">altered by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1460.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5299" gid="g5055" t="Cell_component" fr="w22929" to="w22930" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1460.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5300" gid="g5056" t="Expression" fr="w22934" to="w22935">
+     <textspan type="extent">profilin overexpression</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.1460.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5301" gid="g5057" t="Individual_protein" fr="w22934" to="w22934" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1460.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5302" gid="g5058" t="Individual_protein" fr="w22929" to="w22929" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1460.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2047" t="AFFECT" e1="e5300" e2="e5297" re="e5298">
+     <textspan type="extent">distribution of actin filaments is altered by profilin overexpression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1460.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

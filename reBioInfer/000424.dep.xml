@@ -1,0 +1,38 @@
+<rexml>
+<doc id="424">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w6094" g="" t="" cr="" w="Effects" l="effect" p="N"/>
+     <dpg d="w6095" g="w6094" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6096" g="w6095" t="pcomp-n" cr="mod*of*n:w6094" w="mutations" l="mutation" p="N"/>
+     <dpg d="w6097" g="w6096" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6098" g="w6097" t="pcomp-n" cr="mod*of*n:w6096" w="RAD50" l="~" p="N"/>
+     <dpg d="w6099" g="w6098" t="punc" cr="punc:w6098" w="," l="~" p="U"/>
+     <dpg d="w6100" g="w6098" t="conj" cr="conj:w6098" w="RAD51" l="~" p="N"/>
+     <dpg d="w6101" g="w6100" t="punc" cr="punc:w6100" w="," l="~" p="U"/>
+     <dpg d="w6102" g="w6100" t="conj" cr="conj:w6100" w="RAD52" l="~" p="N"/>
+     <dpg d="w6103" g="w6102" t="punc" cr="punc:w6102" w="," l="~" p="U"/>
+     <dpg d="w6104" g="w6102" t="punc" cr="punc:w6102" w="and" l="~" p="U"/>
+     <dpg d="w6105" g="w6106" t="mod" cr="mod:w6106" w="related" l="~" p="A"/>
+     <dpg d="w6106" g="w6102" t="conj" cr="conj:w6102" w="genes" l="gene" p="N"/>
+     <dpg d="w6107" g="w6100" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w6108" g="w6109" t="mod" cr="mod:w6109" w="illegitimate" l="~" p="A"/>
+     <dpg d="w6109" g="w6107" t="pcomp-n" cr="mod*on*n:w6100" w="recombination" l="~" p="N"/>
+     <dpg d="w6110" g="w6109" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w6111" g="w6112" t="lex-mod" cr="lex-mod:w6112" w="Saccharomyces" l="~" p="U"/>
+     <dpg d="w6112" g="w6110" t="pcomp-n" cr="mod*in*n:w6109" w="cerevisiae" l="Saccharomyces cerevisiae" p="N"/>
+     <dpg d="w6113" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

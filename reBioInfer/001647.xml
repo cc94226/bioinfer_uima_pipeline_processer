@@ -1,0 +1,147 @@
+<rexml>
+<doc id="1647">
+  <text>
+<p><s id="s1"><w id="w26255">The</w> <w id="w26256">resulting</w> <w id="w26257">profilin</w> <w id="w26258">II</w><w id="w26259">-peptide</w> <w id="w26260">complex</w> <w id="w26261">overcomes</w> <w id="w26262">the</w> <w id="w26263">combined</w> <w id="w26264">capacity</w> <w id="w26265">of</w> <w id="w26266">thymosin</w> <w id="w26267">beta4</w> <w id="w26268">and</w> <w id="w26269">profilin</w> <w id="w26270">II</w> <w id="w26271">to</w> <w id="w26272">inhibit</w> <w id="w26273">actin</w> <w id="w26274">nucleation</w> <w id="w26275">and</w> <w id="w26276">restores</w> <w id="w26277">the</w> <w id="w26278">extent</w> <w id="w26279">of</w> <w id="w26280">filament</w> <w id="w26281">formation</w> <w id="w26282">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6053" gid="g5773" t="Protein_complex" fr="w26257" to="w26260" nam="yes">
+     <textspan type="extent">profilin II-peptide complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1647.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6054" gid="g5774" t="RELATIONSHIP_TEXTBINDING" fr="w26272" to="w26272">
+     <textspan type="extent">inhibit</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1647.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6055" gid="g5775" t="Individual_protein" fr="w26269" to="w26270" nam="yes">
+     <textspan type="extent">profilin II</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1647.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6056" gid="g5776" t="RELATIONSHIP_TEXTBINDING" fr="w26261" to="w26261">
+     <textspan type="extent">overcomes</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1647.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6057" gid="g5777" t="ASSEMBLY" fr="w26273" to="w26274">
+     <textspan type="extent">actin nucleation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1647.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6058" gid="g5778" t="Individual_protein" fr="w26257" to="w26258" nam="yes">
+     <textspan type="extent">profilin II</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1647.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6059" gid="g5779" t="Individual_protein" fr="w26266" to="w26267" nam="yes">
+     <textspan type="extent">thymosin beta4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1647.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6060" gid="g5780" t="Individual_protein" fr="w26273" to="w26273" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1647.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2307" t="HALT" e1="e6053" e2="e6054" re="e6056">
+     <textspan type="extent">profilin II -peptide complex overcomes the combined capacity of thymosin beta4 and profilin II to inhibit actin nucleation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1647.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Full-Stop"/>
+      <exattr n="t5" v="HALT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2308" t="SUPPRESS" e1="e6059" e2="e6057" re="e6054">
+     <textspan type="extent">thymosin beta4 and profilin II to inhibit actin nucleation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1647.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r2309" t="HALT" e1="e6053" e2="e6054" re="e6056">
+     <textspan type="extent">profilin II -peptide complex overcomes the combined capacity of thymosin beta4 and profilin II to inhibit actin nucleation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1647.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Full-Stop"/>
+      <exattr n="t5" v="HALT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2310" t="SUPPRESS" e1="e6055" e2="e6057" re="e6054">
+     <textspan type="extent">profilin II to inhibit actin nucleation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1647.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

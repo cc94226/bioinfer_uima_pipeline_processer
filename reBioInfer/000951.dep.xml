@@ -1,0 +1,73 @@
+<rexml>
+<doc id="951">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14767" g="w14770" t="s" cr="s+subj:w14770" w="Loss" l="~" p="N"/>
+     <dpg d="w14768" g="w14767" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w14769" g="w14768" t="pcomp-n" cr="mod*of*n:w14767" w="normal" l="~" p="N"/>
+     <dpg d="w14770" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="surface" l="~" p="V"/>
+     <dpg d="E4" g="w14770" t="subj" cr="" w="" l="loss" p="N"/>
+     <dpg d="E4" g="w14767" t="antecedent" cr="" w="" l="loss" p="N"/>
+     <dpg d="w14771" g="w14770" t="obj" cr="obj:w14770" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w14772" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14773" g="w14780" t="s" cr="s+obj:w14780" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w14774" g="w14773" t="punc" cr="punc:w14773" w="," l="~" p="U"/>
+     <dpg d="w14775" g="w14773" t="conj" cr="conj:w14773" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w14776" g="w14775" t="punc" cr="punc:w14775" w="and" l="~" p="U"/>
+     <dpg d="w14777" g="w14778" t="mod" cr="mod:w14778" w="gamma-catenin" l="gamma-catenin" p="A"/>
+     <dpg d="w14778" g="w14775" t="conj" cr="conj:w14775" w="expression" l="~" p="N"/>
+     <dpg d="w14779" g="w14780" t="be" cr="be:w14780" w="was" l="be" p="be"/>
+     <dpg d="w14780" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="found" l="find" p="V"/>
+     <dpg d="E5" g="w14780" t="obj" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="E5" g="w14773" t="antecedent" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="w14781" g="w14780" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w14782" g="w14787" t="nn" cr="nn:w14787" w="52/68" l="~" p="N"/>
+     <dpg d="w14783" g="w14787" t="punc" cr="punc:w14787" w="(" l="~" p="U"/>
+     <dpg d="w14784" g="w14785" t="lex-mod" cr="lex-mod:w14785" w="76.4" l="~" p="U"/>
+     <dpg d="w14785" g="w14787" t="nn" cr="nn:w14787" w="%" l="76.4 %" p="N"/>
+     <dpg d="w14786" g="w14787" t="punc" cr="punc:w14787" w=")" l="~" p="U"/>
+     <dpg d="w14787" g="w14781" t="pcomp-n" cr="mod*in*n:w14780" w="tumors" l="tumor" p="N"/>
+     <dpg d="w14788" g="w14787" t="punc" cr="punc:w14787" w="," l="~" p="U"/>
+     <dpg d="w14789" g="w14794" t="nn" cr="nn:w14794" w="57/68" l="~" p="N"/>
+     <dpg d="w14790" g="w14794" t="punc" cr="punc:w14794" w="(" l="~" p="U"/>
+     <dpg d="w14791" g="w14792" t="lex-mod" cr="lex-mod:w14792" w="83.8" l="~" p="U"/>
+     <dpg d="w14792" g="w14794" t="nn" cr="nn:w14794" w="%" l="83.8 %" p="N"/>
+     <dpg d="w14793" g="w14794" t="punc" cr="punc:w14794" w=")" l="~" p="U"/>
+     <dpg d="w14794" g="w14787" t="conj" cr="conj:w14787" w="tumors" l="tumor" p="N"/>
+     <dpg d="w14795" g="w14794" t="punc" cr="punc:w14794" w="," l="~" p="U"/>
+     <dpg d="w14796" g="w14801" t="nn" cr="nn:w14801" w="54/68" l="~" p="N"/>
+     <dpg d="w14797" g="w14801" t="punc" cr="punc:w14801" w="(" l="~" p="U"/>
+     <dpg d="w14798" g="w14799" t="lex-mod" cr="lex-mod:w14799" w="79.4" l="~" p="U"/>
+     <dpg d="w14799" g="w14801" t="nn" cr="nn:w14801" w="%" l="79.4 %" p="N"/>
+     <dpg d="w14800" g="w14801" t="punc" cr="punc:w14801" w=")" l="~" p="U"/>
+     <dpg d="w14801" g="w14794" t="conj" cr="conj:w14794" w="tumors" l="tumor" p="N"/>
+     <dpg d="w14802" g="w14801" t="punc" cr="punc:w14801" w="and" l="~" p="U"/>
+     <dpg d="w14803" g="w14801" t="conj" cr="conj:w14801" w="54/68" l="~" p="N"/>
+     <dpg d="w14804" g="E3" t="punc" cr="punc:E3" w="(" l="~" p="U"/>
+     <dpg d="w14805" g="w14806" t="lex-mod" cr="lex-mod:w14806" w="79.4" l="~" p="U"/>
+     <dpg d="w14806" g="w14810" t="nn" cr="nn:w14810" w="%" l="79.4 %" p="N"/>
+     <dpg d="w14807" g="w14810" t="punc" cr="punc:w14810" w=")" l="~" p="U"/>
+     <dpg d="w14808" g="w14810" t="nn" cr="nn:w14810" w="tumors" l="tumor" p="N"/>
+     <dpg d="w14809" g="w14810" t="punc" cr="punc:w14810" w="(" l="~" p="U"/>
+     <dpg d="w14810" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="p" l="~" p="N"/>
+     <dpg d="w14811" g="E3" t="punc" cr="punc:E3" w="&lt;" l="~" p="U"/>
+     <dpg d="w14812" g="E3" t="subcat" cr="subcat:E3" w="0.001" l="~" p="N"/>
+     <dpg d="w14813" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w14814" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

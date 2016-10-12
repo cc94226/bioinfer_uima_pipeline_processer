@@ -1,0 +1,83 @@
+<rexml>
+<doc id="232">
+  <text>
+<p><s id="s1"><w id="w3461">Biochemical</w> <w id="w3462">complementation</w> <w id="w3463">experiments</w> <w id="w3464">also</w> <w id="w3465">indicate</w> <w id="w3466">that</w> <w id="w3467">the</w> <w id="w3468">PRP9</w> <w id="w3469">and</w> <w id="w3470">PRP11</w> <w id="w3471">proteins</w> <w id="w3472">interact</w> <w id="w3473">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e829" gid="g799" t="Individual_protein" fr="w3468" to="w3471" nam="yes">
+     <textspan type="extent">PRP9 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.232.0"/>
+      <exattr n="nst" v="st.232.7.0"/>
+      <exattr n="nst" v="st.232.10.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e830" gid="g800" t="RELATIONSHIP_TEXTBINDING" fr="w3472" to="w3472">
+     <textspan type="extent">interact</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.232.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e831" gid="g801" t="Individual_protein" fr="w3470" to="w3471" nam="yes">
+     <textspan type="extent">PRP11 proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.232.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e832" gid="g802" t="Individual_protein" fr="w3468" to="w3468" nam="yes">
+     <textspan type="extent">PRP9</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.232.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e833" gid="g803" t="Individual_protein" fr="w3470" to="w3470" nam="yes">
+     <textspan type="extent">PRP11</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.232.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r313" t="INTERACT" e1="e829" e2="e831" re="e830">
+     <textspan type="extent">PRP9 and PRP11 proteins interact</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.232.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,58 @@
+<rexml>
+<doc id="712">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10980" g="E2" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w10981" g="w10980" t="pcomp-n" cr="mod*in*n:w10985" w="addition" l="~" p="N"/>
+     <dpg d="w10982" g="E2" t="punc" cr="punc:w10985" w="," l="~" p="U"/>
+     <dpg d="w10983" g="w10985" t="s" cr="s+subj:w10985" w="we" l="~" p="N"/>
+     <dpg d="w10984" g="w10985" t="mod-before" cr="mod-before:w10985" w="also" l="~" p="A"/>
+     <dpg d="w10985" g="E2" t="i" cr="" w="provide" l="~" p="V"/>
+     <dpg d="E5" g="w10985" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E5" g="w10983" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w10986" g="w10987" t="mod" cr="mod:w10987" w="new" l="~" p="A"/>
+     <dpg d="w10987" g="w10985" t="obj" cr="obj:w10985||s+subj:w10989" w="evidence" l="~" p="N"/>
+     <dpg d="E1" g="w10987" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w10987" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w10988" g="w10989" t="aux" cr="aux:w10989" w="to" l="~" p="Aux"/>
+     <dpg d="w10989" g="E1" t="i" cr="rel:w10987" w="suggest" l="~" p="V"/>
+     <dpg d="E6" g="w10989" t="subj" cr="" w="" l="evidence" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="evidence" p="N"/>
+     <dpg d="E0" g="w10989" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10990" g="E0" t="c" cr="c:w10997" w="that" l="~" p="COMP"/>
+     <dpg d="w10991" g="w10992" t="nn" cr="nn:w10992" w="HRG" l="~" p="N"/>
+     <dpg d="w10992" g="w10997" t="s" cr="s+subj:w10997" w="stimulation" l="~" p="N"/>
+     <dpg d="w10993" g="w10992" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10994" g="w10996" t="det" cr="det:w10996" w="the" l="~" p="Det"/>
+     <dpg d="w10995" g="w10996" t="nn" cr="nn:w10996" w="EF-1alpha" l="EF-1alpha" p="N"/>
+     <dpg d="w10996" g="w10993" t="pcomp-n" cr="mod*of*n:w10992" w="promoter" l="~" p="N"/>
+     <dpg d="w10997" g="E0" t="i" cr="fc:w10989" w="involves" l="involve" p="V"/>
+     <dpg d="E7" g="w10997" t="subj" cr="" w="" l="stimulation" p="N"/>
+     <dpg d="E7" g="w10992" t="antecedent" cr="" w="" l="stimulation" p="N"/>
+     <dpg d="w10998" g="w11000" t="mod" cr="mod:w11000" w="increased" l="~" p="A"/>
+     <dpg d="w10999" g="w11000" t="mod" cr="mod:w11000" w="physical" l="~" p="A"/>
+     <dpg d="w11000" g="w10997" t="obj" cr="obj:w10997" w="interactions" l="interaction" p="N"/>
+     <dpg d="w11001" g="w11000" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w11002" g="w11004" t="mod" cr="mod:w11004" w="acetylated" l="~" p="A"/>
+     <dpg d="w11003" g="w11004" t="nn" cr="nn:w11004" w="histone" l="~" p="N"/>
+     <dpg d="w11004" g="w11001" t="pcomp-n" cr="mod*with*n:w11000" w="H3" l="~" p="N"/>
+     <dpg d="w11005" g="w11004" t="punc" cr="punc:w11004" w="and" l="~" p="U"/>
+     <dpg d="w11006" g="w11007" t="nn" cr="nn:w11007" w="histone" l="~" p="N"/>
+     <dpg d="w11007" g="w11004" t="conj" cr="conj:w11004" w="H4" l="~" p="N"/>
+     <dpg d="w11008" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

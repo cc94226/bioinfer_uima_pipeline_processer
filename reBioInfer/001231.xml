@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1231">
+  <text>
+<p><s id="s1"><w id="w19359">Selective</w> <w id="w19360">monoclonal</w> <w id="w19361">antibodies</w> <w id="w19362">confirm</w> <w id="w19363">that</w> <w id="w19364">most</w> <w id="w19365">of</w> <w id="w19366">the</w> <w id="w19367">profilin</w> <w id="w19368">is</w> <w id="w19369">bound</w> <w id="w19370">to</w> <w id="w19371">actin</w> <w id="w19372">:</w> <w id="w19373">65</w> <w id="w19374">%</w> <w id="w19375">in</w> <w id="w19376">extract</w> <w id="w19377">immunoadsorption</w> <w id="w19378">assays</w> <w id="w19379">and</w> <w id="w19380">74-89</w> <w id="w19381">%</w> <w id="w19382">by</w> <w id="w19383">fluorescent</w> <w id="w19384">antibody</w> <w id="w19385">staining</w> <w id="w19386">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4491" gid="g4297" t="Individual_protein" fr="w19367" to="w19367" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1231.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4492" gid="g4298" t="RELATIONSHIP_TEXTBINDING" fr="w19369" to="w19370">
+     <textspan type="extent">bound to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1231.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4493" gid="g4299" t="Individual_protein" fr="w19371" to="w19371" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1231.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1712" t="BIND" e1="e4493" e2="e4491" re="e4492">
+     <textspan type="extent">profilin is bound to actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1231.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

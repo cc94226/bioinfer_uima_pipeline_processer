@@ -1,0 +1,61 @@
+<rexml>
+<doc id="1676">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26676" g="w26679" t="det" cr="det:w26679" w="The" l="~" p="Det"/>
+     <dpg d="w26677" g="w26679" t="nn" cr="nn:w26679" w="Schizosaccharomyces" l="~" p="N"/>
+     <dpg d="w26678" g="w26679" t="nn" cr="nn:w26679" w="pombe" l="~" p="N"/>
+     <dpg d="w26679" g="w26685" t="s" cr="s:w26685||subj:w26686" w="rhp51+" l="~" p="N"/>
+     <dpg d="w26680" g="w26679" t="punc" cr="punc:w26679" w="," l="~" p="U"/>
+     <dpg d="w26681" g="w26679" t="conj" cr="conj:w26679" w="rad22+" l="~" p="N"/>
+     <dpg d="w26682" g="w26681" t="punc" cr="punc:w26681" w="and" l="~" p="U"/>
+     <dpg d="w26683" g="w26684" t="nn" cr="nn:w26684" w="rhp54+" l="~" p="N"/>
+     <dpg d="w26684" g="w26681" t="conj" cr="conj:w26681" w="genes" l="gene" p="N"/>
+     <dpg d="w26685" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="are" l="be" p="VBE"/>
+     <dpg d="w26686" g="w26685" t="pred" cr="pred:w26685" w="homologous" l="~" p="A"/>
+     <dpg d="E4" g="w26686" t="subj" cr="" w="" l="rhp51+" p="N"/>
+     <dpg d="E4" g="w26679" t="antecedent" cr="" w="" l="rhp51+" p="N"/>
+     <dpg d="w26687" g="w26686" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w26688" g="w26687" t="pcomp-n" cr="mod*to*n:w26686" w="RAD51" l="~" p="N"/>
+     <dpg d="w26689" g="w26688" t="punc" cr="punc:w26688" w="," l="~" p="U"/>
+     <dpg d="w26690" g="w26688" t="conj" cr="conj:w26688" w="RAD52" l="~" p="N"/>
+     <dpg d="w26691" g="w26690" t="punc" cr="punc:w26690" w="and" l="~" p="U"/>
+     <dpg d="w26692" g="w26690" t="conj" cr="conj:w26690" w="RAD54" l="~" p="N"/>
+     <dpg d="w26693" g="w26685" t="mod" cr="mod:w26685" w="respectively" l="~" p="A"/>
+     <dpg d="w26694" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26695" g="E0" t="whn" cr="whn:w26696||subj:w26697" w="which" l="~" p="N"/>
+     <dpg d="w26696" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="are" l="be" p="VBE"/>
+     <dpg d="w26697" g="w26696" t="pred" cr="pred:w26696" w="indispensable" l="~" p="A"/>
+     <dpg d="E5" g="w26697" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E5" g="w26695" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w26698" g="w26697" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w26699" g="w26701" t="det" cr="det:w26701" w="the" l="~" p="Det"/>
+     <dpg d="w26700" g="w26701" t="mod" cr="mod:w26701" w="recombinational" l="~" p="A"/>
+     <dpg d="w26701" g="w26698" t="pcomp-n" cr="mod*in*n:w26697" w="repair" l="~" p="N"/>
+     <dpg d="w26702" g="w26701" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26703" g="w26704" t="lex-mod" cr="lex-mod:w26704" w="double-strand" l="~" p="U"/>
+     <dpg d="w26704" g="w26702" t="pcomp-n" cr="mod*of*n:w26701" w="breaks" l="double-strand breaks" p="N"/>
+     <dpg d="w26705" g="w26706" t="punc" cr="punc:w26706" w="(" l="~" p="U"/>
+     <dpg d="w26706" g="w26704" t="abbrev" cr="abbrev:w26704" w="DSBs" l="~" p="N"/>
+     <dpg d="w26707" g="w26706" t="punc" cr="punc:w26706" w=")" l="~" p="U"/>
+     <dpg d="w26708" g="w26704" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w26709" g="w26710" t="lex-mod" cr="lex-mod:w26710" w="Saccharomyces" l="~" p="U"/>
+     <dpg d="w26710" g="w26708" t="pcomp-n" cr="mod*in*n:w26704" w="cerevisiae" l="Saccharomyces cerevisiae" p="N"/>
+     <dpg d="w26711" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

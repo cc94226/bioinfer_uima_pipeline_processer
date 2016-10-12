@@ -1,0 +1,82 @@
+<rexml>
+<doc id="1768">
+  
+  <markup>
+   <nes>
+    <ne id="e6518" gid="g6220" t="Substructure_of_protein" fr="w28189" to="w28194" nam="yes" sid="s1">
+     <textspan>sites on the myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1768.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6523" gid="g6225" t="Individual_protein" fr="w28192" to="w28194" nam="yes" sid="s1">
+     <textspan>myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1768.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6521" gid="g6223" t="Individual_protein" fr="w28198" to="w28198" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1768.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6520" gid="g6222" t="Gene/protein/RNA" fr="w28216" to="w28216" nam="yes" sid="s1">
+     <textspan>myosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1768.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6522" gid="g6224" t="Gene/protein/RNA" fr="w28235" to="w28235" nam="yes" sid="s1">
+     <textspan>myosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1768.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2511" t="INTERACT" e1="e6518" e2="e6521" re="e6519">
+     <textspan>sites on the myosin heavy chain that interact with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1768.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1357">
+  <text>
+<p><s id="s1"><w id="w21046">The</w> <w id="w21047">adventitial</w> <w id="w21048">tissue</w> <w id="w21049">underlying</w> <w id="w21050">PTCA-induced</w> <w id="w21051">lesions</w> <w id="w21052">temporarily</w> <w id="w21053">expressed</w> <w id="w21054">alpha-SM</w> <w id="w21055">actin</w> <w id="w21056">,</w> <w id="w21057">desmin</w> <w id="w21058">,</w> <w id="w21059">and</w> <w id="w21060">SM</w> <w id="w21061">myosin</w> <w id="w21062">heavy</w> <w id="w21063">chain</w> <w id="w21064">isoforms</w> <w id="w21065">,</w> <w id="w21066">but</w> <w id="w21067">not</w> <w id="w21068">smoothelin</w> <w id="w21069">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4889" gid="g4669" t="Gene/protein/RNA" fr="w21054" to="w21055" nam="yes">
+     <textspan type="extent">alpha-SM actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1357.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4890" gid="g4670" t="Gene/protein/RNA" fr="w21060" to="w21063" nam="yes">
+     <textspan type="extent">SM myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1357.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4891" gid="g4671" t="Gene/protein/RNA" fr="w21057" to="w21057" nam="yes">
+     <textspan type="extent">desmin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1357.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4892" gid="g4672" t="Gene/protein/RNA" fr="w21068" to="w21068" nam="yes">
+     <textspan type="extent">smoothelin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1357.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

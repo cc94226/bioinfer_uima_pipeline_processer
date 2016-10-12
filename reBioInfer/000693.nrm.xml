@@ -1,0 +1,80 @@
+<rexml>
+<doc id="693">
+  
+  <markup>
+   <nes>
+    <ne id="e2492" gid="g2389" t="Individual_protein" fr="w10656" to="w10656" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.693.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2495" gid="g2392" t="Nucleotide" fr="w10658" to="w10660" nam="yes" sid="s1">
+     <textspan>actin-bound nucleotide</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="Nucleotide"/>
+      <exattr n="bd" v="e.693.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2497" gid="g2394" t="Individual_protein" fr="w10658" to="w10658" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.693.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2493" gid="g2390" t="Dynamics_property" fr="w10663" to="w10665" sid="s1">
+     <textspan>actin polymerization dynamics</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.693.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2499" gid="g2396" t="Individual_protein" fr="w10663" to="w10663" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.693.8"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r957" t="AFFECT" e1="e2492" e2="e2493" re="e2491">
+     <textspan>Impact of profilin on actin -bound nucleotide exchange and actin polymerization dynamics</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.693.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

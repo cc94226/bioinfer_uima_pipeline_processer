@@ -1,0 +1,72 @@
+<rexml>
+<doc id="7">
+  <text>
+<p><s id="s1"><w id="w80">Absence</w> <w id="w81">of</w> <w id="w82">alpha-syntrophin</w> <w id="w83">leads</w> <w id="w84">to</w> <w id="w85">structurally</w> <w id="w86">aberrant</w> <w id="w87">neuromuscular</w> <w id="w88">synapses</w> <w id="w89">deficient</w> <w id="w90">in</w> <w id="w91">utrophin</w> <w id="w92">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e20" gid="g20" t="Amount_property" fr="w80" to="w82">
+     <textspan type="extent">Absence of alpha-syntrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e21" gid="g21" t="RELATIONSHIP_TEXTBINDING" fr="w83" to="w84">
+     <textspan type="extent">leads to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.7.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e22" gid="g22" t="Cell_component" fr="w88" to="w91" nam="yes">
+     <textspan type="extent">synapses deficient in utrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.7.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e23" gid="g23" t="Individual_protein" fr="w82" to="w82" nam="yes">
+     <textspan type="extent">alpha-syntrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.7.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e24" gid="g24" t="Individual_protein" fr="w91" to="w91" nam="yes">
+     <textspan type="extent">utrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.7.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r10" t="CAUSE" e1="e20" e2="e22" re="e21">
+     <textspan type="extent">Absence of alpha-syntrophin leads to structurally aberrant neuromuscular synapses deficient in utrophin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.7.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

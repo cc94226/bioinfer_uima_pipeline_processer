@@ -1,0 +1,75 @@
+<rexml>
+<doc id="2216">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w34189" g="E4" t="mod" cr="mod:w34203" w="While" l="~" p="SentAdjunct"/>
+     <dpg d="E3" g="w34189" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w34190" g="w34192" t="punc" cr="punc+subj:w34192||s+subj:w34196" w="poly(ADP-ribose)" l="~" p="U"/>
+     <dpg d="w34191" g="w34192" t="mod-before" cr="mod-before:w34192" w="effectively" l="~" p="A"/>
+     <dpg d="w34192" g="E3" t="i" cr="comp1:w34189" w="competed" l="compete" p="V"/>
+     <dpg d="E9" g="w34192" t="subj" cr="" w="" l="ADP-ribose" p="N"/>
+     <dpg d="E9" g="w34190" t="antecedent" cr="" w="" l="ADP-ribose" p="N"/>
+     <dpg d="w34193" g="w34192" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w34194" g="w34193" t="pcomp-n" cr="mod*with*n:w34192" w="DNA" l="~" p="N"/>
+     <dpg d="w34195" g="w34194" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="E2" g="w34195" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E7" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="w34190" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w34196" g="E2" t="i" cr="mod*for*c:w34194" w="binding" l="bind" p="V"/>
+     <dpg d="E10" g="w34196" t="subj" cr="" w="" l="ADP-ribose" p="N"/>
+     <dpg d="E10" g="E7" t="antecedent" cr="" w="" l="ADP-ribose" p="N"/>
+     <dpg d="w34197" g="w34196" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34198" g="w34199" t="nn" cr="nn:w34199" w="histone" l="~" p="N"/>
+     <dpg d="w34199" g="w34197" t="pcomp-n" cr="mod*of*n:w34196" w="H4" l="~" p="N"/>
+     <dpg d="w34200" g="E4" t="punc" cr="punc:w34203" w="," l="~" p="U"/>
+     <dpg d="w34201" g="w34203" t="s" cr="s+subj:w34203||s+subj:w34207||subj:w34214||s+subj:w34218" w="it" l="~" p="N"/>
+     <dpg d="w34202" g="w34203" t="mod-before" cr="mod-before:w34203" w="equally" l="~" p="A"/>
+     <dpg d="w34203" g="E4" t="i" cr="" w="competed" l="compete" p="V"/>
+     <dpg d="E11" g="w34203" t="subj" cr="" w="" l="it" p="N"/>
+     <dpg d="E11" g="w34201" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w34204" g="w34203" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w34205" g="w34204" t="pcomp-n" cr="mod*with*n:w34203" w="DNA" l="~" p="N"/>
+     <dpg d="w34206" g="w34205" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="E1" g="w34206" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E6" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w34201" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w34207" g="E1" t="i" cr="mod*for*c:w34205" w="binding" l="bind" p="V"/>
+     <dpg d="E12" g="w34207" t="subj" cr="" w="" l="it" p="N"/>
+     <dpg d="E12" g="E6" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w34208" g="w34207" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34209" g="w34210" t="nn" cr="nn:w34210" w="histone" l="~" p="N"/>
+     <dpg d="w34210" g="w34208" t="pcomp-n" cr="mod*of*n:w34207" w="H3" l="~" p="N"/>
+     <dpg d="w34211" g="w34207" t="punc" cr="punc:w34207" w="and" l="~" p="U"/>
+     <dpg d="w34212" g="w34213" t="mod" cr="mod:w34213" w="only" l="~" p="A"/>
+     <dpg d="w34213" g="w34214" t="amod" cr="amod:w34214" w="inefficiently" l="~" p="A"/>
+     <dpg d="w34214" g="w34207" t="conj" cr="conj:w34207" w="competed" l="compete" p="V"/>
+     <dpg d="E13" g="w34214" t="subj" cr="" w="" l="it" p="N"/>
+     <dpg d="E13" g="E6" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w34215" g="w34214" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w34216" g="w34215" t="pcomp-n" cr="mod*with*n:w34214" w="DNA" l="~" p="N"/>
+     <dpg d="w34217" g="w34216" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="E0" g="w34217" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E6" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w34218" g="E0" t="i" cr="mod*for*c:w34216" w="binding" l="bind" p="V"/>
+     <dpg d="E14" g="w34218" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E14" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w34219" g="w34218" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34220" g="w34221" t="nn" cr="nn:w34221" w="histone" l="~" p="N"/>
+     <dpg d="w34221" g="w34219" t="pcomp-n" cr="mod*of*n:w34218" w="H1" l="~" p="N"/>
+     <dpg d="w34222" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

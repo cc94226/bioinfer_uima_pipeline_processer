@@ -1,0 +1,80 @@
+<rexml>
+<doc id="1743">
+  <text>
+<p><s id="s1"><w id="w27790">These</w> <w id="w27791">results</w> <w id="w27792">suggest</w> <w id="w27793">that</w> <w id="w27794">RAD52</w> <w id="w27795">may</w> <w id="w27796">modulate</w> <w id="w27797">the</w> <w id="w27798">catalytic</w> <w id="w27799">activities</w> <w id="w27800">of</w> <w id="w27801">RAD51</w> <w id="w27802">protein</w> <w id="w27803">such</w> <w id="w27804">as</w> <w id="w27805">homologous</w> <w id="w27806">pairing</w> <w id="w27807">and</w> <w id="w27808">strand</w> <w id="w27809">exchange</w> <w id="w27810">through</w> <w id="w27811">a</w> <w id="w27812">direct</w> <w id="w27813">physical</w> <w id="w27814">interaction</w> <w id="w27815">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6407" gid="g6113" t="Gene" fr="w27794" to="w27794" nam="yes">
+     <textspan type="extent">RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1743.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6408" gid="g6114" t="RELATIONSHIP_TEXTBINDING" fr="w27796" to="w27796">
+     <textspan type="extent">modulate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1743.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6409" gid="g6115" t="Individual_protein" fr="w27801" to="w27802" nam="yes">
+     <textspan type="extent">RAD51 protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1743.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6410" gid="g6116" t="Dynamics_property" fr="w27799" to="w27802">
+     <textspan type="extent">activities of RAD51 protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.1743.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6411" gid="g6117" t="Gene" fr="w27801" to="w27801" nam="yes">
+     <textspan type="extent">RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1743.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2454" t="MODULATE" e1="e6407" e2="e6410" re="e6408">
+     <textspan type="extent">RAD52 may modulate the catalytic activities of RAD51 protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1743.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="MODULATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

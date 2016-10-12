@@ -1,0 +1,47 @@
+<rexml>
+<doc id="721">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11154" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w11155" g="w11157" t="det" cr="det:w11157" w="a" l="~" p="Det"/>
+     <dpg d="w11156" g="w11157" t="mod" cr="mod:w11157" w="model" l="~" p="A"/>
+     <dpg d="w11157" g="w11154" t="pcomp-n" cr="mod*in*n:w11166" w="system" l="~" p="N"/>
+     <dpg d="w11158" g="E1" t="punc" cr="punc:w11166" w="," l="~" p="U"/>
+     <dpg d="w11159" g="w11161" t="det" cr="det:w11161" w="the" l="~" p="Det"/>
+     <dpg d="w11160" g="w11161" t="mod" cr="mod:w11161" w="interacting" l="~" p="A"/>
+     <dpg d="w11161" g="w11166" t="s" cr="s:w11166||s+subj:w11162||subj:w11167" w="proteins" l="protein" p="N"/>
+     <dpg d="E0" g="w11161" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w11161" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w11162" g="E0" t="i" cr="rel:w11161" w="recruiting" l="recruit" p="V"/>
+     <dpg d="E4" g="w11162" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E4" g="E2" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w11163" g="w11162" t="obj" cr="obj:w11162" w="TFIIIC" l="~" p="N"/>
+     <dpg d="w11164" g="w11163" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w11165" g="w11164" t="pcomp-n" cr="mod*to*n:w11163" w="DNA" l="~" p="N"/>
+     <dpg d="w11166" g="E1" t="i" cr="" w="were" l="be" p="VBE"/>
+     <dpg d="w11167" g="w11166" t="pred" cr="pred:w11166" w="PRP21" l="~" p="N"/>
+     <dpg d="E5" g="w11167" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E5" g="w11161" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w11168" g="w11167" t="punc" cr="punc:w11167" w="and" l="~" p="U"/>
+     <dpg d="w11169" g="w11167" t="conj" cr="conj:w11167" w="PRP9" l="~" p="N"/>
+     <dpg d="w11170" g="w11169" t="punc" cr="punc:w11169" w="or" l="~" p="U"/>
+     <dpg d="w11171" g="w11169" t="conj" cr="conj:w11169" w="PRP21" l="~" p="N"/>
+     <dpg d="w11172" g="w11171" t="punc" cr="punc:w11171" w="and" l="~" p="U"/>
+     <dpg d="w11173" g="w11171" t="conj" cr="conj:w11171" w="PRP11" l="~" p="N"/>
+     <dpg d="w11174" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

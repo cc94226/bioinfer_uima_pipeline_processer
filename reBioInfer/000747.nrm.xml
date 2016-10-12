@@ -1,0 +1,130 @@
+<rexml>
+<doc id="747">
+  
+  <markup>
+   <nes>
+    <ne id="e2709" gid="g2595" t="Gene/protein/RNA" fr="w11602" to="w11602" nam="yes" sid="s1">
+     <textspan>Apc</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.747.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2708" gid="g2594" t="Gene/protein/RNA" fr="w11606" to="w11606" nam="yes" sid="s1">
+     <textspan>Apc</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.747.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2705" gid="g2591" t="Individual_protein" fr="w11615" to="w11615" nam="yes" sid="s1">
+     <textspan>E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.747.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2707" gid="g2593" t="Individual_protein" fr="w11617" to="w11617" nam="yes" sid="s1">
+     <textspan>beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.747.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2706" gid="g2592" t="Individual_protein" fr="w11620" to="w11620" nam="yes" sid="s1">
+     <textspan>alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.747.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2710" gid="g2596" t="Gene/protein/RNA" fr="w11623" to="w11623" nam="yes" sid="s1">
+     <textspan>Apc</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.747.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1033" t="BIND" e1="e2705" e2="e2707" re="e2704">
+     <textspan>association of E-cadherin , beta-catenin , and alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.747.0"/>
+      <exattr n="arg" v="e2705"/>
+      <exattr n="arg" v="e2707"/>
+      <exattr n="arg" v="e2706"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1033" t="BIND" e1="e2705" e2="e2706" re="e2704">
+     <textspan>association of E-cadherin , beta-catenin , and alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.747.0"/>
+      <exattr n="arg" v="e2705"/>
+      <exattr n="arg" v="e2707"/>
+      <exattr n="arg" v="e2706"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1033" t="BIND" e1="e2707" e2="e2706" re="e2704">
+     <textspan>association of E-cadherin , beta-catenin , and alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.747.0"/>
+      <exattr n="arg" v="e2705"/>
+      <exattr n="arg" v="e2707"/>
+      <exattr n="arg" v="e2706"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

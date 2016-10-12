@@ -1,0 +1,38 @@
+<rexml>
+<doc id="1120">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w17734" g="w17739" t="s" cr="s:w17739||subj:w17741" w="Phosphorylation" l="~" p="N"/>
+     <dpg d="w17735" g="w17734" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w17736" g="w17735" t="pcomp-n" cr="mod*of*n:w17734" w="profilin" l="~" p="N"/>
+     <dpg d="w17737" g="w17736" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w17738" g="w17737" t="pcomp-n" cr="mod*by*n:w17736" w="PKC" l="~" p="N"/>
+     <dpg d="w17739" g="E0" t="i" cr="" w="was" l="be" p="VBE"/>
+     <dpg d="w17740" g="w17739" t="neg" cr="neg:w17739" w="not" l="~" p="A"/>
+     <dpg d="E2" g="w17741" t="subj" cr="" w="" l="Phosphorylation" p="N"/>
+     <dpg d="E2" g="w17734" t="antecedent" cr="" w="" l="Phosphorylation" p="N"/>
+     <dpg d="w17741" g="w17739" t="pred" cr="pred:w17739" w="affected" l="~" p="A"/>
+     <dpg d="w17742" g="w17741" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w17743" g="w17744" t="det" cr="det:w17744" w="the" l="~" p="Det"/>
+     <dpg d="w17744" g="w17742" t="pcomp-n" cr="mod*by*n:w17741" w="presence" l="~" p="N"/>
+     <dpg d="w17745" g="w17744" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w17746" g="w17747" t="mod" cr="mod:w17747" w="various" l="~" p="A"/>
+     <dpg d="w17747" g="w17745" t="pcomp-n" cr="mod*of*n:w17744" w="concentrations" l="concentration" p="N"/>
+     <dpg d="w17748" g="w17747" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w17749" g="w17748" t="pcomp-n" cr="mod*of*n:w17747" w="actin" l="~" p="N"/>
+     <dpg d="w17750" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

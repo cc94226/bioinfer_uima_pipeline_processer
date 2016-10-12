@@ -1,0 +1,38 @@
+<rexml>
+<doc id="1889">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w30161" g="w30163" t="nn" cr="nn:w30163" w="TNF" l="~" p="N"/>
+     <dpg d="w30162" g="w30163" t="nn" cr="nn:w30163" w="receptor" l="~" p="N"/>
+     <dpg d="w30163" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="death" l="~" p="N"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w30164" g="w30166" t="lex-mod" cr="lex-mod:w30166" w="domain" l="~" p="U"/>
+     <dpg d="w30165" g="w30166" t="lex-mod" cr="lex-mod:w30166" w="-" l="~" p="U"/>
+     <dpg d="w30166" g="w30168" t="mod" cr="mod:w30168" w="associated" l="domain - associated" p="A"/>
+     <dpg d="w30167" g="w30168" t="nn" cr="nn:w30168" w="proteins" l="protein" p="N"/>
+     <dpg d="w30168" g="w30171" t="s" cr="s+subj:w30171" w="TRADD" l="~" p="N"/>
+     <dpg d="w30169" g="w30168" t="punc" cr="punc:w30168" w="and" l="~" p="U"/>
+     <dpg d="w30170" g="w30168" t="conj" cr="conj:w30168" w="FADD" l="~" p="N"/>
+     <dpg d="w30171" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="signal" l="~" p="V"/>
+     <dpg d="E3" g="w30171" t="subj" cr="" w="" l="TRADD" p="N"/>
+     <dpg d="E3" g="w30168" t="antecedent" cr="" w="" l="TRADD" p="N"/>
+     <dpg d="w30172" g="w30171" t="obj" cr="obj:w30171" w="activation" l="~" p="N"/>
+     <dpg d="w30173" g="w30172" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w30174" g="w30175" t="mod" cr="mod:w30175" w="acid" l="~" p="A"/>
+     <dpg d="w30175" g="w30173" t="pcomp-n" cr="mod*of*n:w30172" w="sphingomyelinase" l="~" p="N"/>
+     <dpg d="w30176" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

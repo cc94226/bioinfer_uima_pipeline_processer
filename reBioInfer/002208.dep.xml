@@ -1,0 +1,64 @@
+<rexml>
+<doc id="2208">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w34052" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="When" l="~" p="A"/>
+     <dpg d="w34053" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="transfected" l="~" p="A"/>
+     <dpg d="w34054" g="w34053" t="mod" cr="" w="into" l="~" p="Prep"/>
+     <dpg d="w34055" g="w34056" t="mod" cr="mod:w34056" w="L" l="~" p="A"/>
+     <dpg d="w34056" g="w34054" t="pcomp-n" cr="mod*into*n:w34053||s+subj:w34057" w="cells" l="cell" p="N"/>
+     <dpg d="E2" g="w34056" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w34056" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w34057" g="E2" t="i" cr="rel:w34056" w="expressing" l="express" p="V"/>
+     <dpg d="E7" g="w34057" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w34058" g="w34057" t="obj" cr="obj:w34057" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w34059" g="E6" t="punc" cr="punc:E6" w="," l="~" p="U"/>
+     <dpg d="E1" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w34060" g="w34062" t="det" cr="det:w34062" w="the" l="~" p="Det"/>
+     <dpg d="w34061" g="w34062" t="mod" cr="mod:w34062" w="amino-terminal" l="amino-terminal" p="A"/>
+     <dpg d="w34062" g="w34072" t="s" cr="s+subj:w34072" w="region" l="~" p="N"/>
+     <dpg d="w34063" g="w34062" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34064" g="w34063" t="pcomp-n" cr="mod*of*n:w34062" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w34065" g="w34064" t="punc" cr="punc:w34064" w="(" l="~" p="U"/>
+     <dpg d="w34066" g="w34064" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w34067" g="w34070" t="nn" cr="nn:w34070" w="residue" l="~" p="N"/>
+     <dpg d="w34068" g="w34070" t="lex-mod" cr="lex-mod:w34070" w="1" l="~" p="U"/>
+     <dpg d="w34069" g="w34070" t="lex-mod" cr="lex-mod:w34070" w="to" l="~" p="U"/>
+     <dpg d="w34070" g="w34066" t="pcomp-n" cr="mod*from*n:w34064" w="226" l="1 to 226" p="N"/>
+     <dpg d="w34071" g="w34072" t="punc" cr="punc:w34072" w=")" l="~" p="U"/>
+     <dpg d="w34072" g="E1" t="i" cr="UNSPECRELTYPE:E6" w="formed" l="form" p="V"/>
+     <dpg d="E8" g="w34072" t="subj" cr="" w="" l="region" p="N"/>
+     <dpg d="E8" g="w34062" t="antecedent" cr="" w="" l="region" p="N"/>
+     <dpg d="w34073" g="w34072" t="obj" cr="obj:w34072" w="complexes" l="complex" p="N"/>
+     <dpg d="w34074" g="w34073" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w34075" g="w34074" t="pcomp-n" cr="mod*with*n:w34073||s+subj:w34076" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="E0" g="w34075" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w34075" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w34076" g="E0" t="i" cr="rel:w34075" w="supporting" l="support" p="V"/>
+     <dpg d="E9" g="w34076" t="subj" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="E9" g="E3" t="antecedent" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="w34077" g="w34082" t="det" cr="det:w34082" w="the" l="~" p="Det"/>
+     <dpg d="w34078" g="w34079" t="lex-mod" cr="lex-mod:w34079" w="in" l="~" p="U"/>
+     <dpg d="w34079" g="w34080" t="mod" cr="mod:w34080" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w34080" g="w34082" t="mod" cr="mod:w34082" w="binding" l="~" p="A"/>
+     <dpg d="w34081" g="w34082" t="nn" cr="nn:w34082" w="experiment" l="~" p="N"/>
+     <dpg d="w34082" g="w34076" t="obj" cr="obj:w34076" w="results" l="result" p="N"/>
+     <dpg d="w34083" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

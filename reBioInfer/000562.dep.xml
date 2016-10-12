@@ -1,0 +1,77 @@
+<rexml>
+<doc id="562">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7912" g="E2" t="mod" cr="mod:w7923" w="Here" l="~" p="N"/>
+     <dpg d="w7913" g="E2" t="punc" cr="punc:w7923" w="," l="~" p="U"/>
+     <dpg d="w7914" g="w7915" t="mod" cr="mod:w7915" w="specific" l="~" p="A"/>
+     <dpg d="w7915" g="w7923" t="s" cr="s+obj1:w7923||s+subj:w7928" w="interactions" l="interaction" p="N"/>
+     <dpg d="w7916" g="w7915" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w7917" g="w7918" t="mod" cr="mod:w7918" w="human" l="~" p="A"/>
+     <dpg d="w7918" g="w7916" t="pcomp-n" cr="mod*between*n:w7915" w="RAD51" l="~" p="N"/>
+     <dpg d="w7919" g="w7918" t="punc" cr="punc:w7918" w="and" l="~" p="U"/>
+     <dpg d="w7920" g="w7921" t="nn" cr="nn:w7921" w="RAD52" l="~" p="N"/>
+     <dpg d="w7921" g="w7918" t="conj" cr="conj:w7918" w="proteins" l="protein" p="N"/>
+     <dpg d="w7922" g="w7923" t="be" cr="be:w7923" w="are" l="be" p="be"/>
+     <dpg d="w7923" g="E2" t="i" cr="UNSPECRELTYPE:E6" w="demonstrated" l="demonstrate" p="V"/>
+     <dpg d="E7" g="w7923" t="obj1" cr="" w="" l="interaction" p="N"/>
+     <dpg d="E7" g="w7915" t="antecedent" cr="" w="" l="interaction" p="N"/>
+     <dpg d="w7924" g="w7923" t="obj2" cr="obj2:w7923" w="both" l="~" p="N"/>
+     <dpg d="w7925" g="w7926" t="lex-mod" cr="lex-mod:w7926" w="in" l="~" p="U"/>
+     <dpg d="w7926" g="w7923" t="mod" cr="mod:w7923" w="vivo" l="in vivo" p="A"/>
+     <dpg d="w7927" g="w7923" t="punc" cr="punc:w7923" w="," l="~" p="U"/>
+     <dpg d="E1" g="w7923" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w7915" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w7928" g="E1" t="i" cr="mod:w7923" w="using" l="use" p="V"/>
+     <dpg d="E8" g="w7928" t="subj" cr="" w="" l="interaction" p="N"/>
+     <dpg d="E8" g="E4" t="antecedent" cr="" w="" l="interaction" p="N"/>
+     <dpg d="w7929" g="w7932" t="det" cr="det:w7932" w="the" l="~" p="Det"/>
+     <dpg d="w7930" g="w7932" t="nn" cr="nn:w7932" w="yeast" l="~" p="N"/>
+     <dpg d="w7931" g="w7932" t="mod" cr="mod:w7932" w="two-hybrid" l="two-hybrid" p="A"/>
+     <dpg d="w7932" g="w7928" t="obj" cr="obj:w7928" w="system" l="~" p="N"/>
+     <dpg d="w7933" g="w7932" t="punc" cr="punc:w7932" w="and" l="~" p="U"/>
+     <dpg d="w7934" g="w7932" t="conj" cr="conj:w7932" w="immunoprecipitation" l="~" p="N"/>
+     <dpg d="w7935" g="w7934" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w7936" g="w7938" t="nn" cr="nn:w7938" w="insect" l="~" p="N"/>
+     <dpg d="w7937" g="w7938" t="nn" cr="nn:w7938" w="cells" l="cell" p="N"/>
+     <dpg d="w7938" g="w7935" t="pcomp-n" cr="mod*of*n:w7934" w="co-infected" l="co-infected" p="N"/>
+     <dpg d="w7939" g="w7938" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w7940" g="w7939" t="pcomp-n" cr="mod*with*n:w7938" w="RAD51" l="~" p="N"/>
+     <dpg d="w7941" g="w7940" t="punc" cr="punc:w7940" w="and" l="~" p="U"/>
+     <dpg d="w7942" g="w7944" t="nn" cr="nn:w7944" w="RAD52" l="~" p="N"/>
+     <dpg d="w7943" g="w7944" t="nn" cr="nn:w7944" w="recombinant" l="~" p="N"/>
+     <dpg d="w7944" g="w7940" t="conj" cr="conj:w7940" w="viruses" l="virus" p="N"/>
+     <dpg d="w7945" g="E6" t="punc" cr="punc:E6" w="," l="~" p="U"/>
+     <dpg d="w7946" g="E6" t="punc" cr="punc:E6" w="and" l="~" p="U"/>
+     <dpg d="w7947" g="w7948" t="lex-mod" cr="lex-mod:w7948" w="in" l="~" p="U"/>
+     <dpg d="w7948" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w7949" g="E6" t="punc" cr="punc:E6" w="," l="~" p="U"/>
+     <dpg d="E0" g="E6" t="UNSPECRELTYPE" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="s+subj:w7950" w="" l="~" p="N"/>
+     <dpg d="w7950" g="E0" t="i" cr="UNSPECRELTYPE:E6" w="using" l="use" p="V"/>
+     <dpg d="E9" g="w7950" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E9" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w7951" g="w7952" t="nn" cr="nn:w7952" w="affinity" l="~" p="N"/>
+     <dpg d="w7952" g="w7950" t="obj" cr="obj:w7950" w="chromatography" l="~" p="N"/>
+     <dpg d="w7953" g="w7952" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w7954" g="w7956" t="mod" cr="mod:w7956" w="purified" l="~" p="A"/>
+     <dpg d="w7955" g="w7956" t="nn" cr="nn:w7956" w="recombinant" l="~" p="N"/>
+     <dpg d="w7956" g="w7953" t="pcomp-n" cr="mod*with*n:w7952" w="proteins" l="protein" p="N"/>
+     <dpg d="w7957" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

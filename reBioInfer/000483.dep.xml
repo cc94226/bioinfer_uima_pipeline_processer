@@ -1,0 +1,63 @@
+<rexml>
+<doc id="483">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6748" g="w6749" t="s" cr="s+subj:w6749" w="Features" l="feature" p="N"/>
+     <dpg d="w6749" g="E0" t="i" cr="UNSPECRELTYPE:E4" w="studied" l="study" p="V"/>
+     <dpg d="E5" g="w6749" t="subj" cr="" w="" l="feature" p="N"/>
+     <dpg d="E5" g="w6748" t="antecedent" cr="" w="" l="feature" p="N"/>
+     <dpg d="w6750" g="E4" t="i" cr="i:E4" w="were" l="be" p="VBE"/>
+     <dpg d="w6751" g="w6750" t="pred" cr="pred:w6750" w="actin" l="~" p="N"/>
+     <dpg d="w6752" g="w6751" t="punc" cr="punc:w6751" w="," l="~" p="U"/>
+     <dpg d="w6753" g="w6751" t="conj" cr="conj:w6751" w="microtubules" l="~" p="N"/>
+     <dpg d="w6754" g="w6753" t="punc" cr="punc:w6753" w="," l="~" p="U"/>
+     <dpg d="w6755" g="w6753" t="conj" cr="conj:w6753" w="vinculin" l="~" p="N"/>
+     <dpg d="w6756" g="w6755" t="punc" cr="punc:w6755" w="," l="~" p="U"/>
+     <dpg d="w6757" g="w6755" t="punc" cr="punc:w6755" w="and" l="~" p="U"/>
+     <dpg d="w6758" g="w6755" t="conj" cr="conj:w6755" w="talin" l="~" p="N"/>
+     <dpg d="w6759" g="w6750" t="punc" cr="punc:w6750" w="," l="~" p="U"/>
+     <dpg d="E1" g="w6750" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E1" t="s" cr="s+subj:w6760" w="" l="~" p="N"/>
+     <dpg d="w6760" g="E1" t="i" cr="mod:w6750" w="using" l="use" p="V"/>
+     <dpg d="E6" g="w6760" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6761" g="w6760" t="obj" cr="obj:w6760" w="immunofluorescence" l="~" p="N"/>
+     <dpg d="w6762" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="w6763" g="w6764" t="nn" cr="nn:w6764" w="sodium" l="~" p="N"/>
+     <dpg d="w6764" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="dodecyl" l="~" p="N"/>
+     <dpg d="w6765" g="w6767" t="mod" cr="mod:w6767" w="sulfate-polyacrylamide" l="sulfate-polyacrylamide" p="A"/>
+     <dpg d="w6766" g="w6767" t="nn" cr="nn:w6767" w="gel" l="~" p="N"/>
+     <dpg d="w6767" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="electrophoresis" l="~" p="N"/>
+     <dpg d="w6768" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="w6769" g="E4" t="punc" cr="punc:E4" w="and" l="~" p="U"/>
+     <dpg d="w6770" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="immunoblotting" l="~" p="A"/>
+     <dpg d="w6771" g="E4" t="punc" cr="punc:E4" w=";" l="~" p="U"/>
+     <dpg d="w6772" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="permeability" l="~" p="N"/>
+     <dpg d="w6773" g="w6772" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6774" g="w6776" t="det" cr="det:w6776" w="the" l="~" p="Det"/>
+     <dpg d="w6775" g="w6776" t="nn" cr="nn:w6776" w="cell" l="~" p="N"/>
+     <dpg d="w6776" g="w6773" t="pcomp-n" cr="mod*of*n:w6772" w="sheet" l="~" p="N"/>
+     <dpg d="w6777" g="E4" t="punc" cr="punc:E4" w=";" l="~" p="U"/>
+     <dpg d="w6778" g="E4" t="i" cr="i:E4" w="wound" l="~" p="V"/>
+     <dpg d="w6779" g="w6778" t="obj" cr="obj:w6778" w="healing" l="~" p="N"/>
+     <dpg d="w6780" g="E4" t="punc" cr="punc:E4" w=";" l="~" p="U"/>
+     <dpg d="w6781" g="E4" t="punc" cr="punc:E4" w="and" l="~" p="U"/>
+     <dpg d="w6782" g="w6783" t="mod" cr="mod:w6783" w="phagocytic" l="~" p="A"/>
+     <dpg d="w6783" g="E4" t="subcat" cr="subcat:E4" w="capacity" l="~" p="N"/>
+     <dpg d="w6784" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

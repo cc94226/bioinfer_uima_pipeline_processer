@@ -1,0 +1,100 @@
+<rexml>
+<doc id="872">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E10" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w13613" g="E10" t="p" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w13614" g="w13615" t="det" cr="det:w13615" w="this" l="~" p="Det"/>
+     <dpg d="w13615" g="w13613" t="pcomp-n" cr="p*in*n:E10" w="study" l="~" p="N"/>
+     <dpg d="w13616" g="w13617" t="det" cr="det:w13617" w="the" l="~" p="Det"/>
+     <dpg d="w13617" g="E10" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E10" w="role" l="~" p="N"/>
+     <dpg d="w13618" g="w13617" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w13619" g="w13618" t="pcomp-n" cr="mod*of*n:w13617" w="MSH2" l="~" p="N"/>
+     <dpg d="w13620" g="w13619" t="punc" cr="punc:w13619" w="," l="~" p="U"/>
+     <dpg d="w13621" g="w13619" t="conj" cr="conj:w13619" w="MSH3" l="~" p="N"/>
+     <dpg d="w13622" g="w13621" t="punc" cr="punc:w13621" w="," l="~" p="U"/>
+     <dpg d="w13623" g="w13621" t="punc" cr="punc:w13621" w="and" l="~" p="U"/>
+     <dpg d="w13624" g="w13621" t="conj" cr="conj:w13621" w="MSH6" l="~" p="N"/>
+     <dpg d="w13625" g="E10" t="punc" cr="punc:E10" w="in" l="~" p="U"/>
+     <dpg d="w13626" g="E10" t="punc" cr="punc:E10" w="mismatch" l="~" p="U"/>
+     <dpg d="E4" g="E10" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13627" g="w13630" t="s" cr="s+obj:w13630||s+subj:w13632||s+subj:w13636" w="repair" l="~" p="N"/>
+     <dpg d="w13628" g="w13630" t="have" cr="have:w13630" w="has" l="have" p="have"/>
+     <dpg d="w13629" g="w13630" t="be" cr="be:w13630" w="been" l="be" p="be"/>
+     <dpg d="w13630" g="E4" t="i" cr="UNSPECRELTYPE:E10" w="examined" l="examine" p="V"/>
+     <dpg d="E11" g="w13630" t="obj" cr="" w="" l="repair" p="N"/>
+     <dpg d="E11" g="w13627" t="antecedent" cr="" w="" l="repair" p="N"/>
+     <dpg d="w13631" g="w13630" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E3" g="w13631" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E8" g="E3" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="w13627" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w13632" g="E3" t="i" cr="by-subj*by*c:w13630" w="measuring" l="measure" p="V"/>
+     <dpg d="E12" g="w13632" t="subj" cr="" w="" l="repair" p="N"/>
+     <dpg d="E12" g="E8" t="antecedent" cr="" w="" l="repair" p="N"/>
+     <dpg d="w13633" g="w13634" t="det" cr="det:w13634" w="the" l="~" p="Det"/>
+     <dpg d="w13634" g="w13632" t="obj" cr="obj:w13632" w="rate" l="~" p="N"/>
+     <dpg d="w13635" g="w13634" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="E2" g="w13635" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E7" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="E8" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w13636" g="E2" t="i" cr="mod*of*c:w13634" w="accumulating" l="accumulate" p="V"/>
+     <dpg d="E13" g="w13636" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E13" g="E7" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w13637" g="w13636" t="obj" cr="obj:w13636" w="mutations" l="mutation" p="N"/>
+     <dpg d="w13638" g="w13637" t="punc" cr="punc:w13637" w="and" l="~" p="U"/>
+     <dpg d="w13639" g="w13640" t="nn" cr="nn:w13640" w="mutation" l="~" p="N"/>
+     <dpg d="w13640" g="w13637" t="conj" cr="conj:w13637" w="spectrum" l="~" p="N"/>
+     <dpg d="w13641" g="w13640" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w13642" g="w13641" t="pcomp-n" cr="mod*in*n:w13640||s+subj:w13643||s+subj:w13656" w="strains" l="strain" p="N"/>
+     <dpg d="E1" g="w13642" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E6" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w13642" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w13643" g="E1" t="i" cr="rel:w13642" w="containing" l="contain" p="V"/>
+     <dpg d="E14" g="w13643" t="subj" cr="" w="" l="strain" p="N"/>
+     <dpg d="E14" g="E6" t="antecedent" cr="" w="" l="strain" p="N"/>
+     <dpg d="w13644" g="w13645" t="mod" cr="mod:w13645" w="different" l="~" p="A"/>
+     <dpg d="w13645" g="w13643" t="obj" cr="obj:w13643" w="combinations" l="combination" p="N"/>
+     <dpg d="w13646" g="w13645" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w13647" g="w13646" t="pcomp-n" cr="mod*of*n:w13645" w="msh2" l="~" p="N"/>
+     <dpg d="w13648" g="w13647" t="punc" cr="punc:w13647" w="," l="~" p="U"/>
+     <dpg d="w13649" g="w13647" t="conj" cr="conj:w13647" w="msh3" l="~" p="N"/>
+     <dpg d="w13650" g="w13649" t="punc" cr="punc:w13649" w="," l="~" p="U"/>
+     <dpg d="w13651" g="w13649" t="punc" cr="punc:w13649" w="and" l="~" p="U"/>
+     <dpg d="w13652" g="w13653" t="nn" cr="nn:w13653" w="msh6" l="~" p="N"/>
+     <dpg d="w13653" g="w13649" t="conj" cr="conj:w13649" w="mutations" l="mutation" p="N"/>
+     <dpg d="w13654" g="w13646" t="punc" cr="punc:w13646" w="and" l="~" p="U"/>
+     <dpg d="w13655" g="w13646" t="conj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E0" g="w13655" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E6" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w13656" g="E0" t="i" cr="mod*by*c:w13645" w="studying" l="study" p="V"/>
+     <dpg d="E15" g="w13656" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E15" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w13657" g="w13659" t="det" cr="det:w13659" w="the" l="~" p="Det"/>
+     <dpg d="w13658" g="w13659" t="mod" cr="mod:w13659" w="physical" l="~" p="A"/>
+     <dpg d="w13659" g="w13656" t="obj" cr="obj:w13656" w="interaction" l="~" p="N"/>
+     <dpg d="w13660" g="w13659" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w13661" g="w13663" t="det" cr="det:w13663" w="the" l="~" p="Det"/>
+     <dpg d="w13662" g="w13663" t="nn" cr="nn:w13663" w="MSH2" l="~" p="N"/>
+     <dpg d="w13663" g="w13660" t="pcomp-n" cr="mod*between*n:w13659" w="protein" l="~" p="N"/>
+     <dpg d="w13664" g="w13663" t="punc" cr="punc:w13663" w="and" l="~" p="U"/>
+     <dpg d="w13665" g="w13666" t="det" cr="det:w13666" w="the" l="~" p="Det"/>
+     <dpg d="w13666" g="w13663" t="conj" cr="conj:w13663" w="MSH3" l="~" p="N"/>
+     <dpg d="w13667" g="w13666" t="punc" cr="punc:w13666" w="and" l="~" p="U"/>
+     <dpg d="w13668" g="w13669" t="nn" cr="nn:w13669" w="MSH6" l="~" p="N"/>
+     <dpg d="w13669" g="w13666" t="conj" cr="conj:w13666" w="proteins" l="protein" p="N"/>
+     <dpg d="w13670" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

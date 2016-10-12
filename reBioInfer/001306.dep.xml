@@ -1,0 +1,51 @@
+<rexml>
+<doc id="1306">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20495" g="E2" t="mod" cr="mod:w20509" w="Such" l="~" p="SentAdjunct"/>
+     <dpg d="E1" g="w20495" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20496" g="w20498" t="s" cr="s+obj:w20498||s+subj:w20500" w="motifs" l="motif" p="N"/>
+     <dpg d="w20497" g="w20498" t="be" cr="be:w20498" w="are" l="be" p="be"/>
+     <dpg d="w20498" g="E1" t="i" cr="comp1:w20495" w="known" l="know" p="V"/>
+     <dpg d="E5" g="w20498" t="obj" cr="" w="" l="motif" p="N"/>
+     <dpg d="E5" g="w20496" t="antecedent" cr="" w="" l="motif" p="N"/>
+     <dpg d="E0" g="w20498" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w20496" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w20499" g="w20500" t="aux" cr="aux:w20500" w="to" l="~" p="Aux"/>
+     <dpg d="w20500" g="E0" t="i" cr="mod:w20498" w="bind" l="~" p="V"/>
+     <dpg d="E6" g="w20500" t="subj" cr="" w="" l="motif" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="motif" p="N"/>
+     <dpg d="w20501" g="w20500" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w20502" g="w20501" t="pcomp-n" cr="mod*to*n:w20500" w="profilins" l="~" p="N"/>
+     <dpg d="w20503" g="w20504" t="punc" cr="punc:w20504" w="(" l="~" p="U"/>
+     <dpg d="w20504" g="w20502" t="abbrev" cr="abbrev:w20502" w="PFNs" l="~" p="N"/>
+     <dpg d="w20505" g="w20504" t="punc" cr="punc:w20504" w=")" l="~" p="U"/>
+     <dpg d="w20506" g="E2" t="punc" cr="punc:w20509" w="," l="~" p="U"/>
+     <dpg d="w20507" g="w20508" t="mod" cr="mod:w20508" w="small" l="~" p="A"/>
+     <dpg d="w20508" g="w20509" t="s" cr="s+subj:w20509" w="proteins" l="protein" p="N"/>
+     <dpg d="w20509" g="E2" t="i" cr="" w="engaged" l="engage in" p="V"/>
+     <dpg d="w20510" g="w20509" t="lex-mod" cr="lex-mod:w20509" w="in" l="~" p="U"/>
+     <dpg d="E7" g="w20509" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E7" g="w20508" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w20511" g="w20512" t="det" cr="det:w20512" w="the" l="~" p="Det"/>
+     <dpg d="w20512" g="w20509" t="obj" cr="obj:w20509" w="control" l="~" p="N"/>
+     <dpg d="w20513" g="w20512" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w20514" g="w20515" t="nn" cr="nn:w20515" w="actin" l="~" p="N"/>
+     <dpg d="w20515" g="w20513" t="pcomp-n" cr="mod*of*n:w20512" w="dynamics" l="~" p="N"/>
+     <dpg d="w20516" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

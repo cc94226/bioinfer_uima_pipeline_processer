@@ -1,0 +1,236 @@
+<rexml>
+<doc id="235">
+  <text>
+<p><s id="s1"><w id="w3523">Birch</w> <w id="w3524">profilin</w> <w id="w3525">increased</w> <w id="w3526">the</w> <w id="w3527">critical</w> <w id="w3528">concentration</w> <w id="w3529">required</w> <w id="w3530">for</w> <w id="w3531">muscle</w> <w id="w3532">and</w> <w id="w3533">brain</w> <w id="w3534">actin</w> <w id="w3535">polymerization</w> <w id="w3536">in</w> <w id="w3537">a</w> <w id="w3538">concentration-dependent</w> <w id="w3539">manner</w> <w id="w3540">,</w> <w id="w3541">supporting</w> <w id="w3542">the</w> <w id="w3543">notion</w> <w id="w3544">of</w> <w id="w3545">the</w> <w id="w3546">formation</w> <w id="w3547">of</w> <w id="w3548">a</w> <w id="w3549">heterologous</w> <w id="w3550">complex</w> <w id="w3551">between</w> <w id="w3552">the</w> <w id="w3553">plant</w> <w id="w3554">protein</w> <w id="w3555">and</w> <w id="w3556">animal</w> <w id="w3557">actin</w> <w id="w3558">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e839" gid="g808" t="Individual_protein" fr="w3523" to="w3524" nam="yes">
+     <textspan type="extent">Birch profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.235.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e840" gid="g809" t="RELATIONSHIP_TEXTBINDING" fr="w3525" to="w3525">
+     <textspan type="extent">increased</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.235.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e841" gid="g810" t="Amount_property" fr="w3528" to="w3535">
+     <textspan type="extent">concentration required for [..] brain actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.235.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e842" gid="g811" t="Amount_property" fr="w3528" to="w3535">
+     <textspan type="extent">concentration required for muscle [..] actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.235.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e843" gid="g812" t="Protein_complex" fr="w3550" to="w3557" nam="yes">
+     <textspan type="extent">complex between the plant protein and animal actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.235.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e844" gid="g813" t="Individual_protein" fr="w3556" to="w3557" nam="yes">
+     <textspan type="extent">animal actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.235.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e845" gid="g814" t="POLYMERIZATION" fr="w3531" to="w3535">
+     <textspan type="extent">muscle [..] actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.235.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e846" gid="g808" t="Individual_protein" fr="w3553" to="w3554" nam="yes">
+     <textspan type="extent">plant protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.235.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e847" gid="g815" t="POLYMERIZATION" fr="w3533" to="w3535">
+     <textspan type="extent">brain actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.235.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e848" gid="g816" t="Individual_protein" fr="w3533" to="w3534" nam="yes">
+     <textspan type="extent">brain actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.235.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e849" gid="g817" t="Individual_protein" fr="w3524" to="w3524" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.235.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e850" gid="g818" t="RELATIONSHIP_TEXTBINDING" fr="w3550" to="w3551">
+     <textspan type="extent">complex between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.235.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e851" gid="g819" t="Individual_protein" fr="w3531" to="w3534" nam="yes">
+     <textspan type="extent">muscle [..] actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.235.12"/>
+      <exattr n="nst" v="st.235.8.0"/>
+      <exattr n="nst" v="st.235.11.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e852" gid="g820" t="Individual_protein" fr="w3533" to="w3534" nam="yes">
+     <textspan type="extent">brain actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.235.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e853" gid="g821" t="Individual_protein" fr="w3531" to="w3534" nam="yes">
+     <textspan type="extent">muscle [..] actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.235.14"/>
+      <exattr n="nst" v="st.235.8.0"/>
+      <exattr n="nst" v="st.235.11.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e854" gid="g822" t="Individual_protein" fr="w3557" to="w3557" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.235.15"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r315" t="INCREASE" e1="e839" e2="e842" re="e840">
+     <textspan type="extent">Birch profilin increased the critical concentration required for muscle and brain actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.235.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Amount"/>
+      <exattr n="t4" v="INCREASE"/>
+     </exattrs>
+    </rel>
+    <rel id="r316" t="INCREASE" e1="e839" e2="e841" re="e840">
+     <textspan type="extent">Birch profilin increased the critical concentration required for muscle and brain actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.235.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Amount"/>
+      <exattr n="t4" v="INCREASE"/>
+     </exattrs>
+    </rel>
+    <rel id="r318" t="CONTAIN" e1="e843" e2="e846" re="e850">
+     <textspan type="extent">complex between the plant protein and animal actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.235.11"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r319" t="CONTAIN" e1="e843" e2="e844" re="e850">
+     <textspan type="extent">complex between the plant protein and animal actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.235.11"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

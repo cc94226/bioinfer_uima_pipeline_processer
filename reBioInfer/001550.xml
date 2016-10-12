@@ -1,0 +1,67 @@
+<rexml>
+<doc id="1550">
+  <text>
+<p><s id="s1"><w id="w24566">The</w> <w id="w24567">mechanism</w> <w id="w24568">of</w> <w id="w24569">profilin</w><w id="w24570">-</w><w id="w24571">promoted</w> <w id="w24572">actin</w> <w id="w24573">polymerization</w> <w id="w24574">has</w> <w id="w24575">been</w> <w id="w24576">systematically</w> <w id="w24577">reinvestigated</w> <w id="w24578">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5697" gid="g5436" t="Individual_protein" fr="w24569" to="w24569" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1550.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5698" gid="g5437" t="RELATIONSHIP_TEXTBINDING" fr="w24571" to="w24571">
+     <textspan type="extent">promoted</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1550.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5699" gid="g5438" t="POLYMERIZATION" fr="w24572" to="w24573">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.1550.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5700" gid="g5439" t="Individual_protein" fr="w24572" to="w24572" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1550.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2188" t="STIMULATE" e1="e5697" e2="e5699" re="e5698">
+     <textspan type="extent">profilin - promoted actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1550.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

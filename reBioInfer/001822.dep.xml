@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1822">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29342" g="w29343" t="det" cr="det:w29343" w="This" l="~" p="Det"/>
+     <dpg d="w29343" g="w29344" t="s" cr="s+subj:w29344" w="paper" l="~" p="N"/>
+     <dpg d="w29344" g="E2" t="i" cr="UNSPECRELTYPE:E4" w="describes" l="describe" p="V"/>
+     <dpg d="E5" g="w29344" t="subj" cr="" w="" l="paper" p="N"/>
+     <dpg d="E5" g="w29343" t="antecedent" cr="" w="" l="paper" p="N"/>
+     <dpg d="w29345" g="w29349" t="det" cr="det:w29349" w="the" l="~" p="Det"/>
+     <dpg d="w29346" g="w29349" t="mod" cr="mod:w29349" w="structural" l="~" p="A"/>
+     <dpg d="w29347" g="w29346" t="punc" cr="punc:w29346" w="and" l="~" p="U"/>
+     <dpg d="w29348" g="w29346" t="conj" cr="conj:w29346" w="biochemical" l="~" p="A"/>
+     <dpg d="w29349" g="w29344" t="obj" cr="obj:w29344" w="characterization" l="~" p="N"/>
+     <dpg d="w29350" g="w29349" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29351" g="w29350" t="pcomp-n" cr="mod*of*n:w29349" w="talin" l="~" p="N"/>
+     <dpg d="w29352" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29353" g="w29354" t="det" cr="det:w29354" w="a" l="~" p="Det"/>
+     <dpg d="w29354" g="w29355" t="s" cr="s+subj:w29355" w="protein" l="~" p="N"/>
+     <dpg d="w29355" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="localized" l="localize" p="V"/>
+     <dpg d="E6" g="w29355" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E6" g="w29354" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w29356" g="w29355" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w29357" g="w29359" t="mod" cr="mod:w29359" w="various" l="~" p="A"/>
+     <dpg d="w29358" g="w29359" t="mod" cr="mod:w29359" w="cellular" l="~" p="A"/>
+     <dpg d="w29359" g="w29356" t="pcomp-n" cr="mod*to*n:w29355" w="sites" l="site" p="N"/>
+     <dpg d="E0" g="w29359" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29360" g="E0" t="wha" cr="wha:w29365" w="where" l="~" p="A"/>
+     <dpg d="w29361" g="w29365" t="s" cr="s+subj:w29365" w="bundles" l="bundle" p="N"/>
+     <dpg d="w29362" g="w29361" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29363" g="w29364" t="nn" cr="nn:w29364" w="actin" l="~" p="N"/>
+     <dpg d="w29364" g="w29362" t="pcomp-n" cr="mod*of*n:w29361" w="filaments" l="filament" p="N"/>
+     <dpg d="w29365" g="E0" t="i" cr="rel:w29359" w="attach" l="attach to" p="V"/>
+     <dpg d="w29366" g="w29365" t="lex-mod" cr="lex-mod:w29365" w="to" l="~" p="U"/>
+     <dpg d="E7" g="w29365" t="subj" cr="" w="" l="bundle" p="N"/>
+     <dpg d="E7" g="w29361" t="antecedent" cr="" w="" l="bundle" p="N"/>
+     <dpg d="w29367" g="w29369" t="det" cr="det:w29369" w="the" l="~" p="Det"/>
+     <dpg d="w29368" g="w29369" t="lex-mod" cr="lex-mod:w29369" w="plasma" l="~" p="U"/>
+     <dpg d="w29369" g="w29365" t="obj" cr="obj:w29365" w="membrane" l="plasma membrane" p="N"/>
+     <dpg d="w29370" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

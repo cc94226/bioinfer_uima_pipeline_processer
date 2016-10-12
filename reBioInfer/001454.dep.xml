@@ -1,0 +1,43 @@
+<rexml>
+<doc id="1454">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22826" g="w22829" t="det" cr="det:w22829" w="The" l="~" p="Det"/>
+     <dpg d="w22827" g="w22829" t="mod" cr="mod:w22829" w="deduced" l="~" p="A"/>
+     <dpg d="w22828" g="w22829" t="nn" cr="nn:w22829" w="peptide" l="~" p="N"/>
+     <dpg d="w22829" g="w22830" t="s" cr="s+subj:w22830" w="sequence" l="~" p="N"/>
+     <dpg d="w22830" g="E0" t="i" cr="" w="contained" l="contain" p="V"/>
+     <dpg d="E2" g="w22830" t="subj" cr="" w="" l="sequence" p="N"/>
+     <dpg d="E2" g="w22829" t="antecedent" cr="" w="" l="sequence" p="N"/>
+     <dpg d="w22831" g="w22834" t="det" cr="det:w22834" w="a" l="~" p="Det"/>
+     <dpg d="w22832" g="w22834" t="mod" cr="mod:w22834" w="nuclear" l="~" p="A"/>
+     <dpg d="w22833" g="w22834" t="nn" cr="nn:w22834" w="localization" l="~" p="N"/>
+     <dpg d="w22834" g="w22830" t="obj" cr="obj:w22830" w="signal" l="~" p="N"/>
+     <dpg d="w22835" g="w22834" t="punc" cr="punc:w22834" w="and" l="~" p="U"/>
+     <dpg d="w22836" g="w22841" t="det" cr="det:w22841" w="a" l="~" p="Det"/>
+     <dpg d="w22837" g="w22841" t="mod" cr="mod:w22841" w="putative" l="~" p="A"/>
+     <dpg d="w22838" g="w22840" t="lex-mod" cr="lex-mod:w22840" w="actin" l="~" p="U"/>
+     <dpg d="w22839" g="w22840" t="lex-mod" cr="lex-mod:w22840" w="-" l="~" p="U"/>
+     <dpg d="w22840" g="w22841" t="mod" cr="mod:w22841" w="binding" l="actin - binding" p="A"/>
+     <dpg d="w22841" g="w22834" t="conj" cr="conj:w22834" w="sequence" l="~" p="N"/>
+     <dpg d="w22842" g="w22841" t="mod" cr="mod:w22841" w="as" l="~" p="As"/>
+     <dpg d="w22843" g="w22842" t="comp1" cr="comp1:w22842" w="reported" l="~" p="A"/>
+     <dpg d="w22844" g="w22843" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w22845" g="w22846" t="mod" cr="mod:w22846" w="NM-type" l="NM-type" p="A"/>
+     <dpg d="w22846" g="w22844" t="pcomp-n" cr="mod*in*n:w22843" w="cofilin" l="~" p="N"/>
+     <dpg d="w22847" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

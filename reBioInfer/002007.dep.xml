@@ -1,0 +1,45 @@
+<rexml>
+<doc id="2007">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32071" g="w32074" t="s" cr="s:w32074||subj:w32077" w="Villin" l="~" p="N"/>
+     <dpg d="w32072" g="w32071" t="punc" cr="punc:w32071" w="and" l="~" p="U"/>
+     <dpg d="w32073" g="w32071" t="conj" cr="conj:w32071" w="fimbrin" l="~" p="N"/>
+     <dpg d="w32074" g="E1" t="i" cr="" w="are" l="be" p="VBE"/>
+     <dpg d="E3" g="w32077" t="subj" cr="" w="" l="Villin" p="N"/>
+     <dpg d="E3" g="w32071" t="antecedent" cr="" w="" l="Villin" p="N"/>
+     <dpg d="w32075" g="w32077" t="nn" cr="nn:w32077" w="two" l="~" p="N"/>
+     <dpg d="w32076" g="w32077" t="mod" cr="mod:w32077" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w32077" g="w32074" t="pred" cr="pred:w32074||subj:w32079" w="proteins" l="protein" p="N"/>
+     <dpg d="E0" g="w32077" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32078" g="E0" t="whn" cr="whn:w32079" w="that" l="~" p="THAT"/>
+     <dpg d="w32078" g="w32077" t="antecedent" cr="antecedent:w32077" w="that" l="~" p="THAT"/>
+     <dpg d="w32079" g="E0" t="i" cr="rel:w32077" w="bundle" l="~" p="V"/>
+     <dpg d="E4" g="w32079" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E4" g="w32077" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w32080" g="w32081" t="nn" cr="nn:w32081" w="actin" l="~" p="N"/>
+     <dpg d="w32081" g="w32079" t="obj" cr="obj:w32079" w="filaments" l="filament" p="N"/>
+     <dpg d="w32082" g="w32081" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w32083" g="w32084" t="det" cr="det:w32084" w="the" l="~" p="Det"/>
+     <dpg d="w32084" g="w32082" t="pcomp-n" cr="mod*in*n:w32081" w="intestine" l="~" p="N"/>
+     <dpg d="w32085" g="w32084" t="punc" cr="punc:w32084" w="and" l="~" p="U"/>
+     <dpg d="w32086" g="w32089" t="nn" cr="nn:w32089" w="kidney" l="~" p="N"/>
+     <dpg d="w32087" g="w32089" t="nn" cr="nn:w32089" w="brush" l="~" p="N"/>
+     <dpg d="w32088" g="w32089" t="nn" cr="nn:w32089" w="border" l="~" p="N"/>
+     <dpg d="w32089" g="w32084" t="conj" cr="conj:w32084" w="epithelium" l="~" p="N"/>
+     <dpg d="w32090" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

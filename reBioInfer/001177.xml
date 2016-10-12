@@ -1,0 +1,106 @@
+<rexml>
+<doc id="1177">
+  <text>
+<p><s id="s1"><w id="w18624">Recombinant</w> <w id="w18625">HSH49</w> <w id="w18626">protein</w> <w id="w18627">has</w> <w id="w18628">a</w> <w id="w18629">general</w> <w id="w18630">RNA</w><w id="w18631">-</w><w id="w18632">binding</w> <w id="w18633">activity</w> <w id="w18634">that</w> <w id="w18635">does</w> <w id="w18636">not</w> <w id="w18637">require</w> <w id="w18638">CUS1</w> <w id="w18639">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4321" gid="g4130" t="Individual_protein" fr="w18625" to="w18626" nam="yes">
+     <textspan type="extent">HSH49 protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1177.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4322" gid="g4131" t="RELATIONSHIP_TEXTBINDING" fr="w18637" to="w18637">
+     <textspan type="extent">require</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1177.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4323" gid="g4132" t="RNA" fr="w18630" to="w18630" nam="yes">
+     <textspan type="extent">RNA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="RNA"/>
+      <exattr n="bd" v="e.1177.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4324" gid="g4133" t="RELATIONSHIP_TEXTBINDING" fr="w18636" to="w18636">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1177.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4325" gid="g4134" t="RELATIONSHIP_TEXTBINDING" fr="w18632" to="w18632">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1177.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4326" gid="g4135" t="Individual_protein" fr="w18625" to="w18625" nam="yes">
+     <textspan type="extent">HSH49</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1177.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4327" gid="g4136" t="Individual_protein" fr="w18638" to="w18638" nam="yes">
+     <textspan type="extent">CUS1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1177.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1660" t="CONDITION" e1="e4327" e2="e4325" re="e4322">
+     <textspan type="extent">HSH49 protein has a general RNA - binding activity that does not require CUS1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1177.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r1661" t="BIND" e1="e4321" e2="e4323" re="e4325">
+     <textspan type="extent">HSH49 protein has a general RNA - binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1177.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

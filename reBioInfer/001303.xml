@@ -1,0 +1,55 @@
+<rexml>
+<doc id="1303">
+  <text>
+<p><s id="s1"><w id="w20443">Studies</w> <w id="w20444">on</w> <w id="w20445">the</w> <w id="w20446">interaction</w> <w id="w20447">between</w> <w id="w20448">actin</w> <w id="w20449">and</w> <w id="w20450">cofilin</w> <w id="w20451">purified</w> <w id="w20452">by</w> <w id="w20453">a</w> <w id="w20454">new</w> <w id="w20455">method</w> <w id="w20456">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4710" gid="g4503" t="RELATIONSHIP_TEXTBINDING" fr="w20446" to="w20447">
+     <textspan type="extent">interaction between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1303.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4711" gid="g4504" t="Individual_protein" fr="w20448" to="w20448" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1303.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4712" gid="g4505" t="Individual_protein" fr="w20450" to="w20450" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1303.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1791" t="INTERACT" e1="e4711" e2="e4712" re="e4710">
+     <textspan type="extent">interaction between actin and cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1303.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

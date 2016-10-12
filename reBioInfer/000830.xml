@@ -1,0 +1,70 @@
+<rexml>
+<doc id="830">
+  <text>
+<p><s id="s1"><w id="w12851">Interestingly</w> <w id="w12852">,</w> <w id="w12853">the</w> <w id="w12854">regions</w> <w id="w12855">that</w> <w id="w12856">show</w> <w id="w12857">the</w> <w id="w12858">most</w> <w id="w12859">structural</w> <w id="w12860">diversity</w> <w id="w12861">are</w> <w id="w12862">located</w> <w id="w12863">at</w> <w id="w12864">or</w> <w id="w12865">near</w> <w id="w12866">the</w> <w id="w12867">actin</w><w id="w12868">-</w><w id="w12869">binding</w> <w id="w12870">site</w> <w id="w12871">of</w> <w id="w12872">profilin</w> <w id="w12873">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2985" gid="g2863" t="Individual_protein" fr="w12867" to="w12867" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.830.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2986" gid="g2864" t="RELATIONSHIP_TEXTBINDING" fr="w12869" to="w12869">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.830.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2987" gid="g2865" t="Substructure_of_protein" fr="w12870" to="w12872" nam="yes">
+     <textspan type="extent">site of profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.830.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2988" gid="g2866" t="Individual_protein" fr="w12872" to="w12872" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.830.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1153" t="BIND" e1="e2987" e2="e2985" re="e2986">
+     <textspan type="extent">actin - binding site of profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.830.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

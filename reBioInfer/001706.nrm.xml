@@ -1,0 +1,86 @@
+<rexml>
+<doc id="1706">
+  
+  <markup>
+   <nes>
+    <ne id="e6265" gid="g5980" t="Gene/protein/RNA" fr="w27193" to="w27194" nam="yes" sid="s1">
+     <textspan>skeletal actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1706.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6268" gid="g5983" t="Protein_family_or_group" fr="w27214" to="w27219" nam="yes" sid="s1">
+     <textspan>actin [..] families</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1706.3"/>
+      <exattr n="nst" v="st.1706.43.0"/>
+      <exattr n="nst" v="st.1706.48.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6270" gid="g5985" t="Individual_protein" fr="w27214" to="w27214" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1706.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6267" gid="g5982" t="Protein_family_or_group" fr="w27216" to="w27219" nam="yes" sid="s1">
+     <textspan>myosin heavy chain families</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1706.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6271" gid="g5986" t="Individual_protein" fr="w27216" to="w27218" nam="yes" sid="s1">
+     <textspan>myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1706.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2397" t="COREGULATE" e1="e6268" e2="e6267" re="e6269">
+     <textspan>actin and myosin heavy chain families are independently regulated</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1706.4"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="COREGULATE"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,183 @@
+<rexml>
+<doc id="1474">
+  <text>
+<p><s id="s1"><w id="w23061">The</w> <w id="w23062">effects</w> <w id="w23063">of</w> <w id="w23064">two</w> <w id="w23065">adhesion</w> <w id="w23066">substrates</w> <w id="w23067">(</w> <w id="w23068">serum</w> <w id="w23069">and</w> <w id="w23070">laminin</w> <w id="w23071">)</w> <w id="w23072">and</w> <w id="w23073">time</w> <w id="w23074">in</w> <w id="w23075">culture</w> <w id="w23076">on</w> <w id="w23077">the</w> <w id="w23078">expression</w> <w id="w23079">of</w> <w id="w23080">genes</w> <w id="w23081">encoding</w> <w id="w23082">myosin</w> <w id="w23083">heavy</w> <w id="w23084">chain</w> <w id="w23085">(</w> <w id="w23086">MHC</w> <w id="w23087">)</w> <w id="w23088">isoforms</w> <w id="w23089">and</w> <w id="w23090">alpha-skeletal</w> <w id="w23091">actin</w> <w id="w23092">were</w> <w id="w23093">analysed</w> <w id="w23094">in</w> <w id="w23095">myocytes</w> <w id="w23096">isolated</w> <w id="w23097">from</w> <w id="w23098">adult</w> <w id="w23099">rat</w> <w id="w23100">heart</w> <w id="w23101">and</w> <w id="w23102">maintained</w> <w id="w23103">in</w> <w id="w23104">serum-free</w> <w id="w23105">culture</w> <w id="w23106">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5335" gid="g5091" t="RELATIONSHIP_TEXTBINDING" fr="w23062" to="w23076">
+     <textspan type="extent">effects of [..] on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1474.0"/>
+      <exattr n="nst" v="st.1474.1.0"/>
+      <exattr n="nst" v="st.1474.2.0"/>
+      <exattr n="nst" v="st.1474.15.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5336" gid="g5092" t="Individual_protein" fr="w23082" to="w23084" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1474.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5337" gid="g5093" t="Individual_protein" fr="w23070" to="w23070" nam="yes">
+     <textspan type="extent">laminin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1474.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5338" gid="g5094" t="Gene" fr="w23080" to="w23088" nam="yes">
+     <textspan type="extent">genes encoding myosin heavy chain [..] isoforms</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1474.3"/>
+      <exattr n="nst" v="st.1474.19.0"/>
+      <exattr n="nst" v="st.1474.20.0"/>
+      <exattr n="nst" v="st.1474.21.0"/>
+      <exattr n="nst" v="st.1474.22.0"/>
+      <exattr n="nst" v="st.1474.23.0"/>
+      <exattr n="nst" v="st.1474.27.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5339" gid="g5095" t="Expression" fr="w23078" to="w23088">
+     <textspan type="extent">expression of genes encoding myosin heavy chain [..] isoforms</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.1474.4"/>
+      <exattr n="nst" v="st.1474.17.0"/>
+      <exattr n="nst" v="st.1474.18.0"/>
+      <exattr n="nst" v="st.1474.19.0"/>
+      <exattr n="nst" v="st.1474.20.0"/>
+      <exattr n="nst" v="st.1474.21.0"/>
+      <exattr n="nst" v="st.1474.22.0"/>
+      <exattr n="nst" v="st.1474.23.0"/>
+      <exattr n="nst" v="st.1474.27.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5340" gid="g5092" t="Individual_protein" fr="w23086" to="w23086" nam="yes">
+     <textspan type="extent">MHC</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1474.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5341" gid="g5096" t="Individual_protein" fr="w23082" to="w23088" nam="yes">
+     <textspan type="extent">myosin heavy chain [..] isoforms</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1474.6"/>
+      <exattr n="nst" v="st.1474.21.0"/>
+      <exattr n="nst" v="st.1474.22.0"/>
+      <exattr n="nst" v="st.1474.23.0"/>
+      <exattr n="nst" v="st.1474.27.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5342" gid="g5097" t="Expression" fr="w23078" to="w23091">
+     <textspan type="extent">expression of genes encoding [..] alpha-skeletal actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.1474.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5343" gid="g5098" t="Gene" fr="w23080" to="w23091" nam="yes">
+     <textspan type="extent">genes encoding [..] alpha-skeletal actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1474.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e5344" gid="g5099" t="Individual_protein" fr="w23090" to="w23091" nam="yes">
+     <textspan type="extent">alpha-skeletal actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1474.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e5345" gid="g5100" t="Individual_protein" fr="w23090" to="w23091" nam="yes">
+     <textspan type="extent">alpha-skeletal actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1474.10"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2063" t="AFFECT" e1="e5337" e2="e5339" re="e5335">
+     <textspan type="extent">effects of two adhesion substrates ( serum and laminin ) and time in culture on the expression of genes encoding myosin heavy chain ( MHC ) isoforms</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1474.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2064" t="AFFECT" e1="e5337" e2="e5342" re="e5335">
+     <textspan type="extent">effects of two adhesion substrates ( serum and laminin ) and time in culture on the expression of genes encoding myosin heavy chain ( MHC ) isoforms and alpha-skeletal actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1474.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,33 @@
+<rexml>
+<doc id="1222">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w19233" g="" t="" cr="" w="Role" l="~" p="N"/>
+     <dpg d="w19234" g="w19233" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w19235" g="w19234" t="pcomp-n" cr="mod*of*n:w19233" w="cofilin" l="~" p="N"/>
+     <dpg d="w19236" g="w19235" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w19237" g="w19243" t="mod" cr="mod:w19243" w="epidermal" l="~" p="A"/>
+     <dpg d="w19238" g="w19243" t="nn" cr="nn:w19243" w="growth" l="~" p="N"/>
+     <dpg d="w19239" g="w19241" t="lex-mod" cr="lex-mod:w19241" w="factor" l="~" p="U"/>
+     <dpg d="w19240" g="w19241" t="lex-mod" cr="lex-mod:w19241" w="-" l="~" p="U"/>
+     <dpg d="w19241" g="w19243" t="mod" cr="mod:w19243" w="stimulated" l="factor - stimulated" p="A"/>
+     <dpg d="w19242" g="w19243" t="nn" cr="nn:w19243" w="actin" l="~" p="N"/>
+     <dpg d="w19243" g="w19236" t="pcomp-n" cr="mod*in*n:w19235" w="polymerization" l="~" p="N"/>
+     <dpg d="w19244" g="w19243" t="punc" cr="punc:w19243" w="and" l="~" p="U"/>
+     <dpg d="w19245" g="w19246" t="nn" cr="nn:w19246" w="lamellipod" l="~" p="N"/>
+     <dpg d="w19246" g="w19243" t="conj" cr="conj:w19243" w="protrusion" l="~" p="N"/>
+     <dpg d="w19247" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

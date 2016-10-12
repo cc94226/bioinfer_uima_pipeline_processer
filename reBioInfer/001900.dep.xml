@@ -1,0 +1,93 @@
+<rexml>
+<doc id="1900">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E7" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E3" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="E2" g="E3" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E5" g="E2" t="s" cr="s+subj:w30504" w="" l="~" p="N"/>
+     <dpg d="w30503" g="w30504" t="aux" cr="aux:w30504" w="To" l="~" p="Aux"/>
+     <dpg d="w30504" g="E2" t="i" cr="mod:w30520" w="determine" l="~" p="V"/>
+     <dpg d="E8" g="w30504" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w30505" g="w30506" t="det" cr="det:w30506" w="the" l="~" p="Det"/>
+     <dpg d="w30506" g="w30504" t="obj" cr="obj:w30504" w="phenotypes" l="phenotype" p="N"/>
+     <dpg d="w30507" g="w30506" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w30508" g="w30510" t="lex-mod" cr="lex-mod:w30510" w="smooth" l="~" p="U"/>
+     <dpg d="w30509" g="w30510" t="lex-mod" cr="lex-mod:w30510" w="muscle" l="~" p="U"/>
+     <dpg d="w30510" g="w30507" t="pcomp-n" cr="mod*of*n:w30506" w="cells" l="smooth muscle cells" p="N"/>
+     <dpg d="w30511" g="w30512" t="punc" cr="punc:w30512" w="(" l="~" p="U"/>
+     <dpg d="w30512" g="w30510" t="abbrev" cr="abbrev:w30510" w="SMCs" l="~" p="N"/>
+     <dpg d="w30513" g="w30512" t="punc" cr="punc:w30512" w=")" l="~" p="U"/>
+     <dpg d="w30514" g="w30510" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w30515" g="w30516" t="pre" cr="pre:w30516" w="such" l="~" p="PreDet"/>
+     <dpg d="w30516" g="w30514" t="pcomp-n" cr="mod*in*n:w30510" w="lesions" l="lesion" p="N"/>
+     <dpg d="w30517" g="E3" t="punc" cr="punc:w30520" w="," l="~" p="U"/>
+     <dpg d="w30518" g="w30519" t="det" cr="det:w30519" w="the" l="~" p="Det"/>
+     <dpg d="w30519" g="w30520" t="s" cr="s+subj:w30520" w="authors" l="author" p="N"/>
+     <dpg d="w30520" g="E3" t="i" cr="UNSPECRELTYPE:E7" w="conducted" l="conduct" p="V"/>
+     <dpg d="E9" g="w30520" t="subj" cr="" w="" l="author" p="N"/>
+     <dpg d="E9" g="w30519" t="antecedent" cr="" w="" l="author" p="N"/>
+     <dpg d="w30521" g="w30523" t="det" cr="det:w30523" w="an" l="~" p="Det"/>
+     <dpg d="w30522" g="w30523" t="mod" cr="mod:w30523" w="immunohistochemical" l="~" p="A"/>
+     <dpg d="w30523" g="w30520" t="obj" cr="obj:w30520" w="analysis" l="~" p="N"/>
+     <dpg d="w30524" g="w30523" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w30525" g="w30526" t="nn" cr="nn:w30526" w="lung" l="~" p="N"/>
+     <dpg d="w30526" g="w30524" t="pcomp-n" cr="mod*of*n:w30523" w="tissues" l="tissue" p="N"/>
+     <dpg d="w30527" g="w30526" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w30528" g="w30529" t="nn" cr="nn:w30529" w="two" l="~" p="N"/>
+     <dpg d="w30529" g="w30527" t="pcomp-n" cr="mod*from*n:w30526" w="patients" l="patient" p="N"/>
+     <dpg d="w30530" g="w30529" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w30531" g="w30530" t="pcomp-n" cr="mod*with*n:w30529" w="PPH" l="~" p="N"/>
+     <dpg d="w30532" g="E7" t="punc" cr="punc:E7" w="," l="~" p="U"/>
+     <dpg d="E1" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="E0" g="E1" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="s+subj:w30533" w="" l="~" p="N"/>
+     <dpg d="w30533" g="E0" t="i" cr="mod:w30550" w="using" l="use" p="V"/>
+     <dpg d="E10" g="w30533" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E10" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w30534" g="w30536" t="nn" cr="nn:w30536" w="two" l="~" p="N"/>
+     <dpg d="w30535" g="w30536" t="mod" cr="mod:w30536" w="anti" l="~" p="A"/>
+     <dpg d="w30536" g="w30533" t="obj" cr="obj:w30533" w="muscle" l="~" p="N"/>
+     <dpg d="w30537" g="w30538" t="nn" cr="nn:w30538" w="actin" l="~" p="N"/>
+     <dpg d="w30538" g="w30550" t="s" cr="s+subj:w30550" w="antibodies" l="antibody" p="N"/>
+     <dpg d="w30539" g="w30538" t="punc" cr="punc:w30538" w="," l="~" p="U"/>
+     <dpg d="w30540" g="w30538" t="conj" cr="conj:w30538" w="HHF35" l="~" p="N"/>
+     <dpg d="w30541" g="w30540" t="punc" cr="punc:w30540" w="and" l="~" p="U"/>
+     <dpg d="w30542" g="w30540" t="conj" cr="conj:w30540" w="CGA7" l="~" p="N"/>
+     <dpg d="w30543" g="w30542" t="punc" cr="punc:w30542" w="," l="~" p="U"/>
+     <dpg d="w30544" g="w30542" t="punc" cr="punc:w30542" w="and" l="~" p="U"/>
+     <dpg d="w30545" g="w30548" t="nn" cr="nn:w30548" w="two" l="~" p="N"/>
+     <dpg d="w30546" g="w30547" t="lex-mod" cr="lex-mod:w30547" w="anti-" l="~" p="U"/>
+     <dpg d="w30547" g="w30548" t="mod" cr="mod:w30548" w="SMC" l="anti- SMC" p="A"/>
+     <dpg d="w30548" g="w30542" t="conj" cr="conj:w30542" w="myosin" l="~" p="N"/>
+     <dpg d="w30549" g="w30550" t="mod-before" cr="mod-before:w30550" w="heavy" l="~" p="A"/>
+     <dpg d="w30550" g="E1" t="i" cr="UNSPECRELTYPE:E7" w="chain" l="~" p="V"/>
+     <dpg d="E11" g="w30550" t="subj" cr="" w="" l="antibody" p="N"/>
+     <dpg d="E11" g="w30538" t="antecedent" cr="" w="" l="antibody" p="N"/>
+     <dpg d="w30551" g="w30550" t="obj" cr="obj:w30550" w="markers" l="marker" p="N"/>
+     <dpg d="w30552" g="w30551" t="punc" cr="punc:w30551" w="," l="~" p="U"/>
+     <dpg d="w30553" g="w30554" t="lex-mod" cr="lex-mod:w30554" w="anti-" l="~" p="U"/>
+     <dpg d="w30554" g="w30558" t="mod" cr="mod:w30558" w="SM1" l="anti- SM1" p="A"/>
+     <dpg d="w30555" g="w30554" t="punc" cr="punc:w30554" w="and" l="~" p="U"/>
+     <dpg d="w30556" g="w30557" t="lex-mod" cr="lex-mod:w30557" w="anti-" l="~" p="U"/>
+     <dpg d="w30557" g="w30554" t="conj" cr="conj:w30554" w="SM2" l="anti- SM2" p="A"/>
+     <dpg d="w30558" g="w30551" t="conj" cr="conj:w30551" w="antibodies" l="antibody" p="N"/>
+     <dpg d="w30559" g="w30558" t="punc" cr="punc:w30558" w="and" l="~" p="U"/>
+     <dpg d="w30560" g="w30561" t="mod" cr="mod:w30561" w="related" l="~" p="A"/>
+     <dpg d="w30561" g="w30558" t="conj" cr="conj:w30558" w="antibodies" l="antibody" p="N"/>
+     <dpg d="w30562" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

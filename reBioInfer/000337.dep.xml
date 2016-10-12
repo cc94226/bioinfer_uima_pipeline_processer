@@ -1,0 +1,54 @@
+<rexml>
+<doc id="337">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w5082" g="E3" t="subcat" cr="subcat:E3" w="CONCLUSIONS" l="conclusion" p="N"/>
+     <dpg d="w5083" g="E3" t="punc" cr="punc:E3" w=":" l="~" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5084" g="w5085" t="det" cr="det:w5085" w="The" l="~" p="Det"/>
+     <dpg d="w5085" g="w5094" t="s" cr="s+obj:w5094" w="expression" l="~" p="N"/>
+     <dpg d="w5086" g="w5085" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5087" g="w5086" t="pcomp-n" cr="mod*of*n:w5085" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w5088" g="w5087" t="punc" cr="punc:w5087" w="," l="~" p="U"/>
+     <dpg d="w5089" g="w5087" t="conj" cr="conj:w5087" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w5090" g="w5089" t="punc" cr="punc:w5089" w="," l="~" p="U"/>
+     <dpg d="w5091" g="w5089" t="punc" cr="punc:w5089" w="and" l="~" p="U"/>
+     <dpg d="w5092" g="w5089" t="conj" cr="conj:w5089" w="gamma-catenin" l="gamma-catenin" p="N"/>
+     <dpg d="w5093" g="w5094" t="be" cr="be:w5094" w="is" l="be" p="be"/>
+     <dpg d="w5094" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="related" l="relate" p="V"/>
+     <dpg d="E4" g="w5094" t="obj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E4" g="w5085" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w5095" g="w5094" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w5096" g="w5097" t="mod" cr="mod:w5097" w="histological" l="~" p="A"/>
+     <dpg d="w5097" g="w5095" t="pcomp-n" cr="mod*to*n:w5094" w="type" l="~" p="N"/>
+     <dpg d="w5098" g="w5097" t="punc" cr="punc:w5097" w="and" l="~" p="U"/>
+     <dpg d="w5099" g="w5097" t="conj" cr="conj:w5097" w="differentiation" l="~" p="N"/>
+     <dpg d="w5100" g="w5099" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w5101" g="w5100" t="pcomp-n" cr="mod*in*n:w5099" w="NSCLC" l="~" p="N"/>
+     <dpg d="w5102" g="w5094" t="punc" cr="punc:w5094" w="," l="~" p="U"/>
+     <dpg d="w5103" g="w5094" t="mod" cr="mod:w5094" w="although" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w5103" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5104" g="w5105" t="s" cr="s+subj:w5105" w="catenins" l="~" p="N"/>
+     <dpg d="w5105" g="E0" t="i" cr="comp1:w5103" w="have" l="~" p="V"/>
+     <dpg d="E5" g="w5105" t="subj" cr="" w="" l="catenins" p="N"/>
+     <dpg d="E5" g="w5104" t="antecedent" cr="" w="" l="catenins" p="N"/>
+     <dpg d="w5106" g="w5109" t="det" cr="det:w5109" w="no" l="~" p="Det"/>
+     <dpg d="w5107" g="w5109" t="mod" cr="mod:w5109" w="independent" l="~" p="A"/>
+     <dpg d="w5108" g="w5109" t="mod" cr="mod:w5109" w="prognostic" l="~" p="A"/>
+     <dpg d="w5109" g="w5105" t="obj" cr="obj:w5105" w="value" l="~" p="N"/>
+     <dpg d="w5110" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

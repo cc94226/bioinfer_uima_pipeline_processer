@@ -1,0 +1,67 @@
+<rexml>
+<doc id="1703">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w27106" g="w27107" t="det" cr="det:w27107" w="These" l="~" p="Det"/>
+     <dpg d="w27107" g="w27108" t="s" cr="s:w27108||subj:w27110||obj:w27122||s+subj:w27124" w="genes" l="gene" p="N"/>
+     <dpg d="w27108" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="were" l="be" p="VBE"/>
+     <dpg d="E5" g="w27110" t="subj" cr="" w="" l="gene" p="N"/>
+     <dpg d="E5" g="w27107" t="antecedent" cr="" w="" l="gene" p="N"/>
+     <dpg d="w27109" g="w27110" t="mod" cr="mod:w27110" w="designated" l="~" p="A"/>
+     <dpg d="w27110" g="w27108" t="pred" cr="pred:w27108" w="UL5" l="~" p="N"/>
+     <dpg d="w27111" g="w27110" t="punc" cr="punc:w27110" w="," l="~" p="U"/>
+     <dpg d="w27112" g="w27110" t="conj" cr="conj:w27110" w="UL8" l="~" p="N"/>
+     <dpg d="w27113" g="w27112" t="punc" cr="punc:w27112" w="," l="~" p="U"/>
+     <dpg d="w27114" g="w27112" t="conj" cr="conj:w27112" w="UL9" l="~" p="N"/>
+     <dpg d="w27115" g="w27114" t="punc" cr="punc:w27114" w="," l="~" p="U"/>
+     <dpg d="w27116" g="w27114" t="conj" cr="conj:w27114" w="UL42" l="~" p="N"/>
+     <dpg d="w27117" g="w27116" t="punc" cr="punc:w27116" w="," l="~" p="U"/>
+     <dpg d="w27118" g="w27116" t="punc" cr="punc:w27116" w="and" l="~" p="U"/>
+     <dpg d="w27119" g="w27116" t="conj" cr="conj:w27116" w="UL52" l="~" p="N"/>
+     <dpg d="w27120" g="w27108" t="punc" cr="punc:w27108" w="and" l="~" p="U"/>
+     <dpg d="w27121" g="w27122" t="be" cr="be:w27122" w="were" l="be" p="be"/>
+     <dpg d="w27122" g="w27108" t="conj" cr="conj:w27108" w="predicted" l="predict" p="V"/>
+     <dpg d="E6" g="w27122" t="obj" cr="" w="" l="gene" p="N"/>
+     <dpg d="E6" g="w27107" t="antecedent" cr="" w="" l="gene" p="N"/>
+     <dpg d="E0" g="w27122" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w27107" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w27123" g="w27124" t="aux" cr="aux:w27124" w="to" l="~" p="Aux"/>
+     <dpg d="w27124" g="E0" t="i" cr="mod:w27122" w="encode" l="~" p="V"/>
+     <dpg d="E7" g="w27124" t="subj" cr="" w="" l="gene" p="N"/>
+     <dpg d="E7" g="E2" t="antecedent" cr="" w="" l="gene" p="N"/>
+     <dpg d="w27125" g="w27124" t="obj" cr="obj:w27124" w="proteins" l="protein" p="N"/>
+     <dpg d="w27126" g="w27125" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w27127" g="w27128" t="lex-mod" cr="lex-mod:w27128" w="molecular" l="~" p="U"/>
+     <dpg d="w27128" g="w27126" t="pcomp-n" cr="mod*with*n:w27125" w="weights" l="molecular weight" p="N"/>
+     <dpg d="w27129" g="E4" t="punc" cr="punc:E4" w="of" l="~" p="U"/>
+     <dpg d="w27130" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="w27131" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="respectively" l="~" p="A"/>
+     <dpg d="w27132" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="w27133" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="99,000" l="~" p="N"/>
+     <dpg d="w27134" g="w27133" t="punc" cr="punc:w27133" w="," l="~" p="U"/>
+     <dpg d="w27135" g="w27133" t="conj" cr="conj:w27133" w="80,000" l="~" p="N"/>
+     <dpg d="w27136" g="w27135" t="punc" cr="punc:w27135" w="," l="~" p="U"/>
+     <dpg d="w27137" g="w27135" t="conj" cr="conj:w27135" w="94,000" l="~" p="N"/>
+     <dpg d="w27138" g="w27137" t="punc" cr="punc:w27137" w="," l="~" p="U"/>
+     <dpg d="w27139" g="w27137" t="conj" cr="conj:w27137" w="51,000" l="~" p="N"/>
+     <dpg d="w27140" g="w27139" t="punc" cr="punc:w27139" w="," l="~" p="U"/>
+     <dpg d="w27141" g="w27139" t="punc" cr="punc:w27139" w="and" l="~" p="U"/>
+     <dpg d="w27142" g="w27139" t="conj" cr="conj:w27139" w="114,000" l="~" p="N"/>
+     <dpg d="w27143" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,83 @@
+<rexml>
+<doc id="1377">
+  <text>
+<p><s id="s1"><w id="w21382">The</w> <w id="w21383">PRT1</w> <w id="w21384">,</w> <w id="w21385">TIF34</w> <w id="w21386">,</w> <w id="w21387">GCD10</w> <w id="w21388">,</w> <w id="w21389">and</w> <w id="w21390">SUI1</w> <w id="w21391">proteins</w> <w id="w21392">of</w> <w id="w21393">Saccharomyces</w> <w id="w21394">cerevisiae</w> <w id="w21395">were</w> <w id="w21396">found</w> <w id="w21397">previously</w> <w id="w21398">to</w> <w id="w21399">copurify</w> <w id="w21400">with</w> <w id="w21401">eukaryotic</w> <w id="w21402">translation</w> <w id="w21403">initiation</w> <w id="w21404">factor</w> <w id="w21405">3</w> <w id="w21406">(</w> <w id="w21407">eIF3</w> <w id="w21408">)</w> <w id="w21409">activity</w> <w id="w21410">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4959" gid="g4734" t="Gene/protein/RNA" fr="w21383" to="w21383" nam="yes">
+     <textspan type="extent">PRT1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1377.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4960" gid="g4735" t="Gene/protein/RNA" fr="w21387" to="w21387" nam="yes">
+     <textspan type="extent">GCD10</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1377.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4961" gid="g4736" t="Gene/protein/RNA" fr="w21385" to="w21385" nam="yes">
+     <textspan type="extent">TIF34</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1377.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4962" gid="g4737" t="Individual_protein" fr="w21401" to="w21405" nam="yes">
+     <textspan type="extent">eukaryotic translation initiation factor 3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1377.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4963" gid="g4738" t="Gene/protein/RNA" fr="w21390" to="w21390" nam="yes">
+     <textspan type="extent">SUI1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1377.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4964" gid="g4737" t="Individual_protein" fr="w21407" to="w21407" nam="yes">
+     <textspan type="extent">eIF3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1377.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

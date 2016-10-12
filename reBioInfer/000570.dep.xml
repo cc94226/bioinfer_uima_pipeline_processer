@@ -1,0 +1,62 @@
+<rexml>
+<doc id="570">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8198" g="w8199" t="nn" cr="nn:w8199" w="rad59" l="~" p="N"/>
+     <dpg d="w8199" g="w8201" t="s" cr="s+subj:w8201||s+subj:w8205" w="mutations" l="mutation" p="N"/>
+     <dpg d="w8200" g="w8201" t="mod-before" cr="mod-before:w8201" w="completely" l="~" p="A"/>
+     <dpg d="w8201" g="E2" t="i" cr="" w="abolished" l="abolish" p="V"/>
+     <dpg d="E5" g="w8201" t="subj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E5" g="w8199" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="w8202" g="w8203" t="det" cr="det:w8203" w="the" l="~" p="Det"/>
+     <dpg d="w8203" g="w8201" t="obj" cr="obj:w8201" w="ability" l="~" p="N"/>
+     <dpg d="E1" g="w8203" t="comp1" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w8199" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w8204" g="w8205" t="aux" cr="aux:w8205" w="to" l="~" p="Aux"/>
+     <dpg d="w8205" g="E1" t="i" cr="comp1:w8203" w="generate" l="~" p="V"/>
+     <dpg d="E6" g="w8205" t="subj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="w8206" g="w8207" t="lex-mod" cr="lex-mod:w8207" w="type" l="~" p="U"/>
+     <dpg d="w8207" g="w8208" t="nn" cr="nn:w8208" w="II" l="type II" p="N"/>
+     <dpg d="w8208" g="w8205" t="obj" cr="obj:w8205" w="survivors" l="survivor" p="N"/>
+     <dpg d="w8209" g="w8205" t="punc" cr="punc:w8205" w="," l="~" p="U"/>
+     <dpg d="w8210" g="w8205" t="mod" cr="mod:w8205" w="while" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w8210" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8211" g="w8212" t="nn" cr="nn:w8212" w="rad50" l="~" p="N"/>
+     <dpg d="w8212" g="w8213" t="s" cr="s+subj:w8213||subj:w8225" w="mutations" l="mutation" p="N"/>
+     <dpg d="w8213" g="E0" t="i" cr="comp1:w8210" w="decreased" l="decrease" p="V"/>
+     <dpg d="E7" g="w8213" t="subj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E7" g="w8212" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="w8214" g="w8216" t="det" cr="det:w8216" w="the" l="~" p="Det"/>
+     <dpg d="w8215" g="w8216" t="nn" cr="nn:w8216" w="growth" l="~" p="N"/>
+     <dpg d="w8216" g="w8213" t="obj" cr="obj:w8213" w="viability" l="~" p="N"/>
+     <dpg d="w8217" g="w8216" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w8218" g="w8219" t="lex-mod" cr="lex-mod:w8219" w="type" l="~" p="U"/>
+     <dpg d="w8219" g="w8220" t="nn" cr="nn:w8220" w="II" l="type II" p="N"/>
+     <dpg d="w8220" g="w8217" t="pcomp-n" cr="mod*of*n:w8216" w="survivors" l="survivor" p="N"/>
+     <dpg d="w8221" g="w8213" t="punc" cr="punc:w8213" w="but" l="~" p="U"/>
+     <dpg d="w8222" g="w8225" t="aux" cr="aux:w8225" w="did" l="do" p="Aux"/>
+     <dpg d="w8223" g="w8222" t="neg" cr="neg:w8222" w="not" l="~" p="A"/>
+     <dpg d="w8224" g="w8225" t="amod" cr="amod:w8225" w="completely" l="~" p="A"/>
+     <dpg d="w8225" g="w8213" t="conj" cr="conj:w8213" w="eliminate" l="~" p="V"/>
+     <dpg d="E8" g="w8225" t="subj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E8" g="w8212" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="w8226" g="w8227" t="gen" cr="gen:w8227" w="their" l="~" p="N"/>
+     <dpg d="w8227" g="w8225" t="obj" cr="obj:w8225" w="appearance" l="~" p="N"/>
+     <dpg d="w8228" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

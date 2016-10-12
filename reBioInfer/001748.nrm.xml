@@ -1,0 +1,111 @@
+<rexml>
+<doc id="1748">
+  
+  <markup>
+   <nes>
+    <ne id="e6412" gid="g6118" t="Individual_protein" fr="w27820" to="w27820" nam="yes" sid="s1">
+     <textspan>LIMK2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1748.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6421" gid="g6127" t="Individual_protein" fr="w27825" to="w27825" nam="yes" sid="s1">
+     <textspan>Rho</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1748.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6420" gid="g6126" t="Individual_protein" fr="w27827" to="w27827" nam="yes" sid="s1">
+     <textspan>ROCK</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1748.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6416" gid="g6122" t="Cell_component" fr="w27837" to="w27838" nam="yes" sid="s1">
+     <textspan>actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1748.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6423" gid="g6129" t="Individual_protein" fr="w27837" to="w27837" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1748.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e6417" gid="g6123" t="Individual_protein" fr="w27845" to="w27846" nam="yes" sid="s1">
+     <textspan>cofilin/ADF proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1748.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6424" gid="g6130" t="Protein_family_or_group" fr="w27845" to="w27845" nam="yes" sid="s1">
+     <textspan>cofilin/ADF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1748.12"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2457" t="PHOSPHORYLATE" e1="e6412" e2="e6417" re="e6419">
+     <textspan>LIMK2 functions downstream of the Rho - ROCK signalling pathway and plays a role in reorganization of actin filaments and membrane structures , by phosphorylating cofilin/ADF proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1748.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

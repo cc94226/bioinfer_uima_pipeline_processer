@@ -1,0 +1,91 @@
+<rexml>
+<doc id="617">
+  <text>
+<p><s id="s1"><w id="w9130">How</w> <w id="w9131">profilin</w><w id="w9132">/</w><w id="w9133">barbed-end</w> <w id="w9134">synergy</w> <w id="w9135">controls</w> <w id="w9136">actin</w> <w id="w9137">polymerization</w> <w id="w9138">:</w> <w id="w9139">a</w> <w id="w9140">kinetic</w> <w id="w9141">model</w> <w id="w9142">of</w> <w id="w9143">the</w> <w id="w9144">ATP</w> <w id="w9145">hydrolysis</w> <w id="w9146">circuit</w> <w id="w9147">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2176" gid="g2084" t="Individual_protein" fr="w9131" to="w9131" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.617.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2177" gid="g2085" t="RELATIONSHIP_TEXTBINDING" fr="w9135" to="w9135">
+     <textspan type="extent">controls</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.617.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2178" gid="g2086" t="Cell_component" fr="w9133" to="w9133" nam="yes">
+     <textspan type="extent">barbed-end</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.617.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2179" gid="g2087" t="POLYMERIZATION" fr="w9136" to="w9137">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.617.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2180" gid="g2088" t="RELATIONSHIP_TEXTBINDING" fr="w9134" to="w9134">
+     <textspan type="extent">synergy</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.617.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2181" gid="g2089" t="Individual_protein" fr="w9136" to="w9136" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.617.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r854" t="CONTROL" e1="e2180" e2="e2179" re="e2177">
+     <textspan type="extent">profilin / barbed-end synergy controls actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.617.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r855" t="RELATE" e1="e2176" e2="e2178" re="e2180">
+     <textspan type="extent">profilin / barbed-end synergy</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.617.4"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

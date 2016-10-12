@@ -1,0 +1,98 @@
+<rexml>
+<doc id="1162">
+  <text>
+<p><s id="s1"><w id="w18294">Pyrenyliodoacetamide</w> <w id="w18295">labeling</w> <w id="w18296">of</w> <w id="w18297">cysteine</w> <w id="w18298">374</w> <w id="w18299">of</w> <w id="w18300">muscle</w> <w id="w18301">actin</w> <w id="w18302">reduces</w> <w id="w18303">the</w> <w id="w18304">affinity</w> <w id="w18305">for</w> <w id="w18306">profilin</w> <w id="w18307">10-fold</w> <w id="w18308">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4247" gid="g4059" t="Individual_protein" fr="w18300" to="w18301" nam="yes">
+     <textspan type="extent">muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1162.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4248" gid="g4060" t="RELATIONSHIP_TEXTBINDING" fr="w18304" to="w18305">
+     <textspan type="extent">affinity for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1162.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4249" gid="g4061" t="MODIFICATION" fr="w18295" to="w18301">
+     <textspan type="extent">labeling of cysteine [..] of muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1162.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4250" gid="g4062" t="RELATIONSHIP_TEXTBINDING" fr="w18302" to="w18302">
+     <textspan type="extent">reduces</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1162.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4251" gid="g4063" t="Substructure_of_protein" fr="w18297" to="w18301" nam="yes">
+     <textspan type="extent">cysteine [..] of muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1162.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4252" gid="g4064" t="Individual_protein" fr="w18306" to="w18306" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1162.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1633" t="SUPPRESS" e1="e4249" e2="e4248" re="e4250">
+     <textspan type="extent">labeling of cysteine 374 of muscle actin reduces the affinity for profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1162.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r1634" t="BIND" e1="e4247" e2="e4252" re="e4248">
+     <textspan type="extent">muscle actin reduces the affinity for profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1162.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

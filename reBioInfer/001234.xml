@@ -1,0 +1,102 @@
+<rexml>
+<doc id="1234">
+  <text>
+<p><s id="s1"><w id="w19437">Sepharose</w> <w id="w19438">beads</w> <w id="w19439">coupled</w> <w id="w19440">to</w> <w id="w19441">either</w> <w id="w19442">monoclonal</w> <w id="w19443">anti-</w><w id="w19444">gelsolin</w> <w id="w19445">antibodies</w> <w id="w19446">or</w> <w id="w19447">to</w> <w id="w19448">polyproline</w> <w id="w19449">were</w> <w id="w19450">used</w> <w id="w19451">to</w> <w id="w19452">extract</w> <w id="w19453">gelsolin</w> <w id="w19454">and</w> <w id="w19455">profilin</w> <w id="w19456">,</w> <w id="w19457">respectively</w> <w id="w19458">,</w> <w id="w19459">from</w> <w id="w19460">EGTA-containing</w> <w id="w19461">platelet</w> <w id="w19462">extracts</w> <w id="w19463">and</w> <w id="w19464">determine</w> <w id="w19465">the</w> <w id="w19466">proportion</w> <w id="w19467">of</w> <w id="w19468">these</w> <w id="w19469">molecules</w> <w id="w19470">bound</w> <w id="w19471">to</w> <w id="w19472">actin</w> <w id="w19473">with</w> <w id="w19474">sufficient</w> <w id="w19475">affinity</w> <w id="w19476">to</w> <w id="w19477">withstand</w> <w id="w19478">dilution</w> <w id="w19479">(</w> <w id="w19480">high-affinity</w> <w id="w19481">complexes</w> <w id="w19482">)</w> <w id="w19483">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4504" gid="g4309" t="Gene/protein/RNA" fr="w19444" to="w19444" nam="yes">
+     <textspan type="extent">gelsolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1234.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4505" gid="g4310" t="RELATIONSHIP_TEXTBINDING" fr="w19470" to="w19471">
+     <textspan type="extent">bound to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1234.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4506" gid="g4311" t="Individual_protein" fr="w19455" to="w19455" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1234.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4507" gid="g4312" t="Individual_protein" fr="w19453" to="w19453" nam="yes">
+     <textspan type="extent">gelsolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1234.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4508" gid="g4311" t="Individual_protein" fr="w19468" to="w19468" nam="yes">
+     <textspan type="extent">these</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1234.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4509" gid="g4313" t="Individual_protein" fr="w19472" to="w19472" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1234.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4510" gid="g4314" t="Amount_property" fr="w19466" to="w19469">
+     <textspan type="extent">proportion of these molecules</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.1234.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1719" t="BIND" e1="e4509" e2="e4510" re="e4505">
+     <textspan type="extent">proportion of these molecules bound to actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1234.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

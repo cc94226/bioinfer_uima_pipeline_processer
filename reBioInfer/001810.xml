@@ -1,0 +1,100 @@
+<rexml>
+<doc id="1810">
+  <text>
+<p><s id="s1"><w id="w29130">beta-catenin</w> <w id="w29131">and</w> <w id="w29132">plakoglobin</w> <w id="w29133">possibly</w> <w id="w29134">play</w> <w id="w29135">more</w> <w id="w29136">regulatory</w> <w id="w29137">roles</w> <w id="w29138">,</w> <w id="w29139">as</w> <w id="w29140">it</w> <w id="w29141">was</w> <w id="w29142">shown</w> <w id="w29143">that</w> <w id="w29144">their</w> <w id="w29145">tyrosine</w> <w id="w29146">phosphorylation</w> <w id="w29147">correlated</w> <w id="w29148">with</w> <w id="w29149">modified</w> <w id="w29150">cadherin</w> <w id="w29151">activities</w> <w id="w29152">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6736" gid="g6425" t="Individual_protein" fr="w29130" to="w29130" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1810.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6737" gid="g6426" t="RELATIONSHIP_TEXTBINDING" fr="w29147" to="w29148">
+     <textspan type="extent">correlated with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1810.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6738" gid="g6427" t="Dynamics_property" fr="w29150" to="w29151">
+     <textspan type="extent">cadherin activities</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.1810.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6739" gid="g6428" t="Individual_protein" fr="w29132" to="w29132" nam="yes">
+     <textspan type="extent">plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1810.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6740" gid="g6429" t="PHOSPHORYLATION" fr="w29144" to="w29146">
+     <textspan type="extent">their [..] phosphorylation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="PHOSPHORYLATION"/>
+      <exattr n="bd" v="e.1810.4"/>
+      <exattr n="nst" v="st.1810.14.0"/>
+      <exattr n="nst" v="st.1810.16.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6741" gid="g6425" t="Individual_protein" fr="w29144" to="w29144" nam="yes">
+     <textspan type="extent">their</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1810.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6742" gid="g6430" t="Individual_protein" fr="w29150" to="w29150" nam="yes">
+     <textspan type="extent">cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1810.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2584" t="CORELATE" e1="e6740" e2="e6738" re="e6737">
+     <textspan type="extent">their tyrosine phosphorylation correlated with modified cadherin activities</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1810.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

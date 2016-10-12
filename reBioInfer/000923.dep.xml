@@ -1,0 +1,69 @@
+<rexml>
+<doc id="923">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14341" g="w14342" t="mod" cr="mod:w14342" w="Kinetic" l="~" p="A"/>
+     <dpg d="w14342" g="w14343" t="s" cr="s+subj:w14343" w="measurements" l="measurement" p="N"/>
+     <dpg d="w14343" g="E3" t="i" cr="" w="indicate" l="~" p="V"/>
+     <dpg d="E6" g="w14343" t="subj" cr="" w="" l="measurement" p="N"/>
+     <dpg d="E6" g="w14342" t="antecedent" cr="" w="" l="measurement" p="N"/>
+     <dpg d="E2" g="w14343" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14344" g="E2" t="c" cr="c:w14349" w="that" l="~" p="COMP"/>
+     <dpg d="w14345" g="w14349" t="s" cr="s+subj:w14346||s+subj:w14349" w="profilin" l="~" p="N"/>
+     <dpg d="E1" g="w14345" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w14345" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w14346" g="E1" t="i" cr="rel:w14345" w="binding" l="bind" p="V"/>
+     <dpg d="E7" g="w14346" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w14347" g="w14346" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w14348" g="w14347" t="pcomp-n" cr="mod*to*n:w14346" w="actin" l="~" p="N"/>
+     <dpg d="w14349" g="E2" t="i" cr="fc:w14343" w="weakens" l="weaken" p="V"/>
+     <dpg d="E8" g="w14349" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E8" g="w14345" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w14350" g="w14351" t="det" cr="det:w14351" w="the" l="~" p="Det"/>
+     <dpg d="w14351" g="w14349" t="obj" cr="obj:w14349" w="affinity" l="~" p="N"/>
+     <dpg d="w14352" g="w14351" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w14353" g="w14352" t="pcomp-n" cr="mod*of*n:w14351" w="actin" l="~" p="N"/>
+     <dpg d="w14354" g="w14353" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w14355" g="w14354" t="pcomp-n" cr="mod*for*n:w14353" w="nucleotides" l="nucleotide" p="N"/>
+     <dpg d="w14356" g="w14349" t="mod" cr="mod:w14349" w="primarily" l="~" p="A"/>
+     <dpg d="w14357" g="w14356" t="mod" cr="" w="due" l="due to" p="Prep"/>
+     <dpg d="w14358" g="w14357" t="lex-mod" cr="lex-mod:w14357" w="to" l="~" p="U"/>
+     <dpg d="w14359" g="w14364" t="det" cr="det:w14364" w="an" l="~" p="Det"/>
+     <dpg d="w14360" g="w14364" t="mod" cr="mod:w14364" w="increased" l="~" p="A"/>
+     <dpg d="w14361" g="w14364" t="nn" cr="nn:w14364" w="nucleotide" l="~" p="N"/>
+     <dpg d="w14362" g="w14364" t="nn" cr="nn:w14364" w="dissociation" l="~" p="N"/>
+     <dpg d="w14363" g="w14364" t="nn" cr="nn:w14364" w="rate" l="~" p="N"/>
+     <dpg d="w14364" g="w14357" t="pcomp-n" cr="mod*due*n:w14356" w="constant" l="~" p="N"/>
+     <dpg d="w14365" g="w14349" t="punc" cr="punc:w14349" w="," l="~" p="U"/>
+     <dpg d="w14366" g="w14349" t="mod" cr="mod:w14349" w="but" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w14366" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14367" g="w14371" t="det" cr="det:w14371" w="the" l="~" p="Det"/>
+     <dpg d="w14368" g="w14371" t="nn" cr="nn:w14371" w="nucleotide" l="~" p="N"/>
+     <dpg d="w14369" g="w14371" t="nn" cr="nn:w14371" w="association" l="~" p="N"/>
+     <dpg d="w14370" g="w14371" t="nn" cr="nn:w14371" w="rate" l="~" p="N"/>
+     <dpg d="w14371" g="w14372" t="s" cr="s:w14372||subj:w14376" w="constant" l="~" p="N"/>
+     <dpg d="w14372" g="E0" t="i" cr="comp1:w14366" w="is" l="be" p="VBE"/>
+     <dpg d="E9" g="w14376" t="subj" cr="" w="" l="constant" p="N"/>
+     <dpg d="E9" g="w14371" t="antecedent" cr="" w="" l="constant" p="N"/>
+     <dpg d="w14373" g="w14374" t="mod" cr="mod:w14374" w="also" l="~" p="A"/>
+     <dpg d="w14374" g="w14376" t="mod" cr="mod:w14376" w="increased" l="~" p="A"/>
+     <dpg d="w14375" g="w14376" t="lex-mod" cr="lex-mod:w14376" w="about" l="~" p="U"/>
+     <dpg d="w14376" g="w14372" t="pred" cr="pred:w14372" w="2-fold" l="about 2-fold" p="N"/>
+     <dpg d="w14377" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

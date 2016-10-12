@@ -1,0 +1,75 @@
+<rexml>
+<doc id="809">
+  <text>
+<p><s id="s1"><w id="w12649">Integrating</w> <w id="w12650">the</w> <w id="w12651">actin</w> <w id="w12652">and</w> <w id="w12653">vimentin</w> <w id="w12654">cytoskeletons</w> <w id="w12655">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2917" gid="g2798" t="RELATIONSHIP_TEXTBINDING" fr="w12649" to="w12649">
+     <textspan type="extent">Integrating</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.809.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2918" gid="g2799" t="Cell_component" fr="w12651" to="w12654" nam="yes">
+     <textspan type="extent">actin [..] cytoskeletons</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.809.1"/>
+      <exattr n="nst" v="st.809.2.0"/>
+      <exattr n="nst" v="st.809.5.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2919" gid="g2800" t="Cell_component" fr="w12653" to="w12654" nam="yes">
+     <textspan type="extent">vimentin cytoskeletons</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.809.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2920" gid="g2801" t="Individual_protein" fr="w12651" to="w12651" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.809.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2921" gid="g2802" t="Individual_protein" fr="w12653" to="w12653" nam="yes">
+     <textspan type="extent">vimentin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.809.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1132" t="RELATE" e1="e2918" e2="e2919" re="e2917">
+     <textspan type="extent">Integrating the actin and vimentin cytoskeletons</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.809.0"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,118 @@
+<rexml>
+<doc id="1434">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E7" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w22464" g="w22466" t="det" cr="det:w22466" w="The" l="~" p="Det"/>
+     <dpg d="w22465" g="w22466" t="nn" cr="nn:w22466" w="core" l="~" p="N"/>
+     <dpg d="w22466" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="histones" l="~" p="N"/>
+     <dpg d="w22467" g="w22466" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w22468" g="w22467" t="pcomp-n" cr="mod*from*n:w22466" w="Physarum" l="~" p="N"/>
+     <dpg d="w22469" g="w22468" t="punc" cr="punc:w22468" w="," l="~" p="U"/>
+     <dpg d="w22470" g="w22471" t="nn" cr="nn:w22471" w="histones" l="~" p="N"/>
+     <dpg d="w22471" g="w22468" t="conj" cr="conj:w22468" w="H2A" l="~" p="N"/>
+     <dpg d="w22472" g="w22471" t="punc" cr="punc:w22471" w="," l="~" p="U"/>
+     <dpg d="w22473" g="w22471" t="conj" cr="conj:w22471" w="H2B" l="~" p="N"/>
+     <dpg d="w22474" g="w22473" t="punc" cr="punc:w22473" w="," l="~" p="U"/>
+     <dpg d="w22475" g="w22473" t="conj" cr="conj:w22473" w="H3" l="~" p="N"/>
+     <dpg d="w22476" g="w22475" t="punc" cr="punc:w22475" w="," l="~" p="U"/>
+     <dpg d="w22477" g="w22475" t="punc" cr="punc:w22475" w="and" l="~" p="U"/>
+     <dpg d="w22478" g="w22475" t="conj" cr="conj:w22475" w="H4" l="~" p="N"/>
+     <dpg d="w22479" g="E7" t="punc" cr="punc:E7" w="," l="~" p="U"/>
+     <dpg d="w22480" g="E7" t="punc" cr="punc:E7" w="are" l="~" p="U"/>
+     <dpg d="w22481" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="rapidly" l="~" p="A"/>
+     <dpg d="w22482" g="E7" t="punc" cr="punc:E7" w="acetylated" l="~" p="U"/>
+     <dpg d="w22483" g="E7" t="punc" cr="punc:E7" w=";" l="~" p="U"/>
+     <dpg d="E4" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22484" g="w22485" t="nn" cr="nn:w22485" w="histone" l="~" p="N"/>
+     <dpg d="w22485" g="w22486" t="s" cr="s+subj:w22486" w="H4" l="~" p="N"/>
+     <dpg d="w22486" g="E4" t="i" cr="UNSPECRELTYPE:E7" w="shows" l="show" p="V"/>
+     <dpg d="E8" g="w22486" t="subj" cr="" w="" l="H4" p="N"/>
+     <dpg d="E8" g="w22485" t="antecedent" cr="" w="" l="H4" p="N"/>
+     <dpg d="w22487" g="w22488" t="nn" cr="nn:w22488" w="five" l="~" p="N"/>
+     <dpg d="w22488" g="w22486" t="obj" cr="obj:w22486" w="subfractions" l="~" p="N"/>
+     <dpg d="w22489" g="w22488" t="punc" cr="punc:w22488" w="," l="~" p="U"/>
+     <dpg d="w22490" g="w22488" t="pnmod" cr="pnmod:w22488" w="analogous" l="~" p="A"/>
+     <dpg d="w22491" g="w22490" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w22492" g="w22494" t="det" cr="det:w22494" w="the" l="~" p="Det"/>
+     <dpg d="w22493" g="w22494" t="nn" cr="nn:w22494" w="five" l="~" p="N"/>
+     <dpg d="w22494" g="w22491" t="pcomp-n" cr="mod*to*n:w22490" w="subfractions" l="~" p="N"/>
+     <dpg d="w22495" g="w22494" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w22496" g="w22498" t="mod" cr="mod:w22498" w="mammalian" l="~" p="A"/>
+     <dpg d="w22497" g="w22498" t="nn" cr="nn:w22498" w="histone" l="~" p="N"/>
+     <dpg d="w22498" g="w22495" t="pcomp-n" cr="mod*of*n:w22494||s+subj:w22500" w="H4" l="~" p="N"/>
+     <dpg d="w22499" g="w22498" t="punc" cr="punc:w22498" w="(" l="~" p="U"/>
+     <dpg d="E3" g="w22498" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E3" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w22498" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w22500" g="E3" t="i" cr="rel:w22498" w="containing" l="contain" p="V"/>
+     <dpg d="E9" g="w22500" t="subj" cr="" w="" l="H4" p="N"/>
+     <dpg d="E9" g="E5" t="antecedent" cr="" w="" l="H4" p="N"/>
+     <dpg d="w22501" g="w22500" t="obj" cr="obj:w22500" w="zero" l="~" p="N"/>
+     <dpg d="w22502" g="w22501" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w22503" g="w22505" t="nn" cr="nn:w22505" w="four" l="~" p="N"/>
+     <dpg d="w22504" g="w22505" t="nn" cr="nn:w22505" w="acetyllysine" l="~" p="N"/>
+     <dpg d="w22505" g="w22502" t="pcomp-n" cr="mod*to*n:w22501" w="residues" l="residue" p="N"/>
+     <dpg d="w22506" g="w22505" t="mod" cr="" w="per" l="~" p="Prep"/>
+     <dpg d="w22507" g="w22506" t="pcomp-n" cr="mod*per*n:w22505" w="molecule" l="~" p="N"/>
+     <dpg d="w22508" g="E7" t="punc" cr="punc:E7" w=")" l="~" p="U"/>
+     <dpg d="w22509" g="E7" t="punc" cr="punc:E7" w=";" l="~" p="U"/>
+     <dpg d="E2" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22510" g="w22511" t="nn" cr="nn:w22511" w="histone" l="~" p="N"/>
+     <dpg d="w22511" g="w22512" t="s" cr="s+subj:w22512" w="H3" l="~" p="N"/>
+     <dpg d="w22512" g="E2" t="i" cr="UNSPECRELTYPE:E7" w="has" l="have" p="V"/>
+     <dpg d="E10" g="w22512" t="subj" cr="" w="" l="H3" p="N"/>
+     <dpg d="E10" g="w22511" t="antecedent" cr="" w="" l="H3" p="N"/>
+     <dpg d="w22513" g="w22516" t="det" cr="det:w22516" w="a" l="~" p="Det"/>
+     <dpg d="w22514" g="w22516" t="mod" cr="mod:w22516" w="more" l="~" p="A"/>
+     <dpg d="w22515" g="w22516" t="nn" cr="nn:w22516" w="complex" l="~" p="N"/>
+     <dpg d="w22516" g="w22512" t="obj" cr="obj:w22512||obj:w22519" w="pattern" l="~" p="N"/>
+     <dpg d="E1" g="w22516" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22517" g="E1" t="c" cr="c:w22519" w="that" l="~" p="COMP"/>
+     <dpg d="w22518" g="w22519" t="s" cr="s+subj:w22519" w="we" l="~" p="N"/>
+     <dpg d="w22519" g="E1" t="i" cr="rel:w22516" w="interpret" l="~" p="V"/>
+     <dpg d="E11" g="w22519" t="obj" cr="" w="" l="pattern" p="N"/>
+     <dpg d="E11" g="w22516" t="antecedent" cr="" w="" l="pattern" p="N"/>
+     <dpg d="E12" g="w22519" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E12" g="w22518" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w22520" g="w22519" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w22521" g="w22520" t="pcomp-n" cr="mod*as*n:w22519" w="zero" l="~" p="N"/>
+     <dpg d="w22522" g="w22521" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w22523" g="w22525" t="nn" cr="nn:w22525" w="four" l="~" p="N"/>
+     <dpg d="w22524" g="w22525" t="nn" cr="nn:w22525" w="acetyllysine" l="~" p="N"/>
+     <dpg d="w22525" g="w22522" t="pcomp-n" cr="mod*to*n:w22521" w="residues" l="residue" p="N"/>
+     <dpg d="w22526" g="w22525" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w22527" g="w22526" t="pcomp-n" cr="mod*on*n:w22525" w="each" l="~" p="N"/>
+     <dpg d="w22528" g="w22527" t="comp1" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w22529" g="w22531" t="nn" cr="nn:w22531" w="two" l="~" p="N"/>
+     <dpg d="w22530" g="w22531" t="nn" cr="nn:w22531" w="sequence" l="~" p="N"/>
+     <dpg d="w22531" g="w22528" t="pcomp-n" cr="comp1*of*n:w22527" w="variants" l="variant" p="N"/>
+     <dpg d="w22532" g="w22531" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w22533" g="w22534" t="nn" cr="nn:w22534" w="histone" l="~" p="N"/>
+     <dpg d="w22534" g="w22532" t="pcomp-n" cr="mod*of*n:w22531" w="H3" l="~" p="N"/>
+     <dpg d="w22535" g="E7" t="punc" cr="punc:E7" w=";" l="~" p="U"/>
+     <dpg d="E0" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22536" g="w22537" t="nn" cr="nn:w22537" w="histones" l="~" p="N"/>
+     <dpg d="w22537" g="w22540" t="s" cr="s+subj:w22540" w="H2A" l="~" p="N"/>
+     <dpg d="w22538" g="w22537" t="punc" cr="punc:w22537" w="and" l="~" p="U"/>
+     <dpg d="w22539" g="w22537" t="conj" cr="conj:w22537" w="H2B" l="~" p="N"/>
+     <dpg d="w22540" g="E0" t="i" cr="UNSPECRELTYPE:E7" w="show" l="~" p="V"/>
+     <dpg d="E13" g="w22540" t="subj" cr="" w="" l="H2A" p="N"/>
+     <dpg d="E13" g="w22537" t="antecedent" cr="" w="" l="H2A" p="N"/>
+     <dpg d="w22541" g="w22542" t="det" cr="det:w22542" w="less" l="~" p="Det"/>
+     <dpg d="w22542" g="w22540" t="obj" cr="obj:w22540" w="heterogeneity" l="~" p="N"/>
+     <dpg d="w22543" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

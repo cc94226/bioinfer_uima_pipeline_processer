@@ -1,0 +1,84 @@
+<rexml>
+<doc id="614">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9037" g="w9040" t="nn" cr="nn:w9040" w="HGF" l="~" p="N"/>
+     <dpg d="w9038" g="w9040" t="nn" cr="nn:w9040" w="/" l="~" p="N"/>
+     <dpg d="w9039" g="w9040" t="nn" cr="nn:w9040" w="SF" l="~" p="N"/>
+     <dpg d="w9040" g="w9043" t="s" cr="s+subj:w9043" w="treatment" l="~" p="N"/>
+     <dpg d="w9041" g="w9040" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9042" g="w9041" t="pcomp-n" cr="mod*of*n:w9040" w="LoVo" l="~" p="N"/>
+     <dpg d="w9043" g="E2" t="i" cr="" w="reduced" l="reduce" p="V"/>
+     <dpg d="E5" g="w9043" t="subj" cr="" w="" l="treatment" p="N"/>
+     <dpg d="E5" g="w9040" t="antecedent" cr="" w="" l="treatment" p="N"/>
+     <dpg d="w9044" g="w9045" t="det" cr="det:w9045" w="the" l="~" p="Det"/>
+     <dpg d="w9045" g="w9043" t="obj" cr="obj:w9043" w="amount" l="~" p="N"/>
+     <dpg d="w9046" g="w9045" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9047" g="w9046" t="pcomp-n" cr="mod*of*n:w9045" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w9048" g="w9047" t="pnmod" cr="pnmod:w9047" w="complexed" l="~" p="A"/>
+     <dpg d="w9049" g="w9048" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w9050" g="w9051" t="mod" cr="mod:w9051" w="E-cadherin" l="E-cadherin" p="A"/>
+     <dpg d="w9051" g="w9049" t="pcomp-n" cr="mod*with*n:w9048" w="more" l="~" p="N"/>
+     <dpg d="w9052" g="w9043" t="mod" cr="mod:w9043" w="markedly" l="~" p="A"/>
+     <dpg d="w9053" g="w9043" t="mod" cr="mod:w9043" w="than" l="~" p="SentAdjunct"/>
+     <dpg d="E1" g="w9053" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9054" g="E1" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w9055" g="w9054" t="pcomp-n" cr="mod*in*n:w9066" w="L-10" l="L-10" p="N"/>
+     <dpg d="w9056" g="w9054" t="punc" cr="punc:w9054" w="," l="~" p="U"/>
+     <dpg d="w9057" g="w9054" t="punc" cr="punc:w9054" w="but" l="~" p="U"/>
+     <dpg d="w9058" g="w9054" t="conj" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w9059" g="w9061" t="det" cr="det:w9061" w="both" l="~" p="Det"/>
+     <dpg d="w9060" g="w9061" t="nn" cr="nn:w9061" w="cell" l="~" p="N"/>
+     <dpg d="w9061" g="w9058" t="pcomp-n" cr="mod*in*n:w9066" w="lines" l="line" p="N"/>
+     <dpg d="w9062" g="w9063" t="det" cr="det:w9063" w="this" l="~" p="Det"/>
+     <dpg d="w9063" g="w9066" t="s" cr="s+obj:w9066||s+subj:w9074" w="reduction" l="~" p="N"/>
+     <dpg d="w9064" g="w9066" t="be" cr="be:w9066" w="was" l="be" p="be"/>
+     <dpg d="w9065" g="w9064" t="neg" cr="neg:w9064" w="not" l="~" p="A"/>
+     <dpg d="w9066" g="E1" t="i" cr="comp1:w9053" w="accompanied" l="accompany" p="V"/>
+     <dpg d="E6" g="w9066" t="obj" cr="" w="" l="reduction" p="N"/>
+     <dpg d="E6" g="w9063" t="antecedent" cr="" w="" l="reduction" p="N"/>
+     <dpg d="w9067" g="w9066" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w9068" g="w9070" t="mod" cr="mod:w9070" w="increased" l="~" p="A"/>
+     <dpg d="w9069" g="w9070" t="nn" cr="nn:w9070" w="tyrosine" l="~" p="N"/>
+     <dpg d="w9070" g="w9067" t="pcomp-n" cr="by-subj*by*n:w9066" w="phosphorylation" l="~" p="N"/>
+     <dpg d="w9071" g="w9070" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9072" g="w9071" t="pcomp-n" cr="mod*of*n:w9070" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w9073" g="w9066" t="punc" cr="punc:w9066" w="," l="~" p="U"/>
+     <dpg d="E0" g="w9066" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w9063" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w9074" g="E0" t="i" cr="mod:w9066" w="suggesting" l="suggest" p="V"/>
+     <dpg d="E7" g="w9074" t="subj" cr="" w="" l="reduction" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="reduction" p="N"/>
+     <dpg d="w9075" g="w9076" t="det" cr="det:w9076" w="the" l="~" p="Det"/>
+     <dpg d="w9076" g="w9074" t="obj" cr="obj:w9074" w="presence" l="~" p="N"/>
+     <dpg d="w9077" g="w9076" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9078" g="w9079" t="det" cr="det:w9079" w="a" l="~" p="Det"/>
+     <dpg d="w9079" g="w9077" t="pcomp-n" cr="mod*of*n:w9076" w="mechanism" l="~" p="N"/>
+     <dpg d="w9080" g="w9079" t="pnmod" cr="pnmod:w9079" w="other" l="~" p="A"/>
+     <dpg d="w9081" g="w9080" t="mod" cr="" w="than" l="~" p="Prep"/>
+     <dpg d="w9082" g="w9081" t="pcomp-n" cr="mod*than*n:w9080" w="phosphorylation" l="~" p="N"/>
+     <dpg d="w9083" g="w9082" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w9084" g="w9083" t="pcomp-n" cr="mod*for*n:w9082" w="release" l="~" p="N"/>
+     <dpg d="w9085" g="w9084" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w9086" g="w9087" t="mod" cr="mod:w9087" w="cell-cell" l="cell-cell" p="A"/>
+     <dpg d="w9087" g="w9085" t="pcomp-n" cr="mod*from*n:w9084" w="adhesion" l="~" p="N"/>
+     <dpg d="w9088" g="w9087" t="mod" cr="" w="during" l="~" p="Prep"/>
+     <dpg d="w9089" g="w9090" t="nn" cr="nn:w9090" w="cell" l="~" p="N"/>
+     <dpg d="w9090" g="w9088" t="pcomp-n" cr="mod*during*n:w9087" w="motility" l="~" p="N"/>
+     <dpg d="w9091" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

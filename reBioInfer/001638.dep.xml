@@ -1,0 +1,44 @@
+<rexml>
+<doc id="1638">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26157" g="w26159" t="det" cr="det:w26159" w="The" l="~" p="Det"/>
+     <dpg d="w26158" g="w26159" t="nn" cr="nn:w26159" w="recombinant" l="~" p="N"/>
+     <dpg d="w26159" g="w26160" t="s" cr="s:w26160||subj:w26161" w="material" l="~" p="N"/>
+     <dpg d="w26160" g="E0" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="w26161" g="w26160" t="pred" cr="pred:w26160" w="similar" l="~" p="A"/>
+     <dpg d="E2" g="w26161" t="subj" cr="" w="" l="material" p="N"/>
+     <dpg d="E2" g="w26159" t="antecedent" cr="" w="" l="material" p="N"/>
+     <dpg d="w26162" g="w26161" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w26163" g="w26166" t="mod" cr="mod:w26166" w="authentic" l="~" p="A"/>
+     <dpg d="w26164" g="w26166" t="mod" cr="mod:w26166" w="human" l="~" p="A"/>
+     <dpg d="w26165" g="w26166" t="nn" cr="nn:w26166" w="platelet" l="~" p="N"/>
+     <dpg d="w26166" g="w26162" t="pcomp-n" cr="mod*to*n:w26161||obj:w26167" w="profilin" l="~" p="N"/>
+     <dpg d="w26167" g="w26166" t="vrel" cr="vrel:w26166" w="based" l="base" p="V"/>
+     <dpg d="E3" g="w26167" t="obj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E3" g="w26166" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w26168" g="w26167" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w26169" g="w26171" t="det" cr="det:w26171" w="the" l="~" p="Det"/>
+     <dpg d="w26170" g="w26171" t="mod" cr="mod:w26171" w="measured" l="~" p="A"/>
+     <dpg d="w26171" g="w26168" t="pcomp-n" cr="mod*on*n:w26167" w="Kd" l="~" p="N"/>
+     <dpg d="w26172" g="w26171" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w26173" g="w26176" t="nn" cr="nn:w26176" w="rabbit" l="~" p="N"/>
+     <dpg d="w26174" g="w26175" t="lex-mod" cr="lex-mod:w26175" w="skeletal" l="~" p="U"/>
+     <dpg d="w26175" g="w26176" t="nn" cr="nn:w26176" w="muscle" l="skeletal muscle" p="N"/>
+     <dpg d="w26176" g="w26172" t="pcomp-n" cr="mod*for*n:w26171" w="actin" l="~" p="N"/>
+     <dpg d="w26177" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

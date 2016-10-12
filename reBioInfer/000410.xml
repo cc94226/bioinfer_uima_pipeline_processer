@@ -1,0 +1,83 @@
+<rexml>
+<doc id="410">
+  <text>
+<p><s id="s1"><w id="w5943">Double</w> <w id="w5944">mutants</w> <w id="w5945">containing</w> <w id="w5946">N-terminal</w> <w id="w5947">domain</w> <w id="w5948">deletions</w> <w id="w5949">of</w> <w id="w5950">both</w> <w id="w5951">histone</w> <w id="w5952">H3</w> <w id="w5953">and</w> <w id="w5954">histone</w> <w id="w5955">H4</w> <w id="w5956">were</w> <w id="w5957">inviable</w> <w id="w5958">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1445" gid="g1377" t="Protein_family_or_group" fr="w5951" to="w5951" nam="yes">
+     <textspan type="extent">histone</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.410.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1446" gid="g1378" t="Individual_protein" fr="w5952" to="w5952" nam="yes">
+     <textspan type="extent">H3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.410.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1447" gid="g1379" t="Protein_family_or_group" fr="w5954" to="w5954" nam="yes">
+     <textspan type="extent">histone</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.410.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1448" gid="g1380" t="Individual_protein" fr="w5955" to="w5955" nam="yes">
+     <textspan type="extent">H4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.410.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r566" t="MEMBER" e1="e1445" e2="e1446" re="">
+     <textspan type="extent">histone H3</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r567" t="MEMBER" e1="e1447" e2="e1448" re="">
+     <textspan type="extent">histone H4</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

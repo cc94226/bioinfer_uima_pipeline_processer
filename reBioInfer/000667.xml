@@ -1,0 +1,98 @@
+<rexml>
+<doc id="667">
+  <text>
+<p><s id="s1"><w id="w10005">Immunofluorescence</w> <w id="w10006">experiments</w> <w id="w10007">showed</w> <w id="w10008">that</w> <w id="w10009">,</w> <w id="w10010">like</w> <w id="w10011">Abp1p</w> <w id="w10012">,</w> <w id="w10013">cofilin</w> <w id="w10014">is</w> <w id="w10015">associated</w> <w id="w10016">with</w> <w id="w10017">the</w> <w id="w10018">membrane</w> <w id="w10019">actin</w> <w id="w10020">cytoskeleton</w> <w id="w10021">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2362" gid="g2262" t="Individual_protein" fr="w10011" to="w10011" nam="yes">
+     <textspan type="extent">Abp1p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.667.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2363" gid="g2263" t="RELATIONSHIP_TEXTBINDING" fr="w10015" to="w10016">
+     <textspan type="extent">associated with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.667.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2364" gid="g2264" t="Cell_component" fr="w10019" to="w10020" nam="yes">
+     <textspan type="extent">actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.667.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2365" gid="g2265" t="RELATIONSHIP_TEXTBINDING" fr="w10010" to="w10016">
+     <textspan type="extent">like [..] associated with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.667.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2366" gid="g2266" t="Individual_protein" fr="w10013" to="w10013" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.667.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2367" gid="g2267" t="Individual_protein" fr="w10019" to="w10019" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.667.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r913" t="BIND" e1="e2366" e2="e2364" re="e2363">
+     <textspan type="extent">cofilin is associated with the membrane actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.667.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r914" t="BIND" e1="e2362" e2="e2364" re="e2365">
+     <textspan type="extent">like Abp1p , cofilin is associated with the membrane actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.667.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

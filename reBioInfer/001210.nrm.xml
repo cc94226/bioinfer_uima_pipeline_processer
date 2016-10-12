@@ -1,0 +1,112 @@
+<rexml>
+<doc id="1210">
+  
+  <markup>
+   <nes>
+    <ne id="e4425" gid="g4232" t="Gene" fr="w19103" to="w19103" nam="yes" sid="s1">
+     <textspan>MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1210.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4428" gid="g4235" t="Gene" fr="w19111" to="w19111" nam="yes" sid="s1">
+     <textspan>MSH3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1210.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4427" gid="g4234" t="Gene" fr="w19113" to="w19113" nam="yes" sid="s1">
+     <textspan>MSH6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1210.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4430" gid="g4237" t="Gene" fr="w19116" to="w19116" nam="yes" sid="s1">
+     <textspan>MSH3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1210.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4429" gid="g4236" t="Gene" fr="w19118" to="w19118" nam="yes" sid="s1">
+     <textspan>MSH6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1210.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4433" gid="g4240" t="Gene" fr="w19123" to="w19123" nam="yes" sid="s1">
+     <textspan>MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1210.8"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1686" t="RELATE" e1="e4425" e2="e4428" re="e4426">
+     <textspan>MSH2 functions in mismatch repair in conjunction with MSH3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1210.1"/>
+      <exattr n="t1" v="RELATE"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1687" t="RELATE" e1="e4425" e2="e4427" re="e4426">
+     <textspan>MSH2 functions in mismatch repair in conjunction with MSH3 or MSH6</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1210.1"/>
+      <exattr n="t1" v="RELATE"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

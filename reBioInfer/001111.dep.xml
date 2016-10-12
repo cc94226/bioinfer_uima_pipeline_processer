@@ -1,0 +1,89 @@
+<rexml>
+<doc id="1111">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w17574" g="w17575" t="nn" cr="nn:w17575" w="PDGF" l="~" p="N"/>
+     <dpg d="w17575" g="w17576" t="s" cr="s+subj:w17576" w="treatment" l="~" p="N"/>
+     <dpg d="w17576" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="had" l="have" p="V"/>
+     <dpg d="E4" g="w17576" t="subj" cr="" w="" l="treatment" p="N"/>
+     <dpg d="E4" g="w17575" t="antecedent" cr="" w="" l="treatment" p="N"/>
+     <dpg d="w17577" g="w17578" t="det" cr="det:w17578" w="no" l="~" p="Det"/>
+     <dpg d="w17578" g="w17576" t="obj" cr="obj:w17576" w="effect" l="~" p="N"/>
+     <dpg d="w17579" g="w17578" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w17580" g="w17579" t="pcomp-n" cr="mod*on*n:w17578" w="talin" l="~" p="N"/>
+     <dpg d="w17581" g="w17580" t="punc" cr="punc:w17580" w="," l="~" p="U"/>
+     <dpg d="w17582" g="w17580" t="conj" cr="conj:w17580" w="vimentin" l="~" p="N"/>
+     <dpg d="w17583" g="w17582" t="punc" cr="punc:w17582" w="," l="~" p="U"/>
+     <dpg d="w17584" g="w17582" t="punc" cr="punc:w17582" w="or" l="~" p="U"/>
+     <dpg d="w17585" g="w17586" t="nn" cr="nn:w17586" w="microtubule" l="~" p="N"/>
+     <dpg d="w17586" g="w17582" t="conj" cr="conj:w17582" w="distribution" l="~" p="N"/>
+     <dpg d="w17587" g="w17586" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w17588" g="w17589" t="nn" cr="nn:w17589" w="BALB/c-3T3" l="BALB/c-3T3" p="N"/>
+     <dpg d="w17589" g="w17587" t="pcomp-n" cr="mod*in*n:w17586" w="cells" l="cell" p="N"/>
+     <dpg d="w17590" g="E3" t="punc" cr="punc:E3" w=";" l="~" p="U"/>
+     <dpg d="w17591" g="E3" t="p" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w17592" g="w17591" t="pcomp-n" cr="p*in*n:E3" w="addition" l="~" p="N"/>
+     <dpg d="w17593" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w17594" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="exposure" l="~" p="N"/>
+     <dpg d="w17595" g="w17594" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w17596" g="w17595" t="pcomp-n" cr="mod*of*n:w17594" w="cells" l="cell" p="N"/>
+     <dpg d="w17597" g="w17596" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w17598" g="w17599" t="lex-mod" cr="lex-mod:w17599" w="5" l="~" p="U"/>
+     <dpg d="w17599" g="w17597" t="pcomp-n" cr="mod*to*n:w17596" w="%" l="5 %" p="N"/>
+     <dpg d="w17600" g="w17601" t="lex-mod" cr="lex-mod:w17601" w="platelet-poor" l="~" p="U"/>
+     <dpg d="w17601" g="E3" t="subclass" cr="subclass:E3" w="plasma" l="platelet-poor plasma" p="N"/>
+     <dpg d="w17602" g="w17603" t="punc" cr="punc:w17603" w="(" l="~" p="U"/>
+     <dpg d="w17603" g="w17601" t="abbrev" cr="abbrev:w17601" w="PPP" l="~" p="N"/>
+     <dpg d="w17604" g="w17603" t="punc" cr="punc:w17603" w=")" l="~" p="U"/>
+     <dpg d="w17605" g="w17601" t="punc" cr="punc:w17601" w="," l="~" p="U"/>
+     <dpg d="w17606" g="w17607" t="lex-mod" cr="lex-mod:w17607" w="0.1" l="~" p="U"/>
+     <dpg d="w17607" g="w17608" t="nn" cr="nn:w17608" w="%" l="0.1 %" p="N"/>
+     <dpg d="w17608" g="w17601" t="appo" cr="appo:w17601" w="PPP" l="~" p="N"/>
+     <dpg d="w17609" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w17610" g="w17611" t="num" cr="num:w17611" w="30" l="~" p="N"/>
+     <dpg d="w17611" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="ng/ml" l="~" p="N"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w17612" g="w17614" t="lex-mod" cr="lex-mod:w17614" w="epidermal" l="~" p="U"/>
+     <dpg d="w17613" g="w17614" t="lex-mod" cr="lex-mod:w17614" w="growth" l="~" p="U"/>
+     <dpg d="w17614" g="w17629" t="s" cr="s+subj:w17629" w="factor" l="epidermal growth factor" p="N"/>
+     <dpg d="w17615" g="w17616" t="punc" cr="punc:w17616" w="(" l="~" p="U"/>
+     <dpg d="w17616" g="w17614" t="abbrev" cr="abbrev:w17614" w="EGF" l="~" p="N"/>
+     <dpg d="w17617" g="w17616" t="punc" cr="punc:w17616" w=")" l="~" p="U"/>
+     <dpg d="w17618" g="w17614" t="punc" cr="punc:w17614" w="," l="~" p="U"/>
+     <dpg d="w17619" g="w17622" t="num" cr="num:w17622" w="30" l="~" p="N"/>
+     <dpg d="w17620" g="w17622" t="nn" cr="nn:w17622" w="ng/ml" l="~" p="N"/>
+     <dpg d="w17621" g="w17622" t="nn" cr="nn:w17622" w="somatomedin" l="~" p="N"/>
+     <dpg d="w17622" g="w17614" t="conj" cr="conj:w17614" w="C" l="~" p="N"/>
+     <dpg d="w17623" g="w17622" t="punc" cr="punc:w17622" w="," l="~" p="U"/>
+     <dpg d="w17624" g="w17622" t="punc" cr="punc:w17622" w="or" l="~" p="U"/>
+     <dpg d="w17625" g="w17627" t="num" cr="num:w17627" w="10" l="~" p="N"/>
+     <dpg d="w17626" g="w17627" t="nn" cr="nn:w17627" w="microM" l="~" p="N"/>
+     <dpg d="w17627" g="w17622" t="conj" cr="conj:w17622" w="insulin" l="~" p="N"/>
+     <dpg d="w17628" g="w17629" t="mod-before" cr="mod-before:w17629" w="also" l="~" p="A"/>
+     <dpg d="w17629" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="had" l="have" p="V"/>
+     <dpg d="E5" g="w17629" t="subj" cr="" w="" l="epidermal growth factor" p="N"/>
+     <dpg d="E5" g="w17614" t="antecedent" cr="" w="" l="epidermal growth factor" p="N"/>
+     <dpg d="w17630" g="w17631" t="det" cr="det:w17631" w="no" l="~" p="Det"/>
+     <dpg d="w17631" g="w17629" t="obj" cr="obj:w17629" w="effect" l="~" p="N"/>
+     <dpg d="w17632" g="w17631" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w17633" g="w17632" t="pcomp-n" cr="mod*on*n:w17631" w="vinculin" l="~" p="N"/>
+     <dpg d="w17634" g="w17633" t="punc" cr="punc:w17633" w="or" l="~" p="U"/>
+     <dpg d="w17635" g="w17636" t="nn" cr="nn:w17636" w="actin" l="~" p="N"/>
+     <dpg d="w17636" g="w17633" t="conj" cr="conj:w17633" w="distribution" l="~" p="N"/>
+     <dpg d="w17637" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

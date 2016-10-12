@@ -1,0 +1,55 @@
+<rexml>
+<doc id="112">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1799" g="w1800" t="s" cr="s:w1800||subj:w1803" w="Munc18-2" l="Munc18-2" p="N"/>
+     <dpg d="w1800" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="is" l="be" p="VBE"/>
+     <dpg d="E4" g="w1803" t="subj" cr="" w="" l="Munc18-2" p="N"/>
+     <dpg d="E4" g="w1799" t="antecedent" cr="" w="" l="Munc18-2" p="N"/>
+     <dpg d="w1801" g="w1803" t="det" cr="det:w1803" w="a" l="~" p="Det"/>
+     <dpg d="w1802" g="w1803" t="nn" cr="nn:w1803" w="Sec1" l="~" p="N"/>
+     <dpg d="w1803" g="w1800" t="pred" cr="pred:w1800||obj:w1804||subj:w1809" w="homologue" l="~" p="N"/>
+     <dpg d="w1804" g="w1803" t="vrel" cr="vrel:w1803" w="enriched" l="enrich" p="V"/>
+     <dpg d="E5" g="w1804" t="obj" cr="" w="" l="homologue" p="N"/>
+     <dpg d="E5" g="w1803" t="antecedent" cr="" w="" l="homologue" p="N"/>
+     <dpg d="w1805" g="w1804" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w1806" g="w1807" t="lex-mod" cr="lex-mod:w1807" w="epithelial" l="~" p="U"/>
+     <dpg d="w1807" g="w1805" t="pcomp-n" cr="mod*in*n:w1804" w="cells" l="epithelial cell" p="N"/>
+     <dpg d="w1808" g="w1804" t="punc" cr="punc:w1804" w="and" l="~" p="U"/>
+     <dpg d="w1809" g="w1804" t="conj" cr="conj:w1804" w="forms" l="form" p="V"/>
+     <dpg d="E6" g="w1809" t="subj" cr="" w="" l="homologue" p="N"/>
+     <dpg d="E6" g="w1803" t="antecedent" cr="" w="" l="homologue" p="N"/>
+     <dpg d="w1810" g="w1811" t="det" cr="det:w1811" w="a" l="~" p="Det"/>
+     <dpg d="w1811" g="w1809" t="obj" cr="obj:w1809" w="complex" l="~" p="N"/>
+     <dpg d="w1812" g="w1811" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w1813" g="w1812" t="pcomp-n" cr="mod*with*n:w1811" w="syntaxin" l="~" p="N"/>
+     <dpg d="w1814" g="w1813" t="num" cr="num:w1813" w="3" l="~" p="N"/>
+     <dpg d="w1815" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1816" g="w1817" t="det" cr="det:w1817" w="a" l="~" p="Det"/>
+     <dpg d="w1817" g="w1818" t="s" cr="s+subj:w1818" w="t-SNARE" l="t-SNARE" p="N"/>
+     <dpg d="w1818" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="localized" l="localize" p="V"/>
+     <dpg d="E7" g="w1818" t="subj" cr="" w="" l="t-SNARE" p="N"/>
+     <dpg d="E7" g="w1817" t="antecedent" cr="" w="" l="t-SNARE" p="N"/>
+     <dpg d="w1819" g="w1818" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w1820" g="w1823" t="det" cr="det:w1823" w="the" l="~" p="Det"/>
+     <dpg d="w1821" g="w1823" t="mod" cr="mod:w1823" w="apical" l="~" p="A"/>
+     <dpg d="w1822" g="w1823" t="lex-mod" cr="lex-mod:w1823" w="plasma" l="~" p="U"/>
+     <dpg d="w1823" g="w1819" t="pcomp-n" cr="mod*to*n:w1818" w="membrane" l="plasma membrane" p="N"/>
+     <dpg d="w1824" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

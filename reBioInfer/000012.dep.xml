@@ -1,0 +1,50 @@
+<rexml>
+<doc id="12">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w151" g="w152" t="nn" cr="nn:w152" w="Acanthamoeba" l="~" p="N"/>
+     <dpg d="w152" g="w153" t="s" cr="s+subj:w153||s+subj:w162" w="profilin" l="~" p="N"/>
+     <dpg d="w153" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="has" l="have" p="V"/>
+     <dpg d="E5" g="w153" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E5" g="w152" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w154" g="w157" t="mod" cr="mod:w157" w="similar" l="~" p="A"/>
+     <dpg d="w155" g="w154" t="punc" cr="punc:w154" w="but" l="~" p="U"/>
+     <dpg d="w156" g="w154" t="conj" cr="conj:w154" w="weaker" l="weak" p="A"/>
+     <dpg d="w157" g="w153" t="obj" cr="obj:w153" w="effects" l="effect" p="N"/>
+     <dpg d="w158" g="w157" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w159" g="w160" t="nn" cr="nn:w160" w="muscle" l="~" p="N"/>
+     <dpg d="w160" g="w158" t="pcomp-n" cr="mod*on*n:w157" w="actin" l="~" p="N"/>
+     <dpg d="w161" g="w153" t="punc" cr="punc:w153" w="," l="~" p="U"/>
+     <dpg d="E0" g="w153" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w152" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w162" g="E0" t="i" cr="mod:w153" w="requiring" l="require" p="V"/>
+     <dpg d="E6" g="w162" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w163" g="w165" t="lex-mod" cr="lex-mod:w165" w="5" l="~" p="U"/>
+     <dpg d="w164" g="w165" t="lex-mod" cr="lex-mod:w165" w="to" l="~" p="U"/>
+     <dpg d="w165" g="w166" t="amount-value" cr="amount-value:w166" w="10" l="5 to 10" p="N"/>
+     <dpg d="w166" g="w168" t="nn" cr="nn:w168" w="times" l="~" p="N"/>
+     <dpg d="w167" g="w168" t="mod" cr="mod:w168" w="more" l="~" p="A"/>
+     <dpg d="w168" g="w162" t="obj" cr="obj:w162" w="profilin" l="~" p="N"/>
+     <dpg d="w169" g="E4" t="punc" cr="punc:E4" w="than" l="~" p="U"/>
+     <dpg d="w170" g="E4" t="p" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w171" g="w172" t="nn" cr="nn:w172" w="amoeba" l="~" p="N"/>
+     <dpg d="w172" g="w170" t="pcomp-n" cr="p*with*n:E4" w="actin" l="~" p="N"/>
+     <dpg d="w173" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

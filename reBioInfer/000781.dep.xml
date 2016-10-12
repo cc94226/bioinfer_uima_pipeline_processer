@@ -1,0 +1,61 @@
+<rexml>
+<doc id="781">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12254" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w12255" g="w12256" t="nn" cr="nn:w12256" w="localization" l="~" p="N"/>
+     <dpg d="w12256" g="w12254" t="pcomp-n" cr="mod*in*n:w12264" w="studies" l="study" p="N"/>
+     <dpg d="w12257" g="w12256" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w12258" g="w12259" t="mod" cr="mod:w12259" w="mammalian" l="~" p="A"/>
+     <dpg d="w12259" g="w12257" t="pcomp-n" cr="mod*with*n:w12256" w="cells" l="cell" p="N"/>
+     <dpg d="w12260" g="E1" t="punc" cr="punc:w12264" w="," l="~" p="U"/>
+     <dpg d="w12261" g="E1" t="mod" cr="mod:w12264" w="all" l="~" p="A"/>
+     <dpg d="w12262" g="w12263" t="nn" cr="nn:w12263" w="fusion" l="~" p="N"/>
+     <dpg d="w12263" g="w12264" t="s" cr="s+subj:w12264||s+subj:w12279" w="proteins" l="protein" p="N"/>
+     <dpg d="w12264" g="E1" t="i" cr="" w="showed" l="show" p="V"/>
+     <dpg d="E4" g="w12264" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E4" g="w12263" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w12265" g="w12266" t="det" cr="det:w12266" w="the" l="~" p="Det"/>
+     <dpg d="w12266" g="w12264" t="obj" cr="obj:w12264" w="localization" l="~" p="N"/>
+     <dpg d="w12267" g="w12266" t="pnmod" cr="pnmod:w12266" w="expected" l="~" p="A"/>
+     <dpg d="w12268" g="w12267" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w12269" g="w12268" t="pcomp-n" cr="mod*for*n:w12267" w="profilin" l="~" p="N"/>
+     <dpg d="w12270" g="w12269" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w12271" g="w12270" t="pcomp-n" cr="mod*in*n:w12269" w="areas" l="area" p="N"/>
+     <dpg d="w12272" g="w12271" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12273" g="w12275" t="mod" cr="mod:w12275" w="high" l="~" p="A"/>
+     <dpg d="w12274" g="w12275" t="nn" cr="nn:w12275" w="actin" l="~" p="N"/>
+     <dpg d="w12275" g="w12272" t="pcomp-n" cr="mod*of*n:w12271" w="dynamics" l="~" p="N"/>
+     <dpg d="w12276" g="w12264" t="punc" cr="punc:w12264" w="," l="~" p="U"/>
+     <dpg d="w12277" g="w12264" t="mod" cr="" w="such" l="such as" p="Prep"/>
+     <dpg d="w12278" g="w12277" t="lex-mod" cr="lex-mod:w12277" w="as" l="~" p="U"/>
+     <dpg d="E0" g="w12277" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w12263" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w12279" g="E0" t="i" cr="mod*such*c:w12264" w="leading" l="lead" p="V"/>
+     <dpg d="E5" g="w12279" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w12280" g="w12279" t="obj" cr="obj:w12279" w="lamellae" l="~" p="N"/>
+     <dpg d="w12281" g="w12280" t="punc" cr="punc:w12280" w="and" l="~" p="U"/>
+     <dpg d="w12282" g="w12280" t="conj" cr="conj:w12280" w="ruffles" l="ruffle" p="N"/>
+     <dpg d="w12283" g="w12282" t="pnmod" cr="pnmod:w12282" w="induced" l="~" p="A"/>
+     <dpg d="w12284" g="w12283" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w12285" g="w12287" t="mod" cr="mod:w12287" w="epidermal" l="~" p="A"/>
+     <dpg d="w12286" g="w12287" t="nn" cr="nn:w12287" w="growth" l="~" p="N"/>
+     <dpg d="w12287" g="w12284" t="pcomp-n" cr="mod*by*n:w12283" w="factor" l="~" p="N"/>
+     <dpg d="w12288" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,156 @@
+<rexml>
+<doc id="699">
+  <text>
+<p><s id="s1"><w id="w10816">Inactivation</w> <w id="w10817">of</w> <w id="w10818">the</w> <w id="w10819">Rb</w> <w id="w10820">pathway</w> <w id="w10821">in</w> <w id="w10822">non-small</w> <w id="w10823">cell</w> <w id="w10824">lung</w> <w id="w10825">carcinoma</w> <w id="w10826">(</w> <w id="w10827">NSCLC</w> <w id="w10828">)</w> <w id="w10829">occurs</w> <w id="w10830">mostly</w> <w id="w10831">through</w> <w id="w10832">inactivation</w> <w id="w10833">of</w> <w id="w10834">the</w> <w id="w10835">cyclin-dependent</w> <w id="w10836">kinase</w> <w id="w10837">inhibitor</w> <w id="w10838">p16</w><w id="w10839">(</w><w id="w10840">INK4A</w><w id="w10841">)</w> <w id="w10842">and/or</w> <w id="w10843">up-regulation</w> <w id="w10844">of</w> <w id="w10845">cyclin</w> <w id="w10846">D1</w> <w id="w10847">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2534" gid="g2429" t="RELATIONSHIP_TEXTBINDING" fr="w10831" to="w10831">
+     <textspan type="extent">through</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.699.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2535" gid="g2430" t="INACTIVATION" fr="w10832" to="w10838">
+     <textspan type="extent">inactivation of [..] p16</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Full-stop"/>
+      <exattr n="t4" v="INACTIVATION"/>
+      <exattr n="bd" v="e.699.1"/>
+      <exattr n="nst" v="st.699.16.0"/>
+      <exattr n="nst" v="st.699.17.0"/>
+      <exattr n="nst" v="st.699.22.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2536" gid="g2431" t="Protein_family_or_group" fr="w10835" to="w10837" nam="yes">
+     <textspan type="extent">cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.699.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2537" gid="g2432" t="UPREGULATION" fr="w10843" to="w10846">
+     <textspan type="extent">up-regulation of cyclin D1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="UPREGULATION"/>
+      <exattr n="bd" v="e.699.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2538" gid="g2433" t="Individual_protein" fr="w10838" to="w10838" nam="yes">
+     <textspan type="extent">p16</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.699.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2539" gid="g2433" t="Individual_protein" fr="w10840" to="w10840" nam="yes">
+     <textspan type="extent">INK4A</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.699.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2540" gid="g2434" t="Process_entity" fr="w10818" to="w10820">
+     <textspan type="extent">the Rb pathway</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.699.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2541" gid="g2435" t="Individual_protein" fr="w10845" to="w10846" nam="yes">
+     <textspan type="extent">cyclin D1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.699.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2542" gid="g2436" t="INACTIVATION" fr="w10816" to="w10820">
+     <textspan type="extent">Inactivation of the Rb pathway</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Full-stop"/>
+      <exattr n="t4" v="INACTIVATION"/>
+      <exattr n="bd" v="e.699.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e2543" gid="g2437" t="Individual_protein" fr="w10819" to="w10819" nam="yes">
+     <textspan type="extent">Rb</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.699.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r970" t="MEDIATE" e1="e2535" e2="e2542" re="e2534">
+     <textspan type="extent">Inactivation of the Rb pathway in non-small cell lung carcinoma ( NSCLC ) occurs mostly through inactivation of the cyclin-dependent kinase inhibitor p16</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.699.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r971" t="MEDIATE" e1="e2537" e2="e2542" re="e2534">
+     <textspan type="extent">Inactivation of the Rb pathway in non-small cell lung carcinoma ( NSCLC ) occurs mostly through inactivation of the cyclin-dependent kinase inhibitor p16 ( INK4A ) and/or up-regulation of cyclin D1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.699.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r973" t="MEMBER" e1="e2536" e2="e2538" re="">
+     <textspan type="extent">cyclin-dependent kinase inhibitor p16</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

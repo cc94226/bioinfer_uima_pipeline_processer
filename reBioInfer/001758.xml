@@ -1,0 +1,216 @@
+<rexml>
+<doc id="1758">
+  <text>
+<p><s id="s1"><w id="w27969">These</w> <w id="w27970">results</w> <w id="w27971">suggest</w> <w id="w27972">that</w> <w id="w27973">TNF-alpha</w> <w id="w27974">can</w> <w id="w27975">cause</w> <w id="w27976">apoptosis</w> <w id="w27977">in</w> <w id="w27978">pancreatic</w> <w id="w27979">beta</w> <w id="w27980">cells</w> <w id="w27981">through</w> <w id="w27982">TNFR1</w><w id="w27983">-</w><w id="w27984">linked</w> <w id="w27985">apoptotic</w> <w id="w27986">factors</w> <w id="w27987">,</w> <w id="w27988">TRADD</w> <w id="w27989">,</w> <w id="w27990">FADD</w> <w id="w27991">,</w> <w id="w27992">and</w> <w id="w27993">FLICE</w> <w id="w27994">,</w> <w id="w27995">and</w> <w id="w27996">TNF</w><w id="w27997">-induced</w> <w id="w27998">ceramide</w> <w id="w27999">production</w> <w id="w28000">may</w> <w id="w28001">be</w> <w id="w28002">involved</w> <w id="w28003">in</w> <w id="w28004">the</w> <w id="w28005">pathways</w> <w id="w28006">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6465" gid="g6168" t="Individual_protein" fr="w27973" to="w27973" nam="yes">
+     <textspan type="extent">TNF-alpha</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1758.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6466" gid="g6169" t="RELATIONSHIP_TEXTBINDING" fr="w27984" to="w27984">
+     <textspan type="extent">linked</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1758.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6467" gid="g6170" t="Individual_protein" fr="w27988" to="w27988" nam="yes">
+     <textspan type="extent">TRADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1758.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6468" gid="g6171" t="Individual_protein" fr="w27982" to="w27982" nam="yes">
+     <textspan type="extent">TNFR1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1758.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6469" gid="g6172" t="Individual_protein" fr="w27993" to="w27993" nam="yes">
+     <textspan type="extent">FLICE</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1758.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6470" gid="g6173" t="Individual_protein" fr="w27990" to="w27990" nam="yes">
+     <textspan type="extent">FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1758.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6471" gid="g6174" t="Gene/protein/RNA" fr="w27996" to="w27996" nam="yes">
+     <textspan type="extent">TNF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1758.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6472" gid="g6175" t="Process_entity" fr="w27976" to="w27976">
+     <textspan type="extent">apoptosis</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.1758.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6473" gid="g6176" t="RELATIONSHIP_TEXTBINDING" fr="w27975" to="w27975">
+     <textspan type="extent">cause</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1758.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6474" gid="g6177" t="RELATIONSHIP_TEXTBINDING" fr="w27981" to="w27981">
+     <textspan type="extent">through</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1758.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2483" t="RELATE" e1="e6467" e2="e6468" re="e6466">
+     <textspan type="extent">TNFR1 - linked apoptotic factors , TRADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1758.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2484" t="RELATE" e1="e6470" e2="e6468" re="e6466">
+     <textspan type="extent">TNFR1 - linked apoptotic factors , TRADD , FADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1758.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2485" t="RELATE" e1="e6469" e2="e6468" re="e6466">
+     <textspan type="extent">TNFR1 - linked apoptotic factors , TRADD , FADD , and FLICE</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1758.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2486" t="MEDIATE" e1="e6467" e2="e6473" re="e6474">
+     <textspan type="extent">TNF-alpha can cause apoptosis in pancreatic beta cells through TNFR1 - linked apoptotic factors , TRADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1758.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2487" t="CAUSE" e1="e6465" e2="e6472" re="e6473">
+     <textspan type="extent">TNF-alpha can cause apoptosis</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1758.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2488" t="MEDIATE" e1="e6470" e2="e6473" re="e6474">
+     <textspan type="extent">TNF-alpha can cause apoptosis in pancreatic beta cells through TNFR1 - linked apoptotic factors , TRADD , FADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1758.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2489" t="CAUSE" e1="e6465" e2="e6472" re="e6473">
+     <textspan type="extent">TNF-alpha can cause apoptosis</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1758.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2490" t="MEDIATE" e1="e6469" e2="e6473" re="e6474">
+     <textspan type="extent">TNF-alpha can cause apoptosis in pancreatic beta cells through TNFR1 - linked apoptotic factors , TRADD , FADD , and FLICE</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1758.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2491" t="CAUSE" e1="e6465" e2="e6472" re="e6473">
+     <textspan type="extent">TNF-alpha can cause apoptosis</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1758.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2492" t="RELATE" e1="e6465" e2="e6467" re="e6474">
+     <textspan type="extent">TNF-alpha can cause apoptosis in pancreatic beta cells through TNFR1 - linked apoptotic factors , TRADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1758.9"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2493" t="RELATE" e1="e6465" e2="e6470" re="e6474">
+     <textspan type="extent">TNF-alpha can cause apoptosis in pancreatic beta cells through TNFR1 - linked apoptotic factors , TRADD , FADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1758.9"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2494" t="RELATE" e1="e6465" e2="e6469" re="e6474">
+     <textspan type="extent">TNF-alpha can cause apoptosis in pancreatic beta cells through TNFR1 - linked apoptotic factors , TRADD , FADD , and FLICE</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1758.9"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,72 @@
+<rexml>
+<doc id="1221">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w19191" g="w19192" t="nn" cr="nn:w19192" w="Rod" l="~" p="N"/>
+     <dpg d="w19192" g="w19194" t="s" cr="s+obj:w19194" w="formation" l="~" p="N"/>
+     <dpg d="w19193" g="w19194" t="be" cr="be:w19194" w="was" l="be" p="be"/>
+     <dpg d="w19194" g="E2" t="i" cr="" w="prevented" l="prevent" p="V"/>
+     <dpg d="E4" g="w19194" t="obj" cr="" w="" l="formation" p="N"/>
+     <dpg d="E4" g="w19192" t="antecedent" cr="" w="" l="formation" p="N"/>
+     <dpg d="w19195" g="w19194" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w19196" g="w19195" t="pcomp-n" cr="by-subj*by*n:w19194" w="coexpression" l="~" p="N"/>
+     <dpg d="w19197" g="w19196" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w19198" g="w19197" t="pcomp-n" cr="mod*of*n:w19196" w="N-cadherin" l="N-cadherin" p="N"/>
+     <dpg d="w19199" g="w19198" t="punc" cr="punc:w19198" w="," l="~" p="U"/>
+     <dpg d="w19200" g="w19198" t="conj" cr="conj:w19198" w="APC" l="~" p="N"/>
+     <dpg d="w19201" g="w19200" t="punc" cr="punc:w19200" w="," l="~" p="U"/>
+     <dpg d="w19202" g="w19200" t="punc" cr="punc:w19200" w="and" l="~" p="U"/>
+     <dpg d="w19203" g="w19200" t="conj" cr="conj:w19200||obj:w19210" w="Tcf-4" l="Tcf-4" p="N"/>
+     <dpg d="w19204" g="w19203" t="punc" cr="punc:w19203" w="," l="~" p="U"/>
+     <dpg d="E1" g="w19203" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w19205" g="E1" t="whn" cr="whn:w19210" w="which" l="~" p="N"/>
+     <dpg d="w19205" g="w19203" t="antecedent" cr="antecedent:w19203" w="which" l="~" p="N"/>
+     <dpg d="w19206" g="w19210" t="s" cr="s+subj:w19210" w="bind" l="~" p="N"/>
+     <dpg d="w19207" g="w19206" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w19208" g="w19209" t="det" cr="det:w19209" w="the" l="~" p="Det"/>
+     <dpg d="w19209" g="w19207" t="pcomp-n" cr="mod*to*n:w19206" w="armadillo" l="~" p="N"/>
+     <dpg d="w19210" g="E1" t="i" cr="rel:w19203" w="repeats" l="repeat" p="V"/>
+     <dpg d="E5" g="w19210" t="obj" cr="" w="" l="which" p="N"/>
+     <dpg d="E5" g="w19203" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="E6" g="w19210" t="subj" cr="" w="" l="bind" p="N"/>
+     <dpg d="E6" g="w19206" t="antecedent" cr="" w="" l="bind" p="N"/>
+     <dpg d="w19211" g="w19210" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w19212" g="w19211" t="pcomp-n" cr="mod*of*n:w19210" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w19213" g="w19211" t="punc" cr="punc:w19211" w="," l="~" p="U"/>
+     <dpg d="w19214" g="w19211" t="punc" cr="punc:w19211" w="but" l="~" p="U"/>
+     <dpg d="w19215" g="w19211" t="punc" cr="punc:w19211" w="not" l="~" p="U"/>
+     <dpg d="w19216" g="w19211" t="conj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w19217" g="w19216" t="pcomp-n" cr="mod*by*n:w19210" w="coexpression" l="~" p="N"/>
+     <dpg d="w19218" g="w19217" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w19219" g="w19218" t="pcomp-n" cr="mod*of*n:w19217" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w19220" g="w19210" t="punc" cr="punc:w19210" w="," l="~" p="U"/>
+     <dpg d="w19221" g="w19210" t="mod" cr="mod:w19210" w="although" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w19221" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w19222" g="w19223" t="mod" cr="mod:w19223" w="alpha-catenin" l="alpha-catenin" p="A"/>
+     <dpg d="w19223" g="w19225" t="s" cr="s+subj:w19225" w="expression" l="~" p="N"/>
+     <dpg d="w19224" g="w19225" t="aux" cr="aux:w19225" w="did" l="do" p="Aux"/>
+     <dpg d="w19225" g="E0" t="i" cr="comp1:w19221" w="prevent" l="~" p="V"/>
+     <dpg d="E7" g="w19225" t="subj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E7" g="w19223" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w19226" g="w19225" t="obj" cr="obj:w19225" w="accumulation" l="~" p="N"/>
+     <dpg d="w19227" g="w19226" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w19228" g="w19227" t="pcomp-n" cr="mod*of*n:w19226" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w19229" g="w19228" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w19230" g="w19231" t="det" cr="det:w19231" w="the" l="~" p="Det"/>
+     <dpg d="w19231" g="w19229" t="pcomp-n" cr="mod*in*n:w19228" w="nucleus" l="~" p="N"/>
+     <dpg d="w19232" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,145 @@
+<rexml>
+<doc id="988">
+  <text>
+<p><s id="s1"><w id="w15629">Molecular</w> <w id="w15630">cloning</w> <w id="w15631">and</w> <w id="w15632">primary</w> <w id="w15633">structure</w> <w id="w15634">analysis</w> <w id="w15635">demonstrated</w> <w id="w15636">that</w> <w id="w15637">alpha-catenin</w> <w id="w15638">is</w> <w id="w15639">homologous</w> <w id="w15640">to</w> <w id="w15641">vinculin</w> <w id="w15642">and</w> <w id="w15643">the</w> <w id="w15644">beta-catenin</w> <w id="w15645">is</w> <w id="w15646">homologous</w> <w id="w15647">to</w> <w id="w15648">human</w> <w id="w15649">plakoglobin</w> <w id="w15650">and</w> <w id="w15651">the</w> <w id="w15652">Drosophila</w> <w id="w15653">gene</w> <w id="w15654">product</w> <w id="w15655">armadillo</w> <w id="w15656">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3548" gid="g3398" t="Individual_protein" fr="w15637" to="w15637" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.988.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3549" gid="g3399" t="RELATIONSHIP_TEXTBINDING" fr="w15639" to="w15640">
+     <textspan type="extent">homologous to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.988.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3550" gid="g3400" t="Individual_protein" fr="w15644" to="w15644" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.988.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3551" gid="g3401" t="Individual_protein" fr="w15641" to="w15641" nam="yes">
+     <textspan type="extent">vinculin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.988.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3552" gid="g3402" t="Individual_protein" fr="w15652" to="w15655" nam="yes">
+     <textspan type="extent">Drosophila [..] product armadillo</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.988.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3553" gid="g3403" t="Individual_protein" fr="w15648" to="w15649" nam="yes">
+     <textspan type="extent">human plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.988.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3554" gid="g3404" t="RELATIONSHIP_TEXTBINDING" fr="w15646" to="w15647">
+     <textspan type="extent">homologous to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.988.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3555" gid="g3405" t="Individual_protein" fr="w15655" to="w15655" nam="yes">
+     <textspan type="extent">armadillo</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.988.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e3556" gid="g3406" t="Individual_protein" fr="w15649" to="w15649" nam="yes">
+     <textspan type="extent">plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.988.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1339" t="SIMILAR" e1="e3548" e2="e3551" re="e3549">
+     <textspan type="extent">alpha-catenin is homologous to vinculin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.988.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r1340" t="SIMILAR" e1="e3550" e2="e3553" re="e3554">
+     <textspan type="extent">beta-catenin is homologous to human plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.988.6"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r1341" t="SIMILAR" e1="e3550" e2="e3552" re="e3554">
+     <textspan type="extent">beta-catenin is homologous to human plakoglobin and the Drosophila gene product armadillo</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.988.6"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

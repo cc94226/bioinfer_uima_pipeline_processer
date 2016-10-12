@@ -1,0 +1,60 @@
+<rexml>
+<doc id="958">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w14930" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="MATERIALS" l="material" p="N"/>
+     <dpg d="w14931" g="w14930" t="punc" cr="punc:w14930" w="AND" l="~" p="U"/>
+     <dpg d="w14932" g="w14930" t="conj" cr="conj:w14930" w="METHODS" l="method" p="N"/>
+     <dpg d="w14933" g="E4" t="punc" cr="punc:E4" w=":" l="~" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14934" g="w14935" t="s" cr="s+subj:w14935" w="We" l="~" p="N"/>
+     <dpg d="w14935" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="used" l="use" p="V"/>
+     <dpg d="E5" g="w14935" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E5" g="w14934" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w14936" g="w14940" t="det" cr="det:w14940" w="an" l="~" p="Det"/>
+     <dpg d="w14937" g="w14938" t="lex-mod" cr="lex-mod:w14938" w="avidin" l="~" p="U"/>
+     <dpg d="w14938" g="w14940" t="mod" cr="mod:w14940" w="-biotin" l="avidin -biotin" p="A"/>
+     <dpg d="w14939" g="w14940" t="nn" cr="nn:w14940" w="immunoperoxidase" l="~" p="N"/>
+     <dpg d="w14940" g="w14935" t="obj" cr="obj:w14935||s+subj:w14942" w="technique" l="~" p="N"/>
+     <dpg d="E0" g="w14940" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w14940" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w14941" g="w14942" t="aux" cr="aux:w14942" w="to" l="~" p="Aux"/>
+     <dpg d="w14942" g="E0" t="i" cr="rel:w14940" w="examine" l="~" p="V"/>
+     <dpg d="E6" g="w14942" t="subj" cr="" w="" l="technique" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="technique" p="N"/>
+     <dpg d="w14943" g="w14945" t="det" cr="det:w14945" w="the" l="~" p="Det"/>
+     <dpg d="w14944" g="w14945" t="mod" cr="mod:w14945" w="cellular" l="~" p="A"/>
+     <dpg d="w14945" g="w14942" t="obj" cr="obj:w14942" w="localization" l="~" p="N"/>
+     <dpg d="w14946" g="w14945" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w14947" g="w14946" t="pcomp-n" cr="mod*of*n:w14945" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w14948" g="w14947" t="punc" cr="punc:w14947" w="," l="~" p="U"/>
+     <dpg d="w14949" g="w14947" t="conj" cr="conj:w14947" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w14950" g="w14949" t="punc" cr="punc:w14949" w="," l="~" p="U"/>
+     <dpg d="w14951" g="w14949" t="conj" cr="conj:w14949" w="gamma-catenin" l="gamma-catenin" p="N"/>
+     <dpg d="w14952" g="w14951" t="punc" cr="punc:w14951" w="and" l="~" p="U"/>
+     <dpg d="w14953" g="w14951" t="conj" cr="conj:w14951" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w14954" g="w14953" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w14955" g="w14956" t="num" cr="num:w14956" w="68" l="~" p="N"/>
+     <dpg d="w14956" g="w14954" t="pcomp-n" cr="mod*in*n:w14953" w="TCC" l="~" p="N"/>
+     <dpg d="w14957" g="w14956" t="punc" cr="punc:w14956" w="and" l="~" p="U"/>
+     <dpg d="w14958" g="w14961" t="num" cr="num:w14961" w="14" l="~" p="N"/>
+     <dpg d="w14959" g="w14961" t="mod" cr="mod:w14961" w="normal" l="~" p="A"/>
+     <dpg d="w14960" g="w14961" t="nn" cr="nn:w14961" w="bladder" l="~" p="N"/>
+     <dpg d="w14961" g="w14956" t="conj" cr="conj:w14956" w="biopsies" l="biopsy" p="N"/>
+     <dpg d="w14962" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

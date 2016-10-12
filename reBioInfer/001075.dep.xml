@@ -1,0 +1,48 @@
+<rexml>
+<doc id="1075">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w17051" g="w17054" t="mod" cr="mod:w17054" w="Other" l="~" p="A"/>
+     <dpg d="w17052" g="w17054" t="mod" cr="mod:w17054" w="mammalian" l="~" p="A"/>
+     <dpg d="w17053" g="w17054" t="mod" cr="mod:w17054" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w17054" g="w17066" t="s" cr="s:w17066||subj:w17068" w="proteins" l="protein" p="N"/>
+     <dpg d="w17055" g="w17054" t="mod" cr="" w="such" l="such as" p="Prep"/>
+     <dpg d="w17056" g="w17055" t="lex-mod" cr="lex-mod:w17055" w="as" l="~" p="U"/>
+     <dpg d="w17057" g="w17055" t="pcomp-n" cr="mod*such*n:w17054" w="profilin" l="~" p="N"/>
+     <dpg d="w17058" g="w17057" t="punc" cr="punc:w17057" w="and" l="~" p="U"/>
+     <dpg d="w17059" g="w17057" t="conj" cr="conj:w17057" w="CapG" l="~" p="N"/>
+     <dpg d="w17060" g="w17059" t="punc" cr="punc:w17059" w="but" l="~" p="U"/>
+     <dpg d="w17061" g="w17059" t="punc" cr="punc:w17059" w="also" l="~" p="U"/>
+     <dpg d="w17062" g="w17059" t="conj" cr="conj:w17059" w="fragmin" l="~" p="N"/>
+     <dpg d="w17063" g="w17062" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w17064" g="w17065" t="nn" cr="nn:w17065" w="Physarum" l="~" p="N"/>
+     <dpg d="w17065" g="w17063" t="pcomp-n" cr="mod*from*n:w17062" w="polycephalum" l="~" p="N"/>
+     <dpg d="w17066" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="are" l="be" p="VBE"/>
+     <dpg d="E3" g="w17068" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E3" g="w17054" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w17067" g="w17068" t="mod" cr="mod:w17068" w="similar" l="~" p="A"/>
+     <dpg d="w17068" g="w17066" t="pred" cr="pred:w17066" w="targets" l="target" p="N"/>
+     <dpg d="w17069" g="w17068" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w17070" g="w17071" t="mod" cr="mod:w17071" w="PIP2-stimulated" l="PIP2-stimulated" p="A"/>
+     <dpg d="w17071" g="w17069" t="pcomp-n" cr="mod*for*n:w17068" w="pp60" l="~" p="N"/>
+     <dpg d="w17072" g="E2" t="punc" cr="punc:E2" w="(" l="~" p="U"/>
+     <dpg d="w17073" g="w17075" t="nn" cr="nn:w17075" w="c-src" l="c-src" p="N"/>
+     <dpg d="w17074" g="w17075" t="punc" cr="punc:w17075" w=")" l="~" p="U"/>
+     <dpg d="w17075" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="phosphorylation" l="~" p="N"/>
+     <dpg d="w17076" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

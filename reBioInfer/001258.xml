@@ -1,0 +1,94 @@
+<rexml>
+<doc id="1258">
+  <text>
+<p><s id="s1"><w id="w19888">Significantly</w> <w id="w19889">,</w> <w id="w19890">those</w> <w id="w19891">actin</w> <w id="w19892">mutants</w> <w id="w19893">exhibiting</w> <w id="w19894">the</w> <w id="w19895">most</w> <w id="w19896">severe</w> <w id="w19897">phenotypes</w> <w id="w19898">in</w> <w id="w19899">all</w> <w id="w19900">three</w> <w id="w19901">processes</w> <w id="w19902">have</w> <w id="w19903">altered</w> <w id="w19904">residues</w> <w id="w19905">that</w> <w id="w19906">cluster</w> <w id="w19907">to</w> <w id="w19908">a</w> <w id="w19909">small</w> <w id="w19910">region</w> <w id="w19911">of</w> <w id="w19912">the</w> <w id="w19913">actin</w> <w id="w19914">crystal</w> <w id="w19915">structure</w> <w id="w19916">previously</w> <w id="w19917">defined</w> <w id="w19918">as</w> <w id="w19919">the</w> <w id="w19920">fimbrin</w> <w id="w19921">(</w><w id="w19922">Sac6p</w><w id="w19923">)-</w><w id="w19924">binding</w> <w id="w19925">site</w> <w id="w19926">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4596" gid="g4395" t="Gene/protein/RNA" fr="w19891" to="w19891" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1258.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4597" gid="g4396" t="RELATIONSHIP_TEXTBINDING" fr="w19924" to="w19924">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1258.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4598" gid="g4397" t="Individual_protein" fr="w19920" to="w19920" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1258.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4599" gid="g4398" t="Substructure_of_protein" fr="w19910" to="w19913" nam="yes">
+     <textspan type="extent">region of the actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1258.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4600" gid="g4397" t="Individual_protein" fr="w19922" to="w19922" nam="yes">
+     <textspan type="extent">Sac6p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1258.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4601" gid="g4399" t="Individual_protein" fr="w19913" to="w19913" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1258.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1750" t="BIND" e1="e4599" e2="e4598" re="e4597">
+     <textspan type="extent">region of the actin crystal structure previously defined as the fimbrin ( Sac6p )- binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1258.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

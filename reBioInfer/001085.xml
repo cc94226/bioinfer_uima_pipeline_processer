@@ -1,0 +1,163 @@
+<rexml>
+<doc id="1085">
+  <text>
+<p><s id="s1"><w id="w17193">Our</w> <w id="w17194">data</w> <w id="w17195">,</w> <w id="w17196">which</w> <w id="w17197">suggest</w> <w id="w17198">that</w> <w id="w17199">pollen</w> <w id="w17200">profilin</w> <w id="w17201">can</w> <w id="w17202">regulate</w> <w id="w17203">actin</w><w id="w17204">-based</w> <w id="w17205">cytoskeletal</w> <w id="w17206">protein</w> <w id="w17207">assembly</w> <w id="w17208">and</w> <w id="w17209">protein</w> <w id="w17210">kinase</w> <w id="w17211">or</w> <w id="w17212">phosphatase</w> <w id="w17213">activity</w> <w id="w17214">,</w> <w id="w17215">indicate</w> <w id="w17216">a</w> <w id="w17217">possible</w> <w id="w17218">role</w> <w id="w17219">for</w> <w id="w17220">the</w> <w id="w17221">involvement</w> <w id="w17222">of</w> <w id="w17223">profilin</w> <w id="w17224">in</w> <w id="w17225">signaling</w> <w id="w17226">pathways</w> <w id="w17227">that</w> <w id="w17228">may</w> <w id="w17229">regulate</w> <w id="w17230">pollen</w> <w id="w17231">tube</w> <w id="w17232">growth</w> <w id="w17233">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3945" gid="g3774" t="Individual_protein" fr="w17199" to="w17200" nam="yes">
+     <textspan type="extent">pollen profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1085.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3946" gid="g3775" t="RELATIONSHIP_TEXTBINDING" fr="w17202" to="w17202">
+     <textspan type="extent">regulate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1085.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3947" gid="g3776" t="Gene/protein/RNA" fr="w17223" to="w17223" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1085.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3948" gid="g3777" t="ASSEMBLY" fr="w17203" to="w17207">
+     <textspan type="extent">actin-based [..] assembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1085.3"/>
+      <exattr n="nst" v="st.1085.10.0"/>
+      <exattr n="nst" v="st.1085.10.1"/>
+      <exattr n="nst" v="st.1085.13.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3949" gid="g3778" t="Protein_family_or_group" fr="w17209" to="w17212" nam="yes">
+     <textspan type="extent">protein [..] phosphatase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1085.4"/>
+      <exattr n="nst" v="st.1085.15.0"/>
+      <exattr n="nst" v="st.1085.18.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3950" gid="g3779" t="Protein_family_or_group" fr="w17209" to="w17210" nam="yes">
+     <textspan type="extent">protein kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1085.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3951" gid="g3780" t="Dynamics_property" fr="w17209" to="w17213">
+     <textspan type="extent">protein [..] phosphatase activity</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.1085.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3952" gid="g3781" t="Dynamics_property" fr="w17209" to="w17213">
+     <textspan type="extent">protein kinase [..] activity</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.1085.7"/>
+      <exattr n="nst" v="st.1085.15.0"/>
+      <exattr n="nst" v="st.1085.16.0"/>
+      <exattr n="nst" v="st.1085.19.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3953" gid="g3782" t="Individual_protein" fr="w17200" to="w17200" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1085.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e3954" gid="g3783" t="Individual_protein" fr="w17203" to="w17203" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1085.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1511" t="CONTROL" e1="e3945" e2="e3948" re="e3946">
+     <textspan type="extent">pollen profilin can regulate actin -based cytoskeletal protein assembly</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1085.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r1512" t="MODULATE" e1="e3945" e2="e3952" re="e3946">
+     <textspan type="extent">pollen profilin can regulate actin -based cytoskeletal protein assembly and protein kinase or phosphatase activity</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1085.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="MODULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1513" t="MODULATE" e1="e3945" e2="e3951" re="e3946">
+     <textspan type="extent">pollen profilin can regulate actin -based cytoskeletal protein assembly and protein kinase or phosphatase activity</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1085.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="MODULATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

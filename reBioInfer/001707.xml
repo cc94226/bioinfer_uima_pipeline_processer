@@ -1,0 +1,78 @@
+<rexml>
+<doc id="1707">
+  <text>
+<p><s id="s1"><w id="w27227">These</w> <w id="w27228">phenotypes</w> <w id="w27229">are</w> <w id="w27230">similar</w> <w id="w27231">to</w> <w id="w27232">those</w> <w id="w27233">of</w> <w id="w27234">the</w> <w id="w27235">mutant</w> <w id="w27236">of</w> <w id="w27237">PFY1</w> <w id="w27238">,</w> <w id="w27239">which</w> <w id="w27240">encodes</w> <w id="w27241">profilin</w> <w id="w27242">,</w> <w id="w27243">an</w> <w id="w27244">actin-binding</w> <w id="w27245">protein</w> <w id="w27246">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6272" gid="g5987" t="Gene" fr="w27237" to="w27237" nam="yes">
+     <textspan type="extent">PFY1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1707.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6273" gid="g5988" t="RELATIONSHIP_TEXTBINDING" fr="w27240" to="w27240">
+     <textspan type="extent">encodes</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1707.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6274" gid="g5989" t="Protein_family_or_group" fr="w27244" to="w27245" nam="yes">
+     <textspan type="extent">actin-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1707.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6275" gid="g5990" t="Individual_protein" fr="w27241" to="w27241" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1707.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2398" t="ENCODE" e1="e6272" e2="e6275" re="e6273">
+     <textspan type="extent">PFY1 , which encodes profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1707.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2399" t="MEMBER" e1="e6274" e2="e6275" re="">
+     <textspan type="extent">profilin , an actin-binding protein</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

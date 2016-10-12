@@ -1,0 +1,35 @@
+<rexml>
+<doc id="675">
+  <text>
+<p><s id="s1"><w id="w10210">Immunohistochemical</w> <w id="w10211">identification</w> <w id="w10212">and</w> <w id="w10213">localization</w> <w id="w10214">of</w> <w id="w10215">actin</w> <w id="w10216">and</w> <w id="w10217">fimbrin</w> <w id="w10218">in</w> <w id="w10219">vestibular</w> <w id="w10220">hair</w> <w id="w10221">cells</w> <w id="w10222">in</w> <w id="w10223">the</w> <w id="w10224">normal</w> <w id="w10225">guinea</w> <w id="w10226">pig</w> <w id="w10227">and</w> <w id="w10228">in</w> <w id="w10229">a</w> <w id="w10230">strain</w> <w id="w10231">of</w> <w id="w10232">the</w> <w id="w10233">waltzing</w> <w id="w10234">guinea</w> <w id="w10235">pig</w> <w id="w10236">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2398" gid="g2298" t="Gene/protein/RNA" fr="w10215" to="w10215" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.675.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2399" gid="g2299" t="Gene/protein/RNA" fr="w10217" to="w10217" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.675.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

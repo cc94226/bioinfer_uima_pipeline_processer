@@ -1,0 +1,54 @@
+<rexml>
+<doc id="1662">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26536" g="w26537" t="s" cr="s:w26537||subj:w26539" w="There" l="~" p="Subj"/>
+     <dpg d="w26537" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="was" l="be" p="VBE"/>
+     <dpg d="E4" g="w26539" t="subj" cr="" w="" l="there" p="Subj"/>
+     <dpg d="E4" g="w26536" t="antecedent" cr="" w="" l="there" p="Subj"/>
+     <dpg d="w26538" g="w26539" t="det" cr="det:w26539" w="a" l="~" p="Det"/>
+     <dpg d="w26539" g="w26537" t="pred" cr="pred:w26537" w="trend" l="~" p="N"/>
+     <dpg d="w26540" g="w26539" t="mod" cr="" w="towards" l="~" p="Prep"/>
+     <dpg d="w26541" g="w26542" t="det" cr="det:w26542" w="an" l="~" p="Det"/>
+     <dpg d="w26542" g="w26540" t="pcomp-n" cr="mod*towards*n:w26539" w="association" l="~" p="N"/>
+     <dpg d="w26543" g="w26542" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w26544" g="w26546" t="mod" cr="mod:w26546" w="advanced" l="~" p="A"/>
+     <dpg d="w26545" g="w26546" t="nn" cr="nn:w26546" w="tumour" l="~" p="N"/>
+     <dpg d="w26546" g="w26543" t="pcomp-n" cr="mod*between*n:w26542" w="stage" l="~" p="N"/>
+     <dpg d="w26547" g="w26546" t="punc" cr="punc:w26546" w="and" l="~" p="U"/>
+     <dpg d="w26548" g="w26546" t="conj" cr="conj:w26546" w="loss" l="~" p="N"/>
+     <dpg d="w26549" g="w26548" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26550" g="w26551" t="mod" cr="mod:w26551" w="membranous" l="~" p="A"/>
+     <dpg d="w26551" g="w26549" t="pcomp-n" cr="mod*of*n:w26548" w="expression" l="~" p="N"/>
+     <dpg d="w26552" g="w26551" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26553" g="w26552" t="pcomp-n" cr="mod*of*n:w26551" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w26554" g="w26553" t="punc" cr="punc:w26553" w="or" l="~" p="U"/>
+     <dpg d="w26555" g="w26553" t="conj" cr="conj:w26553" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w26556" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w26557" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="although" l="~" p="SentAdjunct"/>
+     <dpg d="E1" g="w26557" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26558" g="w26559" t="det" cr="det:w26559" w="these" l="~" p="Det"/>
+     <dpg d="w26559" g="w26560" t="s" cr="s:w26560||subj:w26563" w="associations" l="association" p="N"/>
+     <dpg d="w26560" g="E1" t="i" cr="comp1:w26557" w="were" l="be" p="VBE"/>
+     <dpg d="w26561" g="w26560" t="neg" cr="neg:w26560" w="not" l="~" p="A"/>
+     <dpg d="E5" g="w26563" t="subj" cr="" w="" l="association" p="N"/>
+     <dpg d="E5" g="w26559" t="antecedent" cr="" w="" l="association" p="N"/>
+     <dpg d="w26562" g="w26563" t="mod" cr="mod:w26563" w="statistically" l="~" p="A"/>
+     <dpg d="w26563" g="w26560" t="pred" cr="pred:w26560" w="significant" l="~" p="A"/>
+     <dpg d="w26564" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,35 @@
+<rexml>
+<doc id="1117">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w17708" g="w17709" t="s" cr="s+subj:w17709||subj:w17713" w="Phosphoinositides" l="~" p="N"/>
+     <dpg d="w17709" g="E0" t="i" cr="" w="bind" l="~" p="V"/>
+     <dpg d="E2" g="w17709" t="subj" cr="" w="" l="Phosphoinositides" p="N"/>
+     <dpg d="E2" g="w17708" t="antecedent" cr="" w="" l="Phosphoinositides" p="N"/>
+     <dpg d="w17710" g="w17709" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w17711" g="w17710" t="pcomp-n" cr="mod*to*n:w17709" w="profilin" l="~" p="N"/>
+     <dpg d="w17712" g="w17709" t="punc" cr="punc:w17709" w="and" l="~" p="U"/>
+     <dpg d="w17713" g="w17709" t="conj" cr="conj:w17709" w="regulate" l="~" p="V"/>
+     <dpg d="E3" g="w17713" t="subj" cr="" w="" l="Phosphoinositides" p="N"/>
+     <dpg d="E3" g="w17708" t="antecedent" cr="" w="" l="Phosphoinositides" p="N"/>
+     <dpg d="w17714" g="w17715" t="lex-mod" cr="lex-mod:w17715" w="actin" l="~" p="U"/>
+     <dpg d="w17715" g="w17718" t="nn" cr="nn:w17718" w="-based" l="actin -based" p="N"/>
+     <dpg d="w17716" g="w17718" t="mod" cr="mod:w17718" w="cytoskeletal" l="~" p="A"/>
+     <dpg d="w17717" g="w17718" t="nn" cr="nn:w17718" w="protein" l="~" p="N"/>
+     <dpg d="w17718" g="w17713" t="obj" cr="obj:w17713" w="assembly" l="~" p="N"/>
+     <dpg d="w17719" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

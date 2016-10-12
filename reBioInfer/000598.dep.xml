@@ -1,0 +1,47 @@
+<rexml>
+<doc id="598">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8671" g="E1" t="mod" cr="mod:w8674" w="Here" l="~" p="N"/>
+     <dpg d="w8672" g="E1" t="punc" cr="punc:w8674" w="," l="~" p="U"/>
+     <dpg d="w8673" g="w8674" t="s" cr="s+subj:w8674" w="we" l="~" p="N"/>
+     <dpg d="w8674" g="E1" t="i" cr="" w="show" l="~" p="V"/>
+     <dpg d="E3" g="w8674" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E3" g="w8673" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="E0" g="w8674" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8675" g="E0" t="c" cr="c:w8685" w="that" l="~" p="COMP"/>
+     <dpg d="w8676" g="w8678" t="det" cr="det:w8678" w="the" l="~" p="Det"/>
+     <dpg d="w8677" g="w8678" t="nn" cr="nn:w8678" w="x-ray" l="x-ray" p="N"/>
+     <dpg d="w8678" g="w8685" t="s" cr="s:w8685||subj:w8686" w="sensitivity" l="~" p="N"/>
+     <dpg d="w8679" g="w8678" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w8680" g="w8679" t="pcomp-n" cr="mod*of*n:w8678" w="rad55" l="~" p="N"/>
+     <dpg d="w8681" g="w8680" t="punc" cr="punc:w8680" w="and" l="~" p="U"/>
+     <dpg d="w8682" g="w8684" t="nn" cr="nn:w8684" w="rad57" l="~" p="N"/>
+     <dpg d="w8683" g="w8684" t="mod" cr="mod:w8684" w="mutant" l="~" p="A"/>
+     <dpg d="w8684" g="w8680" t="conj" cr="conj:w8680" w="strains" l="strain" p="N"/>
+     <dpg d="w8685" g="E0" t="i" cr="fc:w8674" w="is" l="be" p="VBE"/>
+     <dpg d="w8686" g="w8685" t="pred" cr="pred:w8685" w="suppressible" l="~" p="A"/>
+     <dpg d="E4" g="w8686" t="subj" cr="" w="" l="sensitivity" p="N"/>
+     <dpg d="E4" g="w8678" t="antecedent" cr="" w="" l="sensitivity" p="N"/>
+     <dpg d="w8687" g="w8686" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w8688" g="w8687" t="pcomp-n" cr="mod*by*n:w8686" w="overexpression" l="~" p="N"/>
+     <dpg d="w8689" g="w8688" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w8690" g="w8689" t="pcomp-n" cr="mod*of*n:w8688" w="RAD51" l="~" p="N"/>
+     <dpg d="w8691" g="w8690" t="punc" cr="punc:w8690" w="or" l="~" p="U"/>
+     <dpg d="w8692" g="w8690" t="conj" cr="conj:w8690" w="RAD52" l="~" p="N"/>
+     <dpg d="w8693" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

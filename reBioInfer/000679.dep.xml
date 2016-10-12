@@ -1,0 +1,83 @@
+<rexml>
+<doc id="679">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w10308" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="Immunohistochemistry" l="~" p="N"/>
+     <dpg d="w10309" g="w10308" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w10310" g="w10311" t="det" cr="det:w10311" w="a" l="~" p="Det"/>
+     <dpg d="w10311" g="w10309" t="pcomp-n" cr="mod*for*n:w10308" w="variety" l="~" p="N"/>
+     <dpg d="w10312" g="w10311" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10313" g="w10312" t="pcomp-n" cr="mod*of*n:w10311" w="cytokeratins" l="~" p="N"/>
+     <dpg d="w10314" g="w10315" t="punc" cr="punc:w10315" w="(" l="~" p="U"/>
+     <dpg d="w10315" g="w10313" t="abbrev" cr="abbrev:w10313" w="CKs" l="~" p="N"/>
+     <dpg d="w10316" g="w10315" t="punc" cr="punc:w10315" w=")" l="~" p="U"/>
+     <dpg d="w10317" g="w10313" t="punc" cr="punc:w10313" w="(" l="~" p="U"/>
+     <dpg d="w10318" g="w10313" t="num" cr="num:w10313" w="8" l="~" p="N"/>
+     <dpg d="w10319" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="/" l="~" p="N"/>
+     <dpg d="w10320" g="w10319" t="num" cr="num:w10319" w="18" l="~" p="N"/>
+     <dpg d="w10321" g="w10319" t="punc" cr="punc:w10319" w="," l="~" p="U"/>
+     <dpg d="w10322" g="w10323" t="num" cr="num:w10323" w="1" l="~" p="N"/>
+     <dpg d="w10323" g="w10319" t="conj" cr="conj:w10319" w="/" l="~" p="N"/>
+     <dpg d="w10324" g="w10323" t="num" cr="num:w10323" w="10" l="~" p="N"/>
+     <dpg d="w10325" g="w10323" t="punc" cr="punc:w10323" w="," l="~" p="U"/>
+     <dpg d="w10326" g="w10323" t="conj" cr="conj:w10323" w="7" l="~" p="N"/>
+     <dpg d="w10327" g="w10326" t="punc" cr="punc:w10326" w="," l="~" p="U"/>
+     <dpg d="w10328" g="w10326" t="punc" cr="punc:w10326" w="and" l="~" p="U"/>
+     <dpg d="w10329" g="w10326" t="conj" cr="conj:w10326" w="20" l="~" p="N"/>
+     <dpg d="w10330" g="w10329" t="punc" cr="punc:w10329" w=")" l="~" p="U"/>
+     <dpg d="w10331" g="w10329" t="punc" cr="punc:w10329" w="," l="~" p="U"/>
+     <dpg d="w10332" g="w10334" t="lex-mod" cr="lex-mod:w10334" w="epithelial" l="~" p="U"/>
+     <dpg d="w10333" g="w10334" t="lex-mod" cr="lex-mod:w10334" w="membrane" l="~" p="U"/>
+     <dpg d="w10334" g="w10329" t="conj" cr="conj:w10329" w="antigen" l="epithelial membrane antigen" p="N"/>
+     <dpg d="w10335" g="w10336" t="punc" cr="punc:w10336" w="(" l="~" p="U"/>
+     <dpg d="w10336" g="w10334" t="abbrev" cr="abbrev:w10334" w="EMA" l="~" p="N"/>
+     <dpg d="w10337" g="w10336" t="punc" cr="punc:w10336" w=")" l="~" p="U"/>
+     <dpg d="w10338" g="w10334" t="punc" cr="punc:w10334" w="," l="~" p="U"/>
+     <dpg d="w10339" g="w10340" t="nn" cr="nn:w10340" w="S-100" l="S-100" p="N"/>
+     <dpg d="w10340" g="w10334" t="conj" cr="conj:w10334" w="protein" l="~" p="N"/>
+     <dpg d="w10341" g="w10340" t="punc" cr="punc:w10340" w="," l="~" p="U"/>
+     <dpg d="w10342" g="w10343" t="nn" cr="nn:w10343" w="vimentin" l="~" p="N"/>
+     <dpg d="w10343" g="w10340" t="conj" cr="conj:w10340" w="CD34" l="~" p="N"/>
+     <dpg d="w10344" g="w10343" t="punc" cr="punc:w10343" w="," l="~" p="U"/>
+     <dpg d="w10345" g="w10346" t="lex-mod" cr="lex-mod:w10346" w="type" l="~" p="U"/>
+     <dpg d="w10346" g="w10347" t="nn" cr="nn:w10347" w="IV" l="type IV" p="N"/>
+     <dpg d="w10347" g="w10343" t="conj" cr="conj:w10343" w="collagen" l="~" p="N"/>
+     <dpg d="w10348" g="w10347" t="punc" cr="punc:w10347" w="," l="~" p="U"/>
+     <dpg d="w10349" g="w10350" t="lex-mod" cr="lex-mod:w10350" w="smooth" l="~" p="U"/>
+     <dpg d="w10350" g="w10351" t="nn" cr="nn:w10351" w="muscle" l="smooth muscle" p="N"/>
+     <dpg d="w10351" g="w10347" t="conj" cr="conj:w10347" w="actin" l="~" p="N"/>
+     <dpg d="w10352" g="w10351" t="punc" cr="punc:w10351" w="," l="~" p="U"/>
+     <dpg d="w10353" g="w10354" t="lex-mod" cr="lex-mod:w10354" w="smooth" l="~" p="U"/>
+     <dpg d="w10354" g="w10357" t="nn" cr="nn:w10357" w="muscle" l="smooth muscle" p="N"/>
+     <dpg d="w10355" g="w10357" t="nn" cr="nn:w10357" w="myosin" l="~" p="N"/>
+     <dpg d="w10356" g="w10357" t="mod" cr="mod:w10357" w="heavy" l="~" p="A"/>
+     <dpg d="w10357" g="w10351" t="conj" cr="conj:w10351" w="chain" l="~" p="N"/>
+     <dpg d="w10358" g="w10357" t="punc" cr="punc:w10357" w="," l="~" p="U"/>
+     <dpg d="w10359" g="w10357" t="conj" cr="conj:w10357" w="calponin" l="~" p="N"/>
+     <dpg d="w10360" g="w10359" t="punc" cr="punc:w10359" w="," l="~" p="U"/>
+     <dpg d="w10361" g="w10359" t="punc" cr="punc:w10359" w="and" l="~" p="U"/>
+     <dpg d="w10362" g="w10364" t="mod" cr="mod:w10364" w="glial" l="~" p="A"/>
+     <dpg d="w10363" g="w10364" t="mod" cr="mod:w10364" w="fibrillary" l="~" p="A"/>
+     <dpg d="w10364" g="w10359" t="conj" cr="conj:w10359" w="acid" l="~" p="N"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10365" g="w10367" t="s" cr="s+obj:w10367" w="protein" l="~" p="N"/>
+     <dpg d="w10366" g="w10367" t="be" cr="be:w10367" w="was" l="be" p="be"/>
+     <dpg d="w10367" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="performed" l="perform" p="V"/>
+     <dpg d="E3" g="w10367" t="obj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E3" g="w10365" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w10368" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

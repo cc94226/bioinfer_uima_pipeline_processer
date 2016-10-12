@@ -1,0 +1,66 @@
+<rexml>
+<doc id="1754">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w27879" g="w27880" t="det" cr="det:w27880" w="These" l="~" p="Det"/>
+     <dpg d="w27880" g="w27881" t="s" cr="s+subj:w27881" w="results" l="result" p="N"/>
+     <dpg d="w27881" g="E3" t="i" cr="" w="suggest" l="~" p="V"/>
+     <dpg d="E6" g="w27881" t="subj" cr="" w="" l="result" p="N"/>
+     <dpg d="E6" g="w27880" t="antecedent" cr="" w="" l="result" p="N"/>
+     <dpg d="E2" g="w27881" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w27882" g="E2" t="c" cr="c:w27891" w="that" l="~" p="COMP"/>
+     <dpg d="w27883" g="w27884" t="det" cr="det:w27884" w="the" l="~" p="Det"/>
+     <dpg d="w27884" g="w27891" t="s" cr="s:w27891||subj:w27892" w="dysfunction" l="~" p="N"/>
+     <dpg d="w27885" g="w27884" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w27886" g="w27885" t="pcomp-n" cr="mod*of*n:w27884" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w27887" g="w27886" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w27888" g="w27890" t="det" cr="det:w27890" w="these" l="~" p="Det"/>
+     <dpg d="w27889" g="w27890" t="nn" cr="nn:w27890" w="cell" l="~" p="N"/>
+     <dpg d="w27890" g="w27887" t="pcomp-n" cr="mod*in*n:w27886" w="lines" l="line" p="N"/>
+     <dpg d="w27891" g="E2" t="i" cr="fc:w27881" w="is" l="be" p="VBE"/>
+     <dpg d="w27892" g="w27891" t="pred" cr="pred:w27891" w="due" l="~" p="A"/>
+     <dpg d="E7" g="w27892" t="subj" cr="" w="" l="dysfunction" p="N"/>
+     <dpg d="E7" g="w27884" t="antecedent" cr="" w="" l="dysfunction" p="N"/>
+     <dpg d="w27893" g="w27891" t="mod" cr="mod:w27891" w="primarily" l="~" p="A"/>
+     <dpg d="w27894" g="w27893" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w27895" g="w27896" t="gen" cr="gen:w27896" w="its" l="~" p="N"/>
+     <dpg d="w27896" g="w27894" t="pcomp-n" cr="mod*to*n:w27893||s+subj:w27898" w="failure" l="~" p="N"/>
+     <dpg d="E0" g="w27896" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w27896" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w27897" g="w27898" t="aux" cr="aux:w27898" w="to" l="~" p="Aux"/>
+     <dpg d="w27898" g="E0" t="i" cr="rel:w27896" w="interact" l="~" p="V"/>
+     <dpg d="E8" g="w27898" t="subj" cr="" w="" l="failure" p="N"/>
+     <dpg d="E8" g="E4" t="antecedent" cr="" w="" l="failure" p="N"/>
+     <dpg d="w27899" g="w27898" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w27900" g="w27899" t="pcomp-n" cr="mod*with*n:w27898" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w27901" g="E2" t="punc" cr="punc:w27891" w="," l="~" p="U"/>
+     <dpg d="w27902" g="E2" t="punc" cr="punc:w27891" w="and" l="~" p="U"/>
+     <dpg d="E1" g="E2" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w27903" g="E1" t="c" cr="c:w27906" w="that" l="~" p="COMP"/>
+     <dpg d="w27904" g="w27905" t="det" cr="det:w27905" w="this" l="~" p="Det"/>
+     <dpg d="w27905" g="w27906" t="s" cr="s+subj:w27906" w="defect" l="~" p="N"/>
+     <dpg d="w27906" g="E1" t="i" cr="conj:w27891" w="results" l="result" p="V"/>
+     <dpg d="E9" g="w27906" t="subj" cr="" w="" l="defect" p="N"/>
+     <dpg d="E9" g="w27905" t="antecedent" cr="" w="" l="defect" p="N"/>
+     <dpg d="w27907" g="w27906" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w27908" g="w27909" t="det" cr="det:w27909" w="the" l="~" p="Det"/>
+     <dpg d="w27909" g="w27907" t="pcomp-n" cr="mod*from*n:w27906" w="mutation" l="~" p="N"/>
+     <dpg d="w27910" g="w27909" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w27911" g="w27910" t="pcomp-n" cr="mod*in*n:w27909" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w27912" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

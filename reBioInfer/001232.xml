@@ -1,0 +1,35 @@
+<rexml>
+<doc id="1232">
+  <text>
+<p><s id="s1"><w id="w19387">Selective</w> <w id="w19388">repression</w> <w id="w19389">of</w> <w id="w19390">actin</w> <w id="w19391">and</w> <w id="w19392">myosin</w> <w id="w19393">heavy</w> <w id="w19394">chain</w> <w id="w19395">expression</w> <w id="w19396">during</w> <w id="w19397">the</w> <w id="w19398">programmed</w> <w id="w19399">death</w> <w id="w19400">of</w> <w id="w19401">insect</w> <w id="w19402">skeletal</w> <w id="w19403">muscle</w> <w id="w19404">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4494" gid="g4300" t="Gene/protein/RNA" fr="w19390" to="w19390" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1232.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4495" gid="g4301" t="Gene/protein/RNA" fr="w19392" to="w19394" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1232.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

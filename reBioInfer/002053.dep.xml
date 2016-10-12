@@ -1,0 +1,61 @@
+<rexml>
+<doc id="2053">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32485" g="w32486" t="s" cr="s+subj:w32486" w="We" l="~" p="N"/>
+     <dpg d="w32486" g="E2" t="i" cr="" w="examined" l="examine" p="V"/>
+     <dpg d="E6" g="w32486" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E6" g="w32485" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w32487" g="w32488" t="det" cr="det:w32488" w="the" l="~" p="Det"/>
+     <dpg d="w32488" g="w32486" t="obj" cr="obj:w32486" w="role" l="~" p="N"/>
+     <dpg d="w32489" g="w32488" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32490" g="w32492" t="det" cr="det:w32492" w="the" l="~" p="Det"/>
+     <dpg d="w32491" g="w32492" t="nn" cr="nn:w32492" w="actin" l="~" p="N"/>
+     <dpg d="w32492" g="w32489" t="pcomp-n" cr="mod*of*n:w32488||s+subj:w32493" w="monomer" l="~" p="N"/>
+     <dpg d="E1" g="w32492" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w32492" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w32493" g="E1" t="i" cr="rel:w32492" w="sequestering" l="sequester" p="V"/>
+     <dpg d="E7" g="w32493" t="subj" cr="" w="" l="monomer" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="monomer" p="N"/>
+     <dpg d="w32494" g="w32493" t="obj" cr="obj:w32493" w="protein" l="~" p="N"/>
+     <dpg d="w32495" g="w32494" t="punc" cr="punc:w32494" w="," l="~" p="U"/>
+     <dpg d="w32496" g="w32494" t="appo" cr="appo:w32494" w="profilin" l="~" p="N"/>
+     <dpg d="w32497" g="w32493" t="punc" cr="punc:w32493" w="," l="~" p="U"/>
+     <dpg d="w32498" g="w32493" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w32499" g="w32500" t="det" cr="det:w32500" w="the" l="~" p="Det"/>
+     <dpg d="w32500" g="w32498" t="pcomp-n" cr="mod*in*n:w32493" w="regulation" l="~" p="N"/>
+     <dpg d="w32501" g="w32500" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32502" g="w32505" t="nn" cr="nn:w32505" w="PMN" l="~" p="N"/>
+     <dpg d="w32503" g="w32505" t="nn" cr="nn:w32505" w="actin" l="~" p="N"/>
+     <dpg d="w32504" g="w32505" t="nn" cr="nn:w32505" w="filament" l="~" p="N"/>
+     <dpg d="w32505" g="w32501" t="pcomp-n" cr="mod*of*n:w32500" w="assembly" l="~" p="N"/>
+     <dpg d="w32506" g="w32505" t="mod" cr="" w="during" l="~" p="Prep"/>
+     <dpg d="w32507" g="w32508" t="nn" cr="nn:w32508" w="chemoattractant" l="~" p="N"/>
+     <dpg d="w32508" g="w32506" t="pcomp-n" cr="mod*during*n:w32505||s+subj:w32509" w="stimulation" l="~" p="N"/>
+     <dpg d="E0" g="w32508" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w32508" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w32509" g="E0" t="i" cr="rel:w32508" w="using" l="use" p="V"/>
+     <dpg d="E8" g="w32509" t="subj" cr="" w="" l="stimulation" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="stimulation" p="N"/>
+     <dpg d="w32510" g="w32513" t="det" cr="det:w32513" w="a" l="~" p="Det"/>
+     <dpg d="w32511" g="w32513" t="nn" cr="nn:w32513" w="Triton" l="~" p="N"/>
+     <dpg d="w32512" g="w32513" t="nn" cr="nn:w32513" w="extraction" l="~" p="N"/>
+     <dpg d="w32513" g="w32509" t="obj" cr="obj:w32509" w="method" l="~" p="N"/>
+     <dpg d="w32514" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

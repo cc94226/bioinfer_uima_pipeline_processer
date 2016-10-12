@@ -1,0 +1,53 @@
+<rexml>
+<doc id="1578">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25083" g="w25085" t="det" cr="det:w25085" w="The" l="~" p="Det"/>
+     <dpg d="w25084" g="w25085" t="mod" cr="mod:w25085" w="ordered" l="~" p="A"/>
+     <dpg d="w25085" g="w25100" t="s" cr="s+obj:w25100||s+subj:w25102" w="assembly" l="~" p="N"/>
+     <dpg d="w25086" g="w25085" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25087" g="w25089" t="det" cr="det:w25089" w="the" l="~" p="Det"/>
+     <dpg d="w25088" g="w25089" t="nn" cr="nn:w25089" w="talin" l="~" p="N"/>
+     <dpg d="w25089" g="w25086" t="pcomp-n" cr="mod*of*n:w25085" w="homologue" l="~" p="N"/>
+     <dpg d="w25090" g="w25089" t="pnmod" cr="pnmod:w25089" w="together" l="~" p="A"/>
+     <dpg d="w25091" g="w25090" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w25092" g="w25091" t="pcomp-n" cr="mod*with*n:w25090" w="actin" l="~" p="N"/>
+     <dpg d="w25093" g="w25092" t="punc" cr="punc:w25092" w="and" l="~" p="U"/>
+     <dpg d="w25094" g="w25095" t="det" cr="det:w25095" w="a" l="~" p="Det"/>
+     <dpg d="w25095" g="w25092" t="conj" cr="conj:w25092" w="series" l="~" p="N"/>
+     <dpg d="w25096" g="w25095" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25097" g="w25098" t="mod" cr="mod:w25098" w="other" l="~" p="A"/>
+     <dpg d="w25098" g="w25096" t="pcomp-n" cr="mod*of*n:w25095" w="proteins" l="protein" p="N"/>
+     <dpg d="w25099" g="w25100" t="be" cr="be:w25100" w="is" l="be" p="be"/>
+     <dpg d="w25100" g="E1" t="i" cr="" w="considered" l="consider" p="V"/>
+     <dpg d="E4" g="w25100" t="obj" cr="" w="" l="assembly" p="N"/>
+     <dpg d="E4" g="w25085" t="antecedent" cr="" w="" l="assembly" p="N"/>
+     <dpg d="E0" g="w25100" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w25085" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w25101" g="w25102" t="aux" cr="aux:w25102" w="to" l="~" p="Aux"/>
+     <dpg d="w25102" g="E0" t="i" cr="mod:w25100" w="play" l="~" p="V"/>
+     <dpg d="E5" g="w25102" t="subj" cr="" w="" l="assembly" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="assembly" p="N"/>
+     <dpg d="w25103" g="w25105" t="det" cr="det:w25105" w="a" l="~" p="Det"/>
+     <dpg d="w25104" g="w25105" t="nn" cr="nn:w25105" w="key" l="~" p="N"/>
+     <dpg d="w25105" g="w25102" t="obj" cr="obj:w25102" w="role" l="~" p="N"/>
+     <dpg d="w25106" g="w25105" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w25107" g="w25108" t="mod" cr="mod:w25108" w="chemotactic" l="~" p="A"/>
+     <dpg d="w25108" g="w25106" t="pcomp-n" cr="mod*in*n:w25105" w="orientation" l="~" p="N"/>
+     <dpg d="w25109" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

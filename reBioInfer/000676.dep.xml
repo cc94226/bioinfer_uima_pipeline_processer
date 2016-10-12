@@ -1,0 +1,56 @@
+<rexml>
+<doc id="676">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w10237" g="w10238" t="nn" cr="nn:w10238" w="Immunohistochemical" l="~" p="N"/>
+     <dpg d="w10238" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="investigation" l="~" p="N"/>
+     <dpg d="w10239" g="w10238" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10240" g="w10242" t="lex-mod" cr="lex-mod:w10242" w="actin" l="~" p="U"/>
+     <dpg d="w10241" g="w10242" t="lex-mod" cr="lex-mod:w10242" w="-" l="~" p="U"/>
+     <dpg d="w10242" g="w10244" t="mod" cr="mod:w10244" w="anchoring" l="actin - anchoring" p="A"/>
+     <dpg d="w10243" g="w10244" t="nn" cr="nn:w10244" w="proteins" l="protein" p="N"/>
+     <dpg d="w10244" g="w10239" t="pcomp-n" cr="mod*of*n:w10238" w="vinculin" l="~" p="N"/>
+     <dpg d="w10245" g="w10244" t="punc" cr="punc:w10244" w="," l="~" p="U"/>
+     <dpg d="w10246" g="w10244" t="conj" cr="conj:w10244" w="talin" l="~" p="N"/>
+     <dpg d="w10247" g="w10246" t="punc" cr="punc:w10246" w="and" l="~" p="U"/>
+     <dpg d="w10248" g="w10246" t="conj" cr="conj:w10246" w="paxillin" l="~" p="N"/>
+     <dpg d="w10249" g="w10248" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w10250" g="w10251" t="nn" cr="nn:w10251" w="rat" l="~" p="N"/>
+     <dpg d="w10251" g="w10249" t="pcomp-n" cr="mod*in*n:w10248||s+subj:w10252" w="brain" l="~" p="N"/>
+     <dpg d="E0" g="w10251" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E1" g="w10251" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w10252" g="E0" t="i" cr="rel:w10251" w="following" l="follow" p="V"/>
+     <dpg d="E4" g="w10252" t="subj" cr="" w="" l="brain" p="N"/>
+     <dpg d="E4" g="E1" t="antecedent" cr="" w="" l="brain" p="N"/>
+     <dpg d="w10253" g="w10252" t="obj" cr="obj:w10252" w="lesion" l="~" p="N"/>
+     <dpg d="w10254" g="E3" t="punc" cr="punc:E3" w=":" l="~" p="U"/>
+     <dpg d="w10255" g="w10257" t="det" cr="det:w10257" w="a" l="~" p="Det"/>
+     <dpg d="w10256" g="w10257" t="mod" cr="mod:w10257" w="moderate" l="~" p="A"/>
+     <dpg d="w10257" g="E3" t="subcat" cr="subcat:E3||obj:w10259" w="reaction" l="~" p="N"/>
+     <dpg d="w10258" g="w10257" t="punc" cr="punc:w10257" w="," l="~" p="U"/>
+     <dpg d="w10259" g="w10257" t="vrel" cr="vrel:w10257" w="confined" l="confine" p="V"/>
+     <dpg d="E5" g="w10259" t="obj" cr="" w="" l="reaction" p="N"/>
+     <dpg d="E5" g="w10257" t="antecedent" cr="" w="" l="reaction" p="N"/>
+     <dpg d="w10260" g="w10259" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w10261" g="w10262" t="det" cr="det:w10262" w="the" l="~" p="Det"/>
+     <dpg d="w10262" g="w10260" t="pcomp-n" cr="mod*to*n:w10259" w="astroglia" l="~" p="N"/>
+     <dpg d="w10263" g="w10262" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10264" g="w10265" t="nn" cr="nn:w10265" w="brain" l="~" p="N"/>
+     <dpg d="w10265" g="w10263" t="pcomp-n" cr="mod*of*n:w10262" w="tracts" l="tract" p="N"/>
+     <dpg d="w10266" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,51 @@
+<rexml>
+<doc id="1927">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31146" g="w31147" t="nn" cr="nn:w31147" w="Transcriptional" l="~" p="N"/>
+     <dpg d="w31147" g="w31155" t="s" cr="s+obj:w31155" w="regulation" l="~" p="N"/>
+     <dpg d="w31148" g="w31147" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w31149" g="w31151" t="det" cr="det:w31151" w="the" l="~" p="Det"/>
+     <dpg d="w31150" g="w31151" t="nn" cr="nn:w31151" w="galactose" l="~" p="N"/>
+     <dpg d="w31151" g="w31148" t="pcomp-n" cr="mod*in*n:w31147" w="regulon" l="~" p="N"/>
+     <dpg d="w31152" g="w31151" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31153" g="w31152" t="pcomp-n" cr="mod*of*n:w31151" w="yeast" l="~" p="N"/>
+     <dpg d="w31154" g="w31155" t="be" cr="be:w31155" w="is" l="be" p="be"/>
+     <dpg d="w31155" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="determined" l="determine" p="V"/>
+     <dpg d="E3" g="w31155" t="obj" cr="" w="" l="regulation" p="N"/>
+     <dpg d="E3" g="w31147" t="antecedent" cr="" w="" l="regulation" p="N"/>
+     <dpg d="w31156" g="w31155" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w31157" g="w31158" t="det" cr="det:w31158" w="an" l="~" p="Det"/>
+     <dpg d="w31158" g="w31156" t="pcomp-n" cr="by-subj*by*n:w31155" w="interplay" l="~" p="N"/>
+     <dpg d="w31159" g="w31158" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w31160" g="w31163" t="det" cr="det:w31163" w="a" l="~" p="Det"/>
+     <dpg d="w31161" g="w31163" t="mod" cr="mod:w31163" w="positive" l="~" p="A"/>
+     <dpg d="w31162" g="w31163" t="mod" cr="mod:w31163" w="regulatory" l="~" p="A"/>
+     <dpg d="w31163" g="w31159" t="pcomp-n" cr="mod*between*n:w31158" w="protein" l="~" p="N"/>
+     <dpg d="w31164" g="w31163" t="punc" cr="punc:w31163" w="," l="~" p="U"/>
+     <dpg d="w31165" g="w31163" t="conj" cr="conj:w31163" w="GAL4" l="~" p="N"/>
+     <dpg d="w31166" g="w31165" t="punc" cr="punc:w31165" w="," l="~" p="U"/>
+     <dpg d="w31167" g="w31165" t="punc" cr="punc:w31165" w="and" l="~" p="U"/>
+     <dpg d="w31168" g="w31171" t="det" cr="det:w31171" w="a" l="~" p="Det"/>
+     <dpg d="w31169" g="w31171" t="mod" cr="mod:w31171" w="negative" l="~" p="A"/>
+     <dpg d="w31170" g="w31171" t="mod" cr="mod:w31171" w="regulatory" l="~" p="A"/>
+     <dpg d="w31171" g="w31165" t="conj" cr="conj:w31165" w="protein" l="~" p="N"/>
+     <dpg d="w31172" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w31173" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="GAL80" l="~" p="N"/>
+     <dpg d="w31174" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,70 @@
+<rexml>
+<doc id="678">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10267" g="w10268" t="nn" cr="nn:w10268" w="Immunohistochemical" l="~" p="N"/>
+     <dpg d="w10268" g="w10269" t="s" cr="s+subj:w10269" w="studies" l="study" p="N"/>
+     <dpg d="w10269" g="E2" t="i" cr="" w="showed" l="show" p="V"/>
+     <dpg d="E5" g="w10269" t="subj" cr="" w="" l="study" p="N"/>
+     <dpg d="E5" g="w10268" t="antecedent" cr="" w="" l="study" p="N"/>
+     <dpg d="w10270" g="w10272" t="det" cr="det:w10272" w="a" l="~" p="Det"/>
+     <dpg d="w10271" g="w10272" t="mod" cr="mod:w10272" w="strong" l="~" p="A"/>
+     <dpg d="w10272" g="w10269" t="obj1" cr="obj1:w10269" w="reactivity" l="~" p="N"/>
+     <dpg d="w10273" g="w10272" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10274" g="w10273" t="pcomp-n" cr="mod*of*n:w10272" w="most" l="~" p="N"/>
+     <dpg d="w10275" g="w10276" t="nn" cr="nn:w10276" w="LAM" l="~" p="N"/>
+     <dpg d="w10276" g="w10269" t="obj2" cr="obj2:w10269" w="cells" l="cell" p="N"/>
+     <dpg d="w10277" g="w10276" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w10278" g="w10280" t="mod" cr="mod:w10280" w="alpha-smooth" l="alpha-smooth" p="A"/>
+     <dpg d="w10279" g="w10280" t="nn" cr="nn:w10280" w="muscle" l="~" p="N"/>
+     <dpg d="w10280" g="w10277" t="pcomp-n" cr="mod*for*n:w10276" w="actin" l="~" p="N"/>
+     <dpg d="w10281" g="w10280" t="punc" cr="punc:w10280" w="and" l="~" p="U"/>
+     <dpg d="w10282" g="w10283" t="lex-mod" cr="lex-mod:w10283" w="smooth" l="~" p="U"/>
+     <dpg d="w10283" g="w10286" t="nn" cr="nn:w10286" w="muscle" l="smooth muscle" p="N"/>
+     <dpg d="w10284" g="w10286" t="nn" cr="nn:w10286" w="myosin" l="~" p="N"/>
+     <dpg d="w10285" g="w10286" t="mod" cr="mod:w10286" w="heavy" l="~" p="A"/>
+     <dpg d="w10286" g="w10280" t="conj" cr="conj:w10280" w="chain" l="~" p="N"/>
+     <dpg d="w10287" g="w10286" t="punc" cr="punc:w10286" w="and" l="~" p="U"/>
+     <dpg d="w10288" g="w10289" t="det" cr="det:w10289" w="a" l="~" p="Det"/>
+     <dpg d="w10289" g="w10286" t="conj" cr="conj:w10286||s+subj:w10291" w="weak" l="~" p="N"/>
+     <dpg d="E1" g="w10289" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w10289" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w10290" g="w10291" t="aux" cr="aux:w10291" w="to" l="~" p="Aux"/>
+     <dpg d="w10291" g="E1" t="i" cr="rel:w10289" w="moderate" l="~" p="V"/>
+     <dpg d="E6" g="w10291" t="subj" cr="" w="" l="weak" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="weak" p="N"/>
+     <dpg d="w10292" g="w10291" t="obj" cr="obj:w10291" w="reactivity" l="~" p="N"/>
+     <dpg d="w10293" g="w10292" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10294" g="w10296" t="det" cr="det:w10296" w="a" l="~" p="Det"/>
+     <dpg d="w10295" g="w10296" t="mod" cr="mod:w10296" w="lesser" l="~" p="A"/>
+     <dpg d="w10296" g="w10293" t="pcomp-n" cr="mod*of*n:w10292" w="number" l="~" p="N"/>
+     <dpg d="w10297" g="w10296" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10298" g="w10297" t="pcomp-n" cr="mod*of*n:w10296" w="cells" l="cell" p="N"/>
+     <dpg d="E0" g="w10291" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="w10299" g="E0" t="c" cr="c:w10305" w="for" l="~" p="COMP"/>
+     <dpg d="w10300" g="w10305" t="s" cr="s+subj:w10305" w="desmin" l="~" p="N"/>
+     <dpg d="w10301" g="w10300" t="punc" cr="punc:w10300" w="and" l="~" p="U"/>
+     <dpg d="w10302" g="w10303" t="nn" cr="nn:w10303" w="nonmuscle" l="~" p="N"/>
+     <dpg d="w10303" g="w10300" t="conj" cr="conj:w10300" w="myosin" l="~" p="N"/>
+     <dpg d="w10304" g="w10305" t="amod" cr="amod:w10305" w="heavy" l="~" p="A"/>
+     <dpg d="w10305" g="E0" t="i" cr="mod:w10291" w="chain" l="~" p="V"/>
+     <dpg d="E7" g="w10305" t="subj" cr="" w="" l="desmin" p="N"/>
+     <dpg d="E7" g="w10300" t="antecedent" cr="" w="" l="desmin" p="N"/>
+     <dpg d="w10306" g="w10305" t="obj" cr="obj:w10305" w="II-B" l="II-B" p="N"/>
+     <dpg d="w10307" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

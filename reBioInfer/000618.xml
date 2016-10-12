@@ -1,0 +1,106 @@
+<rexml>
+<doc id="618">
+  <text>
+<p><s id="s1"><w id="w9148">How</w> <w id="w9149">profilin</w> <w id="w9150">promotes</w> <w id="w9151">actin</w> <w id="w9152">filament</w> <w id="w9153">assembly</w> <w id="w9154">in</w> <w id="w9155">the</w> <w id="w9156">presence</w> <w id="w9157">of</w> <w id="w9158">thymosin</w> <w id="w9159">beta</w> <w id="w9160">4</w> <w id="w9161">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2182" gid="g2090" t="Individual_protein" fr="w9149" to="w9149" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.618.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2183" gid="g2091" t="RELATIONSHIP_TEXTBINDING" fr="w9150" to="w9150">
+     <textspan type="extent">promotes</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.618.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2184" gid="g2092" t="Individual_protein" fr="w9158" to="w9160" nam="yes">
+     <textspan type="extent">thymosin beta 4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.618.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2185" gid="g2093" t="RELATIONSHIP_TEXTBINDING" fr="w9154" to="w9157">
+     <textspan type="extent">in the presence of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.618.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2186" gid="g2094" t="Cell_component" fr="w9151" to="w9152" nam="yes">
+     <textspan type="extent">actin filament</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.618.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2187" gid="g2095" t="ASSEMBLY" fr="w9151" to="w9153">
+     <textspan type="extent">actin filament assembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.618.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2188" gid="g2096" t="Individual_protein" fr="w9151" to="w9151" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.618.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r856" t="PRESENCE" e1="e2184" e2="e2183" re="e2185">
+     <textspan type="extent">profilin promotes actin filament assembly in the presence of thymosin beta 4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.618.3"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="PRESENCE"/>
+     </exattrs>
+    </rel>
+    <rel id="r857" t="STIMULATE" e1="e2182" e2="e2187" re="e2183">
+     <textspan type="extent">profilin promotes actin filament assembly</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.618.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

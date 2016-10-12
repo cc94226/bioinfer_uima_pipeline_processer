@@ -1,0 +1,68 @@
+<rexml>
+<doc id="1462">
+  <text>
+<p><s id="s1"><w id="w22937">The</w> <w id="w22938">domain</w> <w id="w22939">consists</w> <w id="w22940">of</w> <w id="w22941">a</w> <w id="w22942">mixed</w> <w id="w22943">alpha-helical/beta-sheet</w> <w id="w22944">fold</w> <w id="w22945">that</w> <w id="w22946">resembles</w> <w id="w22947">a</w> <w id="w22948">circular</w> <w id="w22949">permutation</w> <w id="w22950">of</w> <w id="w22951">the</w> <w id="w22952">actin</w><w id="w22953">/poly-proline</w> <w id="w22954">binding</w> <w id="w22955">protein</w> <w id="w22956">,</w> <w id="w22957">profilin</w> <w id="w22958">,</w> <w id="w22959">and</w> <w id="w22960">the</w> <w id="w22961">GAF/PAS</w> <w id="w22962">family</w> <w id="w22963">of</w> <w id="w22964">regulatory</w> <w id="w22965">modules</w> <w id="w22966">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5303" gid="g5059" t="Individual_protein" fr="w22952" to="w22952" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1462.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5304" gid="g5060" t="RELATIONSHIP_TEXTBINDING" fr="w22954" to="w22954">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1462.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5305" gid="g5061" t="Gene/protein/RNA" fr="w22961" to="w22961" nam="yes">
+     <textspan type="extent">GAF/PAS</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1462.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5306" gid="g5062" t="Individual_protein" fr="w22957" to="w22957" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1462.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2048" t="BIND" e1="e5306" e2="e5303" re="e5304">
+     <textspan type="extent">actin /poly-proline binding protein , profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1462.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

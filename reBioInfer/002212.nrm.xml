@@ -1,0 +1,66 @@
+<rexml>
+<doc id="2212">
+  
+  <markup>
+   <nes>
+    <ne id="e7751" gid="g7391" t="Individual_protein" fr="w34114" to="w34114" nam="yes" sid="s1">
+     <textspan>alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2212.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7754" gid="g7394" t="Function_property" fr="w34122" to="w34123" sid="s1">
+     <textspan>cadherin function</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.2212.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7755" gid="g7395" t="Individual_protein" fr="w34122" to="w34122" nam="yes" sid="s1">
+     <textspan>cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2212.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7753" gid="g7393" t="Gene/protein/RNA" fr="w34128" to="w34128" nam="yes" sid="s1">
+     <textspan>beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2212.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2976" t="CONDITION" e1="e7751" e2="e7754" re="e7752">
+     <textspan>alpha-catenin has been demonstrated to be crucial for cadherin function</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2212.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

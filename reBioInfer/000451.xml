@@ -1,0 +1,35 @@
+<rexml>
+<doc id="451">
+  <text>
+<p><s id="s1"><w id="w6494">Exposure</w> <w id="w6495">of</w> <w id="w6496">the</w> <w id="w6497">cells</w> <w id="w6498">to</w> <w id="w6499">tumor</w> <w id="w6500">promoter</w> <w id="w6501">did</w> <w id="w6502">,</w> <w id="w6503">however</w> <w id="w6504">,</w> <w id="w6505">result</w> <w id="w6506">in</w> <w id="w6507">a</w> <w id="w6508">loss</w> <w id="w6509">of</w> <w id="w6510">actin</w> <w id="w6511">and</w> <w id="w6512">talin</w><w id="w6513">-rich</w> <w id="w6514">cell</w> <w id="w6515">surface</w> <w id="w6516">elaborations</w> <w id="w6517">that</w> <w id="w6518">resemble</w> <w id="w6519">focal</w> <w id="w6520">contact</w> <w id="w6521">precursor</w> <w id="w6522">structures</w> <w id="w6523">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1579" gid="g1510" t="Gene/protein/RNA" fr="w6510" to="w6510" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.451.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1580" gid="g1511" t="Gene/protein/RNA" fr="w6512" to="w6512" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.451.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

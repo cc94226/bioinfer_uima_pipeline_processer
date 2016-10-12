@@ -1,0 +1,94 @@
+<rexml>
+<doc id="47">
+  <text>
+<p><s id="s1"><w id="w698">Addition</w> <w id="w699">of</w> <w id="w700">profilin</w> <w id="w701">to</w> <w id="w702">polymerized</w> <w id="w703">actin</w> <w id="w704">causes</w> <w id="w705">it</w> <w id="w706">to</w> <w id="w707">depolymerize</w> <w id="w708">until</w> <w id="w709">a</w> <w id="w710">new</w> <w id="w711">steady-state</w> <w id="w712">,</w> <w id="w713">dependent</w> <w id="w714">on</w> <w id="w715">profilin</w> <w id="w716">concentration</w> <w id="w717">,</w> <w id="w718">is</w> <w id="w719">achieved</w> <w id="w720">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e199" gid="g194" t="INCREASE" fr="w698" to="w700">
+     <textspan type="extent">Addition of profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="INCREASE"/>
+      <exattr n="bd" v="e.47.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e200" gid="g195" t="RELATIONSHIP_TEXTBINDING" fr="w707" to="w707">
+     <textspan type="extent">depolymerize</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.47.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e201" gid="g196" t="Gene/protein/RNA" fr="w715" to="w715" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.47.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e202" gid="g197" t="RELATIONSHIP_TEXTBINDING" fr="w704" to="w704">
+     <textspan type="extent">causes</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.47.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e203" gid="g198" t="Individual_protein" fr="w705" to="w705" nam="yes">
+     <textspan type="extent">it</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.47.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e204" gid="g199" t="Individual_protein" fr="w700" to="w700" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.47.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e205" gid="g198" t="Individual_protein" fr="w703" to="w703" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.47.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r72" t="CAUSE" e1="e199" e2="e200" re="e202">
+     <textspan type="extent">Addition of profilin to polymerized actin causes it to depolymerize</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.47.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

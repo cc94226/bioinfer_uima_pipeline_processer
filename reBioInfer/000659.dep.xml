@@ -1,0 +1,56 @@
+<rexml>
+<doc id="659">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9900" g="w9903" t="s" cr="s+obj:w9903" w="alpha-Catenin" l="alpha-Catenin" p="N"/>
+     <dpg d="w9901" g="w9903" t="be" cr="be:w9903" w="was" l="be" p="be"/>
+     <dpg d="w9902" g="w9901" t="neg" cr="neg:w9901" w="not" l="~" p="A"/>
+     <dpg d="w9903" g="E1" t="i" cr="" w="associated" l="associate" p="V"/>
+     <dpg d="E3" g="w9903" t="obj" cr="" w="" l="alpha-Catenin" p="N"/>
+     <dpg d="E3" g="w9900" t="antecedent" cr="" w="" l="alpha-Catenin" p="N"/>
+     <dpg d="w9904" g="w9903" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w9905" g="w9906" t="det" cr="det:w9906" w="these" l="~" p="Det"/>
+     <dpg d="w9906" g="w9904" t="pcomp-n" cr="mod*with*n:w9903" w="complexes" l="complex" p="N"/>
+     <dpg d="w9907" g="w9903" t="mod" cr="mod:w9903" w="after" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w9907" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9908" g="w9915" t="s" cr="s+subj:w9915" w="synthesis" l="~" p="N"/>
+     <dpg d="w9909" g="w9908" t="punc" cr="punc:w9908" w="," l="~" p="U"/>
+     <dpg d="w9910" g="w9908" t="punc" cr="punc:w9908" w="but" l="~" p="U"/>
+     <dpg d="w9911" g="w9912" t="det" cr="det:w9912" w="a" l="~" p="Det"/>
+     <dpg d="w9912" g="w9908" t="conj" cr="conj:w9908" w="subpopulation" l="~" p="N"/>
+     <dpg d="w9913" g="w9912" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9914" g="w9913" t="pcomp-n" cr="mod*of*n:w9912" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w9915" g="E0" t="i" cr="comp1:w9907" w="joined" l="join" p="V"/>
+     <dpg d="E4" g="w9915" t="subj" cr="" w="" l="synthesis" p="N"/>
+     <dpg d="E4" g="w9908" t="antecedent" cr="" w="" l="synthesis" p="N"/>
+     <dpg d="w9916" g="w9917" t="det" cr="det:w9917" w="the" l="~" p="Det"/>
+     <dpg d="w9917" g="w9915" t="obj" cr="obj:w9915" w="complex" l="~" p="N"/>
+     <dpg d="w9918" g="w9917" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w9919" g="w9920" t="det" cr="det:w9920" w="a" l="~" p="Det"/>
+     <dpg d="w9920" g="w9918" t="pcomp-n" cr="mod*at*n:w9917" w="time" l="~" p="N"/>
+     <dpg d="w9921" g="w9920" t="pnmod" cr="pnmod:w9920" w="coincident" l="~" p="A"/>
+     <dpg d="w9922" g="w9921" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w9923" g="w9924" t="det" cr="det:w9924" w="the" l="~" p="Det"/>
+     <dpg d="w9924" g="w9922" t="pcomp-n" cr="mod*with*n:w9921" w="arrival" l="~" p="N"/>
+     <dpg d="w9925" g="w9924" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9926" g="w9925" t="pcomp-n" cr="mod*of*n:w9924" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w9927" g="w9926" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w9928" g="w9930" t="det" cr="det:w9930" w="the" l="~" p="Det"/>
+     <dpg d="w9929" g="w9930" t="lex-mod" cr="lex-mod:w9930" w="plasma" l="~" p="U"/>
+     <dpg d="w9930" g="w9927" t="pcomp-n" cr="mod*at*n:w9926" w="membrane" l="plasma membrane" p="N"/>
+     <dpg d="w9931" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

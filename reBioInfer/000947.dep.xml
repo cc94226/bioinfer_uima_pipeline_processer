@@ -1,0 +1,45 @@
+<rexml>
+<doc id="947">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w14675" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="Location" l="~" p="N"/>
+     <dpg d="w14676" g="w14675" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w14677" g="w14676" t="pcomp-n" cr="mod*of*n:w14675" w="profilin" l="~" p="N"/>
+     <dpg d="w14678" g="w14677" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w14679" g="w14680" t="mod" cr="mod:w14680" w="presynaptic" l="~" p="A"/>
+     <dpg d="w14680" g="w14678" t="pcomp-n" cr="mod*at*n:w14677" w="sites" l="site" p="N"/>
+     <dpg d="w14681" g="w14680" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w14682" g="w14684" t="det" cr="det:w14684" w="the" l="~" p="Det"/>
+     <dpg d="w14683" g="w14684" t="mod" cr="mod:w14684" w="cerebellar" l="~" p="A"/>
+     <dpg d="w14684" g="w14681" t="pcomp-n" cr="mod*in*n:w14680" w="cortex" l="~" p="N"/>
+     <dpg d="w14685" g="E1" t="punc" cr="punc:E1" w=";" l="~" p="U"/>
+     <dpg d="w14686" g="E1" t="subcat" cr="subcat:E1" w="implication" l="~" p="N"/>
+     <dpg d="w14687" g="w14686" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w14688" g="w14689" t="det" cr="det:w14689" w="the" l="~" p="Det"/>
+     <dpg d="w14689" g="w14687" t="pcomp-n" cr="mod*for*n:w14686" w="regulation" l="~" p="N"/>
+     <dpg d="w14690" g="w14689" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w14691" g="w14694" t="det" cr="det:w14694" w="the" l="~" p="Det"/>
+     <dpg d="w14692" g="w14693" t="lex-mod" cr="lex-mod:w14693" w="actin" l="~" p="U"/>
+     <dpg d="w14693" g="w14694" t="mod" cr="mod:w14694" w="-polymerization" l="actin -polymerization" p="A"/>
+     <dpg d="w14694" g="w14690" t="pcomp-n" cr="mod*of*n:w14689" w="state" l="~" p="N"/>
+     <dpg d="w14695" g="w14694" t="mod" cr="" w="during" l="~" p="Prep"/>
+     <dpg d="w14696" g="w14697" t="mod" cr="mod:w14697" w="axonal" l="~" p="A"/>
+     <dpg d="w14697" g="w14695" t="pcomp-n" cr="mod*during*n:w14694" w="elongation" l="~" p="N"/>
+     <dpg d="w14698" g="w14697" t="punc" cr="punc:w14697" w="and" l="~" p="U"/>
+     <dpg d="w14699" g="w14697" t="conj" cr="conj:w14697" w="synaptogenesis" l="~" p="N"/>
+     <dpg d="w14700" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

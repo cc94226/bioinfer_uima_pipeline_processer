@@ -1,0 +1,88 @@
+<rexml>
+<doc id="1648">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E9" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E9" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26283" g="w26284" t="det" cr="det:w26284" w="The" l="~" p="Det"/>
+     <dpg d="w26284" g="w26286" t="s" cr="s+subj:w26286" w="results" l="result" p="N"/>
+     <dpg d="w26285" g="w26286" t="mod-before" cr="mod-before:w26286" w="clearly" l="~" p="A"/>
+     <dpg d="w26286" g="E1" t="i" cr="UNSPECRELTYPE:E9" w="showed" l="show" p="V"/>
+     <dpg d="E10" g="w26286" t="subj" cr="" w="" l="result" p="N"/>
+     <dpg d="E10" g="w26284" t="antecedent" cr="" w="" l="result" p="N"/>
+     <dpg d="w26287" g="w26286" t="obj1" cr="obj1:w26286" w="that" l="~" p="N"/>
+     <dpg d="w26288" g="w26290" t="det" cr="det:w26290" w="the" l="~" p="Det"/>
+     <dpg d="w26289" g="w26290" t="mod" cr="mod:w26290" w="mutated" l="~" p="A"/>
+     <dpg d="w26290" g="w26286" t="obj2" cr="obj2:w26286||s+subj:w26291" w="cofilin" l="~" p="N"/>
+     <dpg d="E0" g="w26290" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E7" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="w26290" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w26291" g="E0" t="i" cr="rel:w26290" w="possessing" l="possess" p="V"/>
+     <dpg d="E11" g="w26291" t="subj" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="E11" g="E7" t="antecedent" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="w26292" g="w26291" t="obj" cr="obj:w26291" w="KTLKK" l="~" p="N"/>
+     <dpg d="w26293" g="w26292" t="mod" cr="" w="instead" l="instead of" p="Prep"/>
+     <dpg d="w26294" g="w26293" t="lex-mod" cr="lex-mod:w26293" w="of" l="~" p="U"/>
+     <dpg d="w26295" g="w26293" t="pcomp-n" cr="mod*instead*n:w26292" w="KKRKK" l="~" p="N"/>
+     <dpg d="w26296" g="E9" t="punc" cr="punc:E9" w="did" l="~" p="U"/>
+     <dpg d="w26297" g="E9" t="punc" cr="punc:E9" w="not" l="~" p="U"/>
+     <dpg d="w26298" g="E9" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E9" w="translocate" l="~" p="N"/>
+     <dpg d="w26299" g="w26298" t="mod" cr="" w="into" l="~" p="Prep"/>
+     <dpg d="w26300" g="w26301" t="det" cr="det:w26301" w="the" l="~" p="Det"/>
+     <dpg d="w26301" g="w26299" t="pcomp-n" cr="mod*into*n:w26298" w="nuclei" l="~" p="N"/>
+     <dpg d="w26302" g="w26301" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w26303" g="w26302" t="pcomp-n" cr="mod*in*n:w26301||s+subj:w26305" w="response" l="~" p="N"/>
+     <dpg d="E4" g="w26303" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E6" g="E4" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w26303" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w26304" g="w26305" t="aux" cr="aux:w26305" w="to" l="~" p="Aux"/>
+     <dpg d="w26305" g="E4" t="i" cr="rel:w26303" w="heat" l="~" p="V"/>
+     <dpg d="E12" g="w26305" t="subj" cr="" w="" l="response" p="N"/>
+     <dpg d="E12" g="E6" t="antecedent" cr="" w="" l="response" p="N"/>
+     <dpg d="w26306" g="w26305" t="obj" cr="obj:w26305" w="shock" l="~" p="N"/>
+     <dpg d="w26307" g="w26305" t="mod" cr="mod:w26305" w="whereas" l="~" p="SentAdjunct"/>
+     <dpg d="E3" g="w26307" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26308" g="w26310" t="det" cr="det:w26310" w="a" l="~" p="Det"/>
+     <dpg d="w26309" g="w26310" t="nn" cr="nn:w26310" w="recombinant" l="~" p="N"/>
+     <dpg d="w26310" g="w26317" t="s" cr="s+subj:w26317||s+subj:w26319||subj:w26322" w="cofilin" l="~" p="N"/>
+     <dpg d="w26311" g="w26310" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w26312" g="w26314" t="det" cr="det:w26314" w="the" l="~" p="Det"/>
+     <dpg d="w26313" g="w26314" t="mod" cr="mod:w26314" w="unaltered" l="~" p="A"/>
+     <dpg d="w26314" g="w26311" t="pcomp-n" cr="mod*with*n:w26310" w="sequence" l="~" p="N"/>
+     <dpg d="w26315" g="w26314" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26316" g="w26315" t="pcomp-n" cr="mod*of*n:w26314" w="KKRKK" l="~" p="N"/>
+     <dpg d="w26317" g="E3" t="i" cr="comp1:w26307" w="responded" l="respond" p="V"/>
+     <dpg d="E13" g="w26317" t="subj" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="E13" g="w26310" t="antecedent" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="E2" g="w26317" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E5" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w26310" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w26318" g="w26319" t="aux" cr="aux:w26319" w="to" l="~" p="Aux"/>
+     <dpg d="w26319" g="E2" t="i" cr="mod:w26317" w="heat" l="~" p="V"/>
+     <dpg d="E14" g="w26319" t="subj" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="E14" g="E5" t="antecedent" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="w26320" g="w26319" t="obj" cr="obj:w26319" w="shock" l="~" p="N"/>
+     <dpg d="w26321" g="w26319" t="punc" cr="punc:w26319" w="and" l="~" p="U"/>
+     <dpg d="w26322" g="w26319" t="conj" cr="conj:w26319" w="formed" l="form" p="V"/>
+     <dpg d="E15" g="w26322" t="subj" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="E15" g="E5" t="antecedent" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="w26323" g="w26324" t="nn" cr="nn:w26324" w="intranuclear" l="~" p="N"/>
+     <dpg d="w26324" g="w26322" t="obj" cr="obj:w26322" w="rods" l="rod" p="N"/>
+     <dpg d="w26325" g="w26324" t="pnmod" cr="pnmod:w26324" w="together" l="~" p="A"/>
+     <dpg d="w26326" g="w26325" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w26327" g="w26326" t="pcomp-n" cr="mod*with*n:w26325" w="actin" l="~" p="N"/>
+     <dpg d="w26328" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

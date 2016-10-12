@@ -1,0 +1,78 @@
+<rexml>
+<doc id="1001">
+  <text>
+<p><s id="s1"><w id="w15872">Moreover</w> <w id="w15873">,</w> <w id="w15874">the</w> <w id="w15875">virus-encoded</w> <w id="w15876">profilin</w> <w id="w15877">homolog</w> <w id="w15878">was</w> <w id="w15879">not</w> <w id="w15880">required</w> <w id="w15881">for</w> <w id="w15882">actin</w><w id="w15883">-associated</w> <w id="w15884">events</w> <w id="w15885">,</w> <w id="w15886">including</w> <w id="w15887">intracellular</w> <w id="w15888">virus</w> <w id="w15889">movement</w> <w id="w15890">to</w> <w id="w15891">the</w> <w id="w15892">periphery</w> <w id="w15893">of</w> <w id="w15894">the</w> <w id="w15895">cell</w> <w id="w15896">,</w> <w id="w15897">formation</w> <w id="w15898">of</w> <w id="w15899">specialized</w> <w id="w15900">microvilli</w> <w id="w15901">,</w> <w id="w15902">or</w> <w id="w15903">release</w> <w id="w15904">of</w> <w id="w15905">mature</w> <w id="w15906">virions</w> <w id="w15907">,</w> <w id="w15908">as</w> <w id="w15909">shown</w> <w id="w15910">by</w> <w id="w15911">electron</w> <w id="w15912">microscopy</w> <w id="w15913">and</w> <w id="w15914">yields</w> <w id="w15915">of</w> <w id="w15916">infectious</w> <w id="w15917">intra-</w> <w id="w15918">and</w> <w id="w15919">extracellular</w> <w id="w15920">virus</w> <w id="w15921">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3622" gid="g3471" t="Homolog" fr="w15876" to="w15877" nam="yes">
+     <textspan type="extent">profilin homolog</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Homolog"/>
+      <exattr n="bd" v="e.1001.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3623" gid="g3472" t="RELATIONSHIP_TEXTBINDING" fr="w15880" to="w15881">
+     <textspan type="extent">required for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1001.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3624" gid="g3473" t="RELATIONSHIP_TEXTBINDING" fr="w15879" to="w15879">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1001.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3625" gid="g3474" t="Individual_protein" fr="w15876" to="w15876" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1001.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3626" gid="g3475" t="Process_entity" fr="w15882" to="w15884">
+     <textspan type="extent">actin-associated events</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.1001.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3627" gid="g3476" t="Individual_protein" fr="w15882" to="w15882" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1001.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1374" t="CONDITION" e1="e3622" e2="e3626" re="e3623">
+     <textspan type="extent">profilin homolog was not required for actin -associated events</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1001.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

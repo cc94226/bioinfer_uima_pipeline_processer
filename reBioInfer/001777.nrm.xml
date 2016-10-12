@@ -1,0 +1,117 @@
+<rexml>
+<doc id="1777">
+  
+  <markup>
+   <nes>
+    <ne id="e6574" gid="g6268" t="Substructure_of_protein" fr="w28418" to="w28424" nam="yes" sid="s1">
+     <textspan>domain in the Listeria monocytogenes ActA protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1777.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6578" gid="g6272" t="Individual_protein" fr="w28420" to="w28424" nam="yes" sid="s1">
+     <textspan>the Listeria monocytogenes ActA protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1777.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6583" gid="g6277" t="Individual_protein" fr="w28423" to="w28423" nam="yes" sid="s1">
+     <textspan>ActA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1777.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6577" gid="g6271" t="Dynamics_property" fr="w28427" to="w28431" sid="s1">
+     <textspan>rate of actin-based motility</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.1777.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6580" gid="g6274" t="Function_property" fr="w28429" to="w28431" sid="s1">
+     <textspan>actin-based motility</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.1777.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6575" gid="g6269" t="Individual_protein" fr="w28429" to="w28429" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1777.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6582" gid="g6276" t="Individual_protein" fr="w28443" to="w28444" nam="yes" sid="s1">
+     <textspan>vasodilator-stimulated phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1777.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6584" gid="g6278" t="Individual_protein" fr="w28446" to="w28446" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1777.10"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2532" t="CONTROL" e1="e6574" e2="e6577" re="e6581">
+     <textspan>domain in the Listeria monocytogenes ActA protein controls the rate of actin -based motility</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1777.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

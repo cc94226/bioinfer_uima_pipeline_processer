@@ -1,0 +1,55 @@
+<rexml>
+<doc id="730">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11271" g="E0" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w11272" g="w11271" t="pcomp-n" cr="mod*in*n:w11283" w="CC" l="~" p="N"/>
+     <dpg d="w11273" g="E0" t="punc" cr="punc:w11283" w="," l="~" p="U"/>
+     <dpg d="w11274" g="w11275" t="mod" cr="mod:w11275" w="membranous" l="~" p="A"/>
+     <dpg d="w11275" g="w11283" t="s" cr="s:w11283||subj:w11285||obj:w11287" w="expression" l="~" p="N"/>
+     <dpg d="w11276" g="w11275" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11277" g="w11276" t="pcomp-n" cr="mod*of*n:w11275" w="E-cad" l="E-cad" p="N"/>
+     <dpg d="w11278" g="w11277" t="punc" cr="punc:w11277" w="," l="~" p="U"/>
+     <dpg d="w11279" g="w11277" t="conj" cr="conj:w11277" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w11280" g="w11279" t="punc" cr="punc:w11279" w="," l="~" p="U"/>
+     <dpg d="w11281" g="w11279" t="punc" cr="punc:w11279" w="and" l="~" p="U"/>
+     <dpg d="w11282" g="w11279" t="conj" cr="conj:w11279" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w11283" g="E0" t="i" cr="" w="was" l="be" p="VBE"/>
+     <dpg d="E3" g="w11285" t="subj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E3" g="w11275" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w11284" g="w11285" t="det" cr="det:w11285" w="the" l="~" p="Det"/>
+     <dpg d="w11285" g="w11283" t="pred" cr="pred:w11283" w="same" l="~" p="N"/>
+     <dpg d="w11286" g="w11283" t="punc" cr="punc:w11283" w="or" l="~" p="U"/>
+     <dpg d="w11287" g="w11283" t="conj" cr="conj:w11283" w="reduced" l="reduce" p="V"/>
+     <dpg d="E4" g="w11287" t="obj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E4" g="w11275" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w11288" g="w11287" t="mod" cr="mod:w11287" w="when" l="~" p="A"/>
+     <dpg d="w11289" g="w11288" t="comp1" cr="comp1:w11288" w="compared" l="compare" p="V"/>
+     <dpg d="E1" g="w11289" t="ECR" cr="ECR+obj:w11289" w="" l="~" p="EC"/>
+     <dpg d="E5" g="w11289" t="obj" cr="" w="" l="~" p="EC"/>
+     <dpg d="E5" g="E1" t="antecedent" cr="" w="" l="~" p="EC"/>
+     <dpg d="w11290" g="w11289" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w11291" g="w11293" t="nn" cr="nn:w11293" w="non-cancerous" l="non-cancerous" p="N"/>
+     <dpg d="w11292" g="w11293" t="lex-mod" cr="lex-mod:w11293" w="bile" l="~" p="U"/>
+     <dpg d="w11293" g="w11290" t="pcomp-n" cr="mod*with*n:w11289" w="ducts" l="bile duct" p="N"/>
+     <dpg d="w11294" g="w11293" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w11295" g="w11296" t="det" cr="det:w11296" w="the" l="~" p="Det"/>
+     <dpg d="w11296" g="w11294" t="pcomp-n" cr="mod*in*n:w11293" w="majority" l="~" p="N"/>
+     <dpg d="w11297" g="w11296" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11298" g="w11297" t="pcomp-n" cr="mod*of*n:w11296" w="CC" l="~" p="N"/>
+     <dpg d="w11299" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

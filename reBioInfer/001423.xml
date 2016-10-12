@@ -1,0 +1,83 @@
+<rexml>
+<doc id="1423">
+  <text>
+<p><s id="s1"><w id="w22292">The</w> <w id="w22293">clone</w> <w id="w22294">contains</w> <w id="w22295">an</w> <w id="w22296">open</w> <w id="w22297">reading</w> <w id="w22298">frame</w> <w id="w22299">of</w> <w id="w22300">139</w> <w id="w22301">amino</w> <w id="w22302">acid</w> <w id="w22303">residues</w> <w id="w22304">which</w> <w id="w22305">shows</w> <w id="w22306">greater</w> <w id="w22307">than</w> <w id="w22308">40</w> <w id="w22309">%</w> <w id="w22310">sequence</w> <w id="w22311">identity</w> <w id="w22312">in</w> <w id="w22313">a</w> <w id="w22314">91</w> <w id="w22315">amino</w> <w id="w22316">acid</w> <w id="w22317">overlap</w> <w id="w22318">to</w> <w id="w22319">animal</w> <w id="w22320">actin-depolymerizing</w> <w id="w22321">factors</w> <w id="w22322">(</w> <w id="w22323">ADF</w> <w id="w22324">)</w> <w id="w22325">,</w> <w id="w22326">cofilin</w> <w id="w22327">and</w> <w id="w22328">destrin</w> <w id="w22329">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5176" gid="g4941" t="Individual_protein" fr="w22320" to="w22321" nam="yes">
+     <textspan type="extent">actin-depolymerizing factors</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1423.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5177" gid="g4941" t="Individual_protein" fr="w22323" to="w22323" nam="yes">
+     <textspan type="extent">ADF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1423.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5178" gid="g4942" t="Individual_protein" fr="w22328" to="w22328" nam="yes">
+     <textspan type="extent">destrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1423.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5179" gid="g4943" t="Individual_protein" fr="w22326" to="w22326" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1423.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1980" t="MEMBER" e1="e5176" e2="e5179" re="">
+     <textspan type="extent">actin-depolymerizing factors ( ADF ) , cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1981" t="MEMBER" e1="e5176" e2="e5178" re="">
+     <textspan type="extent">actin-depolymerizing factors ( ADF ) , cofilin and destrin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

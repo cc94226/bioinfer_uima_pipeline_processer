@@ -1,0 +1,155 @@
+<rexml>
+<doc id="1130">
+  <text>
+<p><s id="s1"><w id="w17809">PMS2</w> <w id="w17810">is</w> <w id="w17811">one</w> <w id="w17812">of</w> <w id="w17813">a</w> <w id="w17814">complex</w> <w id="w17815">of</w> <w id="w17816">genes</w> <w id="w17817">encoding</w> <w id="w17818">DNA</w> <w id="w17819">repair</w> <w id="w17820">proteins</w> <w id="w17821">that</w> <w id="w17822">includes</w> <w id="w17823">MSH2</w> <w id="w17824">,</w> <w id="w17825">MLH1</w> <w id="w17826">,</w> <w id="w17827">MSH6</w> <w id="w17828">and</w> <w id="w17829">MSH3</w> <w id="w17830">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4145" gid="g3962" t="RELATIONSHIP_TEXTBINDING" fr="w17811" to="w17812">
+     <textspan type="extent">one of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1130.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4146" gid="g3963" t="Gene" fr="w17823" to="w17823" nam="yes">
+     <textspan type="extent">MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1130.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4147" gid="g3964" t="Gene" fr="w17827" to="w17827" nam="yes">
+     <textspan type="extent">MSH6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1130.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4148" gid="g3965" t="Gene" fr="w17825" to="w17825" nam="yes">
+     <textspan type="extent">MLH1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1130.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4149" gid="g3966" t="Gene" fr="w17809" to="w17809" nam="yes">
+     <textspan type="extent">PMS2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1130.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4150" gid="g3967" t="Gene" fr="w17829" to="w17829" nam="yes">
+     <textspan type="extent">MSH3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1130.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4151" gid="g3968" t="DNA_family_or_group" fr="w17814" to="w17816" nam="yes">
+     <textspan type="extent">complex of genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="DNA_family_or_group"/>
+      <exattr n="bd" v="e.1130.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4152" gid="g3969" t="RELATIONSHIP_TEXTBINDING" fr="w17822" to="w17822">
+     <textspan type="extent">includes</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1130.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1599" t="MEMBER" e1="e4151" e2="e4149" re="e4145">
+     <textspan type="extent">PMS2 is one of a complex of genes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1130.0"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1600" t="MEMBER" e1="e4151" e2="e4146" re="e4152">
+     <textspan type="extent">complex of genes encoding DNA repair proteins that includes MSH2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1130.7"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1601" t="MEMBER" e1="e4151" e2="e4148" re="e4152">
+     <textspan type="extent">complex of genes encoding DNA repair proteins that includes MSH2 , MLH1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1130.7"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1602" t="MEMBER" e1="e4151" e2="e4147" re="e4152">
+     <textspan type="extent">complex of genes encoding DNA repair proteins that includes MSH2 , MLH1 , MSH6</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1130.7"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1603" t="MEMBER" e1="e4151" e2="e4150" re="e4152">
+     <textspan type="extent">complex of genes encoding DNA repair proteins that includes MSH2 , MLH1 , MSH6 and MSH3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1130.7"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

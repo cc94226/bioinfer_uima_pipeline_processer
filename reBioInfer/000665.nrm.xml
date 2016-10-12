@@ -1,0 +1,93 @@
+<rexml>
+<doc id="665">
+  
+  <markup>
+   <nes>
+    <ne id="e2358" gid="g2258" t="Gene/protein/RNA" fr="w9992" to="w9992" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.665.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2360" gid="g2260" t="Protein_family_or_group" fr="w9998" to="w10000" nam="yes" sid="s1">
+     <textspan>actin binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.665.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2359" gid="g2259" t="Individual_protein" fr="w10001" to="w10001" nam="yes" sid="s1">
+     <textspan>Abp1p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.665.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2361" gid="g2261" t="Individual_protein" fr="w10003" to="w10003" nam="yes" sid="s1">
+     <textspan>cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.665.3"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r911" t="COOF-MEMBER" e1="e2359" e2="e2361" re="">
+     <textspan>actin binding proteins Abp1p and cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r911" t="MEMBER" e1="e2360" e2="e2359" re="">
+     <textspan>actin binding proteins Abp1p</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r912" t="MEMBER" e1="e2360" e2="e2361" re="">
+     <textspan>actin binding proteins Abp1p and cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,141 @@
+<rexml>
+<doc id="201">
+  <text>
+<p><s id="s1"><w id="w3080">A</w> <w id="w3081">two-hybrid-based</w> <w id="w3082">approach</w> <w id="w3083">using</w> <w id="w3084">cofilin</w> <w id="w3085">and</w> <w id="w3086">actin</w> <w id="w3087">mutants</w> <w id="w3088">identified</w> <w id="w3089">residues</w> <w id="w3090">necessary</w> <w id="w3091">for</w> <w id="w3092">the</w> <w id="w3093">interaction</w> <w id="w3094">of</w> <w id="w3095">actin</w> <w id="w3096">,</w> <w id="w3097">cofilin</w> <w id="w3098">,</w> <w id="w3099">and</w> <w id="w3100">Aip1p</w> <w id="w3101">in</w> <w id="w3102">an</w> <w id="w3103">apparent</w> <w id="w3104">ternary</w> <w id="w3105">complex</w> <w id="w3106">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e745" gid="g719" t="Gene/protein/RNA" fr="w3084" to="w3084" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.201.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e746" gid="g720" t="RELATIONSHIP_TEXTBINDING" fr="w3105" to="w3105">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.201.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e747" gid="g721" t="Individual_protein" fr="w3095" to="w3095" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.201.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e748" gid="g722" t="RELATIONSHIP_TEXTBINDING" fr="w3093" to="w3094">
+     <textspan type="extent">interaction of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.201.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e749" gid="g723" t="Individual_protein" fr="w3100" to="w3100" nam="yes">
+     <textspan type="extent">Aip1p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.201.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e750" gid="g724" t="Individual_protein" fr="w3097" to="w3097" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.201.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e751" gid="g725" t="Protein_complex" fr="w3105" to="w3105" nam="yes">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.201.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e752" gid="g726" t="Gene/protein/RNA" fr="w3086" to="w3086" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.201.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r276" t="CONTAIN" e1="e751" e2="e747" re="e746">
+     <textspan type="extent">actin , cofilin , and Aip1p in an apparent ternary complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.201.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r277" t="CONTAIN" e1="e751" e2="e750" re="e746">
+     <textspan type="extent">cofilin , and Aip1p in an apparent ternary complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.201.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r278" t="CONTAIN" e1="e751" e2="e749" re="e746">
+     <textspan type="extent">Aip1p in an apparent ternary complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.201.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r279" t="INTERACT" e1="e747" e2="e750,e749" re="e748">
+     <textspan type="extent">interaction of actin , cofilin , and Aip1p</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.201.3"/>
+      <exattr n="arg" v="e747"/>
+      <exattr n="arg" v="e750"/>
+      <exattr n="arg" v="e749"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

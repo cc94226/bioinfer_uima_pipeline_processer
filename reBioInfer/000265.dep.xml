@@ -1,0 +1,40 @@
+<rexml>
+<doc id="265">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3978" g="w3979" t="s" cr="s+subj:w3979" w="SNF11" l="~" p="N"/>
+     <dpg d="w3979" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="interacts" l="interact" p="V"/>
+     <dpg d="E3" g="w3979" t="subj" cr="" w="" l="SNF11" p="N"/>
+     <dpg d="E3" g="w3978" t="antecedent" cr="" w="" l="SNF11" p="N"/>
+     <dpg d="w3980" g="w3979" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w3981" g="w3980" t="pcomp-n" cr="mod*with*n:w3979" w="SNF2" l="~" p="N"/>
+     <dpg d="w3982" g="w3983" t="lex-mod" cr="lex-mod:w3983" w="in" l="~" p="U"/>
+     <dpg d="w3983" g="w3979" t="mod" cr="mod:w3979" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w3984" g="E2" t="punc" cr="punc:E2" w="and" l="~" p="U"/>
+     <dpg d="w3985" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="copurifies" l="~" p="N"/>
+     <dpg d="w3986" g="w3985" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w3987" g="w3991" t="det" cr="det:w3991" w="the" l="~" p="Det"/>
+     <dpg d="w3988" g="w3990" t="lex-mod" cr="lex-mod:w3990" w="SNF" l="~" p="U"/>
+     <dpg d="w3989" g="w3990" t="lex-mod" cr="lex-mod:w3990" w="-" l="~" p="U"/>
+     <dpg d="w3990" g="w3991" t="nn" cr="nn:w3991" w="SWI" l="SNF - SWI" p="N"/>
+     <dpg d="w3991" g="w3986" t="pcomp-n" cr="mod*with*n:w3985" w="complex" l="~" p="N"/>
+     <dpg d="w3992" g="w3991" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w3993" g="w3994" t="nn" cr="nn:w3994" w="yeast" l="~" p="N"/>
+     <dpg d="w3994" g="w3992" t="pcomp-n" cr="mod*from*n:w3991" w="cells" l="cell" p="N"/>
+     <dpg d="w3995" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

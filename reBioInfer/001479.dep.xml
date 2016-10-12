@@ -1,0 +1,50 @@
+<rexml>
+<doc id="1479">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23151" g="w23152" t="det" cr="det:w23152" w="The" l="~" p="Det"/>
+     <dpg d="w23152" g="w23156" t="s" cr="s+subj:w23156||s+subj:w23158" w="existence" l="~" p="N"/>
+     <dpg d="w23153" g="w23152" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w23154" g="w23155" t="det" cr="det:w23155" w="this" l="~" p="Det"/>
+     <dpg d="w23155" g="w23153" t="pcomp-n" cr="mod*of*n:w23152" w="pathway" l="~" p="N"/>
+     <dpg d="w23156" g="E1" t="i" cr="" w="helps" l="help" p="V"/>
+     <dpg d="E4" g="w23156" t="subj" cr="" w="" l="existence" p="N"/>
+     <dpg d="E4" g="w23152" t="antecedent" cr="" w="" l="existence" p="N"/>
+     <dpg d="E0" g="w23156" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w23152" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w23157" g="w23158" t="aux" cr="aux:w23158" w="to" l="~" p="Aux"/>
+     <dpg d="w23158" g="E0" t="i" cr="mod:w23156" w="explain" l="~" p="V"/>
+     <dpg d="E5" g="w23158" t="subj" cr="" w="" l="existence" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="existence" p="N"/>
+     <dpg d="w23159" g="w23158" t="obj" cr="obj:w23158" w="some" l="~" p="N"/>
+     <dpg d="w23160" g="w23159" t="comp1" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w23161" g="w23162" t="det" cr="det:w23162" w="the" l="~" p="Det"/>
+     <dpg d="w23162" g="w23160" t="pcomp-n" cr="comp1*of*n:w23159" w="effects" l="effect" p="N"/>
+     <dpg d="w23163" g="w23162" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w23164" g="w23165" t="nn" cr="nn:w23165" w="LIM" l="~" p="N"/>
+     <dpg d="w23165" g="w23163" t="pcomp-n" cr="mod*of*n:w23162" w="kinase" l="~" p="N"/>
+     <dpg d="w23166" g="w23165" t="punc" cr="punc:w23165" w="and" l="~" p="U"/>
+     <dpg d="w23167" g="w23165" t="conj" cr="conj:w23165" w="cofilin" l="~" p="N"/>
+     <dpg d="w23168" g="w23167" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w23169" g="w23170" t="det" cr="det:w23170" w="the" l="~" p="Det"/>
+     <dpg d="w23170" g="w23168" t="pcomp-n" cr="mod*in*n:w23167" w="control" l="~" p="N"/>
+     <dpg d="w23171" g="w23170" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w23172" g="w23173" t="nn" cr="nn:w23173" w="actin" l="~" p="N"/>
+     <dpg d="w23173" g="w23171" t="pcomp-n" cr="mod*of*n:w23170" w="dynamics" l="~" p="N"/>
+     <dpg d="w23174" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

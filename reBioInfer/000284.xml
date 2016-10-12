@@ -1,0 +1,93 @@
+<rexml>
+<doc id="284">
+  <text>
+<p><s id="s1"><w id="w4412">alpha-catenin</w> <w id="w4413">links</w> <w id="w4414">beta-catenin</w> <w id="w4415">to</w> <w id="w4416">the</w> <w id="w4417">actin</w><w id="w4418">-based</w> <w id="w4419">cytoskeleton</w> <w id="w4420">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1069" gid="g1019" t="Individual_protein" fr="w4412" to="w4412" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.284.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1070" gid="g1020" t="RELATIONSHIP_TEXTBINDING" fr="w4413" to="w4413">
+     <textspan type="extent">links</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.284.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1071" gid="g1021" t="Cell_component" fr="w4417" to="w4419" nam="yes">
+     <textspan type="extent">actin-based cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.284.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1072" gid="g1022" t="RELATIONSHIP_TEXTBINDING" fr="w4413" to="w4415">
+     <textspan type="extent">links [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.284.3"/>
+      <exattr n="nst" v="st.284.1.0"/>
+      <exattr n="nst" v="st.284.3.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1073" gid="g1023" t="Individual_protein" fr="w4414" to="w4414" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.284.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1074" gid="g1024" t="Individual_protein" fr="w4417" to="w4417" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.284.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r426" t="CAUSE" e1="e1069" e2="e1072" re="e1070">
+     <textspan type="extent">alpha-catenin links beta-catenin to the actin -based cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.284.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r427" t="RELATE" e1="e1073" e2="e1071" re="e1072">
+     <textspan type="extent">links beta-catenin to the actin -based cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.284.3"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

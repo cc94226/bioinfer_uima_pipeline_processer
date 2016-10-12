@@ -1,0 +1,85 @@
+<rexml>
+<doc id="638">
+  <text>
+<p><s id="s1"><w id="w9606">However</w> <w id="w9607">,</w> <w id="w9608">the</w> <w id="w9609">recombinant</w> <w id="w9610">fusion</w> <w id="w9611">protein</w> <w id="w9612">containing</w> <w id="w9613">wild-type</w> <w id="w9614">beta-catenin</w> <w id="w9615">precipitated</w> <w id="w9616">alpha-catenin</w> <w id="w9617">from</w> <w id="w9618">these</w> <w id="w9619">cells</w> <w id="w9620">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2272" gid="g2174" t="RELATIONSHIP_TEXTBINDING" fr="w9612" to="w9612">
+     <textspan type="extent">containing</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.638.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2273" gid="g2175" t="Individual_protein" fr="w9614" to="w9614" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.638.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2274" gid="g2176" t="Fusion_protein" fr="w9610" to="w9611" nam="yes">
+     <textspan type="extent">fusion protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Fusion_protein"/>
+      <exattr n="bd" v="e.638.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2275" gid="g2177" t="RELATIONSHIP_TEXTBINDING" fr="w9615" to="w9615">
+     <textspan type="extent">precipitated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.638.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2276" gid="g2178" t="Individual_protein" fr="w9616" to="w9616" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.638.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r884" t="F-CONTAIN" e1="e2274" e2="e2273" re="e2272">
+     <textspan type="extent">fusion protein containing wild-type beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.638.0"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="F-CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r885" t="COPRECIPITATE" e1="e2274" e2="e2276" re="e2275">
+     <textspan type="extent">fusion protein containing wild-type beta-catenin precipitated alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.638.3"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COPRECIPITATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

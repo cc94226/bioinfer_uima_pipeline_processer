@@ -1,0 +1,99 @@
+<rexml>
+<doc id="1667">
+  <text>
+<p><s id="s1"><w id="w26565">The</w> <w id="w26566">role</w> <w id="w26567">of</w> <w id="w26568">profilin</w> <w id="w26569">in</w> <w id="w26570">actin</w> <w id="w26571">polymerization</w> <w id="w26572">and</w> <w id="w26573">nucleotide</w> <w id="w26574">exchange</w> <w id="w26575">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6123" gid="g5841" t="RELATIONSHIP_TEXTBINDING" fr="w26566" to="w26569">
+     <textspan type="extent">role of [..] in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1667.0"/>
+      <exattr n="nst" v="st.1667.1.0"/>
+      <exattr n="nst" v="st.1667.2.0"/>
+      <exattr n="nst" v="st.1667.4.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6124" gid="g5842" t="Individual_protein" fr="w26568" to="w26568" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1667.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6125" gid="g5843" t="LOCALIZATION" fr="w26570" to="w26574">
+     <textspan type="extent">actin [..] exchange</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.1667.2"/>
+      <exattr n="nst" v="st.1667.5.0"/>
+      <exattr n="nst" v="st.1667.9.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6126" gid="g5844" t="POLYMERIZATION" fr="w26570" to="w26571">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.1667.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6127" gid="g5845" t="Individual_protein" fr="w26570" to="w26570" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1667.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6128" gid="g5846" t="Individual_protein" fr="w26570" to="w26570" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1667.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2353" t="PARTICIPATE" e1="e6124" e2="e6126" re="e6123">
+     <textspan type="extent">role of profilin in actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1667.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2354" t="PARTICIPATE" e1="e6124" e2="e6125" re="e6123">
+     <textspan type="extent">role of profilin in actin polymerization and nucleotide exchange</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1667.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

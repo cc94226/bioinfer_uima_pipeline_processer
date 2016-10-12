@@ -1,0 +1,71 @@
+<rexml>
+<doc id="526">
+  <text>
+<p><s id="s1"><w id="w7371">Furthermore</w> <w id="w7372">,</w> <w id="w7373">a</w> <w id="w7374">simultaneous</w> <w id="w7375">expression</w> <w id="w7376">of</w> <w id="w7377">profilin</w> <w id="w7378">,</w> <w id="w7379">actin</w> <w id="w7380">and</w> <w id="w7381">extracellular</w> <w id="w7382">matrix</w> <w id="w7383">proteins</w> <w id="w7384">was</w> <w id="w7385">observed</w> <w id="w7386">during</w> <w id="w7387">the</w> <w id="w7388">regeneration</w> <w id="w7389">of</w> <w id="w7390">rat</w> <w id="w7391">liver</w> <w id="w7392">,</w> <w id="w7393">that</w> <w id="w7394">is</w> <w id="w7395">,</w> <w id="w7396">all</w> <w id="w7397">mRNAs</w> <w id="w7398">of</w> <w id="w7399">these</w> <w id="w7400">proteins</w> <w id="w7401">showed</w> <w id="w7402">biphasic</w> <w id="w7403">peaks</w> <w id="w7404">around</w> <w id="w7405">6</w> <w id="w7406">h</w> <w id="w7407">and</w> <w id="w7408">48</w> <w id="w7409">h</w> <w id="w7410">after</w> <w id="w7411">partial</w> <w id="w7412">hepatectomy</w> <w id="w7413">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1754" gid="g1682" t="RELATIONSHIP_TEXTBINDING" fr="w7374" to="w7376">
+     <textspan type="extent">simultaneous expression of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.526.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1755" gid="g1683" t="Individual_protein" fr="w7377" to="w7377" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.526.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1756" gid="g1684" t="Individual_protein" fr="w7381" to="w7383" nam="yes">
+     <textspan type="extent">extracellular matrix proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.526.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1757" gid="g1685" t="Individual_protein" fr="w7379" to="w7379" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.526.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r691" t="COEXPRESS" e1="e1755" e2="e1757,e1756" re="e1754">
+     <textspan type="extent">simultaneous expression of profilin , actin and extracellular matrix proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.526.0"/>
+      <exattr n="arg" v="e1755"/>
+      <exattr n="arg" v="e1757"/>
+      <exattr n="arg" v="e1756"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Temporal"/>
+      <exattr n="t3" v="COEXPRESS"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

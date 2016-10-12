@@ -1,0 +1,100 @@
+<rexml>
+<doc id="702">
+  <text>
+<p><s id="s1"><w id="w10848">In</w> <w id="w10849">addition</w> <w id="w10850">,</w> <w id="w10851">interactions</w> <w id="w10852">with</w> <w id="w10853">components</w> <w id="w10854">of</w> <w id="w10855">the</w> <w id="w10856">phosphatidylinositol</w> <w id="w10857">cycle</w> <w id="w10858">and</w> <w id="w10859">the</w> <w id="w10860">RAS</w> <w id="w10861">pathway</w> <w id="w10862">in</w> <w id="w10863">yeast</w> <w id="w10864">implicate</w> <w id="w10865">profilin</w> <w id="w10866">as</w> <w id="w10867">an</w> <w id="w10868">important</w> <w id="w10869">link</w> <w id="w10870">through</w> <w id="w10871">which</w> <w id="w10872">the</w> <w id="w10873">actin</w> <w id="w10874">cytoskeleton</w> <w id="w10875">is</w> <w id="w10876">able</w> <w id="w10877">to</w> <w id="w10878">communicate</w> <w id="w10879">with</w> <w id="w10880">major</w> <w id="w10881">signaling</w> <w id="w10882">pathways</w> <w id="w10883">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2544" gid="g2438" t="Individual_protein" fr="w10865" to="w10865" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.702.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2545" gid="g2439" t="RELATIONSHIP_TEXTBINDING" fr="w10869" to="w10869">
+     <textspan type="extent">link</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.702.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2546" gid="g2440" t="Gene" fr="w10860" to="w10860" nam="yes">
+     <textspan type="extent">RAS</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.702.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2547" gid="g2441" t="RELATIONSHIP_TEXTBINDING" fr="w10851" to="w10852">
+     <textspan type="extent">interactions with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.702.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2548" gid="g2442" t="Process_entity" fr="w10860" to="w10861">
+     <textspan type="extent">RAS pathway</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.702.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2549" gid="g2443" t="Cell_component" fr="w10873" to="w10874" nam="yes">
+     <textspan type="extent">actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.702.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2550" gid="g2444" t="Individual_protein" fr="w10873" to="w10873" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.702.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r974" t="RELATE" e1="e2544" e2="e2549" re="e2545">
+     <textspan type="extent">profilin as an important link through which the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.702.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r975" t="INTERACT" e1="e2544" e2="e2548" re="e2547">
+     <textspan type="extent">interactions with components of the phosphatidylinositol cycle and the RAS pathway in yeast implicate profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.702.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

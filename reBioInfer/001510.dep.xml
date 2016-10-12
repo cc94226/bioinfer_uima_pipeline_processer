@@ -1,0 +1,76 @@
+<rexml>
+<doc id="1510">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w23685" g="w23687" t="det" cr="det:w23687" w="The" l="~" p="Det"/>
+     <dpg d="w23686" g="w23687" t="mod" cr="mod:w23687" w="higher" l="~" p="A"/>
+     <dpg d="w23687" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="affinity" l="~" p="N"/>
+     <dpg d="w23688" g="w23687" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w23689" g="w23690" t="nn" cr="nn:w23690" w="vaccinia" l="~" p="N"/>
+     <dpg d="w23690" g="w23688" t="pcomp-n" cr="mod*of*n:w23687" w="profilin" l="~" p="N"/>
+     <dpg d="w23691" g="w23690" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w23692" g="w23694" t="nn" cr="nn:w23694" w="polyphosphoinositides" l="~" p="N"/>
+     <dpg d="w23693" g="w23694" t="punc" cr="punc:w23694" w="(" l="~" p="U"/>
+     <dpg d="w23694" g="w23691" t="pcomp-n" cr="mod*for*n:w23690" w="Kd" l="~" p="N"/>
+     <dpg d="w23695" g="E4" t="punc" cr="punc:E4" w="=" l="~" p="U"/>
+     <dpg d="w23696" g="w23697" t="nn" cr="nn:w23697" w="0.2-8.5" l="0.2-8.5" p="N"/>
+     <dpg d="w23697" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="microM" l="~" p="N"/>
+     <dpg d="w23698" g="E4" t="punc" cr="punc:E4" w=")" l="~" p="U"/>
+     <dpg d="w23699" g="E4" t="punc" cr="punc:E4" w="than" l="~" p="U"/>
+     <dpg d="w23700" g="E4" t="p" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w23701" g="w23700" t="pcomp-n" cr="p*for*n:E4" w="actin" l="~" p="N"/>
+     <dpg d="w23702" g="E4" t="punc" cr="punc:E4" w="or" l="~" p="U"/>
+     <dpg d="E2" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23703" g="w23710" t="s" cr="s+subj:w23710" w="poly(L-proline)" l="L-proline" p="N"/>
+     <dpg d="w23704" g="w23703" t="punc" cr="punc:w23703" w="and" l="~" p="U"/>
+     <dpg d="w23705" g="w23706" t="det" cr="det:w23706" w="the" l="~" p="Det"/>
+     <dpg d="w23706" g="w23703" t="conj" cr="conj:w23703" w="concentration" l="~" p="N"/>
+     <dpg d="w23707" g="w23706" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w23708" g="w23709" t="nn" cr="nn:w23709" w="vaccinia" l="~" p="N"/>
+     <dpg d="w23709" g="w23707" t="pcomp-n" cr="mod*of*n:w23706" w="profilin" l="~" p="N"/>
+     <dpg d="w23710" g="E2" t="i" cr="UNSPECRELTYPE:E4" w="expressed" l="express" p="V"/>
+     <dpg d="E5" g="w23710" t="subj" cr="" w="" l="L-proline" p="N"/>
+     <dpg d="E5" g="w23703" t="antecedent" cr="" w="" l="L-proline" p="N"/>
+     <dpg d="w23711" g="w23710" t="guest" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w23712" g="w23714" t="mod" cr="mod:w23714" w="infected" l="~" p="A"/>
+     <dpg d="w23713" g="w23714" t="nn" cr="nn:w23714" w="HeLa" l="~" p="N"/>
+     <dpg d="w23714" g="w23711" t="pcomp-n" cr="guest*in*n:w23710" w="cells" l="cell" p="N"/>
+     <dpg d="w23715" g="w23710" t="punc" cr="punc:w23710" w="(" l="~" p="U"/>
+     <dpg d="E1" g="w23710" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23716" g="E1" t="mod" cr="mod:w23720" w="approximately" l="~" p="A"/>
+     <dpg d="w23717" g="w23718" t="num" cr="num:w23718" w="20" l="~" p="N"/>
+     <dpg d="w23718" g="w23720" t="s" cr="s+subj:w23720" w="microM" l="~" p="N"/>
+     <dpg d="w23719" g="w23720" t="punc" cr="punc:w23720" w=")" l="~" p="U"/>
+     <dpg d="w23720" g="E1" t="i" cr="fc:w23710" w="suggest" l="~" p="V"/>
+     <dpg d="E6" g="w23720" t="subj" cr="" w="" l="microM" p="N"/>
+     <dpg d="E6" g="w23718" t="antecedent" cr="" w="" l="microM" p="N"/>
+     <dpg d="E0" g="w23720" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23721" g="E0" t="c" cr="c:w23724" w="that" l="~" p="COMP"/>
+     <dpg d="w23722" g="w23723" t="nn" cr="nn:w23723" w="vaccinia" l="~" p="N"/>
+     <dpg d="w23723" g="w23724" t="s" cr="s+subj:w23724" w="profilin" l="~" p="N"/>
+     <dpg d="w23724" g="E0" t="i" cr="fc:w23720" w="binds" l="bind" p="V"/>
+     <dpg d="E7" g="w23724" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E7" g="w23723" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w23725" g="w23724" t="mod" cr="mod:w23724" w="preferentially" l="~" p="A"/>
+     <dpg d="w23726" g="w23725" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w23727" g="w23726" t="pcomp-n" cr="mod*to*n:w23725" w="PIP" l="~" p="N"/>
+     <dpg d="w23728" g="w23727" t="punc" cr="punc:w23727" w="and" l="~" p="U"/>
+     <dpg d="w23729" g="w23727" t="conj" cr="conj:w23727" w="PIP2" l="~" p="N"/>
+     <dpg d="w23730" g="w23731" t="lex-mod" cr="lex-mod:w23731" w="in" l="~" p="U"/>
+     <dpg d="w23731" g="w23724" t="mod" cr="mod:w23724" w="vivo" l="in vivo" p="A"/>
+     <dpg d="w23732" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

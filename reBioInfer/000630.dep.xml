@@ -1,0 +1,60 @@
+<rexml>
+<doc id="630">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w9422" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="However" l="~" p="A"/>
+     <dpg d="w9423" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w9424" g="w9425" t="mod" cr="mod:w9425" w="once" l="~" p="A"/>
+     <dpg d="w9425" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="initiated" l="~" p="A"/>
+     <dpg d="w9426" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9427" g="w9428" t="det" cr="det:w9428" w="the" l="~" p="Det"/>
+     <dpg d="w9428" g="w9433" t="s" cr="s+subj:w9433" w="synthesis" l="~" p="N"/>
+     <dpg d="w9429" g="w9428" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9430" g="w9432" t="nn" cr="nn:w9432" w="muscle" l="~" p="N"/>
+     <dpg d="w9431" g="w9432" t="nn" cr="nn:w9432" w="tropomyosin" l="~" p="N"/>
+     <dpg d="w9432" g="w9429" t="pcomp-n" cr="mod*of*n:w9428" w="mRNA" l="~" p="N"/>
+     <dpg d="w9433" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="continued" l="continue" p="V"/>
+     <dpg d="E4" g="w9433" t="subj" cr="" w="" l="synthesis" p="N"/>
+     <dpg d="E4" g="w9428" t="antecedent" cr="" w="" l="synthesis" p="N"/>
+     <dpg d="w9434" g="w9433" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w9435" g="w9436" t="det" cr="det:w9436" w="the" l="~" p="Det"/>
+     <dpg d="w9436" g="w9434" t="pcomp-n" cr="mod*in*n:w9433" w="presence" l="~" p="N"/>
+     <dpg d="w9437" g="w9436" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9438" g="w9437" t="pcomp-n" cr="mod*of*n:w9436" w="cycloheximide" l="~" p="N"/>
+     <dpg d="w9439" g="w9433" t="punc" cr="punc:w9433" w="," l="~" p="U"/>
+     <dpg d="w9440" g="w9433" t="mod" cr="mod:w9433" w="while" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w9440" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9441" g="w9442" t="det" cr="det:w9442" w="the" l="~" p="Det"/>
+     <dpg d="w9442" g="w9455" t="s" cr="s+obj:w9455" w="expression" l="~" p="N"/>
+     <dpg d="w9443" g="w9442" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9444" g="w9445" t="nn" cr="nn:w9445" w="muscle" l="~" p="N"/>
+     <dpg d="w9445" g="w9443" t="pcomp-n" cr="mod*of*n:w9442" w="actin" l="~" p="N"/>
+     <dpg d="w9446" g="w9445" t="punc" cr="punc:w9445" w="," l="~" p="U"/>
+     <dpg d="w9447" g="w9449" t="nn" cr="nn:w9449" w="myosin" l="~" p="N"/>
+     <dpg d="w9448" g="w9449" t="mod" cr="mod:w9449" w="heavy" l="~" p="A"/>
+     <dpg d="w9449" g="w9445" t="conj" cr="conj:w9445" w="chain" l="~" p="N"/>
+     <dpg d="w9450" g="w9449" t="punc" cr="punc:w9449" w="," l="~" p="U"/>
+     <dpg d="w9451" g="w9449" t="punc" cr="punc:w9449" w="and" l="~" p="U"/>
+     <dpg d="w9452" g="w9453" t="nn" cr="nn:w9453" w="myogenin" l="~" p="N"/>
+     <dpg d="w9453" g="w9449" t="conj" cr="conj:w9449" w="mRNA" l="~" p="N"/>
+     <dpg d="w9454" g="w9455" t="be" cr="be:w9455" w="was" l="be" p="be"/>
+     <dpg d="w9455" g="E0" t="i" cr="comp1:w9440" w="abolished" l="abolish" p="V"/>
+     <dpg d="E5" g="w9455" t="obj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E5" g="w9442" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w9456" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,150 @@
+<rexml>
+<doc id="2153">
+  <text>
+<p><s id="s1"><w id="w33518">We</w> <w id="w33519">show</w> <w id="w33520">here</w> <w id="w33521">that</w> <w id="w33522">the</w> <w id="w33523">phenotype</w> <w id="w33524">of</w> <w id="w33525">ts</w> <w id="w33526">cut2-364</w> <w id="w33527">is</w> <w id="w33528">highly</w> <w id="w33529">similar</w> <w id="w33530">to</w> <w id="w33531">that</w> <w id="w33532">of</w> <w id="w33533">cut1</w> <w id="w33534">and</w> <w id="w33535">that</w> <w id="w33536">the</w> <w id="w33537">functions</w> <w id="w33538">of</w> <w id="w33539">the</w> <w id="w33540">gene</w> <w id="w33541">products</w> <w id="w33542">of</w> <w id="w33543">cut1+</w> <w id="w33544">and</w> <w id="w33545">cut2+</w> <w id="w33546">are</w> <w id="w33547">closely</w> <w id="w33548">interrelated</w> <w id="w33549">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7640" gid="g7281" t="Gene/protein/RNA" fr="w33526" to="w33526" nam="yes">
+     <textspan type="extent">cut2-364</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2153.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7641" gid="g7282" t="RELATIONSHIP_TEXTBINDING" fr="w33548" to="w33548">
+     <textspan type="extent">interrelated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2153.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7642" gid="g7283" t="Individual_protein" fr="w33541" to="w33543" nam="yes">
+     <textspan type="extent">products of cut1+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2153.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7643" gid="g7284" t="Gene/protein/RNA" fr="w33533" to="w33533" nam="yes">
+     <textspan type="extent">cut1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2153.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7644" gid="g7285" t="Individual_protein" fr="w33541" to="w33545" nam="yes">
+     <textspan type="extent">products of [..] cut2+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2153.4"/>
+      <exattr n="nst" v="st.2153.23.0"/>
+      <exattr n="nst" v="st.2153.24.0"/>
+      <exattr n="nst" v="st.2153.27.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7645" gid="g7286" t="Function_property" fr="w33537" to="w33545">
+     <textspan type="extent">functions of [..] products of [..] cut2+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.2153.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7646" gid="g7287" t="Function_property" fr="w33537" to="w33543">
+     <textspan type="extent">functions of [..] products of cut1+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.2153.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7647" gid="g7288" t="Gene" fr="w33543" to="w33543" nam="yes">
+     <textspan type="extent">cut1+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.2153.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7648" gid="g7289" t="Gene" fr="w33543" to="w33543" nam="yes">
+     <textspan type="extent">cut1+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.2153.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e7649" gid="g7290" t="Gene" fr="w33545" to="w33545" nam="yes">
+     <textspan type="extent">cut2+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.2153.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e7650" gid="g7291" t="Gene" fr="w33545" to="w33545" nam="yes">
+     <textspan type="extent">cut2+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.2153.10"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2944" t="RELATE" e1="e7646" e2="e7645" re="e7641">
+     <textspan type="extent">functions of the gene products of cut1+ and cut2+ are closely interrelated</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2153.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

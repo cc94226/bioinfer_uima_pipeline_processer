@@ -1,0 +1,35 @@
+<rexml>
+<doc id="625">
+  <text>
+<p><s id="s1"><w id="w9309">However</w> <w id="w9310">,</w> <w id="w9311">immunofluorescence</w> <w id="w9312">staining</w> <w id="w9313">revealed</w> <w id="w9314">a</w> <w id="w9315">similar</w> <w id="w9316">organisation</w> <w id="w9317">of</w> <w id="w9318">actin</w> <w id="w9319">microfilaments</w> <w id="w9320">,</w> <w id="w9321">talin</w> <w id="w9322">and</w> <w id="w9323">phosphotyrosyl-containing</w> <w id="w9324">proteins</w> <w id="w9325">on</w> <w id="w9326">both</w> <w id="w9327">substrates</w> <w id="w9328">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2233" gid="g2137" t="Gene/protein/RNA" fr="w9318" to="w9318" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.625.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2234" gid="g2138" t="Gene/protein/RNA" fr="w9321" to="w9321" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.625.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

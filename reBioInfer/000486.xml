@@ -1,0 +1,35 @@
+<rexml>
+<doc id="486">
+  <text>
+<p><s id="s1"><w id="w6799">Finally</w> <w id="w6800">it</w> <w id="w6801">was</w> <w id="w6802">shown</w> <w id="w6803">that</w> <w id="w6804">the</w> <w id="w6805">two</w> <w id="w6806">isoforms</w> <w id="w6807">of</w> <w id="w6808">actin</w> <w id="w6809">can</w> <w id="w6810">be</w> <w id="w6811">separated</w> <w id="w6812">from</w> <w id="w6813">each</w> <w id="w6814">other</w> <w id="w6815">in</w> <w id="w6816">the</w> <w id="w6817">absence</w> <w id="w6818">of</w> <w id="w6819">profilin</w> <w id="w6820">also</w> <w id="w6821">by</w> <w id="w6822">chromatography</w> <w id="w6823">on</w> <w id="w6824">hydroxyapatite</w> <w id="w6825">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1636" gid="g1566" t="Gene/protein/RNA" fr="w6808" to="w6808" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.486.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1637" gid="g1567" t="Gene/protein/RNA" fr="w6819" to="w6819" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.486.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

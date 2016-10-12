@@ -1,0 +1,49 @@
+<rexml>
+<doc id="1332">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20737" g="w20740" t="det" cr="det:w20740" w="The" l="~" p="Det"/>
+     <dpg d="w20738" g="w20740" t="mod" cr="mod:w20740" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w20739" g="w20740" t="nn" cr="nn:w20740" w="protein" l="~" p="N"/>
+     <dpg d="w20740" g="w20742" t="s" cr="s+obj:w20742" w="profilin" l="~" p="N"/>
+     <dpg d="w20741" g="w20742" t="be" cr="be:w20742" w="was" l="be" p="be"/>
+     <dpg d="w20742" g="E1" t="i" cr="" w="isolated" l="isolate" p="V"/>
+     <dpg d="E3" g="w20742" t="obj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E3" g="w20740" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w20743" g="w20742" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w20744" g="w20745" t="nn" cr="nn:w20745" w="Tetrahymena" l="~" p="N"/>
+     <dpg d="w20745" g="w20743" t="pcomp-n" cr="mod*from*n:w20742" w="thermophila" l="~" p="N"/>
+     <dpg d="w20746" g="w20745" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w20747" g="w20748" t="nn" cr="nn:w20748" w="affinity" l="~" p="N"/>
+     <dpg d="w20748" g="w20746" t="pcomp-n" cr="mod*by*n:w20745" w="chromatography" l="~" p="N"/>
+     <dpg d="w20749" g="E1" t="punc" cr="punc:w20742" w="," l="~" p="U"/>
+     <dpg d="w20750" g="E1" t="punc" cr="punc:w20742" w="and" l="~" p="U"/>
+     <dpg d="E0" g="E1" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20751" g="w20753" t="det" cr="det:w20753" w="the" l="~" p="Det"/>
+     <dpg d="w20752" g="w20753" t="nn" cr="nn:w20753" w="peptide" l="~" p="N"/>
+     <dpg d="w20753" g="w20755" t="s" cr="s+obj:w20755" w="sequence" l="~" p="N"/>
+     <dpg d="w20754" g="w20755" t="be" cr="be:w20755" w="was" l="be" p="be"/>
+     <dpg d="w20755" g="E0" t="i" cr="conj:w20742" w="determined" l="determine" p="V"/>
+     <dpg d="E4" g="w20755" t="obj" cr="" w="" l="sequence" p="N"/>
+     <dpg d="E4" g="w20753" t="antecedent" cr="" w="" l="sequence" p="N"/>
+     <dpg d="w20756" g="w20755" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w20757" g="w20756" t="pcomp-n" cr="mod*for*n:w20755" w="part" l="~" p="N"/>
+     <dpg d="w20758" g="w20757" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w20759" g="w20760" t="det" cr="det:w20760" w="the" l="~" p="Det"/>
+     <dpg d="w20760" g="w20758" t="pcomp-n" cr="mod*of*n:w20757" w="protein" l="~" p="N"/>
+     <dpg d="w20761" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

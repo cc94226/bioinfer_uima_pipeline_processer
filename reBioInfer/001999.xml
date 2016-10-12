@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1999">
+  <text>
+<p><s id="s1"><w id="w31964">Various</w> <w id="w31965">immunological</w> <w id="w31966">assays</w> <w id="w31967">suggest</w> <w id="w31968">that</w> <w id="w31969">four</w> <w id="w31970">of</w> <w id="w31971">these</w> <w id="w31972">proteins</w> <w id="w31973">(</w> <w id="w31974">UL5</w> <w id="w31975">,</w> <w id="w31976">UL8</w> <w id="w31977">,</w> <w id="w31978">UL9</w> <w id="w31979">,</w> <w id="w31980">and</w> <w id="w31981">UL52</w> <w id="w31982">)</w> <w id="w31983">are</w> <w id="w31984">made</w> <w id="w31985">in</w> <w id="w31986">infected</w> <w id="w31987">cells</w> <w id="w31988">in</w> <w id="w31989">very</w> <w id="w31990">low</w> <w id="w31991">abundance</w> <w id="w31992">relative</w> <w id="w31993">to</w> <w id="w31994">the</w> <w id="w31995">other</w> <w id="w31996">three</w> <w id="w31997">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7298" gid="g6961" t="Gene/protein/RNA" fr="w31974" to="w31974" nam="yes">
+     <textspan type="extent">UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1999.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7299" gid="g6962" t="Gene/protein/RNA" fr="w31978" to="w31978" nam="yes">
+     <textspan type="extent">UL9</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1999.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7300" gid="g6963" t="Gene/protein/RNA" fr="w31976" to="w31976" nam="yes">
+     <textspan type="extent">UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1999.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7301" gid="g6964" t="Gene/protein/RNA" fr="w31981" to="w31981" nam="yes">
+     <textspan type="extent">UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1999.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

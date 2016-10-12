@@ -1,0 +1,45 @@
+<rexml>
+<doc id="1020">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16124" g="w16127" t="s" cr="s+subj:w16127||subj:w16136" w="Mutations" l="mutation" p="N"/>
+     <dpg d="w16125" g="w16124" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w16126" g="w16125" t="pcomp-n" cr="mod*in*n:w16124" w="RAD27" l="~" p="N"/>
+     <dpg d="w16127" g="E0" t="i" cr="" w="cause" l="~" p="V"/>
+     <dpg d="E2" g="w16127" t="subj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E2" g="w16124" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="w16128" g="w16129" t="mod" cr="mod:w16129" w="increased" l="~" p="A"/>
+     <dpg d="w16129" g="w16127" t="obj" cr="obj:w16127" w="rates" l="rate" p="N"/>
+     <dpg d="w16130" g="w16129" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w16131" g="w16133" t="mod" cr="mod:w16133" w="mitotic" l="~" p="A"/>
+     <dpg d="w16132" g="w16133" t="lex-mod" cr="lex-mod:w16133" w="crossing" l="~" p="U"/>
+     <dpg d="w16133" g="w16130" t="pcomp-n" cr="mod*of*n:w16129" w="over" l="crossing over" p="N"/>
+     <dpg d="w16134" g="w16127" t="punc" cr="punc:w16127" w="and" l="~" p="U"/>
+     <dpg d="w16135" g="w16127" t="conj" cr="conj:w16127" w="are" l="be" p="VBE"/>
+     <dpg d="w16136" g="w16135" t="pred" cr="pred:w16135" w="lethal" l="~" p="A"/>
+     <dpg d="E3" g="w16136" t="subj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E3" g="w16124" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="w16137" g="w16136" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w16138" g="w16137" t="pcomp-n" cr="mod*in*n:w16136" w="combination" l="~" p="N"/>
+     <dpg d="w16139" g="w16138" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w16140" g="w16139" t="pcomp-n" cr="mod*with*n:w16138" w="mutations" l="mutation" p="N"/>
+     <dpg d="w16141" g="w16140" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w16142" g="w16141" t="pcomp-n" cr="mod*in*n:w16140" w="RAD51" l="~" p="N"/>
+     <dpg d="w16143" g="w16142" t="punc" cr="punc:w16142" w="and" l="~" p="U"/>
+     <dpg d="w16144" g="w16142" t="conj" cr="conj:w16142" w="RAD52" l="~" p="N"/>
+     <dpg d="w16145" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,76 @@
+<rexml>
+<doc id="1854">
+  <text>
+<p><s id="s1"><w id="w29719">Three-dimensional</w> <w id="w29720">fluorescence</w> <w id="w29721">microscopy</w> <w id="w29722">of</w> <w id="w29723">the</w> <w id="w29724">fluorescent</w> <w id="w29725">analog</w> <w id="w29726">of</w> <w id="w29727">actin</w> <w id="w29728">with</w> <w id="w29729">a</w> <w id="w29730">high</w> <w id="w29731">affinity</w> <w id="w29732">for</w> <w id="w29733">profilin</w> <w id="w29734">revealed</w> <w id="w29735">that</w> <w id="w29736">it</w> <w id="w29737">incorporated</w> <w id="w29738">into</w> <w id="w29739">cortical</w> <w id="w29740">cytoplasmic</w> <w id="w29741">fibers</w> <w id="w29742">and</w> <w id="w29743">was</w> <w id="w29744">also</w> <w id="w29745">distributed</w> <w id="w29746">diffusely</w> <w id="w29747">in</w> <w id="w29748">the</w> <w id="w29749">non-cortical</w> <w id="w29750">cytoplasm</w> <w id="w29751">consistent</w> <w id="w29752">with</w> <w id="w29753">a</w> <w id="w29754">bias</w> <w id="w29755">of</w> <w id="w29756">actin</w> <w id="w29757">assembly</w> <w id="w29758">near</w> <w id="w29759">the</w> <w id="w29760">surface</w> <w id="w29761">of</w> <w id="w29762">the</w> <w id="w29763">cell</w> <w id="w29764">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6885" gid="g6570" t="Analog" fr="w29725" to="w29727" nam="yes">
+     <textspan type="extent">analog of actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Analog"/>
+      <exattr n="bd" v="e.1854.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6886" gid="g6571" t="RELATIONSHIP_TEXTBINDING" fr="w29731" to="w29732">
+     <textspan type="extent">affinity for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1854.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6887" gid="g6572" t="Gene/protein/RNA" fr="w29756" to="w29756" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1854.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6888" gid="g6573" t="Individual_protein" fr="w29733" to="w29733" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1854.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6889" gid="g6574" t="Individual_protein" fr="w29727" to="w29727" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1854.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2642" t="BIND" e1="e6885" e2="e6888" re="e6886">
+     <textspan type="extent">analog of actin with a high affinity for profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1854.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

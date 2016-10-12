@@ -1,0 +1,86 @@
+<rexml>
+<doc id="1653">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26420" g="w26421" t="det" cr="det:w26421" w="The" l="~" p="Det"/>
+     <dpg d="w26421" g="w26422" t="s" cr="s+subj:w26422" w="results" l="result" p="N"/>
+     <dpg d="w26422" g="E1" t="i" cr="UNSPECRELTYPE:E5" w="indicate" l="~" p="V"/>
+     <dpg d="E6" g="w26422" t="subj" cr="" w="" l="result" p="N"/>
+     <dpg d="E6" g="w26421" t="antecedent" cr="" w="" l="result" p="N"/>
+     <dpg d="E0" g="w26422" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26423" g="E0" t="c" cr="c:w26426" w="that" l="~" p="COMP"/>
+     <dpg d="w26424" g="w26425" t="nn" cr="nn:w26425" w="S." l="~" p="N"/>
+     <dpg d="w26425" g="w26426" t="s" cr="s+subj:w26426" w="cerevisiae" l="~" p="N"/>
+     <dpg d="w26426" g="E0" t="i" cr="fc:w26422" w="has" l="have" p="V"/>
+     <dpg d="E7" g="w26426" t="subj" cr="" w="" l="cerevisiae" p="N"/>
+     <dpg d="E7" g="w26425" t="antecedent" cr="" w="" l="cerevisiae" p="N"/>
+     <dpg d="w26427" g="w26428" t="nn" cr="nn:w26428" w="two" l="~" p="N"/>
+     <dpg d="w26428" g="w26432" t="s" cr="s+subj:w26432" w="pathways" l="pathway" p="N"/>
+     <dpg d="w26429" g="w26428" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26430" g="w26431" t="lex-mod" cr="lex-mod:w26431" w="MSH2" l="~" p="U"/>
+     <dpg d="w26431" g="w26429" t="pcomp-n" cr="mod*of*n:w26428" w="-dependent" l="MSH2 -dependent" p="N"/>
+     <dpg d="w26432" g="w26426" t="sc" cr="sc:w26426" w="mismatch" l="~" p="V"/>
+     <dpg d="E8" g="w26432" t="subj" cr="" w="" l="pathway" p="N"/>
+     <dpg d="E8" g="w26428" t="antecedent" cr="" w="" l="pathway" p="N"/>
+     <dpg d="w26433" g="w26432" t="obj" cr="obj:w26432" w="repair" l="~" p="N"/>
+     <dpg d="w26434" g="E5" t="punc" cr="punc:E5" w=":" l="~" p="U"/>
+     <dpg d="w26435" g="E5" t="subcat" cr="subcat:E5||subj:w26437||subj:w26441" w="one" l="~" p="N"/>
+     <dpg d="E3" g="w26435" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26436" g="E3" t="whn" cr="whn:w26437" w="that" l="~" p="THAT"/>
+     <dpg d="w26436" g="w26435" t="antecedent" cr="antecedent:w26435" w="that" l="~" p="THAT"/>
+     <dpg d="w26437" g="E3" t="i" cr="rel:w26435" w="recognized" l="recognize" p="V"/>
+     <dpg d="E9" g="w26437" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E9" g="w26435" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w26438" g="w26439" t="mod" cr="mod:w26439" w="single-base" l="single-base" p="A"/>
+     <dpg d="w26439" g="w26437" t="obj" cr="obj:w26437" w="mispairs" l="~" p="N"/>
+     <dpg d="w26440" g="w26437" t="punc" cr="punc:w26437" w="and" l="~" p="U"/>
+     <dpg d="w26441" g="w26437" t="conj" cr="conj:w26437" w="requires" l="require" p="V"/>
+     <dpg d="E10" g="w26441" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E10" g="w26435" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w26442" g="w26441" t="obj" cr="obj:w26441" w="MSH2" l="~" p="N"/>
+     <dpg d="w26443" g="w26442" t="punc" cr="punc:w26442" w="and" l="~" p="U"/>
+     <dpg d="w26444" g="w26442" t="conj" cr="conj:w26442" w="MSH6" l="~" p="N"/>
+     <dpg d="w26445" g="w26444" t="punc" cr="punc:w26444" w="," l="~" p="U"/>
+     <dpg d="w26446" g="w26444" t="punc" cr="punc:w26444" w="and" l="~" p="U"/>
+     <dpg d="w26447" g="w26448" t="det" cr="det:w26448" w="a" l="~" p="Det"/>
+     <dpg d="w26448" g="w26444" t="conj" cr="conj:w26444||subj:w26450||subj:w26454" w="second" l="~" p="N"/>
+     <dpg d="E2" g="w26448" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26449" g="E2" t="whn" cr="whn:w26450" w="that" l="~" p="THAT"/>
+     <dpg d="w26449" g="w26448" t="antecedent" cr="antecedent:w26448" w="that" l="~" p="THAT"/>
+     <dpg d="w26450" g="E2" t="i" cr="rel:w26448" w="recognizes" l="recognize" p="V"/>
+     <dpg d="E11" g="w26450" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E11" g="w26448" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w26451" g="w26452" t="nn" cr="nn:w26452" w="insertion/deletion" l="~" p="N"/>
+     <dpg d="w26452" g="w26450" t="obj" cr="obj:w26450" w="mispairs" l="~" p="N"/>
+     <dpg d="w26453" g="w26450" t="punc" cr="punc:w26450" w="and" l="~" p="U"/>
+     <dpg d="w26454" g="w26450" t="conj" cr="conj:w26450" w="requires" l="require" p="V"/>
+     <dpg d="E12" g="w26454" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E12" g="w26448" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w26455" g="w26456" t="det" cr="det:w26456" w="a" l="~" p="Det"/>
+     <dpg d="w26456" g="w26454" t="obj" cr="obj:w26454" w="combination" l="~" p="N"/>
+     <dpg d="w26457" g="w26456" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26458" g="w26457" t="punc" cr="punc:w26457" w="either" l="~" p="U"/>
+     <dpg d="w26459" g="w26457" t="pcomp-n" cr="mod*of*n:w26456" w="MSH2" l="~" p="N"/>
+     <dpg d="w26460" g="w26459" t="punc" cr="punc:w26459" w="and" l="~" p="U"/>
+     <dpg d="w26461" g="w26459" t="conj" cr="conj:w26459" w="MSH6" l="~" p="N"/>
+     <dpg d="w26462" g="w26461" t="punc" cr="punc:w26461" w="or" l="~" p="U"/>
+     <dpg d="w26463" g="w26461" t="conj" cr="conj:w26461" w="MSH2" l="~" p="N"/>
+     <dpg d="w26464" g="w26463" t="punc" cr="punc:w26463" w="and" l="~" p="U"/>
+     <dpg d="w26465" g="w26463" t="conj" cr="conj:w26463" w="MSH3" l="~" p="N"/>
+     <dpg d="w26466" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

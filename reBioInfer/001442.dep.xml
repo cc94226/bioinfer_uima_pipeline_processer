@@ -1,0 +1,58 @@
+<rexml>
+<doc id="1442">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22760" g="w22762" t="det" cr="det:w22762" w="The" l="~" p="Det"/>
+     <dpg d="w22761" g="w22762" t="mod" cr="mod:w22762" w="cytoplasmic" l="~" p="A"/>
+     <dpg d="w22762" g="w22767" t="s" cr="s+subj:w22767||subj:w22771" w="domain" l="~" p="N"/>
+     <dpg d="w22763" g="w22762" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w22764" g="w22763" t="pcomp-n" cr="mod*of*n:w22762" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w22765" g="w22767" t="aux" cr="aux:w22767" w="cannot" l="~" p="Aux"/>
+     <dpg d="w22766" g="w22767" t="amod" cr="amod:w22767" w="directly" l="~" p="A"/>
+     <dpg d="w22767" g="E1" t="i" cr="" w="associate" l="associate with" p="V"/>
+     <dpg d="w22768" g="w22767" t="lex-mod" cr="lex-mod:w22767" w="with" l="~" p="U"/>
+     <dpg d="E3" g="w22767" t="subj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E3" g="w22762" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="w22769" g="w22767" t="obj" cr="obj:w22767" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w22770" g="w22767" t="punc" cr="punc:w22767" w="but" l="~" p="U"/>
+     <dpg d="w22771" g="w22767" t="conj" cr="conj:w22767" w="interacts" l="interact" p="V"/>
+     <dpg d="E4" g="w22771" t="subj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E4" g="w22762" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="w22772" g="w22771" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w22773" g="w22774" t="mod" cr="mod:w22774" w="high" l="~" p="A"/>
+     <dpg d="w22774" g="w22772" t="pcomp-n" cr="mod*with*n:w22771" w="affinity" l="~" p="N"/>
+     <dpg d="w22775" g="w22774" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w22776" g="w22775" t="pcomp-n" cr="mod*with*n:w22774" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w22777" g="w22771" t="punc" cr="punc:w22771" w="," l="~" p="U"/>
+     <dpg d="w22778" g="w22771" t="mod" cr="mod:w22771" w="whereas" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w22778" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22779" g="w22780" t="det" cr="det:w22780" w="the" l="~" p="Det"/>
+     <dpg d="w22780" g="w22788" t="s" cr="s:w22788||subj:w22790" w="binding" l="~" p="N"/>
+     <dpg d="w22781" g="w22780" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w22782" g="w22784" t="nn" cr="nn:w22784" w="gamma-catenin" l="gamma-catenin" p="N"/>
+     <dpg d="w22783" g="w22784" t="punc" cr="punc:w22784" w="(" l="~" p="U"/>
+     <dpg d="w22784" g="w22781" t="pcomp-n" cr="mod*of*n:w22780" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w22785" g="w22784" t="punc" cr="punc:w22784" w=")" l="~" p="U"/>
+     <dpg d="w22786" g="w22784" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w22787" g="w22786" t="pcomp-n" cr="mod*to*n:w22784" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w22788" g="E0" t="i" cr="comp1:w22778" w="is" l="be" p="VBE"/>
+     <dpg d="E5" g="w22790" t="subj" cr="" w="" l="binding" p="N"/>
+     <dpg d="E5" g="w22780" t="antecedent" cr="" w="" l="binding" p="N"/>
+     <dpg d="w22789" g="w22790" t="mod" cr="mod:w22790" w="less" l="~" p="A"/>
+     <dpg d="w22790" g="w22788" t="pred" cr="pred:w22788" w="efficient" l="~" p="A"/>
+     <dpg d="w22791" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

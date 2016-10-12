@@ -1,0 +1,53 @@
+<rexml>
+<doc id="1969">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31581" g="w31585" t="s" cr="s+subj:w31585" w="Unmasking" l="~" p="N"/>
+     <dpg d="w31582" g="w31581" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31583" g="w31584" t="det" cr="det:w31584" w="this" l="~" p="Det"/>
+     <dpg d="w31584" g="w31582" t="pcomp-n" cr="mod*of*n:w31581" w="site" l="~" p="N"/>
+     <dpg d="w31585" g="E2" t="i" cr="" w="serves" l="serve as" p="V"/>
+     <dpg d="w31586" g="w31585" t="lex-mod" cr="lex-mod:w31585" w="as" l="~" p="U"/>
+     <dpg d="E5" g="w31585" t="subj" cr="" w="" l="unmasking" p="N"/>
+     <dpg d="E5" g="w31581" t="antecedent" cr="" w="" l="unmasking" p="N"/>
+     <dpg d="w31587" g="w31589" t="det" cr="det:w31589" w="a" l="~" p="Det"/>
+     <dpg d="w31588" g="w31589" t="mod" cr="mod:w31589" w="molecular" l="~" p="A"/>
+     <dpg d="w31589" g="w31585" t="obj" cr="obj:w31585||subj:w31591" w="switch" l="~" p="N"/>
+     <dpg d="E1" g="w31589" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31590" g="E1" t="whn" cr="whn:w31591" w="that" l="~" p="THAT"/>
+     <dpg d="w31590" g="w31589" t="antecedent" cr="antecedent:w31589" w="that" l="~" p="THAT"/>
+     <dpg d="w31591" g="E1" t="i" cr="rel:w31589" w="initiates" l="initiate" p="V"/>
+     <dpg d="E6" g="w31591" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E6" g="w31589" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w31592" g="w31591" t="obj" cr="obj:w31591" w="assembly" l="~" p="N"/>
+     <dpg d="w31593" g="w31592" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31594" g="w31598" t="det" cr="det:w31598" w="an" l="~" p="Det"/>
+     <dpg d="w31595" g="w31596" t="lex-mod" cr="lex-mod:w31596" w="actin" l="~" p="U"/>
+     <dpg d="w31596" g="w31598" t="mod" cr="mod:w31598" w="-based" l="actin -based" p="A"/>
+     <dpg d="w31597" g="w31598" t="nn" cr="nn:w31598" w="motility" l="~" p="N"/>
+     <dpg d="w31598" g="w31593" t="pcomp-n" cr="mod*of*n:w31592||s+subj:w31599" w="complex" l="~" p="N"/>
+     <dpg d="E0" g="w31598" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w31598" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31599" g="E0" t="i" cr="rel:w31598" w="containing" l="contain" p="V"/>
+     <dpg d="E7" g="w31599" t="subj" cr="" w="" l="complex" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="complex" p="N"/>
+     <dpg d="w31600" g="w31599" t="obj" cr="obj:w31599" w="VASP" l="~" p="N"/>
+     <dpg d="w31601" g="w31600" t="punc" cr="punc:w31600" w="and" l="~" p="U"/>
+     <dpg d="w31602" g="w31600" t="conj" cr="conj:w31600" w="profilin" l="~" p="N"/>
+     <dpg d="w31603" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

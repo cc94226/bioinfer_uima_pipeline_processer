@@ -1,0 +1,60 @@
+<rexml>
+<doc id="1580">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25110" g="w25112" t="det" cr="det:w25112" w="The" l="~" p="Det"/>
+     <dpg d="w25111" g="w25112" t="nn" cr="nn:w25112" w="p120cas" l="~" p="N"/>
+     <dpg d="w25112" g="w25113" t="s" cr="s+subj:w25113" w="gene" l="~" p="N"/>
+     <dpg d="w25113" g="E2" t="i" cr="" w="encodes" l="encode" p="V"/>
+     <dpg d="E5" g="w25113" t="subj" cr="" w="" l="gene" p="N"/>
+     <dpg d="E5" g="w25112" t="antecedent" cr="" w="" l="gene" p="N"/>
+     <dpg d="w25114" g="w25118" t="det" cr="det:w25118" w="a" l="~" p="Det"/>
+     <dpg d="w25115" g="w25118" t="nn" cr="nn:w25118" w="protein" l="~" p="N"/>
+     <dpg d="w25116" g="w25118" t="nn" cr="nn:w25118" w="tyrosine" l="~" p="N"/>
+     <dpg d="w25117" g="w25118" t="nn" cr="nn:w25118" w="kinase" l="~" p="N"/>
+     <dpg d="w25118" g="w25113" t="obj" cr="obj:w25113||subj:w25120" w="substrate" l="~" p="N"/>
+     <dpg d="E1" g="w25118" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25119" g="E1" t="whn" cr="whn:w25120" w="that" l="~" p="THAT"/>
+     <dpg d="w25119" g="w25118" t="antecedent" cr="antecedent:w25118" w="that" l="~" p="THAT"/>
+     <dpg d="w25120" g="E1" t="i" cr="rel:w25118" w="associates" l="associate with" p="V"/>
+     <dpg d="w25121" g="w25120" t="lex-mod" cr="lex-mod:w25120" w="with" l="~" p="U"/>
+     <dpg d="E6" g="w25120" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E6" g="w25118" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w25122" g="w25126" t="det" cr="det:w25126" w="the" l="~" p="Det"/>
+     <dpg d="w25123" g="w25126" t="mod" cr="mod:w25126" w="cell-cell" l="cell-cell" p="A"/>
+     <dpg d="w25124" g="w25126" t="nn" cr="nn:w25126" w="adhesion" l="~" p="N"/>
+     <dpg d="w25125" g="w25126" t="nn" cr="nn:w25126" w="protein" l="~" p="N"/>
+     <dpg d="w25126" g="w25120" t="obj" cr="obj:w25120||s+subj:w25127" w="complex" l="~" p="N"/>
+     <dpg d="E0" g="w25126" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w25126" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w25127" g="E0" t="i" cr="rel:w25126" w="containing" l="contain" p="V"/>
+     <dpg d="E7" g="w25127" t="subj" cr="" w="" l="complex" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="complex" p="N"/>
+     <dpg d="w25128" g="w25127" t="obj" cr="obj:w25127" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w25129" g="w25128" t="punc" cr="punc:w25128" w="and" l="~" p="U"/>
+     <dpg d="w25130" g="w25133" t="gen" cr="gen:w25133" w="its" l="~" p="N"/>
+     <dpg d="w25131" g="w25133" t="mod" cr="mod:w25133" w="cytoplasmic" l="~" p="A"/>
+     <dpg d="w25132" g="w25133" t="nn" cr="nn:w25133" w="cofactors" l="~" p="N"/>
+     <dpg d="w25133" g="w25128" t="conj" cr="conj:w25128" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w25134" g="w25133" t="punc" cr="punc:w25133" w="," l="~" p="U"/>
+     <dpg d="w25135" g="w25133" t="conj" cr="conj:w25133" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w25136" g="w25135" t="punc" cr="punc:w25135" w="," l="~" p="U"/>
+     <dpg d="w25137" g="w25135" t="punc" cr="punc:w25135" w="and" l="~" p="U"/>
+     <dpg d="w25138" g="w25135" t="conj" cr="conj:w25135" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w25139" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

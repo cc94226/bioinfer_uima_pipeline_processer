@@ -1,0 +1,115 @@
+<rexml>
+<doc id="946">
+  <text>
+<p><s id="s1"><w id="w14644">Localization</w> <w id="w14645">of</w> <w id="w14646">VASP</w> <w id="w14647">to</w> <w id="w14648">the</w> <w id="w14649">leading</w> <w id="w14650">edge</w> <w id="w14651">of</w> <w id="w14652">a</w> <w id="w14653">migrating</w> <w id="w14654">cell</w> <w id="w14655">can</w> <w id="w14656">lead</w> <w id="w14657">to</w> <w id="w14658">local</w> <w id="w14659">accumulation</w> <w id="w14660">of</w> <w id="w14661">profilin</w> <w id="w14662">,</w> <w id="w14663">which</w> <w id="w14664">in</w> <w id="w14665">turn</w> <w id="w14666">can</w> <w id="w14667">supply</w> <w id="w14668">actin</w> <w id="w14669">monomers</w> <w id="w14670">to</w> <w id="w14671">growing</w> <w id="w14672">filament</w> <w id="w14673">ends</w> <w id="w14674">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3341" gid="g3206" t="LOCALIZATION" fr="w14644" to="w14646">
+     <textspan type="extent">Localization of VASP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.946.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3342" gid="g3207" t="RELATIONSHIP_TEXTBINDING" fr="w14656" to="w14657">
+     <textspan type="extent">lead to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.946.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3343" gid="g3208" t="Individual_protein" fr="w14668" to="w14669" nam="yes">
+     <textspan type="extent">actin monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.946.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3344" gid="g3209" t="RELATIONSHIP_TEXTBINDING" fr="w14667" to="w14667">
+     <textspan type="extent">supply</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.946.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3345" gid="g3210" t="Individual_protein" fr="w14661" to="w14661" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.946.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3346" gid="g3211" t="Individual_protein" fr="w14646" to="w14646" nam="yes">
+     <textspan type="extent">VASP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.946.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3347" gid="g3212" t="INCREASE" fr="w14659" to="w14661">
+     <textspan type="extent">accumulation of profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="INCREASE"/>
+      <exattr n="bd" v="e.946.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3348" gid="g3213" t="Individual_protein" fr="w14668" to="w14668" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.946.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1276" t="CAUSE" e1="e3341" e2="e3347" re="e3342">
+     <textspan type="extent">Localization of VASP to the leading edge of a migrating cell can lead to local accumulation of profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.946.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1277" t="LOCALIZE" e1="e3345" e2="e3343" re="e3344">
+     <textspan type="extent">profilin , which in turn can supply actin monomers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.946.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

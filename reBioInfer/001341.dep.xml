@@ -1,0 +1,38 @@
+<rexml>
+<doc id="1341">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20891" g="w20893" t="det" cr="det:w20893" w="The" l="~" p="Det"/>
+     <dpg d="w20892" g="w20893" t="mod" cr="mod:w20893" w="alpha-catenin" l="alpha-catenin" p="A"/>
+     <dpg d="w20893" g="w20894" t="s" cr="s+subj:w20894" w="molecule" l="~" p="N"/>
+     <dpg d="w20894" g="E0" t="i" cr="" w="links" l="link" p="V"/>
+     <dpg d="E2" g="w20894" t="subj" cr="" w="" l="molecule" p="N"/>
+     <dpg d="E2" g="w20893" t="antecedent" cr="" w="" l="molecule" p="N"/>
+     <dpg d="w20895" g="w20897" t="mod" cr="mod:w20897" w="E-cadherin" l="E-cadherin" p="A"/>
+     <dpg d="w20896" g="w20897" t="nn" cr="nn:w20897" w="/" l="~" p="N"/>
+     <dpg d="w20897" g="w20894" t="obj" cr="obj:w20894" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w20898" g="w20897" t="punc" cr="punc:w20897" w="or" l="~" p="U"/>
+     <dpg d="w20899" g="w20902" t="mod" cr="mod:w20902" w="E-cadherin" l="E-cadherin" p="A"/>
+     <dpg d="w20900" g="w20902" t="nn" cr="nn:w20902" w="/" l="~" p="N"/>
+     <dpg d="w20901" g="w20902" t="nn" cr="nn:w20902" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w20902" g="w20897" t="conj" cr="conj:w20897" w="complexes" l="complex" p="N"/>
+     <dpg d="w20903" g="w20902" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w20904" g="w20906" t="det" cr="det:w20906" w="the" l="~" p="Det"/>
+     <dpg d="w20905" g="w20906" t="nn" cr="nn:w20906" w="actin" l="~" p="N"/>
+     <dpg d="w20906" g="w20903" t="pcomp-n" cr="mod*to*n:w20902" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w20907" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

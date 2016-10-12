@@ -1,0 +1,79 @@
+<rexml>
+<doc id="1891">
+  <text>
+<p><s id="s1"><w id="w30214">To</w> <w id="w30215">characterize</w> <w id="w30216">the</w> <w id="w30217">AAV</w> <w id="w30218">functions</w> <w id="w30219">mediating</w> <w id="w30220">this</w> <w id="w30221">effect</w> <w id="w30222">,</w> <w id="w30223">cloned</w> <w id="w30224">AAV</w> <w id="w30225">type</w> <w id="w30226">2</w> <w id="w30227">wild-type</w> <w id="w30228">or</w> <w id="w30229">mutant</w> <w id="w30230">genomes</w> <w id="w30231">were</w> <w id="w30232">transfected</w> <w id="w30233">into</w> <w id="w30234">simian</w> <w id="w30235">virus</w> <w id="w30236">40</w> <w id="w30237">(SV40)-transformed</w> <w id="w30238">hamster</w> <w id="w30239">cells</w> <w id="w30240">together</w> <w id="w30241">with</w> <w id="w30242">the</w> <w id="w30243">six</w> <w id="w30244">HSV</w> <w id="w30245">replication</w> <w id="w30246">genes</w> <w id="w30247">(</w> <w id="w30248">encoding</w> <w id="w30249">UL5</w> <w id="w30250">,</w> <w id="w30251">UL8</w> <w id="w30252">,</w> <w id="w30253">major</w> <w id="w30254">DNA-binding</w> <w id="w30255">protein</w> <w id="w30256">,</w> <w id="w30257">DNA</w> <w id="w30258">polymerase</w> <w id="w30259">,</w> <w id="w30260">UL42</w> <w id="w30261">,</w> <w id="w30262">and</w> <w id="w30263">UL52</w> <w id="w30264">)</w> <w id="w30265">which</w> <w id="w30266">together</w> <w id="w30267">are</w> <w id="w30268">necessary</w> <w id="w30269">and</w> <w id="w30270">sufficient</w> <w id="w30271">for</w> <w id="w30272">the</w> <w id="w30273">induction</w> <w id="w30274">of</w> <w id="w30275">SV40</w> <w id="w30276">DNA</w> <w id="w30277">amplification</w> <w id="w30278">(</w> <w id="w30279">R.</w> <w id="w30280">Heilbronn</w> <w id="w30281">and</w> <w id="w30282">H.</w> <w id="w30283">zur</w> <w id="w30284">Hausen</w> <w id="w30285">,</w> <w id="w30286">J.</w> <w id="w30287">Virol.</w> <w id="w30288">63:3683-3692</w> <w id="w30289">,</w> <w id="w30290">1989</w> <w id="w30291">)</w> <w id="w30292">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7004" gid="g6687" t="Gene/protein/RNA" fr="w30251" to="w30251" nam="yes">
+     <textspan type="extent">UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1891.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7005" gid="g6688" t="Gene/protein/RNA" fr="w30249" to="w30249" nam="yes">
+     <textspan type="extent">UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1891.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7006" gid="g6689" t="Gene/protein/RNA" fr="w30257" to="w30258" nam="yes">
+     <textspan type="extent">DNA polymerase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1891.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7007" gid="g6690" t="Gene/protein/RNA" fr="w30253" to="w30255" nam="yes">
+     <textspan type="extent">major DNA-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1891.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7008" gid="g6691" t="Gene/protein/RNA" fr="w30263" to="w30263" nam="yes">
+     <textspan type="extent">UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1891.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7009" gid="g6692" t="Gene/protein/RNA" fr="w30260" to="w30260" nam="yes">
+     <textspan type="extent">UL42</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1891.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

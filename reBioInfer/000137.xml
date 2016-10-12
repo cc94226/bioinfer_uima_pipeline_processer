@@ -1,0 +1,92 @@
+<rexml>
+<doc id="137">
+  <text>
+<p><s id="s1"><w id="w2238">An</w> <w id="w2239">oligomeric</w> <w id="w2240">form</w> <w id="w2241">of</w> <w id="w2242">simian</w> <w id="w2243">virus</w> <w id="w2244">40</w> <w id="w2245">large</w> <w id="w2246">T-antigen</w> <w id="w2247">is</w> <w id="w2248">immunologically</w> <w id="w2249">related</w> <w id="w2250">to</w> <w id="w2251">the</w> <w id="w2252">cellular</w> <w id="w2253">tumor</w> <w id="w2254">antigen</w> <w id="w2255">p53</w> <w id="w2256">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e539" gid="g524" t="Individual_protein" fr="w2240" to="w2246" nam="yes">
+     <textspan type="extent">form of simian virus 40 large T-antigen</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.137.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e540" gid="g525" t="RELATIONSHIP_TEXTBINDING" fr="w2249" to="w2250">
+     <textspan type="extent">related to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.137.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e541" gid="g526" t="Individual_protein" fr="w2242" to="w2246" nam="yes">
+     <textspan type="extent">simian virus 40 large T-antigen</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.137.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e542" gid="g527" t="Individual_protein" fr="w2254" to="w2255" nam="yes">
+     <textspan type="extent">antigen p53</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.137.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e543" gid="g528" t="Individual_protein" fr="w2255" to="w2255" nam="yes">
+     <textspan type="extent">p53</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.137.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e544" gid="g529" t="Individual_protein" fr="w2245" to="w2246" nam="yes">
+     <textspan type="extent">large T-antigen</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.137.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r208" t="RELATE" e1="e539" e2="e542" re="e540">
+     <textspan type="extent">form of simian virus 40 large T-antigen is immunologically related to the cellular tumor antigen p53</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.137.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

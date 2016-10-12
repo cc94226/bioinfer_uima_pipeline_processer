@@ -1,0 +1,112 @@
+<rexml>
+<doc id="1164">
+  <text>
+<p><s id="s1"><w id="w18309">Quantitation</w> <w id="w18310">of</w> <w id="w18311">the</w> <w id="w18312">appearance</w> <w id="w18313">of</w> <w id="w18314">X22</w> <w id="w18315">banding</w> <w id="w18316">in</w> <w id="w18317">primary</w> <w id="w18318">cultures</w> <w id="w18319">of</w> <w id="w18320">myotubes</w> <w id="w18321">indicates</w> <w id="w18322">that</w> <w id="w18323">it</w> <w id="w18324">precedes</w> <w id="w18325">that</w> <w id="w18326">of</w> <w id="w18327">other</w> <w id="w18328">myofibrillar</w> <w id="w18329">proteins</w> <w id="w18330">and</w> <w id="w18331">that</w> <w id="w18332">assembly</w> <w id="w18333">takes</w> <w id="w18334">place</w> <w id="w18335">in</w> <w id="w18336">the</w> <w id="w18337">following</w> <w id="w18338">order</w> <w id="w18339">:</w> <w id="w18340">X22</w> <w id="w18341">,</w> <w id="w18342">titin</w> <w id="w18343">,</w> <w id="w18344">myosin</w> <w id="w18345">heavy</w> <w id="w18346">chain</w> <w id="w18347">,</w> <w id="w18348">actin</w> <w id="w18349">,</w> <w id="w18350">and</w> <w id="w18351">desmin</w> <w id="w18352">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4253" gid="g4065" t="Gene/protein/RNA" fr="w18314" to="w18314" nam="yes">
+     <textspan type="extent">X22</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1164.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4254" gid="g4066" t="RELATIONSHIP_TEXTBINDING" fr="w18332" to="w18332">
+     <textspan type="extent">assembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1164.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4255" gid="g4067" t="Individual_protein" fr="w18342" to="w18342" nam="yes">
+     <textspan type="extent">titin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1164.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4256" gid="g4068" t="Individual_protein" fr="w18340" to="w18340" nam="yes">
+     <textspan type="extent">X22</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1164.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4257" gid="g4069" t="Individual_protein" fr="w18348" to="w18348" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1164.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4258" gid="g4070" t="Individual_protein" fr="w18344" to="w18346" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1164.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4259" gid="g4071" t="Individual_protein" fr="w18351" to="w18351" nam="yes">
+     <textspan type="extent">desmin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1164.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1635" t="ATTACH" e1="e4256" e2="e4255,e4258,e4257,e4259" re="e4254">
+     <textspan type="extent">assembly takes place in the following order : X22 , titin , myosin heavy chain , actin , and desmin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1164.1"/>
+      <exattr n="arg" v="e4256"/>
+      <exattr n="arg" v="e4255"/>
+      <exattr n="arg" v="e4258"/>
+      <exattr n="arg" v="e4257"/>
+      <exattr n="arg" v="e4259"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="ATTACH"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

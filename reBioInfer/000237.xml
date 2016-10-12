@@ -1,0 +1,138 @@
+<rexml>
+<doc id="237">
+  <text>
+<p><s id="s1"><w id="w3589">Bistratene</w> <w id="w3590">A</w> <w id="w3591">causes</w> <w id="w3592">phosphorylation</w> <w id="w3593">of</w> <w id="w3594">talin</w> <w id="w3595">and</w> <w id="w3596">redistribution</w> <w id="w3597">of</w> <w id="w3598">actin</w> <w id="w3599">microfilaments</w> <w id="w3600">in</w> <w id="w3601">fibroblasts</w> <w id="w3602">:</w> <w id="w3603">possible</w> <w id="w3604">role</w> <w id="w3605">for</w> <w id="w3606">PKC-delta</w> <w id="w3607">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e865" gid="g833" t="PHOSPHORYLATION" fr="w3592" to="w3594">
+     <textspan type="extent">phosphorylation of talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="PHOSPHORYLATION"/>
+      <exattr n="bd" v="e.237.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e866" gid="g834" t="RELATIONSHIP_TEXTBINDING" fr="w3604" to="w3605">
+     <textspan type="extent">role for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.237.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e867" gid="g835" t="Individual_protein" fr="w3606" to="w3606" nam="yes">
+     <textspan type="extent">PKC-delta</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.237.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e868" gid="g836" t="RELATIONSHIP_TEXTBINDING" fr="w3591" to="w3591">
+     <textspan type="extent">causes</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.237.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e869" gid="g837" t="Cell_component" fr="w3598" to="w3599" nam="yes">
+     <textspan type="extent">actin microfilaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.237.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e870" gid="g838" t="Other_organic_compounds" fr="w3589" to="w3590" nam="yes">
+     <textspan type="extent">Bistratene A</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Other_organic_compounds"/>
+      <exattr n="bd" v="e.237.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e871" gid="g839" t="Individual_protein" fr="w3594" to="w3594" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.237.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e872" gid="g840" t="LOCALIZATION" fr="w3596" to="w3599">
+     <textspan type="extent">redistribution of actin microfilaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.237.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e873" gid="g841" t="Individual_protein" fr="w3598" to="w3598" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.237.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r323" t="PARTICIPATE" e1="e867" e2="e868" re="e866">
+     <textspan type="extent">Bistratene A causes phosphorylation of talin and redistribution of actin microfilaments in fibroblasts : possible role for PKC-delta</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.237.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r324" t="CAUSE" e1="e870" e2="e865" re="e868">
+     <textspan type="extent">Bistratene A causes phosphorylation of talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.237.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r325" t="PARTICIPATE" e1="e867" e2="e868" re="e866">
+     <textspan type="extent">Bistratene A causes phosphorylation of talin and redistribution of actin microfilaments in fibroblasts : possible role for PKC-delta</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.237.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r326" t="CAUSE" e1="e870" e2="e872" re="e868">
+     <textspan type="extent">Bistratene A causes phosphorylation of talin and redistribution of actin microfilaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.237.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

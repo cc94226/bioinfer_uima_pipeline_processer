@@ -1,0 +1,42 @@
+<rexml>
+<doc id="53">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w792" g="" t="" cr="" w="A" l="~" p="U"/>
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w793" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="distinct" l="~" p="A"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="s+subj:w794" w="" l="~" p="N"/>
+     <dpg d="w794" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="modulating" l="modulate" p="V"/>
+     <dpg d="E4" g="w794" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="E1" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w795" g="w794" t="obj" cr="obj:w794" w="domain" l="~" p="N"/>
+     <dpg d="w796" g="w795" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w797" g="w799" t="nn" cr="nn:w799" w="glucocorticoid" l="~" p="N"/>
+     <dpg d="w798" g="w799" t="nn" cr="nn:w799" w="receptor" l="~" p="N"/>
+     <dpg d="w799" g="w796" t="pcomp-n" cr="mod*in*n:w795" w="monomers" l="monomer" p="N"/>
+     <dpg d="w800" g="w799" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w801" g="w802" t="det" cr="det:w802" w="the" l="~" p="Det"/>
+     <dpg d="w802" g="w800" t="pcomp-n" cr="mod*in*n:w799" w="repression" l="~" p="N"/>
+     <dpg d="w803" g="w802" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w804" g="w803" t="pcomp-n" cr="mod*of*n:w802" w="activity" l="~" p="N"/>
+     <dpg d="w805" g="w804" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w806" g="w809" t="det" cr="det:w809" w="the" l="~" p="Det"/>
+     <dpg d="w807" g="w809" t="nn" cr="nn:w809" w="transcription" l="~" p="N"/>
+     <dpg d="w808" g="w809" t="nn" cr="nn:w809" w="factor" l="~" p="N"/>
+     <dpg d="w809" g="w805" t="pcomp-n" cr="mod*of*n:w804" w="AP-1" l="AP-1" p="N"/>
+     <dpg d="w810" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

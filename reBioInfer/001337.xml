@@ -1,0 +1,155 @@
+<rexml>
+<doc id="1337">
+  <text>
+<p><s id="s1"><w id="w20821">The</w> <w id="w20822">actin</w> <w id="w20823">cytoskeleton</w><w id="w20824">-</w><w id="w20825">associated</w> <w id="w20826">protein</w> <w id="w20827">talin</w> <w id="w20828">binds</w> <w id="w20829">to</w> <w id="w20830">integrins</w> <w id="w20831">,</w> <w id="w20832">vinculin</w> <w id="w20833">,</w> <w id="w20834">and</w> <w id="w20835">actin</w> <w id="w20836">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4802" gid="g4583" t="Cell_component" fr="w20822" to="w20823" nam="yes">
+     <textspan type="extent">actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1337.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4803" gid="g4584" t="RELATIONSHIP_TEXTBINDING" fr="w20825" to="w20825">
+     <textspan type="extent">associated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1337.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4804" gid="g4585" t="Individual_protein" fr="w20830" to="w20830" nam="yes">
+     <textspan type="extent">integrins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1337.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4805" gid="g4586" t="RELATIONSHIP_TEXTBINDING" fr="w20828" to="w20829">
+     <textspan type="extent">binds to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1337.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4806" gid="g4587" t="Individual_protein" fr="w20835" to="w20835" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1337.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4807" gid="g4588" t="Individual_protein" fr="w20832" to="w20832" nam="yes">
+     <textspan type="extent">vinculin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1337.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4808" gid="g4589" t="Individual_protein" fr="w20822" to="w20822" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1337.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4809" gid="g4590" t="Individual_protein" fr="w20826" to="w20827" nam="yes">
+     <textspan type="extent">protein talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1337.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e4810" gid="g4591" t="Individual_protein" fr="w20827" to="w20827" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1337.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1825" t="RELATE" e1="e4809" e2="e4802" re="e4803">
+     <textspan type="extent">actin cytoskeleton - associated protein talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1337.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1826" t="BIND" e1="e4809" e2="e4804" re="e4805">
+     <textspan type="extent">protein talin binds to integrins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1337.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1827" t="BIND" e1="e4809" e2="e4807" re="e4805">
+     <textspan type="extent">protein talin binds to integrins , vinculin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1337.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1828" t="BIND" e1="e4809" e2="e4806" re="e4805">
+     <textspan type="extent">protein talin binds to integrins , vinculin , and actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1337.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

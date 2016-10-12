@@ -1,0 +1,42 @@
+<rexml>
+<doc id="410">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5943" g="w5944" t="mod" cr="mod:w5944" w="Double" l="~" p="A"/>
+     <dpg d="w5944" g="w5956" t="s" cr="s:w5956||s+subj:w5945||subj:w5957" w="mutants" l="mutant" p="N"/>
+     <dpg d="E0" g="w5944" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w5944" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w5945" g="E0" t="i" cr="rel:w5944" w="containing" l="contain" p="V"/>
+     <dpg d="E4" g="w5945" t="subj" cr="" w="" l="mutant" p="N"/>
+     <dpg d="E4" g="E2" t="antecedent" cr="" w="" l="mutant" p="N"/>
+     <dpg d="w5946" g="w5948" t="mod" cr="mod:w5948" w="N-terminal" l="N-terminal" p="A"/>
+     <dpg d="w5947" g="w5948" t="nn" cr="nn:w5948" w="domain" l="~" p="N"/>
+     <dpg d="w5948" g="w5945" t="obj" cr="obj:w5945" w="deletions" l="deletion" p="N"/>
+     <dpg d="w5949" g="w5948" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5950" g="w5949" t="punc" cr="punc:w5949" w="both" l="~" p="U"/>
+     <dpg d="w5951" g="w5952" t="nn" cr="nn:w5952" w="histone" l="~" p="N"/>
+     <dpg d="w5952" g="w5949" t="pcomp-n" cr="mod*of*n:w5948" w="H3" l="~" p="N"/>
+     <dpg d="w5953" g="w5952" t="punc" cr="punc:w5952" w="and" l="~" p="U"/>
+     <dpg d="w5954" g="w5955" t="nn" cr="nn:w5955" w="histone" l="~" p="N"/>
+     <dpg d="w5955" g="w5952" t="conj" cr="conj:w5952" w="H4" l="~" p="N"/>
+     <dpg d="w5956" g="E1" t="i" cr="" w="were" l="be" p="VBE"/>
+     <dpg d="w5957" g="w5956" t="pred" cr="pred:w5956" w="inviable" l="~" p="A"/>
+     <dpg d="E5" g="w5957" t="subj" cr="" w="" l="mutant" p="N"/>
+     <dpg d="E5" g="w5944" t="antecedent" cr="" w="" l="mutant" p="N"/>
+     <dpg d="w5958" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

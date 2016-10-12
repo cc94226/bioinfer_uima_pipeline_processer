@@ -1,0 +1,42 @@
+<rexml>
+<doc id="1382">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21554" g="w21555" t="det" cr="det:w21555" w="The" l="~" p="Det"/>
+     <dpg d="w21555" g="w21556" t="s" cr="s+subj:w21556" w="assay" l="~" p="N"/>
+     <dpg d="w21556" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="detects" l="detect" p="V"/>
+     <dpg d="E3" g="w21556" t="subj" cr="" w="" l="assay" p="N"/>
+     <dpg d="E3" g="w21555" t="antecedent" cr="" w="" l="assay" p="N"/>
+     <dpg d="w21557" g="w21559" t="det" cr="det:w21559" w="the" l="~" p="Det"/>
+     <dpg d="w21558" g="w21559" t="mod" cr="mod:w21559" w="high-affinity" l="high-affinity" p="A"/>
+     <dpg d="w21559" g="w21556" t="obj" cr="obj:w21556" w="binding" l="~" p="N"/>
+     <dpg d="w21560" g="w21559" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21561" g="w21560" t="pcomp-n" cr="mod*of*n:w21559" w="actin" l="~" p="N"/>
+     <dpg d="w21562" g="w21561" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w21563" g="w21564" t="lex-mod" cr="lex-mod:w21564" w="actin-binding" l="~" p="U"/>
+     <dpg d="w21564" g="w21562" t="pcomp-n" cr="mod*to*n:w21561" w="proteins" l="actin-binding proteins" p="N"/>
+     <dpg d="w21565" g="w21566" t="punc" cr="punc:w21566" w="(" l="~" p="U"/>
+     <dpg d="w21566" g="w21564" t="abbrev" cr="abbrev:w21564" w="ABPs" l="~" p="N"/>
+     <dpg d="w21567" g="w21566" t="punc" cr="punc:w21566" w=")" l="~" p="U"/>
+     <dpg d="w21568" g="w21564" t="punc" cr="punc:w21564" w="," l="~" p="U"/>
+     <dpg d="w21569" g="w21564" t="conj" cr="conj:w21564" w="cofilin" l="~" p="N"/>
+     <dpg d="w21570" g="w21569" t="punc" cr="punc:w21569" w="or" l="~" p="U"/>
+     <dpg d="w21571" g="w21569" t="conj" cr="conj:w21569" w="DNase" l="~" p="N"/>
+     <dpg d="w21572" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="I" l="~" p="N"/>
+     <dpg d="w21573" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

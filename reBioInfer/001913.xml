@@ -1,0 +1,270 @@
+<rexml>
+<doc id="1913">
+  <text>
+<p><s id="s1"><w id="w30764">To</w> <w id="w30765">investigate</w> <w id="w30766">the</w> <w id="w30767">possibility</w> <w id="w30768">that</w> <w id="w30769">TD77</w> <w id="w30770">disrupts</w> <w id="w30771">actin</w> <w id="w30772">stress</w> <w id="w30773">fibers</w> <w id="w30774">by</w> <w id="w30775">binding</w> <w id="w30776">directly</w> <w id="w30777">to</w> <w id="w30778">the</w> <w id="w30779">C-terminal</w> <w id="w30780">actin</w> <w id="w30781">binding</w> <w id="w30782">site</w> <w id="w30783">,</w> <w id="w30784">additional</w> <w id="w30785">talin</w> <w id="w30786">fusion</w> <w id="w30787">proteins</w> <w id="w30788">were</w> <w id="w30789">generated</w> <w id="w30790">and</w> <w id="w30791">analyzed</w> <w id="w30792">for</w> <w id="w30793">TD77</w> <w id="w30794">and</w> <w id="w30795">actin</w> <w id="w30796">binding</w> <w id="w30797">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7078" gid="g6757" t="Cell_component" fr="w30771" to="w30773" nam="yes">
+     <textspan type="extent">actin [..] fibers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1913.0"/>
+      <exattr n="nst" v="st.1913.7.0"/>
+      <exattr n="nst" v="st.1913.9.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7079" gid="g6758" t="RELATIONSHIP_TEXTBINDING" fr="w30796" to="w30796">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1913.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7080" gid="g6759" t="RELATIONSHIP_TEXTBINDING" fr="w30774" to="w30777">
+     <textspan type="extent">by binding [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1913.2"/>
+      <exattr n="nst" v="st.1913.10.0"/>
+      <exattr n="nst" v="st.1913.11.0"/>
+      <exattr n="nst" v="st.1913.13.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7081" gid="g6760" t="Individual_protein" fr="w30780" to="w30780" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1913.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7082" gid="g6761" t="Individual_protein" fr="w30785" to="w30787" nam="yes">
+     <textspan type="extent">talin [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1913.4"/>
+      <exattr n="nst" v="st.1913.21.0"/>
+      <exattr n="nst" v="st.1913.23.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7083" gid="g6762" t="Individual_protein" fr="w30795" to="w30795" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1913.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7084" gid="g6763" t="Substructure_of_protein" fr="w30782" to="w30782" nam="yes">
+     <textspan type="extent">site</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1913.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7085" gid="g6764" t="Individual_protein" fr="w30785" to="w30787" nam="yes">
+     <textspan type="extent">talin fusion proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1913.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7086" gid="g6765" t="Individual_protein" fr="w30771" to="w30771" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1913.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e7087" gid="g6766" t="Individual_protein" fr="w30793" to="w30793" nam="yes">
+     <textspan type="extent">TD77</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1913.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e7088" gid="g6767" t="RELATIONSHIP_TEXTBINDING" fr="w30781" to="w30781">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1913.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e7089" gid="g6768" t="RELATIONSHIP_TEXTBINDING" fr="w30770" to="w30770">
+     <textspan type="extent">disrupts</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1913.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e7090" gid="g6769" t="RELATIONSHIP_TEXTBINDING" fr="w30770" to="w30774">
+     <textspan type="extent">disrupts [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1913.12"/>
+      <exattr n="nst" v="st.1913.6.0"/>
+      <exattr n="nst" v="st.1913.10.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7091" gid="g6770" t="Individual_protein" fr="w30769" to="w30769" nam="yes">
+     <textspan type="extent">TD77</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1913.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e7092" gid="g6771" t="Individual_protein" fr="w30785" to="w30785" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1913.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e7093" gid="g6772" t="Individual_protein" fr="w30785" to="w30785" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1913.15"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2708" t="DISASSEMBLE" e1="e7091" e2="e7078" re="e7089">
+     <textspan type="extent">TD77 disrupts actin stress fibers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1913.11"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="DISASSEMBLE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2709" t="REL-ENT" e1="e7084" e2="e7082" re="">
+     <textspan type="extent">site , additional talin fusion proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="REL-ENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2710" t="DISASSEMBLE" e1="e7080" e2="e7078" re="e7090">
+     <textspan type="extent">TD77 disrupts actin stress fibers by binding directly to the C-terminal actin binding site</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1913.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="DISASSEMBLE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2711" t="BIND" e1="e7091" e2="e7084" re="e7080">
+     <textspan type="extent">TD77 disrupts actin stress fibers by binding directly to the C-terminal actin binding site</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1913.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2712" t="BIND" e1="e7084" e2="e7081" re="e7088">
+     <textspan type="extent">actin binding site</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1913.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2713" t="BIND" e1="e7085" e2="e7083" re="e7079">
+     <textspan type="extent">talin fusion proteins were generated and analyzed for TD77 and actin binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1913.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2714" t="BIND" e1="e7085" e2="e7087" re="e7079">
+     <textspan type="extent">talin fusion proteins were generated and analyzed for TD77 and actin binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1913.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

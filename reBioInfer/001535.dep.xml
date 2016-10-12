@@ -1,0 +1,87 @@
+<rexml>
+<doc id="1535">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E4" t="UNSPECRELTYPE" cr="" w="" l="inf" p="C"/>
+     <dpg d="w24260" g="w24261" t="gen" cr="gen:w24261" w="Their" l="~" p="N"/>
+     <dpg d="w24261" g="w24263" t="s" cr="s+subj:w24263||subj:w24266" w="abilities" l="ability" p="N"/>
+     <dpg d="w24262" g="w24263" t="aux" cr="aux:w24263" w="to" l="~" p="Aux"/>
+     <dpg d="w24263" g="E2" t="i" cr="UNSPECRELTYPE:E4" w="store" l="~" p="V"/>
+     <dpg d="E5" g="w24263" t="subj" cr="" w="" l="ability" p="N"/>
+     <dpg d="E5" g="w24261" t="antecedent" cr="" w="" l="ability" p="N"/>
+     <dpg d="w24264" g="w24263" t="obj" cr="obj:w24263" w="lipids" l="lipid" p="N"/>
+     <dpg d="w24265" g="w24263" t="punc" cr="punc:w24263" w="and" l="~" p="U"/>
+     <dpg d="w24266" g="w24263" t="conj" cr="conj:w24263" w="express" l="~" p="V"/>
+     <dpg d="E6" g="w24266" t="subj" cr="" w="" l="ability" p="N"/>
+     <dpg d="E6" g="w24261" t="antecedent" cr="" w="" l="ability" p="N"/>
+     <dpg d="w24267" g="w24269" t="nn" cr="nn:w24269" w="desmin" l="~" p="N"/>
+     <dpg d="w24268" g="w24269" t="mod" cr="mod:w24269" w="intermediate" l="~" p="A"/>
+     <dpg d="w24269" g="w24266" t="obj" cr="obj:w24266" w="filaments" l="filament" p="N"/>
+     <dpg d="w24270" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24271" g="w24273" t="mod" cr="mod:w24273" w="alpha-smooth" l="alpha-smooth" p="A"/>
+     <dpg d="w24272" g="w24273" t="nn" cr="nn:w24273" w="muscle" l="~" p="N"/>
+     <dpg d="w24273" g="w24286" t="s" cr="s+subj:w24286" w="actin" l="~" p="N"/>
+     <dpg d="w24274" g="w24273" t="punc" cr="punc:w24273" w="," l="~" p="U"/>
+     <dpg d="w24275" g="w24273" t="punc" cr="punc:w24273" w="and" l="~" p="U"/>
+     <dpg d="w24276" g="w24277" t="lex-mod" cr="lex-mod:w24277" w="smooth" l="~" p="U"/>
+     <dpg d="w24277" g="w24280" t="nn" cr="nn:w24280" w="muscle" l="smooth muscle" p="N"/>
+     <dpg d="w24278" g="w24280" t="nn" cr="nn:w24280" w="myosin" l="~" p="N"/>
+     <dpg d="w24279" g="w24280" t="mod" cr="mod:w24280" w="heavy" l="~" p="A"/>
+     <dpg d="w24280" g="w24273" t="conj" cr="conj:w24273" w="chain" l="~" p="N"/>
+     <dpg d="w24281" g="w24280" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w24282" g="w24283" t="mod" cr="mod:w24283" w="contractile" l="~" p="A"/>
+     <dpg d="w24283" g="w24281" t="pcomp-n" cr="mod*in*n:w24280" w="filaments" l="filament" p="N"/>
+     <dpg d="w24284" g="w24285" t="lex-mod" cr="lex-mod:w24285" w="in" l="~" p="U"/>
+     <dpg d="w24285" g="w24286" t="mod-before" cr="mod-before:w24286" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w24286" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="illustrate" l="~" p="V"/>
+     <dpg d="E7" g="w24286" t="subj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E7" g="w24273" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w24287" g="w24286" t="obj" cr="obj:w24286" w="similarities" l="similarity" p="N"/>
+     <dpg d="w24288" g="w24287" t="mod" cr="" w="among" l="~" p="Prep"/>
+     <dpg d="w24289" g="w24291" t="det" cr="det:w24291" w="the" l="~" p="Det"/>
+     <dpg d="w24290" g="w24291" t="mod" cr="mod:w24291" w="pulmonary" l="~" p="A"/>
+     <dpg d="w24291" g="w24288" t="pcomp-n" cr="mod*among*n:w24287" w="LF" l="~" p="N"/>
+     <dpg d="w24292" g="w24291" t="punc" cr="punc:w24291" w="," l="~" p="U"/>
+     <dpg d="w24293" g="w24295" t="det" cr="det:w24295" w="the" l="~" p="Det"/>
+     <dpg d="w24294" g="w24295" t="mod" cr="mod:w24295" w="hepatic" l="~" p="A"/>
+     <dpg d="w24295" g="w24291" t="conj" cr="conj:w24291" w="lipocyte" l="~" p="N"/>
+     <dpg d="w24296" g="w24295" t="punc" cr="punc:w24295" w="," l="~" p="U"/>
+     <dpg d="w24297" g="w24295" t="punc" cr="punc:w24295" w="and" l="~" p="U"/>
+     <dpg d="w24298" g="w24301" t="det" cr="det:w24301" w="the" l="~" p="Det"/>
+     <dpg d="w24299" g="w24301" t="mod" cr="mod:w24301" w="contractile" l="~" p="A"/>
+     <dpg d="w24300" g="w24301" t="mod" cr="mod:w24301" w="interstitial" l="~" p="A"/>
+     <dpg d="w24301" g="w24295" t="conj" cr="conj:w24295||subj:w24304" w="cell" l="~" p="N"/>
+     <dpg d="w24302" g="w24301" t="punc" cr="punc:w24301" w="," l="~" p="U"/>
+     <dpg d="E0" g="w24301" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24303" g="E0" t="whn" cr="whn:w24304" w="which" l="~" p="N"/>
+     <dpg d="w24303" g="w24301" t="antecedent" cr="antecedent:w24301" w="which" l="~" p="N"/>
+     <dpg d="w24304" g="E0" t="i" cr="rel:w24301" w="contribute" l="contribute to" p="V"/>
+     <dpg d="w24305" g="w24304" t="lex-mod" cr="lex-mod:w24304" w="to" l="~" p="U"/>
+     <dpg d="E8" g="w24304" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E8" g="w24301" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w24306" g="w24308" t="det" cr="det:w24308" w="the" l="~" p="Det"/>
+     <dpg d="w24307" g="w24308" t="nn" cr="nn:w24308" w="repair" l="~" p="N"/>
+     <dpg d="w24308" g="w24304" t="obj" cr="obj:w24304" w="reaction" l="~" p="N"/>
+     <dpg d="w24309" g="w24308" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w24310" g="w24311" t="det" cr="det:w24311" w="the" l="~" p="Det"/>
+     <dpg d="w24311" g="w24309" t="pcomp-n" cr="mod*in*n:w24308" w="lung" l="~" p="N"/>
+     <dpg d="w24312" g="w24311" t="mod" cr="" w="after" l="~" p="Prep"/>
+     <dpg d="w24313" g="w24314" t="mod" cr="mod:w24314" w="pulmonary" l="~" p="A"/>
+     <dpg d="w24314" g="w24312" t="pcomp-n" cr="mod*after*n:w24311" w="injury" l="~" p="N"/>
+     <dpg d="w24315" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

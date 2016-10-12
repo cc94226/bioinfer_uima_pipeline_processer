@@ -1,0 +1,60 @@
+<rexml>
+<doc id="2075">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32911" g="w32913" t="s" cr="s+subj:w32913||s+subj:w32922" w="We" l="~" p="N"/>
+     <dpg d="w32912" g="w32913" t="have" cr="have:w32913" w="have" l="~" p="have"/>
+     <dpg d="w32913" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="characterized" l="characterize" p="V"/>
+     <dpg d="E5" g="w32913" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E5" g="w32911" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w32914" g="w32915" t="det" cr="det:w32915" w="this" l="~" p="Det"/>
+     <dpg d="w32915" g="w32913" t="obj" cr="obj:w32913" w="actin" l="~" p="N"/>
+     <dpg d="w32916" g="w32915" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w32917" g="w32916" t="pcomp-n" cr="mod*with*n:w32915" w="respect" l="~" p="N"/>
+     <dpg d="w32918" g="w32917" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w32919" g="w32920" t="gen" cr="gen:w32920" w="its" l="~" p="N"/>
+     <dpg d="w32920" g="w32918" t="pcomp-n" cr="mod*to*n:w32917" w="ability" l="~" p="N"/>
+     <dpg d="E0" g="w32920" t="comp1" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w32911" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w32921" g="w32922" t="aux" cr="aux:w32922" w="to" l="~" p="Aux"/>
+     <dpg d="w32922" g="E0" t="i" cr="comp1:w32920" w="interact" l="~" p="V"/>
+     <dpg d="E6" g="w32922" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w32923" g="w32922" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w32924" g="w32925" t="nn" cr="nn:w32925" w="yeast" l="~" p="N"/>
+     <dpg d="w32925" g="w32923" t="pcomp-n" cr="mod*with*n:w32922" w="profilin" l="~" p="N"/>
+     <dpg d="w32926" g="w32925" t="punc" cr="punc:w32925" w="and" l="~" p="U"/>
+     <dpg d="w32927" g="w32925" t="conj" cr="conj:w32925" w="tropomyosin" l="~" p="N"/>
+     <dpg d="w32928" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="w32929" g="w32933" t="det" cr="det:w32933" w="the" l="~" p="Det"/>
+     <dpg d="w32930" g="w32933" t="mod" cr="mod:w32933" w="only" l="~" p="A"/>
+     <dpg d="w32931" g="w32933" t="nn" cr="nn:w32933" w="yeast" l="~" p="N"/>
+     <dpg d="w32932" g="w32933" t="mod" cr="mod:w32933" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w32933" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4||obj:w32936||obj:w32938" w="proteins" l="protein" p="N"/>
+     <dpg d="w32934" g="w32935" t="mod" cr="mod:w32935" w="so" l="~" p="A"/>
+     <dpg d="w32935" g="w32936" t="mod-before" cr="mod-before:w32936" w="far" l="~" p="A"/>
+     <dpg d="w32936" g="w32933" t="vrel" cr="vrel:w32933" w="purified" l="purify" p="V"/>
+     <dpg d="E7" g="w32936" t="obj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E7" g="w32933" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w32937" g="w32936" t="punc" cr="punc:w32936" w="and" l="~" p="U"/>
+     <dpg d="w32938" g="w32936" t="conj" cr="conj:w32936" w="characterized" l="characterize" p="V"/>
+     <dpg d="E8" g="w32938" t="obj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E8" g="w32933" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w32939" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

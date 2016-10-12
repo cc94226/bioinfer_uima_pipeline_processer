@@ -1,0 +1,35 @@
+<rexml>
+<doc id="1117">
+  <text>
+<p><s id="s1"><w id="w17708">Phosphoinositides</w> <w id="w17709">bind</w> <w id="w17710">to</w> <w id="w17711">profilin</w> <w id="w17712">and</w> <w id="w17713">regulate</w> <w id="w17714">actin</w><w id="w17715">-based</w> <w id="w17716">cytoskeletal</w> <w id="w17717">protein</w> <w id="w17718">assembly</w> <w id="w17719">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4104" gid="g3922" t="Gene/protein/RNA" fr="w17711" to="w17711" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1117.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4105" gid="g3923" t="Gene/protein/RNA" fr="w17714" to="w17714" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1117.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

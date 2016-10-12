@@ -1,0 +1,114 @@
+<rexml>
+<doc id="177">
+  
+  <markup>
+   <nes>
+    <ne id="e702" gid="g677" t="Gene" fr="w2878" to="w2879" nam="yes" sid="s1">
+     <textspan>twinstar locus</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.177.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e706" gid="g681" t="Gene" fr="w2878" to="w2878" nam="yes" sid="s1">
+     <textspan>twinstar</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.177.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e700" gid="g675" t="Individual_protein" fr="w2887" to="w2891" nam="yes" sid="s1">
+     <textspan>member of the cofilin/ADF family</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.177.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e704" gid="g679" t="Protein_family_or_group" fr="w2889" to="w2891" nam="yes" sid="s1">
+     <textspan>the cofilin/ADF family</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.177.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e707" gid="g682" t="Protein_family_or_group" fr="w2890" to="w2890" nam="yes" sid="s1">
+     <textspan>cofilin/ADF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.177.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e705" gid="g680" t="Individual_protein" fr="w2893" to="w2893" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.177.5"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r262" t="ENCODE" e1="e702" e2="e700" re="e703">
+     <textspan>twinstar locus , a gene that encodes a Drosophila member of the cofilin/ADF family</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.177.3"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r263" t="MODIFY" e1="e704" e2="e705" re="e701">
+     <textspan>the cofilin/ADF family of actin - severing</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.177.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="MODIFY"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

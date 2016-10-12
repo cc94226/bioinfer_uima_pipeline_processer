@@ -1,0 +1,57 @@
+<rexml>
+<doc id="2084">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w33023" g="w33025" t="s" cr="s+subj:w33025||s+subj:w33033" w="We" l="~" p="N"/>
+     <dpg d="w33024" g="w33025" t="have" cr="have:w33025" w="have" l="~" p="have"/>
+     <dpg d="w33025" g="E2" t="i" cr="" w="established" l="establish" p="V"/>
+     <dpg d="E5" g="w33025" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E5" g="w33023" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w33026" g="w33031" t="det" cr="det:w33031" w="an" l="~" p="Det"/>
+     <dpg d="w33027" g="w33028" t="lex-mod" cr="lex-mod:w33028" w="MSH3" l="~" p="U"/>
+     <dpg d="w33028" g="w33031" t="mod" cr="mod:w33031" w="-deficient" l="MSH3 -deficient" p="A"/>
+     <dpg d="w33029" g="w33031" t="nn" cr="nn:w33031" w="HHUA/chr.2" l="~" p="N"/>
+     <dpg d="w33030" g="w33031" t="nn" cr="nn:w33031" w="cell" l="~" p="N"/>
+     <dpg d="w33031" g="w33025" t="obj" cr="obj:w33025" w="line" l="~" p="N"/>
+     <dpg d="w33032" g="w33031" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E1" g="w33032" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w33023" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w33033" g="E1" t="i" cr="mod*by*c:w33031" w="introducing" l="introduce" p="V"/>
+     <dpg d="E6" g="w33033" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w33034" g="w33035" t="mod" cr="mod:w33035" w="human" l="~" p="A"/>
+     <dpg d="w33035" g="w33033" t="obj" cr="obj:w33033||subj:w33039" w="chromosome" l="~" p="N"/>
+     <dpg d="w33036" g="w33035" t="num" cr="num:w33035" w="2" l="~" p="N"/>
+     <dpg d="w33037" g="w33035" t="punc" cr="punc:w33035" w="," l="~" p="U"/>
+     <dpg d="E0" g="w33035" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w33038" g="E0" t="whn" cr="whn:w33039" w="which" l="~" p="N"/>
+     <dpg d="w33038" g="w33035" t="antecedent" cr="antecedent:w33035" w="which" l="~" p="N"/>
+     <dpg d="w33039" g="E0" t="i" cr="rel:w33035" w="carries" l="carry" p="V"/>
+     <dpg d="E7" g="w33039" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E7" g="w33035" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w33040" g="w33041" t="mod" cr="mod:w33041" w="wild-type" l="wild-type" p="A"/>
+     <dpg d="w33041" g="w33039" t="obj" cr="obj:w33039" w="MSH6" l="~" p="N"/>
+     <dpg d="w33042" g="w33041" t="punc" cr="punc:w33041" w="and" l="~" p="U"/>
+     <dpg d="w33043" g="w33044" t="nn" cr="nn:w33044" w="MSH2" l="~" p="N"/>
+     <dpg d="w33044" g="w33041" t="conj" cr="conj:w33041" w="genes" l="gene" p="N"/>
+     <dpg d="w33045" g="w33039" t="punc" cr="punc:w33039" w="," l="~" p="U"/>
+     <dpg d="w33046" g="w33039" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w33047" g="w33048" t="nn" cr="nn:w33048" w="HHUA" l="~" p="N"/>
+     <dpg d="w33048" g="w33046" t="pcomp-n" cr="mod*to*n:w33039" w="cells" l="cell" p="N"/>
+     <dpg d="w33049" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

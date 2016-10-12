@@ -1,0 +1,75 @@
+<rexml>
+<doc id="1822">
+  <text>
+<p><s id="s1"><w id="w29342">This</w> <w id="w29343">paper</w> <w id="w29344">describes</w> <w id="w29345">the</w> <w id="w29346">structural</w> <w id="w29347">and</w> <w id="w29348">biochemical</w> <w id="w29349">characterization</w> <w id="w29350">of</w> <w id="w29351">talin</w> <w id="w29352">,</w> <w id="w29353">a</w> <w id="w29354">protein</w> <w id="w29355">localized</w> <w id="w29356">to</w> <w id="w29357">various</w> <w id="w29358">cellular</w> <w id="w29359">sites</w> <w id="w29360">where</w> <w id="w29361">bundles</w> <w id="w29362">of</w> <w id="w29363">actin</w> <w id="w29364">filaments</w> <w id="w29365">attach</w> <w id="w29366">to</w> <w id="w29367">the</w> <w id="w29368">plasma</w> <w id="w29369">membrane</w> <w id="w29370">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6786" gid="g6474" t="Individual_protein" fr="w29351" to="w29351" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1822.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6787" gid="g6475" t="RELATIONSHIP_TEXTBINDING" fr="w29355" to="w29356">
+     <textspan type="extent">localized to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1822.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6788" gid="g6476" t="Cell_component" fr="w29363" to="w29364" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1822.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6789" gid="g6477" t="Cell_component" fr="w29361" to="w29364" nam="yes">
+     <textspan type="extent">bundles of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1822.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6790" gid="g6478" t="Individual_protein" fr="w29363" to="w29363" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1822.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2598" t="COLOCALIZE" e1="e6786" e2="e6789" re="e6787">
+     <textspan type="extent">talin , a protein localized to various cellular sites where bundles of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1822.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

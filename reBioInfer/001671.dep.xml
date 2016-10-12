@@ -1,0 +1,46 @@
+<rexml>
+<doc id="1671">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26590" g="w26593" t="det" cr="det:w26593" w="The" l="~" p="Det"/>
+     <dpg d="w26591" g="w26592" t="lex-mod" cr="lex-mod:w26592" w="Saccharomyces" l="~" p="U"/>
+     <dpg d="w26592" g="w26593" t="nn" cr="nn:w26593" w="cerevisiae" l="Saccharomyces cerevisiae" p="N"/>
+     <dpg d="w26593" g="w26597" t="s" cr="s:w26597||subj:w26598" w="RAD51" l="~" p="N"/>
+     <dpg d="w26594" g="w26593" t="punc" cr="punc:w26593" w="and" l="~" p="U"/>
+     <dpg d="w26595" g="w26596" t="nn" cr="nn:w26596" w="RAD54" l="~" p="N"/>
+     <dpg d="w26596" g="w26593" t="conj" cr="conj:w26593" w="genes" l="gene" p="N"/>
+     <dpg d="w26597" g="E0" t="i" cr="" w="are" l="be" p="VBE"/>
+     <dpg d="w26598" g="w26597" t="pred" cr="pred:w26597" w="both" l="~" p="N"/>
+     <dpg d="E2" g="w26598" t="subj" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="E2" g="w26593" t="antecedent" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="w26599" g="w26598" t="pnmod" cr="pnmod:w26598" w="required" l="~" p="A"/>
+     <dpg d="w26600" g="w26599" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w26601" g="w26602" t="det" cr="det:w26602" w="the" l="~" p="Det"/>
+     <dpg d="w26602" g="w26600" t="pcomp-n" cr="mod*for*n:w26599" w="occurrence" l="~" p="N"/>
+     <dpg d="w26603" g="w26602" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26604" g="w26605" t="mod" cr="mod:w26605" w="homologous" l="~" p="A"/>
+     <dpg d="w26605" g="w26603" t="pcomp-n" cr="mod*of*n:w26602" w="recombination" l="~" p="N"/>
+     <dpg d="w26606" g="w26603" t="punc" cr="punc:w26603" w="and" l="~" p="U"/>
+     <dpg d="w26607" g="w26603" t="conj" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w26608" g="w26609" t="det" cr="det:w26609" w="the" l="~" p="Det"/>
+     <dpg d="w26609" g="w26607" t="pcomp-n" cr="mod*for*n:w26602" w="repair" l="~" p="N"/>
+     <dpg d="w26610" g="w26609" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26611" g="w26613" t="mod" cr="mod:w26613" w="double-stranded" l="double-stranded" p="A"/>
+     <dpg d="w26612" g="w26613" t="nn" cr="nn:w26613" w="DNA" l="~" p="N"/>
+     <dpg d="w26613" g="w26610" t="pcomp-n" cr="mod*of*n:w26609" w="breaks" l="break" p="N"/>
+     <dpg d="w26614" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

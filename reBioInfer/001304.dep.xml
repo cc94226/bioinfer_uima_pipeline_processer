@@ -1,0 +1,71 @@
+<rexml>
+<doc id="1304">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E3" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20457" g="w20466" t="s" cr="s+subj:w20466" w="Study" l="~" p="N"/>
+     <dpg d="w20458" g="w20457" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w20459" g="w20461" t="mod" cr="mod:w20461" w="mutated" l="~" p="A"/>
+     <dpg d="w20460" g="w20461" t="nn" cr="nn:w20461" w="yeast" l="~" p="N"/>
+     <dpg d="w20461" g="w20458" t="pcomp-n" cr="mod*of*n:w20457" w="profilins" l="~" p="N"/>
+     <dpg d="w20462" g="w20461" t="punc" cr="punc:w20461" w="and" l="~" p="U"/>
+     <dpg d="w20463" g="w20461" t="conj" cr="conj:w20461" w="profilins" l="~" p="N"/>
+     <dpg d="w20464" g="w20463" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w20465" g="w20464" t="pcomp-n" cr="mod*from*n:w20463" w="Acanthamoeba" l="~" p="N"/>
+     <dpg d="w20466" g="E3" t="i" cr="UNSPECRELTYPE:E6" w="suggests" l="suggest" p="V"/>
+     <dpg d="E7" g="w20466" t="subj" cr="" w="" l="study" p="N"/>
+     <dpg d="E7" g="w20457" t="antecedent" cr="" w="" l="study" p="N"/>
+     <dpg d="E2" g="w20466" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20467" g="E2" t="c" cr="c:w20476" w="that" l="~" p="COMP"/>
+     <dpg d="w20468" g="w20469" t="det" cr="det:w20469" w="the" l="~" p="Det"/>
+     <dpg d="w20469" g="w20476" t="s" cr="s:w20476||subj:w20477" w="ability" l="~" p="N"/>
+     <dpg d="w20470" g="w20469" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w20471" g="w20470" t="pcomp-n" cr="mod*of*n:w20469||s+subj:w20473" w="profilin" l="~" p="N"/>
+     <dpg d="E1" g="w20471" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w20471" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w20472" g="w20473" t="aux" cr="aux:w20473" w="to" l="~" p="Aux"/>
+     <dpg d="w20473" g="E1" t="i" cr="rel:w20471" w="suppress" l="~" p="V"/>
+     <dpg d="E8" g="w20473" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E8" g="E4" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w20474" g="w20475" t="lex-mod" cr="lex-mod:w20475" w="cap-" l="~" p="U"/>
+     <dpg d="w20475" g="w20473" t="obj" cr="obj:w20473" w="cells" l="cap- cells" p="N"/>
+     <dpg d="w20476" g="E2" t="i" cr="fc:w20466" w="is" l="be" p="VBE"/>
+     <dpg d="w20477" g="w20476" t="pred" cr="pred:w20476" w="dependent" l="~" p="N"/>
+     <dpg d="E9" g="w20477" t="subj" cr="" w="" l="ability" p="N"/>
+     <dpg d="E9" g="w20469" t="antecedent" cr="" w="" l="ability" p="N"/>
+     <dpg d="w20478" g="w20477" t="mod" cr="" w="upon" l="~" p="Prep"/>
+     <dpg d="w20479" g="w20480" t="det" cr="det:w20480" w="a" l="~" p="Det"/>
+     <dpg d="w20480" g="w20478" t="pcomp-n" cr="mod*upon*n:w20477" w="property" l="~" p="N"/>
+     <dpg d="w20481" g="w20482" t="lex-mod" cr="lex-mod:w20482" w="other" l="~" p="U"/>
+     <dpg d="w20482" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="than" l="other than" p="A"/>
+     <dpg d="w20483" g="E6" t="punc" cr="punc:E6" w="," l="~" p="U"/>
+     <dpg d="w20484" g="E6" t="punc" cr="punc:E6" w="or" l="~" p="U"/>
+     <dpg d="w20485" g="E6" t="p" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w20486" g="w20485" t="pcomp-n" cr="p*in*n:E6" w="addition" l="~" p="N"/>
+     <dpg d="w20487" g="E6" t="punc" cr="punc:E6" w="to" l="~" p="U"/>
+     <dpg d="w20488" g="E6" t="punc" cr="punc:E6" w="," l="~" p="U"/>
+     <dpg d="E0" g="E6" t="UNSPECRELTYPE" cr="" w="" l="inf" p="C"/>
+     <dpg d="w20489" g="w20490" t="gen" cr="gen:w20490" w="its" l="~" p="N"/>
+     <dpg d="w20490" g="w20492" t="s" cr="s+subj:w20492" w="ability" l="~" p="N"/>
+     <dpg d="w20491" g="w20492" t="aux" cr="aux:w20492" w="to" l="~" p="Aux"/>
+     <dpg d="w20492" g="E0" t="i" cr="UNSPECRELTYPE:E6" w="bind" l="~" p="V"/>
+     <dpg d="E10" g="w20492" t="subj" cr="" w="" l="ability" p="N"/>
+     <dpg d="E10" g="w20490" t="antecedent" cr="" w="" l="ability" p="N"/>
+     <dpg d="w20493" g="w20492" t="obj" cr="obj:w20492" w="actin" l="~" p="N"/>
+     <dpg d="w20494" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

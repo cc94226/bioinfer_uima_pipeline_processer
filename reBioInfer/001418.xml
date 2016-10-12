@@ -1,0 +1,143 @@
+<rexml>
+<doc id="1418">
+  <text>
+<p><s id="s1"><w id="w22219">The</w> <w id="w22220">centrifugation</w> <w id="w22221">assay</w> <w id="w22222">and</w> <w id="w22223">the</w> <w id="w22224">DNase</w> <w id="w22225">I</w> <w id="w22226">inhibition</w> <w id="w22227">assay</w> <w id="w22228">demonstrate</w> <w id="w22229">that</w> <w id="w22230">cofilin</w> <w id="w22231">binds</w> <w id="w22232">to</w> <w id="w22233">actin</w> <w id="w22234">filaments</w> <w id="w22235">in</w> <w id="w22236">a</w> <w id="w22237">1:1</w> <w id="w22238">molar</w> <w id="w22239">ratio</w> <w id="w22240">of</w> <w id="w22241">cofilin</w> <w id="w22242">to</w> <w id="w22243">actin</w> <w id="w22244">monomer</w> <w id="w22245">in</w> <w id="w22246">the</w> <w id="w22247">filament</w> <w id="w22248">and</w> <w id="w22249">that</w> <w id="w22250">cofilin</w> <w id="w22251">increases</w> <w id="w22252">the</w> <w id="w22253">monomeric</w> <w id="w22254">actin</w> <w id="w22255">to</w> <w id="w22256">a</w> <w id="w22257">limited</w> <w id="w22258">extent</w> <w id="w22259">(</w> <w id="w22260">up</w> <w id="w22261">to</w> <w id="w22262">1.1-1.5</w> <w id="w22263">microM</w> <w id="w22264">monomer</w> <w id="w22265">)</w> <w id="w22266">in</w> <w id="w22267">the</w> <w id="w22268">presence</w> <w id="w22269">of</w> <w id="w22270">physiological</w> <w id="w22271">concentrations</w> <w id="w22272">of</w> <w id="w22273">Mg2+</w> <w id="w22274">and</w> <w id="w22275">KCl</w> <w id="w22276">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5161" gid="g4926" t="Gene/protein/RNA" fr="w22224" to="w22225" nam="yes">
+     <textspan type="extent">DNase I</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1418.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5162" gid="g4927" t="RELATIONSHIP_TEXTBINDING" fr="w22231" to="w22232">
+     <textspan type="extent">binds to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1418.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5163" gid="g4928" t="Cell_component" fr="w22233" to="w22234" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1418.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5164" gid="g4929" t="Individual_protein" fr="w22230" to="w22230" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1418.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5165" gid="g4930" t="Gene/protein/RNA" fr="w22243" to="w22243" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1418.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5166" gid="g4931" t="Gene/protein/RNA" fr="w22241" to="w22241" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1418.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5167" gid="g4932" t="Individual_protein" fr="w22254" to="w22254" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1418.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5168" gid="g4933" t="Individual_protein" fr="w22250" to="w22250" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1418.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5169" gid="g4934" t="RELATIONSHIP_TEXTBINDING" fr="w22251" to="w22251">
+     <textspan type="extent">increases</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1418.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e5170" gid="g4935" t="Individual_protein" fr="w22233" to="w22233" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1418.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1974" t="BIND" e1="e5164" e2="e5163" re="e5162">
+     <textspan type="extent">cofilin binds to actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1418.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1975" t="INCREASE" e1="e5168" e2="e5167" re="e5169">
+     <textspan type="extent">cofilin increases the monomeric actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1418.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Amount"/>
+      <exattr n="t4" v="INCREASE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

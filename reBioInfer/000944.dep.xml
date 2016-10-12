@@ -1,0 +1,41 @@
+<rexml>
+<doc id="944">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14629" g="w14630" t="mod" cr="mod:w14630" w="Live" l="~" p="A"/>
+     <dpg d="w14630" g="w14634" t="s" cr="s+subj:w14634||s+subj:w14638" w="dynamics" l="~" p="N"/>
+     <dpg d="w14631" g="w14630" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w14632" g="w14633" t="nn" cr="nn:w14633" w="Dictyostelium" l="~" p="N"/>
+     <dpg d="w14633" g="w14631" t="pcomp-n" cr="mod*of*n:w14630" w="cofilin" l="~" p="N"/>
+     <dpg d="w14634" g="E1" t="i" cr="" w="suggests" l="suggest" p="V"/>
+     <dpg d="E4" g="w14634" t="subj" cr="" w="" l="dynamics" p="N"/>
+     <dpg d="E4" g="w14630" t="antecedent" cr="" w="" l="dynamics" p="N"/>
+     <dpg d="w14635" g="w14636" t="det" cr="det:w14636" w="a" l="~" p="Det"/>
+     <dpg d="w14636" g="w14634" t="obj" cr="obj:w14634" w="role" l="~" p="N"/>
+     <dpg d="w14637" g="w14636" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="E0" g="w14637" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w14630" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w14638" g="E0" t="i" cr="mod*in*c:w14636" w="remodeling" l="remodel" p="V"/>
+     <dpg d="E5" g="w14638" t="subj" cr="" w="" l="dynamics" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="dynamics" p="N"/>
+     <dpg d="w14639" g="w14640" t="nn" cr="nn:w14640" w="actin" l="~" p="N"/>
+     <dpg d="w14640" g="w14638" t="obj" cr="obj:w14638" w="latticework" l="~" p="N"/>
+     <dpg d="w14641" g="w14640" t="mod" cr="" w="into" l="~" p="Prep"/>
+     <dpg d="w14642" g="w14641" t="pcomp-n" cr="mod*into*n:w14640" w="bundles" l="bundle" p="N"/>
+     <dpg d="w14643" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

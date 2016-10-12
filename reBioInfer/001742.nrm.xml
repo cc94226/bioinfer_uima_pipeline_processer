@@ -1,0 +1,59 @@
+<rexml>
+<doc id="1742">
+  
+  <markup>
+   <nes>
+    <ne id="e6403" gid="g6109" t="Individual_protein" fr="w27776" to="w27776" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1742.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6405" gid="g6111" t="Cell_component" fr="w27787" to="w27788" nam="yes" sid="s1">
+     <textspan>actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1742.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6406" gid="g6112" t="Individual_protein" fr="w27787" to="w27787" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1742.3"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2453" t="MODIFY" e1="e6403" e2="e6405" re="e6404">
+     <textspan>profilin may be involved in the pathogenesis of glomerulonephritis by reorganizing actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1742.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="MODIFY"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

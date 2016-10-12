@@ -1,0 +1,358 @@
+<rexml>
+<doc id="1678">
+  <text>
+<p><s id="s1"><w id="w26712">These</w> <w id="w26713">histone</w> <w id="w26714">H3</w> <w id="w26715">and</w> <w id="w26716">H2a</w> <w id="w26717">genes</w> <w id="w26718">encode</w> <w id="w26719">approximately</w> <w id="w26720">40</w> <w id="w26721">%</w> <w id="w26722">of</w> <w id="w26723">the</w> <w id="w26724">total</w> <w id="w26725">H3</w> <w id="w26726">and</w> <w id="w26727">H2a</w> <w id="w26728">mRNA</w> <w id="w26729">,</w> <w id="w26730">whereas</w> <w id="w26731">the</w> <w id="w26732">histone</w> <w id="w26733">H4</w> <w id="w26734">and</w> <w id="w26735">histone</w> <w id="w26736">H2b</w> <w id="w26737">genes</w> <w id="w26738">encode</w> <w id="w26739">&lt;</w> <w id="w26740">10</w> <w id="w26741">%</w> <w id="w26742">of</w> <w id="w26743">the</w> <w id="w26744">total</w> <w id="w26745">H4</w> <w id="w26746">and</w> <w id="w26747">H2b</w> <w id="w26748">mRNA</w> <w id="w26749">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6157" gid="g5875" t="Individual_protein" fr="w26727" to="w26727" nam="yes">
+     <textspan type="extent">H2a</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1678.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6158" gid="g5876" t="Individual_protein" fr="w26747" to="w26747" nam="yes">
+     <textspan type="extent">H2b</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1678.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6159" gid="g5877" t="RELATIONSHIP_TEXTBINDING" fr="w26718" to="w26718">
+     <textspan type="extent">encode</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1678.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6160" gid="g5878" t="RELATIONSHIP_TEXTBINDING" fr="w26738" to="w26738">
+     <textspan type="extent">encode</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1678.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6161" gid="g5879" t="Individual_protein" fr="w26745" to="w26745" nam="yes">
+     <textspan type="extent">H4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1678.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6162" gid="g5880" t="Individual_protein" fr="w26725" to="w26725" nam="yes">
+     <textspan type="extent">H3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1678.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6163" gid="g5881" t="Gene" fr="w26714" to="w26717" nam="yes">
+     <textspan type="extent">H3 [..] genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1678.6"/>
+      <exattr n="nst" v="st.1678.2.0"/>
+      <exattr n="nst" v="st.1678.5.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6164" gid="g5882" t="Gene" fr="w26733" to="w26737" nam="yes">
+     <textspan type="extent">H4 [..] genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1678.7"/>
+      <exattr n="nst" v="st.1678.21.0"/>
+      <exattr n="nst" v="st.1678.25.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6165" gid="g5883" t="Gene" fr="w26716" to="w26717" nam="yes">
+     <textspan type="extent">H2a genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1678.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6166" gid="g5884" t="Individual_RNA_molecule" fr="w26725" to="w26728" nam="yes">
+     <textspan type="extent">H3 [..] mRNA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="RNA"/>
+      <exattr n="t7" v="Individual_RNA_molecule"/>
+      <exattr n="bd" v="e.1678.9"/>
+      <exattr n="nst" v="st.1678.13.0"/>
+      <exattr n="nst" v="st.1678.16.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6167" gid="g5885" t="Gene" fr="w26736" to="w26737" nam="yes">
+     <textspan type="extent">H2b genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1678.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e6168" gid="g5886" t="Individual_RNA_molecule" fr="w26745" to="w26748" nam="yes">
+     <textspan type="extent">H4 [..] mRNA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="RNA"/>
+      <exattr n="t7" v="Individual_RNA_molecule"/>
+      <exattr n="bd" v="e.1678.11"/>
+      <exattr n="nst" v="st.1678.33.0"/>
+      <exattr n="nst" v="st.1678.36.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6169" gid="g5887" t="Individual_RNA_molecule" fr="w26727" to="w26728" nam="yes">
+     <textspan type="extent">H2a mRNA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="RNA"/>
+      <exattr n="t7" v="Individual_RNA_molecule"/>
+      <exattr n="bd" v="e.1678.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e6170" gid="g5888" t="Protein_family_or_group" fr="w26713" to="w26713" nam="yes">
+     <textspan type="extent">histone</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1678.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e6171" gid="g5889" t="Individual_RNA_molecule" fr="w26747" to="w26748" nam="yes">
+     <textspan type="extent">H2b mRNA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="RNA"/>
+      <exattr n="t7" v="Individual_RNA_molecule"/>
+      <exattr n="bd" v="e.1678.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e6172" gid="g5890" t="Individual_protein" fr="w26716" to="w26716" nam="yes">
+     <textspan type="extent">H2a</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1678.15"/>
+     </exattrs>
+    </ne>
+    <ne id="e6173" gid="g5891" t="Individual_protein" fr="w26714" to="w26714" nam="yes">
+     <textspan type="extent">H3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1678.16"/>
+     </exattrs>
+    </ne>
+    <ne id="e6174" gid="g5892" t="Individual_protein" fr="w26733" to="w26733" nam="yes">
+     <textspan type="extent">H4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1678.17"/>
+     </exattrs>
+    </ne>
+    <ne id="e6175" gid="g5893" t="Protein_family_or_group" fr="w26732" to="w26732" nam="yes">
+     <textspan type="extent">histone</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1678.18"/>
+     </exattrs>
+    </ne>
+    <ne id="e6176" gid="g5894" t="Individual_protein" fr="w26736" to="w26736" nam="yes">
+     <textspan type="extent">H2b</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1678.19"/>
+     </exattrs>
+    </ne>
+    <ne id="e6177" gid="g5895" t="Protein_family_or_group" fr="w26735" to="w26735" nam="yes">
+     <textspan type="extent">histone</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1678.20"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2363" t="MEMBER" e1="e6170" e2="e6173" re="">
+     <textspan type="extent">histone H3</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2364" t="MEMBER" e1="e6170" e2="e6172" re="">
+     <textspan type="extent">histone H3 and H2a</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2365" t="ENCODE" e1="e6163" e2="e6166" re="e6159">
+     <textspan type="extent">H3 and H2a genes encode approximately 40 % of the total H3 and H2a mRNA</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1678.2"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2366" t="ENCODE" e1="e6165" e2="e6169" re="e6159">
+     <textspan type="extent">H2a genes encode approximately 40 % of the total H3 and H2a mRNA</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1678.2"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2367" t="MEMBER" e1="e6175" e2="e6174" re="">
+     <textspan type="extent">histone H4</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2368" t="MEMBER" e1="e6177" e2="e6176" re="">
+     <textspan type="extent">histone H2b</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2369" t="ENCODE" e1="e6164" e2="e6168" re="e6160">
+     <textspan type="extent">H4 and histone H2b genes encode &lt; 10 % of the total H4 and H2b mRNA</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1678.3"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2370" t="ENCODE" e1="e6167" e2="e6171" re="e6160">
+     <textspan type="extent">H2b genes encode &lt; 10 % of the total H4 and H2b mRNA</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1678.3"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

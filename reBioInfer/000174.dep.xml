@@ -1,0 +1,47 @@
+<rexml>
+<doc id="174">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w2832" g="" t="" cr="" w="As" l="~" p="A"/>
+     <dpg d="w2833" g="w2832" t="comp1" cr="comp1:w2832" w="expected" l="expect" p="V"/>
+     <dpg d="E0" g="w2833" t="ECR" cr="ECR+obj:w2833" w="" l="~" p="EC"/>
+     <dpg d="E2" g="w2833" t="obj" cr="" w="" l="~" p="EC"/>
+     <dpg d="E2" g="E0" t="antecedent" cr="" w="" l="~" p="EC"/>
+     <dpg d="w2834" g="w2833" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w2835" g="w2836" t="nn" cr="nn:w2836" w="immunofluorescence" l="~" p="N"/>
+     <dpg d="w2836" g="w2834" t="pcomp-n" cr="mod*from*n:w2833" w="experiments" l="experiment" p="N"/>
+     <dpg d="w2837" g="w2836" t="punc" cr="punc:w2836" w="," l="~" p="U"/>
+     <dpg d="w2838" g="w2836" t="conj" cr="conj:w2836" w="Abp1p" l="~" p="N"/>
+     <dpg d="w2839" g="w2838" t="punc" cr="punc:w2838" w="," l="~" p="U"/>
+     <dpg d="w2840" g="w2838" t="conj" cr="conj:w2838" w="cofilin" l="~" p="N"/>
+     <dpg d="w2841" g="w2840" t="punc" cr="punc:w2840" w="," l="~" p="U"/>
+     <dpg d="w2842" g="w2840" t="punc" cr="punc:w2840" w="and" l="~" p="U"/>
+     <dpg d="w2843" g="w2840" t="conj" cr="conj:w2840" w="actin" l="~" p="N"/>
+     <dpg d="w2844" g="w2843" t="pnmod" cr="pnmod:w2843" w="colocalized" l="~" p="A"/>
+     <dpg d="w2845" g="w2844" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w2846" g="w2845" t="pcomp-n" cr="mod*in*n:w2844" w="immuno-EM" l="immuno-EM" p="N"/>
+     <dpg d="w2847" g="w2846" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w2848" g="w2851" t="det" cr="det:w2851" w="the" l="~" p="Det"/>
+     <dpg d="w2849" g="w2851" t="mod" cr="mod:w2851" w="dense" l="~" p="A"/>
+     <dpg d="w2850" g="w2851" t="mod" cr="mod:w2851" w="patchlike" l="~" p="A"/>
+     <dpg d="w2851" g="w2847" t="pcomp-n" cr="mod*to*n:w2846" w="structures" l="structure" p="N"/>
+     <dpg d="w2852" g="w2847" t="punc" cr="punc:w2847" w="but" l="~" p="U"/>
+     <dpg d="w2853" g="w2847" t="punc" cr="punc:w2847" w="not" l="~" p="U"/>
+     <dpg d="w2854" g="w2847" t="conj" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w2855" g="w2856" t="det" cr="det:w2856" w="the" l="~" p="Det"/>
+     <dpg d="w2856" g="w2854" t="pcomp-n" cr="mod*to*n:w2846" w="cables" l="cable" p="N"/>
+     <dpg d="w2857" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

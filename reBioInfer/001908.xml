@@ -1,0 +1,224 @@
+<rexml>
+<doc id="1908">
+  <text>
+<p><s id="s1"><w id="w30704">Together</w> <w id="w30705">these</w> <w id="w30706">results</w> <w id="w30707">indicate</w> <w id="w30708">that</w> <w id="w30709">TGFbeta</w> <w id="w30710">regulates</w> <w id="w30711">clusterin</w> <w id="w30712">gene</w> <w id="w30713">expression</w> <w id="w30714">through</w> <w id="w30715">an</w> <w id="w30716">AP-1</w> <w id="w30717">site</w> <w id="w30718">and</w> <w id="w30719">its</w> <w id="w30720">cognate</w> <w id="w30721">transcription</w> <w id="w30722">factor</w> <w id="w30723">AP-1</w> <w id="w30724">,</w> <w id="w30725">and</w> <w id="w30726">requires</w> <w id="w30727">the</w> <w id="w30728">involvement</w> <w id="w30729">of</w> <w id="w30730">protein</w> <w id="w30731">kinase</w> <w id="w30732">C</w> <w id="w30733">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7060" gid="g6740" t="Individual_protein" fr="w30709" to="w30709" nam="yes">
+     <textspan type="extent">TGFbeta</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1908.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7061" gid="g6741" t="RELATIONSHIP_TEXTBINDING" fr="w30710" to="w30710">
+     <textspan type="extent">regulates</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1908.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7062" gid="g6742" t="RELATIONSHIP_TEXTBINDING" fr="w30714" to="w30714">
+     <textspan type="extent">through</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1908.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7063" gid="g6743" t="Expression" fr="w30711" to="w30713">
+     <textspan type="extent">clusterin [..] expression</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.1908.3"/>
+      <exattr n="nst" v="st.1908.7.0"/>
+      <exattr n="nst" v="st.1908.9.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7064" gid="g6744" t="Function_property" fr="w30728" to="w30732">
+     <textspan type="extent">involvement of protein kinase C</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.1908.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7065" gid="g6745" t="RELATIONSHIP_TEXTBINDING" fr="w30720" to="w30720">
+     <textspan type="extent">cognate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1908.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7066" gid="g6746" t="Domain_or_region_of_DNA" fr="w30719" to="w30719" nam="yes">
+     <textspan type="extent">its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="bd" v="e.1908.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7067" gid="g6746" t="Domain_or_region_of_DNA" fr="w30716" to="w30717" nam="yes">
+     <textspan type="extent">AP-1 site</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="bd" v="e.1908.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7068" gid="g6747" t="RELATIONSHIP_TEXTBINDING" fr="w30726" to="w30726">
+     <textspan type="extent">requires</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1908.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e7069" gid="g6748" t="Individual_protein" fr="w30711" to="w30711" nam="yes">
+     <textspan type="extent">clusterin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1908.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e7070" gid="g6749" t="Individual_protein" fr="w30716" to="w30716" nam="yes">
+     <textspan type="extent">AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1908.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e7071" gid="g6750" t="Individual_protein" fr="w30723" to="w30723" nam="yes">
+     <textspan type="extent">AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1908.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e7072" gid="g6751" t="Individual_protein" fr="w30730" to="w30732" nam="yes">
+     <textspan type="extent">protein kinase C</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1908.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e7073" gid="g6752" t="Individual_protein" fr="w30722" to="w30723" nam="yes">
+     <textspan type="extent">factor AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1908.13"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2701" t="MEDIATE" e1="e7067" e2="e7061" re="e7062">
+     <textspan type="extent">TGFbeta regulates clusterin gene expression through an AP-1 site</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1908.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2702" t="CONTROL" e1="e7060" e2="e7063" re="e7061">
+     <textspan type="extent">TGFbeta regulates clusterin gene expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1908.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r2703" t="MEDIATE" e1="e7073" e2="e7061" re="e7062">
+     <textspan type="extent">TGFbeta regulates clusterin gene expression through an AP-1 site and its cognate transcription factor AP-1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1908.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2704" t="CONTROL" e1="e7060" e2="e7063" re="e7061">
+     <textspan type="extent">TGFbeta regulates clusterin gene expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1908.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r2706" t="RELATE" e1="e7066" e2="e7073" re="e7065">
+     <textspan type="extent">its cognate transcription factor AP-1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1908.5"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2707" t="CONDITION" e1="e7064" e2="e7060" re="e7068">
+     <textspan type="extent">TGFbeta regulates clusterin gene expression through an AP-1 site and its cognate transcription factor AP-1 , and requires the involvement of protein kinase C</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1908.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,70 @@
+<rexml>
+<doc id="1514">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23757" g="w23759" t="det" cr="det:w23759" w="The" l="~" p="Det"/>
+     <dpg d="w23758" g="w23759" t="mod" cr="mod:w23759" w="hyperproliferative" l="~" p="A"/>
+     <dpg d="w23759" g="w23765" t="s" cr="s:w23765||obj:w23760||subj:w23766||obj:w23773" w="response" l="~" p="N"/>
+     <dpg d="w23760" g="w23759" t="vrel" cr="vrel:w23759" w="observed" l="observe" p="V"/>
+     <dpg d="E3" g="w23760" t="obj" cr="" w="" l="response" p="N"/>
+     <dpg d="E3" g="w23759" t="antecedent" cr="" w="" l="response" p="N"/>
+     <dpg d="w23761" g="w23760" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w23762" g="w23764" t="det" cr="det:w23764" w="the" l="~" p="Det"/>
+     <dpg d="w23763" g="w23764" t="mod" cr="mod:w23764" w="gastric" l="~" p="A"/>
+     <dpg d="w23764" g="w23761" t="pcomp-n" cr="mod*in*n:w23760" w="mucosa" l="~" p="N"/>
+     <dpg d="w23765" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="is" l="be" p="VBE"/>
+     <dpg d="w23766" g="w23765" t="pred" cr="pred:w23765" w="secondary" l="~" p="A"/>
+     <dpg d="E4" g="w23766" t="subj" cr="" w="" l="response" p="N"/>
+     <dpg d="E4" g="w23759" t="antecedent" cr="" w="" l="response" p="N"/>
+     <dpg d="w23767" g="w23766" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w23768" g="w23770" t="det" cr="det:w23770" w="this" l="~" p="Det"/>
+     <dpg d="w23769" g="w23770" t="mod" cr="mod:w23770" w="initial" l="~" p="A"/>
+     <dpg d="w23770" g="w23767" t="pcomp-n" cr="mod*to*n:w23766" w="insult" l="~" p="N"/>
+     <dpg d="w23771" g="w23765" t="punc" cr="punc:w23765" w="and" l="~" p="U"/>
+     <dpg d="w23772" g="w23773" t="be" cr="be:w23773" w="is" l="be" p="be"/>
+     <dpg d="w23773" g="w23765" t="conj" cr="conj:w23765" w="associated" l="associate" p="V"/>
+     <dpg d="E5" g="w23773" t="obj" cr="" w="" l="response" p="N"/>
+     <dpg d="E5" g="w23759" t="antecedent" cr="" w="" l="response" p="N"/>
+     <dpg d="w23774" g="w23773" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w23775" g="w23776" t="mod" cr="mod:w23776" w="increased" l="~" p="A"/>
+     <dpg d="w23776" g="w23774" t="pcomp-n" cr="mod*with*n:w23773" w="expression" l="~" p="N"/>
+     <dpg d="w23777" g="w23776" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w23778" g="w23779" t="nn" cr="nn:w23779" w="cyclin" l="~" p="N"/>
+     <dpg d="w23779" g="w23777" t="pcomp-n" cr="mod*of*n:w23776" w="D1" l="~" p="N"/>
+     <dpg d="w23780" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w23781" g="w23786" t="det" cr="det:w23786" w="the" l="~" p="Det"/>
+     <dpg d="w23782" g="w23786" t="nn" cr="nn:w23786" w="cyclin" l="~" p="N"/>
+     <dpg d="w23783" g="w23786" t="mod" cr="mod:w23786" w="dependent" l="~" p="A"/>
+     <dpg d="w23784" g="w23786" t="nn" cr="nn:w23786" w="kinase" l="~" p="N"/>
+     <dpg d="w23785" g="w23786" t="nn" cr="nn:w23786" w="inhibitor" l="~" p="N"/>
+     <dpg d="w23786" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="p16ink4a" l="~" p="N"/>
+     <dpg d="w23787" g="E2" t="punc" cr="punc:E2" w="and" l="~" p="U"/>
+     <dpg d="w23788" g="E2" t="p" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w23789" g="w23788" t="pcomp-n" cr="p*of*n:E2" w="p53" l="~" p="N"/>
+     <dpg d="w23790" g="w23789" t="punc" cr="punc:w23789" w="and" l="~" p="U"/>
+     <dpg d="w23791" g="w23792" t="mod" cr="mod:w23792" w="decreased" l="~" p="A"/>
+     <dpg d="w23792" g="w23789" t="conj" cr="conj:w23789" w="expression" l="~" p="N"/>
+     <dpg d="w23793" g="w23792" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w23794" g="w23799" t="det" cr="det:w23799" w="the" l="~" p="Det"/>
+     <dpg d="w23795" g="w23799" t="nn" cr="nn:w23799" w="cyclin" l="~" p="N"/>
+     <dpg d="w23796" g="w23799" t="mod" cr="mod:w23799" w="dependent" l="~" p="A"/>
+     <dpg d="w23797" g="w23799" t="nn" cr="nn:w23799" w="kinase" l="~" p="N"/>
+     <dpg d="w23798" g="w23799" t="nn" cr="nn:w23799" w="inhibitor" l="~" p="N"/>
+     <dpg d="w23799" g="w23793" t="pcomp-n" cr="mod*of*n:w23792" w="p27kip1" l="~" p="N"/>
+     <dpg d="w23800" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

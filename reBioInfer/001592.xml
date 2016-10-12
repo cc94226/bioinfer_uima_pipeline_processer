@@ -1,0 +1,50 @@
+<rexml>
+<doc id="1592">
+  <text>
+<p><s id="s1"><w id="w25276">The</w> <w id="w25277">posttranslational</w> <w id="w25278">metabolism</w> <w id="w25279">of</w> <w id="w25280">myosin</w> <w id="w25281">heavy</w> <w id="w25282">chain</w> <w id="w25283">(</w> <w id="w25284">MHC</w> <w id="w25285">)</w> <w id="w25286">and</w> <w id="w25287">actin</w> <w id="w25288">was</w> <w id="w25289">regulated</w> <w id="w25290">in</w> <w id="w25291">parallel</w> <w id="w25292">with</w> <w id="w25293">the</w> <w id="w25294">total</w> <w id="w25295">contractile</w> <w id="w25296">protein</w> <w id="w25297">pool</w> <w id="w25298">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5868" gid="g5599" t="Individual_protein" fr="w25280" to="w25282" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1592.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5869" gid="g5599" t="Individual_protein" fr="w25284" to="w25284" nam="yes">
+     <textspan type="extent">MHC</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1592.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5870" gid="g5600" t="Gene/protein/RNA" fr="w25287" to="w25287" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1592.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

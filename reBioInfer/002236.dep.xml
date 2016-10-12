@@ -1,0 +1,65 @@
+<rexml>
+<doc id="2236">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w34406" g="w34407" t="nn" cr="nn:w34407" w="Yeast" l="~" p="N"/>
+     <dpg d="w34407" g="w34409" t="s" cr="s+subj:w34409||subj:w34415" w="profilin" l="~" p="N"/>
+     <dpg d="w34408" g="w34409" t="aux" cr="aux:w34409" w="can" l="~" p="Aux"/>
+     <dpg d="w34409" g="E2" t="i" cr="" w="sequester" l="~" p="V"/>
+     <dpg d="E5" g="w34409" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E5" g="w34407" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w34410" g="w34412" t="nn" cr="nn:w34412" w="yeast" l="~" p="N"/>
+     <dpg d="w34411" g="w34412" t="nn" cr="nn:w34412" w="actin" l="~" p="N"/>
+     <dpg d="w34412" g="w34409" t="obj" cr="obj:w34409" w="monomers" l="monomer" p="N"/>
+     <dpg d="w34413" g="w34409" t="punc" cr="punc:w34409" w="and" l="~" p="U"/>
+     <dpg d="w34414" g="w34415" t="amod" cr="amod:w34415" w="thereby" l="~" p="A"/>
+     <dpg d="w34415" g="w34409" t="conj" cr="conj:w34409" w="reduce" l="~" p="V"/>
+     <dpg d="E6" g="w34415" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E6" g="w34407" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w34416" g="w34417" t="det" cr="det:w34417" w="the" l="~" p="Det"/>
+     <dpg d="w34417" g="w34415" t="obj" cr="obj:w34415" w="ability" l="~" p="N"/>
+     <dpg d="w34418" g="w34417" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34419" g="w34420" t="nn" cr="nn:w34420" w="yeast" l="~" p="N"/>
+     <dpg d="w34420" g="w34418" t="pcomp-n" cr="mod*of*n:w34417||s+subj:w34422" w="actin" l="~" p="N"/>
+     <dpg d="E1" g="w34420" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w34420" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w34421" g="w34422" t="aux" cr="aux:w34422" w="to" l="~" p="Aux"/>
+     <dpg d="w34422" g="E1" t="i" cr="rel:w34420" w="polymerize" l="~" p="V"/>
+     <dpg d="E7" g="w34422" t="subj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w34423" g="w34422" t="punc" cr="punc:w34422" w="," l="~" p="U"/>
+     <dpg d="w34424" g="w34422" t="mod" cr="mod:w34422" w="whereas" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w34424" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w34425" g="w34426" t="s" cr="s+subj:w34426" w="it" l="~" p="N"/>
+     <dpg d="w34426" g="E0" t="i" cr="comp1:w34424" w="has" l="have" p="V"/>
+     <dpg d="E8" g="w34426" t="subj" cr="" w="" l="it" p="N"/>
+     <dpg d="E8" g="w34425" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w34427" g="w34428" t="det" cr="det:w34428" w="little" l="~" p="Det"/>
+     <dpg d="w34428" g="w34426" t="obj" cr="obj:w34426" w="effect" l="~" p="N"/>
+     <dpg d="w34429" g="w34428" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w34430" g="w34431" t="det" cr="det:w34431" w="the" l="~" p="Det"/>
+     <dpg d="w34431" g="w34429" t="pcomp-n" cr="mod*on*n:w34428" w="degree" l="~" p="N"/>
+     <dpg d="w34432" g="w34431" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34433" g="w34432" t="pcomp-n" cr="mod*of*n:w34431" w="polymerization" l="~" p="N"/>
+     <dpg d="w34434" g="w34433" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34435" g="w34438" t="nn" cr="nn:w34438" w="rabbit" l="~" p="N"/>
+     <dpg d="w34436" g="w34437" t="lex-mod" cr="lex-mod:w34437" w="skeletal" l="~" p="U"/>
+     <dpg d="w34437" g="w34438" t="nn" cr="nn:w34438" w="muscle" l="skeletal muscle" p="N"/>
+     <dpg d="w34438" g="w34434" t="pcomp-n" cr="mod*of*n:w34433" w="actin" l="~" p="N"/>
+     <dpg d="w34439" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

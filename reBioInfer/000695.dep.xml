@@ -1,0 +1,61 @@
+<rexml>
+<doc id="695">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10667" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w10668" g="w10669" t="amount-value" cr="amount-value:w10669" w="50" l="~" p="N"/>
+     <dpg d="w10669" g="w10670" t="nn" cr="nn:w10670" w="mM" l="~" p="N"/>
+     <dpg d="w10670" g="w10667" t="pcomp-n" cr="mod*in*n:w10677" w="KCl" l="~" p="N"/>
+     <dpg d="w10671" g="E1" t="punc" cr="punc:w10677" w="," l="~" p="U"/>
+     <dpg d="w10672" g="w10673" t="mod" cr="mod:w10673" w="high" l="~" p="A"/>
+     <dpg d="w10673" g="w10677" t="s" cr="s+subj:w10677" w="concentrations" l="concentration" p="N"/>
+     <dpg d="w10674" g="w10673" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10675" g="w10676" t="nn" cr="nn:w10676" w="Acanthamoeba" l="~" p="N"/>
+     <dpg d="w10676" g="w10674" t="pcomp-n" cr="mod*of*n:w10673" w="profilin" l="~" p="N"/>
+     <dpg d="w10677" g="E1" t="i" cr="" w="inhibit" l="~" p="V"/>
+     <dpg d="E3" g="w10677" t="subj" cr="" w="" l="concentration" p="N"/>
+     <dpg d="E3" g="w10673" t="antecedent" cr="" w="" l="concentration" p="N"/>
+     <dpg d="w10678" g="w10680" t="det" cr="det:w10680" w="the" l="~" p="Det"/>
+     <dpg d="w10679" g="w10680" t="nn" cr="nn:w10680" w="elongation" l="~" p="N"/>
+     <dpg d="w10680" g="w10677" t="obj" cr="obj:w10677" w="rate" l="~" p="N"/>
+     <dpg d="w10681" g="w10680" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10682" g="w10684" t="nn" cr="nn:w10684" w="muscle" l="~" p="N"/>
+     <dpg d="w10683" g="w10684" t="nn" cr="nn:w10684" w="actin" l="~" p="N"/>
+     <dpg d="w10684" g="w10681" t="pcomp-n" cr="mod*of*n:w10680||obj:w10685" w="filaments" l="filament" p="N"/>
+     <dpg d="w10685" g="w10684" t="vrel" cr="vrel:w10684" w="measured" l="measure" p="V"/>
+     <dpg d="E4" g="w10685" t="obj" cr="" w="" l="filament" p="N"/>
+     <dpg d="E4" g="w10684" t="antecedent" cr="" w="" l="filament" p="N"/>
+     <dpg d="w10686" g="w10685" t="mod" cr="mod:w10685" w="directly" l="~" p="A"/>
+     <dpg d="w10687" g="w10686" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w10688" g="w10689" t="lex-mod" cr="lex-mod:w10689" w="electron" l="~" p="U"/>
+     <dpg d="w10689" g="w10687" t="pcomp-n" cr="mod*by*n:w10686" w="microscopy" l="electron microscopy" p="N"/>
+     <dpg d="w10690" g="E1" t="punc" cr="punc:w10677" w="," l="~" p="U"/>
+     <dpg d="w10691" g="E1" t="punc" cr="punc:w10677" w="but" l="~" p="U"/>
+     <dpg d="E0" g="E1" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10692" g="w10693" t="det" cr="det:w10693" w="the" l="~" p="Det"/>
+     <dpg d="w10693" g="w10694" t="s" cr="s:w10694||subj:w10695" w="effect" l="~" p="N"/>
+     <dpg d="w10694" g="E0" t="i" cr="conj:w10677" w="is" l="be" p="VBE"/>
+     <dpg d="w10695" g="w10694" t="pred" cr="pred:w10694" w="minimal" l="~" p="A"/>
+     <dpg d="E5" g="w10695" t="subj" cr="" w="" l="effect" p="N"/>
+     <dpg d="E5" g="w10693" t="antecedent" cr="" w="" l="effect" p="N"/>
+     <dpg d="w10696" g="w10695" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w10697" g="w10696" t="pcomp-n" cr="mod*in*n:w10695" w="KCl" l="~" p="N"/>
+     <dpg d="w10698" g="w10697" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w10699" g="w10700" t="num" cr="num:w10700" w="2" l="~" p="N"/>
+     <dpg d="w10700" g="w10698" t="pcomp-n" cr="mod*with*n:w10697" w="MgCl2" l="~" p="N"/>
+     <dpg d="w10701" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

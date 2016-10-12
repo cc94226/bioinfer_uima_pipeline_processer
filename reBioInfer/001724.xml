@@ -1,0 +1,93 @@
+<rexml>
+<doc id="1724">
+  <text>
+<p><s id="s1"><w id="w27442">These</w> <w id="w27443">results</w> <w id="w27444">indicate</w> <w id="w27445">that</w> <w id="w27446">(</w> <w id="w27447">i</w> <w id="w27448">)</w> <w id="w27449">cotranslational</w> <w id="w27450">assembly</w> <w id="w27451">of</w> <w id="w27452">myosin</w> <w id="w27453">heavy</w> <w id="w27454">chains</w> <w id="w27455">is</w> <w id="w27456">developmentally</w> <w id="w27457">regulated</w> <w id="w27458">,</w> <w id="w27459">(</w> <w id="w27460">ii</w> <w id="w27461">)</w> <w id="w27462">structures</w> <w id="w27463">containing</w> <w id="w27464">actin</w> <w id="w27465">and</w> <w id="w27466">not</w> <w id="w27467">microtubules</w> <w id="w27468">may</w> <w id="w27469">mediate</w> <w id="w27470">initial</w> <w id="w27471">association</w> <w id="w27472">of</w> <w id="w27473">the</w> <w id="w27474">heavy</w> <w id="w27475">chains</w> <w id="w27476">with</w> <w id="w27477">the</w> <w id="w27478">cytoskeleton</w> <w id="w27479">,</w> <w id="w27480">and</w> <w id="w27481">(</w> <w id="w27482">iii</w> <w id="w27483">)</w> <w id="w27484">the</w> <w id="w27485">site</w> <w id="w27486">of</w> <w id="w27487">translation</w> <w id="w27488">dictates</w> <w id="w27489">where</w> <w id="w27490">a</w> <w id="w27491">significant</w> <w id="w27492">fraction</w> <w id="w27493">of</w> <w id="w27494">the</w> <w id="w27495">heavy</w> <w id="w27496">chains</w> <w id="w27497">will</w> <w id="w27498">be</w> <w id="w27499">inserted</w> <w id="w27500">into</w> <w id="w27501">the</w> <w id="w27502">cytoskeleton</w> <w id="w27503">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6324" gid="g6037" t="Individual_protein" fr="w27452" to="w27454" nam="yes">
+     <textspan type="extent">myosin heavy chains</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1724.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6325" gid="g6038" t="RELATIONSHIP_TEXTBINDING" fr="w27469" to="w27469">
+     <textspan type="extent">mediate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1724.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6326" gid="g6039" t="BINDING" fr="w27471" to="w27475">
+     <textspan type="extent">association of [..] chains</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="BINDING"/>
+      <exattr n="bd" v="e.1724.2"/>
+      <exattr n="nst" v="st.1724.29.0"/>
+      <exattr n="nst" v="st.1724.30.0"/>
+      <exattr n="nst" v="st.1724.33.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6327" gid="g6040" t="Cell_component" fr="w27462" to="w27464" nam="yes">
+     <textspan type="extent">structures containing actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1724.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6328" gid="g6037" t="Individual_protein" fr="w27475" to="w27475" nam="yes">
+     <textspan type="extent">chains</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1724.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6329" gid="g6041" t="Individual_protein" fr="w27464" to="w27464" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1724.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2417" t="MEDIATE" e1="e6327" e2="e6326" re="e6325">
+     <textspan type="extent">structures containing actin and not microtubules may mediate initial association of the heavy chains</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1724.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

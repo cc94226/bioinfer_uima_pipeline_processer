@@ -1,0 +1,49 @@
+<rexml>
+<doc id="1589">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w25200" g="w25203" t="det" cr="det:w25203" w="The" l="~" p="Det"/>
+     <dpg d="w25201" g="w25203" t="mod" cr="mod:w25203" w="polycystic" l="~" p="A"/>
+     <dpg d="w25202" g="w25203" t="nn" cr="nn:w25203" w="kidney" l="~" p="N"/>
+     <dpg d="w25203" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="disease" l="~" p="N"/>
+     <dpg d="w25204" g="w25203" t="num" cr="num:w25203" w="1" l="~" p="N"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25205" g="w25206" t="nn" cr="nn:w25206" w="gene" l="~" p="N"/>
+     <dpg d="w25206" g="w25207" t="s" cr="s+subj:w25207" w="product" l="~" p="N"/>
+     <dpg d="w25207" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="mediates" l="mediate" p="V"/>
+     <dpg d="E3" g="w25207" t="subj" cr="" w="" l="product" p="N"/>
+     <dpg d="E3" g="w25206" t="antecedent" cr="" w="" l="product" p="N"/>
+     <dpg d="w25208" g="w25213" t="nn" cr="nn:w25213" w="protein" l="~" p="N"/>
+     <dpg d="w25209" g="w25210" t="lex-mod" cr="lex-mod:w25210" w="kinase" l="~" p="U"/>
+     <dpg d="w25210" g="w25213" t="nn" cr="nn:w25213" w="C" l="kinase C" p="N"/>
+     <dpg d="w25211" g="w25213" t="lex-mod" cr="lex-mod:w25213" w="alpha" l="~" p="U"/>
+     <dpg d="w25212" g="w25213" t="lex-mod" cr="lex-mod:w25213" w="-" l="~" p="U"/>
+     <dpg d="w25213" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="dependent" l="alpha - dependent" p="N"/>
+     <dpg d="w25214" g="w25213" t="punc" cr="punc:w25213" w="and" l="~" p="U"/>
+     <dpg d="w25215" g="w25213" t="conj" cr="conj:w25213" w="c-Jun" l="c-Jun" p="N"/>
+     <dpg d="w25216" g="w25220" t="mod" cr="mod:w25220" w="N-terminal" l="N-terminal" p="A"/>
+     <dpg d="w25217" g="w25219" t="lex-mod" cr="lex-mod:w25219" w="kinase" l="~" p="U"/>
+     <dpg d="w25218" g="w25219" t="lex-mod" cr="lex-mod:w25219" w="-" l="~" p="U"/>
+     <dpg d="w25219" g="w25220" t="mod" cr="mod:w25220" w="dependent" l="kinase - dependent" p="A"/>
+     <dpg d="w25220" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="activation" l="~" p="N"/>
+     <dpg d="w25221" g="w25220" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25222" g="w25225" t="det" cr="det:w25225" w="the" l="~" p="Det"/>
+     <dpg d="w25223" g="w25225" t="nn" cr="nn:w25225" w="transcription" l="~" p="N"/>
+     <dpg d="w25224" g="w25225" t="nn" cr="nn:w25225" w="factor" l="~" p="N"/>
+     <dpg d="w25225" g="w25221" t="pcomp-n" cr="mod*of*n:w25220" w="AP-1" l="AP-1" p="N"/>
+     <dpg d="w25226" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

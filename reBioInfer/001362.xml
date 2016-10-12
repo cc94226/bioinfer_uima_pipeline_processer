@@ -1,0 +1,73 @@
+<rexml>
+<doc id="1362">
+  <text>
+<p><s id="s1"><w id="w21154">The</w> <w id="w21155">aim</w> <w id="w21156">of</w> <w id="w21157">our</w> <w id="w21158">study</w> <w id="w21159">on</w> <w id="w21160">human</w> <w id="w21161">seminiferous</w> <w id="w21162">tubules</w> <w id="w21163">of</w> <w id="w21164">adolescent</w> <w id="w21165">testes</w> <w id="w21166">was</w> <w id="w21167">to</w> <w id="w21168">study</w> <w id="w21169">the</w> <w id="w21170">localization</w> <w id="w21171">of</w> <w id="w21172">two</w> <w id="w21173">actin</w><w id="w21174">-</w><w id="w21175">associated</w> <w id="w21176">proteins</w> <w id="w21177">of</w> <w id="w21178">the</w> <w id="w21179">adherens</w> <w id="w21180">junctions</w> <w id="w21181">,</w> <w id="w21182">such</w> <w id="w21183">as</w> <w id="w21184">vinculin</w> <w id="w21185">and</w> <w id="w21186">talin</w> <w id="w21187">,</w> <w id="w21188">and</w> <w id="w21189">to</w> <w id="w21190">verify</w> <w id="w21191">if</w> <w id="w21192">there</w> <w id="w21193">were</w> <w id="w21194">modifications</w> <w id="w21195">in</w> <w id="w21196">their</w> <w id="w21197">pattern</w> <w id="w21198">in</w> <w id="w21199">varicocele</w> <w id="w21200">,</w> <w id="w21201">a</w> <w id="w21202">frequent</w> <w id="w21203">disease</w> <w id="w21204">of</w> <w id="w21205">the</w> <w id="w21206">testis</w> <w id="w21207">in</w> <w id="w21208">adolescent</w> <w id="w21209">age</w> <w id="w21210">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4909" gid="g4689" t="Individual_protein" fr="w21173" to="w21173" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1362.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4910" gid="g4690" t="RELATIONSHIP_TEXTBINDING" fr="w21175" to="w21175">
+     <textspan type="extent">associated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1362.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4911" gid="g4691" t="Individual_protein" fr="w21186" to="w21186" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1362.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4912" gid="g4692" t="Individual_protein" fr="w21184" to="w21184" nam="yes">
+     <textspan type="extent">vinculin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1362.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1872" t="RELATE" e1="e4912" e2="e4909" re="e4910">
+     <textspan type="extent">actin - associated proteins of the adherens junctions , such as vinculin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1362.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1873" t="RELATE" e1="e4911" e2="e4909" re="e4910">
+     <textspan type="extent">actin - associated proteins of the adherens junctions , such as vinculin and talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1362.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

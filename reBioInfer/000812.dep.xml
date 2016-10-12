@@ -1,0 +1,53 @@
+<rexml>
+<doc id="812">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12684" g="w12685" t="nn" cr="nn:w12685" w="Integrin" l="~" p="N"/>
+     <dpg d="w12685" g="w12688" t="s" cr="s+obj:w12688||s+subj:w12705" w="binding" l="~" p="N"/>
+     <dpg d="w12686" g="w12688" t="aux" cr="aux:w12688" w="may" l="~" p="Aux"/>
+     <dpg d="w12687" g="w12688" t="be" cr="be:w12688" w="be" l="~" p="Be"/>
+     <dpg d="w12688" g="E1" t="i" cr="" w="promoted" l="promote" p="V"/>
+     <dpg d="E4" g="w12688" t="obj" cr="" w="" l="binding" p="N"/>
+     <dpg d="E4" g="w12685" t="antecedent" cr="" w="" l="binding" p="N"/>
+     <dpg d="w12689" g="w12688" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w12690" g="w12689" t="pcomp-n" cr="by-subj*by*n:w12688" w="disruption" l="~" p="N"/>
+     <dpg d="w12691" g="w12690" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12692" g="w12691" t="pcomp-n" cr="mod*of*n:w12690" w="links" l="link" p="N"/>
+     <dpg d="w12693" g="w12692" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w12694" g="w12695" t="det" cr="det:w12695" w="the" l="~" p="Det"/>
+     <dpg d="w12695" g="w12693" t="pcomp-n" cr="mod*to*n:w12692" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w12696" g="w12695" t="punc" cr="punc:w12695" w="," l="~" p="U"/>
+     <dpg d="w12697" g="w12695" t="pnmod" cr="pnmod:w12695" w="effected" l="~" p="A"/>
+     <dpg d="w12698" g="w12697" t="mod" cr="" w="through" l="~" p="Prep"/>
+     <dpg d="w12699" g="w12698" t="pcomp-n" cr="mod*through*n:w12697" w="depolymerisation" l="~" p="N"/>
+     <dpg d="w12700" g="w12699" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12701" g="w12700" t="pcomp-n" cr="mod*of*n:w12699" w="actin" l="~" p="N"/>
+     <dpg d="w12702" g="w12701" t="punc" cr="punc:w12701" w="or" l="~" p="U"/>
+     <dpg d="w12703" g="w12701" t="conj" cr="conj:w12701" w="cleavage" l="~" p="N"/>
+     <dpg d="w12704" g="w12703" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="E0" g="w12704" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w12685" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w12705" g="E0" t="i" cr="mod*of*c:w12703" w="linking" l="link" p="V"/>
+     <dpg d="E5" g="w12705" t="subj" cr="" w="" l="binding" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="binding" p="N"/>
+     <dpg d="w12706" g="w12707" t="nn" cr="nn:w12707" w="protein" l="~" p="N"/>
+     <dpg d="w12707" g="w12705" t="obj" cr="obj:w12705" w="talin" l="~" p="N"/>
+     <dpg d="w12708" g="w12707" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w12709" g="w12708" t="pcomp-n" cr="mod*by*n:w12707" w="calpain" l="~" p="N"/>
+     <dpg d="w12710" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,168 @@
+<rexml>
+<doc id="238">
+  
+  <markup>
+   <nes>
+    <ne id="e874" gid="g842" t="Gene" fr="w3608" to="w3608" nam="yes" sid="s1">
+     <textspan>MSH3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.238.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e880" gid="g848" t="Gene" fr="w3617" to="w3619" nam="yes" sid="s1">
+     <textspan>mouse Rep-3 gene</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.238.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e881" gid="g849" t="Gene" fr="w3618" to="w3618" nam="yes" sid="s1">
+     <textspan>Rep-3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.238.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e876" gid="g844" t="Homolog" fr="w3623" to="w3625" nam="yes" sid="s1">
+     <textspan>eukaryotic mutS homologues</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Homolog"/>
+      <exattr n="bd" v="e.238.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e882" gid="g850" t="Gene" fr="w3624" to="w3624" nam="yes" sid="s1">
+     <textspan>mutS</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.238.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e879" gid="g847" t="Gene" fr="w3629" to="w3631" nam="yes" sid="s1">
+     <textspan>yeast gene MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.238.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e884" gid="g852" t="Gene" fr="w3631" to="w3631" nam="yes" sid="s1">
+     <textspan>MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.238.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e878" gid="g846" t="Homolog" fr="w3634" to="w3635" nam="yes" sid="s1">
+     <textspan>mutS homologues</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Homolog"/>
+      <exattr n="bd" v="e.238.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e883" gid="g851" t="Gene" fr="w3634" to="w3634" nam="yes" sid="s1">
+     <textspan>mutS</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.238.9"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r327" t="SIMILAR" e1="e874" e2="e880" re="e875">
+     <textspan>MSH3 appears to be more closely related to the mouse Rep-3 gene</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.238.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r328" t="SIMILAR" e1="e874" e2="e876" re="e875">
+     <textspan>MSH3 appears to be more closely related to the mouse Rep-3 gene and other similar eukaryotic mutS homologues</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.238.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r329" t="SIMILAR" e1="e874" e2="e879" re="e877">
+     <textspan>MSH3 appears to be more closely related to the mouse Rep-3 gene and other similar eukaryotic mutS homologues than to the yeast gene MSH2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.238.3"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r330" t="SIMILAR" e1="e874" e2="e878" re="e877">
+     <textspan>MSH3 appears to be more closely related to the mouse Rep-3 gene and other similar eukaryotic mutS homologues than to the yeast gene MSH2 and other mutS homologues</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.238.3"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

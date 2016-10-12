@@ -1,0 +1,56 @@
+<rexml>
+<doc id="1618">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25795" g="w25796" t="det" cr="det:w25796" w="The" l="~" p="Det"/>
+     <dpg d="w25796" g="w25797" t="s" cr="s+subj:w25797" w="protein" l="~" p="N"/>
+     <dpg d="w25797" g="E1" t="i" cr="" w="has" l="have" p="V"/>
+     <dpg d="E4" g="w25797" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E4" g="w25796" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w25798" g="w25801" t="det" cr="det:w25801" w="the" l="~" p="Det"/>
+     <dpg d="w25799" g="w25801" t="nn" cr="nn:w25801" w="two" l="~" p="N"/>
+     <dpg d="w25800" g="w25801" t="mod" cr="mod:w25801" w="conserved" l="~" p="A"/>
+     <dpg d="w25801" g="w25797" t="obj" cr="obj:w25797||obj:w25802" w="domains" l="domain" p="N"/>
+     <dpg d="w25802" g="w25801" t="vrel" cr="vrel:w25801" w="identified" l="identify" p="V"/>
+     <dpg d="E5" g="w25802" t="obj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E5" g="w25801" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="w25803" g="w25802" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w25804" g="w25803" t="pcomp-n" cr="mod*as*n:w25802" w="actin" l="~" p="N"/>
+     <dpg d="w25805" g="w25804" t="punc" cr="punc:w25804" w="and" l="~" p="U"/>
+     <dpg d="w25806" g="w25809" t="nn" cr="nn:w25809" w="phosphatidylinositol" l="~" p="N"/>
+     <dpg d="w25807" g="w25809" t="nn" cr="nn:w25809" w="4,5-biphosphate" l="4,5-biphosphate" p="N"/>
+     <dpg d="w25808" g="w25809" t="punc" cr="punc:w25809" w="(" l="~" p="U"/>
+     <dpg d="w25809" g="w25804" t="conj" cr="conj:w25804||s+subj:w25811" w="PIP2" l="~" p="N"/>
+     <dpg d="w25810" g="w25809" t="punc" cr="punc:w25809" w=")" l="~" p="U"/>
+     <dpg d="E0" g="w25809" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w25809" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w25811" g="E0" t="i" cr="rel:w25809" w="binding" l="bind" p="V"/>
+     <dpg d="E6" g="w25811" t="subj" cr="" w="" l="PIP2" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="PIP2" p="N"/>
+     <dpg d="w25812" g="w25811" t="obj" cr="obj:w25811||obj:w25813" w="sites" l="site" p="N"/>
+     <dpg d="w25813" g="w25812" t="vrel" cr="vrel:w25812" w="found" l="find" p="V"/>
+     <dpg d="E7" g="w25813" t="obj" cr="" w="" l="site" p="N"/>
+     <dpg d="E7" g="w25812" t="antecedent" cr="" w="" l="site" p="N"/>
+     <dpg d="w25814" g="w25813" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w25815" g="w25814" t="pcomp-n" cr="mod*in*n:w25813" w="members" l="member" p="N"/>
+     <dpg d="w25816" g="w25815" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25817" g="w25819" t="det" cr="det:w25819" w="the" l="~" p="Det"/>
+     <dpg d="w25818" g="w25819" t="nn" cr="nn:w25819" w="cofilin" l="~" p="N"/>
+     <dpg d="w25819" g="w25816" t="pcomp-n" cr="mod*of*n:w25815" w="family" l="~" p="N"/>
+     <dpg d="w25820" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

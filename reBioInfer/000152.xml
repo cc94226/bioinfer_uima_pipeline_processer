@@ -1,0 +1,46 @@
+<rexml>
+<doc id="152">
+  <text>
+<p><s id="s1"><w id="w2489">RAD51</w> <w id="w2490">,</w> <w id="w2491">RAD52</w> <w id="w2492">,</w> <w id="w2493">and</w> <w id="w2494">RAD54</w> <w id="w2495">encode</w> <w id="w2496">proteins</w> <w id="w2497">that</w> <w id="w2498">are</w> <w id="w2499">critical</w> <w id="w2500">to</w> <w id="w2501">the</w> <w id="w2502">repair</w> <w id="w2503">of</w> <w id="w2504">double-strand</w> <w id="w2505">DNA</w> <w id="w2506">breaks</w> <w id="w2507">by</w> <w id="w2508">homologous</w> <w id="w2509">recombination</w> <w id="w2510">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e594" gid="g573" t="Gene/protein/RNA" fr="w2489" to="w2489" nam="yes">
+     <textspan type="extent">RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.152.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e595" gid="g574" t="Gene/protein/RNA" fr="w2494" to="w2494" nam="yes">
+     <textspan type="extent">RAD54</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.152.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e596" gid="g575" t="Gene/protein/RNA" fr="w2491" to="w2491" nam="yes">
+     <textspan type="extent">RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.152.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,72 @@
+<rexml>
+<doc id="428">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E7" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6175" g="w6178" t="s" cr="s+subj:w6178||s+subj:w6192" w="Elevation" l="~" p="N"/>
+     <dpg d="w6176" g="w6175" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6177" g="w6176" t="pcomp-n" cr="mod*of*n:w6175" w="cAMP" l="~" p="N"/>
+     <dpg d="w6178" g="E1" t="i" cr="UNSPECRELTYPE:E7" w="induced" l="induce" p="V"/>
+     <dpg d="E8" g="w6178" t="subj" cr="" w="" l="elevation" p="N"/>
+     <dpg d="E8" g="w6175" t="antecedent" cr="" w="" l="elevation" p="N"/>
+     <dpg d="w6179" g="w6180" t="mod" cr="mod:w6180" w="morphologic" l="~" p="A"/>
+     <dpg d="w6180" g="w6178" t="obj" cr="obj:w6178" w="alterations" l="alteration" p="N"/>
+     <dpg d="w6181" g="w6180" t="pnmod" cr="pnmod:w6180" w="indicative" l="~" p="A"/>
+     <dpg d="w6182" g="w6181" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6183" g="w6182" t="pcomp-n" cr="mod*of*n:w6181" w="changes" l="change" p="N"/>
+     <dpg d="w6184" g="w6183" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w6185" g="w6187" t="det" cr="det:w6187" w="the" l="~" p="Det"/>
+     <dpg d="w6186" g="w6187" t="mod" cr="mod:w6187" w="adhesive" l="~" p="A"/>
+     <dpg d="w6187" g="w6184" t="pcomp-n" cr="mod*in*n:w6183" w="status" l="~" p="N"/>
+     <dpg d="w6188" g="w6187" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6189" g="w6190" t="det" cr="det:w6190" w="the" l="~" p="Det"/>
+     <dpg d="w6190" g="w6188" t="pcomp-n" cr="mod*of*n:w6187" w="macrophage" l="~" p="N"/>
+     <dpg d="w6191" g="w6178" t="punc" cr="punc:w6178" w="," l="~" p="U"/>
+     <dpg d="E0" g="w6178" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w6175" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6192" g="E0" t="i" cr="mod:w6178" w="including" l="include" p="V"/>
+     <dpg d="E9" g="w6192" t="subj" cr="" w="" l="elevation" p="N"/>
+     <dpg d="E9" g="E5" t="antecedent" cr="" w="" l="elevation" p="N"/>
+     <dpg d="w6193" g="w6192" t="obj" cr="obj:w6192" w="cell" l="~" p="N"/>
+     <dpg d="w6194" g="E7" t="punc" cr="punc:E7" w="rounding" l="~" p="U"/>
+     <dpg d="w6195" g="E7" t="punc" cr="punc:E7" w="and" l="~" p="U"/>
+     <dpg d="w6196" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="disassembly" l="~" p="N"/>
+     <dpg d="w6197" g="w6196" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6198" g="w6197" t="pcomp-n" cr="mod*of*n:w6196||subj:w6200" w="structures" l="structure" p="N"/>
+     <dpg d="E3" g="w6198" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6199" g="E3" t="whn" cr="whn:w6200" w="that" l="~" p="THAT"/>
+     <dpg d="w6199" g="w6198" t="antecedent" cr="antecedent:w6198" w="that" l="~" p="THAT"/>
+     <dpg d="w6200" g="E3" t="i" cr="rel:w6198" w="represent" l="~" p="V"/>
+     <dpg d="E10" g="w6200" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E10" g="w6198" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w6201" g="w6200" t="obj" cr="obj:w6200" w="points" l="point" p="N"/>
+     <dpg d="w6202" g="w6201" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6203" g="w6202" t="pcomp-n" cr="mod*of*n:w6201" w="contact" l="~" p="N"/>
+     <dpg d="w6204" g="w6203" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w6205" g="w6204" t="pcomp-n" cr="mod*with*n:w6203||s+subj:w6206" w="substrate" l="~" p="N"/>
+     <dpg d="E2" g="w6205" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w6205" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6206" g="E2" t="i" cr="rel:w6205" w="containing" l="contain" p="V"/>
+     <dpg d="E11" g="w6206" t="subj" cr="" w="" l="substrate" p="N"/>
+     <dpg d="E11" g="E4" t="antecedent" cr="" w="" l="substrate" p="N"/>
+     <dpg d="w6207" g="w6206" t="obj" cr="obj:w6206" w="actin" l="~" p="N"/>
+     <dpg d="w6208" g="w6207" t="punc" cr="punc:w6207" w="and" l="~" p="U"/>
+     <dpg d="w6209" g="w6207" t="conj" cr="conj:w6207" w="talin" l="~" p="N"/>
+     <dpg d="w6210" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

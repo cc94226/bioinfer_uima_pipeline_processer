@@ -1,0 +1,46 @@
+<rexml>
+<doc id="1894">
+  <text>
+<p><s id="s1"><w id="w30329">To</w> <w id="w30330">check</w> <w id="w30331">its</w> <w id="w30332">applicability</w> <w id="w30333">,</w> <w id="w30334">well</w> <w id="w30335">characterized</w> <w id="w30336">,</w> <w id="w30337">commercially</w> <w id="w30338">available</w> <w id="w30339">antibodies</w> <w id="w30340">(</w> <w id="w30341">against</w> <w id="w30342">E-cadherin</w> <w id="w30343">,</w> <w id="w30344">alpha-catenin</w> <w id="w30345">,</w> <w id="w30346">and</w> <w id="w30347">beta-catenin</w> <w id="w30348">)</w> <w id="w30349">were</w> <w id="w30350">used</w> <w id="w30351">on</w> <w id="w30352">sections</w> <w id="w30353">of</w> <w id="w30354">human</w> <w id="w30355">small</w> <w id="w30356">intestine</w> <w id="w30357">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7015" gid="g6697" t="Gene/protein/RNA" fr="w30342" to="w30342" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1894.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7016" gid="g6698" t="Gene/protein/RNA" fr="w30347" to="w30347" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1894.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7017" gid="g6699" t="Gene/protein/RNA" fr="w30344" to="w30344" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1894.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

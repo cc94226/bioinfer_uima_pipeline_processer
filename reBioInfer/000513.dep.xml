@@ -1,0 +1,54 @@
+<rexml>
+<doc id="513">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7070" g="w7075" t="nn" cr="nn:w7075" w="Four" l="~" p="N"/>
+     <dpg d="w7071" g="w7075" t="nn" cr="nn:w7075" w="yeast" l="~" p="N"/>
+     <dpg d="w7072" g="w7075" t="mod" cr="mod:w7075" w="spliceosomal" l="~" p="A"/>
+     <dpg d="w7073" g="w7075" t="nn" cr="nn:w7075" w="proteins" l="protein" p="N"/>
+     <dpg d="w7074" g="w7075" t="punc" cr="punc:w7075" w="(" l="~" p="U"/>
+     <dpg d="w7075" g="w7084" t="s" cr="s+subj:w7084||s+subj:w7086" w="PRP5" l="~" p="N"/>
+     <dpg d="w7076" g="w7075" t="punc" cr="punc:w7075" w="," l="~" p="U"/>
+     <dpg d="w7077" g="w7075" t="conj" cr="conj:w7075" w="PRP9" l="~" p="N"/>
+     <dpg d="w7078" g="w7077" t="punc" cr="punc:w7077" w="," l="~" p="U"/>
+     <dpg d="w7079" g="w7077" t="conj" cr="conj:w7077" w="PRP11" l="~" p="N"/>
+     <dpg d="w7080" g="w7079" t="punc" cr="punc:w7079" w="," l="~" p="U"/>
+     <dpg d="w7081" g="w7079" t="punc" cr="punc:w7079" w="and" l="~" p="U"/>
+     <dpg d="w7082" g="w7079" t="conj" cr="conj:w7079" w="PRP21" l="~" p="N"/>
+     <dpg d="w7083" g="w7084" t="punc" cr="punc:w7084" w=")" l="~" p="U"/>
+     <dpg d="w7084" g="E2" t="i" cr="" w="interact" l="~" p="V"/>
+     <dpg d="E6" g="w7084" t="subj" cr="" w="" l="PRP5" p="N"/>
+     <dpg d="E6" g="w7075" t="antecedent" cr="" w="" l="PRP5" p="N"/>
+     <dpg d="E1" g="w7084" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w7075" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w7085" g="w7086" t="aux" cr="aux:w7086" w="to" l="~" p="Aux"/>
+     <dpg d="w7086" g="E1" t="i" cr="mod:w7084" w="promote" l="~" p="V"/>
+     <dpg d="E7" g="w7086" t="subj" cr="" w="" l="PRP5" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="PRP5" p="N"/>
+     <dpg d="w7087" g="w7088" t="nn" cr="nn:w7088" w="U2" l="~" p="N"/>
+     <dpg d="w7088" g="w7086" t="obj" cr="obj:w7086||s+subj:w7089" w="snRNP" l="~" p="N"/>
+     <dpg d="E0" g="w7088" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w7088" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w7089" g="E0" t="i" cr="rel:w7088" w="binding" l="bind" p="V"/>
+     <dpg d="E8" g="w7089" t="subj" cr="" w="" l="snRNP" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="snRNP" p="N"/>
+     <dpg d="w7090" g="w7089" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w7091" g="w7090" t="pcomp-n" cr="mod*to*n:w7089" w="pre-mRNA" l="pre-mRNA" p="N"/>
+     <dpg d="w7092" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

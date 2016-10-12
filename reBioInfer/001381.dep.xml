@@ -1,0 +1,84 @@
+<rexml>
+<doc id="1381">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E7" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w21503" g="w21506" t="det" cr="det:w21506" w="The" l="~" p="Det"/>
+     <dpg d="w21504" g="w21505" t="lex-mod" cr="lex-mod:w21505" w="Arp" l="~" p="U"/>
+     <dpg d="w21505" g="w21506" t="nn" cr="nn:w21506" w="2" l="Arp 2" p="N"/>
+     <dpg d="w21506" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="/" l="~" p="N"/>
+     <dpg d="w21507" g="w21508" t="num" cr="num:w21508" w="3" l="~" p="N"/>
+     <dpg d="w21508" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="complex" l="~" p="N"/>
+     <dpg d="w21509" g="w21508" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w21510" g="w21511" t="mod" cr="mod:w21511" w="full-length" l="full-length" p="A"/>
+     <dpg d="w21511" g="w21509" t="pcomp-n" cr="mod*with*n:w21508" w="Scar" l="~" p="N"/>
+     <dpg d="w21512" g="w21511" t="punc" cr="punc:w21511" w="," l="~" p="U"/>
+     <dpg d="w21513" g="w21511" t="appo" cr="appo:w21511||s+subj:w21514" w="Scar" l="~" p="N"/>
+     <dpg d="E2" g="w21513" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w21513" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w21514" g="E2" t="i" cr="rel:w21513" w="containing" l="contain" p="V"/>
+     <dpg d="E8" g="w21514" t="subj" cr="" w="" l="scar" p="N"/>
+     <dpg d="E8" g="E5" t="antecedent" cr="" w="" l="scar" p="N"/>
+     <dpg d="w21515" g="w21514" t="obj" cr="obj:w21514" w="P" l="~" p="N"/>
+     <dpg d="w21516" g="w21515" t="punc" cr="punc:w21515" w="," l="~" p="U"/>
+     <dpg d="w21517" g="w21515" t="appo" cr="appo:w21515" w="W" l="~" p="N"/>
+     <dpg d="w21518" g="E7" t="punc" cr="punc:E7" w="," l="~" p="U"/>
+     <dpg d="w21519" g="E7" t="punc" cr="punc:E7" w="and" l="~" p="U"/>
+     <dpg d="w21520" g="E7" t="punc" cr="punc:E7" w="A" l="~" p="U"/>
+     <dpg d="w21521" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="domains" l="domain" p="N"/>
+     <dpg d="w21522" g="w21521" t="punc" cr="punc:w21521" w="," l="~" p="U"/>
+     <dpg d="w21523" g="w21521" t="punc" cr="punc:w21521" w="or" l="~" p="U"/>
+     <dpg d="w21524" g="w21521" t="conj" cr="conj:w21521||s+subj:w21525" w="Scar" l="~" p="N"/>
+     <dpg d="E1" g="w21524" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w21524" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w21525" g="E1" t="i" cr="rel:w21524" w="containing" l="contain" p="V"/>
+     <dpg d="E9" g="w21525" t="subj" cr="" w="" l="scar" p="N"/>
+     <dpg d="E9" g="E4" t="antecedent" cr="" w="" l="scar" p="N"/>
+     <dpg d="w21526" g="w21525" t="obj" cr="obj:w21525" w="W" l="~" p="N"/>
+     <dpg d="w21527" g="E7" t="punc" cr="punc:E7" w="and" l="~" p="U"/>
+     <dpg d="w21528" g="E7" t="punc" cr="punc:E7" w="A" l="~" p="U"/>
+     <dpg d="w21529" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="domains" l="domain" p="N"/>
+     <dpg d="w21530" g="E7" t="punc" cr="punc:E7" w="overcomes" l="~" p="U"/>
+     <dpg d="w21531" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="inhibition" l="~" p="N"/>
+     <dpg d="w21532" g="w21531" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21533" g="w21532" t="pcomp-n" cr="mod*of*n:w21531" w="nucleation" l="~" p="N"/>
+     <dpg d="w21534" g="w21533" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w21535" g="w21541" t="det" cr="det:w21541" w="the" l="~" p="Det"/>
+     <dpg d="w21536" g="w21541" t="nn" cr="nn:w21541" w="actin" l="~" p="N"/>
+     <dpg d="w21537" g="w21539" t="lex-mod" cr="lex-mod:w21539" w="monomer" l="~" p="U"/>
+     <dpg d="w21538" g="w21539" t="lex-mod" cr="lex-mod:w21539" w="-" l="~" p="U"/>
+     <dpg d="w21539" g="w21541" t="mod" cr="mod:w21541" w="binding" l="monomer - binding" p="A"/>
+     <dpg d="w21540" g="w21541" t="nn" cr="nn:w21541" w="protein" l="~" p="N"/>
+     <dpg d="w21541" g="w21534" t="pcomp-n" cr="mod*by*n:w21533" w="profilin" l="~" p="N"/>
+     <dpg d="w21542" g="E7" t="punc" cr="punc:E7" w="," l="~" p="U"/>
+     <dpg d="E0" g="E7" t="UNSPECRELTYPE" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="s+subj:w21543" w="" l="~" p="N"/>
+     <dpg d="w21543" g="E0" t="i" cr="UNSPECRELTYPE:E7" w="giving" l="give" p="V"/>
+     <dpg d="E10" g="w21543" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E10" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w21544" g="w21545" t="mod" cr="mod:w21545" w="active" l="~" p="A"/>
+     <dpg d="w21545" g="w21543" t="obj" cr="obj:w21543" w="nucleation" l="~" p="N"/>
+     <dpg d="w21546" g="w21545" t="mod" cr="" w="over" l="~" p="Prep"/>
+     <dpg d="w21547" g="w21549" t="det" cr="det:w21549" w="a" l="~" p="Det"/>
+     <dpg d="w21548" g="w21549" t="mod" cr="mod:w21549" w="low" l="~" p="A"/>
+     <dpg d="w21549" g="w21546" t="pcomp-n" cr="mod*over*n:w21545" w="background" l="~" p="N"/>
+     <dpg d="w21550" g="w21549" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21551" g="w21552" t="mod" cr="mod:w21552" w="spontaneous" l="~" p="A"/>
+     <dpg d="w21552" g="w21550" t="pcomp-n" cr="mod*of*n:w21549" w="nucleation" l="~" p="N"/>
+     <dpg d="w21553" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

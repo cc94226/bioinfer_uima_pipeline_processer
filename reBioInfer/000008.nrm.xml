@@ -1,0 +1,266 @@
+<rexml>
+<doc id="8">
+  
+  <markup>
+   <nes>
+    <ne id="e41" gid="g41" t="Amount_property" fr="w93" to="w112" sid="s1">
+     <textspan>Abundance of [..] alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.8.16"/>
+      <exattr n="nst" v="st.8.0.0"/>
+      <exattr n="nst" v="st.8.1.0"/>
+      <exattr n="nst" v="st.8.19.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e39" gid="g39" t="Amount_property" fr="w93" to="w106" sid="s1">
+     <textspan>Abundance of [..] pp125</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.8.14"/>
+      <exattr n="nst" v="st.8.0.0"/>
+      <exattr n="nst" v="st.8.1.0"/>
+      <exattr n="nst" v="st.8.13.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e37" gid="g37" t="Amount_property" fr="w93" to="w104" sid="s1">
+     <textspan>Abundance of [..] alpha 5 [..] integrins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.8.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e40" gid="g40" t="Amount_property" fr="w93" to="w104" sid="s1">
+     <textspan>Abundance of [..] beta 1 integrins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.8.15"/>
+     </exattrs>
+    </ne>
+    <ne id="e38" gid="g38" t="Amount_property" fr="w93" to="w97" sid="s1">
+     <textspan>Abundance of [..] talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.8.13"/>
+      <exattr n="nst" v="st.8.0.0"/>
+      <exattr n="nst" v="st.8.1.0"/>
+      <exattr n="nst" v="st.8.4.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e35" gid="g35" t="Amount_property" fr="w93" to="w95" sid="s1">
+     <textspan>Abundance of actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.8.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e28" gid="g28" t="Individual_protein" fr="w95" to="w95" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.8.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e30" gid="g30" t="Individual_protein" fr="w97" to="w97" nam="yes" sid="s1">
+     <textspan>talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.8.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e29" gid="g29" t="Individual_protein" fr="w99" to="w104" nam="yes" sid="s1">
+     <textspan>alpha 5 [..] integrins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.8.4"/>
+      <exattr n="nst" v="st.8.6.0"/>
+      <exattr n="nst" v="st.8.7.0"/>
+      <exattr n="nst" v="st.8.11.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e32" gid="g32" t="Individual_protein" fr="w102" to="w104" nam="yes" sid="s1">
+     <textspan>beta 1 integrins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.8.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e31" gid="g31" t="Individual_protein" fr="w106" to="w106" nam="yes" sid="s1">
+     <textspan>pp125</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.8.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e36" gid="g36" t="Individual_protein" fr="w107" to="w109" nam="yes" sid="s1">
+     <textspan>focal adhesion kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.8.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e34" gid="g34" t="Individual_protein" fr="w112" to="w112" nam="yes" sid="s1">
+     <textspan>alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.8.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e33" gid="g33" t="Expression" fr="w119" to="w120" sid="s1">
+     <textspan>calreticulin expression</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.8.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e27" gid="g27" t="Individual_protein" fr="w119" to="w119" nam="yes" sid="s1">
+     <textspan>calreticulin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.8.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r11" t="MEMBER" e1="e36" e2="e31" re="">
+     <textspan>pp125 focal adhesion kinase</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r13" t="AFFECT" e1="e33" e2="e35" re="e25">
+     <textspan>Abundance of actin , talin , alpha 5 and beta 1 integrins , pp125 focal adhesion kinase , and alpha-catenin is not affected by the differential calreticulin expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.8.0"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r15" t="AFFECT" e1="e33" e2="e38" re="e25">
+     <textspan>Abundance of actin , talin , alpha 5 and beta 1 integrins , pp125 focal adhesion kinase , and alpha-catenin is not affected by the differential calreticulin expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.8.0"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r17" t="AFFECT" e1="e33" e2="e37" re="e25">
+     <textspan>Abundance of actin , talin , alpha 5 and beta 1 integrins , pp125 focal adhesion kinase , and alpha-catenin is not affected by the differential calreticulin expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.8.0"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r19" t="AFFECT" e1="e33" e2="e40" re="e25">
+     <textspan>Abundance of actin , talin , alpha 5 and beta 1 integrins , pp125 focal adhesion kinase , and alpha-catenin is not affected by the differential calreticulin expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.8.0"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r21" t="AFFECT" e1="e33" e2="e39" re="e25">
+     <textspan>Abundance of actin , talin , alpha 5 and beta 1 integrins , pp125 focal adhesion kinase , and alpha-catenin is not affected by the differential calreticulin expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.8.0"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r23" t="AFFECT" e1="e33" e2="e41" re="e25">
+     <textspan>Abundance of actin , talin , alpha 5 and beta 1 integrins , pp125 focal adhesion kinase , and alpha-catenin is not affected by the differential calreticulin expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.8.0"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

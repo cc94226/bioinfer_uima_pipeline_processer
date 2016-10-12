@@ -1,0 +1,249 @@
+<rexml>
+<doc id="779">
+  <text>
+<p><s id="s1"><w id="w12159">In</w> <w id="w12160">investigating</w> <w id="w12161">the</w> <w id="w12162">mechanism</w> <w id="w12163">by</w> <w id="w12164">which</w> <w id="w12165">pRb</w> <w id="w12166">induces</w> <w id="w12167">senescence</w> <w id="w12168">,</w> <w id="w12169">we</w> <w id="w12170">have</w> <w id="w12171">found</w> <w id="w12172">that</w> <w id="w12173">pRb</w> <w id="w12174">causes</w> <w id="w12175">a</w> <w id="w12176">posttranscriptional</w> <w id="w12177">accumulation</w> <w id="w12178">of</w> <w id="w12179">the</w> <w id="w12180">cyclin-dependent</w> <w id="w12181">kinase</w> <w id="w12182">inhibitor</w> <w id="w12183">p27</w><w id="w12184">(</w><w id="w12185">KIP1</w><w id="w12186">)</w> <w id="w12187">that</w> <w id="w12188">is</w> <w id="w12189">accompanied</w> <w id="w12190">by</w> <w id="w12191">an</w> <w id="w12192">increase</w> <w id="w12193">in</w> <w id="w12194">p27</w><w id="w12195">(</w><w id="w12196">KIP1</w><w id="w12197">)</w> <w id="w12198">specifically</w> <w id="w12199">bound</w> <w id="w12200">to</w> <w id="w12201">cyclin</w> <w id="w12202">E</w> <w id="w12203">and</w> <w id="w12204">a</w> <w id="w12205">concomitant</w> <w id="w12206">decrease</w> <w id="w12207">in</w> <w id="w12208">cyclin</w> <w id="w12209">E-associated</w> <w id="w12210">kinase</w> <w id="w12211">activity</w> <w id="w12212">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2822" gid="g2705" t="Gene/protein/RNA" fr="w12165" to="w12165" nam="yes">
+     <textspan type="extent">pRb</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.779.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2823" gid="g2706" t="RELATIONSHIP_TEXTBINDING" fr="w12174" to="w12174">
+     <textspan type="extent">causes</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.779.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2824" gid="g2707" t="Individual_protein" fr="w12183" to="w12183" nam="yes">
+     <textspan type="extent">p27</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.779.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2825" gid="g2708" t="Individual_protein" fr="w12173" to="w12173" nam="yes">
+     <textspan type="extent">pRb</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.779.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2826" gid="g2709" t="Individual_protein" fr="w12201" to="w12202" nam="yes">
+     <textspan type="extent">cyclin E</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.779.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2827" gid="g2710" t="RELATIONSHIP_TEXTBINDING" fr="w12189" to="w12190">
+     <textspan type="extent">accompanied by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.779.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2828" gid="g2707" t="Individual_protein" fr="w12185" to="w12185" nam="yes">
+     <textspan type="extent">KIP1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.779.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2829" gid="g2711" t="DECREASE" fr="w12206" to="w12211">
+     <textspan type="extent">decrease in cyclin E-associated kinase activity</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="DECREASE"/>
+      <exattr n="bd" v="e.779.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2830" gid="g2712" t="Protein_family_or_group" fr="w12180" to="w12182" nam="yes">
+     <textspan type="extent">cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.779.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e2831" gid="g2713" t="Individual_protein" fr="w12196" to="w12196" nam="yes">
+     <textspan type="extent">KIP1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.779.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e2832" gid="g2714" t="INCREASE" fr="w12192" to="w12194">
+     <textspan type="extent">increase in p27</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="INCREASE"/>
+      <exattr n="bd" v="e.779.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e2833" gid="g2715" t="INCREASE" fr="w12177" to="w12183">
+     <textspan type="extent">accumulation of [..] p27</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="INCREASE"/>
+      <exattr n="bd" v="e.779.11"/>
+      <exattr n="nst" v="st.779.18.0"/>
+      <exattr n="nst" v="st.779.19.0"/>
+      <exattr n="nst" v="st.779.24.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2834" gid="g2716" t="RELATIONSHIP_TEXTBINDING" fr="w12205" to="w12205">
+     <textspan type="extent">concomitant</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.779.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e2835" gid="g2717" t="Dynamics_property" fr="w12208" to="w12211">
+     <textspan type="extent">cyclin E-associated kinase activity</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.779.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e2836" gid="g2718" t="RELATIONSHIP_TEXTBINDING" fr="w12199" to="w12200">
+     <textspan type="extent">bound to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.779.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e2837" gid="g2719" t="Individual_protein" fr="w12208" to="w12210" nam="yes">
+     <textspan type="extent">cyclin E-associated kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.779.15"/>
+     </exattrs>
+    </ne>
+    <ne id="e2838" gid="g2713" t="Individual_protein" fr="w12194" to="w12194" nam="yes">
+     <textspan type="extent">p27</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.779.16"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1075" t="MEMBER" e1="e2830" e2="e2824" re="">
+     <textspan type="extent">cyclin-dependent kinase inhibitor p27</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1076" t="CAUSE" e1="e2825" e2="e2833" re="e2823">
+     <textspan type="extent">pRb causes a posttranscriptional accumulation of the cyclin-dependent kinase inhibitor p27</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.779.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1077" t="BIND" e1="e2838" e2="e2826" re="e2836">
+     <textspan type="extent">p27 ( KIP1 ) specifically bound to cyclin E</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.779.14"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1078" t="COOCCUR" e1="e2833" e2="e2832" re="e2827">
+     <textspan type="extent">accumulation of the cyclin-dependent kinase inhibitor p27 ( KIP1 ) that is accompanied by an increase in p27</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.779.5"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Temporal"/>
+      <exattr n="t3" v="COOCCUR"/>
+     </exattrs>
+    </rel>
+    <rel id="r1079" t="COOCCUR" e1="e2833" e2="e2829" re="e2827">
+     <textspan type="extent">accumulation of the cyclin-dependent kinase inhibitor p27 ( KIP1 ) that is accompanied by an increase in p27 ( KIP1 ) specifically bound to cyclin E and a concomitant decrease in cyclin E-associated kinase activity</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.779.5"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Temporal"/>
+      <exattr n="t3" v="COOCCUR"/>
+     </exattrs>
+    </rel>
+    <rel id="r1080" t="COOCCUR" e1="e2832" e2="e2829" re="e2834">
+     <textspan type="extent">increase in p27 ( KIP1 ) specifically bound to cyclin E and a concomitant decrease in cyclin E-associated kinase activity</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.779.12"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Temporal"/>
+      <exattr n="t3" v="COOCCUR"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

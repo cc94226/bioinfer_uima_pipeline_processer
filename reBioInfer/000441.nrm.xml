@@ -1,0 +1,97 @@
+<rexml>
+<doc id="441">
+  
+  <markup>
+   <nes>
+    <ne id="e1536" gid="g1467" t="Mutant" fr="w6307" to="w6308" nam="yes" sid="s1">
+     <textspan>Munc18-2 mutants</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.441.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1543" gid="g1474" t="Individual_protein" fr="w6307" to="w6307" nam="yes" sid="s1">
+     <textspan>Munc18-2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.441.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1544" gid="g1475" t="Individual_protein" fr="w6314" to="w6315" nam="yes" sid="s1">
+     <textspan>syntaxin 3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.441.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e1547" gid="g1478" t="Individual_protein" fr="w6326" to="w6326" nam="yes" sid="s1">
+     <textspan>syntaxin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.441.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e1540" gid="g1471" t="Individual_protein" fr="w6334" to="w6335" nam="yes" sid="s1">
+     <textspan>Sec1 protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.441.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1545" gid="g1476" t="Individual_protein" fr="w6334" to="w6334" nam="yes" sid="s1">
+     <textspan>Sec1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.441.9"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r607" t="BIND" e1="e1536" e2="e1544" re="e1537">
+     <textspan>Munc18-2 mutants that do not detectably bind syntaxin 3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.441.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,94 @@
+<rexml>
+<doc id="196">
+  <text>
+<p><s id="s1"><w id="w3008">A</w> <w id="w3009">truncated</w> <w id="w3010">beta-catenin</w> <w id="w3011">disrupts</w> <w id="w3012">the</w> <w id="w3013">interaction</w> <w id="w3014">between</w> <w id="w3015">E-cadherin</w> <w id="w3016">and</w> <w id="w3017">alpha-catenin</w> <w id="w3018">:</w> <w id="w3019">a</w> <w id="w3020">cause</w> <w id="w3021">of</w> <w id="w3022">loss</w> <w id="w3023">of</w> <w id="w3024">intercellular</w> <w id="w3025">adhesiveness</w> <w id="w3026">in</w> <w id="w3027">human</w> <w id="w3028">cancer</w> <w id="w3029">cell</w> <w id="w3030">lines</w> <w id="w3031">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e732" gid="g706" t="Mutant" fr="w3009" to="w3010" nam="yes">
+     <textspan type="extent">truncated beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.196.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e733" gid="g707" t="RELATIONSHIP_TEXTBINDING" fr="w3013" to="w3014">
+     <textspan type="extent">interaction between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.196.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e734" gid="g708" t="Individual_protein" fr="w3017" to="w3017" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.196.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e735" gid="g709" t="Individual_protein" fr="w3015" to="w3015" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.196.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e736" gid="g710" t="Individual_protein" fr="w3010" to="w3010" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.196.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e737" gid="g711" t="RELATIONSHIP_TEXTBINDING" fr="w3011" to="w3011">
+     <textspan type="extent">disrupts</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.196.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r272" t="HALT" e1="e732" e2="e733" re="e737">
+     <textspan type="extent">truncated beta-catenin disrupts the interaction between E-cadherin and alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.196.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Full-Stop"/>
+      <exattr n="t5" v="HALT"/>
+     </exattrs>
+    </rel>
+    <rel id="r273" t="INTERACT" e1="e735" e2="e734" re="e733">
+     <textspan type="extent">interaction between E-cadherin and alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.196.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

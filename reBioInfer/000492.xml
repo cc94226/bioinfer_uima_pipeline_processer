@@ -1,0 +1,324 @@
+<rexml>
+<doc id="492">
+  <text>
+<p><s id="s1"><w id="w6865">Finally</w> <w id="w6866">,</w> <w id="w6867">we</w> <w id="w6868">used</w> <w id="w6869">in</w> <w id="w6870">vitro</w> <w id="w6871">translated</w> <w id="w6872">proteins</w> <w id="w6873">in</w> <w id="w6874">an</w> <w id="w6875">immunoprecipitation</w> <w id="w6876">assay</w> <w id="w6877">to</w> <w id="w6878">show</w> <w id="w6879">that</w> <w id="w6880">,</w> <w id="w6881">like</w> <w id="w6882">beta</w> <w id="w6883">1-syntrophin</w> <w id="w6884">,</w> <w id="w6885">both</w> <w id="w6886">beta</w> <w id="w6887">2-</w> <w id="w6888">and</w> <w id="w6889">alpha</w> <w id="w6890">1-</w><w id="w6891">syntrophin</w> <w id="w6892">interact</w> <w id="w6893">with</w> <w id="w6894">peptides</w> <w id="w6895">encoding</w> <w id="w6896">the</w> <w id="w6897">syntrophin</w><w id="w6898">-</w><w id="w6899">binding</w> <w id="w6900">region</w> <w id="w6901">of</w> <w id="w6902">dystrophin</w> <w id="w6903">,</w> <w id="w6904">utrophin</w><w id="w6905">/</w><w id="w6906">dystrophin</w> <w id="w6907">related</w> <w id="w6908">protein</w> <w id="w6909">,</w> <w id="w6910">and</w> <w id="w6911">the</w> <w id="w6912">Torpedo</w> <w id="w6913">87K</w> <w id="w6914">protein</w> <w id="w6915">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1650" gid="g1580" t="Individual_protein" fr="w6882" to="w6883" nam="yes">
+     <textspan type="extent">beta 1-syntrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.492.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1651" gid="g1581" t="RELATIONSHIP_TEXTBINDING" fr="w6899" to="w6899">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.492.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1652" gid="g1582" t="Individual_protein" fr="w6889" to="w6891" nam="yes">
+     <textspan type="extent">alpha 1-syntrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.492.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1653" gid="g1583" t="RELATIONSHIP_TEXTBINDING" fr="w6881" to="w6893">
+     <textspan type="extent">like [..] interact with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.492.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1654" gid="g1584" t="Substructure_of_protein" fr="w6900" to="w6902" nam="yes">
+     <textspan type="extent">region of dystrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.492.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1655" gid="g1585" t="Individual_protein" fr="w6897" to="w6897" nam="yes">
+     <textspan type="extent">syntrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.492.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1656" gid="g1586" t="Individual_protein" fr="w6912" to="w6914" nam="yes">
+     <textspan type="extent">Torpedo 87K protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.492.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1657" gid="g1587" t="Individual_protein" fr="w6904" to="w6904" nam="yes">
+     <textspan type="extent">utrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.492.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1658" gid="g1588" t="Peptide" fr="w6894" to="w6904" nam="yes">
+     <textspan type="extent">peptides encoding [..] utrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Peptide"/>
+      <exattr n="bd" v="e.492.8"/>
+      <exattr n="nst" v="st.492.28.0"/>
+      <exattr n="nst" v="st.492.29.0"/>
+      <exattr n="nst" v="st.492.36.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1659" gid="g1589" t="Peptide" fr="w6894" to="w6902" nam="yes">
+     <textspan type="extent">peptides encoding [..] region of dystrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Peptide"/>
+      <exattr n="bd" v="e.492.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e1660" gid="g1587" t="Individual_protein" fr="w6906" to="w6908" nam="yes">
+     <textspan type="extent">dystrophin related protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.492.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e1661" gid="g1590" t="Peptide" fr="w6894" to="w6914" nam="yes">
+     <textspan type="extent">peptides encoding [..] Torpedo 87K protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Peptide"/>
+      <exattr n="bd" v="e.492.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e1662" gid="g1591" t="RELATIONSHIP_TEXTBINDING" fr="w6892" to="w6893">
+     <textspan type="extent">interact with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.492.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e1663" gid="g1592" t="Individual_protein" fr="w6913" to="w6913" nam="yes">
+     <textspan type="extent">87K</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.492.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e1664" gid="g1593" t="Individual_protein" fr="w6886" to="w6891" nam="yes">
+     <textspan type="extent">beta 2- [..] syntrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.492.14"/>
+      <exattr n="nst" v="st.492.21.0"/>
+      <exattr n="nst" v="st.492.22.0"/>
+      <exattr n="nst" v="st.492.25.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1665" gid="g1594" t="Individual_protein" fr="w6902" to="w6902" nam="yes">
+     <textspan type="extent">dystrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.492.15"/>
+     </exattrs>
+    </ne>
+    <ne id="e1666" gid="g1595" t="Individual_protein" fr="w6913" to="w6913" nam="yes">
+     <textspan type="extent">87K</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.492.16"/>
+     </exattrs>
+    </ne>
+    <ne id="e1667" gid="g1596" t="Individual_protein" fr="w6902" to="w6902" nam="yes">
+     <textspan type="extent">dystrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.492.17"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r651" t="BIND" e1="e1654" e2="e1655" re="e1651">
+     <textspan type="extent">syntrophin - binding region of dystrophin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.492.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r652" t="INTERACT" e1="e1650" e2="e1659" re="e1653">
+     <textspan type="extent">like beta 1-syntrophin , both beta 2- and alpha 1- syntrophin interact with peptides encoding the syntrophin - binding region of dystrophin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.492.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r653" t="INTERACT" e1="e1650" e2="e1658" re="e1653">
+     <textspan type="extent">like beta 1-syntrophin , both beta 2- and alpha 1- syntrophin interact with peptides encoding the syntrophin - binding region of dystrophin , utrophin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.492.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r654" t="INTERACT" e1="e1650" e2="e1661" re="e1653">
+     <textspan type="extent">like beta 1-syntrophin , both beta 2- and alpha 1- syntrophin interact with peptides encoding the syntrophin - binding region of dystrophin , utrophin / dystrophin related protein , and the Torpedo 87K protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.492.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r655" t="INTERACT" e1="e1664" e2="e1659" re="e1662">
+     <textspan type="extent">beta 2- and alpha 1- syntrophin interact with peptides encoding the syntrophin - binding region of dystrophin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.492.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r656" t="INTERACT" e1="e1664" e2="e1658" re="e1662">
+     <textspan type="extent">beta 2- and alpha 1- syntrophin interact with peptides encoding the syntrophin - binding region of dystrophin , utrophin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.492.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r657" t="INTERACT" e1="e1664" e2="e1661" re="e1662">
+     <textspan type="extent">beta 2- and alpha 1- syntrophin interact with peptides encoding the syntrophin - binding region of dystrophin , utrophin / dystrophin related protein , and the Torpedo 87K protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.492.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r658" t="INTERACT" e1="e1652" e2="e1659" re="e1662">
+     <textspan type="extent">alpha 1- syntrophin interact with peptides encoding the syntrophin - binding region of dystrophin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.492.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r659" t="INTERACT" e1="e1652" e2="e1658" re="e1662">
+     <textspan type="extent">alpha 1- syntrophin interact with peptides encoding the syntrophin - binding region of dystrophin , utrophin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.492.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r660" t="INTERACT" e1="e1652" e2="e1661" re="e1662">
+     <textspan type="extent">alpha 1- syntrophin interact with peptides encoding the syntrophin - binding region of dystrophin , utrophin / dystrophin related protein , and the Torpedo 87K protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.492.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

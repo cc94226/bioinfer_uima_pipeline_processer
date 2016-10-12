@@ -1,0 +1,64 @@
+<rexml>
+<doc id="365">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5479" g="w5481" t="s" cr="s+obj:w5481||s+subj:w5483" w="Data" l="~" p="N"/>
+     <dpg d="w5480" g="w5481" t="be" cr="be:w5481" w="is" l="be" p="be"/>
+     <dpg d="w5481" g="E2" t="i" cr="" w="presented" l="present" p="V"/>
+     <dpg d="E5" g="w5481" t="obj" cr="" w="" l="data" p="N"/>
+     <dpg d="E5" g="w5479" t="antecedent" cr="" w="" l="data" p="N"/>
+     <dpg d="E1" g="w5481" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w5479" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w5482" g="w5483" t="aux" cr="aux:w5483" w="to" l="~" p="Aux"/>
+     <dpg d="w5483" g="E1" t="i" cr="mod:w5481" w="suggest" l="~" p="V"/>
+     <dpg d="E6" g="w5483" t="subj" cr="" w="" l="data" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="data" p="N"/>
+     <dpg d="E0" g="w5483" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5484" g="E0" t="c" cr="c:w5497" w="that" l="~" p="COMP"/>
+     <dpg d="w5485" g="w5488" t="det" cr="det:w5488" w="the" l="~" p="Det"/>
+     <dpg d="w5486" g="w5488" t="nn" cr="nn:w5488" w="G1" l="~" p="N"/>
+     <dpg d="w5487" g="w5488" t="nn" cr="nn:w5488" w="cyclin" l="~" p="N"/>
+     <dpg d="w5488" g="w5497" t="s" cr="s+obj:w5497" w="D1" l="~" p="N"/>
+     <dpg d="w5489" g="w5488" t="punc" cr="punc:w5488" w="and" l="~" p="U"/>
+     <dpg d="w5490" g="w5494" t="det" cr="det:w5494" w="the" l="~" p="Det"/>
+     <dpg d="w5491" g="w5494" t="mod" cr="mod:w5494" w="cyclin-dependent" l="cyclin-dependent" p="A"/>
+     <dpg d="w5492" g="w5494" t="nn" cr="nn:w5494" w="kinase" l="~" p="N"/>
+     <dpg d="w5493" g="w5494" t="nn" cr="nn:w5494" w="inhibitor" l="~" p="N"/>
+     <dpg d="w5494" g="w5488" t="conj" cr="conj:w5488" w="p27KIP1" l="~" p="N"/>
+     <dpg d="w5495" g="w5497" t="aux" cr="aux:w5497" w="may" l="~" p="Aux"/>
+     <dpg d="w5496" g="w5497" t="be" cr="be:w5497" w="be" l="~" p="be"/>
+     <dpg d="w5497" g="E0" t="i" cr="fc:w5483" w="involved" l="involve" p="V"/>
+     <dpg d="E7" g="w5497" t="obj" cr="" w="" l="D1" p="N"/>
+     <dpg d="E7" g="w5488" t="antecedent" cr="" w="" l="D1" p="N"/>
+     <dpg d="w5498" g="w5497" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w5499" g="w5498" t="pcomp-n" cr="mod*in*n:w5497" w="subversion" l="~" p="N"/>
+     <dpg d="w5500" g="w5499" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5501" g="w5503" t="det" cr="det:w5503" w="the" l="~" p="Det"/>
+     <dpg d="w5502" g="w5503" t="nn" cr="nn:w5503" w="G1/S" l="~" p="N"/>
+     <dpg d="w5503" g="w5500" t="pcomp-n" cr="mod*of*n:w5499" w="traverse" l="~" p="N"/>
+     <dpg d="w5504" g="w5503" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w5505" g="w5506" t="nn" cr="nn:w5506" w="signaling" l="~" p="N"/>
+     <dpg d="w5506" g="w5504" t="pcomp-n" cr="mod*by*n:w5503||obj:w5507" w="pathways" l="pathway" p="N"/>
+     <dpg d="w5507" g="w5506" t="vrel" cr="vrel:w5506" w="activated" l="activate" p="V"/>
+     <dpg d="E8" g="w5507" t="obj" cr="" w="" l="pathway" p="N"/>
+     <dpg d="E8" g="w5506" t="antecedent" cr="" w="" l="pathway" p="N"/>
+     <dpg d="w5508" g="w5507" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w5509" g="w5510" t="nn" cr="nn:w5510" w="HER-2" l="HER-2" p="N"/>
+     <dpg d="w5510" g="w5508" t="pcomp-n" cr="by-subj*by*n:w5507" w="function" l="~" p="N"/>
+     <dpg d="w5511" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

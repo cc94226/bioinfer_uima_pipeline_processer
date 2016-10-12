@@ -1,0 +1,68 @@
+<rexml>
+<doc id="2138">
+  
+  <markup>
+   <nes>
+    <ne id="e7607" gid="g7249" t="Individual_protein" fr="w33365" to="w33365" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2138.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7610" gid="g7252" t="Amount_property" fr="w33368" to="w33371" sid="s1">
+     <textspan>concentrations of actin polymers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.2138.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7609" gid="g7251" t="Individual_protein" fr="w33370" to="w33371" nam="yes" sid="s1">
+     <textspan>actin polymers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2138.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7611" gid="g7253" t="Individual_protein" fr="w33370" to="w33370" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2138.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2928" t="AFFECT" e1="e7607" e2="e7610" re="e7608">
+     <textspan>profilin alters cellular concentrations of actin polymers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2138.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,94 @@
+<rexml>
+<doc id="1706">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E7" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E4" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w27171" g="w27172" t="det" cr="det:w27172" w="These" l="~" p="Det"/>
+     <dpg d="w27172" g="w27173" t="s" cr="s+subj:w27173" w="observations" l="observation" p="N"/>
+     <dpg d="w27173" g="E4" t="i" cr="UNSPECRELTYPE:E7" w="demonstrate" l="~" p="V"/>
+     <dpg d="E8" g="w27173" t="subj" cr="" w="" l="observation" p="N"/>
+     <dpg d="E8" g="w27172" t="antecedent" cr="" w="" l="observation" p="N"/>
+     <dpg d="E3" g="w27173" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w27174" g="E3" t="c" cr="c:w27187" w="that" l="~" p="COMP"/>
+     <dpg d="w27175" g="w27176" t="mod" cr="mod:w27176" w="cardiac" l="~" p="A"/>
+     <dpg d="w27176" g="w27187" t="s" cr="s+obj:w27187" w="development" l="~" p="N"/>
+     <dpg d="w27177" g="w27176" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w27178" g="w27177" t="pcomp-n" cr="mod*in*n:w27176" w="man" l="~" p="N"/>
+     <dpg d="w27179" g="w27187" t="punc" cr="punc:w27187" w="," l="~" p="U"/>
+     <dpg d="w27180" g="w27187" t="mod-before" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w27181" g="w27180" t="pcomp-n" cr="mod-before*in*n:w27187" w="contrast" l="~" p="N"/>
+     <dpg d="w27182" g="w27181" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w27183" g="w27184" t="nn" cr="nn:w27184" w="rodent" l="~" p="N"/>
+     <dpg d="w27184" g="w27182" t="pcomp-n" cr="mod*to*n:w27181" w="heart" l="~" p="N"/>
+     <dpg d="w27185" g="w27187" t="punc" cr="punc:w27187" w="," l="~" p="U"/>
+     <dpg d="w27186" g="w27187" t="be" cr="be:w27187" w="is" l="be" p="be"/>
+     <dpg d="w27187" g="E3" t="i" cr="fc:w27173" w="characterized" l="characterize" p="V"/>
+     <dpg d="E9" g="w27187" t="obj" cr="" w="" l="development" p="N"/>
+     <dpg d="E9" g="w27176" t="antecedent" cr="" w="" l="development" p="N"/>
+     <dpg d="w27188" g="w27187" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w27189" g="w27190" t="det" cr="det:w27190" w="an" l="~" p="Det"/>
+     <dpg d="w27190" g="w27188" t="pcomp-n" cr="by-subj*by*n:w27187" w="up-regulation" l="up-regulation" p="N"/>
+     <dpg d="w27191" g="w27190" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w27192" g="w27195" t="det" cr="det:w27195" w="the" l="~" p="Det"/>
+     <dpg d="w27193" g="w27195" t="mod" cr="mod:w27195" w="skeletal" l="~" p="A"/>
+     <dpg d="w27194" g="w27195" t="nn" cr="nn:w27195" w="actin" l="~" p="N"/>
+     <dpg d="w27195" g="w27191" t="pcomp-n" cr="mod*of*n:w27190" w="gene" l="~" p="N"/>
+     <dpg d="w27196" g="w27195" t="punc" cr="punc:w27195" w="," l="~" p="U"/>
+     <dpg d="E2" g="w27195" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w27197" g="w27198" t="det" cr="det:w27198" w="the" l="~" p="Det"/>
+     <dpg d="w27198" g="E2" t="whn" cr="whn+subj:w27203" w="expression" l="~" p="N"/>
+     <dpg d="w27199" g="w27198" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w27200" g="w27199" t="pcomp-n" cr="mod*of*n:w27198" w="which" l="~" p="N"/>
+     <dpg d="w27200" g="w27195" t="antecedent" cr="antecedent:w27195" w="which" l="~" p="N"/>
+     <dpg d="w27201" g="w27203" t="aux" cr="aux:w27203" w="does" l="do" p="Aux"/>
+     <dpg d="w27202" g="w27201" t="neg" cr="neg:w27201" w="not" l="~" p="A"/>
+     <dpg d="w27203" g="E2" t="i" cr="rel:w27195" w="change" l="~" p="V"/>
+     <dpg d="E10" g="w27203" t="subj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E10" g="w27198" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w27204" g="E7" t="punc" cr="punc:E7" w="in" l="~" p="U"/>
+     <dpg d="w27205" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="hypertrophied" l="~" p="A"/>
+     <dpg d="w27206" g="E7" t="punc" cr="punc:E7" w="and" l="~" p="U"/>
+     <dpg d="E1" g="E7" t="UNSPECRELTYPE" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E1" t="s" cr="s+subj:w27207||subj:w27211" w="" l="~" p="N"/>
+     <dpg d="w27207" g="E1" t="i" cr="UNSPECRELTYPE:E7" w="failing" l="fail" p="V"/>
+     <dpg d="E11" g="w27207" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E11" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w27208" g="w27207" t="obj" cr="obj:w27207" w="hearts" l="heart" p="N"/>
+     <dpg d="w27209" g="w27207" t="punc" cr="punc:w27207" w="," l="~" p="U"/>
+     <dpg d="w27210" g="w27207" t="punc" cr="punc:w27207" w="and" l="~" p="U"/>
+     <dpg d="w27211" g="w27207" t="conj" cr="conj:w27207" w="suggest" l="~" p="V"/>
+     <dpg d="E12" g="w27211" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E12" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="E0" g="w27211" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w27212" g="E0" t="c" cr="c:w27222" w="that" l="~" p="COMP"/>
+     <dpg d="w27213" g="w27214" t="det" cr="det:w27214" w="the" l="~" p="Det"/>
+     <dpg d="w27214" g="w27222" t="s" cr="s+obj:w27222" w="actin" l="~" p="N"/>
+     <dpg d="w27215" g="w27214" t="punc" cr="punc:w27214" w="and" l="~" p="U"/>
+     <dpg d="w27216" g="w27219" t="nn" cr="nn:w27219" w="myosin" l="~" p="N"/>
+     <dpg d="w27217" g="w27219" t="mod" cr="mod:w27219" w="heavy" l="~" p="A"/>
+     <dpg d="w27218" g="w27219" t="nn" cr="nn:w27219" w="chain" l="~" p="N"/>
+     <dpg d="w27219" g="w27214" t="conj" cr="conj:w27214" w="families" l="family" p="N"/>
+     <dpg d="w27220" g="w27222" t="be" cr="be:w27222" w="are" l="be" p="be"/>
+     <dpg d="w27221" g="w27222" t="amod" cr="amod:w27222" w="independently" l="~" p="A"/>
+     <dpg d="w27222" g="E0" t="i" cr="fc:w27211" w="regulated" l="regulate" p="V"/>
+     <dpg d="E13" g="w27222" t="obj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E13" g="w27214" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w27223" g="w27222" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w27224" g="w27225" t="mod" cr="mod:w27225" w="human" l="~" p="A"/>
+     <dpg d="w27225" g="w27223" t="pcomp-n" cr="mod*in*n:w27222" w="heart" l="~" p="N"/>
+     <dpg d="w27226" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

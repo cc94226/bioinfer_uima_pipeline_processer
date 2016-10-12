@@ -1,0 +1,71 @@
+<rexml>
+<doc id="728">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11222" g="E0" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w11223" g="w11224" t="mod" cr="mod:w11224" w="cancerous" l="~" p="A"/>
+     <dpg d="w11224" g="w11222" t="pcomp-n" cr="mod*in*n:w11241" w="tissues" l="tissue" p="N"/>
+     <dpg d="w11225" g="E0" t="punc" cr="punc:w11241" w="," l="~" p="U"/>
+     <dpg d="w11226" g="w11227" t="det" cr="det:w11227" w="the" l="~" p="Det"/>
+     <dpg d="w11227" g="w11241" t="s" cr="s:w11241||subj:w11242" w="frequency" l="~" p="N"/>
+     <dpg d="w11228" g="w11227" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11229" g="w11230" t="mod" cr="mod:w11230" w="reduced" l="~" p="A"/>
+     <dpg d="w11230" g="w11228" t="pcomp-n" cr="mod*of*n:w11227" w="expression" l="~" p="N"/>
+     <dpg d="w11231" g="w11230" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11232" g="w11234" t="nn" cr="nn:w11234" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w11233" g="w11234" t="punc" cr="punc:w11234" w="(" l="~" p="U"/>
+     <dpg d="w11234" g="w11231" t="pcomp-n" cr="mod*of*n:w11230" w="28" l="~" p="N"/>
+     <dpg d="w11235" g="w11234" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11236" g="w11235" t="pcomp-n" cr="mod*of*n:w11234" w="86" l="~" p="N"/>
+     <dpg d="w11237" g="w11230" t="punc" cr="punc:w11230" w="," l="~" p="U"/>
+     <dpg d="w11238" g="w11239" t="lex-mod" cr="lex-mod:w11239" w="33" l="~" p="U"/>
+     <dpg d="w11239" g="w11230" t="appo" cr="appo:w11230" w="%" l="33 %" p="N"/>
+     <dpg d="w11240" g="w11241" t="punc" cr="punc:w11241" w=")" l="~" p="U"/>
+     <dpg d="w11241" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="was" l="be" p="VBE"/>
+     <dpg d="w11242" g="w11241" t="pred" cr="pred:w11241" w="similar" l="~" p="A"/>
+     <dpg d="E3" g="w11242" t="subj" cr="" w="" l="frequency" p="N"/>
+     <dpg d="E3" g="w11227" t="antecedent" cr="" w="" l="frequency" p="N"/>
+     <dpg d="w11243" g="w11242" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w11244" g="w11243" t="pcomp-n" cr="mod*to*n:w11242" w="that" l="~" p="N"/>
+     <dpg d="w11245" g="w11241" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11246" g="w11248" t="nn" cr="nn:w11248" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w11247" g="w11248" t="punc" cr="punc:w11248" w="(" l="~" p="U"/>
+     <dpg d="w11248" g="w11245" t="pcomp-n" cr="mod*of*n:w11241" w="19" l="~" p="N"/>
+     <dpg d="w11249" g="w11248" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11250" g="w11249" t="pcomp-n" cr="mod*of*n:w11248" w="86" l="~" p="N"/>
+     <dpg d="w11251" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w11252" g="w11253" t="lex-mod" cr="lex-mod:w11253" w="22" l="~" p="U"/>
+     <dpg d="w11253" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="%" l="22 %" p="N"/>
+     <dpg d="w11254" g="E2" t="punc" cr="punc:E2" w=")" l="~" p="U"/>
+     <dpg d="w11255" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w11256" g="E2" t="punc" cr="punc:E2" w="but" l="~" p="U"/>
+     <dpg d="w11257" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="less" l="~" p="A"/>
+     <dpg d="w11258" g="w11257" t="mod" cr="" w="than" l="~" p="Prep"/>
+     <dpg d="w11259" g="w11258" t="pcomp-n" cr="mod*than*n:w11257" w="that" l="~" p="N"/>
+     <dpg d="w11260" g="E2" t="p" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11261" g="w11263" t="nn" cr="nn:w11263" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w11262" g="w11263" t="punc" cr="punc:w11263" w="(" l="~" p="U"/>
+     <dpg d="w11263" g="w11260" t="pcomp-n" cr="p*of*n:E2" w="47" l="~" p="N"/>
+     <dpg d="w11264" g="w11263" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11265" g="w11264" t="pcomp-n" cr="mod*of*n:w11263" w="86" l="~" p="N"/>
+     <dpg d="w11266" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w11267" g="w11268" t="lex-mod" cr="lex-mod:w11268" w="55" l="~" p="U"/>
+     <dpg d="w11268" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="%" l="55 %" p="N"/>
+     <dpg d="w11269" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w11270" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

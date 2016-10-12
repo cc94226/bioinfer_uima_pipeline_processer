@@ -1,0 +1,234 @@
+<rexml>
+<doc id="1726">
+  <text>
+<p><s id="s1"><w id="w27504">These</w> <w id="w27505">results</w> <w id="w27506">indicate</w> <w id="w27507">that</w> <w id="w27508">phosphorylation</w> <w id="w27509">of</w> <w id="w27510">LIM-kinase</w> <w id="w27511">by</w> <w id="w27512">ROCK</w> <w id="w27513">and</w> <w id="w27514">consequently</w> <w id="w27515">increased</w> <w id="w27516">phosphorylation</w> <w id="w27517">of</w> <w id="w27518">cofilin</w> <w id="w27519">by</w> <w id="w27520">LIM-kinase</w> <w id="w27521">contribute</w> <w id="w27522">to</w> <w id="w27523">Rho</w><w id="w27524">-</w><w id="w27525">induced</w> <w id="w27526">reorganization</w> <w id="w27527">of</w> <w id="w27528">the</w> <w id="w27529">actin</w> <w id="w27530">cytoskeleton</w> <w id="w27531">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6330" gid="g6042" t="RELATIONSHIP_TEXTBINDING" fr="w27508" to="w27511">
+     <textspan type="extent">phosphorylation of [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1726.0"/>
+      <exattr n="nst" v="st.1726.4.0"/>
+      <exattr n="nst" v="st.1726.5.0"/>
+      <exattr n="nst" v="st.1726.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6331" gid="g6043" t="Individual_protein" fr="w27510" to="w27510" nam="yes">
+     <textspan type="extent">LIM-kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1726.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6332" gid="g6044" t="Individual_protein" fr="w27518" to="w27518" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1726.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6333" gid="g6045" t="RELATIONSHIP_TEXTBINDING" fr="w27516" to="w27519">
+     <textspan type="extent">phosphorylation of [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1726.3"/>
+      <exattr n="nst" v="st.1726.12.0"/>
+      <exattr n="nst" v="st.1726.13.0"/>
+      <exattr n="nst" v="st.1726.15.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6334" gid="g6046" t="RELATIONSHIP_TEXTBINDING" fr="w27514" to="w27515">
+     <textspan type="extent">consequently increased</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1726.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6335" gid="g6047" t="Individual_protein" fr="w27520" to="w27520" nam="yes">
+     <textspan type="extent">LIM-kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1726.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6336" gid="g6048" t="Cell_component" fr="w27528" to="w27530" nam="yes">
+     <textspan type="extent">the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1726.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6337" gid="g6049" t="MODIFICATION" fr="w27526" to="w27530">
+     <textspan type="extent">reorganization of the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1726.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6338" gid="g6050" t="RELATIONSHIP_TEXTBINDING" fr="w27525" to="w27525">
+     <textspan type="extent">induced</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1726.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6339" gid="g6051" t="Individual_protein" fr="w27512" to="w27512" nam="yes">
+     <textspan type="extent">ROCK</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1726.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6340" gid="g6052" t="Individual_protein" fr="w27523" to="w27523" nam="yes">
+     <textspan type="extent">Rho</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1726.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e6341" gid="g6053" t="Individual_protein" fr="w27529" to="w27529" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1726.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e6342" gid="g6054" t="RELATIONSHIP_TEXTBINDING" fr="w27521" to="w27522">
+     <textspan type="extent">contribute to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1726.12"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2418" t="INITIATE" e1="e6340" e2="e6337" re="e6338">
+     <textspan type="extent">Rho - induced reorganization of the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1726.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2419" t="STIMULATE" e1="e6330" e2="e6333" re="e6334">
+     <textspan type="extent">phosphorylation of LIM-kinase by ROCK and consequently increased phosphorylation of cofilin by LIM-kinase</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1726.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2420" t="PHOSPHORYLATE" e1="e6339" e2="e6331" re="e6330">
+     <textspan type="extent">phosphorylation of LIM-kinase by ROCK</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1726.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+     </exattrs>
+    </rel>
+    <rel id="r2421" t="PHOSPHORYLATE" e1="e6335" e2="e6332" re="e6333">
+     <textspan type="extent">phosphorylation of cofilin by LIM-kinase</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1726.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+     </exattrs>
+    </rel>
+    <rel id="r2422" t="PARTICIPATE" e1="e6330" e2="e6337" re="e6342">
+     <textspan type="extent">phosphorylation of LIM-kinase by ROCK and consequently increased phosphorylation of cofilin by LIM-kinase contribute to Rho - induced reorganization of the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1726.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2423" t="PHOSPHORYLATE" e1="e6339" e2="e6331" re="e6330">
+     <textspan type="extent">phosphorylation of LIM-kinase by ROCK</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1726.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+     </exattrs>
+    </rel>
+    <rel id="r2424" t="PARTICIPATE" e1="e6333" e2="e6337" re="e6342">
+     <textspan type="extent">phosphorylation of cofilin by LIM-kinase contribute to Rho - induced reorganization of the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1726.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2425" t="PHOSPHORYLATE" e1="e6335" e2="e6332" re="e6333">
+     <textspan type="extent">phosphorylation of cofilin by LIM-kinase</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1726.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

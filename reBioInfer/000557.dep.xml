@@ -1,0 +1,43 @@
+<rexml>
+<doc id="557">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7860" g="w7865" t="mod" cr="mod:w7865" w="Green" l="~" p="A"/>
+     <dpg d="w7861" g="w7865" t="mod" cr="mod:w7865" w="fluorescent" l="~" p="A"/>
+     <dpg d="w7862" g="w7864" t="lex-mod" cr="lex-mod:w7864" w="protein" l="~" p="U"/>
+     <dpg d="w7863" g="w7864" t="lex-mod" cr="lex-mod:w7864" w="-" l="~" p="U"/>
+     <dpg d="w7864" g="w7865" t="mod" cr="mod:w7865" w="tagged" l="protein - tagged" p="A"/>
+     <dpg d="w7865" g="w7866" t="s" cr="s+subj:w7866" w="ORC1" l="~" p="N"/>
+     <dpg d="w7866" g="E0" t="i" cr="" w="associated" l="associate with" p="V"/>
+     <dpg d="w7867" g="w7866" t="lex-mod" cr="lex-mod:w7866" w="with" l="~" p="U"/>
+     <dpg d="E2" g="w7866" t="subj" cr="" w="" l="ORC1" p="N"/>
+     <dpg d="E2" g="w7865" t="antecedent" cr="" w="" l="ORC1" p="N"/>
+     <dpg d="w7868" g="w7866" t="obj" cr="obj:w7866" w="chromatin" l="~" p="N"/>
+     <dpg d="w7869" g="w7868" t="mod" cr="" w="throughout" l="~" p="Prep"/>
+     <dpg d="w7870" g="w7869" t="pcomp-n" cr="mod*throughout*n:w7868" w="mitosis" l="~" p="N"/>
+     <dpg d="w7871" g="w7870" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w7872" g="w7873" t="mod" cr="mod:w7873" w="living" l="~" p="A"/>
+     <dpg d="w7873" g="w7871" t="pcomp-n" cr="mod*in*n:w7870" w="cells" l="cell" p="N"/>
+     <dpg d="w7874" g="w7873" t="punc" cr="punc:w7873" w="and" l="~" p="U"/>
+     <dpg d="w7875" g="w7873" t="conj" cr="conj:w7873" w="co-localized" l="co-localized" p="N"/>
+     <dpg d="w7876" g="w7875" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w7877" g="w7876" t="pcomp-n" cr="mod*with*n:w7875" w="ORC4" l="~" p="N"/>
+     <dpg d="w7878" g="w7877" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w7879" g="w7880" t="nn" cr="nn:w7880" w="metaphase" l="~" p="N"/>
+     <dpg d="w7880" g="w7878" t="pcomp-n" cr="mod*in*n:w7877" w="spreads" l="spread" p="N"/>
+     <dpg d="w7881" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

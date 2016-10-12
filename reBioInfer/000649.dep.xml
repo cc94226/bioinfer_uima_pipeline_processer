@@ -1,0 +1,34 @@
+<rexml>
+<doc id="649">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9834" g="w9835" t="mod" cr="mod:w9835" w="Human" l="~" p="A"/>
+     <dpg d="w9835" g="w9836" t="s" cr="s+subj:w9836" w="platelets" l="platelet" p="N"/>
+     <dpg d="w9836" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="contain" l="~" p="V"/>
+     <dpg d="E3" g="w9836" t="subj" cr="" w="" l="platelet" p="N"/>
+     <dpg d="E3" g="w9835" t="antecedent" cr="" w="" l="platelet" p="N"/>
+     <dpg d="w9837" g="w9836" t="obj" cr="obj:w9836" w="profilin" l="~" p="N"/>
+     <dpg d="w9838" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w9839" g="w9841" t="det" cr="det:w9841" w="a" l="~" p="Det"/>
+     <dpg d="w9840" g="w9841" t="mod" cr="mod:w9841" w="potential" l="~" p="A"/>
+     <dpg d="w9841" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="regulator" l="~" p="N"/>
+     <dpg d="w9842" g="w9841" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9843" g="w9844" t="nn" cr="nn:w9844" w="actin" l="~" p="N"/>
+     <dpg d="w9844" g="w9842" t="pcomp-n" cr="mod*of*n:w9841" w="polymerisability" l="~" p="N"/>
+     <dpg d="w9845" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

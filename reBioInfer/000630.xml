@@ -1,0 +1,59 @@
+<rexml>
+<doc id="630">
+  <text>
+<p><s id="s1"><w id="w9422">However</w> <w id="w9423">,</w> <w id="w9424">once</w> <w id="w9425">initiated</w> <w id="w9426">,</w> <w id="w9427">the</w> <w id="w9428">synthesis</w> <w id="w9429">of</w> <w id="w9430">muscle</w> <w id="w9431">tropomyosin</w> <w id="w9432">mRNA</w> <w id="w9433">continued</w> <w id="w9434">in</w> <w id="w9435">the</w> <w id="w9436">presence</w> <w id="w9437">of</w> <w id="w9438">cycloheximide</w> <w id="w9439">,</w> <w id="w9440">while</w> <w id="w9441">the</w> <w id="w9442">expression</w> <w id="w9443">of</w> <w id="w9444">muscle</w> <w id="w9445">actin</w> <w id="w9446">,</w> <w id="w9447">myosin</w> <w id="w9448">heavy</w> <w id="w9449">chain</w> <w id="w9450">,</w> <w id="w9451">and</w> <w id="w9452">myogenin</w> <w id="w9453">mRNA</w> <w id="w9454">was</w> <w id="w9455">abolished</w> <w id="w9456">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2248" gid="g2151" t="Gene/protein/RNA" fr="w9430" to="w9431" nam="yes">
+     <textspan type="extent">muscle tropomyosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.630.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2249" gid="g2152" t="Gene/protein/RNA" fr="w9444" to="w9449" nam="yes">
+     <textspan type="extent">muscle [..] myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.630.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2250" gid="g2153" t="Gene/protein/RNA" fr="w9444" to="w9445" nam="yes">
+     <textspan type="extent">muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.630.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2251" gid="g2154" t="Gene/protein/RNA" fr="w9444" to="w9452" nam="yes">
+     <textspan type="extent">muscle [..] myogenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.630.3"/>
+      <exattr n="nst" v="st.630.22.0"/>
+      <exattr n="nst" v="st.630.30.0"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

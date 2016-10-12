@@ -1,0 +1,117 @@
+<rexml>
+<doc id="1338">
+  
+  <markup>
+   <nes>
+    <ne id="e4811" gid="g4592" t="Individual_protein" fr="w20838" to="w20839" nam="yes" sid="s1">
+     <textspan>actin monomer</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1338.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4821" gid="g4602" t="Individual_protein" fr="w20838" to="w20838" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1338.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e4822" gid="g4603" t="Individual_protein" fr="w20844" to="w20844" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1338.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e4813" gid="g4594" t="Dynamics_property" fr="w20848" to="w20851" sid="s1">
+     <textspan>dynamics of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.1338.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4817" gid="g4598" t="Cell_component" fr="w20850" to="w20851" nam="yes" sid="s1">
+     <textspan>actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1338.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4825" gid="g4606" t="Individual_protein" fr="w20850" to="w20850" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1338.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e4824" gid="g4605" t="Individual_protein" fr="w20862" to="w20862" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1338.13"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1829" t="BIND" e1="e4822" e2="e4811" re="e4812">
+     <textspan>actin monomer - binding protein , profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1338.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1832" t="AFFECT" e1="e4822" e2="e4813" re="e4814">
+     <textspan>profilin , influences the dynamics of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1338.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

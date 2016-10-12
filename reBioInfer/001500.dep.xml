@@ -1,0 +1,89 @@
+<rexml>
+<doc id="1500">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23449" g="w23454" t="det" cr="det:w23454" w="The" l="~" p="Det"/>
+     <dpg d="w23450" g="w23452" t="lex-mod" cr="lex-mod:w23452" w="herpes" l="~" p="U"/>
+     <dpg d="w23451" g="w23452" t="lex-mod" cr="lex-mod:w23452" w="simplex" l="~" p="U"/>
+     <dpg d="w23452" g="w23454" t="nn" cr="nn:w23454" w="virus" l="herpes simplex virus" p="N"/>
+     <dpg d="w23453" g="w23454" t="mod" cr="mod:w23454" w="helicase-primase" l="helicase-primase" p="A"/>
+     <dpg d="w23454" g="w23468" t="s" cr="s+subj:w23468" w="complex" l="~" p="N"/>
+     <dpg d="w23455" g="w23454" t="punc" cr="punc:w23454" w="," l="~" p="U"/>
+     <dpg d="w23456" g="w23457" t="det" cr="det:w23457" w="a" l="~" p="Det"/>
+     <dpg d="w23457" g="w23454" t="appo" cr="appo:w23454" w="heterotrimer" l="~" p="N"/>
+     <dpg d="w23458" g="w23457" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w23459" g="w23460" t="det" cr="det:w23460" w="the" l="~" p="Det"/>
+     <dpg d="w23460" g="w23458" t="pcomp-n" cr="mod*of*n:w23457" w="UL5" l="~" p="N"/>
+     <dpg d="w23461" g="w23460" t="punc" cr="punc:w23460" w="," l="~" p="U"/>
+     <dpg d="w23462" g="w23460" t="conj" cr="conj:w23460" w="UL8" l="~" p="N"/>
+     <dpg d="w23463" g="w23462" t="punc" cr="punc:w23462" w="," l="~" p="U"/>
+     <dpg d="w23464" g="w23462" t="punc" cr="punc:w23462" w="and" l="~" p="U"/>
+     <dpg d="w23465" g="w23466" t="nn" cr="nn:w23466" w="UL52" l="~" p="N"/>
+     <dpg d="w23466" g="w23462" t="conj" cr="conj:w23462" w="proteins" l="protein" p="N"/>
+     <dpg d="w23467" g="w23468" t="punc" cr="punc:w23468" w="," l="~" p="U"/>
+     <dpg d="w23468" g="E0" t="i" cr="" w="displays" l="display" p="V"/>
+     <dpg d="E2" g="w23468" t="subj" cr="" w="" l="complex" p="N"/>
+     <dpg d="E2" g="w23454" t="antecedent" cr="" w="" l="complex" p="N"/>
+     <dpg d="w23469" g="w23472" t="det" cr="det:w23472" w="a" l="~" p="Det"/>
+     <dpg d="w23470" g="w23472" t="mod" cr="mod:w23472" w="single" l="~" p="A"/>
+     <dpg d="w23471" g="w23472" t="mod" cr="mod:w23472" w="predominant" l="~" p="A"/>
+     <dpg d="w23472" g="w23468" t="obj" cr="obj:w23468" w="site" l="~" p="N"/>
+     <dpg d="w23473" g="w23472" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w23474" g="w23475" t="mod" cr="mod:w23475" w="primer" l="prim" p="A"/>
+     <dpg d="w23475" g="w23473" t="pcomp-n" cr="mod*of*n:w23472" w="synthesis" l="~" p="N"/>
+     <dpg d="w23476" g="w23475" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w23477" g="w23482" t="nn" cr="nn:w23482" w="phi" l="~" p="N"/>
+     <dpg d="w23478" g="w23482" t="nn" cr="nn:w23482" w="X174" l="~" p="N"/>
+     <dpg d="w23479" g="w23482" t="nn" cr="nn:w23482" w="virion" l="~" p="N"/>
+     <dpg d="w23480" g="w23482" t="nn" cr="nn:w23482" w="DNA" l="~" p="N"/>
+     <dpg d="w23481" g="w23482" t="punc" cr="punc:w23482" w="(" l="~" p="U"/>
+     <dpg d="w23482" g="w23476" t="pcomp-n" cr="mod*on*n:w23475" w="Tenney" l="~" p="N"/>
+     <dpg d="w23483" g="w23482" t="punc" cr="punc:w23482" w="," l="~" p="U"/>
+     <dpg d="w23484" g="w23485" t="lex-mod" cr="lex-mod:w23485" w="D." l="~" p="U"/>
+     <dpg d="w23485" g="w23482" t="appo" cr="appo:w23482" w="J." l="D. J." p="N"/>
+     <dpg d="w23486" g="w23485" t="punc" cr="punc:w23485" w="," l="~" p="U"/>
+     <dpg d="w23487" g="w23485" t="conj" cr="conj:w23485" w="Hurlburt" l="~" p="N"/>
+     <dpg d="w23488" g="w23487" t="punc" cr="punc:w23487" w="," l="~" p="U"/>
+     <dpg d="w23489" g="w23490" t="lex-mod" cr="lex-mod:w23490" w="W." l="~" p="U"/>
+     <dpg d="w23490" g="w23487" t="conj" cr="conj:w23487" w="W." l="W. W." p="N"/>
+     <dpg d="w23491" g="w23490" t="punc" cr="punc:w23490" w="," l="~" p="U"/>
+     <dpg d="w23492" g="w23490" t="conj" cr="conj:w23490" w="Micheletti" l="~" p="N"/>
+     <dpg d="w23493" g="w23492" t="punc" cr="punc:w23492" w="," l="~" p="U"/>
+     <dpg d="w23494" g="w23495" t="lex-mod" cr="lex-mod:w23495" w="P." l="~" p="U"/>
+     <dpg d="w23495" g="w23492" t="conj" cr="conj:w23492" w="M." l="P. M." p="N"/>
+     <dpg d="w23496" g="w23495" t="punc" cr="punc:w23495" w="," l="~" p="U"/>
+     <dpg d="w23497" g="w23495" t="conj" cr="conj:w23495" w="Bifano" l="~" p="N"/>
+     <dpg d="w23498" g="w23497" t="punc" cr="punc:w23497" w="," l="~" p="U"/>
+     <dpg d="w23499" g="w23497" t="conj" cr="conj:w23497" w="M." l="~" p="N"/>
+     <dpg d="w23500" g="w23499" t="punc" cr="punc:w23499" w="," l="~" p="U"/>
+     <dpg d="w23501" g="w23499" t="punc" cr="punc:w23499" w="and" l="~" p="U"/>
+     <dpg d="w23502" g="w23499" t="conj" cr="conj:w23499" w="Hamatake" l="~" p="N"/>
+     <dpg d="w23503" g="w23485" t="punc" cr="punc:w23485" w="," l="~" p="U"/>
+     <dpg d="w23504" g="w23505" t="lex-mod" cr="lex-mod:w23505" w="R." l="~" p="U"/>
+     <dpg d="w23505" g="w23485" t="appo" cr="appo:w23485" w="K." l="R. K." p="N"/>
+     <dpg d="w23506" g="w23505" t="punc" cr="punc:w23505" w="(" l="~" p="U"/>
+     <dpg d="w23507" g="w23505" t="appo-mod" cr="appo-mod:w23505" w="1994" l="~" p="N"/>
+     <dpg d="w23508" g="w23505" t="punc" cr="punc:w23505" w=")" l="~" p="U"/>
+     <dpg d="w23509" g="w23512" t="lex-mod" cr="lex-mod:w23512" w="J." l="~" p="U"/>
+     <dpg d="w23510" g="w23512" t="lex-mod" cr="lex-mod:w23512" w="Biol." l="~" p="U"/>
+     <dpg d="w23511" g="w23512" t="lex-mod" cr="lex-mod:w23512" w="Chem." l="~" p="U"/>
+     <dpg d="w23512" g="w23505" t="appo" cr="appo:w23505" w="269" l="J. Biol. Chem 269" p="N"/>
+     <dpg d="w23513" g="w23512" t="punc" cr="punc:w23512" w="," l="~" p="U"/>
+     <dpg d="w23514" g="w23512" t="appo" cr="appo:w23512" w="5030-5035" l="5030-5035" p="N"/>
+     <dpg d="w23515" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w23516" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

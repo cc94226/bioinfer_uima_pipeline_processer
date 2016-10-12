@@ -1,0 +1,50 @@
+<rexml>
+<doc id="1890">
+  <text>
+<p><s id="s1"><w id="w30177">To</w> <w id="w30178">approach</w> <w id="w30179">the</w> <w id="w30180">problem</w> <w id="w30181">,</w> <w id="w30182">we</w> <w id="w30183">have</w> <w id="w30184">constructed</w> <w id="w30185">a</w> <w id="w30186">carp</w> <w id="w30187">genomic</w> <w id="w30188">library</w> <w id="w30189">and</w> <w id="w30190">isolated</w> <w id="w30191">28</w> <w id="w30192">nonoverlapping</w> <w id="w30193">clones</w> <w id="w30194">containing</w> <w id="w30195">sequences</w> <w id="w30196">of</w> <w id="w30197">different</w> <w id="w30198">myosin</w> <w id="w30199">heavy</w> <w id="w30200">chain</w> <w id="w30201">(</w> <w id="w30202">MHC</w> <w id="w30203">)</w> <w id="w30204">isoforms</w> <w id="w30205">along</w> <w id="w30206">with</w> <w id="w30207">a</w> <w id="w30208">clone</w> <w id="w30209">containing</w> <w id="w30210">carp</w> <w id="w30211">actin</w> <w id="w30212">sequences</w> <w id="w30213">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7001" gid="g6685" t="Individual_protein" fr="w30198" to="w30200" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1890.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7002" gid="g6685" t="Individual_protein" fr="w30202" to="w30202" nam="yes">
+     <textspan type="extent">MHC</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1890.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7003" gid="g6686" t="Gene/protein/RNA" fr="w30211" to="w30211" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1890.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

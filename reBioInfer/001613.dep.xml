@@ -1,0 +1,52 @@
+<rexml>
+<doc id="1613">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25632" g="w25633" t="det" cr="det:w25633" w="The" l="~" p="Det"/>
+     <dpg d="w25633" g="w25637" t="s" cr="s+subj:w25637" w="products" l="product" p="N"/>
+     <dpg d="w25634" g="w25633" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25635" g="w25636" t="det" cr="det:w25636" w="the" l="~" p="Det"/>
+     <dpg d="w25636" g="w25634" t="pcomp-n" cr="mod*of*n:w25633" w="yeast" l="~" p="N"/>
+     <dpg d="w25637" g="E1" t="i" cr="" w="mismatch" l="~" p="V"/>
+     <dpg d="E3" g="w25637" t="subj" cr="" w="" l="product" p="N"/>
+     <dpg d="E3" g="w25633" t="antecedent" cr="" w="" l="product" p="N"/>
+     <dpg d="w25638" g="w25637" t="obj" cr="obj:w25637||obj:w25643" w="repair" l="~" p="N"/>
+     <dpg d="E0" g="w25638" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25639" g="w25640" t="nn" cr="nn:w25640" w="genes" l="gene" p="N"/>
+     <dpg d="w25640" g="w25643" t="s" cr="s+subj:w25643" w="MSH2" l="~" p="N"/>
+     <dpg d="w25641" g="w25640" t="punc" cr="punc:w25640" w="and" l="~" p="U"/>
+     <dpg d="w25642" g="w25640" t="conj" cr="conj:w25640" w="MSH3" l="~" p="N"/>
+     <dpg d="w25643" g="E0" t="i" cr="rel:w25638" w="participate" l="~" p="V"/>
+     <dpg d="E4" g="w25643" t="obj" cr="" w="" l="repair" p="N"/>
+     <dpg d="E4" g="w25638" t="antecedent" cr="" w="" l="repair" p="N"/>
+     <dpg d="E5" g="w25643" t="subj" cr="" w="" l="MSH2" p="N"/>
+     <dpg d="E5" g="w25640" t="antecedent" cr="" w="" l="MSH2" p="N"/>
+     <dpg d="w25644" g="w25643" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w25645" g="w25646" t="det" cr="det:w25646" w="the" l="~" p="Det"/>
+     <dpg d="w25646" g="w25644" t="pcomp-n" cr="mod*in*n:w25643" w="inhibition" l="~" p="N"/>
+     <dpg d="w25647" g="w25646" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25648" g="w25649" t="mod" cr="mod:w25649" w="genetic" l="~" p="A"/>
+     <dpg d="w25649" g="w25647" t="pcomp-n" cr="mod*of*n:w25646" w="recombination" l="~" p="N"/>
+     <dpg d="w25650" g="w25649" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w25651" g="w25656" t="mod" cr="mod:w25656" w="homeologous" l="~" p="A"/>
+     <dpg d="w25652" g="w25656" t="punc" cr="punc:w25656" w="(" l="~" p="U"/>
+     <dpg d="w25653" g="w25656" t="mod" cr="mod:w25656" w="divergent" l="~" p="A"/>
+     <dpg d="w25654" g="w25656" t="punc" cr="punc:w25656" w=")" l="~" p="U"/>
+     <dpg d="w25655" g="w25656" t="nn" cr="nn:w25656" w="DNA" l="~" p="N"/>
+     <dpg d="w25656" g="w25650" t="pcomp-n" cr="mod*between*n:w25649" w="sequences" l="sequence" p="N"/>
+     <dpg d="w25657" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

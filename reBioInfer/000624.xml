@@ -1,0 +1,165 @@
+<rexml>
+<doc id="624">
+  <text>
+<p><s id="s1"><w id="w9279">However</w> <w id="w9280">,</w> <w id="w9281">disassembly</w> <w id="w9282">of</w> <w id="w9283">the</w> <w id="w9284">actin</w> <w id="w9285">cytoskeleton</w> <w id="w9286">using</w> <w id="w9287">Latrunculin-A</w> <w id="w9288">does</w> <w id="w9289">not</w> <w id="w9290">alter</w> <w id="w9291">verprolin</w> <w id="w9292">'s</w> <w id="w9293">location</w> <w id="w9294">,</w> <w id="w9295">indicating</w> <w id="w9296">that</w> <w id="w9297">verprolin</w> <w id="w9298">establishes</w> <w id="w9299">and</w> <w id="w9300">maintains</w> <w id="w9301">its</w> <w id="w9302">location</w> <w id="w9303">independent</w> <w id="w9304">of</w> <w id="w9305">the</w> <w id="w9306">actin</w> <w id="w9307">cytoskeleton</w> <w id="w9308">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2220" gid="g2125" t="DISASSEMBLY" fr="w9281" to="w9285">
+     <textspan type="extent">disassembly of the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Break-down"/>
+      <exattr n="t4" v="DISASSEMBLY"/>
+      <exattr n="bd" v="e.624.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2221" gid="g2126" t="RELATIONSHIP_TEXTBINDING" fr="w9290" to="w9290">
+     <textspan type="extent">alter</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.624.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2222" gid="g2127" t="Individual_protein" fr="w9297" to="w9297" nam="yes">
+     <textspan type="extent">verprolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.624.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2223" gid="g2128" t="Location_property" fr="w9291" to="w9293">
+     <textspan type="extent">verprolin 's location</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Location_property"/>
+      <exattr n="bd" v="e.624.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2224" gid="g2129" t="Location_property" fr="w9301" to="w9302">
+     <textspan type="extent">its location</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Location_property"/>
+      <exattr n="bd" v="e.624.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2225" gid="g2130" t="Cell_component" fr="w9306" to="w9307" nam="yes">
+     <textspan type="extent">actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.624.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2226" gid="g2131" t="Cell_component" fr="w9284" to="w9285" nam="yes">
+     <textspan type="extent">actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.624.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2227" gid="g2132" t="RELATIONSHIP_TEXTBINDING" fr="w9289" to="w9289">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.624.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2228" gid="g2127" t="Individual_protein" fr="w9301" to="w9301" nam="yes">
+     <textspan type="extent">its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.624.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e2229" gid="g2133" t="RELATIONSHIP_TEXTBINDING" fr="w9303" to="w9304">
+     <textspan type="extent">independent of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.624.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e2230" gid="g2134" t="Individual_protein" fr="w9291" to="w9291" nam="yes">
+     <textspan type="extent">verprolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.624.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e2231" gid="g2135" t="Individual_protein" fr="w9284" to="w9284" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.624.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e2232" gid="g2136" t="Individual_protein" fr="w9306" to="w9306" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.624.12"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r870" t="AFFECT" e1="e2220" e2="e2223" re="e2221">
+     <textspan type="extent">disassembly of the actin cytoskeleton using Latrunculin-A does not alter verprolin 's location</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.624.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r873" t="AFFECT" e1="e2225" e2="e2224" re="e2229">
+     <textspan type="extent">its location independent of the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.624.9"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

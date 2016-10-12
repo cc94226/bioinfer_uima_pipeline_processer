@@ -1,0 +1,70 @@
+<rexml>
+<doc id="670">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w10053" g="w10054" t="nn" cr="nn:w10054" w="Immunofluorescence" l="~" p="N"/>
+     <dpg d="w10054" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="microscopy" l="~" p="N"/>
+     <dpg d="w10055" g="w10054" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10056" g="w10055" t="pcomp-n" cr="mod*of*n:w10054" w="monolayers" l="~" p="N"/>
+     <dpg d="w10057" g="w10056" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w10058" g="w10060" t="lex-mod" cr="lex-mod:w10060" w="2" l="~" p="U"/>
+     <dpg d="w10059" g="w10060" t="lex-mod" cr="lex-mod:w10060" w="and" l="~" p="U"/>
+     <dpg d="w10060" g="w10061" t="nn" cr="nn:w10061" w="3" l="2 and 3" p="N"/>
+     <dpg d="w10061" g="w10057" t="pcomp-n" cr="mod*between*n:w10056" w="h" l="~" p="N"/>
+     <dpg d="E2" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10062" g="w10063" t="lex-mod" cr="lex-mod:w10063" w="post-" l="~" p="U"/>
+     <dpg d="w10063" g="w10064" t="s" cr="s+subj:w10064" w="TGF-beta1" l="post- TGF-beta1" p="N"/>
+     <dpg d="w10064" g="E2" t="i" cr="UNSPECRELTYPE:E4" w="showed" l="show" p="V"/>
+     <dpg d="E5" g="w10064" t="subj" cr="" w="" l="post- TGF-beta1" p="N"/>
+     <dpg d="E5" g="w10063" t="antecedent" cr="" w="" l="post- TGF-beta1" p="N"/>
+     <dpg d="E1" g="w10064" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10065" g="E1" t="c" cr="c:w10074" w="that" l="~" p="COMP"/>
+     <dpg d="w10066" g="w10074" t="s" cr="s:w10074||subj:w10075" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w10067" g="w10066" t="punc" cr="punc:w10066" w="," l="~" p="U"/>
+     <dpg d="w10068" g="w10066" t="conj" cr="conj:w10066" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w10069" g="w10068" t="punc" cr="punc:w10068" w="," l="~" p="U"/>
+     <dpg d="w10070" g="w10068" t="conj" cr="conj:w10068" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w10071" g="w10070" t="punc" cr="punc:w10070" w="," l="~" p="U"/>
+     <dpg d="w10072" g="w10070" t="punc" cr="punc:w10070" w="and" l="~" p="U"/>
+     <dpg d="w10073" g="w10070" t="conj" cr="conj:w10070" w="cadherin-5" l="cadherin-5" p="N"/>
+     <dpg d="w10074" g="E1" t="i" cr="fc:w10064" w="were" l="be" p="VBE"/>
+     <dpg d="w10075" g="w10074" t="pred" cr="pred:w10074" w="colocalized" l="~" p="A"/>
+     <dpg d="E6" g="w10075" t="subj" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="E6" g="w10066" t="antecedent" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="w10076" g="w10075" t="punc" cr="punc:w10075" w="both" l="~" p="U"/>
+     <dpg d="w10077" g="w10075" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w10078" g="w10080" t="det" cr="det:w10080" w="the" l="~" p="Det"/>
+     <dpg d="w10079" g="w10080" t="nn" cr="nn:w10080" w="cell" l="~" p="N"/>
+     <dpg d="w10080" g="w10077" t="pcomp-n" cr="mod*at*n:w10075" w="periphery" l="~" p="N"/>
+     <dpg d="w10081" g="w10077" t="punc" cr="punc:w10077" w="and" l="~" p="U"/>
+     <dpg d="w10082" g="w10077" t="conj" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w10083" g="w10084" t="mod" cr="mod:w10084" w="newly" l="~" p="A"/>
+     <dpg d="w10084" g="w10085" t="mod" cr="mod:w10085" w="formed" l="~" p="A"/>
+     <dpg d="w10085" g="w10082" t="pcomp-n" cr="mod*in*n:w10075||subj:w10088" w="bands" l="band" p="N"/>
+     <dpg d="E0" g="w10085" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10086" g="E0" t="whn" cr="whn:w10087" w="that" l="~" p="THAT"/>
+     <dpg d="w10086" g="w10085" t="antecedent" cr="antecedent:w10085" w="that" l="~" p="THAT"/>
+     <dpg d="w10087" g="E0" t="i" cr="rel:w10085" w="are" l="be" p="VBE"/>
+     <dpg d="w10088" g="w10087" t="pred" cr="pred:w10087" w="perpendicular" l="~" p="N"/>
+     <dpg d="E7" g="w10088" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E7" g="w10085" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w10089" g="w10088" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w10090" g="w10092" t="det" cr="det:w10092" w="the" l="~" p="Det"/>
+     <dpg d="w10091" g="w10092" t="mod" cr="mod:w10092" w="cell-cell" l="cell-cell" p="A"/>
+     <dpg d="w10092" g="w10089" t="pcomp-n" cr="mod*to*n:w10088" w="border" l="~" p="N"/>
+     <dpg d="w10093" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

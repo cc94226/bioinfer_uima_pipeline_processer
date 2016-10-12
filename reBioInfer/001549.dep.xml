@@ -1,0 +1,47 @@
+<rexml>
+<doc id="1549">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24542" g="w24543" t="det" cr="det:w24543" w="The" l="~" p="Det"/>
+     <dpg d="w24543" g="w24544" t="s" cr="s+subj:w24544||subj:w24550" w="map" l="~" p="N"/>
+     <dpg d="w24544" g="E0" t="i" cr="" w="locates" l="locate" p="V"/>
+     <dpg d="E2" g="w24544" t="subj" cr="" w="" l="map" p="N"/>
+     <dpg d="E2" g="w24543" t="antecedent" cr="" w="" l="map" p="N"/>
+     <dpg d="w24545" g="w24548" t="det" cr="det:w24548" w="the" l="~" p="Det"/>
+     <dpg d="w24546" g="w24548" t="mod" cr="mod:w24548" w="N-terminal" l="N-terminal" p="A"/>
+     <dpg d="w24547" g="w24548" t="mod" cr="mod:w24548" w="calcium-binding" l="calcium-binding" p="A"/>
+     <dpg d="w24548" g="w24544" t="obj" cr="obj:w24544" w="domain" l="~" p="N"/>
+     <dpg d="w24549" g="w24544" t="punc" cr="punc:w24544" w="and" l="~" p="U"/>
+     <dpg d="w24550" g="w24544" t="conj" cr="conj:w24544" w="identifies" l="identify" p="V"/>
+     <dpg d="E3" g="w24550" t="subj" cr="" w="" l="map" p="N"/>
+     <dpg d="E3" g="w24543" t="antecedent" cr="" w="" l="map" p="N"/>
+     <dpg d="w24551" g="w24553" t="lex-mod" cr="lex-mod:w24553" w="actin" l="~" p="U"/>
+     <dpg d="w24552" g="w24553" t="lex-mod" cr="lex-mod:w24553" w="-" l="~" p="U"/>
+     <dpg d="w24553" g="w24555" t="mod" cr="mod:w24555" w="binding" l="actin - binding" p="A"/>
+     <dpg d="w24554" g="w24555" t="nn" cr="nn:w24555" w="site" l="~" p="N"/>
+     <dpg d="w24555" g="w24550" t="obj" cr="obj:w24550" w="residues" l="residue" p="N"/>
+     <dpg d="w24556" g="w24555" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w24557" g="w24562" t="det" cr="det:w24562" w="the" l="~" p="Det"/>
+     <dpg d="w24558" g="w24562" t="nn" cr="nn:w24562" w="two" l="~" p="N"/>
+     <dpg d="w24559" g="w24561" t="lex-mod" cr="lex-mod:w24561" w="calponin" l="~" p="U"/>
+     <dpg d="w24560" g="w24561" t="lex-mod" cr="lex-mod:w24561" w="-" l="~" p="U"/>
+     <dpg d="w24561" g="w24562" t="mod" cr="mod:w24562" w="homology" l="calponin - homology" p="A"/>
+     <dpg d="w24562" g="w24556" t="pcomp-n" cr="mod*on*n:w24555" w="domains" l="domain" p="N"/>
+     <dpg d="w24563" g="w24562" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w24564" g="w24563" t="pcomp-n" cr="mod*of*n:w24562" w="fimbrin" l="~" p="N"/>
+     <dpg d="w24565" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

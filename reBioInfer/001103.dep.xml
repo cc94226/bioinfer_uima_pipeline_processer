@@ -1,0 +1,40 @@
+<rexml>
+<doc id="1103">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w17427" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="Overexpression" l="~" p="N"/>
+     <dpg d="w17428" g="w17427" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w17429" g="w17430" t="nn" cr="nn:w17430" w="cyclin" l="~" p="N"/>
+     <dpg d="w17430" g="w17428" t="pcomp-n" cr="mod*of*n:w17427" w="E" l="~" p="N"/>
+     <dpg d="w17431" g="w17430" t="punc" cr="punc:w17430" w="and" l="~" p="U"/>
+     <dpg d="w17432" g="w17436" t="mod" cr="mod:w17436" w="cyclin-dependent" l="cyclin-dependent" p="A"/>
+     <dpg d="w17433" g="w17436" t="nn" cr="nn:w17436" w="kinase" l="~" p="N"/>
+     <dpg d="w17434" g="w17436" t="nn" cr="nn:w17436" w="inhibitor" l="~" p="N"/>
+     <dpg d="w17435" g="w17436" t="punc" cr="punc:w17436" w="(" l="~" p="U"/>
+     <dpg d="w17436" g="w17430" t="conj" cr="conj:w17430" w="p27Kip1" l="~" p="N"/>
+     <dpg d="w17437" g="E1" t="punc" cr="punc:E1" w=")" l="~" p="U"/>
+     <dpg d="w17438" g="E1" t="punc" cr="punc:E1" w=":" l="~" p="U"/>
+     <dpg d="w17439" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="effect" l="~" p="N"/>
+     <dpg d="w17440" g="w17439" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w17441" g="w17443" t="nn" cr="nn:w17443" w="cell" l="~" p="N"/>
+     <dpg d="w17442" g="w17443" t="nn" cr="nn:w17443" w="cycle" l="~" p="N"/>
+     <dpg d="w17443" g="w17440" t="pcomp-n" cr="mod*on*n:w17439" w="regulation" l="~" p="N"/>
+     <dpg d="w17444" g="w17443" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w17445" g="w17446" t="nn" cr="nn:w17446" w="HeLa" l="~" p="N"/>
+     <dpg d="w17446" g="w17444" t="pcomp-n" cr="mod*in*n:w17443" w="cells" l="cell" p="N"/>
+     <dpg d="w17447" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

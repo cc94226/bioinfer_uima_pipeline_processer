@@ -1,0 +1,88 @@
+<rexml>
+<doc id="1599">
+  <text>
+<p><s id="s1"><w id="w25403">The</w> <w id="w25404">presence</w> <w id="w25405">of</w> <w id="w25406">filamin</w> <w id="w25407">in</w> <w id="w25408">the</w> <w id="w25409">cleavage</w> <w id="w25410">furrows</w> <w id="w25411">also</w> <w id="w25412">suggests</w> <w id="w25413">the</w> <w id="w25414">possibility</w> <w id="w25415">of</w> <w id="w25416">an</w> <w id="w25417">overlapping</w> <w id="w25418">mechanism</w> <w id="w25419">in</w> <w id="w25420">addition</w> <w id="w25421">to</w> <w id="w25422">that</w> <w id="w25423">of</w> <w id="w25424">a</w> <w id="w25425">talin</w> <w id="w25426">mediated</w> <w id="w25427">mechanism</w> <w id="w25428">for</w> <w id="w25429">the</w> <w id="w25430">attachment</w> <w id="w25431">of</w> <w id="w25432">actin</w> <w id="w25433">filaments</w> <w id="w25434">to</w> <w id="w25435">the</w> <w id="w25436">cell</w> <w id="w25437">surfaces</w> <w id="w25438">in</w> <w id="w25439">the</w> <w id="w25440">cleavage</w> <w id="w25441">furrow</w> <w id="w25442">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5893" gid="g5622" t="Gene/protein/RNA" fr="w25406" to="w25406" nam="yes">
+     <textspan type="extent">filamin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1599.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5894" gid="g5623" t="RELATIONSHIP_TEXTBINDING" fr="w25426" to="w25426">
+     <textspan type="extent">mediated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1599.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5895" gid="g5624" t="ASSEMBLY" fr="w25430" to="w25433">
+     <textspan type="extent">attachment of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1599.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5896" gid="g5625" t="Individual_protein" fr="w25425" to="w25425" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1599.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5897" gid="g5626" t="Cell_component" fr="w25432" to="w25433" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1599.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5898" gid="g5627" t="Individual_protein" fr="w25432" to="w25432" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1599.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2261" t="MEDIATE" e1="e5896" e2="e5895" re="e5894">
+     <textspan type="extent">talin mediated mechanism for the attachment of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1599.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

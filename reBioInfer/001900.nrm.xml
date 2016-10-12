@@ -1,0 +1,129 @@
+<rexml>
+<doc id="1900">
+  
+  <markup>
+   <nes>
+    <ne id="e7040" gid="g6721" t="Antibody" fr="w30535" to="w30538" nam="yes" sid="s1">
+     <textspan>antimuscle actin antibodies</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Antibody"/>
+      <exattr n="bd" v="e.1900.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7046" gid="g6727" t="Individual_protein" fr="w30536" to="w30537" nam="yes" sid="s1">
+     <textspan>muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1900.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7041" gid="g6722" t="Individual_protein" fr="w30540" to="w30540" nam="yes" sid="s1">
+     <textspan>HHF35</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1900.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7044" gid="g6725" t="Individual_protein" fr="w30542" to="w30542" nam="yes" sid="s1">
+     <textspan>CGA7</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1900.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7042" gid="g6723" t="Gene/protein/RNA" fr="w30547" to="w30550" nam="yes" sid="s1">
+     <textspan>SMC myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1900.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7043" gid="g6724" t="Gene/protein/RNA" fr="w30554" to="w30554" nam="yes" sid="s1">
+     <textspan>SM1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1900.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7045" gid="g6726" t="Gene/protein/RNA" fr="w30557" to="w30557" nam="yes" sid="s1">
+     <textspan>SM2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1900.5"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2696" t="COOF-MEMBER" e1="e7041" e2="e7044" re="">
+     <textspan>anti muscle actin antibodies , HHF35 and CGA7</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2696" t="MEMBER" e1="e7040" e2="e7041" re="">
+     <textspan>anti muscle actin antibodies , HHF35</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2697" t="MEMBER" e1="e7040" e2="e7044" re="">
+     <textspan>anti muscle actin antibodies , HHF35 and CGA7</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

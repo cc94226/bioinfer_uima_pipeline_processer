@@ -1,0 +1,63 @@
+<rexml>
+<doc id="124">
+  
+  <markup>
+   <nes>
+    <ne id="e498" gid="g484" t="Substructure_of_protein" fr="w2014" to="w2022" nam="yes" sid="s1">
+     <textspan>site on [..] spleen actin [..] gamma</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.124.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e495" gid="g481" t="Individual_protein" fr="w2017" to="w2020" nam="yes" sid="s1">
+     <textspan>spleen actin [..] beta</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.124.1"/>
+      <exattr n="nst" v="st.124.30.0"/>
+      <exattr n="nst" v="st.124.31.0"/>
+      <exattr n="nst" v="st.124.33.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e500" gid="g486" t="Individual_protein" fr="w2031" to="w2031" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.124.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r191" t="INTERACT" e1="e495" e2="e500" re="e496">
+     <textspan>spleen actin ( beta , gamma ) which appears to regulate the interaction with profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.124.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

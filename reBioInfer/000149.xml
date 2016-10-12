@@ -1,0 +1,67 @@
+<rexml>
+<doc id="149">
+  <text>
+<p><s id="s1"><w id="w2377">A</w> <w id="w2378">pre-treatment</w> <w id="w2379">of</w> <w id="w2380">cells</w> <w id="w2381">with</w> <w id="w2382">SGE</w> <w id="w2383">from</w> <w id="w2384">partially</w> <w id="w2385">fed</w> <w id="w2386">ticks</w> <w id="w2387">in</w> <w id="w2388">amounts</w> <w id="w2389">corresponding</w> <w id="w2390">to</w> <w id="w2391">1</w> <w id="w2392">or</w> <w id="w2393">3</w> <w id="w2394">salivary</w> <w id="w2395">glands</w> <w id="w2396">increased</w> <w id="w2397">the</w> <w id="w2398">level</w> <w id="w2399">of</w> <w id="w2400">both</w> <w id="w2401">viral</w> <w id="w2402">nucleocapsid</w> <w id="w2403">(</w> <w id="w2404">N</w> <w id="w2405">)</w> <w id="w2406">protein</w> <w id="w2407">and</w> <w id="w2408">phosphoprotein</w> <w id="w2409">(</w> <w id="w2410">P</w> <w id="w2411">)</w> <w id="w2412">in</w> <w id="w2413">a</w> <w id="w2414">dose-dependent</w> <w id="w2415">manner</w> <w id="w2416">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e575" gid="g556" t="Individual_protein" fr="w2402" to="w2406" nam="yes">
+     <textspan type="extent">nucleocapsid [..] protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.149.0"/>
+      <exattr n="nst" v="st.149.25.0"/>
+      <exattr n="nst" v="st.149.29.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e576" gid="g556" t="Individual_protein" fr="w2404" to="w2404" nam="yes">
+     <textspan type="extent">N</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.149.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e577" gid="g557" t="Individual_protein" fr="w2408" to="w2408" nam="yes">
+     <textspan type="extent">phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.149.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e578" gid="g557" t="Individual_protein" fr="w2410" to="w2410" nam="yes">
+     <textspan type="extent">P</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.149.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

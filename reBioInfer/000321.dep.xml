@@ -1,0 +1,55 @@
+<rexml>
+<doc id="321">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4896" g="w4897" t="nn" cr="nn:w4897" w="cDNA" l="~" p="N"/>
+     <dpg d="w4897" g="w4908" t="s" cr="s+obj:w4908||subj:w4914||s+subj:w4916" w="clones" l="clone" p="N"/>
+     <dpg d="w4898" g="w4897" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4899" g="w4900" t="det" cr="det:w4900" w="the" l="~" p="Det"/>
+     <dpg d="w4900" g="w4898" t="pcomp-n" cr="mod*of*n:w4897" w="N" l="~" p="N"/>
+     <dpg d="w4901" g="w4900" t="punc" cr="punc:w4900" w="," l="~" p="U"/>
+     <dpg d="w4902" g="w4900" t="conj" cr="conj:w4900" w="P" l="~" p="N"/>
+     <dpg d="w4903" g="w4902" t="punc" cr="punc:w4902" w="," l="~" p="U"/>
+     <dpg d="w4904" g="w4902" t="punc" cr="punc:w4902" w="and" l="~" p="U"/>
+     <dpg d="w4905" g="w4906" t="mod" cr="mod:w4906" w="L" l="~" p="A"/>
+     <dpg d="w4906" g="w4902" t="conj" cr="conj:w4902" w="genes" l="gene" p="N"/>
+     <dpg d="w4907" g="w4908" t="be" cr="be:w4908" w="were" l="be" p="be"/>
+     <dpg d="w4908" g="E1" t="i" cr="" w="constructed" l="construct" p="V"/>
+     <dpg d="E4" g="w4908" t="obj" cr="" w="" l="clone" p="N"/>
+     <dpg d="E4" g="w4897" t="antecedent" cr="" w="" l="clone" p="N"/>
+     <dpg d="w4909" g="w4908" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w4910" g="w4912" t="mod" cr="mod:w4912" w="pGEM-based" l="pGEM-based" p="A"/>
+     <dpg d="w4911" g="w4912" t="nn" cr="nn:w4912" w="expression" l="~" p="N"/>
+     <dpg d="w4912" g="w4909" t="pcomp-n" cr="mod*in*n:w4908" w="plasmids" l="~" p="N"/>
+     <dpg d="w4913" g="w4908" t="punc" cr="punc:w4908" w="and" l="~" p="U"/>
+     <dpg d="w4914" g="w4908" t="conj" cr="conj:w4908" w="shown" l="show" p="V"/>
+     <dpg d="E5" g="w4914" t="subj" cr="" w="" l="clone" p="N"/>
+     <dpg d="E5" g="w4897" t="antecedent" cr="" w="" l="clone" p="N"/>
+     <dpg d="E0" g="w4914" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w4897" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w4915" g="w4916" t="aux" cr="aux:w4916" w="to" l="~" p="Aux"/>
+     <dpg d="w4916" g="E0" t="i" cr="mod:w4914" w="direct" l="~" p="V"/>
+     <dpg d="E6" g="w4916" t="subj" cr="" w="" l="clone" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="clone" p="N"/>
+     <dpg d="w4917" g="w4916" t="obj" cr="obj:w4916" w="expression" l="~" p="N"/>
+     <dpg d="w4918" g="w4917" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4919" g="w4921" t="det" cr="det:w4921" w="the" l="~" p="Det"/>
+     <dpg d="w4920" g="w4921" t="mod" cr="mod:w4921" w="appropriate" l="~" p="A"/>
+     <dpg d="w4921" g="w4918" t="pcomp-n" cr="mod*of*n:w4917" w="polypeptides" l="polypeptide" p="N"/>
+     <dpg d="w4922" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

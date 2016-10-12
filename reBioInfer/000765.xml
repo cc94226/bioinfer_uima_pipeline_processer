@@ -1,0 +1,35 @@
+<rexml>
+<doc id="765">
+  <text>
+<p><s id="s1"><w id="w11860">In</w> <w id="w11861">growth</w> <w id="w11862">cones</w> <w id="w11863">,</w> <w id="w11864">myosin</w> <w id="w11865">heavy</w> <w id="w11866">chain</w> <w id="w11867">B</w> <w id="w11868">was</w> <w id="w11869">most</w> <w id="w11870">concentrated</w> <w id="w11871">in</w> <w id="w11872">the</w> <w id="w11873">margin</w> <w id="w11874">bordering</w> <w id="w11875">the</w> <w id="w11876">thickened</w> <w id="w11877">,</w> <w id="w11878">organelle-rich</w> <w id="w11879">central</w> <w id="w11880">region</w> <w id="w11881">and</w> <w id="w11882">the</w> <w id="w11883">thin</w> <w id="w11884">,</w> <w id="w11885">actin</w><w id="w11886">-rich</w> <w id="w11887">peripheral</w> <w id="w11888">region</w> <w id="w11889">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2767" gid="g2651" t="Gene/protein/RNA" fr="w11864" to="w11867" nam="yes">
+     <textspan type="extent">myosin heavy chain B</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.765.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2768" gid="g2652" t="Gene/protein/RNA" fr="w11885" to="w11885" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.765.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

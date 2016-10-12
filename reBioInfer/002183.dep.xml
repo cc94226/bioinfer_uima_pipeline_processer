@@ -1,0 +1,90 @@
+<rexml>
+<doc id="2183">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E8" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E8" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w33852" g="w33853" t="s" cr="s+subj:w33853" w="We" l="~" p="N"/>
+     <dpg d="w33853" g="E1" t="i" cr="UNSPECRELTYPE:w33872" w="used" l="use" p="V"/>
+     <dpg d="E9" g="w33853" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E9" g="w33852" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w33854" g="w33853" t="obj" cr="obj:w33853" w="yeast" l="~" p="N"/>
+     <dpg d="w33855" g="w33854" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w33856" g="w33857" t="det" cr="det:w33857" w="a" l="~" p="Det"/>
+     <dpg d="w33857" g="w33855" t="pcomp-n" cr="mod*as*n:w33854||s+subj:w33859||subj:w33863" w="model" l="~" p="N"/>
+     <dpg d="E0" g="w33857" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E6" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w33857" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w33858" g="w33859" t="aux" cr="aux:w33859" w="to" l="~" p="Aux"/>
+     <dpg d="w33859" g="E0" t="i" cr="rel:w33857" w="test" l="~" p="V"/>
+     <dpg d="E10" g="w33859" t="subj" cr="" w="" l="model" p="N"/>
+     <dpg d="E10" g="E6" t="antecedent" cr="" w="" l="model" p="N"/>
+     <dpg d="w33860" g="w33861" t="det" cr="det:w33861" w="this" l="~" p="Det"/>
+     <dpg d="w33861" g="w33859" t="obj" cr="obj:w33859" w="hypothesis" l="~" p="N"/>
+     <dpg d="w33862" g="w33859" t="punc" cr="punc:w33859" w="and" l="~" p="U"/>
+     <dpg d="w33863" g="w33859" t="conj" cr="conj:w33859" w="found" l="find" p="V"/>
+     <dpg d="E11" g="w33863" t="subj" cr="" w="" l="model" p="N"/>
+     <dpg d="E11" g="E6" t="antecedent" cr="" w="" l="model" p="N"/>
+     <dpg d="w33864" g="w33866" t="det" cr="det:w33866" w="that" l="~" p="Det"/>
+     <dpg d="w33865" g="w33866" t="nn" cr="nn:w33866" w="chromosome" l="~" p="N"/>
+     <dpg d="w33866" g="w33863" t="obj1" cr="obj1:w33863" w="deletion" l="~" p="N"/>
+     <dpg d="w33867" g="w33866" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33868" g="w33867" t="pcomp-n" cr="mod*of*n:w33866" w="any" l="~" p="N"/>
+     <dpg d="w33869" g="w33863" t="desc" cr="desc:w33863" w="known" l="~" p="A"/>
+     <dpg d="w33870" g="E8" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w33872" w="nuclear" l="~" p="A"/>
+     <dpg d="w33871" g="E8" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w33872" w="mitotic" l="~" p="A"/>
+     <dpg d="w33872" g="E8" t="i" cr="" w="mismatch" l="~" p="V"/>
+     <dpg d="w33873" g="w33874" t="nn" cr="nn:w33874" w="repair" l="~" p="N"/>
+     <dpg d="w33874" g="w33872" t="obj" cr="obj:w33872" w="genes" l="gene" p="N"/>
+     <dpg d="w33875" g="w33872" t="punc" cr="punc:w33872" w="," l="~" p="U"/>
+     <dpg d="E4" g="w33872" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E4" t="s" cr="s+subj:w33876" w="" l="~" p="N"/>
+     <dpg d="w33876" g="E4" t="i" cr="mod:w33872" w="including" l="include" p="V"/>
+     <dpg d="E12" g="w33876" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E12" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w33877" g="w33876" t="obj" cr="obj:w33876" w="MLH1" l="~" p="N"/>
+     <dpg d="w33878" g="w33877" t="punc" cr="punc:w33877" w="," l="~" p="U"/>
+     <dpg d="w33879" g="w33877" t="conj" cr="conj:w33877" w="MSH2" l="~" p="N"/>
+     <dpg d="w33880" g="w33879" t="punc" cr="punc:w33879" w="," l="~" p="U"/>
+     <dpg d="w33881" g="w33879" t="conj" cr="conj:w33879" w="MSH3" l="~" p="N"/>
+     <dpg d="w33882" g="w33881" t="punc" cr="punc:w33881" w="," l="~" p="U"/>
+     <dpg d="w33883" g="w33881" t="conj" cr="conj:w33881" w="MSH6" l="~" p="N"/>
+     <dpg d="w33884" g="w33883" t="punc" cr="punc:w33883" w="," l="~" p="U"/>
+     <dpg d="w33885" g="w33883" t="punc" cr="punc:w33883" w="and" l="~" p="U"/>
+     <dpg d="w33886" g="w33883" t="conj" cr="conj:w33883" w="PMS1" l="~" p="N"/>
+     <dpg d="w33887" g="E8" t="punc" cr="punc:w33872" w="," l="~" p="U"/>
+     <dpg d="E3" g="E8" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w33872" w="" l="~" p="Q"/>
+     <dpg d="E2" g="E3" t="head" cr="head:E3" w="" l="~" p="YNQ"/>
+     <dpg d="w33888" g="E2" t="inv-aux" cr="inv-aux:E2" w="did" l="do" p="Aux"/>
+     <dpg d="w33889" g="w33888" t="neg" cr="neg:w33888" w="not" l="~" p="A"/>
+     <dpg d="w33890" g="w33895" t="nn" cr="nn:w33895" w="rescue" l="~" p="N"/>
+     <dpg d="w33891" g="w33895" t="nn" cr="nn:w33895" w="mgt1" l="~" p="N"/>
+     <dpg d="w33892" g="w33895" t="nn" cr="nn:w33895" w="delta" l="~" p="N"/>
+     <dpg d="w33893" g="w33895" t="lex-mod" cr="lex-mod:w33895" w="O6" l="~" p="U"/>
+     <dpg d="w33894" g="w33895" t="lex-mod" cr="lex-mod:w33895" w="MeG" l="~" p="U"/>
+     <dpg d="w33895" g="w33896" t="s" cr="s+subj:w33896" w="DNA" l="O6 MeG DNA" p="N"/>
+     <dpg d="w33896" g="E2" t="head" cr="head:E2" w="repair" l="~" p="V"/>
+     <dpg d="E13" g="w33896" t="subj" cr="" w="" l="O6 MeG DNA" p="N"/>
+     <dpg d="E13" g="w33895" t="antecedent" cr="" w="" l="O6 MeG DNA" p="N"/>
+     <dpg d="w33897" g="w33898" t="lex-mod" cr="lex-mod:w33898" w="methyltransferase" l="~" p="U"/>
+     <dpg d="w33898" g="w33899" t="mod" cr="mod:w33899" w="-deficient" l="methyltransferase -deficient" p="A"/>
+     <dpg d="w33899" g="w33896" t="obj" cr="obj:w33896" w="cells" l="cell" p="N"/>
+     <dpg d="w33900" g="w33899" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w33901" g="w33900" t="pcomp-n" cr="mod*from*n:w33899" w="killing" l="~" p="N"/>
+     <dpg d="w33902" g="w33901" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w33903" g="w33902" t="pcomp-n" cr="mod*by*n:w33901" w="MNNG" l="~" p="N"/>
+     <dpg d="w33904" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

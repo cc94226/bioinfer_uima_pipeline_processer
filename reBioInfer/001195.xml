@@ -1,0 +1,116 @@
+<rexml>
+<doc id="1195">
+  <text>
+<p><s id="s1"><w id="w18903">Regulation</w> <w id="w18904">of</w> <w id="w18905">actin</w> <w id="w18906">dynamics</w> <w id="w18907">through</w> <w id="w18908">phosphorylation</w> <w id="w18909">of</w> <w id="w18910">cofilin</w> <w id="w18911">by</w> <w id="w18912">LIM-kinase</w> <w id="w18913">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4379" gid="g4186" t="CONTROL" fr="w18903" to="w18906">
+     <textspan type="extent">Regulation of actin dynamics</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Unspecified"/>
+      <exattr n="t4" v="CONTROL"/>
+      <exattr n="bd" v="e.1195.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4380" gid="g4187" t="RELATIONSHIP_TEXTBINDING" fr="w18907" to="w18907">
+     <textspan type="extent">through</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1195.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4381" gid="g4188" t="Individual_protein" fr="w18912" to="w18912" nam="yes">
+     <textspan type="extent">LIM-kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1195.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4382" gid="g4189" t="RELATIONSHIP_TEXTBINDING" fr="w18908" to="w18911">
+     <textspan type="extent">phosphorylation of [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1195.3"/>
+      <exattr n="nst" v="st.1195.5.0"/>
+      <exattr n="nst" v="st.1195.6.0"/>
+      <exattr n="nst" v="st.1195.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4383" gid="g4190" t="Dynamics_property" fr="w18905" to="w18906">
+     <textspan type="extent">actin dynamics</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.1195.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4384" gid="g4191" t="Individual_protein" fr="w18910" to="w18910" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1195.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4385" gid="g4192" t="Individual_protein" fr="w18905" to="w18905" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1195.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1675" t="MEDIATE" e1="e4382" e2="e4379" re="e4380">
+     <textspan type="extent">Regulation of actin dynamics through phosphorylation of cofilin by LIM-kinase</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1195.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1676" t="PHOSPHORYLATE" e1="e4381" e2="e4384" re="e4382">
+     <textspan type="extent">phosphorylation of cofilin by LIM-kinase</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1195.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+     </exattrs>
+    </rel>
+    <rel id="r1677" t="RELATE" e1="e4381" e2="e4379" re="e4380">
+     <textspan type="extent">Regulation of actin dynamics through phosphorylation of cofilin by LIM-kinase</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1195.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

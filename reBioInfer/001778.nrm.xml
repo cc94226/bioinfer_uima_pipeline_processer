@@ -1,0 +1,124 @@
+<rexml>
+<doc id="1778">
+  
+  <markup>
+   <nes>
+    <ne id="e6585" gid="g6279" t="Individual_protein" fr="w28449" to="w28450" nam="yes" sid="s1">
+     <textspan>Tetrahymena fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1778.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6590" gid="g6284" t="Individual_protein" fr="w28450" to="w28450" nam="yes" sid="s1">
+     <textspan>fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1778.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6588" gid="g6282" t="Individual_protein" fr="w28453" to="w28453" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1778.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6587" gid="g6281" t="Individual_protein" fr="w28467" to="w28468" nam="yes" sid="s1">
+     <textspan>Tetrahymena fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1778.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6592" gid="g6286" t="Individual_protein" fr="w28468" to="w28468" nam="yes" sid="s1">
+     <textspan>fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1778.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6589" gid="g6283" t="Cell_component" fr="w28471" to="w28472" nam="yes" sid="s1">
+     <textspan>actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1778.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6593" gid="g6287" t="Individual_protein" fr="w28471" to="w28471" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1778.8"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2535" t="BIND" e1="e6585" e2="e6588" re="e6586">
+     <textspan>Tetrahymena fimbrin has two actin - binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1778.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2536" t="CROSS-LINK-AP" e1="e6587" e2="e6589" re="e6591">
+     <textspan>Tetrahymena fimbrin probably cross-links actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1778.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="CROSS-LINK-AP"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

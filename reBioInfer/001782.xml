@@ -1,0 +1,197 @@
+<rexml>
+<doc id="1782">
+  <text>
+<p><s id="s1"><w id="w28537">The</w> <w id="w28538">tumor</w> <w id="w28539">necrosis</w> <w id="w28540">factor</w> <w id="w28541">receptor</w> <w id="w28542">1</w> <w id="w28543">(</w> <w id="w28544">TNFR1</w> <w id="w28545">)</w> <w id="w28546">and</w> <w id="w28547">the</w> <w id="w28548">Fas</w> <w id="w28549">receptor</w> <w id="w28550">recruit</w> <w id="w28551">complexes</w> <w id="w28552">formed</w> <w id="w28553">by</w> <w id="w28554">the</w> <w id="w28555">interactions</w> <w id="w28556">between</w> <w id="w28557">RIP</w> <w id="w28558">kinase</w> <w id="w28559">,</w> <w id="w28560">TRADD</w> <w id="w28561">,</w> <w id="w28562">FADD</w> <w id="w28563">and</w> <w id="w28564">RAIDD</w> <w id="w28565">-</w> <w id="w28566">adaptor</w> <w id="w28567">proteins</w> <w id="w28568">that</w> <w id="w28569">contain</w> <w id="w28570">death</w> <w id="w28571">domains</w> <w id="w28572">-</w> <w id="w28573">which</w> <w id="w28574">in</w> <w id="w28575">turn</w> <w id="w28576">recruit</w> <w id="w28577">other</w> <w id="w28578">proteins</w> <w id="w28579">to</w> <w id="w28580">initiate</w> <w id="w28581">signaling</w> <w id="w28582">[</w> <w id="w28583">1][2][3][4][5</w> <w id="w28584">]</w> <w id="w28585">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6610" gid="g6303" t="RELATIONSHIP_TEXTBINDING" fr="w28555" to="w28556">
+     <textspan type="extent">interactions between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1782.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6611" gid="g6304" t="Individual_protein" fr="w28557" to="w28558" nam="yes">
+     <textspan type="extent">RIP kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1782.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6612" gid="g6305" t="Individual_protein" fr="w28562" to="w28562" nam="yes">
+     <textspan type="extent">FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1782.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6613" gid="g6306" t="RELATIONSHIP_TEXTBINDING" fr="w28551" to="w28553">
+     <textspan type="extent">complexes formed by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1782.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6614" gid="g6307" t="Individual_protein" fr="w28544" to="w28544" nam="yes">
+     <textspan type="extent">TNFR1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1782.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6615" gid="g6308" t="Individual_protein" fr="w28564" to="w28564" nam="yes">
+     <textspan type="extent">RAIDD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1782.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6616" gid="g6309" t="Individual_protein" fr="w28548" to="w28548" nam="yes">
+     <textspan type="extent">Fas</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1782.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6617" gid="g6310" t="Individual_protein" fr="w28560" to="w28560" nam="yes">
+     <textspan type="extent">TRADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1782.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6618" gid="g6311" t="RELATIONSHIP_TEXTBINDING" fr="w28550" to="w28550">
+     <textspan type="extent">recruit</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1782.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6619" gid="g6312" t="Individual_protein" fr="w28548" to="w28549" nam="yes">
+     <textspan type="extent">Fas receptor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1782.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6620" gid="g6307" t="Individual_protein" fr="w28538" to="w28542" nam="yes">
+     <textspan type="extent">tumor necrosis factor receptor 1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1782.10"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2542" t="INTERACT" e1="e6611" e2="e6617,e6612,e6615" re="e6610">
+     <textspan type="extent">interactions between RIP kinase , TRADD , FADD and RAIDD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1782.0"/>
+      <exattr n="arg" v="e6611"/>
+      <exattr n="arg" v="e6617"/>
+      <exattr n="arg" v="e6612"/>
+      <exattr n="arg" v="e6615"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2543" t="LOCALIZE" e1="e6620" e2="e6613" re="e6618">
+     <textspan type="extent">tumor necrosis factor receptor 1 ( TNFR1 ) and the Fas receptor recruit complexes formed by the interactions between RIP kinase , TRADD , FADD and RAIDD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1782.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2544" t="MUTUALCOMPLEX" e1="e6611" e2="e6617,e6612,e6615" re="e6613">
+     <textspan type="extent">complexes formed by the interactions between RIP kinase , TRADD , FADD and RAIDD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1782.3"/>
+      <exattr n="arg" v="e6611"/>
+      <exattr n="arg" v="e6617"/>
+      <exattr n="arg" v="e6612"/>
+      <exattr n="arg" v="e6615"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="MUTUALCOMPLEX"/>
+     </exattrs>
+    </rel>
+    <rel id="r2545" t="LOCALIZE" e1="e6619" e2="e6613" re="e6618">
+     <textspan type="extent">Fas receptor recruit complexes formed by the interactions between RIP kinase , TRADD , FADD and RAIDD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1782.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2546" t="MUTUALCOMPLEX" e1="e6611" e2="e6617,e6612,e6615" re="e6613">
+     <textspan type="extent">complexes formed by the interactions between RIP kinase , TRADD , FADD and RAIDD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1782.3"/>
+      <exattr n="arg" v="e6611"/>
+      <exattr n="arg" v="e6617"/>
+      <exattr n="arg" v="e6612"/>
+      <exattr n="arg" v="e6615"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="MUTUALCOMPLEX"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

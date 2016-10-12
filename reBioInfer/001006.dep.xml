@@ -1,0 +1,40 @@
+<rexml>
+<doc id="1006">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w15981" g="w15982" t="mod" cr="mod:w15982" w="Motile" l="~" p="A"/>
+     <dpg d="w15982" g="w15986" t="s" cr="s:w15986||subj:w15987" w="areas" l="area" p="N"/>
+     <dpg d="w15983" g="w15982" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15984" g="w15985" t="nn" cr="nn:w15985" w="leech" l="~" p="N"/>
+     <dpg d="w15985" g="w15983" t="pcomp-n" cr="mod*of*n:w15982" w="neurites" l="~" p="N"/>
+     <dpg d="w15986" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="are" l="be" p="VBE"/>
+     <dpg d="w15987" g="w15986" t="pred" cr="pred:w15986" w="rich" l="~" p="A"/>
+     <dpg d="E3" g="w15987" t="subj" cr="" w="" l="area" p="N"/>
+     <dpg d="E3" g="w15982" t="antecedent" cr="" w="" l="area" p="N"/>
+     <dpg d="w15988" g="w15987" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w15989" g="w15988" t="pcomp-n" cr="mod*in*n:w15987" w="microfilaments" l="~" p="N"/>
+     <dpg d="w15990" g="w15989" t="punc" cr="punc:w15989" w="and" l="~" p="U"/>
+     <dpg d="w15991" g="w15993" t="nn" cr="nn:w15993" w="two" l="~" p="N"/>
+     <dpg d="w15992" g="w15993" t="mod" cr="mod:w15993" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w15993" g="w15989" t="conj" cr="conj:w15989" w="proteins" l="protein" p="N"/>
+     <dpg d="w15994" g="E2" t="punc" cr="punc:E2" w=":" l="~" p="U"/>
+     <dpg d="w15995" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="gelsolin" l="~" p="N"/>
+     <dpg d="w15996" g="w15995" t="punc" cr="punc:w15995" w="and" l="~" p="U"/>
+     <dpg d="w15997" g="w15995" t="conj" cr="conj:w15995" w="profilin" l="~" p="N"/>
+     <dpg d="w15998" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

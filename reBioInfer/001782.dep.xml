@@ -1,0 +1,88 @@
+<rexml>
+<doc id="1782">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E8" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E4" g="E8" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28537" g="w28542" t="det" cr="det:w28542" w="The" l="~" p="Det"/>
+     <dpg d="w28538" g="w28542" t="lex-mod" cr="lex-mod:w28542" w="tumor" l="~" p="U"/>
+     <dpg d="w28539" g="w28542" t="lex-mod" cr="lex-mod:w28542" w="necrosis" l="~" p="U"/>
+     <dpg d="w28540" g="w28542" t="lex-mod" cr="lex-mod:w28542" w="factor" l="~" p="U"/>
+     <dpg d="w28541" g="w28542" t="lex-mod" cr="lex-mod:w28542" w="receptor" l="~" p="U"/>
+     <dpg d="w28542" g="w28550" t="s" cr="s+subj:w28550" w="1" l="tumor necrosis factor receptor 1" p="N"/>
+     <dpg d="w28543" g="w28544" t="punc" cr="punc:w28544" w="(" l="~" p="U"/>
+     <dpg d="w28544" g="w28542" t="abbrev" cr="abbrev:w28542" w="TNFR1" l="~" p="N"/>
+     <dpg d="w28545" g="w28544" t="punc" cr="punc:w28544" w=")" l="~" p="U"/>
+     <dpg d="w28546" g="w28542" t="punc" cr="punc:w28542" w="and" l="~" p="U"/>
+     <dpg d="w28547" g="w28549" t="det" cr="det:w28549" w="the" l="~" p="Det"/>
+     <dpg d="w28548" g="w28549" t="nn" cr="nn:w28549" w="Fas" l="fa" p="N"/>
+     <dpg d="w28549" g="w28542" t="conj" cr="conj:w28542" w="receptor" l="~" p="N"/>
+     <dpg d="w28550" g="E4" t="i" cr="UNSPECRELTYPE:E8" w="recruit" l="~" p="V"/>
+     <dpg d="E9" g="w28550" t="subj" cr="" w="" l="tumor necrosis factor receptor 1" p="N"/>
+     <dpg d="E9" g="w28542" t="antecedent" cr="" w="" l="tumor necrosis factor receptor 1" p="N"/>
+     <dpg d="w28551" g="w28550" t="obj" cr="obj:w28550" w="complexes" l="complex" p="N"/>
+     <dpg d="w28552" g="w28551" t="pnmod" cr="pnmod:w28551" w="formed" l="~" p="A"/>
+     <dpg d="w28553" g="w28552" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w28554" g="w28555" t="det" cr="det:w28555" w="the" l="~" p="Det"/>
+     <dpg d="w28555" g="w28553" t="pcomp-n" cr="mod*by*n:w28552" w="interactions" l="interaction" p="N"/>
+     <dpg d="w28556" g="w28555" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w28557" g="w28558" t="nn" cr="nn:w28558" w="RIP" l="~" p="N"/>
+     <dpg d="w28558" g="w28556" t="pcomp-n" cr="mod*between*n:w28555" w="kinase" l="~" p="N"/>
+     <dpg d="w28559" g="w28558" t="punc" cr="punc:w28558" w="," l="~" p="U"/>
+     <dpg d="w28560" g="w28558" t="appo" cr="appo:w28558" w="TRADD" l="~" p="N"/>
+     <dpg d="w28561" g="E8" t="punc" cr="punc:E8" w="," l="~" p="U"/>
+     <dpg d="E3" g="E8" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28562" g="w28576" t="s" cr="s+subj:w28576" w="FADD" l="~" p="N"/>
+     <dpg d="w28563" g="w28562" t="punc" cr="punc:w28562" w="and" l="~" p="U"/>
+     <dpg d="w28564" g="w28566" t="lex-mod" cr="lex-mod:w28566" w="RAIDD" l="~" p="U"/>
+     <dpg d="w28565" g="w28566" t="lex-mod" cr="lex-mod:w28566" w="-" l="~" p="U"/>
+     <dpg d="w28566" g="w28567" t="mod" cr="mod:w28567" w="adaptor" l="RAIDD - adaptor" p="A"/>
+     <dpg d="w28567" g="w28562" t="conj" cr="conj:w28562||subj:w28569" w="proteins" l="protein" p="N"/>
+     <dpg d="E2" g="w28567" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28568" g="E2" t="whn" cr="whn:w28569" w="that" l="~" p="THAT"/>
+     <dpg d="w28568" g="w28567" t="antecedent" cr="antecedent:w28567" w="that" l="~" p="THAT"/>
+     <dpg d="w28569" g="E2" t="i" cr="rel:w28567" w="contain" l="~" p="V"/>
+     <dpg d="E10" g="w28569" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E10" g="w28567" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w28570" g="w28573" t="nn" cr="nn:w28573" w="death" l="~" p="N"/>
+     <dpg d="w28571" g="w28573" t="lex-mod" cr="lex-mod:w28573" w="domains" l="~" p="U"/>
+     <dpg d="w28572" g="w28573" t="lex-mod" cr="lex-mod:w28573" w="-" l="~" p="U"/>
+     <dpg d="w28573" g="w28569" t="obj" cr="obj:w28569" w="which" l="domains - which" p="N"/>
+     <dpg d="w28574" g="w28573" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w28575" g="w28574" t="pcomp-n" cr="mod*in*n:w28573" w="turn" l="~" p="N"/>
+     <dpg d="w28576" g="E3" t="i" cr="UNSPECRELTYPE:E8" w="recruit" l="~" p="V"/>
+     <dpg d="E11" g="w28576" t="subj" cr="" w="" l="FADD" p="N"/>
+     <dpg d="E11" g="w28562" t="antecedent" cr="" w="" l="FADD" p="N"/>
+     <dpg d="w28577" g="w28578" t="mod" cr="mod:w28578" w="other" l="~" p="A"/>
+     <dpg d="w28578" g="w28576" t="obj" cr="obj:w28576||s+subj:w28580||s+subj:w28581" w="proteins" l="protein" p="N"/>
+     <dpg d="E1" g="w28578" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E6" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w28578" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w28579" g="w28580" t="aux" cr="aux:w28580" w="to" l="~" p="Aux"/>
+     <dpg d="w28580" g="E1" t="i" cr="rel:w28578" w="initiate" l="~" p="V"/>
+     <dpg d="E12" g="w28580" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E12" g="E6" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="E0" g="w28580" t="guest" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E6" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w28581" g="E0" t="i" cr="guest:w28580" w="signaling" l="signal" p="V"/>
+     <dpg d="E13" g="w28581" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E13" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w28582" g="w28581" t="punc" cr="punc:w28581" w="[" l="~" p="U"/>
+     <dpg d="w28583" g="w28580" t="obj" cr="obj:w28580" w="1][2][3][4][5" l="~" p="N"/>
+     <dpg d="w28584" g="" t="" cr="" w="]" l="~" p="U"/>
+     <dpg d="w28585" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

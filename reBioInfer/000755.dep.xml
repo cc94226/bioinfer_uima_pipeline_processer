@@ -1,0 +1,60 @@
+<rexml>
+<doc id="755">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w11731" g="" t="" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w11732" g="w11733" t="mod" cr="mod:w11733" w="cultured" l="~" p="A"/>
+     <dpg d="w11733" g="w11731" t="pcomp-n" cr="pcomp-n:w11731" w="cells" l="cell" p="N"/>
+     <dpg d="w11734" g="w11733" t="punc" cr="punc:w11733" w="," l="~" p="U"/>
+     <dpg d="w11735" g="w11733" t="conj" cr="conj:w11733" w="cofilin" l="~" p="N"/>
+     <dpg d="w11736" g="w11735" t="punc" cr="punc:w11735" w="," l="~" p="U"/>
+     <dpg d="w11737" g="w11735" t="punc" cr="punc:w11735" w="as" l="~" p="U"/>
+     <dpg d="w11738" g="w11735" t="punc" cr="punc:w11735" w="well" l="~" p="U"/>
+     <dpg d="w11739" g="w11735" t="punc" cr="punc:w11735" w="as" l="~" p="U"/>
+     <dpg d="w11740" g="w11735" t="conj" cr="conj:w11735" w="ADF" l="~" p="N"/>
+     <dpg d="w11741" g="w11740" t="punc" cr="punc:w11740" w="," l="~" p="U"/>
+     <dpg d="w11742" g="w11740" t="conj" cr="conj:w11740" w="translocates" l="~" p="N"/>
+     <dpg d="w11743" g="w11742" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w11744" g="w11745" t="det" cr="det:w11745" w="the" l="~" p="Det"/>
+     <dpg d="w11745" g="w11743" t="pcomp-n" cr="mod*from*n:w11742" w="cytoplasm" l="~" p="N"/>
+     <dpg d="w11746" g="w11745" t="mod" cr="" w="into" l="~" p="Prep"/>
+     <dpg d="w11747" g="w11748" t="det" cr="det:w11748" w="the" l="~" p="Det"/>
+     <dpg d="w11748" g="w11746" t="pcomp-n" cr="mod*into*n:w11745" w="nucleus" l="~" p="N"/>
+     <dpg d="w11749" g="w11748" t="pnmod" cr="pnmod:w11748" w="together" l="~" p="A"/>
+     <dpg d="w11750" g="w11749" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w11751" g="w11750" t="pcomp-n" cr="mod*with*n:w11749" w="actin" l="~" p="N"/>
+     <dpg d="w11752" g="w11751" t="punc" cr="punc:w11751" w="and" l="~" p="U"/>
+     <dpg d="w11753" g="w11755" t="nn" cr="nn:w11755" w="forms" l="form" p="N"/>
+     <dpg d="w11754" g="w11755" t="mod" cr="mod:w11755" w="rod-like" l="rod-like" p="A"/>
+     <dpg d="w11755" g="w11751" t="conj" cr="conj:w11751" w="structures" l="structure" p="N"/>
+     <dpg d="w11756" g="w11755" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w11757" g="w11756" t="pcomp-n" cr="mod*in*n:w11755||s+subj:w11759" w="response" l="~" p="N"/>
+     <dpg d="E0" g="w11757" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E1" g="w11757" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w11758" g="w11759" t="aux" cr="aux:w11759" w="to" l="~" p="Aux"/>
+     <dpg d="w11759" g="E0" t="i" cr="rel:w11757" w="heat" l="~" p="V"/>
+     <dpg d="E3" g="w11759" t="subj" cr="" w="" l="response" p="N"/>
+     <dpg d="E3" g="E1" t="antecedent" cr="" w="" l="response" p="N"/>
+     <dpg d="w11760" g="w11759" t="obj" cr="obj:w11759" w="shock" l="~" p="N"/>
+     <dpg d="w11761" g="w11760" t="punc" cr="punc:w11760" w="or" l="~" p="U"/>
+     <dpg d="w11762" g="w11766" t="nn" cr="nn:w11766" w="dimethylsulfoxide" l="~" p="N"/>
+     <dpg d="w11763" g="w11764" t="punc" cr="punc:w11764" w="(" l="~" p="U"/>
+     <dpg d="w11764" g="w11762" t="abbrev" cr="abbrev:w11762" w="DMSO" l="~" p="N"/>
+     <dpg d="w11765" g="w11764" t="punc" cr="punc:w11764" w=")" l="~" p="U"/>
+     <dpg d="w11766" g="w11760" t="conj" cr="conj:w11760" w="treatment" l="~" p="N"/>
+     <dpg d="w11767" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,89 @@
+<rexml>
+<doc id="293">
+  <text>
+<p><s id="s1"><w id="w4544">CD26</w> <w id="w4545">is</w> <w id="w4546">a</w> <w id="w4547">T</w> <w id="w4548">cell</w> <w id="w4549">activation</w> <w id="w4550">antigen</w> <w id="w4551">known</w> <w id="w4552">to</w> <w id="w4553">bind</w> <w id="w4554">adenosine</w> <w id="w4555">deaminase</w> <w id="w4556">and</w> <w id="w4557">have</w> <w id="w4558">dipeptidyl</w> <w id="w4559">peptidase</w> <w id="w4560">IV</w> <w id="w4561">activity</w> <w id="w4562">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1098" gid="g1044" t="Individual_protein" fr="w4544" to="w4544" nam="yes">
+     <textspan type="extent">CD26</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.293.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1099" gid="g1045" t="RELATIONSHIP_TEXTBINDING" fr="w4553" to="w4553">
+     <textspan type="extent">bind</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.293.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1100" gid="g1046" t="RELATIONSHIP_TEXTBINDING" fr="w4557" to="w4561">
+     <textspan type="extent">have [..] activity</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.293.2"/>
+      <exattr n="nst" v="st.293.13.0"/>
+      <exattr n="nst" v="st.293.17.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1101" gid="g1047" t="Individual_protein" fr="w4554" to="w4555" nam="yes">
+     <textspan type="extent">adenosine deaminase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.293.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1102" gid="g1048" t="Individual_protein" fr="w4558" to="w4560" nam="yes">
+     <textspan type="extent">dipeptidyl peptidase IV</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.293.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r438" t="BIND" e1="e1098" e2="e1101" re="e1099">
+     <textspan type="extent">CD26 is a T cell activation antigen known to bind adenosine deaminase</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.293.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r439" t="FNSIMILAR" e1="e1098" e2="e1102" re="e1100">
+     <textspan type="extent">CD26 is a T cell activation antigen known to bind adenosine deaminase and have dipeptidyl peptidase IV activity</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.293.2"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Functional-Similarity"/>
+      <exattr n="t4" v="FNSIMILAR"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

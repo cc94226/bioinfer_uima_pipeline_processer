@@ -1,0 +1,61 @@
+<rexml>
+<doc id="1796">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28866" g="w28869" t="det" cr="det:w28869" w="The" l="~" p="Det"/>
+     <dpg d="w28867" g="w28869" t="nn" cr="nn:w28869" w="yeast" l="~" p="N"/>
+     <dpg d="w28868" g="w28869" t="mod" cr="mod:w28869" w="two-hybrid" l="two-hybrid" p="A"/>
+     <dpg d="w28869" g="w28870" t="s" cr="s:w28870||subj:w28871||s+subj:w28873" w="system" l="~" p="N"/>
+     <dpg d="w28870" g="E1" t="i" cr="" w="was" l="be" p="VBE"/>
+     <dpg d="w28871" g="w28870" t="pred" cr="pred:w28870" w="used" l="~" p="A"/>
+     <dpg d="E4" g="w28871" t="subj" cr="" w="" l="system" p="N"/>
+     <dpg d="E4" g="w28869" t="antecedent" cr="" w="" l="system" p="N"/>
+     <dpg d="E0" g="w28870" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w28869" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w28872" g="w28873" t="aux" cr="aux:w28873" w="to" l="~" p="Aux"/>
+     <dpg d="w28873" g="E0" t="i" cr="mod:w28870" w="identify" l="~" p="V"/>
+     <dpg d="E5" g="w28873" t="subj" cr="" w="" l="system" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="system" p="N"/>
+     <dpg d="w28874" g="w28873" t="obj" cr="obj:w28873||obj:w28875" w="domains" l="domain" p="N"/>
+     <dpg d="w28875" g="w28874" t="vrel" cr="vrel:w28874" w="involved" l="involve" p="V"/>
+     <dpg d="E6" g="w28875" t="obj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E6" g="w28874" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="w28876" g="w28875" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w28877" g="w28880" t="mod" cr="mod:w28880" w="specific" l="~" p="A"/>
+     <dpg d="w28878" g="w28879" t="lex-mod" cr="lex-mod:w28879" w="in" l="~" p="U"/>
+     <dpg d="w28879" g="w28880" t="mod" cr="mod:w28880" w="vivo" l="in vivo" p="A"/>
+     <dpg d="w28880" g="w28876" t="pcomp-n" cr="mod*in*n:w28875" w="interactions" l="interaction" p="N"/>
+     <dpg d="w28881" g="w28880" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w28882" g="w28890" t="det" cr="det:w28890" w="the" l="~" p="Det"/>
+     <dpg d="w28883" g="w28884" t="lex-mod" cr="lex-mod:w28884" w="Rinderpest" l="~" p="U"/>
+     <dpg d="w28884" g="w28890" t="nn" cr="nn:w28890" w="virus" l="Rinderpest virus" p="N"/>
+     <dpg d="w28885" g="w28886" t="punc" cr="punc:w28886" w="(" l="~" p="U"/>
+     <dpg d="w28886" g="w28884" t="abbrev" cr="abbrev:w28884" w="RPV" l="~" p="N"/>
+     <dpg d="w28887" g="w28886" t="punc" cr="punc:w28886" w=")" l="~" p="U"/>
+     <dpg d="w28888" g="w28890" t="nn" cr="nn:w28890" w="phosphoprotein" l="~" p="N"/>
+     <dpg d="w28889" g="w28890" t="punc" cr="punc:w28890" w="(" l="~" p="U"/>
+     <dpg d="w28890" g="w28881" t="pcomp-n" cr="mod*between*n:w28880" w="P" l="~" p="N"/>
+     <dpg d="w28891" g="w28890" t="punc" cr="punc:w28890" w=")" l="~" p="U"/>
+     <dpg d="w28892" g="w28890" t="punc" cr="punc:w28890" w="and" l="~" p="U"/>
+     <dpg d="w28893" g="w28896" t="nn" cr="nn:w28896" w="nucleocapsid" l="~" p="N"/>
+     <dpg d="w28894" g="w28896" t="nn" cr="nn:w28896" w="protein" l="~" p="N"/>
+     <dpg d="w28895" g="w28896" t="punc" cr="punc:w28896" w="(" l="~" p="U"/>
+     <dpg d="w28896" g="w28890" t="conj" cr="conj:w28890" w="N" l="~" p="N"/>
+     <dpg d="w28897" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w28898" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

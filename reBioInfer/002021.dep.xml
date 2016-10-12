@@ -1,0 +1,57 @@
+<rexml>
+<doc id="2021">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32186" g="w32187" t="s" cr="s+subj:w32187" w="We" l="~" p="N"/>
+     <dpg d="w32187" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="attribute" l="~" p="V"/>
+     <dpg d="E4" g="w32187" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E4" g="w32186" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w32188" g="w32189" t="det" cr="det:w32189" w="the" l="~" p="Det"/>
+     <dpg d="w32189" g="w32187" t="obj" cr="obj:w32187" w="detection" l="~" p="N"/>
+     <dpg d="w32190" g="w32189" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32191" g="w32190" t="pcomp-n" cr="mod*of*n:w32189" w="actin" l="~" p="N"/>
+     <dpg d="w32192" g="w32191" t="punc" cr="punc:w32191" w="and" l="~" p="U"/>
+     <dpg d="w32193" g="w32191" t="conj" cr="conj:w32191" w="profilin" l="~" p="N"/>
+     <dpg d="w32194" g="w32193" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w32195" g="w32197" t="det" cr="det:w32197" w="the" l="~" p="Det"/>
+     <dpg d="w32196" g="w32197" t="mod" cr="mod:w32197" w="applied" l="~" p="A"/>
+     <dpg d="w32197" g="w32194" t="pcomp-n" cr="mod*to*n:w32193||subj:w32199" w="cryomethods" l="~" p="N"/>
+     <dpg d="E0" g="w32197" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32198" g="E0" t="whn" cr="whn:w32199" w="which" l="~" p="N"/>
+     <dpg d="w32198" g="w32197" t="antecedent" cr="antecedent:w32197" w="which" l="~" p="N"/>
+     <dpg d="w32199" g="E0" t="i" cr="rel:w32197" w="yield" l="~" p="V"/>
+     <dpg d="E5" g="w32199" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E5" g="w32197" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w32200" g="w32201" t="det" cr="det:w32201" w="a" l="~" p="Det"/>
+     <dpg d="w32201" g="w32199" t="obj1" cr="obj1:w32199" w="much" l="~" p="N"/>
+     <dpg d="w32202" g="w32203" t="mod" cr="mod:w32203" w="better" l="~" p="A"/>
+     <dpg d="w32203" g="w32199" t="obj2" cr="obj2:w32199" w="preservation" l="~" p="N"/>
+     <dpg d="w32204" g="w32203" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32205" g="w32204" t="pcomp-n" cr="mod*of*n:w32203" w="ultrastructure" l="~" p="N"/>
+     <dpg d="w32206" g="E3" t="punc" cr="punc:E3" w="and" l="~" p="U"/>
+     <dpg d="w32207" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="antigenicity" l="~" p="A"/>
+     <dpg d="w32208" g="w32207" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32209" g="w32211" t="mod" cr="mod:w32211" w="delicate" l="~" p="A"/>
+     <dpg d="w32210" g="w32211" t="mod" cr="mod:w32211" w="cytoskeletal" l="~" p="A"/>
+     <dpg d="w32211" g="w32208" t="pcomp-n" cr="mod*of*n:w32207" w="constituents" l="constituent" p="N"/>
+     <dpg d="w32212" g="w32211" t="mod" cr="" w="than" l="~" p="Prep"/>
+     <dpg d="w32213" g="w32215" t="mod" cr="mod:w32215" w="conventional" l="~" p="A"/>
+     <dpg d="w32214" g="w32215" t="nn" cr="nn:w32215" w="fixation" l="~" p="N"/>
+     <dpg d="w32215" g="w32212" t="pcomp-n" cr="mod*than*n:w32211" w="techniques" l="technique" p="N"/>
+     <dpg d="w32216" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

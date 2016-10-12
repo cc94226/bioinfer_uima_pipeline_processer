@@ -1,0 +1,35 @@
+<rexml>
+<doc id="2021">
+  <text>
+<p><s id="s1"><w id="w32186">We</w> <w id="w32187">attribute</w> <w id="w32188">the</w> <w id="w32189">detection</w> <w id="w32190">of</w> <w id="w32191">actin</w> <w id="w32192">and</w> <w id="w32193">profilin</w> <w id="w32194">to</w> <w id="w32195">the</w> <w id="w32196">applied</w> <w id="w32197">cryomethods</w> <w id="w32198">which</w> <w id="w32199">yield</w> <w id="w32200">a</w> <w id="w32201">much</w> <w id="w32202">better</w> <w id="w32203">preservation</w> <w id="w32204">of</w> <w id="w32205">ultrastructure</w> <w id="w32206">and</w> <w id="w32207">antigenicity</w> <w id="w32208">of</w> <w id="w32209">delicate</w> <w id="w32210">cytoskeletal</w> <w id="w32211">constituents</w> <w id="w32212">than</w> <w id="w32213">conventional</w> <w id="w32214">fixation</w> <w id="w32215">techniques</w> <w id="w32216">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7355" gid="g7017" t="Gene/protein/RNA" fr="w32191" to="w32191" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2021.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7356" gid="g7018" t="Gene/protein/RNA" fr="w32193" to="w32193" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2021.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,228 @@
+<rexml>
+<doc id="1180">
+  <text>
+<p><s id="s1"><w id="w18659">Recombinant</w> <w id="w18660">plant</w> <w id="w18661">(</w> <w id="w18662">birch</w> <w id="w18663">)</w> <w id="w18664">profilin</w> <w id="w18665">was</w> <w id="w18666">analyzed</w> <w id="w18667">for</w> <w id="w18668">its</w> <w id="w18669">ability</w> <w id="w18670">to</w> <w id="w18671">promote</w> <w id="w18672">actin</w> <w id="w18673">polymerization</w> <w id="w18674">from</w> <w id="w18675">the</w> <w id="w18676">actin</w><w id="w18677">:</w><w id="w18678">thymosin</w> <w id="w18679">beta4</w> <w id="w18680">and</w> <w id="w18681">beta9</w> <w id="w18682">complex</w> <w id="w18683">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4338" gid="g4147" t="Individual_protein" fr="w18660" to="w18664" nam="yes">
+     <textspan type="extent">plant [..] profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1180.0"/>
+      <exattr n="nst" v="st.1180.1.0"/>
+      <exattr n="nst" v="st.1180.5.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4339" gid="g4148" t="RELATIONSHIP_TEXTBINDING" fr="w18671" to="w18671">
+     <textspan type="extent">promote</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1180.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4340" gid="g4149" t="RELATIONSHIP_TEXTBINDING" fr="w18673" to="w18674">
+     <textspan type="extent">polymerization from</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1180.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4341" gid="g4150" t="POLYMERIZATION" fr="w18672" to="w18673">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.1180.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4342" gid="g4151" t="Individual_protein" fr="w18678" to="w18681" nam="yes">
+     <textspan type="extent">thymosin [..] beta9</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1180.4"/>
+      <exattr n="nst" v="st.1180.17.2"/>
+      <exattr n="nst" v="st.1180.20.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4343" gid="g4152" t="Individual_protein" fr="w18678" to="w18679" nam="yes">
+     <textspan type="extent">thymosin beta4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1180.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4344" gid="g4147" t="Individual_protein" fr="w18668" to="w18668" nam="yes">
+     <textspan type="extent">its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1180.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4345" gid="g4147" t="Individual_protein" fr="w18662" to="w18664" nam="yes">
+     <textspan type="extent">birch [..] profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1180.7"/>
+      <exattr n="nst" v="st.1180.3.0"/>
+      <exattr n="nst" v="st.1180.5.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4346" gid="g4153" t="Individual_protein" fr="w18672" to="w18672" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1180.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e4347" gid="g4154" t="Protein_complex" fr="w18676" to="w18682" nam="yes">
+     <textspan type="extent">actin:thymosin beta4 and beta9 complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1180.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e4348" gid="g4155" t="Individual_protein" fr="w18676" to="w18676" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1180.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e4349" gid="g4156" t="Individual_protein" fr="w18664" to="w18664" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1180.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e4350" gid="g4157" t="RELATIONSHIP_TEXTBINDING" fr="w18682" to="w18682">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1180.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e4351" gid="g4158" t="Individual_protein" fr="w18664" to="w18664" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1180.13"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1669" t="STIMULATE" e1="e4344" e2="e4341" re="e4339">
+     <textspan type="extent">its ability to promote actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1180.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1670" t="CONTAIN" e1="e4347" e2="e4348" re="e4350">
+     <textspan type="extent">actin : thymosin beta4 and beta9 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1180.12"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1671" t="CONTAIN" e1="e4347" e2="e4343" re="e4350">
+     <textspan type="extent">actin : thymosin beta4 and beta9 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1180.12"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1672" t="CONTAIN" e1="e4347" e2="e4342" re="e4350">
+     <textspan type="extent">actin : thymosin beta4 and beta9 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1180.12"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1673" t="CONTAIN" e1="e4347" e2="e4346" re="e4340">
+     <textspan type="extent">actin polymerization from the actin : thymosin beta4 and beta9 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1180.2"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

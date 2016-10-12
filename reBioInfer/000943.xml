@@ -1,0 +1,74 @@
+<rexml>
+<doc id="943">
+  <text>
+<p><s id="s1"><w id="w14604">Linkage</w> <w id="w14605">between</w> <w id="w14606">cancer</w> <w id="w14607">susceptibility</w> <w id="w14608">and</w> <w id="w14609">the</w> <w id="w14610">candidate</w> <w id="w14611">DNA</w> <w id="w14612">mismatch</w> <w id="w14613">repair</w> <w id="w14614">genes</w> <w id="w14615">MLH1</w> <w id="w14616">,</w> <w id="w14617">MSH2</w> <w id="w14618">,</w> <w id="w14619">MSH3</w> <w id="w14620">,</w> <w id="w14621">and</w> <w id="w14622">MSH6</w> <w id="w14623">(</w> <w id="w14624">GTBP</w> <w id="w14625">)</w> <w id="w14626">was</w> <w id="w14627">investigated</w> <w id="w14628">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3330" gid="g3196" t="Gene/protein/RNA" fr="w14615" to="w14615" nam="yes">
+     <textspan type="extent">MLH1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.943.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3331" gid="g3197" t="Gene/protein/RNA" fr="w14619" to="w14619" nam="yes">
+     <textspan type="extent">MSH3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.943.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3332" gid="g3198" t="Gene/protein/RNA" fr="w14617" to="w14617" nam="yes">
+     <textspan type="extent">MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.943.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3333" gid="g3199" t="Gene" fr="w14624" to="w14624" nam="yes">
+     <textspan type="extent">GTBP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.943.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3334" gid="g3199" t="Gene" fr="w14622" to="w14622" nam="yes">
+     <textspan type="extent">MSH6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.943.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

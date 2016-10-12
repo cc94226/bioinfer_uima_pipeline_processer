@@ -1,0 +1,83 @@
+<rexml>
+<doc id="1269">
+  <text>
+<p><s id="s1"><w id="w20050">Since</w> <w id="w20051">functional</w> <w id="w20052">characteristics</w> <w id="w20053">for</w> <w id="w20054">profilin</w> <w id="w20055">II</w> <w id="w20056">are</w> <w id="w20057">lacking</w> <w id="w20058">,</w> <w id="w20059">we</w> <w id="w20060">assayed</w> <w id="w20061">the</w> <w id="w20062">actin</w> <w id="w20063">,</w> <w id="w20064">the</w> <w id="w20065">phosphatidylinositol</w> <w id="w20066">4,5-bisphosphate</w> <w id="w20067">and</w> <w id="w20068">the</w> <w id="w20069">poly(L-proline)</w> <w id="w20070">binding</w> <w id="w20071">properties</w> <w id="w20072">of</w> <w id="w20073">this</w> <w id="w20074">isoform</w> <w id="w20075">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4625" gid="g4423" t="Individual_protein" fr="w20054" to="w20055" nam="yes">
+     <textspan type="extent">profilin II</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1269.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4626" gid="g4424" t="RELATIONSHIP_TEXTBINDING" fr="w20070" to="w20070">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1269.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4627" gid="g4423" t="Individual_protein" fr="w20073" to="w20073" nam="yes">
+     <textspan type="extent">this</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1269.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4628" gid="g4425" t="Individual_protein" fr="w20062" to="w20062" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1269.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4629" gid="g4426" t="Individual_protein" fr="w20073" to="w20074" nam="yes">
+     <textspan type="extent">this isoform</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1269.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1762" t="BIND" e1="e4629" e2="e4628" re="e4626">
+     <textspan type="extent">actin , the phosphatidylinositol 4,5-bisphosphate and the poly(L-proline) binding properties of this isoform</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1269.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

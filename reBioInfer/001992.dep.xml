@@ -1,0 +1,55 @@
+<rexml>
+<doc id="1992">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="E2" g="E3" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E2" t="s" cr="s+subj:w31930" w="" l="~" p="N"/>
+     <dpg d="w31930" g="E2" t="i" cr="mod:w31935" w="Using" l="use" p="V"/>
+     <dpg d="E7" g="w31930" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31931" g="w31932" t="det" cr="det:w31932" w="these" l="~" p="Det"/>
+     <dpg d="w31932" g="w31930" t="obj" cr="obj:w31930" w="methods" l="method" p="N"/>
+     <dpg d="w31933" g="E3" t="punc" cr="punc:w31935" w="," l="~" p="U"/>
+     <dpg d="w31934" g="w31935" t="s" cr="s+subj:w31935" w="we" l="~" p="N"/>
+     <dpg d="w31935" g="E3" t="i" cr="" w="confirm" l="~" p="V"/>
+     <dpg d="E8" g="w31935" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E8" g="w31934" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w31936" g="w31937" t="mod" cr="mod:w31937" w="previous" l="~" p="A"/>
+     <dpg d="w31937" g="w31935" t="obj" cr="obj:w31935" w="reports" l="report" p="N"/>
+     <dpg d="E1" g="w31937" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31938" g="E1" t="c" cr="c:w31941" w="that" l="~" p="COMP"/>
+     <dpg d="w31939" g="w31940" t="mod" cr="mod:w31940" w="intact" l="~" p="A"/>
+     <dpg d="w31940" g="w31941" t="s" cr="s+subj:w31941" w="talin" l="~" p="N"/>
+     <dpg d="w31941" g="E1" t="i" cr="comp1:w31937" w="induces" l="induce" p="V"/>
+     <dpg d="E9" g="w31941" t="subj" cr="" w="" l="talin" p="N"/>
+     <dpg d="E9" g="w31940" t="antecedent" cr="" w="" l="talin" p="N"/>
+     <dpg d="w31942" g="w31941" t="obj" cr="obj:w31941" w="cross-linking" l="cross-linking" p="N"/>
+     <dpg d="w31943" g="w31942" t="punc" cr="punc:w31942" w="as" l="~" p="U"/>
+     <dpg d="w31944" g="w31942" t="punc" cr="punc:w31942" w="well" l="~" p="U"/>
+     <dpg d="w31945" g="w31942" t="punc" cr="punc:w31942" w="as" l="~" p="U"/>
+     <dpg d="w31946" g="w31942" t="conj" cr="conj:w31942||s+subj:w31947" w="filament" l="~" p="N"/>
+     <dpg d="E0" g="w31946" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w31946" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31947" g="E0" t="i" cr="rel:w31946" w="shortening" l="shorten" p="V"/>
+     <dpg d="E10" g="w31947" t="subj" cr="" w="" l="filament" p="N"/>
+     <dpg d="E10" g="E4" t="antecedent" cr="" w="" l="filament" p="N"/>
+     <dpg d="w31948" g="w31947" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w31949" g="w31950" t="nn" cr="nn:w31950" w="actin" l="~" p="N"/>
+     <dpg d="w31950" g="w31948" t="pcomp-n" cr="mod*on*n:w31947" w="networks" l="network" p="N"/>
+     <dpg d="w31951" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

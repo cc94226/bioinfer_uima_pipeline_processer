@@ -1,0 +1,40 @@
+<rexml>
+<doc id="1156">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18160" g="w18161" t="nn" cr="nn:w18161" w="PS1" l="~" p="N"/>
+     <dpg d="w18161" g="w18162" t="s" cr="s+subj:w18162" w="fragments" l="fragment" p="N"/>
+     <dpg d="w18162" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="form" l="~" p="V"/>
+     <dpg d="E3" g="w18162" t="subj" cr="" w="" l="fragment" p="N"/>
+     <dpg d="E3" g="w18161" t="antecedent" cr="" w="" l="fragment" p="N"/>
+     <dpg d="w18163" g="w18162" t="obj" cr="obj:w18162" w="complexes" l="complex" p="N"/>
+     <dpg d="w18164" g="w18163" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w18165" g="w18164" t="pcomp-n" cr="mod*with*n:w18163" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w18166" g="w18165" t="punc" cr="punc:w18165" w="," l="~" p="U"/>
+     <dpg d="w18167" g="w18165" t="conj" cr="conj:w18165" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w18168" g="w18167" t="punc" cr="punc:w18167" w="," l="~" p="U"/>
+     <dpg d="w18169" g="w18167" t="punc" cr="punc:w18167" w="and" l="~" p="U"/>
+     <dpg d="w18170" g="w18167" t="conj" cr="conj:w18167" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w18171" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w18172" g="w18173" t="pre" cr="pre:w18173" w="all" l="~" p="PreDet"/>
+     <dpg d="w18173" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="components" l="component" p="N"/>
+     <dpg d="w18174" g="w18173" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w18175" g="w18176" t="nn" cr="nn:w18176" w="adherens" l="~" p="N"/>
+     <dpg d="w18176" g="w18174" t="pcomp-n" cr="mod*of*n:w18173" w="junctions" l="junction" p="N"/>
+     <dpg d="w18177" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

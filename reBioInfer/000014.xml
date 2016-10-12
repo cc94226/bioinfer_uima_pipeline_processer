@@ -1,0 +1,70 @@
+<rexml>
+<doc id="14">
+  <text>
+<p><s id="s1"><w id="w195">Acanthamoeba</w> <w id="w196">profilin</w> <w id="w197">was</w> <w id="w198">cross-linked</w> <w id="w199">to</w> <w id="w200">actin</w> <w id="w201">via</w> <w id="w202">a</w> <w id="w203">zero-length</w> <w id="w204">isopeptide</w> <w id="w205">bond</w> <w id="w206">using</w> <w id="w207">carbodiimide</w> <w id="w208">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e71" gid="g71" t="Individual_protein" fr="w195" to="w196" nam="yes">
+     <textspan type="extent">Acanthamoeba profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.14.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e72" gid="g72" t="RELATIONSHIP_TEXTBINDING" fr="w198" to="w199">
+     <textspan type="extent">cross-linked to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.14.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e73" gid="g73" t="Individual_protein" fr="w200" to="w200" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.14.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e74" gid="g74" t="Individual_protein" fr="w196" to="w196" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.14.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r30" t="CROSS-LINK" e1="e71" e2="e73" re="e72">
+     <textspan type="extent">Acanthamoeba profilin was cross-linked to actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.14.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="CROSS-LINK"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

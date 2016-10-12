@@ -1,0 +1,77 @@
+<rexml>
+<doc id="1759">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28007" g="w28008" t="det" cr="det:w28008" w="These" l="~" p="Det"/>
+     <dpg d="w28008" g="w28009" t="s" cr="s+subj:w28009" w="results" l="result" p="N"/>
+     <dpg d="w28009" g="E0" t="i" cr="UNSPECRELTYPE:E6" w="support" l="~" p="V"/>
+     <dpg d="E7" g="w28009" t="subj" cr="" w="" l="result" p="N"/>
+     <dpg d="E7" g="w28008" t="antecedent" cr="" w="" l="result" p="N"/>
+     <dpg d="w28010" g="w28011" t="det" cr="det:w28011" w="a" l="~" p="Det"/>
+     <dpg d="w28011" g="w28009" t="obj" cr="obj:w28009" w="model" l="~" p="N"/>
+     <dpg d="w28012" g="E6" t="p" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w28013" g="w28017" t="det" cr="det:w28017" w="which" l="~" p="Det"/>
+     <dpg d="w28014" g="w28017" t="nn" cr="nn:w28017" w="EGF" l="~" p="N"/>
+     <dpg d="w28015" g="w28017" t="nn" cr="nn:w28017" w="stimulation" l="~" p="N"/>
+     <dpg d="w28016" g="w28017" t="nn" cr="nn:w28017" w="recruits" l="recruit" p="N"/>
+     <dpg d="w28017" g="w28012" t="pcomp-n" cr="p*in*n:E6" w="cofilin" l="~" p="N"/>
+     <dpg d="w28018" g="w28017" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w28019" g="w28021" t="det" cr="det:w28021" w="the" l="~" p="Det"/>
+     <dpg d="w28020" g="w28021" t="lex-mod" cr="lex-mod:w28021" w="leading" l="~" p="U"/>
+     <dpg d="w28021" g="w28018" t="pcomp-n" cr="mod*to*n:w28017" w="edge" l="leading edge" p="N"/>
+     <dpg d="E3" g="w28021" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28022" g="E3" t="wha" cr="wha:w28027" w="where" l="~" p="A"/>
+     <dpg d="w28023" g="w28025" t="gen" cr="gen:w28025" w="its" l="~" p="N"/>
+     <dpg d="w28024" g="w28025" t="nn" cr="nn:w28025" w="severing" l="~" p="N"/>
+     <dpg d="w28025" g="w28027" t="s" cr="s+obj:w28027||s+subj:w28029" w="activity" l="~" p="N"/>
+     <dpg d="w28026" g="w28027" t="be" cr="be:w28027" w="is" l="be" p="be"/>
+     <dpg d="w28027" g="E3" t="i" cr="rel:w28021" w="activated" l="activate" p="V"/>
+     <dpg d="E8" g="w28027" t="obj" cr="" w="" l="activity" p="N"/>
+     <dpg d="E8" g="w28025" t="antecedent" cr="" w="" l="activity" p="N"/>
+     <dpg d="w28028" g="w28027" t="punc" cr="punc:w28027" w="," l="~" p="U"/>
+     <dpg d="E2" g="w28027" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w28025" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w28029" g="E2" t="i" cr="mod:w28027" w="leading" l="lead to" p="V"/>
+     <dpg d="w28030" g="w28029" t="lex-mod" cr="lex-mod:w28029" w="to" l="~" p="U"/>
+     <dpg d="E9" g="w28029" t="subj" cr="" w="" l="activity" p="N"/>
+     <dpg d="E9" g="E4" t="antecedent" cr="" w="" l="activity" p="N"/>
+     <dpg d="w28031" g="w28032" t="det" cr="det:w28032" w="the" l="~" p="Det"/>
+     <dpg d="w28032" g="w28029" t="obj" cr="obj:w28029" w="generation" l="~" p="N"/>
+     <dpg d="w28033" g="w28032" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w28034" g="w28036" t="mod" cr="mod:w28036" w="short" l="~" p="A"/>
+     <dpg d="w28035" g="w28036" t="nn" cr="nn:w28036" w="actin" l="~" p="N"/>
+     <dpg d="w28036" g="w28033" t="pcomp-n" cr="mod*of*n:w28032" w="filaments" l="filament" p="N"/>
+     <dpg d="w28037" g="w28036" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w28038" g="w28040" t="mod" cr="mod:w28040" w="free" l="~" p="A"/>
+     <dpg d="w28039" g="w28040" t="mod" cr="mod:w28040" w="barbed" l="~" p="A"/>
+     <dpg d="w28040" g="w28037" t="pcomp-n" cr="mod*with*n:w28036||subj:w28042" w="ends" l="end" p="N"/>
+     <dpg d="E1" g="w28040" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28041" g="E1" t="whn" cr="whn:w28042" w="that" l="~" p="THAT"/>
+     <dpg d="w28041" g="w28040" t="antecedent" cr="antecedent:w28040" w="that" l="~" p="THAT"/>
+     <dpg d="w28042" g="E1" t="i" cr="rel:w28040" w="participate" l="~" p="V"/>
+     <dpg d="E10" g="w28042" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E10" g="w28040" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w28043" g="w28042" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w28044" g="w28045" t="det" cr="det:w28045" w="the" l="~" p="Det"/>
+     <dpg d="w28045" g="w28043" t="pcomp-n" cr="mod*in*n:w28042" w="nucleation" l="~" p="N"/>
+     <dpg d="w28046" g="w28045" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w28047" g="w28048" t="nn" cr="nn:w28048" w="actin" l="~" p="N"/>
+     <dpg d="w28048" g="w28046" t="pcomp-n" cr="mod*of*n:w28045" w="polymerization" l="~" p="N"/>
+     <dpg d="w28049" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

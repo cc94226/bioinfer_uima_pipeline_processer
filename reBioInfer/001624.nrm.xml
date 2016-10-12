@@ -1,0 +1,84 @@
+<rexml>
+<doc id="1624">
+  
+  <markup>
+   <nes>
+    <ne id="e5974" gid="g5695" t="Gene/protein/RNA" fr="w25850" to="w25850" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1624.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5978" gid="g5699" t="Gene/protein/RNA" fr="w25860" to="w25860" nam="yes" sid="s1">
+     <textspan>profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1624.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5975" gid="g5696" t="Individual_protein" fr="w25875" to="w25878" nam="yes" sid="s1">
+     <textspan>human [..] profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1624.1"/>
+      <exattr n="nst" v="st.1624.29.0"/>
+      <exattr n="nst" v="st.1624.32.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5977" gid="g5698" t="Individual_protein" fr="w25877" to="w25878" nam="yes" sid="s1">
+     <textspan>plant profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1624.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5979" gid="g5700" t="Individual_protein" fr="w25878" to="w25878" nam="yes" sid="s1">
+     <textspan>profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1624.5"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2282" t="SIMILAR" e1="e5975" e2="e5977" re="e5976">
+     <textspan>cross-reactivity of antibodies between human and plant profilins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1624.2"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

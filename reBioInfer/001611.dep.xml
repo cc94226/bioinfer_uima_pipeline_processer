@@ -1,0 +1,56 @@
+<rexml>
+<doc id="1611">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25605" g="w25606" t="det" cr="det:w25606" w="The" l="~" p="Det"/>
+     <dpg d="w25606" g="w25611" t="s" cr="s+obj:w25611||s:w25613||subj:w25614" w="product" l="~" p="N"/>
+     <dpg d="w25607" g="w25606" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25608" g="w25607" t="pcomp-n" cr="mod*of*n:w25606" w="UL38" l="~" p="N"/>
+     <dpg d="w25609" g="w25611" t="have" cr="have:w25611" w="has" l="have" p="have"/>
+     <dpg d="w25610" g="w25611" t="be" cr="be:w25611" w="been" l="be" p="be"/>
+     <dpg d="w25611" g="E2" t="i" cr="" w="shown" l="show" p="V"/>
+     <dpg d="E5" g="w25611" t="obj" cr="" w="" l="product" p="N"/>
+     <dpg d="E5" g="w25606" t="antecedent" cr="" w="" l="product" p="N"/>
+     <dpg d="E0" g="w25611" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w25606" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w25612" g="w25613" t="aux" cr="aux:w25613" w="to" l="~" p="Aux"/>
+     <dpg d="w25613" g="E0" t="i" cr="mod:w25611" w="be" l="~" p="VBE"/>
+     <dpg d="w25614" g="w25613" t="pred" cr="pred:w25613" w="essential" l="~" p="N"/>
+     <dpg d="E6" g="w25614" t="subj" cr="" w="" l="product" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="product" p="N"/>
+     <dpg d="w25615" g="w25614" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w25616" g="w25617" t="nn" cr="nn:w25617" w="capsid" l="~" p="N"/>
+     <dpg d="w25617" g="w25615" t="pcomp-n" cr="mod*for*n:w25614" w="assembly" l="~" p="N"/>
+     <dpg d="w25618" g="E2" t="punc" cr="punc:w25611" w="," l="~" p="U"/>
+     <dpg d="w25619" g="E2" t="punc" cr="punc:w25611" w="but" l="~" p="U"/>
+     <dpg d="E1" g="E2" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25620" g="w25621" t="det" cr="det:w25621" w="no" l="~" p="Det"/>
+     <dpg d="w25621" g="w25625" t="s" cr="s+obj:w25625" w="role" l="~" p="N"/>
+     <dpg d="w25622" g="w25625" t="have" cr="have:w25625" w="has" l="have" p="have"/>
+     <dpg d="w25623" g="w25625" t="guest" cr="guest:w25625" w="previously" l="~" p="A"/>
+     <dpg d="w25624" g="w25625" t="be" cr="be:w25625" w="been" l="be" p="be"/>
+     <dpg d="w25625" g="E1" t="i" cr="conj:w25611" w="assigned" l="assign" p="V"/>
+     <dpg d="E7" g="w25625" t="obj" cr="" w="" l="role" p="N"/>
+     <dpg d="E7" g="w25621" t="antecedent" cr="" w="" l="role" p="N"/>
+     <dpg d="w25626" g="w25625" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w25627" g="w25628" t="det" cr="det:w25628" w="the" l="~" p="Det"/>
+     <dpg d="w25628" g="w25626" t="pcomp-n" cr="mod*to*n:w25625" w="product" l="~" p="N"/>
+     <dpg d="w25629" g="w25628" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25630" g="w25629" t="pcomp-n" cr="mod*of*n:w25628" w="UL18" l="~" p="N"/>
+     <dpg d="w25631" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

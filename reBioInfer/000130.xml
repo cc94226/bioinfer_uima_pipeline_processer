@@ -1,0 +1,121 @@
+<rexml>
+<doc id="130">
+  <text>
+<p><s id="s1"><w id="w2148">An</w> <w id="w2149">assembly</w> <w id="w2150">of</w> <w id="w2151">the</w> <w id="w2152">UL5</w> <w id="w2153">and</w> <w id="w2154">UL52</w> <w id="w2155">subunits</w> <w id="w2156">retains</w> <w id="w2157">both</w> <w id="w2158">enzymic</w> <w id="w2159">activities</w> <w id="w2160">,</w> <w id="w2161">and</w> <w id="w2162">the</w> <w id="w2163">UL8</w> <w id="w2164">protein</w> <w id="w2165">has</w> <w id="w2166">been</w> <w id="w2167">implicated</w> <w id="w2168">in</w> <w id="w2169">modulating</w> <w id="w2170">these</w> <w id="w2171">functions</w> <w id="w2172">,</w> <w id="w2173">facilitating</w> <w id="w2174">efficient</w> <w id="w2175">nuclear</w> <w id="w2176">uptake</w> <w id="w2177">of</w> <w id="w2178">the</w> <w id="w2179">complex</w> <w id="w2180">and</w> <w id="w2181">interacting</w> <w id="w2182">with</w> <w id="w2183">other</w> <w id="w2184">viral</w> <w id="w2185">DNA</w> <w id="w2186">replication</w> <w id="w2187">proteins</w> <w id="w2188">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e520" gid="g506" t="RELATIONSHIP_TEXTBINDING" fr="w2149" to="w2155">
+     <textspan type="extent">assembly of [..] subunits</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.130.0"/>
+      <exattr n="nst" v="st.130.1.0"/>
+      <exattr n="nst" v="st.130.2.0"/>
+      <exattr n="nst" v="st.130.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e521" gid="g507" t="Individual_protein" fr="w2152" to="w2155" nam="yes">
+     <textspan type="extent">UL5 [..] subunits</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.130.1"/>
+      <exattr n="nst" v="st.130.4.0"/>
+      <exattr n="nst" v="st.130.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e522" gid="g508" t="Individual_protein" fr="w2163" to="w2163" nam="yes">
+     <textspan type="extent">UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.130.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e523" gid="g509" t="Individual_protein" fr="w2154" to="w2155" nam="yes">
+     <textspan type="extent">UL52 subunits</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.130.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e524" gid="g510" t="LOCALIZATION" fr="w2176" to="w2179">
+     <textspan type="extent">uptake of [..] complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.130.4"/>
+      <exattr n="nst" v="st.130.28.0"/>
+      <exattr n="nst" v="st.130.29.0"/>
+      <exattr n="nst" v="st.130.31.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e525" gid="g511" t="Protein_complex" fr="w2179" to="w2179" nam="yes">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.130.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e526" gid="g512" t="Individual_protein" fr="w2163" to="w2164" nam="yes">
+     <textspan type="extent">UL8 protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.130.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e528" gid="g513" t="RELATIONSHIP_TEXTBINDING" fr="w2173" to="w2173">
+     <textspan type="extent">facilitating</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.130.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r205" t="STIMULATE" e1="e526" e2="e524" re="e528">
+     <textspan type="extent">UL8 protein has been implicated in modulating these functions , facilitating efficient nuclear uptake of the complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.130.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

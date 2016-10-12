@@ -1,0 +1,64 @@
+<rexml>
+<doc id="1778">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28448" g="w28450" t="det" cr="det:w28450" w="The" l="~" p="Det"/>
+     <dpg d="w28449" g="w28450" t="nn" cr="nn:w28450" w="Tetrahymena" l="~" p="N"/>
+     <dpg d="w28450" g="w28451" t="s" cr="s+subj:w28451||subj:w28459" w="fimbrin" l="~" p="N"/>
+     <dpg d="w28451" g="E2" t="i" cr="UNSPECRELTYPE:E6" w="has" l="have" p="V"/>
+     <dpg d="E7" g="w28451" t="subj" cr="" w="" l="fimbrin" p="N"/>
+     <dpg d="E7" g="w28450" t="antecedent" cr="" w="" l="fimbrin" p="N"/>
+     <dpg d="w28452" g="w28456" t="nn" cr="nn:w28456" w="two" l="~" p="N"/>
+     <dpg d="w28453" g="w28455" t="lex-mod" cr="lex-mod:w28455" w="actin" l="~" p="U"/>
+     <dpg d="w28454" g="w28455" t="lex-mod" cr="lex-mod:w28455" w="-" l="~" p="U"/>
+     <dpg d="w28455" g="w28456" t="mod" cr="mod:w28456" w="binding" l="actin - binding" p="A"/>
+     <dpg d="w28456" g="w28451" t="obj" cr="obj:w28451" w="domains" l="domain" p="N"/>
+     <dpg d="w28457" g="w28451" t="punc" cr="punc:w28451" w="," l="~" p="U"/>
+     <dpg d="w28458" g="w28451" t="punc" cr="punc:w28451" w="but" l="~" p="U"/>
+     <dpg d="w28459" g="w28451" t="conj" cr="conj:w28451" w="lacks" l="lack" p="V"/>
+     <dpg d="E8" g="w28459" t="subj" cr="" w="" l="fimbrin" p="N"/>
+     <dpg d="E8" g="w28450" t="antecedent" cr="" w="" l="fimbrin" p="N"/>
+     <dpg d="w28460" g="w28462" t="det" cr="det:w28462" w="the" l="~" p="Det"/>
+     <dpg d="w28461" g="w28462" t="mod" cr="mod:w28462" w="EF-hand" l="EF-hand" p="A"/>
+     <dpg d="w28462" g="E1" t="i" cr="i:E1" w="Ca(2+)-binding" l="bind" p="V"/>
+     <dpg d="E9" g="w28462" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E9" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w28463" g="w28462" t="obj" cr="obj:w28462" w="motif" l="~" p="N"/>
+     <dpg d="w28464" g="w28462" t="punc" cr="punc:w28462" w="," l="~" p="U"/>
+     <dpg d="E0" g="w28462" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w28465" g="E0" t="i" cr="mod:w28462" w="suggesting" l="suggest" p="V"/>
+     <dpg d="E10" g="w28465" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E10" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w28466" g="w28468" t="det" cr="det:w28468" w="that" l="~" p="Det"/>
+     <dpg d="w28467" g="w28468" t="nn" cr="nn:w28468" w="Tetrahymena" l="~" p="N"/>
+     <dpg d="w28468" g="w28465" t="obj" cr="obj:w28465" w="fimbrin" l="~" p="N"/>
+     <dpg d="w28469" g="w28465" t="mod" cr="mod:w28465" w="probably" l="~" p="A"/>
+     <dpg d="w28470" g="w28472" t="nn" cr="nn:w28472" w="cross-links" l="cross-link" p="N"/>
+     <dpg d="w28471" g="w28472" t="nn" cr="nn:w28472" w="actin" l="~" p="N"/>
+     <dpg d="w28472" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="filaments" l="filament" p="N"/>
+     <dpg d="w28473" g="w28472" t="mod" cr="mod:w28472" w="in" l="~" p="Prep"/>
+     <dpg d="w28474" g="w28475" t="det" cr="det:w28475" w="a" l="~" p="Det"/>
+     <dpg d="w28475" g="E6" t="punc" cr="punc:E6" w="Ca(2+)-" l="~" p="U"/>
+     <dpg d="w28476" g="w28477" t="mod" cr="mod:w28477" w="insensitive" l="~" p="A"/>
+     <dpg d="w28477" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="manner" l="~" p="N"/>
+     <dpg d="w28478" g="w28477" t="mod" cr="" w="during" l="~" p="Prep"/>
+     <dpg d="w28479" g="w28478" t="pcomp-n" cr="mod*during*n:w28477" w="cytokinesis" l="~" p="N"/>
+     <dpg d="w28480" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

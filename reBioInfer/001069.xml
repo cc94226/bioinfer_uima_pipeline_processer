@@ -1,0 +1,188 @@
+<rexml>
+<doc id="1069">
+  <text>
+<p><s id="s1"><w id="w16827">On</w> <w id="w16828">the</w> <w id="w16829">basis</w> <w id="w16830">of</w> <w id="w16831">these</w> <w id="w16832">results</w> <w id="w16833">,</w> <w id="w16834">we</w> <w id="w16835">present</w> <w id="w16836">a</w> <w id="w16837">model</w> <w id="w16838">for</w> <w id="w16839">prereplicative</w> <w id="w16840">site</w> <w id="w16841">formation</w> <w id="w16842">in</w> <w id="w16843">infected</w> <w id="w16844">cells</w> <w id="w16845">in</w> <w id="w16846">which</w> <w id="w16847">the</w> <w id="w16848">helicase-primase</w> <w id="w16849">components</w> <w id="w16850">(</w> <w id="w16851">UL5</w> <w id="w16852">,</w> <w id="w16853">UL8</w> <w id="w16854">,</w> <w id="w16855">and</w> <w id="w16856">UL52</w> <w id="w16857">)</w> <w id="w16858">,</w> <w id="w16859">the</w> <w id="w16860">origin-binding</w> <w id="w16861">protein</w> <w id="w16862">(</w> <w id="w16863">UL9</w> <w id="w16864">)</w> <w id="w16865">,</w> <w id="w16866">and</w> <w id="w16867">the</w> <w id="w16868">viral</w> <w id="w16869">single-stranded</w> <w id="w16870">DNA-binding</w> <w id="w16871">protein</w> <w id="w16872">(</w> <w id="w16873">ICP8</w> <w id="w16874">)</w> <w id="w16875">assemble</w> <w id="w16876">together</w> <w id="w16877">to</w> <w id="w16878">initiate</w> <w id="w16879">the</w> <w id="w16880">process</w> <w id="w16881">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3847" gid="g3679" t="Protein_complex" fr="w16848" to="w16848" nam="yes">
+     <textspan type="extent">helicase-primase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1069.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3848" gid="g3680" t="RELATIONSHIP_TEXTBINDING" fr="w16875" to="w16875">
+     <textspan type="extent">assemble</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1069.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3849" gid="g3681" t="Individual_protein" fr="w16868" to="w16871" nam="yes">
+     <textspan type="extent">viral single-stranded DNA-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1069.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3850" gid="g3682" t="RELATIONSHIP_TEXTBINDING" fr="w16849" to="w16849">
+     <textspan type="extent">components</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1069.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3851" gid="g3681" t="Individual_protein" fr="w16873" to="w16873" nam="yes">
+     <textspan type="extent">ICP8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1069.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3852" gid="g3683" t="Individual_protein" fr="w16863" to="w16863" nam="yes">
+     <textspan type="extent">UL9</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1069.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3853" gid="g3683" t="Individual_protein" fr="w16860" to="w16861" nam="yes">
+     <textspan type="extent">origin-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1069.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3854" gid="g3684" t="Individual_protein" fr="w16853" to="w16853" nam="yes">
+     <textspan type="extent">UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1069.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e3855" gid="g3685" t="Individual_protein" fr="w16851" to="w16851" nam="yes">
+     <textspan type="extent">UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1069.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e3856" gid="g3686" t="Individual_protein" fr="w16869" to="w16871" nam="yes">
+     <textspan type="extent">single-stranded DNA-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1069.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e3857" gid="g3687" t="Individual_protein" fr="w16856" to="w16856" nam="yes">
+     <textspan type="extent">UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1069.10"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1473" t="CONTAIN" e1="e3847" e2="e3855" re="e3850">
+     <textspan type="extent">helicase-primase components ( UL5</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1069.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1474" t="CONTAIN" e1="e3847" e2="e3854" re="e3850">
+     <textspan type="extent">helicase-primase components ( UL5 , UL8</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1069.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1475" t="CONTAIN" e1="e3847" e2="e3857" re="e3850">
+     <textspan type="extent">helicase-primase components ( UL5 , UL8 , and UL52</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1069.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1478" t="ATTACH" e1="e3855" e2="e3854,e3857,e3853,e3849" re="e3848">
+     <textspan type="extent">UL5 , UL8 , and UL52 ) , the origin-binding protein ( UL9 ) , and the viral single-stranded DNA-binding protein ( ICP8 ) assemble</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1069.1"/>
+      <exattr n="arg" v="e3855"/>
+      <exattr n="arg" v="e3854"/>
+      <exattr n="arg" v="e3857"/>
+      <exattr n="arg" v="e3853"/>
+      <exattr n="arg" v="e3849"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="ATTACH"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

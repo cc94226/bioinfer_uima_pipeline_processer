@@ -1,0 +1,134 @@
+<rexml>
+<doc id="312">
+  <text>
+<p><s id="s1"><w id="w4789">Chemical</w> <w id="w4790">modification</w> <w id="w4791">of</w> <w id="w4792">the</w> <w id="w4793">cysteine</w> <w id="w4794">residue</w> <w id="w4795">374</w> <w id="w4796">of</w> <w id="w4797">actin</w> <w id="w4798">,</w> <w id="w4799">both</w> <w id="w4800">with</w> <w id="w4801">N-ethylmaleimide</w> <w id="w4802">and</w> <w id="w4803">with</w> <w id="w4804">the</w> <w id="w4805">fluorescent</w> <w id="w4806">probe</w> <w id="w4807">N-(1-pyrenyl)iodoacetamide</w> <w id="w4808">,</w> <w id="w4809">is</w> <w id="w4810">shown</w> <w id="w4811">to</w> <w id="w4812">counteract</w> <w id="w4813">the</w> <w id="w4814">inhibiting</w> <w id="w4815">effect</w> <w id="w4816">of</w> <w id="w4817">profilin</w> <w id="w4818">on</w> <w id="w4819">actin</w> <w id="w4820">polymerization</w> <w id="w4821">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1159" gid="g1105" t="MODIFICATION" fr="w4790" to="w4797">
+     <textspan type="extent">modification of [..] residue [..] of actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.312.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1160" gid="g1106" t="RELATIONSHIP_TEXTBINDING" fr="w4814" to="w4814">
+     <textspan type="extent">inhibiting</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.312.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1161" gid="g1107" t="POLYMERIZATION" fr="w4819" to="w4820">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.312.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1162" gid="g1108" t="RELATIONSHIP_TEXTBINDING" fr="w4812" to="w4812">
+     <textspan type="extent">counteract</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.312.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1163" gid="g1109" t="Substructure_of_protein" fr="w4794" to="w4797" nam="yes">
+     <textspan type="extent">residue [..] of actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.312.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1164" gid="g1110" t="Individual_protein" fr="w4797" to="w4797" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.312.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1165" gid="g1111" t="Individual_protein" fr="w4817" to="w4817" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.312.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1166" gid="g1112" t="Individual_protein" fr="w4819" to="w4819" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.312.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1167" gid="g1113" t="Individual_protein" fr="w4797" to="w4797" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.312.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r459" t="SUPPRESS" e1="e1159" e2="e1160" re="e1162">
+     <textspan type="extent">modification of the cysteine residue 374 of actin , both with N-ethylmaleimide and with the fluorescent probe N-(1-pyrenyl)iodoacetamide , is shown to counteract the inhibiting effect of profilin on actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.312.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r460" t="SUPPRESS" e1="e1165" e2="e1161" re="e1160">
+     <textspan type="extent">inhibiting effect of profilin on actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.312.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

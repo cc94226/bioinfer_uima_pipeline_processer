@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1207">
+  <text>
+<p><s id="s1"><w id="w19037">Resonance</w> <w id="w19038">energy</w> <w id="w19039">transfer</w> <w id="w19040">determination</w> <w id="w19041">of</w> <w id="w19042">the</w> <w id="w19043">following</w> <w id="w19044">distances</w> <w id="w19045">,</w> <w id="w19046">using</w> <w id="w19047">a</w> <w id="w19048">hybrid</w> <w id="w19049">myosin</w> <w id="w19050">:</w> <w id="w19051">those</w> <w id="w19052">between</w> <w id="w19053">Cys-55</w> <w id="w19054">on</w> <w id="w19055">the</w> <w id="w19056">Mercenaria</w> <w id="w19057">regulatory</w> <w id="w19058">light</w> <w id="w19059">chain</w> <w id="w19060">,</w> <w id="w19061">SH-1</w> <w id="w19062">on</w> <w id="w19063">the</w> <w id="w19064">Aequipecten</w> <w id="w19065">myosin</w> <w id="w19066">heavy</w> <w id="w19067">chain</w> <w id="w19068">,</w> <w id="w19069">and</w> <w id="w19070">Cys-374</w> <w id="w19071">of</w> <w id="w19072">actin</w> <w id="w19073">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4417" gid="g4224" t="Gene/protein/RNA" fr="w19049" to="w19049" nam="yes">
+     <textspan type="extent">myosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1207.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4418" gid="g4225" t="Gene/protein/RNA" fr="w19065" to="w19067" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1207.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4419" gid="g4226" t="Gene/protein/RNA" fr="w19057" to="w19059" nam="yes">
+     <textspan type="extent">regulatory light chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1207.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4420" gid="g4227" t="Gene/protein/RNA" fr="w19072" to="w19072" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1207.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

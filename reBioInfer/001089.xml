@@ -1,0 +1,123 @@
+<rexml>
+<doc id="1089">
+  <text>
+<p><s id="s1"><w id="w17266">Our</w> <w id="w17267">in</w> <w id="w17268">vitro</w> <w id="w17269">recombinant</w> <w id="w17270">protein-protein</w> <w id="w17271">interaction</w> <w id="w17272">studies</w> <w id="w17273">demonstrated</w> <w id="w17274">that</w> <w id="w17275">Stat1</w> <w id="w17276">could</w> <w id="w17277">directly</w> <w id="w17278">interact</w> <w id="w17279">with</w> <w id="w17280">TNFR1</w> <w id="w17281">and</w> <w id="w17282">TRADD</w> <w id="w17283">but</w> <w id="w17284">not</w> <w id="w17285">with</w> <w id="w17286">FADD</w> <w id="w17287">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3968" gid="g3797" t="Individual_protein" fr="w17275" to="w17275" nam="yes">
+     <textspan type="extent">Stat1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1089.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3969" gid="g3798" t="RELATIONSHIP_TEXTBINDING" fr="w17277" to="w17279">
+     <textspan type="extent">directly interact with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1089.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3970" gid="g3799" t="Individual_protein" fr="w17282" to="w17282" nam="yes">
+     <textspan type="extent">TRADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1089.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3971" gid="g3800" t="RELATIONSHIP_TEXTBINDING" fr="w17277" to="w17285">
+     <textspan type="extent">directly interact [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1089.3"/>
+      <exattr n="nst" v="st.1089.11.0"/>
+      <exattr n="nst" v="st.1089.12.0"/>
+      <exattr n="nst" v="st.1089.19.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3972" gid="g3801" t="Individual_protein" fr="w17286" to="w17286" nam="yes">
+     <textspan type="extent">FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1089.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3973" gid="g3802" t="RELATIONSHIP_TEXTBINDING" fr="w17284" to="w17284">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1089.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3974" gid="g3803" t="Individual_protein" fr="w17280" to="w17280" nam="yes">
+     <textspan type="extent">TNFR1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1089.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1526" t="BIND" e1="e3968" e2="e3974" re="e3969">
+     <textspan type="extent">Stat1 could directly interact with TNFR1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1089.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1527" t="BIND" e1="e3968" e2="e3970" re="e3969">
+     <textspan type="extent">Stat1 could directly interact with TNFR1 and TRADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1089.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1529" t="BIND" e1="e3968" e2="e3972" re="e3971">
+     <textspan type="extent">Stat1 could directly interact with TNFR1 and TRADD but not with FADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1089.3"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

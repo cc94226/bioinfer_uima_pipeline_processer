@@ -1,0 +1,70 @@
+<rexml>
+<doc id="1284">
+  <text>
+<p><s id="s1"><w id="w20207">So</w> <w id="w20208">far</w> <w id="w20209">,</w> <w id="w20210">three</w> <w id="w20211">ligands</w> <w id="w20212">for</w> <w id="w20213">profilin</w> <w id="w20214">have</w> <w id="w20215">been</w> <w id="w20216">well-characterized</w> <w id="w20217">in</w> <w id="w20218">vitro</w> <w id="w20219">:</w> <w id="w20220">actin</w> <w id="w20221">monomers</w> <w id="w20222">,</w> <w id="w20223">membrane</w> <w id="w20224">polyphosphoinositides</w> <w id="w20225">and</w> <w id="w20226">poly-L-proline</w> <w id="w20227">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4648" gid="g4445" t="Individual_protein" fr="w20213" to="w20213" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1284.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4649" gid="g4446" t="RELATIONSHIP_TEXTBINDING" fr="w20211" to="w20212">
+     <textspan type="extent">ligands for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1284.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4650" gid="g4447" t="Individual_protein" fr="w20220" to="w20221" nam="yes">
+     <textspan type="extent">actin monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1284.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4651" gid="g4448" t="Individual_protein" fr="w20220" to="w20220" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1284.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1768" t="BIND" e1="e4648" e2="e4650" re="e4649">
+     <textspan type="extent">ligands for profilin have been well-characterized in vitro : actin monomers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1284.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

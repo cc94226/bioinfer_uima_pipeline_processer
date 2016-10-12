@@ -1,0 +1,63 @@
+<rexml>
+<doc id="2205">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w34016" g="E1" t="wha" cr="wha:w34025" w="When" l="~" p="A"/>
+     <dpg d="w34017" g="w34020" t="det" cr="det:w34020" w="the" l="~" p="Det"/>
+     <dpg d="w34018" g="w34020" t="nn" cr="nn:w34020" w="actin" l="~" p="N"/>
+     <dpg d="w34019" g="w34020" t="nn" cr="nn:w34020" w="monomer" l="~" p="N"/>
+     <dpg d="w34020" g="w34025" t="s" cr="s+obj:w34025" w="pool" l="~" p="N"/>
+     <dpg d="w34021" g="w34020" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w34022" g="w34023" t="mod" cr="mod:w34023" w="untransfected" l="~" p="A"/>
+     <dpg d="w34023" g="w34021" t="pcomp-n" cr="mod*in*n:w34020" w="myoblasts" l="~" p="N"/>
+     <dpg d="w34024" g="w34025" t="be" cr="be:w34025" w="is" l="be" p="be"/>
+     <dpg d="w34025" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="increased" l="increase" p="V"/>
+     <dpg d="E4" g="w34025" t="obj" cr="" w="" l="pool" p="N"/>
+     <dpg d="E4" g="w34020" t="antecedent" cr="" w="" l="pool" p="N"/>
+     <dpg d="w34026" g="w34027" t="lex-mod" cr="lex-mod:w34027" w="70" l="~" p="U"/>
+     <dpg d="w34027" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="%" l="70 %" p="N"/>
+     <dpg d="w34028" g="w34027" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w34029" g="w34028" t="pcomp-n" cr="mod*by*n:w34027" w="treatment" l="~" p="N"/>
+     <dpg d="w34030" g="w34029" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w34031" g="w34030" t="pcomp-n" cr="mod*with*n:w34029" w="latrunculin" l="~" p="N"/>
+     <dpg d="w34032" g="E3" t="punc" cr="punc:E3" w="A" l="~" p="U"/>
+     <dpg d="w34033" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w34034" g="w34039" t="s" cr="s:w34039||subj:w34040" w="synthesis" l="~" p="N"/>
+     <dpg d="w34035" g="w34034" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34036" g="w34035" t="pcomp-n" cr="mod*of*n:w34034" w="ADF" l="~" p="N"/>
+     <dpg d="w34037" g="w34036" t="punc" cr="punc:w34036" w="and" l="~" p="U"/>
+     <dpg d="w34038" g="w34036" t="conj" cr="conj:w34036" w="actin" l="~" p="N"/>
+     <dpg d="w34039" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="are" l="be" p="VBE"/>
+     <dpg d="E5" g="w34040" t="subj" cr="" w="" l="synthesis" p="N"/>
+     <dpg d="E5" g="w34034" t="antecedent" cr="" w="" l="synthesis" p="N"/>
+     <dpg d="w34040" g="w34039" t="pred" cr="pred:w34039||obj:w34041" w="down-regulated" l="down-regulated" p="N"/>
+     <dpg d="w34041" g="w34040" t="vrel" cr="vrel:w34040" w="compared" l="compare" p="V"/>
+     <dpg d="E6" g="w34041" t="obj" cr="" w="" l="down-regulated" p="N"/>
+     <dpg d="E6" g="w34040" t="antecedent" cr="" w="" l="down-regulated" p="N"/>
+     <dpg d="w34042" g="w34041" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w34043" g="w34042" t="pcomp-n" cr="mod*with*n:w34041" w="cofilin" l="~" p="N"/>
+     <dpg d="w34044" g="w34043" t="punc" cr="punc:w34043" w="and" l="~" p="U"/>
+     <dpg d="w34045" g="w34047" t="num" cr="num:w34047" w="19" l="~" p="N"/>
+     <dpg d="w34046" g="w34047" t="mod" cr="mod:w34047" w="other" l="~" p="A"/>
+     <dpg d="w34047" g="w34043" t="conj" cr="conj:w34043" w="proteins" l="protein" p="N"/>
+     <dpg d="w34048" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="selected" l="~" p="A"/>
+     <dpg d="w34049" g="E3" t="punc" cr="punc:E3" w="at" l="~" p="U"/>
+     <dpg d="w34050" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="random" l="~" p="A"/>
+     <dpg d="w34051" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

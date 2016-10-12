@@ -1,0 +1,63 @@
+<rexml>
+<doc id="313">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4822" g="w4824" t="nn" cr="nn:w4824" w="Chick" l="~" p="N"/>
+     <dpg d="w4823" g="w4824" t="nn" cr="nn:w4824" w="embryo" l="~" p="N"/>
+     <dpg d="w4824" g="w4825" t="s" cr="s+subj:w4825" w="fibroblasts" l="fibroblast" p="N"/>
+     <dpg d="w4825" g="E1" t="i" cr="" w="contain" l="~" p="V"/>
+     <dpg d="E3" g="w4825" t="subj" cr="" w="" l="fibroblast" p="N"/>
+     <dpg d="E3" g="w4824" t="antecedent" cr="" w="" l="fibroblast" p="N"/>
+     <dpg d="w4826" g="w4827" t="num-mod" cr="num-mod:w4827" w="about" l="~" p="A"/>
+     <dpg d="w4827" g="w4830" t="nn" cr="nn:w4830" w="75-100" l="75-100" p="N"/>
+     <dpg d="w4828" g="w4830" t="nn" cr="nn:w4830" w="microM" l="~" p="N"/>
+     <dpg d="w4829" g="w4830" t="mod" cr="mod:w4830" w="unpolymerized" l="~" p="A"/>
+     <dpg d="w4830" g="w4825" t="obj" cr="obj:w4825" w="actin" l="~" p="N"/>
+     <dpg d="w4831" g="w4830" t="punc" cr="punc:w4830" w="and" l="~" p="U"/>
+     <dpg d="w4832" g="w4833" t="lex-mod" cr="lex-mod:w4833" w="at" l="~" p="U"/>
+     <dpg d="w4833" g="w4834" t="num-mod" cr="num-mod:w4834" w="least" l="at least" p="A"/>
+     <dpg d="w4834" g="w4835" t="nn" cr="nn:w4835" w="four" l="~" p="N"/>
+     <dpg d="w4835" g="w4830" t="conj" cr="conj:w4830||subj:w4838" w="proteins" l="protein" p="N"/>
+     <dpg d="E0" g="w4835" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4836" g="E0" t="whn" cr="whn:w4838" w="which" l="~" p="N"/>
+     <dpg d="w4836" g="w4835" t="antecedent" cr="antecedent:w4835" w="which" l="~" p="N"/>
+     <dpg d="w4837" g="w4838" t="aux" cr="aux:w4838" w="can" l="~" p="Aux"/>
+     <dpg d="w4838" g="E0" t="i" cr="rel:w4835" w="bind" l="~" p="V"/>
+     <dpg d="E4" g="w4838" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E4" g="w4835" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w4839" g="w4840" t="nn" cr="nn:w4840" w="actin" l="~" p="N"/>
+     <dpg d="w4840" g="w4838" t="obj" cr="obj:w4838" w="monomers" l="monomer" p="N"/>
+     <dpg d="w4841" g="w4840" t="punc" cr="punc:w4840" w="," l="~" p="U"/>
+     <dpg d="w4842" g="w4844" t="lex-mod" cr="lex-mod:w4844" w="actin" l="~" p="U"/>
+     <dpg d="w4843" g="w4844" t="lex-mod" cr="lex-mod:w4844" w="depolymerizing" l="~" p="U"/>
+     <dpg d="w4844" g="w4840" t="conj" cr="conj:w4840" w="factor" l="actin depolymerizing factor" p="N"/>
+     <dpg d="w4845" g="w4846" t="punc" cr="punc:w4846" w="(" l="~" p="U"/>
+     <dpg d="w4846" g="w4844" t="abbrev" cr="abbrev:w4844" w="ADF" l="~" p="N"/>
+     <dpg d="w4847" g="w4846" t="punc" cr="punc:w4846" w=")" l="~" p="U"/>
+     <dpg d="w4848" g="w4844" t="punc" cr="punc:w4844" w="," l="~" p="U"/>
+     <dpg d="w4849" g="w4844" t="conj" cr="conj:w4844" w="gelsolin" l="~" p="N"/>
+     <dpg d="w4850" g="w4849" t="punc" cr="punc:w4849" w="," l="~" p="U"/>
+     <dpg d="w4851" g="w4849" t="conj" cr="conj:w4849" w="profilin" l="~" p="N"/>
+     <dpg d="w4852" g="w4851" t="punc" cr="punc:w4851" w="," l="~" p="U"/>
+     <dpg d="w4853" g="w4851" t="punc" cr="punc:w4851" w="and" l="~" p="U"/>
+     <dpg d="w4854" g="w4855" t="lex-mod" cr="lex-mod:w4855" w="thymosin" l="~" p="U"/>
+     <dpg d="w4855" g="w4851" t="conj" cr="conj:w4851" w="beta4" l="thymosin beta4" p="N"/>
+     <dpg d="w4856" g="w4857" t="punc" cr="punc:w4857" w="(" l="~" p="U"/>
+     <dpg d="w4857" g="w4855" t="abbrev" cr="abbrev:w4855" w="Tbeta4" l="~" p="N"/>
+     <dpg d="w4858" g="w4857" t="punc" cr="punc:w4857" w=")" l="~" p="U"/>
+     <dpg d="w4859" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

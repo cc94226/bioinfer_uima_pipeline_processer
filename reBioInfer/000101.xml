@@ -1,0 +1,176 @@
+<rexml>
+<doc id="101">
+  <text>
+<p><s id="s1"><w id="w1714">A</w> <w id="w1715">major</w> <w id="w1716">point</w> <w id="w1717">of</w> <w id="w1718">interest</w> <w id="w1719">was</w> <w id="w1720">to</w> <w id="w1721">clarify</w> <w id="w1722">whether</w> <w id="w1723">rheological</w> <w id="w1724">,</w> <w id="w1725">high</w> <w id="w1726">precision</w> <w id="w1727">measurements</w> <w id="w1728">can</w> <w id="w1729">yield</w> <w id="w1730">quantitative</w> <w id="w1731">information</w> <w id="w1732">about</w> <w id="w1733">the</w> <w id="w1734">influence</w> <w id="w1735">of</w> <w id="w1736">talin</w> <w id="w1737">and</w> <w id="w1738">vinculin</w> <w id="w1739">on</w> <w id="w1740">the</w> <w id="w1741">structure</w> <w id="w1742">,</w> <w id="w1743">chain</w> <w id="w1744">dynamics</w> <w id="w1745">,</w> <w id="w1746">elasticity</w> <w id="w1747">and</w> <w id="w1748">viscoelasticity</w> <w id="w1749">of</w> <w id="w1750">actin</w> <w id="w1751">filaments</w> <w id="w1752">with</w> <w id="w1753">time</w> <w id="w1754">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e426" gid="g412" t="RELATIONSHIP_TEXTBINDING" fr="w1734" to="w1739">
+     <textspan type="extent">influence of [..] on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.101.0"/>
+      <exattr n="nst" v="st.101.20.0"/>
+      <exattr n="nst" v="st.101.21.0"/>
+      <exattr n="nst" v="st.101.25.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e427" gid="g413" t="Individual_protein" fr="w1736" to="w1736" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.101.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e428" gid="g414" t="Cell_component" fr="w1750" to="w1751" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.101.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e429" gid="g415" t="Individual_protein" fr="w1738" to="w1738" nam="yes">
+     <textspan type="extent">vinculin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.101.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e430" gid="g416" t="Dynamics_property" fr="w1744" to="w1751">
+     <textspan type="extent">dynamics [..] of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.101.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e431" gid="g417" t="Physical_property" fr="w1741" to="w1751">
+     <textspan type="extent">structure [..] of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Physical_property"/>
+      <exattr n="bd" v="e.101.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e432" gid="g418" t="Physical_property" fr="w1748" to="w1751">
+     <textspan type="extent">viscoelasticity of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Physical_property"/>
+      <exattr n="bd" v="e.101.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e433" gid="g419" t="Physical_property" fr="w1746" to="w1751">
+     <textspan type="extent">elasticity [..] of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Physical_property"/>
+      <exattr n="bd" v="e.101.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e434" gid="g420" t="Individual_protein" fr="w1750" to="w1750" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.101.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r162" t="AFFECT" e1="e427" e2="e431" re="e426">
+     <textspan type="extent">influence of talin and vinculin on the structure , chain dynamics , elasticity and viscoelasticity of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.101.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r163" t="AFFECT" e1="e427" e2="e430" re="e426">
+     <textspan type="extent">influence of talin and vinculin on the structure , chain dynamics , elasticity and viscoelasticity of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.101.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r164" t="AFFECT" e1="e427" e2="e433" re="e426">
+     <textspan type="extent">influence of talin and vinculin on the structure , chain dynamics , elasticity and viscoelasticity of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.101.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r165" t="AFFECT" e1="e427" e2="e432" re="e426">
+     <textspan type="extent">influence of talin and vinculin on the structure , chain dynamics , elasticity and viscoelasticity of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.101.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r166" t="AFFECT" e1="e429" e2="e431" re="e426">
+     <textspan type="extent">influence of talin and vinculin on the structure , chain dynamics , elasticity and viscoelasticity of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.101.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r167" t="AFFECT" e1="e429" e2="e430" re="e426">
+     <textspan type="extent">influence of talin and vinculin on the structure , chain dynamics , elasticity and viscoelasticity of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.101.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r168" t="AFFECT" e1="e429" e2="e433" re="e426">
+     <textspan type="extent">influence of talin and vinculin on the structure , chain dynamics , elasticity and viscoelasticity of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.101.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r169" t="AFFECT" e1="e429" e2="e432" re="e426">
+     <textspan type="extent">influence of talin and vinculin on the structure , chain dynamics , elasticity and viscoelasticity of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.101.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

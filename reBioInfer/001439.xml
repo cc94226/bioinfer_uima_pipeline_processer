@@ -1,0 +1,92 @@
+<rexml>
+<doc id="1439">
+  <text>
+<p><s id="s1"><w id="w22623">The</w> <w id="w22624">C-terminal</w> <w id="w22625">of</w> <w id="w22626">TRADD</w> <w id="w22627">comprises</w> <w id="w22628">the</w> <w id="w22629">death</w> <w id="w22630">domain</w> <w id="w22631">that</w> <w id="w22632">is</w> <w id="w22633">responsible</w> <w id="w22634">for</w> <w id="w22635">association</w> <w id="w22636">of</w> <w id="w22637">TNFR1</w> <w id="w22638">and</w> <w id="w22639">other</w> <w id="w22640">death</w> <w id="w22641">domain-containing</w> <w id="w22642">proteins</w> <w id="w22643">such</w> <w id="w22644">as</w> <w id="w22645">FADD</w> <w id="w22646">and</w> <w id="w22647">RIP</w> <w id="w22648">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5226" gid="g4987" t="Gene/protein/RNA" fr="w22626" to="w22626" nam="yes">
+     <textspan type="extent">TRADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1439.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5227" gid="g4988" t="RELATIONSHIP_TEXTBINDING" fr="w22635" to="w22636">
+     <textspan type="extent">association of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1439.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5228" gid="g4989" t="Individual_protein" fr="w22645" to="w22645" nam="yes">
+     <textspan type="extent">FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1439.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5229" gid="g4990" t="Individual_protein" fr="w22637" to="w22637" nam="yes">
+     <textspan type="extent">TNFR1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1439.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5230" gid="g4991" t="Individual_protein" fr="w22647" to="w22647" nam="yes">
+     <textspan type="extent">RIP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1439.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2006" t="BIND" e1="e5229" e2="e5228" re="e5227">
+     <textspan type="extent">association of TNFR1 and other death domain-containing proteins such as FADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1439.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2007" t="BIND" e1="e5229" e2="e5230" re="e5227">
+     <textspan type="extent">association of TNFR1 and other death domain-containing proteins such as FADD and RIP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1439.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

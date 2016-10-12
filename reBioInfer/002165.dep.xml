@@ -1,0 +1,53 @@
+<rexml>
+<doc id="2165">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w33638" g="w33639" t="mod" cr="mod:w33639" w="Western" l="~" p="A"/>
+     <dpg d="w33639" g="" t="" cr="" w="analysis" l="~" p="N"/>
+     <dpg d="w33640" g="w33639" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33641" g="w33644" t="mod" cr="mod:w33644" w="gel-purified" l="gel-purified" p="A"/>
+     <dpg d="w33642" g="w33644" t="lex-mod" cr="lex-mod:w33644" w="USF" l="~" p="U"/>
+     <dpg d="w33643" g="w33644" t="lex-mod" cr="lex-mod:w33644" w="-" l="~" p="U"/>
+     <dpg d="w33644" g="w33640" t="pcomp-n" cr="mod*of*n:w33639" w="nucleosome" l="USF - nucleosome" p="N"/>
+     <dpg d="w33645" g="w33644" t="punc" cr="punc:w33644" w="and" l="~" p="U"/>
+     <dpg d="w33646" g="w33650" t="lex-mod" cr="lex-mod:w33650" w="GAL4" l="~" p="U"/>
+     <dpg d="w33647" g="w33650" t="lex-mod" cr="lex-mod:w33650" w="-" l="~" p="U"/>
+     <dpg d="w33648" g="w33650" t="lex-mod" cr="lex-mod:w33650" w="AH" l="~" p="U"/>
+     <dpg d="w33649" g="w33650" t="lex-mod" cr="lex-mod:w33650" w="-" l="~" p="U"/>
+     <dpg d="w33650" g="w33651" t="mod" cr="mod:w33651" w="nucleosome" l="GAL4 - AH - nucleosome" p="A"/>
+     <dpg d="w33651" g="w33644" t="conj" cr="conj:w33644||obj1:w33652" w="complexes" l="complex" p="N"/>
+     <dpg d="w33652" g="w33651" t="vrel" cr="vrel:w33651" w="demonstrated" l="demonstrate" p="V"/>
+     <dpg d="E3" g="w33652" t="obj1" cr="" w="" l="complex" p="N"/>
+     <dpg d="E3" g="w33651" t="antecedent" cr="" w="" l="complex" p="N"/>
+     <dpg d="w33653" g="w33655" t="det" cr="det:w33655" w="the" l="~" p="Det"/>
+     <dpg d="w33654" g="w33655" t="mod" cr="mod:w33655" w="predominant" l="~" p="A"/>
+     <dpg d="w33655" g="w33652" t="obj2" cr="obj2:w33652" w="presence" l="~" p="N"/>
+     <dpg d="w33656" g="w33655" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33657" g="w33660" t="mod" cr="mod:w33660" w="acetylated" l="~" p="A"/>
+     <dpg d="w33658" g="w33660" t="nn" cr="nn:w33660" w="histone" l="~" p="N"/>
+     <dpg d="w33659" g="w33660" t="nn" cr="nn:w33660" w="H4" l="~" p="N"/>
+     <dpg d="w33660" g="w33656" t="pcomp-n" cr="mod*of*n:w33655||s+subj:w33662" w="relative" l="~" p="N"/>
+     <dpg d="E0" g="w33660" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E1" g="w33660" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w33661" g="w33662" t="aux" cr="aux:w33662" w="to" l="~" p="Aux"/>
+     <dpg d="w33662" g="E0" t="i" cr="rel:w33660" w="acetylated" l="acetylate" p="V"/>
+     <dpg d="E4" g="w33662" t="subj" cr="" w="" l="relative" p="N"/>
+     <dpg d="E4" g="E1" t="antecedent" cr="" w="" l="relative" p="N"/>
+     <dpg d="w33663" g="w33664" t="nn" cr="nn:w33664" w="histone" l="~" p="N"/>
+     <dpg d="w33664" g="w33662" t="obj" cr="obj:w33662" w="H3" l="~" p="N"/>
+     <dpg d="w33665" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,86 @@
+<rexml>
+<doc id="1128">
+  <text>
+<p><s id="s1"><w id="w17794">Platelet</w> <w id="w17795">talin</w> <w id="w17796">binds</w> <w id="w17797">to</w> <w id="w17798">actin</w> <w id="w17799">in</w> <w id="w17800">vitro</w> <w id="w17801">and</w> <w id="w17802">hence</w> <w id="w17803">is</w> <w id="w17804">an</w> <w id="w17805">actin</w> <w id="w17806">binding</w> <w id="w17807">protein</w> <w id="w17808">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4140" gid="g3957" t="Individual_protein" fr="w17794" to="w17795" nam="yes">
+     <textspan type="extent">Platelet talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1128.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4141" gid="g3958" t="RELATIONSHIP_TEXTBINDING" fr="w17796" to="w17797">
+     <textspan type="extent">binds to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1128.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4142" gid="g3959" t="RELATIONSHIP_TEXTBINDING" fr="w17803" to="w17803">
+     <textspan type="extent">is</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1128.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4143" gid="g3960" t="Individual_protein" fr="w17798" to="w17798" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1128.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4144" gid="g3961" t="Protein_family_or_group" fr="w17805" to="w17807" nam="yes">
+     <textspan type="extent">actin binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1128.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1597" t="BIND" e1="e4140" e2="e4143" re="e4141">
+     <textspan type="extent">Platelet talin binds to actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1128.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1598" t="MEMBER" e1="e4144" e2="e4140" re="e4142">
+     <textspan type="extent">Platelet talin binds to actin in vitro and hence is an actin binding protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1128.2"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

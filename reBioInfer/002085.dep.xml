@@ -1,0 +1,48 @@
+<rexml>
+<doc id="2085">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w33050" g="w33052" t="s" cr="s+subj:w33052" w="We" l="~" p="N"/>
+     <dpg d="w33051" g="w33052" t="have" cr="have:w33052" w="have" l="~" p="have"/>
+     <dpg d="w33052" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="examined" l="examine" p="V"/>
+     <dpg d="E3" g="w33052" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E3" g="w33050" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w33053" g="w33054" t="det" cr="det:w33054" w="the" l="~" p="Det"/>
+     <dpg d="w33054" g="w33052" t="obj" cr="obj:w33052" w="level" l="~" p="N"/>
+     <dpg d="w33055" g="w33054" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33056" g="w33057" t="nn" cr="nn:w33057" w="cyclin" l="~" p="N"/>
+     <dpg d="w33057" g="w33055" t="pcomp-n" cr="mod*of*n:w33054" w="E" l="~" p="N"/>
+     <dpg d="w33058" g="w33057" t="punc" cr="punc:w33057" w="," l="~" p="U"/>
+     <dpg d="w33059" g="w33061" t="det" cr="det:w33061" w="a" l="~" p="Det"/>
+     <dpg d="w33060" g="w33061" t="nn" cr="nn:w33061" w="G1" l="~" p="N"/>
+     <dpg d="w33061" g="w33057" t="conj" cr="conj:w33057" w="cyclin" l="~" p="N"/>
+     <dpg d="w33062" g="w33061" t="punc" cr="punc:w33061" w="," l="~" p="U"/>
+     <dpg d="w33063" g="w33061" t="punc" cr="punc:w33061" w="and" l="~" p="U"/>
+     <dpg d="w33064" g="w33061" t="conj" cr="conj:w33061" w="p27kip" l="~" p="N"/>
+     <dpg d="w33065" g="w33057" t="punc" cr="punc:w33057" w="," l="~" p="U"/>
+     <dpg d="w33066" g="w33069" t="det" cr="det:w33069" w="a" l="~" p="Det"/>
+     <dpg d="w33067" g="w33069" t="mod" cr="mod:w33069" w="cyclin-dependent" l="cyclin-dependent" p="A"/>
+     <dpg d="w33068" g="w33069" t="nn" cr="nn:w33069" w="kinase" l="~" p="N"/>
+     <dpg d="w33069" g="w33057" t="appo" cr="appo:w33057" w="inhibitor" l="~" p="N"/>
+     <dpg d="w33070" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w33071" g="E2" t="p" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w33072" g="w33073" t="lex-mod" cr="lex-mod:w33073" w="BALB/c" l="~" p="U"/>
+     <dpg d="w33073" g="w33074" t="nn" cr="nn:w33074" w="3T3" l="BALB/c 3T3" p="N"/>
+     <dpg d="w33074" g="w33071" t="pcomp-n" cr="p*in*n:E2" w="cells" l="cell" p="N"/>
+     <dpg d="w33075" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

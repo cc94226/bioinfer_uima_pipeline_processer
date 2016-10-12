@@ -1,0 +1,80 @@
+<rexml>
+<doc id="340">
+  <text>
+<p><s id="s1"><w id="w5128">CONCLUSION</w> <w id="w5129">:</w> <w id="w5130">The</w> <w id="w5131">results</w> <w id="w5132">show</w> <w id="w5133">that</w> <w id="w5134">Munc-18-2</w> <w id="w5135">and</w> <w id="w5136">syntaxin</w> <w id="w5137">3</w> <w id="w5138">form</w> <w id="w5139">a</w> <w id="w5140">complex</w> <w id="w5141">in</w> <w id="w5142">vivo</w> <w id="w5143">and</w> <w id="w5144">suggest</w> <w id="w5145">that</w> <w id="w5146">they</w> <w id="w5147">participate</w> <w id="w5148">in</w> <w id="w5149">epithelial</w> <w id="w5150">cell</w> <w id="w5151">differentiation</w> <w id="w5152">and</w> <w id="w5153">targeted</w> <w id="w5154">vesicle</w> <w id="w5155">transport</w> <w id="w5156">processes</w> <w id="w5157">in</w> <w id="w5158">the</w> <w id="w5159">developing</w> <w id="w5160">kidney</w> <w id="w5161">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1239" gid="g1181" t="Individual_protein" fr="w5134" to="w5134" nam="yes">
+     <textspan type="extent">Munc-18-2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.340.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1240" gid="g1182" t="RELATIONSHIP_TEXTBINDING" fr="w5138" to="w5140">
+     <textspan type="extent">form [..] complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.340.1"/>
+      <exattr n="nst" v="st.340.10.0"/>
+      <exattr n="nst" v="st.340.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1241" gid="g1183" t="Protein_complex" fr="w5140" to="w5140" nam="yes">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.340.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1242" gid="g1184" t="Individual_protein" fr="w5136" to="w5137" nam="yes">
+     <textspan type="extent">syntaxin 3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.340.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r483" t="CONTAIN" e1="e1241" e2="e1239" re="e1240">
+     <textspan type="extent">Munc-18-2 and syntaxin 3 form a complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.340.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r484" t="CONTAIN" e1="e1241" e2="e1242" re="e1240">
+     <textspan type="extent">syntaxin 3 form a complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.340.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,148 @@
+<rexml>
+<doc id="1521">
+  <text>
+<p><s id="s1"><w id="w23904">The</w> <w id="w23905">interaction</w> <w id="w23906">between</w> <w id="w23907">calf</w> <w id="w23908">spleen</w> <w id="w23909">profilin</w> <w id="w23910">and</w> <w id="w23911">actin</w> <w id="w23912">depends</w> <w id="w23913">critically</w> <w id="w23914">on</w> <w id="w23915">the</w> <w id="w23916">status</w> <w id="w23917">of</w> <w id="w23918">the</w> <w id="w23919">C-terminus</w> <w id="w23920">of</w> <w id="w23921">the</w> <w id="w23922">actin</w> <w id="w23923">,</w> <w id="w23924">and</w> <w id="w23925">in</w> <w id="w23926">the</w> <w id="w23927">case</w> <w id="w23928">of</w> <w id="w23929">profilin</w> <w id="w23930">,</w> <w id="w23931">the</w> <w id="w23932">C-terminus</w> <w id="w23933">is</w> <w id="w23934">of</w> <w id="w23935">great</w> <w id="w23936">importance</w> <w id="w23937">for</w> <w id="w23938">the</w> <w id="w23939">physiochemical</w> <w id="w23940">behaviour</w> <w id="w23941">of</w> <w id="w23942">the</w> <w id="w23943">protein</w> <w id="w23944">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5548" gid="g5300" t="RELATIONSHIP_TEXTBINDING" fr="w23905" to="w23906">
+     <textspan type="extent">interaction between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1521.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5549" gid="g5301" t="Individual_protein" fr="w23907" to="w23909" nam="yes">
+     <textspan type="extent">calf spleen profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1521.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5550" gid="g5302" t="Individual_protein" fr="w23922" to="w23922" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1521.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5551" gid="g5303" t="RELATIONSHIP_TEXTBINDING" fr="w23912" to="w23914">
+     <textspan type="extent">depends [..] on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1521.3"/>
+      <exattr n="nst" v="st.1521.8.0"/>
+      <exattr n="nst" v="st.1521.10.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5552" gid="g5304" t="Property_entity" fr="w23916" to="w23922">
+     <textspan type="extent">status of the C-terminus of the actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="bd" v="e.1521.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5553" gid="g5305" t="Gene/protein/RNA" fr="w23929" to="w23929" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1521.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5554" gid="g5306" t="Substructure_of_protein" fr="w23918" to="w23922" nam="yes">
+     <textspan type="extent">the C-terminus of the actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1521.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5555" gid="g5307" t="Individual_protein" fr="w23908" to="w23909" nam="yes">
+     <textspan type="extent">spleen profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1521.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5556" gid="g5308" t="Individual_protein" fr="w23907" to="w23911" nam="yes">
+     <textspan type="extent">calf spleen [..] actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1521.8"/>
+      <exattr n="nst" v="st.1521.3.0"/>
+      <exattr n="nst" v="st.1521.4.0"/>
+      <exattr n="nst" v="st.1521.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5557" gid="g5309" t="Individual_protein" fr="w23908" to="w23911" nam="yes">
+     <textspan type="extent">spleen [..] actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1521.9"/>
+      <exattr n="nst" v="st.1521.4.0"/>
+      <exattr n="nst" v="st.1521.7.0"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2125" t="CONDITION" e1="e5552" e2="e5548" re="e5551">
+     <textspan type="extent">interaction between calf spleen profilin and actin depends critically on the status of the C-terminus of the actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1521.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2126" t="INTERACT" e1="e5549" e2="e5556" re="e5548">
+     <textspan type="extent">interaction between calf spleen profilin and actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1521.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

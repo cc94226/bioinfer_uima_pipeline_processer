@@ -1,0 +1,64 @@
+<rexml>
+<doc id="1534">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w24218" g="w24219" t="det" cr="det:w24219" w="The" l="~" p="Det"/>
+     <dpg d="w24219" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="involvement" l="~" p="N"/>
+     <dpg d="w24220" g="w24219" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w24221" g="w24227" t="det" cr="det:w24227" w="the" l="~" p="Det"/>
+     <dpg d="w24222" g="w24227" t="nn" cr="nn:w24227" w="death" l="~" p="N"/>
+     <dpg d="w24223" g="w24227" t="nn" cr="nn:w24227" w="adaptor" l="~" p="N"/>
+     <dpg d="w24224" g="w24227" t="nn" cr="nn:w24227" w="proteins" l="protein" p="N"/>
+     <dpg d="w24225" g="w24227" t="nn" cr="nn:w24227" w="FADD" l="~" p="N"/>
+     <dpg d="w24226" g="w24227" t="nn" cr="nn:w24227" w="/" l="~" p="N"/>
+     <dpg d="w24227" g="w24220" t="pcomp-n" cr="mod*of*n:w24219" w="MORT1" l="~" p="N"/>
+     <dpg d="w24228" g="w24227" t="punc" cr="punc:w24227" w="," l="~" p="U"/>
+     <dpg d="w24229" g="w24227" t="conj" cr="conj:w24227" w="TRADD" l="~" p="N"/>
+     <dpg d="w24230" g="w24229" t="punc" cr="punc:w24229" w="," l="~" p="U"/>
+     <dpg d="w24231" g="w24229" t="punc" cr="punc:w24229" w="and" l="~" p="U"/>
+     <dpg d="w24232" g="w24229" t="conj" cr="conj:w24229" w="RIP" l="~" p="N"/>
+     <dpg d="w24233" g="w24232" t="punc" cr="punc:w24232" w="and" l="~" p="U"/>
+     <dpg d="w24234" g="w24239" t="det" cr="det:w24239" w="the" l="~" p="Det"/>
+     <dpg d="w24235" g="w24239" t="mod" cr="mod:w24239" w="apoptosis-initiating" l="apoptosis-initiating" p="A"/>
+     <dpg d="w24236" g="w24237" t="lex-mod" cr="lex-mod:w24237" w="caspases" l="~" p="U"/>
+     <dpg d="w24237" g="w24239" t="nn" cr="nn:w24239" w="-8" l="caspases -8" p="N"/>
+     <dpg d="w24238" g="w24239" t="lex-mod" cr="lex-mod:w24239" w="and" l="~" p="U"/>
+     <dpg d="w24239" g="w24232" t="conj" cr="conj:w24232" w="-10" l="and -10" p="N"/>
+     <dpg d="w24240" g="w24239" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w24241" g="w24242" t="nn" cr="nn:w24242" w="death" l="~" p="N"/>
+     <dpg d="w24242" g="w24240" t="pcomp-n" cr="mod*in*n:w24239" w="signaling" l="~" p="N"/>
+     <dpg d="w24243" g="w24242" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w24244" g="w24248" t="det" cr="det:w24248" w="the" l="~" p="Det"/>
+     <dpg d="w24245" g="w24248" t="nn" cr="nn:w24248" w="two" l="~" p="N"/>
+     <dpg d="w24246" g="w24248" t="mod" cr="mod:w24248" w="death-inducing" l="death-inducing" p="A"/>
+     <dpg d="w24247" g="w24248" t="nn" cr="nn:w24248" w="TRAIL" l="~" p="N"/>
+     <dpg d="w24248" g="w24243" t="pcomp-n" cr="mod*by*n:w24242" w="receptors" l="receptor" p="N"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24249" g="w24251" t="lex-mod" cr="lex-mod:w24251" w="1" l="~" p="U"/>
+     <dpg d="w24250" g="w24251" t="lex-mod" cr="lex-mod:w24251" w="and" l="~" p="U"/>
+     <dpg d="w24251" g="w24253" t="nn" cr="nn:w24253" w="2" l="1 and 2" p="N"/>
+     <dpg d="w24252" g="w24253" t="punc" cr="punc:w24253" w="(" l="~" p="U"/>
+     <dpg d="w24253" g="w24257" t="s" cr="s:w24257||subj:w24258" w="TRAIL-R1" l="TRAIL-R1" p="N"/>
+     <dpg d="w24254" g="w24253" t="punc" cr="punc:w24253" w="and" l="~" p="U"/>
+     <dpg d="w24255" g="w24253" t="conj" cr="conj:w24253" w="TRAIL-R2" l="TRAIL-R2" p="N"/>
+     <dpg d="w24256" g="w24257" t="punc" cr="punc:w24257" w=")" l="~" p="U"/>
+     <dpg d="w24257" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="are" l="be" p="VBE"/>
+     <dpg d="w24258" g="w24257" t="pred" cr="pred:w24257" w="controversial" l="~" p="A"/>
+     <dpg d="E3" g="w24258" t="subj" cr="" w="" l="TRAIL-R1" p="N"/>
+     <dpg d="E3" g="w24253" t="antecedent" cr="" w="" l="TRAIL-R1" p="N"/>
+     <dpg d="w24259" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

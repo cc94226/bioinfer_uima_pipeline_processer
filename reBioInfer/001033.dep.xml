@@ -1,0 +1,50 @@
+<rexml>
+<doc id="1033">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16347" g="w16348" t="s" cr="s+subj:w16348" w="Neither" l="~" p="N"/>
+     <dpg d="w16348" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="can" l="~" p="V"/>
+     <dpg d="E4" g="w16348" t="subj" cr="" w="" l="neither" p="N"/>
+     <dpg d="E4" g="w16347" t="antecedent" cr="" w="" l="neither" p="N"/>
+     <dpg d="w16349" g="w16348" t="obj" cr="obj:w16348" w="profilin" l="~" p="N"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16350" g="w16359" t="s" cr="s+subj:w16359" w="I" l="~" p="N"/>
+     <dpg d="w16351" g="w16359" t="punc" cr="punc:w16359" w="," l="~" p="U"/>
+     <dpg d="w16352" g="w16359" t="mod-before" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w16353" g="w16354" t="det" cr="det:w16354" w="the" l="~" p="Det"/>
+     <dpg d="w16354" g="w16352" t="pcomp-n" cr="mod-before*in*n:w16359" w="presence" l="~" p="N"/>
+     <dpg d="w16355" g="w16354" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w16356" g="w16357" t="det" cr="det:w16357" w="the" l="~" p="Det"/>
+     <dpg d="w16357" g="w16355" t="pcomp-n" cr="mod*of*n:w16354" w="peptide" l="~" p="N"/>
+     <dpg d="w16358" g="w16359" t="punc" cr="punc:w16359" w="," l="~" p="U"/>
+     <dpg d="w16359" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="promote" l="~" p="V"/>
+     <dpg d="E5" g="w16359" t="subj" cr="" w="" l="I" p="N"/>
+     <dpg d="E5" g="w16350" t="antecedent" cr="" w="" l="I" p="N"/>
+     <dpg d="w16360" g="w16361" t="nn" cr="nn:w16361" w="actin" l="~" p="N"/>
+     <dpg d="w16361" g="w16359" t="obj" cr="obj:w16359" w="polymerization" l="~" p="N"/>
+     <dpg d="w16362" g="w16361" t="mod" cr="" w="during" l="~" p="Prep"/>
+     <dpg d="w16363" g="w16365" t="gen" cr="gen:w16365" w="its" l="~" p="N"/>
+     <dpg d="w16364" g="w16365" t="mod" cr="mod:w16365" w="early" l="~" p="A"/>
+     <dpg d="w16365" g="w16362" t="pcomp-n" cr="mod*during*n:w16361" w="phase" l="~" p="N"/>
+     <dpg d="w16366" g="w16365" t="pnmod" cr="pnmod:w16365" w="consistent" l="~" p="A"/>
+     <dpg d="w16367" g="w16366" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w16368" g="w16370" t="det" cr="det:w16370" w="a" l="~" p="Det"/>
+     <dpg d="w16369" g="w16370" t="mod" cr="mod:w16370" w="lower" l="low" p="A"/>
+     <dpg d="w16370" g="w16367" t="pcomp-n" cr="mod*with*n:w16366" w="affinity" l="~" p="N"/>
+     <dpg d="w16371" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

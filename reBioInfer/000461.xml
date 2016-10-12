@@ -1,0 +1,61 @@
+<rexml>
+<doc id="461">
+  <text>
+<p><s id="s1"><w id="w6602">Expression</w> <w id="w6603">of</w> <w id="w6604">beta-catenin</w> <w id="w6605">was</w> <w id="w6606">investigated</w> <w id="w6607">in</w> <w id="w6608">normal</w> <w id="w6609">breast</w> <w id="w6610">tissue</w> <w id="w6611">and</w> <w id="w6612">66</w> <w id="w6613">breast</w> <w id="w6614">carcinomas</w> <w id="w6615">in</w> <w id="w6616">conjunction</w> <w id="w6617">with</w> <w id="w6618">expression</w> <w id="w6619">of</w> <w id="w6620">epithelial</w> <w id="w6621">cadherin</w> <w id="w6622">(</w> <w id="w6623">E-CD</w> <w id="w6624">)</w> <w id="w6625">and</w> <w id="w6626">alpha-catenin</w> <w id="w6627">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1593" gid="g1524" t="Gene/protein/RNA" fr="w6604" to="w6604" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.461.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1594" gid="g1525" t="Gene/protein/RNA" fr="w6626" to="w6626" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.461.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1595" gid="g1526" t="Individual_protein" fr="w6620" to="w6621" nam="yes">
+     <textspan type="extent">epithelial cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.461.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1596" gid="g1526" t="Individual_protein" fr="w6623" to="w6623" nam="yes">
+     <textspan type="extent">E-CD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.461.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

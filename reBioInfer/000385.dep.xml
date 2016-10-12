@@ -1,0 +1,38 @@
+<rexml>
+<doc id="385">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w5727" g="" t="" cr="" w="Detection" l="~" p="N"/>
+     <dpg d="w5728" g="w5727" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5729" g="w5730" t="det" cr="det:w5730" w="a" l="~" p="Det"/>
+     <dpg d="w5730" g="w5728" t="pcomp-n" cr="mod*of*n:w5727||obj:w5731" w="sequence" l="~" p="N"/>
+     <dpg d="w5731" g="w5730" t="vrel" cr="vrel:w5730" w="involved" l="involve" p="V"/>
+     <dpg d="E1" g="w5731" t="obj" cr="" w="" l="sequence" p="N"/>
+     <dpg d="E1" g="w5730" t="antecedent" cr="" w="" l="sequence" p="N"/>
+     <dpg d="w5732" g="w5731" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w5733" g="w5735" t="lex-mod" cr="lex-mod:w5735" w="actin" l="~" p="U"/>
+     <dpg d="w5734" g="w5735" t="lex-mod" cr="lex-mod:w5735" w="-" l="~" p="U"/>
+     <dpg d="w5735" g="w5732" t="pcomp-n" cr="mod*in*n:w5731" w="binding" l="actin - binding" p="N"/>
+     <dpg d="w5736" g="w5735" t="punc" cr="punc:w5735" w="and" l="~" p="U"/>
+     <dpg d="w5737" g="w5735" t="conj" cr="conj:w5735" w="phosphoinositide-binding" l="phosphoinositide-binding" p="N"/>
+     <dpg d="w5738" g="w5737" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w5739" g="w5741" t="det" cr="det:w5741" w="the" l="~" p="Det"/>
+     <dpg d="w5740" g="w5741" t="mod" cr="mod:w5741" w="N-terminal" l="N-terminal" p="A"/>
+     <dpg d="w5741" g="w5738" t="pcomp-n" cr="mod*in*n:w5737" w="side" l="~" p="N"/>
+     <dpg d="w5742" g="w5741" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5743" g="w5742" t="pcomp-n" cr="mod*of*n:w5741" w="cofilin" l="~" p="N"/>
+     <dpg d="w5744" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

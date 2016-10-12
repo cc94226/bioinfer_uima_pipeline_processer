@@ -1,0 +1,43 @@
+<rexml>
+<doc id="2">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1" g="w2" t="s" cr="s+subj:w2||s+subj:w6" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w2" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="inhibits" l="inhibit" p="V"/>
+     <dpg d="E5" g="w2" t="subj" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="E5" g="w1" t="antecedent" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="w3" g="w4" t="mod" cr="mod:w4" w="beta-catenin" l="beta-catenin" p="A"/>
+     <dpg d="w4" g="w2" t="obj" cr="obj:w2" w="signaling" l="~" p="N"/>
+     <dpg d="w5" g="w4" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E0" g="w5" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w1" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6" g="E0" t="i" cr="mod*by*c:w4" w="preventing" l="prevent" p="V"/>
+     <dpg d="E6" g="w6" t="subj" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="w7" g="w6" t="obj" cr="obj:w6" w="formation" l="~" p="N"/>
+     <dpg d="w8" g="w7" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9" g="w10" t="det" cr="det:w10" w="a" l="~" p="Det"/>
+     <dpg d="w10" g="w8" t="pcomp-n" cr="mod*of*n:w7" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w11" g="E4" t="punc" cr="punc:E4" w="*" l="~" p="U"/>
+     <dpg d="w12" g="w15" t="nn" cr="nn:w15" w="T-cell" l="T cell" p="N"/>
+     <dpg d="w13" g="w15" t="nn" cr="nn:w15" w="factor" l="~" p="N"/>
+     <dpg d="w14" g="w15" t="nn" cr="nn:w15" w="*DNA" l="~" p="N"/>
+     <dpg d="w15" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="complex" l="~" p="N"/>
+     <dpg d="w16" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

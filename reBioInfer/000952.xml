@@ -1,0 +1,103 @@
+<rexml>
+<doc id="952">
+  <text>
+<p><s id="s1"><w id="w14815">MAb</w> <w id="w14816">0811</w> <w id="w14817">was</w> <w id="w14818">shown</w> <w id="w14819">to</w> <w id="w14820">recognize</w> <w id="w14821">the</w> <w id="w14822">UL8</w> <w id="w14823">protein</w> <w id="w14824">in</w> <w id="w14825">both</w> <w id="w14826">Western</w> <w id="w14827">blots</w> <w id="w14828">and</w> <w id="w14829">immunoprecipitation</w> <w id="w14830">assays</w> <w id="w14831">and</w> <w id="w14832">to</w> <w id="w14833">co-precipitate</w> <w id="w14834">the</w> <w id="w14835">other</w> <w id="w14836">two</w> <w id="w14837">proteins</w> <w id="w14838">in</w> <w id="w14839">the</w> <w id="w14840">complex</w> <w id="w14841">from</w> <w id="w14842">insect</w> <w id="w14843">cells</w> <w id="w14844">triply</w> <w id="w14845">infected</w> <w id="w14846">with</w> <w id="w14847">recombinants</w> <w id="w14848">expressing</w> <w id="w14849">the</w> <w id="w14850">UL5</w> <w id="w14851">,</w> <w id="w14852">UL8</w> <w id="w14853">and</w> <w id="w14854">UL52</w> <w id="w14855">polypeptides</w> <w id="w14856">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3363" gid="g3228" t="Individual_protein" fr="w14822" to="w14823" nam="yes">
+     <textspan type="extent">UL8 protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.952.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3364" gid="g3229" t="Gene/protein/RNA" fr="w14852" to="w14852" nam="yes">
+     <textspan type="extent">UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.952.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3365" gid="g3230" t="Gene/protein/RNA" fr="w14850" to="w14850" nam="yes">
+     <textspan type="extent">UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.952.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3366" gid="g3231" t="Gene/protein/RNA" fr="w14854" to="w14854" nam="yes">
+     <textspan type="extent">UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.952.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3367" gid="g3232" t="Individual_protein" fr="w14822" to="w14822" nam="yes">
+     <textspan type="extent">UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.952.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3368" gid="g3233" t="RELATIONSHIP_TEXTBINDING" fr="w14820" to="w14820">
+     <textspan type="extent">recognize</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.952.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3369" gid="g3234" t="Individual_protein" fr="w14815" to="w14816" nam="yes">
+     <textspan type="extent">MAb 0811</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.952.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1278" t="BIND" e1="e3369" e2="e3363" re="e3368">
+     <textspan type="extent">MAb 0811 was shown to recognize the UL8 protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.952.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

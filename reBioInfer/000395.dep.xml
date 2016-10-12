@@ -1,0 +1,39 @@
+<rexml>
+<doc id="395">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5824" g="w5825" t="mod" cr="mod:w5825" w="Direct" l="~" p="A"/>
+     <dpg d="w5825" g="w5836" t="s" cr="s:w5836||subj:w5837" w="binding" l="~" p="N"/>
+     <dpg d="w5826" g="w5825" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5827" g="w5831" t="det" cr="det:w5831" w="the" l="~" p="Det"/>
+     <dpg d="w5828" g="w5830" t="lex-mod" cr="lex-mod:w5830" w="verprolin" l="~" p="U"/>
+     <dpg d="w5829" g="w5830" t="lex-mod" cr="lex-mod:w5830" w="-" l="~" p="U"/>
+     <dpg d="w5830" g="w5831" t="mod" cr="mod:w5831" w="homology" l="verprolin - homology" p="A"/>
+     <dpg d="w5831" g="w5826" t="pcomp-n" cr="mod*of*n:w5825" w="domain" l="~" p="N"/>
+     <dpg d="w5832" g="w5831" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w5833" g="w5832" t="pcomp-n" cr="mod*in*n:w5831" w="N-WASP" l="N-WASP" p="N"/>
+     <dpg d="w5834" g="w5833" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w5835" g="w5834" t="pcomp-n" cr="mod*to*n:w5833" w="actin" l="~" p="N"/>
+     <dpg d="w5836" g="E0" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="w5837" g="w5836" t="pred" cr="pred:w5836" w="essential" l="~" p="N"/>
+     <dpg d="E2" g="w5837" t="subj" cr="" w="" l="binding" p="N"/>
+     <dpg d="E2" g="w5825" t="antecedent" cr="" w="" l="binding" p="N"/>
+     <dpg d="w5838" g="w5837" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w5839" g="w5840" t="mod" cr="mod:w5840" w="cytoskeletal" l="~" p="A"/>
+     <dpg d="w5840" g="w5838" t="pcomp-n" cr="mod*for*n:w5837" w="reorganization" l="~" p="N"/>
+     <dpg d="w5841" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

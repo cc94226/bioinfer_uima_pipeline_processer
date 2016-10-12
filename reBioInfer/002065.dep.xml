@@ -1,0 +1,96 @@
+<rexml>
+<doc id="2065">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32769" g="w32770" t="s" cr="s+subj:w32770||s+subj:w32779" w="We" l="~" p="N"/>
+     <dpg d="w32770" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="found" l="find" p="V"/>
+     <dpg d="E5" g="w32770" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E5" g="w32769" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w32771" g="w32770" t="obj1" cr="obj1:w32770" w="that" l="~" p="N"/>
+     <dpg d="w32772" g="w32773" t="det" cr="det:w32773" w="the" l="~" p="Det"/>
+     <dpg d="w32773" g="w32770" t="obj2" cr="obj2:w32770" w="expression" l="~" p="N"/>
+     <dpg d="w32774" g="w32773" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32775" g="w32777" t="pre" cr="pre:w32777" w="all" l="~" p="PreDet"/>
+     <dpg d="w32776" g="w32777" t="det" cr="det:w32777" w="these" l="~" p="Det"/>
+     <dpg d="w32777" g="w32774" t="pcomp-n" cr="mod*of*n:w32773" w="genes" l="gene" p="N"/>
+     <dpg d="w32778" g="w32770" t="punc" cr="punc:w32770" w="," l="~" p="U"/>
+     <dpg d="E0" g="w32770" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w32769" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w32779" g="E0" t="i" cr="mod:w32770" w="including" l="include" p="V"/>
+     <dpg d="E6" g="w32779" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w32780" g="w32781" t="lex-mod" cr="lex-mod:w32781" w="thymidylate" l="~" p="U"/>
+     <dpg d="w32781" g="w32779" t="obj" cr="obj:w32779" w="synthase" l="thymidylate synthase" p="N"/>
+     <dpg d="w32782" g="w32783" t="punc" cr="punc:w32783" w="(" l="~" p="U"/>
+     <dpg d="w32783" g="w32781" t="abbrev" cr="abbrev:w32781" w="TS" l="~" p="N"/>
+     <dpg d="w32784" g="w32783" t="punc" cr="punc:w32783" w=")" l="~" p="U"/>
+     <dpg d="w32785" g="w32781" t="punc" cr="punc:w32781" w="," l="~" p="U"/>
+     <dpg d="w32786" g="w32787" t="lex-mod" cr="lex-mod:w32787" w="dihydrofolate" l="~" p="U"/>
+     <dpg d="w32787" g="w32781" t="conj" cr="conj:w32781" w="reductase" l="dihydrofolate reductase" p="N"/>
+     <dpg d="w32788" g="w32789" t="punc" cr="punc:w32789" w="(" l="~" p="U"/>
+     <dpg d="w32789" g="w32787" t="abbrev" cr="abbrev:w32787" w="DHFR" l="~" p="N"/>
+     <dpg d="w32790" g="w32789" t="punc" cr="punc:w32789" w=")" l="~" p="U"/>
+     <dpg d="w32791" g="w32787" t="punc" cr="punc:w32787" w="," l="~" p="U"/>
+     <dpg d="w32792" g="w32795" t="nn" cr="nn:w32795" w="ribonucleotide" l="~" p="N"/>
+     <dpg d="w32793" g="w32795" t="nn" cr="nn:w32795" w="reductase" l="~" p="N"/>
+     <dpg d="w32794" g="w32795" t="punc" cr="punc:w32795" w="(" l="~" p="U"/>
+     <dpg d="w32795" g="w32787" t="conj" cr="conj:w32787" w="PNR" l="~" p="N"/>
+     <dpg d="w32796" g="w32795" t="punc" cr="punc:w32795" w=")" l="~" p="U"/>
+     <dpg d="w32797" g="w32795" t="punc" cr="punc:w32795" w="," l="~" p="U"/>
+     <dpg d="w32798" g="w32801" t="lex-mod" cr="lex-mod:w32801" w="proliferating" l="~" p="U"/>
+     <dpg d="w32799" g="w32801" t="lex-mod" cr="lex-mod:w32801" w="cell" l="~" p="U"/>
+     <dpg d="w32800" g="w32801" t="lex-mod" cr="lex-mod:w32801" w="nuclear" l="~" p="U"/>
+     <dpg d="w32801" g="w32795" t="conj" cr="conj:w32795" w="antigen" l="proliferating cell nuclear antigen" p="N"/>
+     <dpg d="w32802" g="w32803" t="punc" cr="punc:w32803" w="(" l="~" p="U"/>
+     <dpg d="w32803" g="w32801" t="abbrev" cr="abbrev:w32801" w="PCNA" l="~" p="N"/>
+     <dpg d="w32804" g="w32803" t="punc" cr="punc:w32803" w=")" l="~" p="U"/>
+     <dpg d="w32805" g="w32801" t="punc" cr="punc:w32801" w="," l="~" p="U"/>
+     <dpg d="w32806" g="w32807" t="nn" cr="nn:w32807" w="histone" l="~" p="N"/>
+     <dpg d="w32807" g="w32801" t="conj" cr="conj:w32801" w="H1" l="~" p="N"/>
+     <dpg d="w32808" g="w32807" t="punc" cr="punc:w32807" w="," l="~" p="U"/>
+     <dpg d="w32809" g="w32813" t="nn" cr="nn:w32813" w="histone" l="~" p="N"/>
+     <dpg d="w32810" g="w32813" t="nn" cr="nn:w32813" w="H" l="~" p="N"/>
+     <dpg d="w32811" g="w32813" t="nn" cr="nn:w32813" w="2A" l="~" p="N"/>
+     <dpg d="w32812" g="w32813" t="nn" cr="nn:w32813" w="+" l="~" p="N"/>
+     <dpg d="w32813" g="w32807" t="conj" cr="conj:w32807" w="2B" l="~" p="N"/>
+     <dpg d="w32814" g="w32813" t="punc" cr="punc:w32813" w="," l="~" p="U"/>
+     <dpg d="w32815" g="w32816" t="nn" cr="nn:w32816" w="histone" l="~" p="N"/>
+     <dpg d="w32816" g="w32813" t="conj" cr="conj:w32813" w="H3" l="~" p="N"/>
+     <dpg d="w32817" g="w32816" t="punc" cr="punc:w32816" w="," l="~" p="U"/>
+     <dpg d="w32818" g="w32816" t="punc" cr="punc:w32816" w="and" l="~" p="U"/>
+     <dpg d="w32819" g="w32820" t="nn" cr="nn:w32820" w="histone" l="~" p="N"/>
+     <dpg d="w32820" g="w32816" t="conj" cr="conj:w32816" w="H4" l="~" p="N"/>
+     <dpg d="w32821" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="w32822" g="E4" t="punc" cr="punc:E4" w="was" l="~" p="U"/>
+     <dpg d="w32823" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="induced" l="~" p="A"/>
+     <dpg d="w32824" g="w32823" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w32825" g="w32826" t="mod" cr="mod:w32826" w="high" l="~" p="A"/>
+     <dpg d="w32826" g="w32824" t="pcomp-n" cr="mod*to*n:w32823" w="levels" l="level" p="N"/>
+     <dpg d="w32827" g="w32826" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w32828" g="w32830" t="mod" cr="mod:w32830" w="young" l="~" p="A"/>
+     <dpg d="w32829" g="w32830" t="nn" cr="nn:w32830" w="IMR-90" l="IMR-90" p="N"/>
+     <dpg d="w32830" g="w32827" t="pcomp-n" cr="mod*in*n:w32826" w="cells" l="cell" p="N"/>
+     <dpg d="w32831" g="w32827" t="punc" cr="punc:w32827" w="but" l="~" p="U"/>
+     <dpg d="w32832" g="w32827" t="punc" cr="punc:w32827" w="not" l="~" p="U"/>
+     <dpg d="w32833" g="w32827" t="conj" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w32834" g="w32836" t="mod" cr="mod:w32836" w="old" l="~" p="A"/>
+     <dpg d="w32835" g="w32836" t="nn" cr="nn:w32836" w="IMR-90" l="IMR-90" p="N"/>
+     <dpg d="w32836" g="w32833" t="pcomp-n" cr="mod*in*n:w32826" w="cells" l="cell" p="N"/>
+     <dpg d="w32837" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

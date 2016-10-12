@@ -1,0 +1,103 @@
+<rexml>
+<doc id="1769">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w28247" g="w28248" t="det" cr="det:w28248" w="The" l="~" p="Det"/>
+     <dpg d="w28248" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="sizes" l="size" p="N"/>
+     <dpg d="w28249" g="w28248" t="punc" cr="punc:w28248" w="and" l="~" p="U"/>
+     <dpg d="w28250" g="w28248" t="conj" cr="conj:w28248" w="characteristics" l="characteristic" p="N"/>
+     <dpg d="w28251" g="w28250" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w28252" g="w28251" t="pcomp-n" cr="mod*of*n:w28250" w="each" l="~" p="N"/>
+     <dpg d="w28253" g="w28252" t="comp1" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w28254" g="w28255" t="det" cr="det:w28255" w="the" l="~" p="Det"/>
+     <dpg d="w28255" g="w28253" t="pcomp-n" cr="comp1*of*n:w28252||obj:w28256" w="proteins" l="protein" p="N"/>
+     <dpg d="w28256" g="w28255" t="vrel" cr="vrel:w28255" w="determined" l="determine" p="V"/>
+     <dpg d="E2" g="w28256" t="obj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E2" g="w28255" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w28257" g="w28256" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w28258" g="w28260" t="mod" cr="mod:w28260" w="various" l="~" p="A"/>
+     <dpg d="w28259" g="w28260" t="mod" cr="mod:w28260" w="radiolabelling" l="~" p="A"/>
+     <dpg d="w28260" g="w28257" t="pcomp-n" cr="mod*from*n:w28256||obj1:w28261" w="experiments" l="experiment" p="N"/>
+     <dpg d="w28261" g="w28260" t="vrel" cr="vrel:w28260" w="allowed" l="allow" p="V"/>
+     <dpg d="E3" g="w28261" t="obj1" cr="" w="" l="experiment" p="N"/>
+     <dpg d="E3" g="w28260" t="antecedent" cr="" w="" l="experiment" p="N"/>
+     <dpg d="w28262" g="w28263" t="mod" cr="mod:w28263" w="preliminary" l="~" p="A"/>
+     <dpg d="w28263" g="w28261" t="obj2" cr="obj2:w28261" w="identification" l="~" p="N"/>
+     <dpg d="w28264" g="w28263" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w28265" g="w28266" t="det" cr="det:w28266" w="the" l="~" p="Det"/>
+     <dpg d="w28266" g="w28264" t="pcomp-n" cr="mod*of*n:w28263" w="proteins" l="protein" p="N"/>
+     <dpg d="w28267" g="w28266" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w28268" g="w28271" t="det" cr="det:w28271" w="the" l="~" p="Det"/>
+     <dpg d="w28269" g="w28271" t="mod" cr="mod:w28271" w="large" l="~" p="A"/>
+     <dpg d="w28270" g="w28271" t="punc" cr="punc:w28271" w="(" l="~" p="U"/>
+     <dpg d="w28271" g="w28267" t="pcomp-n" cr="mod*as*n:w28266" w="L" l="~" p="N"/>
+     <dpg d="w28272" g="E1" t="punc" cr="punc:E1" w=";" l="~" p="U"/>
+     <dpg d="w28273" g="w28278" t="num" cr="num:w28278" w="190" l="~" p="N"/>
+     <dpg d="w28274" g="w28278" t="nn" cr="nn:w28278" w="kDa" l="~" p="N"/>
+     <dpg d="w28275" g="w28278" t="punc" cr="punc:w28278" w=")" l="~" p="U"/>
+     <dpg d="w28276" g="w28278" t="punc" cr="punc:w28278" w="," l="~" p="U"/>
+     <dpg d="w28277" g="w28278" t="nn" cr="nn:w28278" w="haemagglutinin" l="~" p="N"/>
+     <dpg d="w28278" g="E1" t="subclass" cr="subclass:E1" w="neuraminidase" l="~" p="N"/>
+     <dpg d="w28279" g="w28278" t="punc" cr="punc:w28278" w="(" l="~" p="U"/>
+     <dpg d="w28280" g="w28278" t="appo" cr="appo:w28278" w="HN" l="~" p="N"/>
+     <dpg d="w28281" g="E1" t="punc" cr="punc:E1" w=";" l="~" p="U"/>
+     <dpg d="w28282" g="w28288" t="num" cr="num:w28288" w="74" l="~" p="N"/>
+     <dpg d="w28283" g="w28288" t="nn" cr="nn:w28288" w="kDa" l="~" p="N"/>
+     <dpg d="w28284" g="w28288" t="punc" cr="punc:w28288" w=")" l="~" p="U"/>
+     <dpg d="w28285" g="w28288" t="punc" cr="punc:w28288" w="," l="~" p="U"/>
+     <dpg d="w28286" g="w28288" t="nn" cr="nn:w28288" w="nucleocapsid" l="~" p="N"/>
+     <dpg d="w28287" g="w28288" t="punc" cr="punc:w28288" w="(" l="~" p="U"/>
+     <dpg d="w28288" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="N" l="~" p="N"/>
+     <dpg d="w28289" g="E1" t="punc" cr="punc:E1" w=";" l="~" p="U"/>
+     <dpg d="w28290" g="w28296" t="num" cr="num:w28296" w="66" l="~" p="N"/>
+     <dpg d="w28291" g="w28296" t="nn" cr="nn:w28296" w="kDa" l="~" p="N"/>
+     <dpg d="w28292" g="w28296" t="punc" cr="punc:w28296" w=")" l="~" p="U"/>
+     <dpg d="w28293" g="w28296" t="punc" cr="punc:w28296" w="," l="~" p="U"/>
+     <dpg d="w28294" g="w28296" t="nn" cr="nn:w28296" w="fusion" l="~" p="N"/>
+     <dpg d="w28295" g="w28296" t="punc" cr="punc:w28296" w="(" l="~" p="U"/>
+     <dpg d="w28296" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="F0" l="~" p="N"/>
+     <dpg d="w28297" g="E1" t="punc" cr="punc:E1" w=";" l="~" p="U"/>
+     <dpg d="w28298" g="w28304" t="num" cr="num:w28304" w="63" l="~" p="N"/>
+     <dpg d="w28299" g="w28304" t="nn" cr="nn:w28304" w="kDa" l="~" p="N"/>
+     <dpg d="w28300" g="w28304" t="punc" cr="punc:w28304" w=")" l="~" p="U"/>
+     <dpg d="w28301" g="w28304" t="punc" cr="punc:w28304" w="," l="~" p="U"/>
+     <dpg d="w28302" g="w28304" t="nn" cr="nn:w28304" w="phosphoprotein" l="~" p="N"/>
+     <dpg d="w28303" g="w28304" t="punc" cr="punc:w28304" w="(" l="~" p="U"/>
+     <dpg d="w28304" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="P" l="~" p="N"/>
+     <dpg d="w28305" g="E1" t="punc" cr="punc:E1" w=";" l="~" p="U"/>
+     <dpg d="w28306" g="w28312" t="num" cr="num:w28312" w="49" l="~" p="N"/>
+     <dpg d="w28307" g="w28312" t="nn" cr="nn:w28312" w="kDa" l="~" p="N"/>
+     <dpg d="w28308" g="w28312" t="punc" cr="punc:w28312" w=")" l="~" p="U"/>
+     <dpg d="w28309" g="w28312" t="punc" cr="punc:w28312" w="," l="~" p="U"/>
+     <dpg d="w28310" g="w28312" t="nn" cr="nn:w28312" w="matrix" l="~" p="N"/>
+     <dpg d="w28311" g="w28312" t="punc" cr="punc:w28312" w="(" l="~" p="U"/>
+     <dpg d="w28312" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="M" l="~" p="N"/>
+     <dpg d="w28313" g="E1" t="punc" cr="punc:E1" w=";" l="~" p="U"/>
+     <dpg d="w28314" g="w28315" t="num" cr="num:w28315" w="43" l="~" p="N"/>
+     <dpg d="w28315" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="kDa" l="~" p="N"/>
+     <dpg d="w28316" g="w28315" t="punc" cr="punc:w28315" w=")" l="~" p="U"/>
+     <dpg d="w28317" g="w28315" t="punc" cr="punc:w28315" w="and" l="~" p="U"/>
+     <dpg d="w28318" g="w28320" t="nn" cr="nn:w28320" w="non-structural" l="non-structural" p="N"/>
+     <dpg d="w28319" g="w28320" t="punc" cr="punc:w28320" w="(" l="~" p="U"/>
+     <dpg d="w28320" g="w28315" t="conj" cr="conj:w28315" w="V" l="~" p="N"/>
+     <dpg d="w28321" g="E1" t="punc" cr="punc:E1" w=";" l="~" p="U"/>
+     <dpg d="w28322" g="w28325" t="num" cr="num:w28325" w="35" l="~" p="N"/>
+     <dpg d="w28323" g="w28325" t="nn" cr="nn:w28325" w="kDa" l="~" p="N"/>
+     <dpg d="w28324" g="w28325" t="punc" cr="punc:w28325" w=")" l="~" p="U"/>
+     <dpg d="w28325" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="proteins" l="protein" p="N"/>
+     <dpg d="w28326" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

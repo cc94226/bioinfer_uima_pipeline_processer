@@ -1,0 +1,73 @@
+<rexml>
+<doc id="1523">
+  
+  <markup>
+   <nes>
+    <ne id="e5566" gid="g5316" t="Individual_protein" fr="w23982" to="w23983" nam="yes" sid="s1">
+     <textspan>Acanthamoeba actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1523.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5568" gid="g5318" t="Individual_protein" fr="w23983" to="w23983" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1523.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5567" gid="g5317" t="Individual_protein" fr="w23985" to="w23986" nam="yes" sid="s1">
+     <textspan>Acanthamoeba profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1523.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5569" gid="g5319" t="Individual_protein" fr="w23986" to="w23986" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1523.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2130" t="INTERACT" e1="e5566" e2="e5567" re="e5565">
+     <textspan>interaction of Acanthamoeba actin and Acanthamoeba profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1523.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

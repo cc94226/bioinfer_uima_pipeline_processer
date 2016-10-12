@@ -1,0 +1,49 @@
+<rexml>
+<doc id="563">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7958" g="E3" t="mod" cr="mod:w7965||obj1:w7960" w="Here" l="~" p="N"/>
+     <dpg d="E2" g="w7958" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7959" g="w7960" t="s" cr="s+subj:w7960" w="we" l="~" p="N"/>
+     <dpg d="w7960" g="E2" t="i" cr="rel:w7958" w="demonstrate" l="~" p="V"/>
+     <dpg d="E6" g="w7960" t="obj1" cr="" w="" l="here" p="N"/>
+     <dpg d="E6" g="w7958" t="antecedent" cr="" w="" l="here" p="N"/>
+     <dpg d="E7" g="w7960" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E7" g="w7959" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w7961" g="w7963" t="det" cr="det:w7963" w="that" l="~" p="Det"/>
+     <dpg d="w7962" g="w7963" t="mod" cr="mod:w7963" w="accessory" l="~" p="A"/>
+     <dpg d="w7963" g="w7960" t="obj2" cr="obj2:w7960" w="receptor" l="~" p="N"/>
+     <dpg d="E1" g="w7965" t="s" cr="s+subj:w7965" w="" l="vpsc" p="CN"/>
+     <dpg d="E0" g="E1" t="cn" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="s+subj:w7964" w="" l="~" p="N"/>
+     <dpg d="w7964" g="E0" t="i" cr="cn:E1" w="triggering" l="trigger" p="V"/>
+     <dpg d="E8" g="w7964" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w7965" g="E3" t="i" cr="" w="induces" l="induce" p="V"/>
+     <dpg d="E9" g="w7965" t="subj" cr="" w="" l="vpsc" p="CN"/>
+     <dpg d="E9" g="E1" t="antecedent" cr="" w="" l="vpsc" p="CN"/>
+     <dpg d="w7966" g="w7968" t="det" cr="det:w7968" w="the" l="~" p="Det"/>
+     <dpg d="w7967" g="w7968" t="mod" cr="mod:w7968" w="transient" l="~" p="A"/>
+     <dpg d="w7968" g="w7965" t="obj" cr="obj:w7965" w="association" l="~" p="N"/>
+     <dpg d="w7969" g="w7968" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w7970" g="w7969" t="pcomp-n" cr="mod*of*n:w7968" w="cofilin" l="~" p="N"/>
+     <dpg d="w7971" g="w7970" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w7972" g="w7974" t="det" cr="det:w7974" w="the" l="~" p="Det"/>
+     <dpg d="w7973" g="w7974" t="nn" cr="nn:w7974" w="actin" l="~" p="N"/>
+     <dpg d="w7974" g="w7971" t="pcomp-n" cr="mod*with*n:w7970" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w7975" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

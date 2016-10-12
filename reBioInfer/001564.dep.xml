@@ -1,0 +1,90 @@
+<rexml>
+<doc id="1564">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24765" g="w24767" t="det" cr="det:w24767" w="The" l="~" p="Det"/>
+     <dpg d="w24766" g="w24767" t="mod" cr="mod:w24767" w="muscle-related" l="muscle-related" p="A"/>
+     <dpg d="w24767" g="w24768" t="s" cr="s+subj:w24768" w="genes" l="gene" p="N"/>
+     <dpg d="w24768" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="included" l="include" p="V"/>
+     <dpg d="E6" g="w24768" t="subj" cr="" w="" l="gene" p="N"/>
+     <dpg d="E6" g="w24767" t="antecedent" cr="" w="" l="gene" p="N"/>
+     <dpg d="w24769" g="w24768" t="obj" cr="obj:w24768" w="actin" l="~" p="N"/>
+     <dpg d="w24770" g="w24769" t="punc" cr="punc:w24769" w="," l="~" p="U"/>
+     <dpg d="w24771" g="w24769" t="appo" cr="appo:w24769" w="tropomyosin" l="~" p="N"/>
+     <dpg d="w24772" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="w24773" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="troponin" l="~" p="N"/>
+     <dpg d="w24774" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="I" l="~" p="N"/>
+     <dpg d="w24775" g="w24774" t="punc" cr="punc:w24774" w="," l="~" p="U"/>
+     <dpg d="w24776" g="w24779" t="nn" cr="nn:w24779" w="myosin" l="~" p="N"/>
+     <dpg d="w24777" g="w24779" t="mod" cr="mod:w24779" w="regulatory" l="~" p="A"/>
+     <dpg d="w24778" g="w24779" t="mod" cr="mod:w24779" w="light" l="~" p="A"/>
+     <dpg d="w24779" g="w24774" t="conj" cr="conj:w24774" w="chain" l="~" p="N"/>
+     <dpg d="w24780" g="w24779" t="punc" cr="punc:w24779" w="," l="~" p="U"/>
+     <dpg d="w24781" g="w24784" t="nn" cr="nn:w24784" w="myosin" l="~" p="N"/>
+     <dpg d="w24782" g="w24784" t="mod" cr="mod:w24784" w="light" l="~" p="A"/>
+     <dpg d="w24783" g="w24784" t="nn" cr="nn:w24784" w="chain" l="~" p="N"/>
+     <dpg d="w24784" g="w24779" t="conj" cr="conj:w24779" w="kinase" l="~" p="N"/>
+     <dpg d="w24785" g="w24784" t="punc" cr="punc:w24784" w="," l="~" p="U"/>
+     <dpg d="w24786" g="w24788" t="nn" cr="nn:w24788" w="myosin" l="~" p="N"/>
+     <dpg d="w24787" g="w24788" t="mod" cr="mod:w24788" w="heavy" l="~" p="A"/>
+     <dpg d="w24788" g="w24784" t="conj" cr="conj:w24784" w="chain" l="~" p="N"/>
+     <dpg d="w24789" g="w24788" t="punc" cr="punc:w24788" w="," l="~" p="U"/>
+     <dpg d="w24790" g="w24788" t="conj" cr="conj:w24788" w="calmodulin" l="~" p="N"/>
+     <dpg d="w24791" g="w24790" t="punc" cr="punc:w24790" w="," l="~" p="U"/>
+     <dpg d="w24792" g="w24790" t="conj" cr="conj:w24790" w="calponin" l="~" p="N"/>
+     <dpg d="w24793" g="w24792" t="punc" cr="punc:w24792" w="," l="~" p="U"/>
+     <dpg d="w24794" g="w24796" t="nn" cr="nn:w24796" w="calcium" l="~" p="N"/>
+     <dpg d="w24795" g="w24796" t="nn" cr="nn:w24796" w="vector" l="~" p="N"/>
+     <dpg d="w24796" g="w24792" t="conj" cr="conj:w24792" w="protein" l="~" p="N"/>
+     <dpg d="w24797" g="w24796" t="punc" cr="punc:w24796" w="," l="~" p="U"/>
+     <dpg d="w24798" g="w24799" t="nn" cr="nn:w24799" w="creatine" l="~" p="N"/>
+     <dpg d="w24799" g="w24796" t="conj" cr="conj:w24796" w="kinase" l="~" p="N"/>
+     <dpg d="w24800" g="w24799" t="punc" cr="punc:w24799" w="," l="~" p="U"/>
+     <dpg d="w24801" g="w24803" t="nn" cr="nn:w24803" w="muscle" l="~" p="N"/>
+     <dpg d="w24802" g="w24803" t="nn" cr="nn:w24803" w="LIM" l="~" p="N"/>
+     <dpg d="w24803" g="w24799" t="conj" cr="conj:w24799" w="protein" l="~" p="N"/>
+     <dpg d="w24804" g="w24803" t="punc" cr="punc:w24803" w="," l="~" p="U"/>
+     <dpg d="w24805" g="w24803" t="punc" cr="punc:w24803" w="and" l="~" p="U"/>
+     <dpg d="w24806" g="w24808" t="mod" cr="mod:w24808" w="SH3-binding" l="SH3-binding" p="A"/>
+     <dpg d="w24807" g="w24808" t="mod" cr="mod:w24808" w="glutamate-rich" l="glutamate-rich" p="A"/>
+     <dpg d="w24808" g="w24803" t="conj" cr="conj:w24803" w="protein" l="~" p="N"/>
+     <dpg d="w24809" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="E1" g="E5" t="UNSPECRELTYPE" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="s+subj:w24810" w="" l="~" p="N"/>
+     <dpg d="w24810" g="E1" t="i" cr="UNSPECRELTYPE:E5" w="suggesting" l="suggest" p="V"/>
+     <dpg d="E7" g="w24810" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="E0" g="w24810" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24811" g="E0" t="c" cr="c:w24820" w="that" l="~" p="COMP"/>
+     <dpg d="w24812" g="w24817" t="mod" cr="mod:w24817" w="vertebrate" l="~" p="A"/>
+     <dpg d="w24813" g="w24817" t="mod" cr="mod:w24817" w="skeletal" l="~" p="A"/>
+     <dpg d="w24814" g="w24813" t="punc" cr="punc:w24813" w="and" l="~" p="U"/>
+     <dpg d="w24815" g="w24816" t="lex-mod" cr="lex-mod:w24816" w="smooth" l="~" p="U"/>
+     <dpg d="w24816" g="w24813" t="conj" cr="conj:w24813" w="muscle-type" l="smooth muscle-type" p="A"/>
+     <dpg d="w24817" g="w24820" t="s" cr="s+obj:w24820" w="genes" l="gene" p="N"/>
+     <dpg d="w24818" g="w24820" t="be" cr="be:w24820" w="are" l="be" p="be"/>
+     <dpg d="w24819" g="w24820" t="amod" cr="amod:w24820" w="simultaneously" l="~" p="A"/>
+     <dpg d="w24820" g="E0" t="i" cr="fc:w24810" w="expressed" l="express" p="V"/>
+     <dpg d="E8" g="w24820" t="obj" cr="" w="" l="gene" p="N"/>
+     <dpg d="E8" g="w24817" t="antecedent" cr="" w="" l="gene" p="N"/>
+     <dpg d="w24821" g="w24820" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w24822" g="w24824" t="det" cr="det:w24824" w="the" l="~" p="Det"/>
+     <dpg d="w24823" g="w24824" t="nn" cr="nn:w24824" w="amphioxus" l="~" p="N"/>
+     <dpg d="w24824" g="w24821" t="pcomp-n" cr="mod*in*n:w24820" w="notochord" l="~" p="N"/>
+     <dpg d="w24825" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

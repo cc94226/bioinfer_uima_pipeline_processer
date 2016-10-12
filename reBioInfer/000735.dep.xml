@@ -1,0 +1,75 @@
+<rexml>
+<doc id="735">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11383" g="E2" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w11384" g="w11383" t="pcomp-n" cr="mod*in*n:w11388" w="contrast" l="~" p="N"/>
+     <dpg d="w11385" g="E2" t="punc" cr="punc:w11388" w="," l="~" p="U"/>
+     <dpg d="w11386" g="w11388" t="s" cr="s+subj:w11388||s+subj:w11414" w="act1-159" l="act1-159" p="N"/>
+     <dpg d="w11387" g="w11388" t="mod-before" cr="mod-before:w11388" w="partially" l="~" p="A"/>
+     <dpg d="w11388" g="E2" t="i" cr="" w="suppresses" l="suppress" p="V"/>
+     <dpg d="E6" g="w11388" t="subj" cr="" w="" l="act1-159" p="N"/>
+     <dpg d="E6" g="w11386" t="antecedent" cr="" w="" l="act1-159" p="N"/>
+     <dpg d="w11389" g="w11391" t="det" cr="det:w11391" w="the" l="~" p="Det"/>
+     <dpg d="w11390" g="w11391" t="nn" cr="nn:w11391" w="temperature" l="~" p="N"/>
+     <dpg d="w11391" g="w11388" t="obj" cr="obj:w11388" w="sensitivity" l="~" p="N"/>
+     <dpg d="w11392" g="w11391" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11393" g="w11395" t="det" cr="det:w11395" w="a" l="~" p="Det"/>
+     <dpg d="w11394" g="w11395" t="nn" cr="nn:w11395" w="tropomyosin" l="~" p="N"/>
+     <dpg d="w11395" g="w11392" t="pcomp-n" cr="mod*of*n:w11391" w="mutant" l="~" p="N"/>
+     <dpg d="w11396" g="w11395" t="punc" cr="punc:w11395" w="," l="~" p="U"/>
+     <dpg d="w11397" g="w11395" t="punc" cr="punc:w11395" w="and" l="~" p="U"/>
+     <dpg d="w11398" g="w11399" t="det" cr="det:w11399" w="the" l="~" p="Det"/>
+     <dpg d="w11399" g="w11395" t="conj" cr="conj:w11395" w="loss" l="~" p="N"/>
+     <dpg d="w11400" g="w11399" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11401" g="w11402" t="mod" cr="mod:w11402" w="cytoplasmic" l="~" p="A"/>
+     <dpg d="w11402" g="w11400" t="pcomp-n" cr="mod*of*n:w11399||obj:w11403" w="cables" l="cable" p="N"/>
+     <dpg d="w11403" g="w11402" t="vrel" cr="vrel:w11402" w="seen" l="see" p="V"/>
+     <dpg d="E7" g="w11403" t="obj" cr="" w="" l="cable" p="N"/>
+     <dpg d="E7" g="w11402" t="antecedent" cr="" w="" l="cable" p="N"/>
+     <dpg d="w11404" g="w11403" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w11405" g="w11404" t="pcomp-n" cr="mod*in*n:w11403" w="fimbrin" l="~" p="N"/>
+     <dpg d="w11406" g="w11405" t="punc" cr="punc:w11405" w="," l="~" p="U"/>
+     <dpg d="w11407" g="w11405" t="conj" cr="conj:w11405" w="Mdm20p" l="~" p="N"/>
+     <dpg d="w11408" g="w11407" t="punc" cr="punc:w11407" w="," l="~" p="U"/>
+     <dpg d="w11409" g="w11407" t="punc" cr="punc:w11407" w="and" l="~" p="U"/>
+     <dpg d="w11410" g="w11412" t="nn" cr="nn:w11412" w="tropomyosin" l="~" p="N"/>
+     <dpg d="w11411" g="w11412" t="mod" cr="mod:w11412" w="null" l="~" p="A"/>
+     <dpg d="w11412" g="w11407" t="conj" cr="conj:w11407" w="mutants" l="mutant" p="N"/>
+     <dpg d="w11413" g="w11403" t="punc" cr="punc:w11403" w="," l="~" p="U"/>
+     <dpg d="E1" g="w11403" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w11386" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w11414" g="E1" t="i" cr="mod:w11403" w="suggesting" l="suggest" p="V"/>
+     <dpg d="E8" g="w11414" t="subj" cr="" w="" l="act1-159" p="N"/>
+     <dpg d="E8" g="E4" t="antecedent" cr="" w="" l="act1-159" p="N"/>
+     <dpg d="w11415" g="w11414" t="obj" cr="obj:w11414||s+subj:w11416" w="filament" l="~" p="N"/>
+     <dpg d="E0" g="w11415" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w11415" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w11416" g="E0" t="i" cr="rel:w11415" w="stabilizing" l="stabilize" p="V"/>
+     <dpg d="E9" g="w11416" t="subj" cr="" w="" l="filament" p="N"/>
+     <dpg d="E9" g="E3" t="antecedent" cr="" w="" l="filament" p="N"/>
+     <dpg d="w11417" g="w11416" t="obj" cr="obj:w11416" w="functions" l="function" p="N"/>
+     <dpg d="w11418" g="w11417" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w11419" g="w11423" t="det" cr="det:w11423" w="these" l="~" p="Det"/>
+     <dpg d="w11420" g="w11422" t="lex-mod" cr="lex-mod:w11422" w="actin" l="~" p="U"/>
+     <dpg d="w11421" g="w11422" t="lex-mod" cr="lex-mod:w11422" w="-" l="~" p="U"/>
+     <dpg d="w11422" g="w11423" t="mod" cr="mod:w11423" w="binding" l="actin - binding" p="A"/>
+     <dpg d="w11423" g="w11418" t="pcomp-n" cr="mod*for*n:w11417" w="proteins" l="protein" p="N"/>
+     <dpg d="w11424" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

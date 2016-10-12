@@ -1,0 +1,76 @@
+<rexml>
+<doc id="212">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3197" g="E5" t="mod" cr="mod:w3212" w="Because" l="~" p="SentAdjunct"/>
+     <dpg d="E4" g="w3197" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3198" g="w3200" t="s" cr="s+obj:w3200||s+subj:w3202" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w3199" g="w3200" t="be" cr="be:w3200" w="is" l="be" p="be"/>
+     <dpg d="w3200" g="E4" t="i" cr="comp1:w3197" w="known" l="know" p="V"/>
+     <dpg d="E10" g="w3200" t="obj" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="E10" g="w3198" t="antecedent" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="E3" g="w3200" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E8" g="E3" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="w3198" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w3201" g="w3202" t="aux" cr="aux:w3202" w="to" l="~" p="Aux"/>
+     <dpg d="w3202" g="E3" t="i" cr="mod:w3200" w="interact" l="~" p="V"/>
+     <dpg d="E11" g="w3202" t="subj" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="E11" g="E8" t="antecedent" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="w3203" g="w3202" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w3204" g="w3203" t="pcomp-n" cr="mod*with*n:w3202||subj:w3207" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w3205" g="w3204" t="punc" cr="punc:w3204" w="," l="~" p="U"/>
+     <dpg d="E2" g="w3204" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3206" g="E2" t="whn" cr="whn:w3207" w="which" l="~" p="N"/>
+     <dpg d="w3206" g="w3204" t="antecedent" cr="antecedent:w3204" w="which" l="~" p="N"/>
+     <dpg d="w3207" g="E2" t="i" cr="rel:w3204" w="binds" l="bind" p="V"/>
+     <dpg d="E12" g="w3207" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E12" g="w3204" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w3208" g="w3207" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w3209" g="w3208" t="pcomp-n" cr="mod*to*n:w3207" w="actin" l="~" p="N"/>
+     <dpg d="w3210" g="E5" t="punc" cr="punc:w3212" w="," l="~" p="U"/>
+     <dpg d="w3211" g="w3212" t="s" cr="s+subj:w3212" w="we" l="~" p="N"/>
+     <dpg d="w3212" g="E5" t="i" cr="" w="generated" l="generate" p="V"/>
+     <dpg d="E13" g="w3212" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E13" g="w3211" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w3213" g="w3215" t="det" cr="det:w3215" w="a" l="~" p="Det"/>
+     <dpg d="w3214" g="w3215" t="nn" cr="nn:w3215" w="fusion" l="~" p="N"/>
+     <dpg d="w3215" g="w3212" t="obj" cr="obj:w3212||s+subj:w3216" w="molecule" l="~" p="N"/>
+     <dpg d="E1" g="w3215" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E7" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="w3215" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w3216" g="E1" t="i" cr="rel:w3215" w="consisting" l="consist of" p="V"/>
+     <dpg d="w3217" g="w3216" t="lex-mod" cr="lex-mod:w3216" w="of" l="~" p="U"/>
+     <dpg d="E14" g="w3216" t="subj" cr="" w="" l="molecule" p="N"/>
+     <dpg d="E14" g="E7" t="antecedent" cr="" w="" l="molecule" p="N"/>
+     <dpg d="w3218" g="w3219" t="det" cr="det:w3219" w="the" l="~" p="Det"/>
+     <dpg d="w3219" g="w3216" t="obj" cr="obj:w3216" w="ectodomain" l="~" p="N"/>
+     <dpg d="w3220" g="w3219" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3221" g="w3220" t="pcomp-n" cr="mod*of*n:w3219" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w3222" g="w3221" t="punc" cr="punc:w3221" w="and" l="~" p="U"/>
+     <dpg d="w3223" g="w3224" t="det" cr="det:w3224" w="the" l="~" p="Det"/>
+     <dpg d="w3224" g="w3221" t="conj" cr="conj:w3221||s+subj:w3225" w="actin" l="~" p="N"/>
+     <dpg d="E0" g="w3224" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E6" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w3224" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w3225" g="E0" t="i" cr="rel:w3224" w="binding" l="bind" p="V"/>
+     <dpg d="E15" g="w3225" t="subj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E15" g="E6" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w3226" g="w3225" t="obj" cr="obj:w3225" w="site" l="~" p="N"/>
+     <dpg d="w3227" g="w3224" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3228" g="w3227" t="pcomp-n" cr="mod*of*n:w3224" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w3229" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

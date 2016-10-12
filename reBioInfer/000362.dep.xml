@@ -1,0 +1,69 @@
+<rexml>
+<doc id="362">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5384" g="w5385" t="nn" cr="nn:w5385" w="CV-1" l="CV-1" p="N"/>
+     <dpg d="w5385" g="w5386" t="s" cr="s:w5386||subj:w5387" w="cells" l="cell" p="N"/>
+     <dpg d="w5386" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="were" l="be" p="VBE"/>
+     <dpg d="w5387" g="w5386" t="pred" cr="pred:w5386" w="transfected" l="~" p="A"/>
+     <dpg d="E5" g="w5387" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E5" g="w5385" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w5388" g="w5387" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w5389" g="w5390" t="mod" cr="mod:w5390" w="cloned" l="~" p="A"/>
+     <dpg d="w5390" g="w5388" t="pcomp-n" cr="mod*with*n:w5387" w="genes" l="gene" p="N"/>
+     <dpg d="w5391" g="w5390" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w5392" g="w5393" t="mod" cr="mod:w5393" w="wild-type" l="wild-type" p="A"/>
+     <dpg d="w5393" g="w5391" t="pcomp-n" cr="mod*from*n:w5390||s+subj:w5394" w="HPIV-3" l="HPIV-3" p="N"/>
+     <dpg d="E0" g="w5393" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w5393" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w5394" g="E0" t="i" cr="rel:w5393" w="encoding" l="encode" p="V"/>
+     <dpg d="E6" g="w5394" t="subj" cr="" w="" l="HPIV-3" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="HPIV-3" p="N"/>
+     <dpg d="w5395" g="w5399" t="det" cr="det:w5399" w="the" l="~" p="Det"/>
+     <dpg d="w5396" g="w5399" t="mod" cr="mod:w5399" w="large" l="~" p="A"/>
+     <dpg d="w5397" g="w5399" t="nn" cr="nn:w5399" w="protein" l="~" p="N"/>
+     <dpg d="w5398" g="w5399" t="punc" cr="punc:w5399" w="(" l="~" p="U"/>
+     <dpg d="w5399" g="w5394" t="obj" cr="obj:w5394" w="L" l="~" p="N"/>
+     <dpg d="w5400" g="w5399" t="punc" cr="punc:w5399" w=")" l="~" p="U"/>
+     <dpg d="w5401" g="w5399" t="punc" cr="punc:w5399" w="," l="~" p="U"/>
+     <dpg d="w5402" g="w5404" t="nn" cr="nn:w5404" w="phosphoprotein" l="~" p="N"/>
+     <dpg d="w5403" g="w5404" t="punc" cr="punc:w5404" w="(" l="~" p="U"/>
+     <dpg d="w5404" g="w5399" t="conj" cr="conj:w5399" w="P" l="~" p="N"/>
+     <dpg d="w5405" g="w5404" t="punc" cr="punc:w5404" w=")" l="~" p="U"/>
+     <dpg d="w5406" g="w5404" t="punc" cr="punc:w5404" w="," l="~" p="U"/>
+     <dpg d="w5407" g="w5404" t="punc" cr="punc:w5404" w="and" l="~" p="U"/>
+     <dpg d="w5408" g="w5409" t="lex-mod" cr="lex-mod:w5409" w="nucleocapsid" l="~" p="U"/>
+     <dpg d="w5409" g="w5404" t="conj" cr="conj:w5404" w="protein" l="nucleocapsid protein" p="N"/>
+     <dpg d="w5410" g="w5411" t="punc" cr="punc:w5411" w="(" l="~" p="U"/>
+     <dpg d="w5411" g="w5409" t="abbrev" cr="abbrev:w5409" w="NP" l="~" p="N"/>
+     <dpg d="w5412" g="w5411" t="punc" cr="punc:w5411" w=")" l="~" p="U"/>
+     <dpg d="w5413" g="w5394" t="punc" cr="punc:w5394" w="," l="~" p="U"/>
+     <dpg d="w5414" g="w5394" t="mod" cr="mod:w5394" w="alone" l="~" p="A"/>
+     <dpg d="w5415" g="w5414" t="punc" cr="punc:w5414" w="or" l="~" p="U"/>
+     <dpg d="w5416" g="w5414" t="conj" cr="conj:w5414" w="together" l="~" p="A"/>
+     <dpg d="w5417" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="w5418" g="E4" t="p" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w5419" g="w5420" t="det" cr="det:w5420" w="the" l="~" p="Det"/>
+     <dpg d="w5420" g="w5418" t="pcomp-n" cr="p*for*n:E4" w="expression" l="~" p="N"/>
+     <dpg d="w5421" g="w5420" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5422" g="w5423" t="mod" cr="mod:w5423" w="biologically" l="~" p="A"/>
+     <dpg d="w5423" g="w5424" t="mod" cr="mod:w5424" w="active" l="~" p="A"/>
+     <dpg d="w5424" g="w5421" t="pcomp-n" cr="mod*of*n:w5420" w="proteins" l="protein" p="N"/>
+     <dpg d="w5425" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

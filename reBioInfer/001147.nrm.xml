@@ -1,0 +1,180 @@
+<rexml>
+<doc id="1147">
+  
+  <markup>
+   <nes>
+    <ne id="e4198" gid="g4012" t="Individual_protein" fr="w18100" to="w18100" nam="yes" sid="s1">
+     <textspan>Profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1147.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4205" gid="g4019" t="Other_organic_compounds" fr="w18103" to="w18103" nam="yes" sid="s1">
+     <textspan>polyphosphoinositides</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Other_organic_compounds"/>
+      <exattr n="bd" v="e.1147.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e4204" gid="g4018" t="Protein_complex" fr="w18109" to="w18112" nam="yes" sid="s1">
+     <textspan>profilin-actin complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1147.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4210" gid="g4024" t="Individual_protein" fr="w18109" to="w18109" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1147.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e4209" gid="g4023" t="Individual_protein" fr="w18111" to="w18111" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1147.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e4211" gid="g4025" t="Individual_protein" fr="w18119" to="w18119" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1147.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e4202" gid="g4016" t="Cell_component" fr="w18121" to="w18126" nam="yes" sid="s1">
+     <textspan>sites requiring [..] actin filament accumulation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1147.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4207" gid="g4021" t="Cell_component" fr="w18124" to="w18125" nam="yes" sid="s1">
+     <textspan>actin filament</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1147.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e4208" gid="g4022" t="Individual_protein" fr="w18124" to="w18124" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1147.10"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1620" t="COOF-CONTAIN" e1="e4210" e2="e4209" re="e4199">
+     <textspan>profilin - actin complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1147.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1620" t="CONTAIN" e1="e4204" e2="e4210" re="e4199">
+     <textspan>profilin - actin complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1147.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1621" t="CONTAIN" e1="e4204" e2="e4209" re="e4199">
+     <textspan>profilin - actin complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1147.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1623" t="BIND" e1="e4198" e2="e4205" re="e4200">
+     <textspan>Profilins also bind polyphosphoinositides</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1147.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1624" t="LOCALIZE-TO" e1="e4211" e2="e4202" re="e4203">
+     <textspan>localize profilin to sites requiring extensive actin filament accumulation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1147.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

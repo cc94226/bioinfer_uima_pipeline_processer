@@ -1,0 +1,143 @@
+<rexml>
+<doc id="1146">
+  <text>
+<p><s id="s1"><w id="w18067">Profilin</w> <w id="w18068">is</w> <w id="w18069">generally</w> <w id="w18070">thought</w> <w id="w18071">to</w> <w id="w18072">regulate</w> <w id="w18073">actin</w> <w id="w18074">polymerization</w> <w id="w18075">,</w> <w id="w18076">but</w> <w id="w18077">the</w> <w id="w18078">observation</w> <w id="w18079">that</w> <w id="w18080">acidic</w> <w id="w18081">phospholipids</w> <w id="w18082">dissociate</w> <w id="w18083">the</w> <w id="w18084">complex</w> <w id="w18085">of</w> <w id="w18086">profilin</w> <w id="w18087">and</w> <w id="w18088">actin</w> <w id="w18089">raised</w> <w id="w18090">the</w> <w id="w18091">possibility</w> <w id="w18092">that</w> <w id="w18093">profilin</w> <w id="w18094">might</w> <w id="w18095">also</w> <w id="w18096">regulate</w> <w id="w18097">lipid</w> <w id="w18098">metabolism</w> <w id="w18099">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4189" gid="g4003" t="Individual_protein" fr="w18067" to="w18067" nam="yes">
+     <textspan type="extent">Profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1146.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4190" gid="g4004" t="RELATIONSHIP_TEXTBINDING" fr="w18072" to="w18072">
+     <textspan type="extent">regulate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1146.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4191" gid="g4005" t="Individual_protein" fr="w18086" to="w18086" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1146.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4192" gid="g4006" t="RELATIONSHIP_TEXTBINDING" fr="w18084" to="w18085">
+     <textspan type="extent">complex of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1146.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4193" gid="g4007" t="Gene/protein/RNA" fr="w18093" to="w18093" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1146.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4194" gid="g4008" t="Individual_protein" fr="w18088" to="w18088" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1146.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4195" gid="g4009" t="Protein_complex" fr="w18084" to="w18088" nam="yes">
+     <textspan type="extent">complex of profilin and actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1146.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4196" gid="g4010" t="POLYMERIZATION" fr="w18073" to="w18074">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.1146.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e4197" gid="g4011" t="Individual_protein" fr="w18073" to="w18073" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1146.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1617" t="CONTROL" e1="e4189" e2="e4196" re="e4190">
+     <textspan type="extent">Profilin is generally thought to regulate actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1146.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r1618" t="CONTAIN" e1="e4195" e2="e4191" re="e4192">
+     <textspan type="extent">complex of profilin and actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1146.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1619" t="CONTAIN" e1="e4195" e2="e4194" re="e4192">
+     <textspan type="extent">complex of profilin and actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1146.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

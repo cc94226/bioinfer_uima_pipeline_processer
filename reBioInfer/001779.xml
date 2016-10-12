@@ -1,0 +1,151 @@
+<rexml>
+<doc id="1779">
+  <text>
+<p><s id="s1"><w id="w28481">The</w> <w id="w28482">titration</w> <w id="w28483">of</w> <w id="w28484">pyrene-labeled</w> <w id="w28485">rabbit</w> <w id="w28486">skeletal</w> <w id="w28487">actin</w> <w id="w28488">with</w> <w id="w28489">human</w> <w id="w28490">profilin</w> <w id="w28491">yielded</w> <w id="w28492">a</w> <w id="w28493">Kd</w> <w id="w28494">of</w> <w id="w28495">2.8</w> <w id="w28496">microM</w> <w id="w28497">,</w> <w id="w28498">similar</w> <w id="w28499">to</w> <w id="w28500">the</w> <w id="w28501">Kd</w> <w id="w28502">of</w> <w id="w28503">2.0</w> <w id="w28504">microM</w> <w id="w28505">for</w> <w id="w28506">the</w> <w id="w28507">interaction</w> <w id="w28508">between</w> <w id="w28509">yeast</w> <w id="w28510">profilin</w> <w id="w28511">and</w> <w id="w28512">pyrene-labeled</w> <w id="w28513">yeast</w> <w id="w28514">actin</w> <w id="w28515">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6594" gid="g6288" t="Individual_protein" fr="w28485" to="w28487" nam="yes">
+     <textspan type="extent">rabbit skeletal actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1779.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6595" gid="g6289" t="RELATIONSHIP_TEXTBINDING" fr="w28507" to="w28508">
+     <textspan type="extent">interaction between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1779.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6596" gid="g6290" t="Individual_protein" fr="w28509" to="w28510" nam="yes">
+     <textspan type="extent">yeast profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1779.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6597" gid="g6291" t="RELATIONSHIP_TEXTBINDING" fr="w28493" to="w28494">
+     <textspan type="extent">Kd of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1779.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6598" gid="g6292" t="Individual_protein" fr="w28513" to="w28514" nam="yes">
+     <textspan type="extent">yeast actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1779.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6599" gid="g6293" t="Individual_protein" fr="w28486" to="w28487" nam="yes">
+     <textspan type="extent">skeletal actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1779.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6600" gid="g6294" t="Individual_protein" fr="w28489" to="w28490" nam="yes">
+     <textspan type="extent">human profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1779.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6601" gid="g6295" t="Individual_protein" fr="w28490" to="w28490" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1779.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6602" gid="g6296" t="Individual_protein" fr="w28510" to="w28510" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1779.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6603" gid="g6297" t="Individual_protein" fr="w28514" to="w28514" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1779.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2537" t="INTERACT" e1="e6596" e2="e6598" re="e6595">
+     <textspan type="extent">interaction between yeast profilin and pyrene-labeled yeast actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1779.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2538" t="BIND" e1="e6594" e2="e6600" re="e6597">
+     <textspan type="extent">rabbit skeletal actin with human profilin yielded a Kd of</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1779.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

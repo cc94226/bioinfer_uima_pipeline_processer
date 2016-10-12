@@ -1,0 +1,213 @@
+<rexml>
+<doc id="897">
+  <text>
+<p><s id="s1"><w id="w14013">In</w> <w id="w14014">vitro</w> <w id="w14015">studies</w> <w id="w14016">indicated</w> <w id="w14017">that</w> <w id="w14018">suramin</w> <w id="w14019">completely</w> <w id="w14020">blocked</w> <w id="w14021">PDGF</w> <w id="w14022">receptor</w> <w id="w14023">activation</w> <w id="w14024">or</w> <w id="w14025">phosphorylation</w> <w id="w14026">stimulated</w> <w id="w14027">by</w> <w id="w14028">PDGF-AB</w> <w id="w14029">,</w> <w id="w14030">inhibited</w> <w id="w14031">activation</w> <w id="w14032">of</w> <w id="w14033">mitogen-activated</w> <w id="w14034">protein</w> <w id="w14035">kinase</w> <w id="w14036">(</w> <w id="w14037">ERK</w> <w id="w14038">)</w> <w id="w14039">kinases</w> <w id="w14040">(</w> <w id="w14041">MEK</w><w id="w14042">1</w><w id="w14043">/</w><w id="w14044">2</w> <w id="w14045">)</w> <w id="w14046">and</w> <w id="w14047">ERK</w><w id="w14048">1</w><w id="w14049">/</w><w id="w14050">2</w> <w id="w14051">,</w> <w id="w14052">and</w> <w id="w14053">abrogated</w> <w id="w14054">transcription</w> <w id="w14055">factor</w> <w id="w14056">AP-1</w> <w id="w14057">DNA-binding</w> <w id="w14058">activity</w> <w id="w14059">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3195" gid="g3067" t="ACTIVATION" fr="w14021" to="w14023">
+     <textspan type="extent">PDGF receptor activation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="ACTIVATION"/>
+      <exattr n="bd" v="e.897.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3196" gid="g3068" t="RELATIONSHIP_TEXTBINDING" fr="w14026" to="w14027">
+     <textspan type="extent">stimulated by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.897.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3197" gid="g3069" t="Individual_protein" fr="w14028" to="w14028" nam="yes">
+     <textspan type="extent">PDGF-AB</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.897.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3198" gid="g3070" t="PHOSPHORYLATION" fr="w14021" to="w14025">
+     <textspan type="extent">PDGF receptor [..] phosphorylation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="PHOSPHORYLATION"/>
+      <exattr n="bd" v="e.897.3"/>
+      <exattr n="nst" v="st.897.8.0"/>
+      <exattr n="nst" v="st.897.9.0"/>
+      <exattr n="nst" v="st.897.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3199" gid="g3071" t="Protein_family_or_group" fr="w14033" to="w14039" nam="yes">
+     <textspan type="extent">mitogen-activated protein kinase [..] kinases</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.897.4"/>
+      <exattr n="nst" v="st.897.20.0"/>
+      <exattr n="nst" v="st.897.21.0"/>
+      <exattr n="nst" v="st.897.22.0"/>
+      <exattr n="nst" v="st.897.26.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3200" gid="g3072" t="Gene/protein/RNA" fr="w14047" to="w14050" nam="yes">
+     <textspan type="extent">ERK [..] 2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.897.5"/>
+      <exattr n="nst" v="st.897.31.0"/>
+      <exattr n="nst" v="st.897.31.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3201" gid="g3073" t="Gene/protein/RNA" fr="w14047" to="w14048" nam="yes">
+     <textspan type="extent">ERK1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.897.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3202" gid="g3074" t="Gene/protein/RNA" fr="w14037" to="w14037" nam="yes">
+     <textspan type="extent">ERK</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.897.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e3203" gid="g3075" t="Individual_protein" fr="w14041" to="w14042" nam="yes">
+     <textspan type="extent">MEK1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.897.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e3204" gid="g3076" t="Gene/protein/RNA" fr="w14056" to="w14056" nam="yes">
+     <textspan type="extent">AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.897.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e3205" gid="g3077" t="Individual_protein" fr="w14041" to="w14044" nam="yes">
+     <textspan type="extent">MEK [..] 2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.897.10"/>
+      <exattr n="nst" v="st.897.28.0"/>
+      <exattr n="nst" v="st.897.28.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3206" gid="g3078" t="Individual_protein" fr="w14021" to="w14022" nam="yes">
+     <textspan type="extent">PDGF receptor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.897.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e3207" gid="g3079" t="Individual_protein" fr="w14021" to="w14022" nam="yes">
+     <textspan type="extent">PDGF receptor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.897.12"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1230" t="STIMULATE" e1="e3197" e2="e3195" re="e3196">
+     <textspan type="extent">PDGF receptor activation or phosphorylation stimulated by PDGF-AB</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.897.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1231" t="STIMULATE" e1="e3197" e2="e3198" re="e3196">
+     <textspan type="extent">PDGF receptor activation or phosphorylation stimulated by PDGF-AB</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.897.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1232" t="MEMBER" e1="e3199" e2="e3203" re="">
+     <textspan type="extent">mitogen-activated protein kinase ( ERK ) kinases ( MEK 1</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1233" t="MEMBER" e1="e3199" e2="e3205" re="">
+     <textspan type="extent">mitogen-activated protein kinase ( ERK ) kinases ( MEK 1 / 2</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

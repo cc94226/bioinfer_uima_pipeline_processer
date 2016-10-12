@@ -1,0 +1,142 @@
+<rexml>
+<doc id="884">
+  <text>
+<p><s id="s1"><w id="w13926">In</w> <w id="w13927">three</w> <w id="w13928">of</w> <w id="w13929">the</w> <w id="w13930">cell</w> <w id="w13931">lines</w> <w id="w13932">with</w> <w id="w13933">CTNNB1</w> <w id="w13934">mutations</w> <w id="w13935">,</w> <w id="w13936">complexes</w> <w id="w13937">of</w> <w id="w13938">beta-catenin</w> <w id="w13939">with</w> <w id="w13940">alpha-catenin</w> <w id="w13941">and</w> <w id="w13942">APC</w> <w id="w13943">were</w> <w id="w13944">detectable</w> <w id="w13945">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3168" gid="g3040" t="Gene/protein/RNA" fr="w13933" to="w13933" nam="yes">
+     <textspan type="extent">CTNNB1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.884.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3169" gid="g3041" t="RELATIONSHIP_TEXTBINDING" fr="w13936" to="w13939">
+     <textspan type="extent">complexes of [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.884.1"/>
+      <exattr n="nst" v="st.884.10.0"/>
+      <exattr n="nst" v="st.884.11.0"/>
+      <exattr n="nst" v="st.884.13.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3170" gid="g3042" t="Individual_protein" fr="w13940" to="w13940" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.884.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3171" gid="g3043" t="Individual_protein" fr="w13938" to="w13938" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.884.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3172" gid="g3044" t="Protein_complex" fr="w13936" to="w13940" nam="yes">
+     <textspan type="extent">complexes of beta-catenin with alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.884.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3173" gid="g3045" t="Individual_protein" fr="w13942" to="w13942" nam="yes">
+     <textspan type="extent">APC</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.884.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3174" gid="g3046" t="Protein_complex" fr="w13936" to="w13942" nam="yes">
+     <textspan type="extent">complexes of beta-catenin with [..] APC</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.884.6"/>
+      <exattr n="nst" v="st.884.10.0"/>
+      <exattr n="nst" v="st.884.11.0"/>
+      <exattr n="nst" v="st.884.12.0"/>
+      <exattr n="nst" v="st.884.13.0"/>
+      <exattr n="nst" v="st.884.16.0"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1220" t="CONTAIN" e1="e3172" e2="e3171" re="e3169">
+     <textspan type="extent">complexes of beta-catenin with alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.884.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1221" t="CONTAIN" e1="e3174" e2="e3171" re="e3169">
+     <textspan type="extent">complexes of beta-catenin with alpha-catenin and APC</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.884.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1222" t="CONTAIN" e1="e3172" e2="e3170" re="e3169">
+     <textspan type="extent">complexes of beta-catenin with alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.884.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1223" t="CONTAIN" e1="e3174" e2="e3173" re="e3169">
+     <textspan type="extent">complexes of beta-catenin with alpha-catenin and APC</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.884.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

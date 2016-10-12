@@ -1,0 +1,105 @@
+<rexml>
+<doc id="325">
+  <text>
+<p><s id="s1"><w id="w4948">Cofilin</w> <w id="w4949">was</w> <w id="w4950">identified</w> <w id="w4951">by</w> <w id="w4952">peptide</w> <w id="w4953">sequencing</w> <w id="w4954">,</w> <w id="w4955">and</w> <w id="w4956">cofilin</w> <w id="w4957">recruitment</w> <w id="w4958">and</w> <w id="w4959">Listeria</w> <w id="w4960">tail</w> <w id="w4961">length</w> <w id="w4962">were</w> <w id="w4963">found</w> <w id="w4964">to</w> <w id="w4965">be</w> <w id="w4966">pH-dependent</w> <w id="w4967">,</w> <w id="w4968">in</w> <w id="w4969">agreement</w> <w id="w4970">with</w> <w id="w4971">its</w> <w id="w4972">recently</w> <w id="w4973">reported</w> <w id="w4974">role</w> <w id="w4975">in</w> <w id="w4976">enhancing</w> <w id="w4977">actin</w> <w id="w4978">filament</w> <w id="w4979">turnover</w> <w id="w4980">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1200" gid="g1144" t="Individual_protein" fr="w4948" to="w4948" nam="yes">
+     <textspan type="extent">Cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.325.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1201" gid="g1145" t="RELATIONSHIP_TEXTBINDING" fr="w4974" to="w4975">
+     <textspan type="extent">role in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.325.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1202" gid="g1146" t="STIMULATION" fr="w4976" to="w4979">
+     <textspan type="extent">enhancing actin filament turnover</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="STIMULATION"/>
+      <exattr n="bd" v="e.325.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1203" gid="g1147" t="Gene/protein/RNA" fr="w4956" to="w4956" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.325.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1204" gid="g1148" t="Cell_component" fr="w4977" to="w4978" nam="yes">
+     <textspan type="extent">actin filament</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.325.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1205" gid="g1144" t="Individual_protein" fr="w4971" to="w4971" nam="yes">
+     <textspan type="extent">its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.325.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1206" gid="g1149" t="Process_entity" fr="w4977" to="w4979">
+     <textspan type="extent">actin filament turnover</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.325.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1207" gid="g1150" t="Individual_protein" fr="w4977" to="w4977" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.325.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r475" t="PARTICIPATE" e1="e1205" e2="e1202" re="e1201">
+     <textspan type="extent">its recently reported role in enhancing actin filament turnover</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.325.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

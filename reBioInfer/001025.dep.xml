@@ -1,0 +1,52 @@
+<rexml>
+<doc id="1025">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16234" g="w16235" t="s" cr="s+subj:w16235||subj:w16254" w="Myo2p" l="~" p="N"/>
+     <dpg d="w16235" g="E0" t="i" cr="" w="shows" l="show" p="V"/>
+     <dpg d="E2" g="w16235" t="subj" cr="" w="" l="Myo2p" p="N"/>
+     <dpg d="E2" g="w16234" t="antecedent" cr="" w="" l="Myo2p" p="N"/>
+     <dpg d="w16236" g="w16235" t="obj1" cr="obj1:w16235" w="homology" l="~" p="N"/>
+     <dpg d="w16237" g="w16236" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w16238" g="w16239" t="det" cr="det:w16239" w="the" l="~" p="Det"/>
+     <dpg d="w16239" g="w16237" t="pcomp-n" cr="mod*to*n:w16236" w="head" l="~" p="N"/>
+     <dpg d="w16240" g="w16235" t="obj2" cr="obj2:w16235" w="domains" l="domain" p="N"/>
+     <dpg d="w16241" g="w16240" t="punc" cr="punc:w16240" w="and" l="~" p="U"/>
+     <dpg d="w16242" g="w16244" t="det" cr="det:w16244" w="the" l="~" p="Det"/>
+     <dpg d="w16243" g="w16244" t="nn" cr="nn:w16244" w="coiledcoil" l="~" p="N"/>
+     <dpg d="w16244" g="w16240" t="conj" cr="conj:w16240" w="tail" l="~" p="N"/>
+     <dpg d="w16245" g="w16244" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w16246" g="w16252" t="det" cr="det:w16252" w="the" l="~" p="Det"/>
+     <dpg d="w16247" g="w16252" t="mod" cr="mod:w16252" w="conventional" l="~" p="A"/>
+     <dpg d="w16248" g="w16249" t="lex-mod" cr="lex-mod:w16249" w="type" l="~" p="U"/>
+     <dpg d="w16249" g="w16252" t="nn" cr="nn:w16252" w="II" l="type II" p="N"/>
+     <dpg d="w16250" g="w16252" t="nn" cr="nn:w16252" w="myosin" l="~" p="N"/>
+     <dpg d="w16251" g="w16252" t="mod" cr="mod:w16252" w="heavy" l="~" p="A"/>
+     <dpg d="w16252" g="w16245" t="pcomp-n" cr="mod*of*n:w16244" w="chain" l="~" p="N"/>
+     <dpg d="w16253" g="w16235" t="punc" cr="punc:w16235" w="and" l="~" p="U"/>
+     <dpg d="w16254" g="w16235" t="conj" cr="conj:w16235" w="carries" l="carry" p="V"/>
+     <dpg d="E3" g="w16254" t="subj" cr="" w="" l="Myo2p" p="N"/>
+     <dpg d="E3" g="w16234" t="antecedent" cr="" w="" l="Myo2p" p="N"/>
+     <dpg d="w16255" g="w16257" t="mod" cr="mod:w16257" w="putative" l="~" p="A"/>
+     <dpg d="w16256" g="w16257" t="mod" cr="mod:w16257" w="binding" l="~" p="A"/>
+     <dpg d="w16257" g="w16254" t="obj" cr="obj:w16254" w="sites" l="site" p="N"/>
+     <dpg d="w16258" g="w16257" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w16259" g="w16258" t="pcomp-n" cr="mod*for*n:w16257" w="ATP" l="~" p="N"/>
+     <dpg d="w16260" g="w16259" t="punc" cr="punc:w16259" w="and" l="~" p="U"/>
+     <dpg d="w16261" g="w16259" t="conj" cr="conj:w16259" w="actin" l="~" p="N"/>
+     <dpg d="w16262" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

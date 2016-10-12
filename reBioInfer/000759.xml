@@ -1,0 +1,112 @@
+<rexml>
+<doc id="759">
+  <text>
+<p><s id="s1"><w id="w11768">In</w> <w id="w11769">enriched</w> <w id="w11770">cell</w> <w id="w11771">lines</w> <w id="w11772">and</w> <w id="w11773">in</w> <w id="w11774">a</w> <w id="w11775">pure</w> <w id="w11776">myocyte</w> <w id="w11777">cell</w> <w id="w11778">strain</w> <w id="w11779">,</w> <w id="w11780">EGF</w> <w id="w11781">inhibited</w> <w id="w11782">increases</w> <w id="w11783">in</w> <w id="w11784">immunoreactive</w> <w id="w11785">sarcomeric</w> <w id="w11786">actin</w> <w id="w11787">and</w> <w id="w11788">sarcomeric</w> <w id="w11789">myosin</w> <w id="w11790">heavy</w> <w id="w11791">chain</w> <w id="w11792">(</w> <w id="w11793">SMHC</w> <w id="w11794">)</w> <w id="w11795">normally</w> <w id="w11796">seen</w> <w id="w11797">after</w> <w id="w11798">serum</w> <w id="w11799">withdrawal</w> <w id="w11800">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2742" gid="g2627" t="Individual_protein" fr="w11780" to="w11780" nam="yes">
+     <textspan type="extent">EGF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.759.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2743" gid="g2628" t="RELATIONSHIP_TEXTBINDING" fr="w11781" to="w11781">
+     <textspan type="extent">inhibited</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.759.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2744" gid="g2629" t="INCREASE" fr="w11782" to="w11791">
+     <textspan type="extent">increases in [..] sarcomeric myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="INCREASE"/>
+      <exattr n="bd" v="e.759.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2745" gid="g2630" t="INCREASE" fr="w11782" to="w11786">
+     <textspan type="extent">increases in [..] sarcomeric actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="INCREASE"/>
+      <exattr n="bd" v="e.759.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2746" gid="g2631" t="Individual_protein" fr="w11788" to="w11791" nam="yes">
+     <textspan type="extent">sarcomeric myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.759.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2747" gid="g2631" t="Individual_protein" fr="w11793" to="w11793" nam="yes">
+     <textspan type="extent">SMHC</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.759.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2748" gid="g2632" t="Individual_protein" fr="w11785" to="w11786" nam="yes">
+     <textspan type="extent">sarcomeric actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.759.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1047" t="SUPPRESS" e1="e2742" e2="e2745" re="e2743">
+     <textspan type="extent">EGF inhibited increases in immunoreactive sarcomeric actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.759.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r1048" t="SUPPRESS" e1="e2742" e2="e2744" re="e2743">
+     <textspan type="extent">EGF inhibited increases in immunoreactive sarcomeric actin and sarcomeric myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.759.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

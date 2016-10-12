@@ -1,0 +1,64 @@
+<rexml>
+<doc id="537">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E8" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w7445" g="E8" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E8" w="Furthermore" l="~" p="A"/>
+     <dpg d="w7446" g="E8" t="punc" cr="punc:E8" w="," l="~" p="U"/>
+     <dpg d="w7447" g="E8" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E8" w="this" l="~" p="N"/>
+     <dpg d="E4" g="E8" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="E3" g="w7454" t="s" cr="s+obj:w7454" w="" l="vpsc" p="CN"/>
+     <dpg d="E2" g="E3" t="cn" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E6" g="E2" t="s" cr="s+subj:w7448" w="" l="~" p="N"/>
+     <dpg d="w7448" g="E2" t="i" cr="cn:E3" w="inactivating" l="inactivate" p="V"/>
+     <dpg d="E9" g="w7448" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E9" g="E6" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w7449" g="w7448" t="obj" cr="obj:w7448" w="effect" l="~" p="N"/>
+     <dpg d="w7450" g="w7449" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w7451" g="w7450" t="pcomp-n" cr="mod*of*n:w7449" w="calmodulin" l="~" p="N"/>
+     <dpg d="w7452" g="w7454" t="aux" cr="aux:w7454" w="can" l="~" p="Aux"/>
+     <dpg d="w7453" g="w7454" t="be" cr="be:w7454" w="be" l="~" p="Be"/>
+     <dpg d="w7454" g="E4" t="i" cr="UNSPECRELTYPE:E8" w="prevented" l="prevent" p="V"/>
+     <dpg d="E10" g="w7454" t="obj" cr="" w="" l="vpsc" p="CN"/>
+     <dpg d="E10" g="E3" t="antecedent" cr="" w="" l="vpsc" p="CN"/>
+     <dpg d="w7455" g="E8" t="punc" cr="punc:E8" w="by" l="~" p="U"/>
+     <dpg d="w7456" g="E8" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E8" w="coexpressing" l="~" p="A"/>
+     <dpg d="E1" g="E8" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7457" g="w7458" t="det" cr="det:w7458" w="a" l="~" p="Det"/>
+     <dpg d="w7458" g="w7464" t="s" cr="s+subj:w7464||s+subj:w7466" w="region" l="~" p="N"/>
+     <dpg d="w7459" g="w7458" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w7460" g="w7463" t="det" cr="det:w7463" w="the" l="~" p="Det"/>
+     <dpg d="w7461" g="w7463" t="mod" cr="mod:w7463" w="cytoskeletal" l="~" p="A"/>
+     <dpg d="w7462" g="w7463" t="nn" cr="nn:w7463" w="protein" l="~" p="N"/>
+     <dpg d="w7463" g="w7459" t="pcomp-n" cr="mod*of*n:w7458" w="alpha-actinin2" l="alpha-actinin2" p="N"/>
+     <dpg d="w7464" g="E1" t="i" cr="UNSPECRELTYPE:E8" w="known" l="know" p="V"/>
+     <dpg d="E11" g="w7464" t="subj" cr="" w="" l="region" p="N"/>
+     <dpg d="E11" g="w7458" t="antecedent" cr="" w="" l="region" p="N"/>
+     <dpg d="E0" g="w7464" t="fc" cr="" w="" l="inf" p="C"/>
+     <dpg d="E5" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w7458" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w7465" g="w7466" t="aux" cr="aux:w7466" w="to" l="~" p="Aux"/>
+     <dpg d="w7466" g="E0" t="i" cr="fc:w7464" w="interact" l="~" p="V"/>
+     <dpg d="E12" g="w7466" t="subj" cr="" w="" l="region" p="N"/>
+     <dpg d="E12" g="E5" t="antecedent" cr="" w="" l="region" p="N"/>
+     <dpg d="w7467" g="w7466" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w7468" g="w7470" t="det" cr="det:w7470" w="the" l="~" p="Det"/>
+     <dpg d="w7469" g="w7470" t="nn" cr="nn:w7470" w="CO" l="~" p="N"/>
+     <dpg d="w7470" g="w7467" t="pcomp-n" cr="mod*with*n:w7466" w="region" l="~" p="N"/>
+     <dpg d="w7471" g="w7470" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w7472" g="w7471" t="pcomp-n" cr="mod*of*n:w7470" w="NR1" l="~" p="N"/>
+     <dpg d="w7473" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

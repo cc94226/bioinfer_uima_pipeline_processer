@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1361">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21124" g="w21125" t="det" cr="det:w21125" w="The" l="~" p="Det"/>
+     <dpg d="w21125" g="w21140" t="s" cr="s:w21140||subj:w21141" w="affinity" l="~" p="N"/>
+     <dpg d="w21126" g="w21125" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21127" g="w21126" t="pcomp-n" cr="mod*of*n:w21125" w="ZmPRO4" l="~" p="N"/>
+     <dpg d="w21128" g="w21127" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w21129" g="w21130" t="mod" cr="mod:w21130" w="monomeric" l="~" p="A"/>
+     <dpg d="w21130" g="w21128" t="pcomp-n" cr="mod*for*n:w21127||obj:w21134" w="actin" l="~" p="N"/>
+     <dpg d="w21131" g="w21130" t="punc" cr="punc:w21130" w="," l="~" p="U"/>
+     <dpg d="E0" g="w21130" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21132" g="E0" t="whn" cr="whn:w21134" w="which" l="~" p="N"/>
+     <dpg d="w21132" g="w21130" t="antecedent" cr="antecedent:w21130" w="which" l="~" p="N"/>
+     <dpg d="w21133" g="w21134" t="be" cr="be:w21134" w="was" l="be" p="be"/>
+     <dpg d="w21134" g="E0" t="i" cr="rel:w21130" w="measured" l="measure" p="V"/>
+     <dpg d="E3" g="w21134" t="obj" cr="" w="" l="which" p="N"/>
+     <dpg d="E3" g="w21130" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w21135" g="w21134" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w21136" g="w21138" t="nn" cr="nn:w21138" w="two" l="~" p="N"/>
+     <dpg d="w21137" g="w21138" t="mod" cr="mod:w21138" w="independent" l="~" p="A"/>
+     <dpg d="w21138" g="w21135" t="pcomp-n" cr="by-subj*by*n:w21134" w="methods" l="method" p="N"/>
+     <dpg d="w21139" g="w21140" t="punc" cr="punc:w21140" w="," l="~" p="U"/>
+     <dpg d="w21140" g="E1" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="w21141" g="w21140" t="pred" cr="pred:w21140" w="similar" l="~" p="A"/>
+     <dpg d="E4" g="w21141" t="subj" cr="" w="" l="affinity" p="N"/>
+     <dpg d="E4" g="w21125" t="antecedent" cr="" w="" l="affinity" p="N"/>
+     <dpg d="w21142" g="w21141" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w21143" g="w21142" t="pcomp-n" cr="mod*to*n:w21141" w="that" l="~" p="N"/>
+     <dpg d="w21144" g="w21140" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21145" g="w21148" t="det" cr="det:w21148" w="the" l="~" p="Det"/>
+     <dpg d="w21146" g="w21148" t="nn" cr="nn:w21148" w="three" l="~" p="N"/>
+     <dpg d="w21147" g="w21148" t="nn" cr="nn:w21148" w="profilin" l="~" p="N"/>
+     <dpg d="w21148" g="w21144" t="pcomp-n" cr="mod*of*n:w21140||obj:w21150" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w21149" g="w21150" t="mod-before" cr="mod-before:w21150" w="previously" l="~" p="A"/>
+     <dpg d="w21150" g="w21148" t="vrel" cr="vrel:w21148" w="identified" l="identify" p="V"/>
+     <dpg d="E5" g="w21150" t="obj" cr="" w="" l="isoform" p="N"/>
+     <dpg d="E5" g="w21148" t="antecedent" cr="" w="" l="isoform" p="N"/>
+     <dpg d="w21151" g="w21150" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w21152" g="w21151" t="pcomp-n" cr="mod*in*n:w21150" w="pollen" l="~" p="N"/>
+     <dpg d="w21153" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

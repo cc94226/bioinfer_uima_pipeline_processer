@@ -1,0 +1,45 @@
+<rexml>
+<doc id="750">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11685" g="w11686" t="mod" cr="mod:w11686" w="Increased" l="~" p="A"/>
+     <dpg d="w11686" g="w11694" t="s" cr="s:w11694||subj:w11695" w="interaction" l="~" p="N"/>
+     <dpg d="w11687" g="w11686" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11688" g="w11689" t="nn" cr="nn:w11689" w="beta1D" l="~" p="N"/>
+     <dpg d="w11689" g="w11687" t="pcomp-n" cr="mod*of*n:w11686" w="integrin" l="~" p="N"/>
+     <dpg d="w11690" g="w11689" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w11691" g="w11693" t="det" cr="det:w11693" w="the" l="~" p="Det"/>
+     <dpg d="w11692" g="w11693" t="nn" cr="nn:w11693" w="actin" l="~" p="N"/>
+     <dpg d="w11693" g="w11690" t="pcomp-n" cr="mod*with*n:w11689" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w11694" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="is" l="be" p="VBE"/>
+     <dpg d="w11695" g="w11694" t="pred" cr="pred:w11694" w="consistent" l="~" p="A"/>
+     <dpg d="E3" g="w11695" t="subj" cr="" w="" l="interaction" p="N"/>
+     <dpg d="E3" g="w11686" t="antecedent" cr="" w="" l="interaction" p="N"/>
+     <dpg d="w11696" g="E2" t="punc" cr="punc:E2" w="with" l="~" p="U"/>
+     <dpg d="w11697" g="E2" t="punc" cr="punc:E2" w="and" l="~" p="U"/>
+     <dpg d="w11698" g="E2" t="punc" cr="punc:E2" w="might" l="~" p="U"/>
+     <dpg d="w11699" g="E2" t="punc" cr="punc:E2" w="be" l="~" p="U"/>
+     <dpg d="w11700" g="E2" t="punc" cr="punc:E2" w="mediated" l="~" p="U"/>
+     <dpg d="w11701" g="E2" t="p" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w11702" g="w11704" t="gen" cr="gen:w11704" w="its" l="~" p="N"/>
+     <dpg d="w11703" g="w11704" t="mod" cr="mod:w11704" w="enhanced" l="~" p="A"/>
+     <dpg d="w11704" g="w11701" t="pcomp-n" cr="p*by*n:E2" w="binding" l="~" p="N"/>
+     <dpg d="w11705" g="w11704" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w11706" g="w11705" t="pcomp-n" cr="mod*to*n:w11704" w="talin" l="~" p="N"/>
+     <dpg d="w11707" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

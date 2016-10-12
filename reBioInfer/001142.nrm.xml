@@ -1,0 +1,74 @@
+<rexml>
+<doc id="1142">
+  
+  <markup>
+   <nes>
+    <ne id="e4172" gid="g3989" t="Individual_protein" fr="w18013" to="w18014" nam="yes" sid="s1">
+     <textspan>Profilin I</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1142.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4175" gid="g3989" t="Individual_protein" fr="w18016" to="w18017" nam="yes" sid="s1">
+     <textspan>profilin II</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1142.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4174" gid="g3989" t="Individual_protein" fr="w18027" to="w18027" nam="yes" sid="s1">
+     <textspan>both</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1142.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4178" gid="g3993" t="Individual_protein" fr="w18033" to="w18033" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1142.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1611" t="FNSIMILAR" e1="e4172" e2="e4175" re="e4173">
+     <textspan>Profilin I and profilin II have similar affinities</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1142.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Functional-Similarity"/>
+      <exattr n="t4" v="FNSIMILAR"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

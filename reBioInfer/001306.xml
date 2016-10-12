@@ -1,0 +1,85 @@
+<rexml>
+<doc id="1306">
+  <text>
+<p><s id="s1"><w id="w20495">Such</w> <w id="w20496">motifs</w> <w id="w20497">are</w> <w id="w20498">known</w> <w id="w20499">to</w> <w id="w20500">bind</w> <w id="w20501">to</w> <w id="w20502">profilins</w> <w id="w20503">(</w> <w id="w20504">PFNs</w> <w id="w20505">)</w> <w id="w20506">,</w> <w id="w20507">small</w> <w id="w20508">proteins</w> <w id="w20509">engaged</w> <w id="w20510">in</w> <w id="w20511">the</w> <w id="w20512">control</w> <w id="w20513">of</w> <w id="w20514">actin</w> <w id="w20515">dynamics</w> <w id="w20516">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4723" gid="g4515" t="Protein_family_or_group" fr="w20502" to="w20502" nam="yes">
+     <textspan type="extent">profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1306.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4724" gid="g4516" t="RELATIONSHIP_TEXTBINDING" fr="w20509" to="w20510">
+     <textspan type="extent">engaged in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1306.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4725" gid="g4515" t="Protein_family_or_group" fr="w20504" to="w20504" nam="yes">
+     <textspan type="extent">PFNs</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1306.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4726" gid="g4517" t="Dynamics_property" fr="w20514" to="w20515">
+     <textspan type="extent">actin dynamics</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.1306.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4727" gid="g4518" t="CONTROL" fr="w20512" to="w20515">
+     <textspan type="extent">control of actin dynamics</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Unspecified"/>
+      <exattr n="t4" v="CONTROL"/>
+      <exattr n="bd" v="e.1306.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4728" gid="g4519" t="Individual_protein" fr="w20514" to="w20514" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1306.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1796" t="PARTICIPATE" e1="e4723" e2="e4727" re="e4724">
+     <textspan type="extent">profilins ( PFNs ) , small proteins engaged in the control of actin dynamics</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1306.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

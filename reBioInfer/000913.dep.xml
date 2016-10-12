@@ -1,0 +1,65 @@
+<rexml>
+<doc id="913">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14191" g="w14192" t="s" cr="s:w14192||subj:w14194" w="It" l="~" p="N"/>
+     <dpg d="w14192" g="E2" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="E5" g="w14194" t="subj" cr="" w="" l="it" p="N"/>
+     <dpg d="E5" g="w14191" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w14193" g="w14194" t="mod" cr="mod:w14194" w="also" l="~" p="A"/>
+     <dpg d="w14194" g="w14192" t="pred" cr="pred:w14192" w="possible" l="~" p="A"/>
+     <dpg d="E1" g="w14194" t="subj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14195" g="E1" t="c" cr="c:w14197" w="that" l="~" p="COMP"/>
+     <dpg d="w14196" g="w14197" t="s" cr="s+subj:w14197||s+subj:w14203||subj:w14212" w="PtdIns-4,5-P2" l="PtdIns-4,5-P2" p="N"/>
+     <dpg d="w14197" g="E1" t="i" cr="subj:w14194" w="has" l="have" p="V"/>
+     <dpg d="E6" g="w14197" t="subj" cr="" w="" l="PtdIns-4,5-P2" p="N"/>
+     <dpg d="E6" g="w14196" t="antecedent" cr="" w="" l="PtdIns-4,5-P2" p="N"/>
+     <dpg d="w14198" g="w14199" t="mod" cr="mod:w14199" w="other" l="~" p="A"/>
+     <dpg d="w14199" g="w14197" t="obj" cr="obj:w14197" w="roles" l="role" p="N"/>
+     <dpg d="w14200" g="w14197" t="punc" cr="punc:w14197" w="," l="~" p="U"/>
+     <dpg d="w14201" g="w14197" t="mod" cr="" w="such" l="such as" p="Prep"/>
+     <dpg d="w14202" g="w14201" t="lex-mod" cr="lex-mod:w14201" w="as" l="~" p="U"/>
+     <dpg d="E0" g="w14201" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w14196" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w14203" g="E0" t="i" cr="mod*such*c:w14197" w="promoting" l="promote" p="V"/>
+     <dpg d="E7" g="w14203" t="subj" cr="" w="" l="PtdIns-4,5-P2" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="PtdIns-4,5-P2" p="N"/>
+     <dpg d="w14204" g="w14205" t="det" cr="det:w14205" w="the" l="~" p="Det"/>
+     <dpg d="w14205" g="w14203" t="obj" cr="obj:w14203" w="release" l="~" p="N"/>
+     <dpg d="w14206" g="w14205" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w14207" g="w14208" t="nn" cr="nn:w14208" w="G" l="~" p="N"/>
+     <dpg d="w14208" g="w14206" t="pcomp-n" cr="mod*of*n:w14205" w="actin" l="~" p="N"/>
+     <dpg d="w14209" g="w14208" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w14210" g="w14209" t="pcomp-n" cr="mod*from*n:w14208" w="profilin" l="~" p="N"/>
+     <dpg d="w14211" g="w14203" t="punc" cr="punc:w14203" w="or" l="~" p="U"/>
+     <dpg d="w14212" g="w14203" t="conj" cr="conj:w14203" w="promoting" l="promote" p="V"/>
+     <dpg d="E8" g="w14212" t="subj" cr="" w="" l="PtdIns-4,5-P2" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="PtdIns-4,5-P2" p="N"/>
+     <dpg d="w14213" g="w14214" t="det" cr="det:w14214" w="the" l="~" p="Det"/>
+     <dpg d="w14214" g="w14212" t="obj" cr="obj:w14212" w="cross-linking" l="cross-linking" p="N"/>
+     <dpg d="w14215" g="w14214" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w14216" g="w14215" t="pcomp-n" cr="mod*of*n:w14214" w="actin" l="~" p="N"/>
+     <dpg d="w14217" g="w14216" t="punc" cr="punc:w14216" w="or" l="~" p="U"/>
+     <dpg d="w14218" g="w14219" t="gen" cr="gen:w14219" w="its" l="~" p="N"/>
+     <dpg d="w14219" g="w14216" t="conj" cr="conj:w14216" w="anchorage" l="~" p="N"/>
+     <dpg d="w14220" g="w14219" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w14221" g="w14223" t="det" cr="det:w14223" w="the" l="~" p="Det"/>
+     <dpg d="w14222" g="w14223" t="lex-mod" cr="lex-mod:w14223" w="plasma" l="~" p="U"/>
+     <dpg d="w14223" g="w14220" t="pcomp-n" cr="mod*to*n:w14219" w="membrane" l="plasma membrane" p="N"/>
+     <dpg d="w14224" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

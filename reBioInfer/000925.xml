@@ -1,0 +1,94 @@
+<rexml>
+<doc id="925">
+  <text>
+<p><s id="s1"><w id="w14401">Kinetic</w> <w id="w14402">studies</w> <w id="w14403">on</w> <w id="w14404">the</w> <w id="w14405">effect</w> <w id="w14406">of</w> <w id="w14407">yeast</w> <w id="w14408">cofilin</w> <w id="w14409">on</w> <w id="w14410">yeast</w> <w id="w14411">actin</w> <w id="w14412">polymerization</w> <w id="w14413">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3278" gid="g3145" t="RELATIONSHIP_TEXTBINDING" fr="w14405" to="w14409">
+     <textspan type="extent">effect of [..] on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.925.0"/>
+      <exattr n="nst" v="st.925.4.0"/>
+      <exattr n="nst" v="st.925.5.0"/>
+      <exattr n="nst" v="st.925.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3279" gid="g3146" t="Individual_protein" fr="w14407" to="w14408" nam="yes">
+     <textspan type="extent">yeast cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.925.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3280" gid="g3147" t="Individual_protein" fr="w14410" to="w14411" nam="yes">
+     <textspan type="extent">yeast actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.925.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3281" gid="g3148" t="POLYMERIZATION" fr="w14410" to="w14412">
+     <textspan type="extent">yeast actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.925.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3282" gid="g3149" t="Individual_protein" fr="w14408" to="w14408" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.925.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3283" gid="g3150" t="Individual_protein" fr="w14411" to="w14411" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.925.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1261" t="AFFECT" e1="e3279" e2="e3281" re="e3278">
+     <textspan type="extent">effect of yeast cofilin on yeast actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.925.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

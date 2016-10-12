@@ -1,0 +1,46 @@
+<rexml>
+<doc id="341">
+  <text>
+<p><s id="s1"><w id="w5162">Confluent</w> <w id="w5163">calf</w> <w id="w5164">pulmonary</w> <w id="w5165">artery</w> <w id="w5166">endothelial</w> <w id="w5167">monolayers</w> <w id="w5168">exposed</w> <w id="w5169">to</w> <w id="w5170">95</w> <w id="w5171">%</w> <w id="w5172">oxygen</w> <w id="w5173">for</w> <w id="w5174">1</w> <w id="w5175">,</w> <w id="w5176">2</w> <w id="w5177">,</w> <w id="w5178">or</w> <w id="w5179">3</w> <w id="w5180">days</w> <w id="w5181">exhibit</w> <w id="w5182">a</w> <w id="w5183">time-dependent</w> <w id="w5184">increase</w> <w id="w5185">in</w> <w id="w5186">adherence</w> <w id="w5187">to</w> <w id="w5188">substratum</w> <w id="w5189">,</w> <w id="w5190">which</w> <w id="w5191">closely</w> <w id="w5192">parallels</w> <w id="w5193">changes</w> <w id="w5194">in</w> <w id="w5195">actin</w> <w id="w5196">cytoarchitecture</w> <w id="w5197">and</w> <w id="w5198">the</w> <w id="w5199">distribution</w> <w id="w5200">of</w> <w id="w5201">focal</w> <w id="w5202">contact</w> <w id="w5203">proteins</w> <w id="w5204">vinculin</w> <w id="w5205">and</w> <w id="w5206">talin</w> <w id="w5207">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1243" gid="g1185" t="Gene/protein/RNA" fr="w5195" to="w5195" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.341.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1244" gid="g1186" t="Gene/protein/RNA" fr="w5206" to="w5206" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.341.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1245" gid="g1187" t="Gene/protein/RNA" fr="w5204" to="w5204" nam="yes">
+     <textspan type="extent">vinculin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.341.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,62 @@
+<rexml>
+<doc id="1248">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w19731" g="w19733" t="det" cr="det:w19733" w="Several" l="~" p="Det"/>
+     <dpg d="w19732" g="w19733" t="mod" cr="mod:w19733" w="intracellular" l="~" p="A"/>
+     <dpg d="w19733" g="w19747" t="s" cr="obj1:w19734||s+subj:w19737||s+obj:w19747" w="proteins" l="protein" p="N"/>
+     <dpg d="w19734" g="w19733" t="vrel" cr="vrel:w19733" w="termed" l="term" p="V"/>
+     <dpg d="E6" g="w19734" t="obj1" cr="" w="" l="protein" p="N"/>
+     <dpg d="E6" g="w19733" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w19735" g="w19734" t="desc" cr="desc:w19734" w="catenins" l="~" p="N"/>
+     <dpg d="w19736" g="w19747" t="punc" cr="punc:w19747" w="," l="~" p="U"/>
+     <dpg d="E1" g="w19747" t="mod-before" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w19733" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w19737" g="E1" t="i" cr="mod-before:w19747" w="including" l="include" p="V"/>
+     <dpg d="E7" g="w19737" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w19738" g="w19737" t="obj" cr="obj:w19737" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w19739" g="w19738" t="punc" cr="punc:w19738" w="," l="~" p="U"/>
+     <dpg d="w19740" g="w19738" t="conj" cr="conj:w19738" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w19741" g="w19740" t="punc" cr="punc:w19740" w="," l="~" p="U"/>
+     <dpg d="w19742" g="w19740" t="punc" cr="punc:w19740" w="and" l="~" p="U"/>
+     <dpg d="w19743" g="w19740" t="conj" cr="conj:w19740" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w19744" g="w19747" t="punc" cr="punc:w19747" w="," l="~" p="U"/>
+     <dpg d="w19745" g="w19747" t="be" cr="be:w19747" w="are" l="be" p="be"/>
+     <dpg d="w19746" g="w19747" t="amod" cr="amod:w19747" w="tightly" l="~" p="A"/>
+     <dpg d="w19747" g="E2" t="i" cr="" w="associated" l="associate" p="V"/>
+     <dpg d="E8" g="w19747" t="obj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E8" g="w19733" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w19748" g="w19747" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w19749" g="w19750" t="det" cr="det:w19750" w="these" l="~" p="Det"/>
+     <dpg d="w19750" g="w19748" t="pcomp-n" cr="mod*with*n:w19747" w="cadherins" l="~" p="N"/>
+     <dpg d="w19751" g="w19750" t="punc" cr="punc:w19750" w="and" l="~" p="U"/>
+     <dpg d="w19752" g="w19750" t="conj" cr="conj:w19750||s+subj:w19754" w="serve" l="~" p="N"/>
+     <dpg d="E0" g="w19752" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w19752" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w19753" g="w19754" t="aux" cr="aux:w19754" w="to" l="~" p="Aux"/>
+     <dpg d="w19754" g="E0" t="i" cr="rel:w19752" w="link" l="~" p="V"/>
+     <dpg d="E9" g="w19754" t="subj" cr="" w="" l="serve" p="N"/>
+     <dpg d="E9" g="E3" t="antecedent" cr="" w="" l="serve" p="N"/>
+     <dpg d="w19755" g="w19754" t="obj" cr="obj:w19754" w="them" l="~" p="N"/>
+     <dpg d="w19756" g="w19754" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w19757" g="w19758" t="det" cr="det:w19758" w="the" l="~" p="Det"/>
+     <dpg d="w19758" g="w19756" t="pcomp-n" cr="mod*to*n:w19754" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w19759" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

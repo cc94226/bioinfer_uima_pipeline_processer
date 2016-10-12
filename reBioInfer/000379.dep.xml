@@ -1,0 +1,53 @@
+<rexml>
+<doc id="379">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="E0" g="E1" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="s+subj:w5699" w="" l="~" p="N"/>
+     <dpg d="w5699" g="E0" t="i" cr="mod:w5714" w="Depending" l="depend on" p="V"/>
+     <dpg d="w5700" g="w5699" t="lex-mod" cr="lex-mod:w5699" w="on" l="~" p="U"/>
+     <dpg d="E4" g="w5699" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="E2" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w5701" g="w5702" t="det" cr="det:w5702" w="the" l="~" p="Det"/>
+     <dpg d="w5702" g="w5699" t="obj" cr="obj:w5699" w="nature" l="~" p="N"/>
+     <dpg d="w5703" g="w5702" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5704" g="w5706" t="det" cr="det:w5706" w="the" l="~" p="Det"/>
+     <dpg d="w5705" g="w5706" t="mod" cr="mod:w5706" w="divalent" l="~" p="A"/>
+     <dpg d="w5706" g="w5703" t="pcomp-n" cr="mod*of*n:w5702" w="cation" l="~" p="N"/>
+     <dpg d="w5707" g="E1" t="punc" cr="punc:w5714" w="," l="~" p="U"/>
+     <dpg d="w5708" g="w5713" t="nn" cr="nn:w5713" w="recombinant" l="~" p="N"/>
+     <dpg d="w5709" g="w5713" t="nn" cr="nn:w5713" w="plant" l="~" p="N"/>
+     <dpg d="w5710" g="w5713" t="punc" cr="punc:w5713" w="(" l="~" p="U"/>
+     <dpg d="w5711" g="w5713" t="mod" cr="mod:w5713" w="birch" l="~" p="A"/>
+     <dpg d="w5712" g="w5713" t="punc" cr="punc:w5713" w=")" l="~" p="U"/>
+     <dpg d="w5713" g="w5714" t="s" cr="s+subj:w5714" w="profilin" l="~" p="N"/>
+     <dpg d="w5714" g="E1" t="i" cr="" w="exhibited" l="exhibit" p="V"/>
+     <dpg d="E5" g="w5714" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E5" g="w5713" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w5715" g="w5717" t="nn" cr="nn:w5717" w="two" l="~" p="N"/>
+     <dpg d="w5716" g="w5717" t="mod" cr="mod:w5717" w="different" l="~" p="A"/>
+     <dpg d="w5717" g="w5714" t="obj" cr="obj:w5714" w="modes" l="mode" p="N"/>
+     <dpg d="w5718" g="w5717" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5719" g="w5718" t="pcomp-n" cr="mod*of*n:w5717" w="interaction" l="~" p="N"/>
+     <dpg d="w5720" g="w5719" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w5721" g="w5720" t="pcomp-n" cr="mod*with*n:w5719" w="actin" l="~" p="N"/>
+     <dpg d="w5722" g="w5714" t="punc" cr="punc:w5714" w="," l="~" p="U"/>
+     <dpg d="w5723" g="w5714" t="mod" cr="" w="like" l="~" p="Prep"/>
+     <dpg d="w5724" g="w5725" t="mod" cr="mod:w5725" w="mammalian" l="~" p="A"/>
+     <dpg d="w5725" g="w5723" t="pcomp-n" cr="mod*like*n:w5714" w="profilin" l="~" p="N"/>
+     <dpg d="w5726" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

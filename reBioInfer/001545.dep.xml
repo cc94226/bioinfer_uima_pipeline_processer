@@ -1,0 +1,62 @@
+<rexml>
+<doc id="1545">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24385" g="w24387" t="det" cr="det:w24387" w="The" l="~" p="Det"/>
+     <dpg d="w24386" g="w24387" t="mod" cr="mod:w24387" w="long" l="~" p="A"/>
+     <dpg d="w24387" g="w24396" t="s" cr="subj:w24391||s+subj:w24396" w="repeats" l="repeat" p="N"/>
+     <dpg d="w24388" g="w24387" t="punc" cr="punc:w24387" w="," l="~" p="U"/>
+     <dpg d="E1" g="w24387" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24389" g="E1" t="whn" cr="whn:w24390" w="which" l="~" p="N"/>
+     <dpg d="w24389" g="w24387" t="antecedent" cr="antecedent:w24387" w="which" l="~" p="N"/>
+     <dpg d="w24390" g="E1" t="i" cr="rel:w24387" w="are" l="be" p="VBE"/>
+     <dpg d="w24391" g="w24390" t="pred" cr="pred:w24390" w="interdigitated" l="~" p="A"/>
+     <dpg d="E5" g="w24391" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E5" g="w24387" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w24392" g="w24391" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w24393" g="w24394" t="det" cr="det:w24394" w="the" l="~" p="Det"/>
+     <dpg d="w24394" g="w24392" t="pcomp-n" cr="mod*between*n:w24391" w="PRRs" l="~" p="N"/>
+     <dpg d="w24395" g="w24396" t="punc" cr="punc:w24396" w="," l="~" p="U"/>
+     <dpg d="w24396" g="E2" t="i" cr="UNSPECRELTYPE:E4" w="increased" l="increase" p="V"/>
+     <dpg d="E6" g="w24396" t="subj" cr="" w="" l="repeat" p="N"/>
+     <dpg d="E6" g="w24387" t="antecedent" cr="" w="" l="repeat" p="N"/>
+     <dpg d="w24397" g="w24398" t="det" cr="det:w24398" w="the" l="~" p="Det"/>
+     <dpg d="w24398" g="w24396" t="obj" cr="obj:w24396" w="frequency" l="~" p="N"/>
+     <dpg d="w24399" g="E4" t="p" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w24400" g="w24399" t="pcomp-n" cr="p*with*n:E4" w="which" l="~" p="N"/>
+     <dpg d="E0" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24401" g="w24402" t="lex-mod" cr="lex-mod:w24402" w="actin" l="~" p="U"/>
+     <dpg d="w24402" g="w24403" t="mod" cr="mod:w24403" w="-based" l="actin -based" p="A"/>
+     <dpg d="w24403" g="w24404" t="s" cr="s+subj:w24404" w="motility" l="~" p="N"/>
+     <dpg d="w24404" g="E0" t="i" cr="UNSPECRELTYPE:E4" w="occurred" l="occur" p="V"/>
+     <dpg d="E7" g="w24404" t="subj" cr="" w="" l="motility" p="N"/>
+     <dpg d="E7" g="w24403" t="antecedent" cr="" w="" l="motility" p="N"/>
+     <dpg d="w24405" g="w24404" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w24406" g="w24407" t="det" cr="det:w24407" w="a" l="~" p="Det"/>
+     <dpg d="w24407" g="w24405" t="pcomp-n" cr="mod*by*n:w24404" w="mechanism" l="~" p="N"/>
+     <dpg d="w24408" g="w24407" t="pnmod" cr="pnmod:w24407" w="independent" l="~" p="A"/>
+     <dpg d="w24409" g="w24408" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w24410" g="w24411" t="det" cr="det:w24411" w="the" l="~" p="Det"/>
+     <dpg d="w24411" g="w24409" t="pcomp-n" cr="mod*of*n:w24408" w="PRRs" l="~" p="N"/>
+     <dpg d="w24412" g="w24411" t="punc" cr="punc:w24411" w="," l="~" p="U"/>
+     <dpg d="w24413" g="w24411" t="conj" cr="conj:w24411" w="VASP" l="~" p="N"/>
+     <dpg d="w24414" g="w24413" t="punc" cr="punc:w24413" w="," l="~" p="U"/>
+     <dpg d="w24415" g="w24413" t="punc" cr="punc:w24413" w="and" l="~" p="U"/>
+     <dpg d="w24416" g="w24413" t="conj" cr="conj:w24413" w="profilin" l="~" p="N"/>
+     <dpg d="w24417" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

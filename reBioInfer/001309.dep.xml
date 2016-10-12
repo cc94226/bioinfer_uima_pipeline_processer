@@ -1,0 +1,73 @@
+<rexml>
+<doc id="1309">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w20535" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="Surprisingly" l="~" p="A"/>
+     <dpg d="w20536" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w20537" g="E3" t="punc" cr="punc:E3" w="although" l="~" p="U"/>
+     <dpg d="w20538" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="maintained" l="~" p="A"/>
+     <dpg d="w20539" g="w20538" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w20540" g="w20541" t="mod" cr="mod:w20541" w="mitogen-rich" l="mitogen-rich" p="A"/>
+     <dpg d="w20541" g="w20539" t="pcomp-n" cr="mod*in*n:w20538" w="medium" l="~" p="N"/>
+     <dpg d="w20542" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20543" g="w20545" t="det" cr="det:w20545" w="this" l="~" p="Det"/>
+     <dpg d="w20544" g="w20545" t="mod" cr="mod:w20545" w="ectopic" l="~" p="A"/>
+     <dpg d="w20545" g="w20547" t="s" cr="s+obj:w20547" w="expression" l="~" p="N"/>
+     <dpg d="w20546" g="w20547" t="be" cr="be:w20547" w="was" l="be" p="be"/>
+     <dpg d="w20547" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="associated" l="associate" p="V"/>
+     <dpg d="E4" g="w20547" t="obj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E4" g="w20545" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w20548" g="w20547" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w20549" g="w20550" t="det" cr="det:w20550" w="a" l="~" p="Det"/>
+     <dpg d="w20550" g="w20548" t="pcomp-n" cr="mod*with*n:w20547" w="transactivation" l="~" p="N"/>
+     <dpg d="w20551" g="w20550" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w20552" g="w20554" t="det" cr="det:w20554" w="the" l="~" p="Det"/>
+     <dpg d="w20553" g="w20554" t="mod" cr="mod:w20554" w="endogenous" l="~" p="A"/>
+     <dpg d="w20554" g="w20551" t="pcomp-n" cr="mod*of*n:w20550" w="myogenin" l="~" p="N"/>
+     <dpg d="w20555" g="E1" t="punc" cr="punc:w20547" w="and" l="~" p="U"/>
+     <dpg d="E0" g="E1" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20556" g="w20557" t="nn" cr="nn:w20557" w="myosin" l="~" p="N"/>
+     <dpg d="w20557" g="w20558" t="s" cr="s+subj:w20558" w="light" l="~" p="N"/>
+     <dpg d="w20558" g="E0" t="i" cr="conj:w20547" w="chain" l="~" p="V"/>
+     <dpg d="E5" g="w20558" t="subj" cr="" w="" l="light" p="N"/>
+     <dpg d="E5" g="w20557" t="antecedent" cr="" w="" l="light" p="N"/>
+     <dpg d="w20559" g="w20560" t="num" cr="num:w20560" w="2" l="~" p="N"/>
+     <dpg d="w20560" g="w20558" t="obj" cr="obj:w20558" w="gene" l="~" p="N"/>
+     <dpg d="w20561" g="w20560" t="punc" cr="punc:w20560" w="but" l="~" p="U"/>
+     <dpg d="w20562" g="w20560" t="punc" cr="punc:w20560" w="not" l="~" p="U"/>
+     <dpg d="w20563" g="w20565" t="det" cr="det:w20565" w="the" l="~" p="Det"/>
+     <dpg d="w20564" g="w20565" t="mod" cr="mod:w20565" w="endogenous" l="~" p="A"/>
+     <dpg d="w20565" g="w20560" t="conj" cr="conj:w20560" w="MyoD1" l="~" p="N"/>
+     <dpg d="w20566" g="w20565" t="punc" cr="punc:w20565" w="," l="~" p="U"/>
+     <dpg d="w20567" g="w20565" t="conj" cr="conj:w20565" w="MRF4" l="~" p="N"/>
+     <dpg d="w20568" g="w20567" t="punc" cr="punc:w20567" w="," l="~" p="U"/>
+     <dpg d="w20569" g="w20567" t="conj" cr="conj:w20567" w="Myf5" l="~" p="N"/>
+     <dpg d="w20570" g="w20569" t="punc" cr="punc:w20569" w="," l="~" p="U"/>
+     <dpg d="w20571" g="w20574" t="det" cr="det:w20574" w="the" l="~" p="Det"/>
+     <dpg d="w20572" g="w20573" t="lex-mod" cr="lex-mod:w20573" w="skeletal" l="~" p="U"/>
+     <dpg d="w20573" g="w20574" t="nn" cr="nn:w20574" w="muscle" l="skeletal muscle" p="N"/>
+     <dpg d="w20574" g="w20569" t="conj" cr="conj:w20569" w="actin" l="~" p="N"/>
+     <dpg d="w20575" g="w20574" t="punc" cr="punc:w20574" w="," l="~" p="U"/>
+     <dpg d="w20576" g="w20574" t="punc" cr="punc:w20574" w="or" l="~" p="U"/>
+     <dpg d="w20577" g="w20581" t="det" cr="det:w20581" w="the" l="~" p="Det"/>
+     <dpg d="w20578" g="w20581" t="nn" cr="nn:w20581" w="myosin" l="~" p="N"/>
+     <dpg d="w20579" g="w20581" t="mod" cr="mod:w20581" w="heavy" l="~" p="A"/>
+     <dpg d="w20580" g="w20581" t="nn" cr="nn:w20581" w="chain" l="~" p="N"/>
+     <dpg d="w20581" g="w20574" t="conj" cr="conj:w20574" w="genes" l="gene" p="N"/>
+     <dpg d="w20582" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

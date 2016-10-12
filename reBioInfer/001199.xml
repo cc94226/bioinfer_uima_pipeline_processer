@@ -1,0 +1,70 @@
+<rexml>
+<doc id="1199">
+  <text>
+<p><s id="s1"><w id="w18941">Reinvestigation</w> <w id="w18942">of</w> <w id="w18943">the</w> <w id="w18944">inhibition</w> <w id="w18945">of</w> <w id="w18946">actin</w> <w id="w18947">polymerization</w> <w id="w18948">by</w> <w id="w18949">profilin</w> <w id="w18950">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4390" gid="g4197" t="RELATIONSHIP_TEXTBINDING" fr="w18944" to="w18948">
+     <textspan type="extent">inhibition of [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1199.0"/>
+      <exattr n="nst" v="st.1199.3.0"/>
+      <exattr n="nst" v="st.1199.4.0"/>
+      <exattr n="nst" v="st.1199.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4391" gid="g4198" t="POLYMERIZATION" fr="w18946" to="w18947">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.1199.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4392" gid="g4199" t="Individual_protein" fr="w18949" to="w18949" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1199.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4393" gid="g4200" t="Individual_protein" fr="w18946" to="w18946" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1199.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1678" t="SUPPRESS" e1="e4392" e2="e4391" re="e4390">
+     <textspan type="extent">inhibition of actin polymerization by profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1199.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,143 @@
+<rexml>
+<doc id="1775">
+  
+  <markup>
+   <nes>
+    <ne id="e6562" gid="g6257" t="Physical_property" fr="w28393" to="w28395" sid="s1">
+     <textspan>structure of Ykt6pN</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Physical_property"/>
+      <exattr n="bd" v="e.1775.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6569" gid="g6263" t="Physical_property" fr="w28393" to="w28393" sid="s1">
+     <textspan>structure</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Physical_property"/>
+      <exattr n="bd" v="e.1775.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6571" gid="g6265" t="Individual_protein" fr="w28395" to="w28395" nam="yes" sid="s1">
+     <textspan>Ykt6pN</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1775.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6572" gid="g6266" t="Physical_property" fr="w28399" to="w28401" sid="s1">
+     <textspan>that of syntaxin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Physical_property"/>
+      <exattr n="bd" v="e.1775.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e6568" gid="g6263" t="Physical_property" fr="w28399" to="w28399" sid="s1">
+     <textspan>that</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Physical_property"/>
+      <exattr n="bd" v="e.1775.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6573" gid="g6267" t="Individual_protein" fr="w28401" to="w28401" nam="yes" sid="s1">
+     <textspan>syntaxin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1775.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e6566" gid="g6261" t="Physical_property" fr="w28406" to="w28413" sid="s1">
+     <textspan>fold of [..] profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Physical_property"/>
+      <exattr n="bd" v="e.1775.4"/>
+      <exattr n="nst" v="st.1775.14.0"/>
+      <exattr n="nst" v="st.1775.15.0"/>
+      <exattr n="nst" v="st.1775.21.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6570" gid="g6264" t="Individual_protein" fr="w28409" to="w28409" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1775.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6567" gid="g6262" t="Individual_protein" fr="w28413" to="w28413" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1775.5"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2529" t="STSIMILAR" e1="e6562" e2="e6572" re="e6565">
+     <textspan>structure of Ykt6pN differed entirely from that of syntaxin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1775.3"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Physical-Similarity"/>
+      <exattr n="t4" v="STSIMILAR"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2530" t="STSIMILAR" e1="e6562" e2="e6566" re="e6564">
+     <textspan>structure of Ykt6pN differed entirely from that of syntaxin and resembled the overall fold of the actin regulatory protein , profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1775.2"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Physical-Similarity"/>
+      <exattr n="t4" v="STSIMILAR"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2531" t="MODULATE" e1="e6567" e2="e6570" re="e6563">
+     <textspan>actin regulatory protein , profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1775.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="MODULATE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,98 @@
+<rexml>
+<doc id="1933">
+  <text>
+<p><s id="s1"><w id="w31201">Transfection</w> <w id="w31202">of</w> <w id="w31203">plasmids</w> <w id="w31204">encoding</w> <w id="w31205">the</w> <w id="w31206">BRSV</w> <w id="w31207">minigenome</w> <w id="w31208">,</w> <w id="w31209">nucleocapsid</w> <w id="w31210">protein</w> <w id="w31211">(</w> <w id="w31212">N</w> <w id="w31213">)</w> <w id="w31214">,</w> <w id="w31215">phosphoprotein</w> <w id="w31216">(</w> <w id="w31217">P</w> <w id="w31218">)</w> <w id="w31219">and</w> <w id="w31220">L</w> <w id="w31221">protein</w> <w id="w31222">,</w> <w id="w31223">each</w> <w id="w31224">under</w> <w id="w31225">the</w> <w id="w31226">control</w> <w id="w31227">of</w> <w id="w31228">T7</w> <w id="w31229">promoter</w> <w id="w31230">,</w> <w id="w31231">into</w> <w id="w31232">cells</w> <w id="w31233">infected</w> <w id="w31234">with</w> <w id="w31235">a</w> <w id="w31236">vaccinia</w> <w id="w31237">virus</w> <w id="w31238">recombinant</w> <w id="w31239">expressing</w> <w id="w31240">the</w> <w id="w31241">T7</w> <w id="w31242">RNA</w> <w id="w31243">polymerase</w> <w id="w31244">gave</w> <w id="w31245">rise</w> <w id="w31246">to</w> <w id="w31247">CAT</w> <w id="w31248">activity</w> <w id="w31249">and</w> <w id="w31250">progeny</w> <w id="w31251">with</w> <w id="w31252">the</w> <w id="w31253">minigenome</w> <w id="w31254">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7161" gid="g6836" t="Individual_protein" fr="w31209" to="w31210" nam="yes">
+     <textspan type="extent">nucleocapsid protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1933.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7162" gid="g6837" t="Gene/protein/RNA" fr="w31220" to="w31220" nam="yes">
+     <textspan type="extent">L</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1933.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7163" gid="g6838" t="Individual_protein" fr="w31215" to="w31215" nam="yes">
+     <textspan type="extent">phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1933.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7164" gid="g6836" t="Individual_protein" fr="w31212" to="w31212" nam="yes">
+     <textspan type="extent">N</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1933.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7165" gid="g6839" t="Gene/protein/RNA" fr="w31247" to="w31247" nam="yes">
+     <textspan type="extent">CAT</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1933.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7166" gid="g6838" t="Individual_protein" fr="w31217" to="w31217" nam="yes">
+     <textspan type="extent">P</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1933.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7167" gid="g6840" t="Gene/protein/RNA" fr="w31242" to="w31243" nam="yes">
+     <textspan type="extent">RNA polymerase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1933.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

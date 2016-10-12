@@ -1,0 +1,126 @@
+<rexml>
+<doc id="1105">
+  <text>
+<p><s id="s1"><w id="w17448">p21</w> <w id="w17449">(</w> <w id="w17450">p21WAF1</w><w id="w17451">/</w><w id="w17452">Cip1</w> <w id="w17453">)</w> <w id="w17454">,</w> <w id="w17455">a</w> <w id="w17456">cyclin-dependent</w> <w id="w17457">kinase</w> <w id="w17458">inhibitor</w> <w id="w17459">,</w> <w id="w17460">induces</w> <w id="w17461">G1</w> <w id="w17462">arrest</w> <w id="w17463">and</w> <w id="w17464">can</w> <w id="w17465">inhibit</w> <w id="w17466">the</w> <w id="w17467">activity</w> <w id="w17468">of</w> <w id="w17469">the</w> <w id="w17470">proliferating</w> <w id="w17471">cell</w> <w id="w17472">nuclear</w> <w id="w17473">antigen</w> <w id="w17474">(</w> <w id="w17475">PCNA</w> <w id="w17476">)</w> <w id="w17477">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4026" gid="g3855" t="Individual_protein" fr="w17448" to="w17448" nam="yes">
+     <textspan type="extent">p21</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1105.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4027" gid="g3856" t="RELATIONSHIP_TEXTBINDING" fr="w17465" to="w17465">
+     <textspan type="extent">inhibit</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1105.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4028" gid="g3857" t="Protein_family_or_group" fr="w17456" to="w17458" nam="yes">
+     <textspan type="extent">cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1105.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4029" gid="g3858" t="Dynamics_property" fr="w17467" to="w17473">
+     <textspan type="extent">activity of the proliferating cell nuclear antigen</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.1105.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4030" gid="g3859" t="Individual_protein" fr="w17475" to="w17475" nam="yes">
+     <textspan type="extent">PCNA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1105.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4031" gid="g3855" t="Individual_protein" fr="w17452" to="w17452" nam="yes">
+     <textspan type="extent">Cip1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1105.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4032" gid="g3855" t="Individual_protein" fr="w17450" to="w17450" nam="yes">
+     <textspan type="extent">p21WAF1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1105.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4033" gid="g3859" t="Individual_protein" fr="w17470" to="w17473" nam="yes">
+     <textspan type="extent">proliferating cell nuclear antigen</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1105.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1547" t="MEMBER" e1="e4028" e2="e4026" re="">
+     <textspan type="extent">p21 ( p21WAF1 / Cip1 ) , a cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1548" t="INHIBIT" e1="e4026" e2="e4029" re="e4027">
+     <textspan type="extent">p21 ( p21WAF1 / Cip1 ) , a cyclin-dependent kinase inhibitor , induces G1 arrest and can inhibit the activity of the proliferating cell nuclear antigen</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1105.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="INHIBIT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

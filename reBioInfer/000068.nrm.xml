@@ -1,0 +1,107 @@
+<rexml>
+<doc id="68">
+  
+  <markup>
+   <nes>
+    <ne id="e279" gid="g273" t="Expression" fr="w1081" to="w1091" sid="s1">
+     <textspan>expression of [..] beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.68.8"/>
+      <exattr n="nst" v="st.68.10.0"/>
+      <exattr n="nst" v="st.68.11.0"/>
+      <exattr n="nst" v="st.68.20.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e277" gid="g271" t="Expression" fr="w1081" to="w1087" sid="s1">
+     <textspan>expression of [..] gamma-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.68.6"/>
+      <exattr n="nst" v="st.68.10.0"/>
+      <exattr n="nst" v="st.68.11.0"/>
+      <exattr n="nst" v="st.68.16.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e278" gid="g272" t="Expression" fr="w1081" to="w1085" sid="s1">
+     <textspan>expression of [..] alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.68.7"/>
+      <exattr n="nst" v="st.68.10.0"/>
+      <exattr n="nst" v="st.68.11.0"/>
+      <exattr n="nst" v="st.68.14.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e275" gid="g269" t="Expression" fr="w1081" to="w1083" sid="s1">
+     <textspan>expression of E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.68.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e281" gid="g275" t="Individual_protein" fr="w1083" to="w1083" nam="yes" sid="s1">
+     <textspan>E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.68.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e283" gid="g277" t="Individual_protein" fr="w1085" to="w1085" nam="yes" sid="s1">
+     <textspan>alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.68.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e284" gid="g278" t="Individual_protein" fr="w1087" to="w1087" nam="yes" sid="s1">
+     <textspan>gamma-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.68.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e280" gid="g274" t="Individual_protein" fr="w1091" to="w1091" nam="yes" sid="s1">
+     <textspan>beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.68.9"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

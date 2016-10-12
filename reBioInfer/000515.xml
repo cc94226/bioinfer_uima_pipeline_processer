@@ -1,0 +1,197 @@
+<rexml>
+<doc id="515">
+  <text>
+<p><s id="s1"><w id="w7124">From</w> <w id="w7125">previous</w> <w id="w7126">work</w> <w id="w7127">,</w> <w id="w7128">the</w> <w id="w7129">BNI1</w> <w id="w7130">,</w> <w id="w7131">GIC1</w> <w id="w7132">,</w> <w id="w7133">and</w> <w id="w7134">GIC2</w> <w id="w7135">gene</w> <w id="w7136">products</w> <w id="w7137">also</w> <w id="w7138">appear</w> <w id="w7139">to</w> <w id="w7140">be</w> <w id="w7141">involved</w> <w id="w7142">in</w> <w id="w7143">linking</w> <w id="w7144">Cdc42p</w> <w id="w7145">to</w> <w id="w7146">the</w> <w id="w7147">actin</w> <w id="w7148">cytoskeleton</w> <w id="w7149">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1709" gid="g1637" t="Individual_protein" fr="w7129" to="w7136" nam="yes">
+     <textspan type="extent">BNI1 [..] products</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.515.0"/>
+      <exattr n="nst" v="st.515.5.0"/>
+      <exattr n="nst" v="st.515.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1710" gid="g1638" t="Individual_protein" fr="w7134" to="w7136" nam="yes">
+     <textspan type="extent">GIC2 [..] products</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.515.1"/>
+      <exattr n="nst" v="st.515.10.0"/>
+      <exattr n="nst" v="st.515.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1711" gid="g1639" t="Individual_protein" fr="w7131" to="w7136" nam="yes">
+     <textspan type="extent">GIC1 [..] products</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.515.2"/>
+      <exattr n="nst" v="st.515.7.0"/>
+      <exattr n="nst" v="st.515.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1712" gid="g1640" t="Cell_component" fr="w7147" to="w7148" nam="yes">
+     <textspan type="extent">actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.515.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1713" gid="g1641" t="Individual_protein" fr="w7144" to="w7144" nam="yes">
+     <textspan type="extent">Cdc42p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.515.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1714" gid="g1642" t="RELATIONSHIP_TEXTBINDING" fr="w7141" to="w7142">
+     <textspan type="extent">involved in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.515.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1715" gid="g1643" t="Gene" fr="w7129" to="w7129" nam="yes">
+     <textspan type="extent">BNI1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.515.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1716" gid="g1644" t="RELATIONSHIP_TEXTBINDING" fr="w7143" to="w7145">
+     <textspan type="extent">linking [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.515.7"/>
+      <exattr n="nst" v="st.515.19.0"/>
+      <exattr n="nst" v="st.515.21.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1717" gid="g1645" t="Gene" fr="w7131" to="w7131" nam="yes">
+     <textspan type="extent">GIC1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.515.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e1718" gid="g1646" t="Gene" fr="w7134" to="w7134" nam="yes">
+     <textspan type="extent">GIC2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.515.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e1719" gid="g1647" t="Individual_protein" fr="w7147" to="w7147" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.515.10"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r674" t="PARTICIPATE" e1="e1709" e2="e1716" re="e1714">
+     <textspan type="extent">BNI1 , GIC1 , and GIC2 gene products also appear to be involved in linking Cdc42p to the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.515.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r675" t="RELATE" e1="e1713" e2="e1712" re="e1716">
+     <textspan type="extent">linking Cdc42p to the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.515.7"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r676" t="PARTICIPATE" e1="e1711" e2="e1716" re="e1714">
+     <textspan type="extent">GIC1 , and GIC2 gene products also appear to be involved in linking Cdc42p to the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.515.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r677" t="RELATE" e1="e1713" e2="e1712" re="e1716">
+     <textspan type="extent">linking Cdc42p to the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.515.7"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r678" t="PARTICIPATE" e1="e1710" e2="e1716" re="e1714">
+     <textspan type="extent">GIC2 gene products also appear to be involved in linking Cdc42p to the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.515.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r679" t="RELATE" e1="e1713" e2="e1712" re="e1716">
+     <textspan type="extent">linking Cdc42p to the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.515.7"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

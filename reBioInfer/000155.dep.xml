@@ -1,0 +1,44 @@
+<rexml>
+<doc id="155">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2552" g="w2561" t="s" cr="s+obj:w2561" w="RAD51" l="~" p="N"/>
+     <dpg d="w2553" g="w2552" t="punc" cr="punc:w2552" w="," l="~" p="U"/>
+     <dpg d="w2554" g="w2552" t="conj" cr="conj:w2552" w="RAD54" l="~" p="N"/>
+     <dpg d="w2555" g="w2554" t="punc" cr="punc:w2554" w="," l="~" p="U"/>
+     <dpg d="w2556" g="w2554" t="conj" cr="conj:w2554" w="RAD55" l="~" p="N"/>
+     <dpg d="w2557" g="w2556" t="punc" cr="punc:w2556" w="and" l="~" p="U"/>
+     <dpg d="w2558" g="w2556" t="conj" cr="conj:w2556" w="RAD57" l="~" p="N"/>
+     <dpg d="w2559" g="w2561" t="be" cr="be:w2561" w="are" l="be" p="be"/>
+     <dpg d="w2560" g="w2561" t="amod" cr="amod:w2561" w="still" l="~" p="A"/>
+     <dpg d="w2561" g="E1" t="i" cr="" w="required" l="require" p="V"/>
+     <dpg d="E3" g="w2561" t="obj" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="E3" g="w2552" t="antecedent" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="E0" g="w2561" t="mod" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2562" g="E0" t="wha" cr="wha:w2567" w="when" l="~" p="A"/>
+     <dpg d="w2563" g="w2566" t="det" cr="det:w2566" w="the" l="~" p="Det"/>
+     <dpg d="w2564" g="w2566" t="post" cr="post:w2566" w="same" l="~" p="PostDet"/>
+     <dpg d="w2565" g="w2566" t="mod" cr="mod:w2566" w="transcribed" l="~" p="A"/>
+     <dpg d="w2566" g="w2567" t="s" cr="s:w2567||subj-on:w2570" w="donor" l="~" p="N"/>
+     <dpg d="w2567" g="E0" t="i" cr="mod:w2561" w="is" l="be" p="VBE"/>
+     <dpg d="w2568" g="w2567" t="pred" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="E4" g="w2570" t="subj-on" cr="" w="" l="donor" p="N"/>
+     <dpg d="E4" g="w2566" t="antecedent" cr="" w="" l="donor" p="N"/>
+     <dpg d="w2569" g="w2570" t="det" cr="det:w2570" w="the" l="~" p="Det"/>
+     <dpg d="w2570" g="w2568" t="pcomp-n" cr="pred*on*n:w2567" w="chromosome" l="~" p="N"/>
+     <dpg d="w2571" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

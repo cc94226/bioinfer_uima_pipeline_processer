@@ -1,0 +1,35 @@
+<rexml>
+<doc id="442">
+  <text>
+<p><s id="s1"><w id="w6339">Even</w> <w id="w6340">though</w> <w id="w6341">rates</w> <w id="w6342">of</w> <w id="w6343">total</w> <w id="w6344">protein</w> <w id="w6345">and</w> <w id="w6346">actin</w> <w id="w6347">synthesis</w> <w id="w6348">resembled</w> <w id="w6349">values</w> <w id="w6350">measured</w> <w id="w6351">in</w> <w id="w6352">vivo</w> <w id="w6353">,</w> <w id="w6354">myosin</w> <w id="w6355">heavy</w> <w id="w6356">chain</w> <w id="w6357">fractional</w> <w id="w6358">rate</w> <w id="w6359">of</w> <w id="w6360">synthesis</w> <w id="w6361">was</w> <w id="w6362">only</w> <w id="w6363">22</w> <w id="w6364">%</w> <w id="w6365">of</w> <w id="w6366">in</w> <w id="w6367">vivo</w> <w id="w6368">levels</w> <w id="w6369">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1548" gid="g1479" t="Gene/protein/RNA" fr="w6346" to="w6346" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.442.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1549" gid="g1480" t="Gene/protein/RNA" fr="w6354" to="w6356" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.442.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

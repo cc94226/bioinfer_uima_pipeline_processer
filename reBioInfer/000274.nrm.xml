@@ -1,0 +1,207 @@
+<rexml>
+<doc id="274">
+  
+  <markup>
+   <nes>
+    <ne id="e1006" gid="g964" t="Cell_component" fr="w4123" to="w4124" nam="yes" sid="s1">
+     <textspan>actin tails</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.274.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1012" gid="g970" t="Individual_protein" fr="w4123" to="w4123" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.274.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1010" gid="g968" t="Individual_protein" fr="w4132" to="w4133" nam="yes" sid="s1">
+     <textspan>vasodilator-stimulated phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.274.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1009" gid="g967" t="Individual_protein" fr="w4134" to="w4134" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.274.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1008" gid="g966" t="Individual_protein" fr="w4136" to="w4136" nam="yes" sid="s1">
+     <textspan>vinculin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.274.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1011" gid="g969" t="Individual_protein" fr="w4139" to="w4139" nam="yes" sid="s1">
+     <textspan>filamin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.274.5"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r385" t="COOF-SUBSTRUCTURE" e1="e1010" e2="e1009" re="e1007">
+     <textspan>actin tails were shown to contain the cytoskeletal proteins vasodilator-stimulated phosphoprotein profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.274.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-SUBSTRUCTURE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r385" t="COOF-SUBSTRUCTURE" e1="e1010" e2="e1008" re="e1007">
+     <textspan>actin tails were shown to contain the cytoskeletal proteins vasodilator-stimulated phosphoprotein profilin , vinculin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.274.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-SUBSTRUCTURE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r385" t="COOF-SUBSTRUCTURE" e1="e1010" e2="e1011" re="e1007">
+     <textspan>actin tails were shown to contain the cytoskeletal proteins vasodilator-stimulated phosphoprotein profilin , vinculin , and filamin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.274.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-SUBSTRUCTURE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r385" t="COOF-SUBSTRUCTURE" e1="e1009" e2="e1008" re="e1007">
+     <textspan>actin tails were shown to contain the cytoskeletal proteins vasodilator-stimulated phosphoprotein profilin , vinculin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.274.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-SUBSTRUCTURE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r385" t="COOF-SUBSTRUCTURE" e1="e1009" e2="e1011" re="e1007">
+     <textspan>actin tails were shown to contain the cytoskeletal proteins vasodilator-stimulated phosphoprotein profilin , vinculin , and filamin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.274.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-SUBSTRUCTURE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r385" t="COOF-SUBSTRUCTURE" e1="e1008" e2="e1011" re="e1007">
+     <textspan>actin tails were shown to contain the cytoskeletal proteins vasodilator-stimulated phosphoprotein profilin , vinculin , and filamin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.274.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-SUBSTRUCTURE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r385" t="SUBSTRUCTURE" e1="e1006" e2="e1010" re="e1007">
+     <textspan>actin tails were shown to contain the cytoskeletal proteins vasodilator-stimulated phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.274.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="SUBSTRUCTURE"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r386" t="SUBSTRUCTURE" e1="e1006" e2="e1009" re="e1007">
+     <textspan>actin tails were shown to contain the cytoskeletal proteins vasodilator-stimulated phosphoprotein profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.274.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="SUBSTRUCTURE"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r387" t="SUBSTRUCTURE" e1="e1006" e2="e1008" re="e1007">
+     <textspan>actin tails were shown to contain the cytoskeletal proteins vasodilator-stimulated phosphoprotein profilin , vinculin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.274.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="SUBSTRUCTURE"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r388" t="SUBSTRUCTURE" e1="e1006" e2="e1011" re="e1007">
+     <textspan>actin tails were shown to contain the cytoskeletal proteins vasodilator-stimulated phosphoprotein profilin , vinculin , and filamin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.274.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="SUBSTRUCTURE"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

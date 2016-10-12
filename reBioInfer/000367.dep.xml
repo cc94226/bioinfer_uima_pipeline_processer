@@ -1,0 +1,66 @@
+<rexml>
+<doc id="367">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5531" g="w5532" t="nn" cr="nn:w5532" w="Death" l="~" p="N"/>
+     <dpg d="w5532" g="w5533" t="s" cr="s+subj:w5533||subj:w5541||s+subj:w5550" w="receptors" l="receptor" p="N"/>
+     <dpg d="w5533" g="E2" t="i" cr="" w="belong" l="belong to" p="V"/>
+     <dpg d="w5534" g="w5533" t="lex-mod" cr="lex-mod:w5533" w="to" l="~" p="U"/>
+     <dpg d="E5" g="w5533" t="subj" cr="" w="" l="receptor" p="N"/>
+     <dpg d="E5" g="w5532" t="antecedent" cr="" w="" l="receptor" p="N"/>
+     <dpg d="w5535" g="w5538" t="det" cr="det:w5538" w="the" l="~" p="Det"/>
+     <dpg d="w5536" g="w5538" t="nn" cr="nn:w5538" w="TNF" l="~" p="N"/>
+     <dpg d="w5537" g="w5538" t="nn" cr="nn:w5538" w="receptor" l="~" p="N"/>
+     <dpg d="w5538" g="w5533" t="obj" cr="obj:w5533" w="family" l="~" p="N"/>
+     <dpg d="w5539" g="w5533" t="punc" cr="punc:w5533" w="and" l="~" p="U"/>
+     <dpg d="w5540" g="w5533" t="conj" cr="conj:w5533" w="are" l="be" p="VBE"/>
+     <dpg d="w5541" g="w5540" t="pred" cr="pred:w5540" w="characterised" l="~" p="A"/>
+     <dpg d="E6" g="w5541" t="subj" cr="" w="" l="receptor" p="N"/>
+     <dpg d="E6" g="w5532" t="antecedent" cr="" w="" l="receptor" p="N"/>
+     <dpg d="w5542" g="w5541" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w5543" g="w5546" t="det" cr="det:w5546" w="an" l="~" p="Det"/>
+     <dpg d="w5544" g="w5546" t="mod" cr="mod:w5546" w="intracellular" l="~" p="A"/>
+     <dpg d="w5545" g="w5546" t="nn" cr="nn:w5546" w="death" l="~" p="N"/>
+     <dpg d="w5546" g="w5542" t="pcomp-n" cr="mod*by*n:w5541||subj:w5548" w="domain" l="~" p="N"/>
+     <dpg d="E1" g="w5546" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5547" g="E1" t="whn" cr="whn:w5548" w="that" l="~" p="THAT"/>
+     <dpg d="w5547" g="w5546" t="antecedent" cr="antecedent:w5546" w="that" l="~" p="THAT"/>
+     <dpg d="w5548" g="E1" t="i" cr="rel:w5546" w="serves" l="serve" p="V"/>
+     <dpg d="E7" g="w5548" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E7" g="w5546" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E0" g="w5548" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w5532" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w5549" g="w5550" t="aux" cr="aux:w5550" w="to" l="~" p="Aux"/>
+     <dpg d="w5550" g="E0" t="i" cr="mod:w5548" w="recruit" l="~" p="V"/>
+     <dpg d="E8" g="w5550" t="subj" cr="" w="" l="receptor" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="receptor" p="N"/>
+     <dpg d="w5551" g="w5552" t="nn" cr="nn:w5552" w="adapter" l="~" p="N"/>
+     <dpg d="w5552" g="w5550" t="obj" cr="obj:w5550" w="proteins" l="protein" p="N"/>
+     <dpg d="w5553" g="w5552" t="mod" cr="" w="such" l="such as" p="Prep"/>
+     <dpg d="w5554" g="w5553" t="lex-mod" cr="lex-mod:w5553" w="as" l="~" p="U"/>
+     <dpg d="w5555" g="w5553" t="pcomp-n" cr="mod*such*n:w5552" w="TRADD" l="~" p="N"/>
+     <dpg d="w5556" g="w5555" t="punc" cr="punc:w5555" w="and" l="~" p="U"/>
+     <dpg d="w5557" g="w5555" t="conj" cr="conj:w5555" w="FADD" l="~" p="N"/>
+     <dpg d="w5558" g="w5557" t="punc" cr="punc:w5557" w="and" l="~" p="U"/>
+     <dpg d="w5559" g="w5560" t="nn" cr="nn:w5560" w="cysteine" l="~" p="N"/>
+     <dpg d="w5560" g="w5557" t="conj" cr="conj:w5557" w="proteases" l="protease" p="N"/>
+     <dpg d="w5561" g="w5560" t="mod" cr="" w="such" l="such as" p="Prep"/>
+     <dpg d="w5562" g="w5561" t="lex-mod" cr="lex-mod:w5561" w="as" l="~" p="U"/>
+     <dpg d="w5563" g="w5561" t="pcomp-n" cr="mod*such*n:w5560" w="Caspase-8" l="Caspase-8" p="N"/>
+     <dpg d="w5564" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

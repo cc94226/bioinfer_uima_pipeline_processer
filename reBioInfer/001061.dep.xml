@@ -1,0 +1,76 @@
+<rexml>
+<doc id="1061">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w16686" g="E4" t="subcat" cr="subcat:E4" w="One" l="~" p="N"/>
+     <dpg d="w16687" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="E2" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16688" g="w16691" t="s" cr="s+subj:w16691" w="MORT1" l="~" p="N"/>
+     <dpg d="w16689" g="w16691" t="punc" cr="punc:w16691" w="(" l="~" p="U"/>
+     <dpg d="w16690" g="w16691" t="mod-before" cr="mod-before:w16691" w="also" l="~" p="A"/>
+     <dpg d="w16691" g="E2" t="i" cr="UNSPECRELTYPE:E4" w="called" l="call" p="V"/>
+     <dpg d="E5" g="w16691" t="subj" cr="" w="" l="MORT1" p="N"/>
+     <dpg d="E5" g="w16688" t="antecedent" cr="" w="" l="MORT1" p="N"/>
+     <dpg d="w16692" g="w16695" t="nn" cr="nn:w16695" w="FADD" l="~" p="N"/>
+     <dpg d="w16693" g="w16695" t="punc" cr="punc:w16695" w=")" l="~" p="U"/>
+     <dpg d="w16694" g="w16695" t="punc" cr="punc:w16695" w="," l="~" p="U"/>
+     <dpg d="w16695" g="w16691" t="obj" cr="obj:w16691" w="binds" l="bind" p="N"/>
+     <dpg d="w16696" g="w16695" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w16697" g="w16699" t="nn" cr="nn:w16699" w="Fas" l="fa" p="N"/>
+     <dpg d="w16698" g="w16699" t="nn" cr="nn:w16699" w="/" l="~" p="N"/>
+     <dpg d="w16699" g="w16696" t="pcomp-n" cr="mod*to*n:w16695" w="APO1" l="~" p="N"/>
+     <dpg d="w16700" g="w16696" t="punc" cr="punc:w16696" w="but" l="~" p="U"/>
+     <dpg d="w16701" g="w16696" t="punc" cr="punc:w16696" w="not" l="~" p="U"/>
+     <dpg d="w16702" g="w16696" t="conj" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w16703" g="w16702" t="pcomp-n" cr="mod*to*n:w16695" w="p55-R" l="p55-R" p="N"/>
+     <dpg d="w16704" g="E4" t="punc" cr="punc:E4" w=";" l="~" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16705" g="w16709" t="s" cr="s+subj:w16709" w="another" l="~" p="N"/>
+     <dpg d="w16706" g="w16705" t="punc" cr="punc:w16705" w="," l="~" p="U"/>
+     <dpg d="w16707" g="w16705" t="appo" cr="appo:w16705" w="TRADD" l="~" p="N"/>
+     <dpg d="w16708" g="w16709" t="punc" cr="punc:w16709" w="," l="~" p="U"/>
+     <dpg d="w16709" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="binds" l="bind" p="V"/>
+     <dpg d="E6" g="w16709" t="subj" cr="" w="" l="another" p="N"/>
+     <dpg d="E6" g="w16705" t="antecedent" cr="" w="" l="another" p="N"/>
+     <dpg d="w16710" g="w16709" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w16711" g="w16714" t="det" cr="det:w16714" w="the" l="~" p="Det"/>
+     <dpg d="w16712" g="w16714" t="nn" cr="nn:w16714" w="p55" l="~" p="N"/>
+     <dpg d="w16713" g="w16714" t="nn" cr="nn:w16714" w="TNF" l="~" p="N"/>
+     <dpg d="w16714" g="w16710" t="pcomp-n" cr="mod*to*n:w16709" w="receptor" l="~" p="N"/>
+     <dpg d="w16715" g="w16710" t="punc" cr="punc:w16710" w="but" l="~" p="U"/>
+     <dpg d="w16716" g="w16710" t="punc" cr="punc:w16710" w="not" l="~" p="U"/>
+     <dpg d="w16717" g="w16710" t="conj" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w16718" g="w16720" t="nn" cr="nn:w16720" w="Fas" l="fa" p="N"/>
+     <dpg d="w16719" g="w16720" t="nn" cr="nn:w16720" w="/" l="~" p="N"/>
+     <dpg d="w16720" g="w16717" t="pcomp-n" cr="mod*to*n:w16709" w="APO1" l="~" p="N"/>
+     <dpg d="w16721" g="E4" t="punc" cr="punc:E4" w=";" l="~" p="U"/>
+     <dpg d="w16722" g="E4" t="punc" cr="punc:E4" w="and" l="~" p="U"/>
+     <dpg d="E0" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16723" g="w16724" t="det" cr="det:w16724" w="the" l="~" p="Det"/>
+     <dpg d="w16724" g="w16728" t="s" cr="s+subj:w16728" w="third" l="~" p="N"/>
+     <dpg d="w16725" g="w16724" t="punc" cr="punc:w16724" w="," l="~" p="U"/>
+     <dpg d="w16726" g="w16724" t="appo" cr="appo:w16724" w="RIP" l="~" p="N"/>
+     <dpg d="w16727" g="w16728" t="punc" cr="punc:w16728" w="," l="~" p="U"/>
+     <dpg d="w16728" g="E0" t="i" cr="UNSPECRELTYPE:E4" w="binds" l="bind" p="V"/>
+     <dpg d="E7" g="w16728" t="subj" cr="" w="" l="third" p="N"/>
+     <dpg d="E7" g="w16724" t="antecedent" cr="" w="" l="third" p="N"/>
+     <dpg d="w16729" g="w16728" t="mod" cr="mod:w16728" w="weakly" l="~" p="A"/>
+     <dpg d="w16730" g="w16729" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w16731" g="w16732" t="det" cr="det:w16732" w="both" l="~" p="Det"/>
+     <dpg d="w16732" g="w16730" t="pcomp-n" cr="mod*to*n:w16729" w="receptors" l="receptor" p="N"/>
+     <dpg d="w16733" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

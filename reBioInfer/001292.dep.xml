@@ -1,0 +1,48 @@
+<rexml>
+<doc id="1292">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20371" g="w20372" t="mod" cr="mod:w20372" w="Stable" l="~" p="A"/>
+     <dpg d="w20372" g="w20377" t="s" cr="s+subj:w20377" w="transfection" l="~" p="N"/>
+     <dpg d="w20373" g="w20372" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w20374" g="w20376" t="mod" cr="mod:w20376" w="mutant" l="~" p="A"/>
+     <dpg d="w20375" g="w20376" t="nn" cr="nn:w20376" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w20376" g="w20373" t="pcomp-n" cr="mod*of*n:w20372" w="molecules" l="molecule" p="N"/>
+     <dpg d="w20377" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="showed" l="show" p="V"/>
+     <dpg d="E3" g="w20377" t="subj" cr="" w="" l="transfection" p="N"/>
+     <dpg d="E3" g="w20372" t="antecedent" cr="" w="" l="transfection" p="N"/>
+     <dpg d="w20378" g="w20379" t="det" cr="det:w20379" w="that" l="~" p="Det"/>
+     <dpg d="w20379" g="w20377" t="obj" cr="obj:w20377" w="deletion" l="~" p="N"/>
+     <dpg d="w20380" g="w20379" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w20381" g="w20384" t="det" cr="det:w20384" w="the" l="~" p="Det"/>
+     <dpg d="w20382" g="w20384" t="mod" cr="mod:w20384" w="N-cadherin" l="N-cadherin" p="A"/>
+     <dpg d="w20383" g="w20384" t="mod" cr="mod:w20384" w="binding" l="~" p="A"/>
+     <dpg d="w20384" g="w20380" t="pcomp-n" cr="mod*of*n:w20379" w="domain" l="~" p="N"/>
+     <dpg d="w20385" g="w20384" t="punc" cr="punc:w20384" w="," l="~" p="U"/>
+     <dpg d="w20386" g="w20384" t="punc" cr="punc:w20384" w="but" l="~" p="U"/>
+     <dpg d="w20387" g="w20384" t="punc" cr="punc:w20384" w="not" l="~" p="U"/>
+     <dpg d="w20388" g="w20391" t="det" cr="det:w20391" w="the" l="~" p="Det"/>
+     <dpg d="w20389" g="w20391" t="mod" cr="mod:w20391" w="alpha-catenin" l="alpha-catenin" p="A"/>
+     <dpg d="w20390" g="w20391" t="mod" cr="mod:w20391" w="binding" l="~" p="A"/>
+     <dpg d="w20391" g="w20384" t="conj" cr="conj:w20384" w="domain" l="~" p="N"/>
+     <dpg d="w20392" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w20393" g="E2" t="punc" cr="punc:E2" w="abolished" l="~" p="U"/>
+     <dpg d="w20394" g="w20395" t="mod" cr="mod:w20395" w="beta-catenin" l="beta-catenin" p="A"/>
+     <dpg d="w20395" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="downregulation" l="~" p="N"/>
+     <dpg d="w20396" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

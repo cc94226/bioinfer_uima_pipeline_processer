@@ -1,0 +1,71 @@
+<rexml>
+<doc id="2076">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32940" g="w32942" t="s" cr="s+subj:w32942" w="We" l="~" p="N"/>
+     <dpg d="w32941" g="w32942" t="have" cr="have:w32942" w="have" l="~" p="have"/>
+     <dpg d="w32942" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="cloned" l="clone" p="V"/>
+     <dpg d="E6" g="w32942" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E6" g="w32940" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w32943" g="w32948" t="det" cr="det:w32948" w="a" l="~" p="Det"/>
+     <dpg d="w32944" g="w32945" t="lex-mod" cr="lex-mod:w32945" w="Saccharomyces" l="~" p="U"/>
+     <dpg d="w32945" g="w32948" t="nn" cr="nn:w32948" w="cerevisiae" l="Saccharomyces cerevisiae" p="N"/>
+     <dpg d="w32946" g="w32948" t="nn" cr="nn:w32948" w="gene" l="~" p="N"/>
+     <dpg d="w32947" g="w32948" t="punc" cr="punc:w32948" w="(" l="~" p="U"/>
+     <dpg d="w32948" g="w32942" t="obj" cr="obj:w32942||s+subj:w32950" w="COF1" l="~" p="N"/>
+     <dpg d="w32949" g="w32948" t="punc" cr="punc:w32948" w=")" l="~" p="U"/>
+     <dpg d="E1" g="w32948" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w32948" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w32950" g="E1" t="i" cr="rel:w32948" w="encoding" l="encode" p="V"/>
+     <dpg d="E7" g="w32950" t="subj" cr="" w="" l="COF1" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="COF1" p="N"/>
+     <dpg d="w32951" g="w32952" t="det" cr="det:w32952" w="a" l="~" p="Det"/>
+     <dpg d="w32952" g="w32954" t="punc" cr="punc:w32954" w="low-M(r)" l="~" p="U"/>
+     <dpg d="w32953" g="w32954" t="mod" cr="mod:w32954" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w32954" g="w32952" t="appo" cr="appo:w32952" w="protein" l="~" p="N"/>
+     <dpg d="w32955" g="w32954" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32956" g="w32965" t="num" cr="num:w32965" w="143" l="~" p="N"/>
+     <dpg d="w32957" g="w32958" t="lex-mod" cr="lex-mod:w32958" w="amino" l="~" p="U"/>
+     <dpg d="w32958" g="w32965" t="nn" cr="nn:w32965" w="acid" l="amino acid" p="N"/>
+     <dpg d="w32959" g="w32960" t="punc" cr="punc:w32960" w="(" l="~" p="U"/>
+     <dpg d="w32960" g="w32958" t="abbrev" cr="abbrev:w32958" w="aa" l="~" p="N"/>
+     <dpg d="w32961" g="w32960" t="punc" cr="punc:w32960" w=")" l="~" p="U"/>
+     <dpg d="w32962" g="w32965" t="nn" cr="nn:w32965" w="residues" l="residue" p="N"/>
+     <dpg d="w32963" g="w32965" t="punc" cr="punc:w32965" w="(" l="~" p="U"/>
+     <dpg d="w32964" g="w32965" t="nn" cr="nn:w32965" w="yeast" l="~" p="N"/>
+     <dpg d="w32965" g="w32955" t="pcomp-n" cr="mod*of*n:w32954" w="cofilin" l="~" p="N"/>
+     <dpg d="w32966" g="E5" t="punc" cr="punc:E5" w=";" l="~" p="U"/>
+     <dpg d="w32967" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="Cof" l="~" p="N"/>
+     <dpg d="w32968" g="E5" t="punc" cr="punc:E5" w=")" l="~" p="U"/>
+     <dpg d="w32969" g="E5" t="punc" cr="punc:E5" w=";" l="~" p="U"/>
+     <dpg d="E0" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32970" g="w32972" t="gen" cr="gen:w32972" w="its" l="~" p="N"/>
+     <dpg d="w32971" g="w32972" t="nn" cr="nn:w32972" w="aa" l="~" p="N"/>
+     <dpg d="w32972" g="w32973" t="s" cr="s:w32973||subj:w32975" w="sequence" l="~" p="N"/>
+     <dpg d="w32973" g="E0" t="i" cr="UNSPECRELTYPE:E5" w="is" l="be" p="VBE"/>
+     <dpg d="E8" g="w32975" t="subj" cr="" w="" l="sequence" p="N"/>
+     <dpg d="E8" g="w32972" t="antecedent" cr="" w="" l="sequence" p="N"/>
+     <dpg d="w32974" g="w32975" t="lex-mod" cr="lex-mod:w32975" w="35" l="~" p="U"/>
+     <dpg d="w32975" g="w32973" t="pred" cr="pred:w32973" w="%" l="35 %" p="N"/>
+     <dpg d="w32976" g="w32975" t="pnmod" cr="pnmod:w32975" w="identical" l="~" p="A"/>
+     <dpg d="w32977" g="w32976" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w32978" g="w32979" t="mod" cr="mod:w32979" w="porcine" l="~" p="A"/>
+     <dpg d="w32979" g="w32977" t="pcomp-n" cr="mod*to*n:w32976" w="Cof" l="~" p="N"/>
+     <dpg d="w32980" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

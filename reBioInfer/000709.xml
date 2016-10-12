@@ -1,0 +1,63 @@
+<rexml>
+<doc id="709">
+  <text>
+<p><s id="s1"><w id="w10884">In</w> <w id="w10885">addition</w> <w id="w10886">to</w> <w id="w10887">its</w> <w id="w10888">presence</w> <w id="w10889">in</w> <w id="w10890">cell-cell</w> <w id="w10891">adhesion</w> <w id="w10892">sites</w> <w id="w10893">,</w> <w id="w10894">we</w> <w id="w10895">have</w> <w id="w10896">found</w> <w id="w10897">beta-catenin</w> <w id="w10898">,</w> <w id="w10899">but</w> <w id="w10900">not</w> <w id="w10901">alpha-catenin</w> <w id="w10902">,</w> <w id="w10903">in</w> <w id="w10904">the</w> <w id="w10905">Z-discs</w> <w id="w10906">of</w> <w id="w10907">heart</w> <w id="w10908">and</w> <w id="w10909">skeletal</w> <w id="w10910">striated</w> <w id="w10911">muscles</w> <w id="w10912">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2551" gid="g2445" t="RELATIONSHIP_TEXTBINDING" fr="w10896" to="w10905">
+     <textspan type="extent">found [..] in [..] Z-discs</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.709.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2552" gid="g2446" t="Individual_protein" fr="w10897" to="w10897" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.709.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2553" gid="g2447" t="RELATIONSHIP_TEXTBINDING" fr="w10900" to="w10900">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.709.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2554" gid="g2448" t="Individual_protein" fr="w10901" to="w10901" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.709.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r977" t="COLOCALIZE" e1="e2552" e2="e2554" re="e2551">
+     <textspan type="extent">found beta-catenin , but not alpha-catenin , in the Z-discs</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.709.0"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

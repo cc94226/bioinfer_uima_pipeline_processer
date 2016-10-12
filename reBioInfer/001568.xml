@@ -1,0 +1,136 @@
+<rexml>
+<doc id="1568">
+  <text>
+<p><s id="s1"><w id="w24895">The</w> <w id="w24896">NH2-terminal</w> <w id="w24897">16kD</w> <w id="w24898">of</w> <w id="w24899">Abp1p</w> <w id="w24900">,</w> <w id="w24901">a</w> <w id="w24902">65-kD</w> <w id="w24903">yeast</w> <w id="w24904">protein</w> <w id="w24905">identified</w> <w id="w24906">by</w> <w id="w24907">its</w> <w id="w24908">ability</w> <w id="w24909">to</w> <w id="w24910">bind</w> <w id="w24911">to</w> <w id="w24912">actin</w> <w id="w24913">filaments</w> <w id="w24914">,</w> <w id="w24915">is</w> <w id="w24916">23</w> <w id="w24917">%</w> <w id="w24918">identical</w> <w id="w24919">to</w> <w id="w24920">yeast</w> <w id="w24921">cofilin</w> <w id="w24922">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5763" gid="g5502" t="Individual_protein" fr="w24899" to="w24899" nam="yes">
+     <textspan type="extent">Abp1p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1568.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5764" gid="g5503" t="RELATIONSHIP_TEXTBINDING" fr="w24910" to="w24911">
+     <textspan type="extent">bind to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1568.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5765" gid="g5504" t="Individual_protein" fr="w24920" to="w24921" nam="yes">
+     <textspan type="extent">yeast cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1568.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5766" gid="g5505" t="RELATIONSHIP_TEXTBINDING" fr="w24918" to="w24919">
+     <textspan type="extent">identical to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1568.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5767" gid="g5506" t="Substructure_of_protein" fr="w24897" to="w24899" nam="yes">
+     <textspan type="extent">16kD of Abp1p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1568.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5768" gid="g5502" t="Individual_protein" fr="w24907" to="w24907" nam="yes">
+     <textspan type="extent">its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1568.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5769" gid="g5507" t="Cell_component" fr="w24912" to="w24913" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1568.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5770" gid="g5508" t="Individual_protein" fr="w24912" to="w24912" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1568.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5771" gid="g5509" t="Individual_protein" fr="w24921" to="w24921" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1568.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2203" t="BIND" e1="e5768" e2="e5769" re="e5764">
+     <textspan type="extent">its ability to bind to actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1568.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2204" t="SQSIMILAR" e1="e5767" e2="e5765" re="e5766">
+     <textspan type="extent">16kD of Abp1p , a 65-kD yeast protein identified by its ability to bind to actin filaments , is 23 % identical to yeast cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1568.3"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Physical-Similarity"/>
+      <exattr n="t4" v="SQSIMILAR"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

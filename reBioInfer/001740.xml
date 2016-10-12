@@ -1,0 +1,87 @@
+<rexml>
+<doc id="1740">
+  <text>
+<p><s id="s1"><w id="w27731">These</w> <w id="w27732">results</w> <w id="w27733">suggest</w> <w id="w27734">that</w> <w id="w27735">cofilin</w> <w id="w27736">may</w> <w id="w27737">be</w> <w id="w27738">involved</w> <w id="w27739">in</w> <w id="w27740">dynamic</w> <w id="w27741">reorganization</w> <w id="w27742">of</w> <w id="w27743">membranous</w> <w id="w27744">actin</w> <w id="w27745">cytoskeletons</w> <w id="w27746">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6390" gid="g6096" t="Individual_protein" fr="w27735" to="w27735" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1740.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6391" gid="g6097" t="RELATIONSHIP_TEXTBINDING" fr="w27738" to="w27739">
+     <textspan type="extent">involved in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1740.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6392" gid="g6098" t="Cell_component" fr="w27744" to="w27745" nam="yes">
+     <textspan type="extent">actin cytoskeletons</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1740.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6393" gid="g6099" t="MODIFICATION" fr="w27741" to="w27745">
+     <textspan type="extent">reorganization of [..] actin cytoskeletons</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1740.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6394" gid="g6100" t="Individual_protein" fr="w27744" to="w27744" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1740.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6395" gid="g6101" t="Individual_protein" fr="w27744" to="w27744" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1740.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2450" t="PARTICIPATE" e1="e6390" e2="e6393" re="e6391">
+     <textspan type="extent">cofilin may be involved in dynamic reorganization of membranous actin cytoskeletons</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1740.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

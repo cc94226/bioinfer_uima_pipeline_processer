@@ -1,0 +1,248 @@
+<rexml>
+<doc id="1686">
+  <text>
+<p><s id="s1"><w id="w26821">These</w> <w id="w26822">data</w> <w id="w26823">strongly</w> <w id="w26824">suggest</w> <w id="w26825">that</w> <w id="w26826">the</w> <w id="w26827">head</w> <w id="w26828">,</w> <w id="w26829">neck</w> <w id="w26830">,</w> <w id="w26831">and</w> <w id="w26832">tail</w> <w id="w26833">domains</w> <w id="w26834">of</w> <w id="w26835">all</w> <w id="w26836">myosin</w> <w id="w26837">heavy</w> <w id="w26838">chains</w> <w id="w26839">,</w> <w id="w26840">and</w> <w id="w26841">light</w> <w id="w26842">chains</w> <w id="w26843">at</w> <w id="w26844">least</w> <w id="w26845">of</w> <w id="w26846">class</w> <w id="w26847">II</w> <w id="w26848">myosins</w> <w id="w26849">,</w> <w id="w26850">have</w> <w id="w26851">coevolved</w> <w id="w26852">and</w> <w id="w26853">are</w> <w id="w26854">likely</w> <w id="w26855">to</w> <w id="w26856">be</w> <w id="w26857">functionally</w> <w id="w26858">interdependent</w> <w id="w26859">,</w> <w id="w26860">consistent</w> <w id="w26861">with</w> <w id="w26862">biochemical</w> <w id="w26863">evidence</w> <w id="w26864">showing</w> <w id="w26865">that</w> <w id="w26866">regulated</w> <w id="w26867">actin</w><w id="w26868">-</w><w id="w26869">dependent</w> <w id="w26870">MgATPase</w> <w id="w26871">activity</w> <w id="w26872">of</w> <w id="w26873">Dictyostelium</w> <w id="w26874">myosin</w> <w id="w26875">II</w> <w id="w26876">requires</w> <w id="w26877">isoform</w> <w id="w26878">specific</w> <w id="w26879">interactions</w> <w id="w26880">between</w> <w id="w26881">the</w> <w id="w26882">heavy</w> <w id="w26883">chain</w> <w id="w26884">head</w> <w id="w26885">and</w> <w id="w26886">tail</w> <w id="w26887">and</w> <w id="w26888">light</w> <w id="w26889">chains</w> <w id="w26890">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6199" gid="g5917" t="RELATIONSHIP_TEXTBINDING" fr="w26869" to="w26869">
+     <textspan type="extent">dependent</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1686.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6200" gid="g5918" t="Individual_protein" fr="w26870" to="w26870" nam="yes">
+     <textspan type="extent">MgATPase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1686.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6201" gid="g5919" t="Individual_protein" fr="w26867" to="w26867" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1686.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6202" gid="g5920" t="RELATIONSHIP_TEXTBINDING" fr="w26858" to="w26858">
+     <textspan type="extent">interdependent</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1686.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6203" gid="g5921" t="Substructure_of_protein" fr="w26833" to="w26838" nam="yes">
+     <textspan type="extent">domains of [..] myosin heavy chains</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1686.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6204" gid="g5922" t="RELATIONSHIP_TEXTBINDING" fr="w26871" to="w26872">
+     <textspan type="extent">activity of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1686.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6205" gid="g5921" t="Substructure_of_protein" fr="w26884" to="w26884" nam="yes">
+     <textspan type="extent">head</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1686.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6206" gid="g5923" t="Dynamics_property" fr="w26871" to="w26875">
+     <textspan type="extent">activity of Dictyostelium myosin II</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.1686.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6207" gid="g5924" t="Individual_protein" fr="w26889" to="w26889" nam="yes">
+     <textspan type="extent">chains</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1686.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6208" gid="g5921" t="Substructure_of_protein" fr="w26886" to="w26886" nam="yes">
+     <textspan type="extent">tail</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1686.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6209" gid="g5925" t="RELATIONSHIP_TEXTBINDING" fr="w26876" to="w26876">
+     <textspan type="extent">requires</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1686.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e6210" gid="g5924" t="Individual_protein" fr="w26842" to="w26848" nam="yes">
+     <textspan type="extent">chains [..] of class II myosins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1686.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e6211" gid="g5926" t="Protein_family_or_group" fr="w26846" to="w26848" nam="yes">
+     <textspan type="extent">class II myosins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1686.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e6212" gid="g5927" t="RELATIONSHIP_TEXTBINDING" fr="w26879" to="w26880">
+     <textspan type="extent">interactions between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1686.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e6213" gid="g5928" t="Individual_protein" fr="w26874" to="w26875" nam="yes">
+     <textspan type="extent">myosin II</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1686.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e6214" gid="g5929" t="Protein_family_or_group" fr="w26836" to="w26838" nam="yes">
+     <textspan type="extent">myosin heavy chains</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1686.15"/>
+     </exattrs>
+    </ne>
+    <ne id="e6215" gid="g5930" t="Individual_protein" fr="w26873" to="w26875" nam="yes">
+     <textspan type="extent">Dictyostelium myosin II</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1686.16"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2377" t="MUTUALCONDITION" e1="e6210" e2="e6203" re="e6202">
+     <textspan type="extent">domains of all myosin heavy chains , and light chains at least of class II myosins , have coevolved and are likely to be functionally interdependent</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1686.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="MUTUALCONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2378" t="CONDITION" e1="e6201" e2="e6206" re="e6199">
+     <textspan type="extent">actin - dependent MgATPase activity of Dictyostelium myosin II</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1686.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2379" t="FNSIMILAR" e1="e6215" e2="e6200" re="e6204">
+     <textspan type="extent">MgATPase activity of Dictyostelium myosin II</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1686.5"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Functional-Similarity"/>
+      <exattr n="t4" v="FNSIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r2383" t="CONDITION" e1="e6212" e2="e6206" re="e6209">
+     <textspan type="extent">activity of Dictyostelium myosin II requires isoform specific interactions between the heavy chain head and tail and light chains</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1686.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2384" t="INTERACT" e1="e6205" e2="e6208,e6207" re="e6212">
+     <textspan type="extent">interactions between the heavy chain head and tail and light chains</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1686.13"/>
+      <exattr n="arg" v="e6205"/>
+      <exattr n="arg" v="e6208"/>
+      <exattr n="arg" v="e6207"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

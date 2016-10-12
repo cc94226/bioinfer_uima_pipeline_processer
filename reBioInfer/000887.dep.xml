@@ -1,0 +1,52 @@
+<rexml>
+<doc id="887">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w13946" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="Introduction" l="~" p="N"/>
+     <dpg d="w13947" g="w13946" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w13948" g="w13949" t="mod" cr="mod:w13949" w="high" l="~" p="A"/>
+     <dpg d="w13949" g="w13947" t="pcomp-n" cr="mod*of*n:w13946" w="concentrations" l="concentration" p="N"/>
+     <dpg d="w13950" g="w13949" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w13951" g="w13950" t="pcomp-n" cr="mod*of*n:w13949" w="profilin" l="~" p="N"/>
+     <dpg d="w13952" g="E2" t="punc" cr="punc:E2" w="(" l="~" p="U"/>
+     <dpg d="w13953" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="estimated" l="~" p="A"/>
+     <dpg d="w13954" g="E2" t="punc" cr="punc:E2" w="injected" l="~" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13955" g="w13958" t="mod" cr="mod:w13958" w="intracellular" l="~" p="A"/>
+     <dpg d="w13956" g="w13958" t="nn" cr="nn:w13958" w="concentration" l="~" p="N"/>
+     <dpg d="w13957" g="w13958" t="nn" cr="nn:w13958" w="11-22" l="11-22" p="N"/>
+     <dpg d="w13958" g="w13964" t="s" cr="s+subj:w13964" w="microM" l="~" p="N"/>
+     <dpg d="w13959" g="w13958" t="punc" cr="punc:w13958" w=")" l="~" p="U"/>
+     <dpg d="w13960" g="w13958" t="mod" cr="" w="into" l="~" p="Prep"/>
+     <dpg d="w13961" g="w13963" t="mod" cr="mod:w13963" w="infected" l="~" p="A"/>
+     <dpg d="w13962" g="w13963" t="nn" cr="nn:w13963" w="PtK2" l="~" p="N"/>
+     <dpg d="w13963" g="w13960" t="pcomp-n" cr="mod*into*n:w13958" w="cells" l="cell" p="N"/>
+     <dpg d="w13964" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="causes" l="cause" p="V"/>
+     <dpg d="E3" g="w13964" t="subj" cr="" w="" l="microM" p="N"/>
+     <dpg d="E3" g="w13958" t="antecedent" cr="" w="" l="microM" p="N"/>
+     <dpg d="w13965" g="w13967" t="det" cr="det:w13967" w="a" l="~" p="Det"/>
+     <dpg d="w13966" g="w13967" t="mod" cr="mod:w13967" w="marked" l="~" p="A"/>
+     <dpg d="w13967" g="w13964" t="obj1" cr="obj1:w13964" w="slowing" l="~" p="N"/>
+     <dpg d="w13968" g="w13967" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w13969" g="w13970" t="nn" cr="nn:w13970" w="actin" l="~" p="N"/>
+     <dpg d="w13970" g="w13968" t="pcomp-n" cr="mod*of*n:w13967" w="tail" l="~" p="N"/>
+     <dpg d="w13971" g="w13964" t="obj2" cr="obj2:w13964" w="elongation" l="~" p="N"/>
+     <dpg d="w13972" g="w13971" t="punc" cr="punc:w13971" w="and" l="~" p="U"/>
+     <dpg d="w13973" g="w13974" t="mod" cr="mod:w13974" w="bacterial" l="~" p="A"/>
+     <dpg d="w13974" g="w13971" t="conj" cr="conj:w13971" w="migration" l="~" p="N"/>
+     <dpg d="w13975" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

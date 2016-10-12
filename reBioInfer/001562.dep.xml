@@ -1,0 +1,60 @@
+<rexml>
+<doc id="1562">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24738" g="w24741" t="det" cr="det:w24741" w="The" l="~" p="Det"/>
+     <dpg d="w24739" g="w24741" t="mod" cr="mod:w24741" w="multifunctional" l="~" p="A"/>
+     <dpg d="w24740" g="w24741" t="nn" cr="nn:w24741" w="protein" l="~" p="N"/>
+     <dpg d="w24741" g="w24742" t="s" cr="s:w24742||subj:w24743||subj:w24754" w="profilin" l="~" p="N"/>
+     <dpg d="w24742" g="E2" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="w24743" g="w24742" t="pred" cr="pred:w24742" w="one" l="~" p="N"/>
+     <dpg d="E6" g="w24743" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E6" g="w24741" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w24744" g="w24743" t="comp1" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w24745" g="w24748" t="det" cr="det:w24748" w="the" l="~" p="Det"/>
+     <dpg d="w24746" g="w24747" t="mod" cr="mod:w24747" w="most" l="~" p="A"/>
+     <dpg d="w24747" g="w24748" t="mod" cr="mod:w24748" w="abundant" l="~" p="A"/>
+     <dpg d="w24748" g="w24744" t="pcomp-n" cr="comp1*of*n:w24743" w="proteins" l="protein" p="N"/>
+     <dpg d="w24749" g="w24748" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w24750" g="w24751" t="det" cr="det:w24751" w="the" l="~" p="Det"/>
+     <dpg d="w24751" g="w24749" t="pcomp-n" cr="mod*in*n:w24748" w="cytoplasm" l="~" p="N"/>
+     <dpg d="w24752" g="w24742" t="punc" cr="punc:w24742" w="and" l="~" p="U"/>
+     <dpg d="w24753" g="w24742" t="conj" cr="conj:w24742" w="is" l="be" p="VBE"/>
+     <dpg d="w24754" g="w24753" t="pred" cr="pred:w24753||s+subj:w24756" w="thought" l="~" p="N"/>
+     <dpg d="E7" g="w24754" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E7" g="w24741" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E1" g="w24754" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w24754" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w24755" g="w24756" t="aux" cr="aux:w24756" w="to" l="~" p="Aux"/>
+     <dpg d="w24756" g="E1" t="i" cr="rel:w24754" w="regulate" l="~" p="V"/>
+     <dpg d="E8" g="w24756" t="subj" cr="" w="" l="thought" p="N"/>
+     <dpg d="E8" g="E4" t="antecedent" cr="" w="" l="thought" p="N"/>
+     <dpg d="w24757" g="w24758" t="nn" cr="nn:w24758" w="actin" l="~" p="N"/>
+     <dpg d="w24758" g="w24756" t="obj" cr="obj:w24756" w="assembly" l="~" p="N"/>
+     <dpg d="w24759" g="w24758" t="punc" cr="punc:w24758" w="and" l="~" p="U"/>
+     <dpg d="w24760" g="w24761" t="det" cr="det:w24761" w="the" l="~" p="Det"/>
+     <dpg d="w24761" g="w24758" t="conj" cr="conj:w24758||s+subj:w24762" w="phosphoinositide" l="~" p="N"/>
+     <dpg d="E0" g="w24761" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w24761" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w24762" g="E0" t="i" cr="rel:w24761" w="signaling" l="signal" p="V"/>
+     <dpg d="E9" g="w24762" t="subj" cr="" w="" l="phosphoinositide" p="N"/>
+     <dpg d="E9" g="E3" t="antecedent" cr="" w="" l="phosphoinositide" p="N"/>
+     <dpg d="w24763" g="w24762" t="obj" cr="obj:w24762" w="pathway" l="~" p="N"/>
+     <dpg d="w24764" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

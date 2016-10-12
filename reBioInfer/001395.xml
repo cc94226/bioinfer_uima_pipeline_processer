@@ -1,0 +1,232 @@
+<rexml>
+<doc id="1395">
+  <text>
+<p><s id="s1"><w id="w21802">The</w> <w id="w21803">binding</w> <w id="w21804">of</w> <w id="w21805">125I-labeled</w> <w id="w21806">recombinant</w> <w id="w21807">birch</w> <w id="w21808">pollen</w> <w id="w21809">profilin</w> <w id="w21810">to</w> <w id="w21811">plant</w> <w id="w21812">and</w> <w id="w21813">animal</w> <w id="w21814">actins</w> <w id="w21815">can</w> <w id="w21816">be</w> <w id="w21817">blocked</w> <w id="w21818">by</w> <w id="w21819">profilin</w><w id="w21820">-specific</w> <w id="w21821">antibodies</w> <w id="w21822">that</w> <w id="w21823">react</w> <w id="w21824">with</w> <w id="w21825">different</w> <w id="w21826">epitopes</w> <w id="w21827">of</w> <w id="w21828">birch</w> <w id="w21829">profilin</w> <w id="w21830">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5074" gid="g4845" t="RELATIONSHIP_TEXTBINDING" fr="w21803" to="w21810">
+     <textspan type="extent">binding of [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1395.0"/>
+      <exattr n="nst" v="st.1395.1.0"/>
+      <exattr n="nst" v="st.1395.2.0"/>
+      <exattr n="nst" v="st.1395.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5075" gid="g4846" t="Individual_protein" fr="w21807" to="w21809" nam="yes">
+     <textspan type="extent">birch pollen profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1395.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5076" gid="g4847" t="Individual_protein" fr="w21813" to="w21814" nam="yes">
+     <textspan type="extent">animal actins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1395.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5077" gid="g4848" t="Individual_protein" fr="w21811" to="w21814" nam="yes">
+     <textspan type="extent">plant [..] actins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1395.3"/>
+      <exattr n="nst" v="st.1395.9.0"/>
+      <exattr n="nst" v="st.1395.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5078" gid="g4849" t="Substructure_of_protein" fr="w21826" to="w21829" nam="yes">
+     <textspan type="extent">epitopes of birch profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1395.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5079" gid="g4850" t="Antibody" fr="w21819" to="w21821" nam="yes">
+     <textspan type="extent">profilin-specific antibodies</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Antibody"/>
+      <exattr n="bd" v="e.1395.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5080" gid="g4851" t="Individual_protein" fr="w21828" to="w21829" nam="yes">
+     <textspan type="extent">birch profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1395.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5081" gid="g4852" t="RELATIONSHIP_TEXTBINDING" fr="w21817" to="w21818">
+     <textspan type="extent">blocked by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1395.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5082" gid="g4853" t="Individual_protein" fr="w21809" to="w21809" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1395.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e5083" gid="g4854" t="RELATIONSHIP_TEXTBINDING" fr="w21823" to="w21824">
+     <textspan type="extent">react with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1395.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e5084" gid="g4855" t="Individual_protein" fr="w21814" to="w21814" nam="yes">
+     <textspan type="extent">actins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1395.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e5085" gid="g4856" t="Individual_protein" fr="w21814" to="w21814" nam="yes">
+     <textspan type="extent">actins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1395.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e5086" gid="g4857" t="Individual_protein" fr="w21829" to="w21829" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1395.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e5087" gid="g4858" t="Individual_protein" fr="w21819" to="w21819" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1395.13"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1939" t="INTERACT" e1="e5079" e2="e5078" re="e5083">
+     <textspan type="extent">profilin -specific antibodies that react with different epitopes of birch profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1395.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1940" t="PREVENT" e1="e5079" e2="e5074" re="e5081">
+     <textspan type="extent">binding of 125I-labeled recombinant birch pollen profilin to plant and animal actins can be blocked by profilin -specific antibodies</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1395.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="PREVENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1941" t="BIND" e1="e5075" e2="e5077" re="e5074">
+     <textspan type="extent">binding of 125I-labeled recombinant birch pollen profilin to plant and animal actins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1395.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1942" t="PREVENT" e1="e5079" e2="e5074" re="e5081">
+     <textspan type="extent">binding of 125I-labeled recombinant birch pollen profilin to plant and animal actins can be blocked by profilin -specific antibodies</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1395.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="PREVENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1943" t="BIND" e1="e5075" e2="e5076" re="e5074">
+     <textspan type="extent">binding of 125I-labeled recombinant birch pollen profilin to plant and animal actins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1395.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

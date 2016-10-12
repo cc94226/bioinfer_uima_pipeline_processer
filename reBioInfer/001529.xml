@@ -1,0 +1,121 @@
+<rexml>
+<doc id="1529">
+  <text>
+<p><s id="s1"><w id="w24100">The</w> <w id="w24101">interactions</w> <w id="w24102">of</w> <w id="w24103">yeast</w> <w id="w24104">and</w> <w id="w24105">human</w> <w id="w24106">platelet</w> <w id="w24107">profilins</w> <w id="w24108">with</w> <w id="w24109">rabbit</w> <w id="w24110">skeletal</w> <w id="w24111">muscle</w> <w id="w24112">actin</w> <w id="w24113">were</w> <w id="w24114">characterized</w> <w id="w24115">by</w> <w id="w24116">titration</w> <w id="w24117">microcalorimetry</w> <w id="w24118">,</w> <w id="w24119">fluorescence</w> <w id="w24120">titrations</w> <w id="w24121">,</w> <w id="w24122">and</w> <w id="w24123">nucleotide</w> <w id="w24124">exchange</w> <w id="w24125">kinetics</w> <w id="w24126">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5597" gid="g5344" t="RELATIONSHIP_TEXTBINDING" fr="w24101" to="w24108">
+     <textspan type="extent">interactions of [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1529.0"/>
+      <exattr n="nst" v="st.1529.1.0"/>
+      <exattr n="nst" v="st.1529.2.0"/>
+      <exattr n="nst" v="st.1529.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5598" gid="g5345" t="Individual_protein" fr="w24103" to="w24107" nam="yes">
+     <textspan type="extent">yeast [..] profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1529.1"/>
+      <exattr n="nst" v="st.1529.3.0"/>
+      <exattr n="nst" v="st.1529.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5599" gid="g5346" t="Individual_protein" fr="w24109" to="w24112" nam="yes">
+     <textspan type="extent">rabbit skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1529.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5600" gid="g5347" t="Individual_protein" fr="w24107" to="w24107" nam="yes">
+     <textspan type="extent">profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1529.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5601" gid="g5348" t="Individual_protein" fr="w24110" to="w24112" nam="yes">
+     <textspan type="extent">skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1529.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5602" gid="g5349" t="Individual_protein" fr="w24105" to="w24107" nam="yes">
+     <textspan type="extent">human platelet profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1529.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5603" gid="g5350" t="Individual_protein" fr="w24106" to="w24107" nam="yes">
+     <textspan type="extent">platelet profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1529.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2143" t="INTERACT" e1="e5598" e2="e5599" re="e5597">
+     <textspan type="extent">interactions of yeast and human platelet profilins with rabbit skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1529.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2144" t="INTERACT" e1="e5602" e2="e5599" re="e5597">
+     <textspan type="extent">interactions of yeast and human platelet profilins with rabbit skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1529.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

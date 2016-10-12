@@ -1,0 +1,249 @@
+<rexml>
+<doc id="619">
+  <text>
+<p><s id="s1"><w id="w9162">However</w> <w id="w9163">,</w> <w id="w9164">although</w> <w id="w9165">expression</w> <w id="w9166">of</w> <w id="w9167">Ras</w> <w id="w9168">alone</w> <w id="w9169">will</w> <w id="w9170">not</w> <w id="w9171">induce</w> <w id="w9172">G1</w> <w id="w9173">CDK</w> <w id="w9174">activity</w> <w id="w9175">or</w> <w id="w9176">S</w> <w id="w9177">phase</w> <w id="w9178">,</w> <w id="w9179">coexpression</w> <w id="w9180">of</w> <w id="w9181">Ras</w> <w id="w9182">with</w> <w id="w9183">Myc</w> <w id="w9184">allows</w> <w id="w9185">the</w> <w id="w9186">generation</w> <w id="w9187">of</w> <w id="w9188">cyclin</w> <w id="w9189">E-dependent</w> <w id="w9190">kinase</w> <w id="w9191">activity</w> <w id="w9192">and</w> <w id="w9193">the</w> <w id="w9194">induction</w> <w id="w9195">of</w> <w id="w9196">S</w> <w id="w9197">phase</w> <w id="w9198">,</w> <w id="w9199">coincident</w> <w id="w9200">with</w> <w id="w9201">the</w> <w id="w9202">loss</w> <w id="w9203">of</w> <w id="w9204">the</w> <w id="w9205">p27</w> <w id="w9206">cyclin-dependent</w> <w id="w9207">kinase</w> <w id="w9208">inhibitor</w> <w id="w9209">(</w> <w id="w9210">CKI</w> <w id="w9211">)</w> <w id="w9212">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2189" gid="g2097" t="Expression" fr="w9165" to="w9167">
+     <textspan type="extent">expression of Ras</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.619.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2190" gid="g2098" t="RELATIONSHIP_TEXTBINDING" fr="w9171" to="w9171">
+     <textspan type="extent">induce</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.619.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2191" gid="g2099" t="Individual_protein" fr="w9181" to="w9181" nam="yes">
+     <textspan type="extent">Ras</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.619.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2192" gid="g2100" t="Dynamics_property" fr="w9173" to="w9174">
+     <textspan type="extent">CDK activity</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.619.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2193" gid="g2101" t="Protein_family_or_group" fr="w9210" to="w9210" nam="yes">
+     <textspan type="extent">CKI</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.619.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2194" gid="g2102" t="Individual_protein" fr="w9183" to="w9183" nam="yes">
+     <textspan type="extent">Myc</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.619.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2195" gid="g2101" t="Protein_family_or_group" fr="w9206" to="w9208" nam="yes">
+     <textspan type="extent">cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.619.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2196" gid="g2103" t="Individual_protein" fr="w9205" to="w9205" nam="yes">
+     <textspan type="extent">p27</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.619.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2197" gid="g2104" t="Dynamics_property" fr="w9188" to="w9191">
+     <textspan type="extent">cyclin E-dependent kinase activity</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.619.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e2198" gid="g2105" t="DECREASE" fr="w9202" to="w9205">
+     <textspan type="extent">loss of [..] p27</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="DECREASE"/>
+      <exattr n="bd" v="e.619.9"/>
+      <exattr n="nst" v="st.619.40.0"/>
+      <exattr n="nst" v="st.619.41.0"/>
+      <exattr n="nst" v="st.619.43.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2199" gid="g2106" t="RELATIONSHIP_TEXTBINDING" fr="w9170" to="w9170">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.619.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e2200" gid="g2107" t="ACTIVATION" fr="w9186" to="w9191">
+     <textspan type="extent">generation of cyclin E-dependent kinase activity</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="ACTIVATION"/>
+      <exattr n="bd" v="e.619.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e2201" gid="g2108" t="Individual_protein" fr="w9188" to="w9190" nam="yes">
+     <textspan type="extent">cyclin E-dependent kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.619.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e2202" gid="g2109" t="RELATIONSHIP_TEXTBINDING" fr="w9199" to="w9200">
+     <textspan type="extent">coincident with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.619.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e2203" gid="g2110" t="Individual_protein" fr="w9173" to="w9173" nam="yes">
+     <textspan type="extent">CDK</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.619.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e2204" gid="g2111" t="RELATIONSHIP_TEXTBINDING" fr="w9184" to="w9184">
+     <textspan type="extent">allows</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.619.15"/>
+     </exattrs>
+    </ne>
+    <ne id="e2205" gid="g2112" t="RELATIONSHIP_TEXTBINDING" fr="w9179" to="w9182">
+     <textspan type="extent">coexpression of [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.619.16"/>
+      <exattr n="nst" v="st.619.17.0"/>
+      <exattr n="nst" v="st.619.18.0"/>
+      <exattr n="nst" v="st.619.20.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2206" gid="g2113" t="Individual_protein" fr="w9167" to="w9167" nam="yes">
+     <textspan type="extent">Ras</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.619.17"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r859" t="INITIATE" e1="e2189" e2="e2192" re="e2190">
+     <textspan type="extent">expression of Ras alone will not induce G1 CDK activity</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.619.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r860" t="CAUSE" e1="e2205" e2="e2200" re="e2204">
+     <textspan type="extent">coexpression of Ras with Myc allows the generation of cyclin E-dependent kinase activity</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.619.15"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r861" t="COEXPRESS" e1="e2191" e2="e2194" re="e2205">
+     <textspan type="extent">coexpression of Ras with Myc</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.619.16"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Temporal"/>
+      <exattr n="t3" v="COEXPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r863" t="MEMBER" e1="e2195" e2="e2196" re="">
+     <textspan type="extent">p27 cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r864" t="COOCCUR" e1="e2200" e2="e2198" re="e2202">
+     <textspan type="extent">generation of cyclin E-dependent kinase activity and the induction of S phase , coincident with the loss of the p27</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.619.13"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Temporal"/>
+      <exattr n="t3" v="COOCCUR"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

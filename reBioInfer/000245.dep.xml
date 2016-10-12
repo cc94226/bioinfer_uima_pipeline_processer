@@ -1,0 +1,54 @@
+<rexml>
+<doc id="245">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3749" g="w3753" t="s" cr="s:w3753||subj:w3757" w="Neuropilin-1" l="Neuropilin-1" p="N"/>
+     <dpg d="w3750" g="w3751" t="punc" cr="punc:w3751" w="(" l="~" p="U"/>
+     <dpg d="w3751" g="w3749" t="abbrev" cr="abbrev:w3749" w="NRP1" l="~" p="N"/>
+     <dpg d="w3752" g="w3751" t="punc" cr="punc:w3751" w=")" l="~" p="U"/>
+     <dpg d="w3753" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="is" l="be" p="VBE"/>
+     <dpg d="E3" g="w3757" t="subj" cr="" w="" l="Neuropilin-1" p="N"/>
+     <dpg d="E3" g="w3749" t="antecedent" cr="" w="" l="Neuropilin-1" p="N"/>
+     <dpg d="w3754" g="w3757" t="det" cr="det:w3757" w="a" l="~" p="Det"/>
+     <dpg d="w3755" g="w3757" t="mod" cr="mod:w3757" w="130-kDa" l="130-kDa" p="A"/>
+     <dpg d="w3756" g="w3757" t="nn" cr="nn:w3757" w="transmembrane" l="~" p="N"/>
+     <dpg d="w3757" g="w3753" t="pred" cr="pred:w3753" w="receptor" l="~" p="N"/>
+     <dpg d="w3758" g="w3757" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w3759" g="w3758" t="pcomp-n" cr="mod*for*n:w3757" w="semaphorins" l="~" p="N"/>
+     <dpg d="w3760" g="w3757" t="punc" cr="punc:w3757" w="," l="~" p="U"/>
+     <dpg d="w3761" g="w3757" t="appo" cr="appo:w3757" w="mediators" l="mediator" p="N"/>
+     <dpg d="w3762" g="w3761" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3763" g="w3764" t="mod" cr="mod:w3764" w="neuronal" l="~" p="A"/>
+     <dpg d="w3764" g="w3762" t="pcomp-n" cr="mod*of*n:w3761" w="guidance" l="~" p="N"/>
+     <dpg d="w3765" g="w3762" t="punc" cr="punc:w3762" w="," l="~" p="U"/>
+     <dpg d="w3766" g="w3762" t="punc" cr="punc:w3762" w="and" l="~" p="U"/>
+     <dpg d="w3767" g="w3762" t="conj" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w3768" g="w3771" t="mod" cr="mod:w3771" w="vascular" l="~" p="A"/>
+     <dpg d="w3769" g="w3771" t="mod" cr="mod:w3771" w="endothelial" l="~" p="A"/>
+     <dpg d="w3770" g="w3771" t="nn" cr="nn:w3771" w="growth" l="~" p="N"/>
+     <dpg d="w3771" g="w3767" t="pcomp-n" cr="mod*for*n:w3761" w="factor" l="~" p="N"/>
+     <dpg d="w3772" g="w3771" t="num" cr="num:w3771" w="165" l="~" p="N"/>
+     <dpg d="w3773" g="w3771" t="punc" cr="punc:w3771" w="(" l="~" p="U"/>
+     <dpg d="w3774" g="E2" t="punc" cr="punc:E2" w="VEGF(165)" l="~" p="U"/>
+     <dpg d="w3775" g="E2" t="punc" cr="punc:E2" w=")" l="~" p="U"/>
+     <dpg d="w3776" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w3777" g="w3779" t="det" cr="det:w3779" w="an" l="~" p="Det"/>
+     <dpg d="w3778" g="w3779" t="nn" cr="nn:w3779" w="angiogenesis" l="~" p="N"/>
+     <dpg d="w3779" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="factor" l="~" p="N"/>
+     <dpg d="w3780" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,43 @@
+<rexml>
+<doc id="283">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4394" g="w4395" t="s" cr="s:w4395||subj:w4396" w="Cadherins" l="~" p="N"/>
+     <dpg d="w4395" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="are" l="be" p="VBE"/>
+     <dpg d="w4396" g="w4395" t="pred" cr="pred:w4395" w="essential" l="~" p="N"/>
+     <dpg d="E4" g="w4396" t="subj" cr="" w="" l="Cadherins" p="N"/>
+     <dpg d="E4" g="w4394" t="antecedent" cr="" w="" l="Cadherins" p="N"/>
+     <dpg d="w4397" g="w4396" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w4398" g="w4399" t="mod" cr="mod:w4399" w="embryonic" l="~" p="A"/>
+     <dpg d="w4399" g="w4397" t="pcomp-n" cr="mod*for*n:w4396" w="morphogenesis" l="~" p="N"/>
+     <dpg d="w4400" g="w4395" t="mod" cr="mod:w4395" w="since" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w4400" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4401" g="w4402" t="s" cr="s+subj:w4402" w="they" l="~" p="N"/>
+     <dpg d="w4402" g="E0" t="i" cr="comp1:w4400" w="mediate" l="~" p="V"/>
+     <dpg d="E5" g="w4402" t="subj" cr="" w="" l="they" p="N"/>
+     <dpg d="E5" g="w4401" t="antecedent" cr="" w="" l="they" p="N"/>
+     <dpg d="w4403" g="w4405" t="mod" cr="mod:w4405" w="calcium-dependent" l="calcium-dependent" p="A"/>
+     <dpg d="w4404" g="w4405" t="mod" cr="mod:w4405" w="cell-cell" l="cell-cell" p="A"/>
+     <dpg d="w4405" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="adhesion" l="~" p="N"/>
+     <dpg d="w4406" g="E3" t="punc" cr="punc:E3" w="and" l="~" p="U"/>
+     <dpg d="w4407" g="E3" t="punc" cr="punc:E3" w="can" l="~" p="U"/>
+     <dpg d="w4408" g="E3" t="punc" cr="punc:E3" w="modulate" l="~" p="U"/>
+     <dpg d="w4409" g="w4410" t="mod" cr="mod:w4410" w="beta-catenin" l="beta-catenin" p="A"/>
+     <dpg d="w4410" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="signaling" l="~" p="N"/>
+     <dpg d="w4411" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

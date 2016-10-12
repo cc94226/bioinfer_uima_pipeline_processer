@@ -1,0 +1,142 @@
+<rexml>
+<doc id="641">
+  <text>
+<p><s id="s1"><w id="w9668">However</w> <w id="w9669">,</w> <w id="w9670">these</w> <w id="w9671">rod</w> <w id="w9672">structures</w> <w id="w9673">were</w> <w id="w9674">not</w> <w id="w9675">observed</w> <w id="w9676">in</w> <w id="w9677">response</w> <w id="w9678">to</w> <w id="w9679">TSH</w> <w id="w9680">,</w> <w id="w9681">forskolin</w> <w id="w9682">,</w> <w id="w9683">or</w> <w id="w9684">TPA</w> <w id="w9685">,</w> <w id="w9686">suggesting</w> <w id="w9687">that</w> <w id="w9688">dephosphorylation</w> <w id="w9689">of</w> <w id="w9690">cofilin</w> <w id="w9691">correlates</w> <w id="w9692">with</w> <w id="w9693">the</w> <w id="w9694">reorganization</w> <w id="w9695">of</w> <w id="w9696">actin</w> <w id="w9697">microfilaments</w> <w id="w9698">but</w> <w id="w9699">not</w> <w id="w9700">with</w> <w id="w9701">the</w> <w id="w9702">nuclear</w> <w id="w9703">transport</w> <w id="w9704">of</w> <w id="w9705">cofilin</w> <w id="w9706">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2286" gid="g2188" t="Gene/protein/RNA" fr="w9679" to="w9679" nam="yes">
+     <textspan type="extent">TSH</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.641.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2287" gid="g2189" t="RELATIONSHIP_TEXTBINDING" fr="w9691" to="w9692">
+     <textspan type="extent">correlates with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.641.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2288" gid="g2190" t="DEPHOSPHORYLATION" fr="w9688" to="w9690">
+     <textspan type="extent">dephosphorylation of cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="DEPHOSPHORYLATION"/>
+      <exattr n="bd" v="e.641.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2289" gid="g2191" t="RELATIONSHIP_TEXTBINDING" fr="w9691" to="w9700">
+     <textspan type="extent">correlates [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.641.3"/>
+      <exattr n="nst" v="st.641.23.0"/>
+      <exattr n="nst" v="st.641.32.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2290" gid="g2192" t="LOCALIZATION" fr="w9703" to="w9705">
+     <textspan type="extent">transport of cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.641.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2291" gid="g2193" t="MODIFICATION" fr="w9694" to="w9697">
+     <textspan type="extent">reorganization of actin microfilaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.641.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2292" gid="g2194" t="RELATIONSHIP_TEXTBINDING" fr="w9699" to="w9699">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.641.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2293" gid="g2195" t="Cell_component" fr="w9696" to="w9697" nam="yes">
+     <textspan type="extent">actin microfilaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.641.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2294" gid="g2196" t="Individual_protein" fr="w9696" to="w9696" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.641.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e2295" gid="g2197" t="Individual_protein" fr="w9690" to="w9690" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.641.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e2296" gid="g2198" t="Individual_protein" fr="w9705" to="w9705" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.641.10"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r888" t="CORELATE" e1="e2288" e2="e2291" re="e2287">
+     <textspan type="extent">dephosphorylation of cofilin correlates with the reorganization of actin microfilaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.641.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r890" t="CORELATE" e1="e2288" e2="e2290" re="e2289">
+     <textspan type="extent">dephosphorylation of cofilin correlates with the reorganization of actin microfilaments but not with the nuclear transport of cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.641.3"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

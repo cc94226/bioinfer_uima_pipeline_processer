@@ -1,0 +1,54 @@
+<rexml>
+<doc id="2209">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="E0" g="E1" t="mod" cr="" w="" l="fin" p="C"/>
+     <dpg d="w34084" g="E0" t="wha" cr="wha:w34086" w="When" l="~" p="A"/>
+     <dpg d="w34085" g="w34086" t="s" cr="s:w34086||subj:w34087" w="ZmPRO4" l="~" p="N"/>
+     <dpg d="w34086" g="E0" t="i" cr="mod:w34099" w="was" l="be" p="VBE"/>
+     <dpg d="w34087" g="w34086" t="pred" cr="pred:w34086" w="microinjected" l="~" p="A"/>
+     <dpg d="E4" g="w34087" t="subj" cr="" w="" l="ZmPRO4" p="N"/>
+     <dpg d="E4" g="w34085" t="antecedent" cr="" w="" l="ZmPRO4" p="N"/>
+     <dpg d="w34088" g="w34087" t="mod" cr="" w="into" l="~" p="Prep"/>
+     <dpg d="w34089" g="w34090" t="nn" cr="nn:w34090" w="plant" l="~" p="N"/>
+     <dpg d="w34090" g="w34088" t="pcomp-n" cr="mod*into*n:w34087" w="cells" l="cell" p="N"/>
+     <dpg d="w34091" g="E1" t="punc" cr="punc:w34099" w="," l="~" p="U"/>
+     <dpg d="w34092" g="w34093" t="det" cr="det:w34093" w="the" l="~" p="Det"/>
+     <dpg d="w34093" g="w34099" t="s" cr="s:w34099||subj:w34102" w="effect" l="~" p="N"/>
+     <dpg d="w34094" g="w34093" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w34095" g="w34096" t="lex-mod" cr="lex-mod:w34096" w="actin" l="~" p="U"/>
+     <dpg d="w34096" g="w34098" t="nn" cr="nn:w34098" w="-dependent" l="actin -dependent" p="N"/>
+     <dpg d="w34097" g="w34098" t="mod" cr="mod:w34098" w="nuclear" l="~" p="A"/>
+     <dpg d="w34098" g="w34094" t="pcomp-n" cr="mod*on*n:w34093" w="position" l="~" p="N"/>
+     <dpg d="w34099" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="was" l="be" p="VBE"/>
+     <dpg d="E5" g="w34102" t="subj" cr="" w="" l="effect" p="N"/>
+     <dpg d="E5" g="w34093" t="antecedent" cr="" w="" l="effect" p="N"/>
+     <dpg d="w34100" g="w34101" t="mod" cr="mod:w34101" w="significantly" l="~" p="A"/>
+     <dpg d="w34101" g="w34102" t="mod" cr="mod:w34102" w="more" l="~" p="A"/>
+     <dpg d="w34102" g="w34099" t="pred" cr="pred:w34099" w="rapid" l="~" p="A"/>
+     <dpg d="w34103" g="w34102" t="mod" cr="" w="than" l="~" p="Prep"/>
+     <dpg d="w34104" g="w34103" t="pcomp-n" cr="mod*than*n:w34102" w="that" l="~" p="N"/>
+     <dpg d="w34105" g="w34099" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34106" g="w34109" t="det" cr="det:w34109" w="another" l="~" p="Det"/>
+     <dpg d="w34107" g="w34109" t="nn" cr="nn:w34109" w="pollen" l="~" p="N"/>
+     <dpg d="w34108" g="w34109" t="nn" cr="nn:w34109" w="profilin" l="~" p="N"/>
+     <dpg d="w34109" g="w34105" t="pcomp-n" cr="mod*of*n:w34099" w="isoform" l="~" p="N"/>
+     <dpg d="w34110" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w34111" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="ZmPRO1" l="~" p="N"/>
+     <dpg d="w34112" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

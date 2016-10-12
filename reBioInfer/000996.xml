@@ -1,0 +1,265 @@
+<rexml>
+<doc id="996">
+  <text>
+<p><s id="s1"><w id="w15806">Moreover</w> <w id="w15807">,</w> <w id="w15808">ectopic</w> <w id="w15809">expression</w> <w id="w15810">of</w> <w id="w15811">cyclin</w> <w id="w15812">D1</w> <w id="w15813">and</w> <w id="w15814">Cdk4</w> <w id="w15815">can</w> <w id="w15816">stimulate</w> <w id="w15817">the</w> <w id="w15818">Brca1</w> <w id="w15819">promoter</w> <w id="w15820">in</w> <w id="w15821">an</w> <w id="w15822">E2F</w><w id="w15823">-</w><w id="w15824">dependent</w> <w id="w15825">manner</w> <w id="w15826">,</w> <w id="w15827">and</w> <w id="w15828">this</w> <w id="w15829">is</w> <w id="w15830">inhibited</w> <w id="w15831">by</w> <w id="w15832">coexpression</w> <w id="w15833">of</w> <w id="w15834">the</w> <w id="w15835">p16</w><w id="w15836">(</w><w id="w15837">INK4a</w><w id="w15838">)</w> <w id="w15839">cyclin-dependent</w> <w id="w15840">kinase</w> <w id="w15841">inhibitor</w> <w id="w15842">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3600" gid="g3450" t="Expression" fr="w15809" to="w15812">
+     <textspan type="extent">expression of cyclin D1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.996.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3601" gid="g3451" t="RELATIONSHIP_TEXTBINDING" fr="w15816" to="w15816">
+     <textspan type="extent">stimulate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.996.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3602" gid="g3452" t="Domain_or_region_of_DNA" fr="w15818" to="w15819" nam="yes">
+     <textspan type="extent">Brca1 promoter</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="bd" v="e.996.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3603" gid="g3453" t="Expression" fr="w15809" to="w15814">
+     <textspan type="extent">expression of [..] Cdk4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.996.3"/>
+      <exattr n="nst" v="st.996.3.0"/>
+      <exattr n="nst" v="st.996.4.0"/>
+      <exattr n="nst" v="st.996.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3604" gid="g3454" t="Individual_protein" fr="w15835" to="w15835" nam="yes">
+     <textspan type="extent">p16</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.996.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3605" gid="g3455" t="Individual_protein" fr="w15822" to="w15822" nam="yes">
+     <textspan type="extent">E2F</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.996.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3606" gid="g3456" t="Protein_family_or_group" fr="w15839" to="w15841" nam="yes">
+     <textspan type="extent">cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.996.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3607" gid="g3454" t="Individual_protein" fr="w15837" to="w15837" nam="yes">
+     <textspan type="extent">INK4a</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.996.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e3608" gid="g3457" t="Expression" fr="w15832" to="w15835">
+     <textspan type="extent">coexpression of [..] p16</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.996.8"/>
+      <exattr n="nst" v="st.996.24.0"/>
+      <exattr n="nst" v="st.996.25.0"/>
+      <exattr n="nst" v="st.996.27.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3609" gid="g3458" t="RELATIONSHIP_TEXTBINDING" fr="w15824" to="w15824">
+     <textspan type="extent">dependent</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.996.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e3610" gid="g3459" t="Individual_protein" fr="w15811" to="w15812" nam="yes">
+     <textspan type="extent">cyclin D1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.996.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e3611" gid="g3460" t="RELATIONSHIP_TEXTBINDING" fr="w15830" to="w15831">
+     <textspan type="extent">inhibited by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.996.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e3612" gid="g3461" t="Individual_protein" fr="w15814" to="w15814" nam="yes">
+     <textspan type="extent">Cdk4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.996.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e3613" gid="g3462" t="Gene" fr="w15818" to="w15818" nam="yes">
+     <textspan type="extent">Brca1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.996.13"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1362" t="MEMBER" e1="e3606" e2="e3604" re="">
+     <textspan type="extent">p16 ( INK4a ) cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1363" t="CONDITION" e1="e3605" e2="e3601" re="e3609">
+     <textspan type="extent">expression of cyclin D1 and Cdk4 can stimulate the Brca1 promoter in an E2F - dependent</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.996.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r1364" t="UPREGULATE" e1="e3600" e2="e3602" re="e3601">
+     <textspan type="extent">expression of cyclin D1 and Cdk4 can stimulate the Brca1 promoter</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.996.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="UPREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1365" t="CONDITION" e1="e3605" e2="e3601" re="e3609">
+     <textspan type="extent">expression of cyclin D1 and Cdk4 can stimulate the Brca1 promoter in an E2F - dependent</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.996.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r1366" t="UPREGULATE" e1="e3603" e2="e3602" re="e3601">
+     <textspan type="extent">expression of cyclin D1 and Cdk4 can stimulate the Brca1 promoter</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.996.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="UPREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1367" t="SUPPRESS" e1="e3608" e2="e3601" re="e3611">
+     <textspan type="extent">expression of cyclin D1 and Cdk4 can stimulate the Brca1 promoter in an E2F - dependent manner , and this is inhibited by coexpression of the p16</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.996.11"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r1368" t="UPREGULATE" e1="e3600" e2="e3602" re="e3601">
+     <textspan type="extent">expression of cyclin D1 and Cdk4 can stimulate the Brca1 promoter</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.996.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="UPREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1369" t="SUPPRESS" e1="e3608" e2="e3601" re="e3611">
+     <textspan type="extent">expression of cyclin D1 and Cdk4 can stimulate the Brca1 promoter in an E2F - dependent manner , and this is inhibited by coexpression of the p16</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.996.11"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r1370" t="UPREGULATE" e1="e3603" e2="e3602" re="e3601">
+     <textspan type="extent">expression of cyclin D1 and Cdk4 can stimulate the Brca1 promoter</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.996.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="UPREGULATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

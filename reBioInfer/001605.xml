@@ -1,0 +1,74 @@
+<rexml>
+<doc id="1605">
+  <text>
+<p><s id="s1"><w id="w25470">The</w> <w id="w25471">previous</w> <w id="w25472">investigation</w> <w id="w25473">(</w> <w id="w25474">Abe</w> <w id="w25475">et</w> <w id="w25476">al.</w> <w id="w25477">(</w> <w id="w25478">1989</w> <w id="w25479">)</w> <w id="w25480">J.</w> <w id="w25481">Biochem.</w> <w id="w25482">106</w> <w id="w25483">,</w> <w id="w25484">696-702</w> <w id="w25485">)</w> <w id="w25486">suggested</w> <w id="w25487">that</w> <w id="w25488">cofilin</w> <w id="w25489">is</w> <w id="w25490">deeply</w> <w id="w25491">involved</w> <w id="w25492">in</w> <w id="w25493">the</w> <w id="w25494">regulation</w> <w id="w25495">of</w> <w id="w25496">actin</w> <w id="w25497">assembly</w> <w id="w25498">in</w> <w id="w25499">developing</w> <w id="w25500">skeletal</w> <w id="w25501">muscle</w> <w id="w25502">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5901" gid="g5630" t="Individual_protein" fr="w25488" to="w25488" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1605.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5902" gid="g5631" t="RELATIONSHIP_TEXTBINDING" fr="w25491" to="w25492">
+     <textspan type="extent">involved in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1605.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5903" gid="g5632" t="ASSEMBLY" fr="w25496" to="w25497">
+     <textspan type="extent">actin assembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1605.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5904" gid="g5633" t="CONTROL" fr="w25494" to="w25497">
+     <textspan type="extent">regulation of actin assembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Unspecified"/>
+      <exattr n="t4" v="CONTROL"/>
+      <exattr n="bd" v="e.1605.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5905" gid="g5634" t="Individual_protein" fr="w25496" to="w25496" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1605.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2262" t="PARTICIPATE" e1="e5901" e2="e5904" re="e5902">
+     <textspan type="extent">cofilin is deeply involved in the regulation of actin assembly</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1605.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

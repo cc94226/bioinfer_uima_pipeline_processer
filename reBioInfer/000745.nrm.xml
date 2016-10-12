@@ -1,0 +1,75 @@
+<rexml>
+<doc id="745">
+  
+  <markup>
+   <nes>
+    <ne id="e2697" gid="g2584" t="Gene" fr="w11566" to="w11567" nam="yes" sid="s1">
+     <textspan>profilin gene</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.745.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2701" gid="g2587" t="Individual_protein" fr="w11566" to="w11566" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.745.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2700" gid="g2584" t="Gene" fr="w11569" to="w11569" nam="yes" sid="s1">
+     <textspan>PFY1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.745.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2699" gid="g2586" t="Individual_protein" fr="w11573" to="w11574" nam="yes" sid="s1">
+     <textspan>actin-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.745.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1032" t="ENCODE" e1="e2697" e2="e2699" re="e2698">
+     <textspan>profilin gene , PFY1 , encoding an actin-binding protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.745.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

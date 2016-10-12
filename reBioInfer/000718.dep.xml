@@ -1,0 +1,50 @@
+<rexml>
+<doc id="718">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11129" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w11130" g="w11131" t="nn" cr="nn:w11131" w="adherens" l="~" p="N"/>
+     <dpg d="w11131" g="w11129" t="pcomp-n" cr="mod*in*n:w11138" w="junctions" l="junction" p="N"/>
+     <dpg d="w11132" g="E1" t="punc" cr="punc:w11138" w="," l="~" p="U"/>
+     <dpg d="w11133" g="w11135" t="det" cr="det:w11135" w="the" l="~" p="Det"/>
+     <dpg d="w11134" g="w11135" t="mod" cr="mod:w11135" w="cytoplasmic" l="~" p="A"/>
+     <dpg d="w11135" g="w11138" t="s" cr="s+subj:w11138" w="domain" l="~" p="N"/>
+     <dpg d="w11136" g="w11135" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11137" g="w11136" t="pcomp-n" cr="mod*of*n:w11135" w="cadherins" l="~" p="N"/>
+     <dpg d="w11138" g="E1" t="i" cr="" w="bind" l="~" p="V"/>
+     <dpg d="E3" g="w11138" t="subj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E3" g="w11135" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="w11139" g="w11138" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w11140" g="w11139" t="pcomp-n" cr="mod*to*n:w11138||subj:w11145" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w11141" g="w11140" t="punc" cr="punc:w11140" w="," l="~" p="U"/>
+     <dpg d="E0" g="w11140" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11142" g="E0" t="whn" cr="whn:w11145" w="which" l="~" p="N"/>
+     <dpg d="w11142" g="w11140" t="antecedent" cr="antecedent:w11140" w="which" l="~" p="N"/>
+     <dpg d="w11143" g="w11142" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w11144" g="w11143" t="pcomp-n" cr="mod*in*n:w11142" w="turn" l="~" p="N"/>
+     <dpg d="w11145" g="E0" t="i" cr="rel:w11140" w="binds" l="bind" p="V"/>
+     <dpg d="E4" g="w11145" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E4" g="w11140" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w11146" g="w11145" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w11147" g="w11152" t="det" cr="det:w11152" w="the" l="~" p="Det"/>
+     <dpg d="w11148" g="w11150" t="lex-mod" cr="lex-mod:w11150" w="actin" l="~" p="U"/>
+     <dpg d="w11149" g="w11150" t="lex-mod" cr="lex-mod:w11150" w="-" l="~" p="U"/>
+     <dpg d="w11150" g="w11152" t="mod" cr="mod:w11152" w="associated" l="actin - associated" p="A"/>
+     <dpg d="w11151" g="w11152" t="nn" cr="nn:w11152" w="protein" l="~" p="N"/>
+     <dpg d="w11152" g="w11146" t="pcomp-n" cr="mod*to*n:w11145" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w11153" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

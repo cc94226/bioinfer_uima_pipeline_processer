@@ -1,0 +1,56 @@
+<rexml>
+<doc id="2054">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32515" g="w32516" t="s" cr="s+subj:w32516" w="We" l="~" p="N"/>
+     <dpg d="w32516" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="examined" l="examine" p="V"/>
+     <dpg d="E6" g="w32516" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E6" g="w32515" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w32517" g="E5" t="punc" cr="punc:E5" w="whether" l="~" p="U"/>
+     <dpg d="w32518" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="levels" l="level" p="N"/>
+     <dpg d="w32519" g="w32518" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32520" g="w32521" t="mod" cr="mod:w32521" w="alpha-smooth-muscle" l="alpha-smooth-muscle" p="A"/>
+     <dpg d="w32521" g="w32519" t="pcomp-n" cr="mod*of*n:w32518" w="actin" l="~" p="N"/>
+     <dpg d="w32522" g="E5" t="punc" cr="punc:E5" w="or" l="~" p="U"/>
+     <dpg d="E1" g="E5" t="UNSPECRELTYPE" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="s+subj:w32523" w="" l="~" p="N"/>
+     <dpg d="w32523" g="E1" t="i" cr="UNSPECRELTYPE:E5" w="proliferating" l="proliferate" p="V"/>
+     <dpg d="E7" g="w32523" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="E0" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32524" g="w32526" t="nn" cr="nn:w32526" w="cell" l="~" p="N"/>
+     <dpg d="w32525" g="w32526" t="mod" cr="mod:w32526" w="nuclear" l="~" p="A"/>
+     <dpg d="w32526" g="w32527" t="s" cr="s+subj:w32527" w="antigen" l="~" p="N"/>
+     <dpg d="w32527" g="E0" t="i" cr="UNSPECRELTYPE:E5" w="correlated" l="correlate" p="V"/>
+     <dpg d="E8" g="w32527" t="subj" cr="" w="" l="antigen" p="N"/>
+     <dpg d="E8" g="w32526" t="antecedent" cr="" w="" l="antigen" p="N"/>
+     <dpg d="w32528" g="w32527" t="guest" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w32529" g="w32528" t="pcomp-n" cr="guest*with*n:w32527" w="myosin" l="~" p="N"/>
+     <dpg d="w32530" g="w32531" t="mod" cr="mod:w32531" w="heavy-chain" l="heavy-chain" p="A"/>
+     <dpg d="w32531" g="w32527" t="obj" cr="obj:w32527" w="levels" l="level" p="N"/>
+     <dpg d="w32532" g="w32531" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w32533" g="w32534" t="det" cr="det:w32534" w="the" l="~" p="Det"/>
+     <dpg d="w32534" g="w32532" t="pcomp-n" cr="mod*in*n:w32531" w="glomeruli" l="~" p="N"/>
+     <dpg d="w32535" g="w32534" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32536" g="w32535" t="pcomp-n" cr="mod*of*n:w32534" w="rats" l="rat" p="N"/>
+     <dpg d="w32537" g="w32536" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w32538" g="w32540" t="nn" cr="nn:w32540" w="puromycin" l="~" p="N"/>
+     <dpg d="w32539" g="w32540" t="nn" cr="nn:w32540" w="aminonucleoside" l="~" p="N"/>
+     <dpg d="w32540" g="w32537" t="pcomp-n" cr="mod*with*n:w32536" w="nephrosis" l="~" p="N"/>
+     <dpg d="w32541" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

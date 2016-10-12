@@ -1,0 +1,87 @@
+<rexml>
+<doc id="1274">
+  <text>
+<p><s id="s1"><w id="w20141">Single-headed</w> <w id="w20142">myosin</w> <w id="w20143">,</w> <w id="w20144">which</w> <w id="w20145">consists</w> <w id="w20146">of</w> <w id="w20147">a</w> <w id="w20148">full</w> <w id="w20149">length</w> <w id="w20150">myosin</w> <w id="w20151">heavy</w> <w id="w20152">chain</w> <w id="w20153">and</w> <w id="w20154">a</w> <w id="w20155">tagged</w> <w id="w20156">tail</w> <w id="w20157">,</w> <w id="w20158">was</w> <w id="w20159">isolated</w> <w id="w20160">on</w> <w id="w20161">the</w> <w id="w20162">basis</w> <w id="w20163">of</w> <w id="w20164">the</w> <w id="w20165">affinities</w> <w id="w20166">for</w> <w id="w20167">Nickel</w> <w id="w20168">agarose</w> <w id="w20169">and</w> <w id="w20170">actin</w> <w id="w20171">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4638" gid="g4435" t="Protein_complex" fr="w20141" to="w20142" nam="yes">
+     <textspan type="extent">Single-headed myosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1274.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4639" gid="g4436" t="RELATIONSHIP_TEXTBINDING" fr="w20165" to="w20166">
+     <textspan type="extent">affinities for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1274.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4640" gid="g4437" t="Individual_protein" fr="w20170" to="w20170" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1274.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4641" gid="g4438" t="RELATIONSHIP_TEXTBINDING" fr="w20145" to="w20146">
+     <textspan type="extent">consists of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1274.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4642" gid="g4439" t="Individual_protein" fr="w20150" to="w20152" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1274.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1765" t="CONTAIN" e1="e4638" e2="e4642" re="e4641">
+     <textspan type="extent">Single-headed myosin , which consists of a full length myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1274.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1766" t="BIND" e1="e4638" e2="e4640" re="e4639">
+     <textspan type="extent">Single-headed myosin , which consists of a full length myosin heavy chain and a tagged tail , was isolated on the basis of the affinities for Nickel agarose and actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1274.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

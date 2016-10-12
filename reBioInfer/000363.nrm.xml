@@ -1,0 +1,70 @@
+<rexml>
+<doc id="363">
+  
+  <markup>
+   <nes>
+    <ne id="e1307" gid="g1245" t="Cell_component" fr="w5430" to="w5430" nam="yes" sid="s1">
+     <textspan>fibers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.363.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1305" gid="g1243" t="Individual_protein" fr="w5434" to="w5434" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.363.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1309" gid="g1247" t="Substructure_of_protein" fr="w5442" to="w5445" nam="yes" sid="s1">
+     <textspan>myosin heavy chain component</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.363.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1310" gid="g1248" t="Individual_protein" fr="w5442" to="w5444" nam="yes" sid="s1">
+     <textspan>myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.363.5"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r517" t="COLOCALIZE" e1="e1307" e2="e1305" re="e1308">
+     <textspan>fibers that colocalized with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.363.3"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

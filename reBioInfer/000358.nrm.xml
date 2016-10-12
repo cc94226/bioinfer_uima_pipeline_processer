@@ -1,0 +1,175 @@
+<rexml>
+<doc id="358">
+  
+  <markup>
+   <nes>
+    <ne id="e1286" gid="g1228" t="Protein_complex" fr="w5341" to="w5343" nam="yes" sid="s1">
+     <textspan>HSV helicase-primase complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.358.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1293" gid="g1234" t="Protein_complex" fr="w5342" to="w5342" nam="yes" sid="s1">
+     <textspan>helicase-primase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.358.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1289" gid="g1231" t="Individual_protein" fr="w5345" to="w5345" nam="yes" sid="s1">
+     <textspan>UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.358.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1288" gid="g1230" t="Individual_protein" fr="w5347" to="w5347" nam="yes" sid="s1">
+     <textspan>UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.358.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1291" gid="g1233" t="Individual_protein" fr="w5349" to="w5349" nam="yes" sid="s1">
+     <textspan>UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.358.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1290" gid="g1232" t="Individual_protein" fr="w5353" to="w5355" nam="yes" sid="s1">
+     <textspan>major DNA-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.358.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1292" gid="g1232" t="Individual_protein" fr="w5357" to="w5357" nam="yes" sid="s1">
+     <textspan>UL29</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.358.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r509" t="COOF-CONTAIN" e1="e1289" e2="e1288" re="e1287">
+     <textspan>HSV helicase-primase complex ( UL5 , UL8</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.358.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r509" t="COOF-CONTAIN" e1="e1289" e2="e1291" re="e1287">
+     <textspan>HSV helicase-primase complex ( UL5 , UL8 , UL52</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.358.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r509" t="COOF-CONTAIN" e1="e1288" e2="e1291" re="e1287">
+     <textspan>HSV helicase-primase complex ( UL5 , UL8 , UL52</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.358.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r509" t="CONTAIN" e1="e1286" e2="e1289" re="e1287">
+     <textspan>HSV helicase-primase complex ( UL5</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.358.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r510" t="CONTAIN" e1="e1286" e2="e1288" re="e1287">
+     <textspan>HSV helicase-primase complex ( UL5 , UL8</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.358.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r511" t="CONTAIN" e1="e1286" e2="e1291" re="e1287">
+     <textspan>HSV helicase-primase complex ( UL5 , UL8 , UL52</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.358.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

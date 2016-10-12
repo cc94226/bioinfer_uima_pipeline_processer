@@ -1,0 +1,64 @@
+<rexml>
+<doc id="833">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12874" g="E0" t="mod" cr="mod:w12889" w="Interestingly" l="~" p="A"/>
+     <dpg d="w12875" g="E0" t="punc" cr="punc:w12889" w="," l="~" p="U"/>
+     <dpg d="w12876" g="w12879" t="nn" cr="nn:w12879" w="two" l="~" p="N"/>
+     <dpg d="w12877" g="w12879" t="mod" cr="mod:w12879" w="major" l="~" p="A"/>
+     <dpg d="w12878" g="w12879" t="mod" cr="mod:w12879" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w12879" g="w12889" t="s" cr="obj:w12880||s+subj:w12889" w="proteins" l="protein" p="N"/>
+     <dpg d="w12880" g="w12879" t="vrel" cr="vrel:w12879" w="found" l="find" p="V"/>
+     <dpg d="E7" g="w12880" t="obj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E7" g="w12879" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w12881" g="w12880" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w12882" g="w12881" t="pcomp-n" cr="mod*in*n:w12880" w="brain" l="~" p="N"/>
+     <dpg d="w12883" g="w12882" t="punc" cr="punc:w12882" w="," l="~" p="U"/>
+     <dpg d="w12884" g="w12882" t="conj" cr="conj:w12882" w="gelsolin" l="~" p="N"/>
+     <dpg d="w12885" g="w12884" t="punc" cr="punc:w12884" w="and" l="~" p="U"/>
+     <dpg d="w12886" g="w12884" t="conj" cr="conj:w12884" w="profilin" l="~" p="N"/>
+     <dpg d="w12887" g="w12889" t="punc" cr="punc:w12889" w="," l="~" p="U"/>
+     <dpg d="w12888" g="w12889" t="mod-before" cr="mod-before:w12889" w="specifically" l="~" p="A"/>
+     <dpg d="w12889" g="E0" t="i" cr="UNSPECRELTYPE:E6" w="interact" l="~" p="V"/>
+     <dpg d="E8" g="w12889" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E8" g="w12879" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w12890" g="w12889" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w12891" g="w12892" t="nn" cr="nn:w12892" w="phosphatidylinositol" l="~" p="N"/>
+     <dpg d="w12892" g="w12890" t="pcomp-n" cr="mod*with*n:w12889" w="4,5-bisphosphate" l="4,5-bisphosphate" p="N"/>
+     <dpg d="w12893" g="E6" t="punc" cr="punc:E6" w="," l="~" p="U"/>
+     <dpg d="w12894" g="E6" t="punc" cr="punc:E6" w="and" l="~" p="U"/>
+     <dpg d="E3" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="" l="~" p="Q"/>
+     <dpg d="E2" g="E3" t="head" cr="head:E3" w="" l="~" p="YNQ"/>
+     <dpg d="w12895" g="E2" t="inv-aux" cr="inv-aux:E2" w="may" l="~" p="Aux"/>
+     <dpg d="w12896" g="w12897" t="s" cr="s+subj:w12897||s+subj:w12901" w="themselves" l="~" p="N"/>
+     <dpg d="w12897" g="E2" t="head" cr="head:E2" w="play" l="~" p="V"/>
+     <dpg d="E9" g="w12897" t="subj" cr="" w="" l="themselves" p="N"/>
+     <dpg d="E9" g="w12896" t="antecedent" cr="" w="" l="themselves" p="N"/>
+     <dpg d="w12898" g="w12899" t="det" cr="det:w12899" w="a" l="~" p="Det"/>
+     <dpg d="w12899" g="w12897" t="obj" cr="obj:w12897" w="role" l="~" p="N"/>
+     <dpg d="w12900" g="w12899" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="E1" g="w12900" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w12896" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w12901" g="E1" t="i" cr="mod*in*c:w12899" w="regulating" l="regulate" p="V"/>
+     <dpg d="E10" g="w12901" t="subj" cr="" w="" l="themselves" p="N"/>
+     <dpg d="E10" g="E4" t="antecedent" cr="" w="" l="themselves" p="N"/>
+     <dpg d="w12902" g="w12903" t="nn" cr="nn:w12903" w="phosphoinositide" l="~" p="N"/>
+     <dpg d="w12903" g="w12901" t="obj" cr="obj:w12901" w="turnover" l="~" p="N"/>
+     <dpg d="w12904" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

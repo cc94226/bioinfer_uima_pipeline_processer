@@ -1,0 +1,171 @@
+<rexml>
+<doc id="1709">
+  <text>
+<p><s id="s1"><w id="w27277">These</w> <w id="w27278">proteins</w> <w id="w27279">each</w> <w id="w27280">have</w> <w id="w27281">a</w> <w id="w27282">verprolin</w><w id="w27283">-homology</w> <w id="w27284">(</w> <w id="w27285">V</w> <w id="w27286">)</w> <w id="w27287">domain</w> <w id="w27288">,</w> <w id="w27289">cofilin</w><w id="w27290">-homology</w> <w id="w27291">(</w> <w id="w27292">C</w> <w id="w27293">)</w> <w id="w27294">domain</w> <w id="w27295">and</w> <w id="w27296">an</w> <w id="w27297">acidic</w> <w id="w27298">(</w> <w id="w27299">A</w> <w id="w27300">)</w> <w id="w27301">region</w> <w id="w27302">at</w> <w id="w27303">the</w> <w id="w27304">C-terminus</w> <w id="w27305">,</w> <w id="w27306">through</w> <w id="w27307">which</w> <w id="w27308">they</w> <w id="w27309">activate</w> <w id="w27310">the</w> <w id="w27311">Arp</w><w id="w27312">2</w><w id="w27313">/</w><w id="w27314">3</w> <w id="w27315">complex</w> <w id="w27316">,</w> <w id="w27317">leading</w> <w id="w27318">to</w> <w id="w27319">rapid</w> <w id="w27320">actin</w> <w id="w27321">polymerization</w> <w id="w27322">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6280" gid="g5995" t="Gene/protein/RNA" fr="w27282" to="w27282" nam="yes">
+     <textspan type="extent">verprolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1709.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6281" gid="g5996" t="RELATIONSHIP_TEXTBINDING" fr="w27309" to="w27309">
+     <textspan type="extent">activate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1709.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6282" gid="g5997" t="Individual_protein" fr="w27311" to="w27312" nam="yes">
+     <textspan type="extent">Arp2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1709.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6283" gid="g5998" t="Gene/protein/RNA" fr="w27289" to="w27289" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1709.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6284" gid="g5999" t="Protein_complex" fr="w27311" to="w27315" nam="yes">
+     <textspan type="extent">Arp2/3 complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1709.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6285" gid="g6000" t="POLYMERIZATION" fr="w27320" to="w27321">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.1709.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6286" gid="g6001" t="Individual_protein" fr="w27308" to="w27308" nam="yes">
+     <textspan type="extent">they</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1709.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6287" gid="g6002" t="RELATIONSHIP_TEXTBINDING" fr="w27317" to="w27318">
+     <textspan type="extent">leading to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1709.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6288" gid="g6003" t="RELATIONSHIP_TEXTBINDING" fr="w27315" to="w27315">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1709.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6289" gid="g6004" t="Individual_protein" fr="w27311" to="w27314" nam="yes">
+     <textspan type="extent">Arp [..] 3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1709.9"/>
+      <exattr n="nst" v="st.1709.32.0"/>
+      <exattr n="nst" v="st.1709.32.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6290" gid="g6005" t="Individual_protein" fr="w27320" to="w27320" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1709.10"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2400" t="CONTAIN" e1="e6284" e2="e6282" re="e6288">
+     <textspan type="extent">Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1709.8"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2401" t="CONTAIN" e1="e6284" e2="e6289" re="e6288">
+     <textspan type="extent">Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1709.8"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2402" t="CAUSE" e1="e6281" e2="e6285" re="e6287">
+     <textspan type="extent">they activate the Arp 2 / 3 complex , leading to rapid actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1709.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2403" t="ACTIVATE" e1="e6286" e2="e6284" re="e6281">
+     <textspan type="extent">they activate the Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1709.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="ACTIVATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

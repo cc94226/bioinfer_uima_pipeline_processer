@@ -1,0 +1,80 @@
+<rexml>
+<doc id="2100">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w33094" g="w33097" t="s" cr="s+subj:w33097" w="We" l="~" p="N"/>
+     <dpg d="w33095" g="w33097" t="have" cr="have:w33097" w="have" l="~" p="have"/>
+     <dpg d="w33096" g="w33097" t="amod" cr="amod:w33097" w="previously" l="~" p="A"/>
+     <dpg d="w33097" g="E1" t="i" cr="" w="shown" l="show" p="V"/>
+     <dpg d="E3" g="w33097" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E3" g="w33094" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="E0" g="w33097" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w33098" g="E0" t="c" cr="c:w33107" w="that" l="~" p="COMP"/>
+     <dpg d="w33099" g="w33101" t="det" cr="det:w33101" w="the" l="~" p="Det"/>
+     <dpg d="w33100" g="w33101" t="mod" cr="mod:w33101" w="synthetic" l="~" p="A"/>
+     <dpg d="w33101" g="w33107" t="s" cr="s:w33107||subj:w33110" w="dodecapeptide" l="~" p="N"/>
+     <dpg d="w33102" g="w33101" t="pnmod" cr="pnmod:w33101" w="corresponding" l="~" p="A"/>
+     <dpg d="w33103" g="w33102" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w33104" g="w33103" t="pcomp-n" cr="mod*to*n:w33102" w="Trp104-Met115" l="Trp104-Met115" p="N"/>
+     <dpg d="w33105" g="w33104" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33106" g="w33105" t="pcomp-n" cr="mod*of*n:w33104" w="cofilin" l="~" p="N"/>
+     <dpg d="w33107" g="E0" t="i" cr="fc:w33097" w="is" l="be" p="VBE"/>
+     <dpg d="E4" g="w33110" t="subj" cr="" w="" l="dodecapeptide" p="N"/>
+     <dpg d="E4" g="w33101" t="antecedent" cr="" w="" l="dodecapeptide" p="N"/>
+     <dpg d="w33108" g="w33110" t="det" cr="det:w33110" w="a" l="~" p="Det"/>
+     <dpg d="w33109" g="w33110" t="mod" cr="mod:w33110" w="potent" l="~" p="A"/>
+     <dpg d="w33110" g="w33107" t="pred" cr="pred:w33107" w="inhibitor" l="~" p="N"/>
+     <dpg d="w33111" g="w33110" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33112" g="w33115" t="nn" cr="nn:w33115" w="actin" l="~" p="N"/>
+     <dpg d="w33113" g="w33115" t="nn" cr="nn:w33115" w="polymerization" l="~" p="N"/>
+     <dpg d="w33114" g="w33115" t="punc" cr="punc:w33115" w="(" l="~" p="U"/>
+     <dpg d="w33115" g="w33111" t="pcomp-n" cr="mod*of*n:w33110" w="Yonezawa" l="~" p="N"/>
+     <dpg d="w33116" g="w33115" t="punc" cr="punc:w33115" w="," l="~" p="U"/>
+     <dpg d="w33117" g="w33115" t="appo" cr="appo:w33115" w="N." l="~" p="N"/>
+     <dpg d="w33118" g="w33117" t="punc" cr="punc:w33117" w="," l="~" p="U"/>
+     <dpg d="w33119" g="w33117" t="appo" cr="appo:w33117" w="Nishida" l="~" p="N"/>
+     <dpg d="w33120" g="w33119" t="punc" cr="punc:w33119" w="," l="~" p="U"/>
+     <dpg d="w33121" g="w33119" t="conj" cr="conj:w33119" w="E." l="~" p="N"/>
+     <dpg d="w33122" g="w33121" t="punc" cr="punc:w33121" w="," l="~" p="U"/>
+     <dpg d="w33123" g="w33121" t="conj" cr="conj:w33121" w="Iida" l="~" p="N"/>
+     <dpg d="w33124" g="w33123" t="punc" cr="punc:w33123" w="," l="~" p="U"/>
+     <dpg d="w33125" g="w33123" t="conj" cr="conj:w33123" w="K." l="~" p="N"/>
+     <dpg d="w33126" g="w33125" t="punc" cr="punc:w33125" w="," l="~" p="U"/>
+     <dpg d="w33127" g="w33125" t="conj" cr="conj:w33125" w="Kumagai" l="~" p="N"/>
+     <dpg d="w33128" g="w33127" t="punc" cr="punc:w33127" w="," l="~" p="U"/>
+     <dpg d="w33129" g="w33127" t="conj" cr="conj:w33127" w="H." l="~" p="N"/>
+     <dpg d="w33130" g="w33129" t="punc" cr="punc:w33129" w="," l="~" p="U"/>
+     <dpg d="w33131" g="w33129" t="conj" cr="conj:w33129" w="Yahara" l="~" p="N"/>
+     <dpg d="w33132" g="w33131" t="punc" cr="punc:w33131" w="," l="~" p="U"/>
+     <dpg d="w33133" g="w33131" t="conj" cr="conj:w33131" w="I." l="~" p="N"/>
+     <dpg d="w33134" g="w33133" t="punc" cr="punc:w33133" w="," l="~" p="U"/>
+     <dpg d="w33135" g="w33133" t="punc" cr="punc:w33133" w="and" l="~" p="U"/>
+     <dpg d="w33136" g="w33133" t="conj" cr="conj:w33133" w="Sakai" l="~" p="N"/>
+     <dpg d="w33137" g="w33119" t="punc" cr="punc:w33119" w="," l="~" p="U"/>
+     <dpg d="w33138" g="w33119" t="appo" cr="appo:w33119" w="H." l="~" p="N"/>
+     <dpg d="w33139" g="w33138" t="punc" cr="punc:w33138" w="(" l="~" p="U"/>
+     <dpg d="w33140" g="w33138" t="appo-mod" cr="appo-mod:w33138" w="1991" l="~" p="N"/>
+     <dpg d="w33141" g="w33138" t="punc" cr="punc:w33138" w=")" l="~" p="U"/>
+     <dpg d="w33142" g="w33145" t="lex-mod" cr="lex-mod:w33145" w="J." l="~" p="U"/>
+     <dpg d="w33143" g="w33145" t="lex-mod" cr="lex-mod:w33145" w="Biol." l="~" p="U"/>
+     <dpg d="w33144" g="w33145" t="lex-mod" cr="lex-mod:w33145" w="Chem." l="~" p="U"/>
+     <dpg d="w33145" g="w33138" t="appo" cr="appo:w33138" w="266" l="J. Biol. Chem 266" p="N"/>
+     <dpg d="w33146" g="w33145" t="punc" cr="punc:w33145" w="," l="~" p="U"/>
+     <dpg d="w33147" g="w33145" t="appo" cr="appo:w33145" w="10485-10489" l="10485-10489" p="N"/>
+     <dpg d="w33148" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w33149" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

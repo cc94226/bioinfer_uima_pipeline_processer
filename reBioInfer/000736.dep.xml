@@ -1,0 +1,60 @@
+<rexml>
+<doc id="736">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11425" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w11426" g="w11425" t="pcomp-n" cr="mod*in*n:w11438" w="contrast" l="~" p="N"/>
+     <dpg d="w11427" g="E1" t="punc" cr="punc:w11438" w="," l="~" p="U"/>
+     <dpg d="w11428" g="w11438" t="s" cr="s+subj:w11438" w="ADP-ribosylation" l="ADP-ribosylation" p="N"/>
+     <dpg d="w11429" g="w11428" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11430" g="w11429" t="pcomp-n" cr="mod*of*n:w11428" w="actin" l="~" p="N"/>
+     <dpg d="w11431" g="w11430" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w11432" g="w11431" t="pcomp-n" cr="mod*at*n:w11430" w="Arg95/Arg372" l="~" p="N"/>
+     <dpg d="w11433" g="w11432" t="pnmod" cr="pnmod:w11432" w="induced" l="~" p="A"/>
+     <dpg d="w11434" g="w11433" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w11435" g="w11437" t="nn" cr="nn:w11437" w="turkey" l="~" p="N"/>
+     <dpg d="w11436" g="w11437" t="nn" cr="nn:w11437" w="erythrocyte" l="~" p="N"/>
+     <dpg d="w11437" g="w11434" t="pcomp-n" cr="mod*by*n:w11433" w="transferase" l="~" p="N"/>
+     <dpg d="w11438" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="decreased" l="decrease" p="V"/>
+     <dpg d="E4" g="w11438" t="subj" cr="" w="" l="ADP-ribosylation" p="N"/>
+     <dpg d="E4" g="w11428" t="antecedent" cr="" w="" l="ADP-ribosylation" p="N"/>
+     <dpg d="w11439" g="w11440" t="det" cr="det:w11440" w="the" l="~" p="Det"/>
+     <dpg d="w11440" g="w11438" t="obj" cr="obj:w11438" w="nucleotide" l="~" p="N"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11441" g="w11442" t="s" cr="s+subj:w11442||subj:w11449" w="dissociation" l="~" p="N"/>
+     <dpg d="w11442" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="rate" l="~" p="V"/>
+     <dpg d="E5" g="w11442" t="subj" cr="" w="" l="dissociation" p="N"/>
+     <dpg d="E5" g="w11441" t="antecedent" cr="" w="" l="dissociation" p="N"/>
+     <dpg d="w11443" g="w11442" t="guest" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w11444" g="w11445" t="num" cr="num:w11445" w="1.5" l="~" p="N"/>
+     <dpg d="w11445" g="w11443" t="pcomp-n" cr="guest*to*n:w11442" w="x" l="~" p="N"/>
+     <dpg d="w11446" g="w11447" t="punc" cr="punc:w11447" w="10(3)" l="~" p="U"/>
+     <dpg d="w11447" g="w11442" t="obj" cr="obj:w11442" w="s-1" l="s-1" p="N"/>
+     <dpg d="w11448" g="w11442" t="punc" cr="punc:w11442" w="and" l="~" p="U"/>
+     <dpg d="w11449" g="w11442" t="conj" cr="conj:w11442" w="inhibited" l="inhibit" p="V"/>
+     <dpg d="E6" g="w11449" t="subj" cr="" w="" l="dissociation" p="N"/>
+     <dpg d="E6" g="w11441" t="antecedent" cr="" w="" l="dissociation" p="N"/>
+     <dpg d="w11450" g="w11453" t="det" cr="det:w11453" w="the" l="~" p="Det"/>
+     <dpg d="w11451" g="w11452" t="lex-mod" cr="lex-mod:w11452" w="profilin" l="~" p="U"/>
+     <dpg d="w11452" g="w11453" t="mod" cr="mod:w11453" w="-induced" l="profilin -induced" p="A"/>
+     <dpg d="w11453" g="w11449" t="obj" cr="obj:w11449" w="stimulation" l="~" p="N"/>
+     <dpg d="w11454" g="w11453" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11455" g="w11456" t="nn" cr="nn:w11456" w="nucleotide" l="~" p="N"/>
+     <dpg d="w11456" g="w11454" t="pcomp-n" cr="mod*of*n:w11453" w="exchange" l="~" p="N"/>
+     <dpg d="w11457" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

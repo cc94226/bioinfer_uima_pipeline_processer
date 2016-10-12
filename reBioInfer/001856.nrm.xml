@@ -1,0 +1,86 @@
+<rexml>
+<doc id="1856">
+  
+  <markup>
+   <nes>
+    <ne id="e6890" gid="g6575" t="Gene/protein/RNA" fr="w29772" to="w29772" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1856.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6893" gid="g6578" t="Individual_protein" fr="w29791" to="w29792" nam="yes" sid="s1">
+     <textspan>Acanthamoeba profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1856.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6894" gid="g6579" t="Individual_protein" fr="w29792" to="w29792" nam="yes" sid="s1">
+     <textspan>profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1856.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6892" gid="g6577" t="Individual_protein" fr="w29794" to="w29796" nam="yes" sid="s1">
+     <textspan>amoeba actin monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1856.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6895" gid="g6580" t="Individual_protein" fr="w29795" to="w29795" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1856.5"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2643" t="BIND" e1="e6893" e2="e6892" re="e6891">
+     <textspan>Acanthamoeba profilins binding amoeba actin monomers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1856.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

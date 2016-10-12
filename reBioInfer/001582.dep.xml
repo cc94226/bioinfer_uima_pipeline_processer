@@ -1,0 +1,49 @@
+<rexml>
+<doc id="1582">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25140" g="w25141" t="s" cr="s+subj:w25141" w="p27" l="~" p="N"/>
+     <dpg d="w25141" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="binds" l="bind" p="V"/>
+     <dpg d="E4" g="w25141" t="subj" cr="" w="" l="p27" p="N"/>
+     <dpg d="E4" g="w25140" t="antecedent" cr="" w="" l="p27" p="N"/>
+     <dpg d="w25142" g="E3" t="punc" cr="punc:E3" w="to" l="~" p="U"/>
+     <dpg d="w25143" g="E3" t="punc" cr="punc:E3" w="and" l="~" p="U"/>
+     <dpg d="w25144" g="E3" t="punc" cr="punc:E3" w="inhibits" l="~" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25145" g="w25146" t="s" cr="s+subj:w25146" w="complexes" l="complex" p="N"/>
+     <dpg d="w25146" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="formed" l="form" p="V"/>
+     <dpg d="E5" g="w25146" t="subj" cr="" w="" l="complex" p="N"/>
+     <dpg d="E5" g="w25145" t="antecedent" cr="" w="" l="complex" p="N"/>
+     <dpg d="w25147" g="w25146" t="guest" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w25148" g="w25147" t="pcomp-n" cr="guest*by*n:w25146" w="cyclin" l="~" p="N"/>
+     <dpg d="w25149" g="w25151" t="lex-mod" cr="lex-mod:w25151" w="E" l="~" p="U"/>
+     <dpg d="w25150" g="w25151" t="lex-mod" cr="lex-mod:w25151" w="-" l="~" p="U"/>
+     <dpg d="w25151" g="w25146" t="obj" cr="obj:w25146" w="cdk2" l="E - cdk2" p="N"/>
+     <dpg d="w25152" g="w25151" t="punc" cr="punc:w25151" w="," l="~" p="U"/>
+     <dpg d="w25153" g="w25156" t="nn" cr="nn:w25156" w="cyclin" l="~" p="N"/>
+     <dpg d="w25154" g="w25156" t="lex-mod" cr="lex-mod:w25156" w="A" l="~" p="U"/>
+     <dpg d="w25155" g="w25156" t="lex-mod" cr="lex-mod:w25156" w="-" l="~" p="U"/>
+     <dpg d="w25156" g="w25151" t="conj" cr="conj:w25151" w="cdk2" l="A - cdk2" p="N"/>
+     <dpg d="w25157" g="w25156" t="punc" cr="punc:w25156" w="," l="~" p="U"/>
+     <dpg d="w25158" g="w25156" t="punc" cr="punc:w25156" w="and" l="~" p="U"/>
+     <dpg d="w25159" g="w25162" t="nn" cr="nn:w25162" w="cyclin" l="~" p="N"/>
+     <dpg d="w25160" g="w25162" t="lex-mod" cr="lex-mod:w25162" w="D" l="~" p="U"/>
+     <dpg d="w25161" g="w25162" t="lex-mod" cr="lex-mod:w25162" w="-" l="~" p="U"/>
+     <dpg d="w25162" g="w25156" t="conj" cr="conj:w25156" w="cdk4" l="D - cdk4" p="N"/>
+     <dpg d="w25163" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

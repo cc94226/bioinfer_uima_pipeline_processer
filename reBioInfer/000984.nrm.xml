@@ -1,0 +1,426 @@
+<rexml>
+<doc id="984">
+  
+  <markup>
+   <nes>
+    <ne id="e3513" gid="g3366" t="Gene" fr="w15494" to="w15494" nam="yes" sid="s1">
+     <textspan>MLL</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.984.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e3515" gid="g3368" t="Domain_or_region_of_DNA" fr="w15501" to="w15503" nam="yes" sid="s1">
+     <textspan>exon of CBP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="bd" v="e.984.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e3503" gid="g3356" t="Gene" fr="w15503" to="w15503" nam="yes" sid="s1">
+     <textspan>CBP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.984.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3518" gid="g3371" t="Fusion_protein" fr="w15508" to="w15509" nam="yes" sid="s1">
+     <textspan>chimeric proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Fusion_protein"/>
+      <exattr n="bd" v="e.984.17"/>
+     </exattrs>
+    </ne>
+    <ne id="e3514" gid="g3367" t="Substructure_of_protein" fr="w15512" to="w15523" nam="yes" sid="s1">
+     <textspan>AT-hooks [..] of MLL</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.984.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e3519" gid="g3372" t="Individual_protein" fr="w15514" to="w15514" nam="yes" sid="s1">
+     <textspan>methyltransferase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.984.18"/>
+     </exattrs>
+    </ne>
+    <ne id="e3521" gid="g3374" t="Substructure_of_protein" fr="w15516" to="w15523" nam="yes" sid="s1">
+     <textspan>domain [..] of MLL</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.984.20"/>
+     </exattrs>
+    </ne>
+    <ne id="e3520" gid="g3373" t="Substructure_of_protein" fr="w15521" to="w15523" nam="yes" sid="s1">
+     <textspan>domain of MLL</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.984.19"/>
+     </exattrs>
+    </ne>
+    <ne id="e3501" gid="g3354" t="Individual_protein" fr="w15523" to="w15523" nam="yes" sid="s1">
+     <textspan>MLL</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.984.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3517" gid="g3370" t="Individual_protein" fr="w15527" to="w15527" nam="yes" sid="s1">
+     <textspan>CREB</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.984.16"/>
+     </exattrs>
+    </ne>
+    <ne id="e3516" gid="g3369" t="Substructure_of_protein" fr="w15529" to="w15535" nam="yes" sid="s1">
+     <textspan>domain [..] of CBP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.984.15"/>
+     </exattrs>
+    </ne>
+    <ne id="e3522" gid="g3375" t="Substructure_of_protein" fr="w15533" to="w15535" nam="yes" sid="s1">
+     <textspan>bromodomain of CBP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.984.21"/>
+     </exattrs>
+    </ne>
+    <ne id="e3502" gid="g3355" t="Individual_protein" fr="w15535" to="w15535" nam="yes" sid="s1">
+     <textspan>CBP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.984.1"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1319" t="COOF-F-CONTAIN" e1="e3513" e2="e3515" re="e3504">
+     <textspan>fused in-frame to a different exon of CBP in two patients producing chimeric proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-F-CONTAIN"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1319" t="F-CONTAIN" e1="e3518" e2="e3513" re="e3504">
+     <textspan>MLL is fused in-frame to a different exon of CBP in two patients producing chimeric proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="F-CONTAIN"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1320" t="F-CONTAIN" e1="e3518" e2="e3515" re="e3506">
+     <textspan>fused in-frame to a different exon of CBP in two patients producing chimeric proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.5"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="F-CONTAIN"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1321" t="SIMILAR" e1="e3519" e2="e3521" re="e3508">
+     <textspan>methyltransferase homology domain , and transcriptional repression domain of MLL</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.7"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1322" t="COOF-SUBSTRUCTURE" e1="e3514" e2="e3521" re="e3505">
+     <textspan>chimeric proteins containing the AT-hooks , methyltransferase homology domain , and transcriptional repression domain of MLL</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-SUBSTRUCTURE"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1322" t="COOF-SUBSTRUCTURE" e1="e3514" e2="e3520" re="e3505">
+     <textspan>chimeric proteins containing the AT-hooks , methyltransferase homology domain , and transcriptional repression domain of MLL</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-SUBSTRUCTURE"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1322" t="COOF-SUBSTRUCTURE" e1="e3514" e2="e3522" re="e3505">
+     <textspan>chimeric proteins containing the AT-hooks , methyltransferase homology domain , and transcriptional repression domain of MLL fused to the CREB binding domain or to the bromodomain of CBP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-SUBSTRUCTURE"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1322" t="COOF-SUBSTRUCTURE" e1="e3514" e2="e3516" re="e3505">
+     <textspan>chimeric proteins containing the AT-hooks , methyltransferase homology domain , and transcriptional repression domain of MLL fused to the CREB binding domain or to the bromodomain of CBP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-SUBSTRUCTURE"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1322" t="COOF-SUBSTRUCTURE" e1="e3521" e2="e3520" re="e3505">
+     <textspan>chimeric proteins containing the AT-hooks , methyltransferase homology domain , and transcriptional repression domain of MLL</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-SUBSTRUCTURE"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1322" t="COOF-SUBSTRUCTURE" e1="e3521" e2="e3522" re="e3505">
+     <textspan>chimeric proteins containing the AT-hooks , methyltransferase homology domain , and transcriptional repression domain of MLL fused to the CREB binding domain or to the bromodomain of CBP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-SUBSTRUCTURE"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1322" t="COOF-SUBSTRUCTURE" e1="e3521" e2="e3516" re="e3505">
+     <textspan>chimeric proteins containing the AT-hooks , methyltransferase homology domain , and transcriptional repression domain of MLL fused to the CREB binding domain or to the bromodomain of CBP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-SUBSTRUCTURE"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1322" t="COOF-SUBSTRUCTURE" e1="e3520" e2="e3522" re="e3505">
+     <textspan>chimeric proteins containing the AT-hooks , methyltransferase homology domain , and transcriptional repression domain of MLL fused to the CREB binding domain or to the bromodomain of CBP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-SUBSTRUCTURE"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1322" t="COOF-SUBSTRUCTURE" e1="e3520" e2="e3516" re="e3505">
+     <textspan>chimeric proteins containing the AT-hooks , methyltransferase homology domain , and transcriptional repression domain of MLL fused to the CREB binding domain or to the bromodomain of CBP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-SUBSTRUCTURE"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1322" t="COOF-SUBSTRUCTURE" e1="e3522" e2="e3516" re="e3505">
+     <textspan>chimeric proteins containing the AT-hooks , methyltransferase homology domain , and transcriptional repression domain of MLL fused to the CREB binding domain or to the bromodomain of CBP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-SUBSTRUCTURE"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1322" t="SUBSTRUCTURE" e1="e3518" e2="e3514" re="e3505">
+     <textspan>chimeric proteins containing the AT-hooks , methyltransferase homology domain , and transcriptional repression domain of MLL</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.4"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="SUBSTRUCTURE"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1323" t="SUBSTRUCTURE" e1="e3518" e2="e3521" re="e3505">
+     <textspan>chimeric proteins containing the AT-hooks , methyltransferase homology domain , and transcriptional repression domain of MLL</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.4"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="SUBSTRUCTURE"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1324" t="SUBSTRUCTURE" e1="e3518" e2="e3520" re="e3505">
+     <textspan>chimeric proteins containing the AT-hooks , methyltransferase homology domain , and transcriptional repression domain of MLL</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.4"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="SUBSTRUCTURE"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1325" t="SUBSTRUCTURE" e1="e3518" e2="e3522" re="e3507">
+     <textspan>chimeric proteins containing the AT-hooks , methyltransferase homology domain , and transcriptional repression domain of MLL fused to the CREB binding domain or to the bromodomain of CBP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.6"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="SUBSTRUCTURE"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1326" t="SUBSTRUCTURE" e1="e3518" e2="e3516" re="e3507">
+     <textspan>chimeric proteins containing the AT-hooks , methyltransferase homology domain , and transcriptional repression domain of MLL fused to the CREB binding domain or to the bromodomain of CBP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.6"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="SUBSTRUCTURE"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1327" t="BIND" e1="e3516" e2="e3517" re="e3509">
+     <textspan>CREB binding domain or to the bromodomain of CBP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.984.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,128 @@
+<rexml>
+<doc id="1532">
+  
+  <markup>
+   <nes>
+    <ne id="e5612" gid="g5359" t="Individual_protein" fr="w24167" to="w24168" nam="yes" sid="s1">
+     <textspan>Munc18-2 variants</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1532.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5618" gid="g5364" t="Individual_protein" fr="w24167" to="w24167" nam="yes" sid="s1">
+     <textspan>Munc18-2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1532.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5614" gid="g5361" t="Individual_protein" fr="w24170" to="w24171" nam="yes" sid="s1">
+     <textspan>syntaxin 3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1532.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5615" gid="g5359" t="Individual_protein" fr="w24175" to="w24175" nam="yes" sid="s1">
+     <textspan>their</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1532.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5617" gid="g5363" t="Individual_protein" fr="w24179" to="w24179" nam="yes" sid="s1">
+     <textspan>SNAP-23</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1532.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5621" gid="g5367" t="Protein_complex" fr="w24181" to="w24183" nam="yes" sid="s1">
+     <textspan>syntaxin 3 complexes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1532.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e5620" gid="g5366" t="Individual_protein" fr="w24181" to="w24182" nam="yes" sid="s1">
+     <textspan>syntaxin 3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1532.9"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2149" t="BIND" e1="e5612" e2="e5614" re="e5611">
+     <textspan>association of the Munc18-2 variants with syntaxin 3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1532.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2151" t="UNBIND" e1="e5617" e2="e5621" re="e5619">
+     <textspan>displace SNAP-23 from syntaxin 3 complexes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1532.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="UNBIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

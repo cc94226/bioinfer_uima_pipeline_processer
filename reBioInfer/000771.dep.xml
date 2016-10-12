@@ -1,0 +1,36 @@
+<rexml>
+<doc id="771">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w12042" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="Inhibition" l="~" p="N"/>
+     <dpg d="w12043" g="w12042" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12044" g="w12045" t="det" cr="det:w12045" w="the" l="~" p="Det"/>
+     <dpg d="w12045" g="w12043" t="pcomp-n" cr="mod*of*n:w12042" w="interactions" l="interaction" p="N"/>
+     <dpg d="w12046" g="w12045" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12047" g="w12046" t="pcomp-n" cr="mod*of*n:w12045" w="cofilin" l="~" p="N"/>
+     <dpg d="w12048" g="w12047" t="punc" cr="punc:w12047" w="," l="~" p="U"/>
+     <dpg d="w12049" g="w12047" t="conj" cr="conj:w12047" w="destrin" l="~" p="N"/>
+     <dpg d="w12050" g="w12049" t="punc" cr="punc:w12049" w="," l="~" p="U"/>
+     <dpg d="w12051" g="w12049" t="punc" cr="punc:w12049" w="and" l="~" p="U"/>
+     <dpg d="w12052" g="w12049" t="conj" cr="conj:w12049" w="deoxyribonuclease" l="~" p="N"/>
+     <dpg d="w12053" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="I" l="~" p="N"/>
+     <dpg d="w12054" g="E1" t="p" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w12055" g="w12054" t="pcomp-n" cr="p*with*n:E1" w="actin" l="~" p="N"/>
+     <dpg d="w12056" g="w12055" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w12057" g="w12056" t="pcomp-n" cr="mod*by*n:w12055" w="phosphoinositides" l="~" p="N"/>
+     <dpg d="w12058" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

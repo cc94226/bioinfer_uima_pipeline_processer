@@ -1,0 +1,43 @@
+<rexml>
+<doc id="1816">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29197" g="w29198" t="s" cr="s+subj:w29198" w="This" l="~" p="N"/>
+     <dpg d="w29198" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="implies" l="imply" p="V"/>
+     <dpg d="E4" g="w29198" t="subj" cr="" w="" l="this" p="N"/>
+     <dpg d="E4" g="w29197" t="antecedent" cr="" w="" l="this" p="N"/>
+     <dpg d="E0" g="w29198" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29199" g="E0" t="c" cr="c:w29206" w="that" l="~" p="COMP"/>
+     <dpg d="w29200" g="w29201" t="nn" cr="nn:w29201" w="Munc18-2" l="Munc18-2" p="N"/>
+     <dpg d="w29201" g="w29206" t="s" cr="s+subj:w29206" w="function" l="~" p="N"/>
+     <dpg d="w29202" g="w29201" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w29203" g="w29205" t="mod" cr="mod:w29205" w="apical" l="~" p="A"/>
+     <dpg d="w29204" g="w29205" t="nn" cr="nn:w29205" w="membrane" l="~" p="N"/>
+     <dpg d="w29205" g="w29202" t="pcomp-n" cr="mod*in*n:w29201" w="trafficking" l="~" p="N"/>
+     <dpg d="w29206" g="E0" t="i" cr="fc:w29198" w="involves" l="involve" p="V"/>
+     <dpg d="E5" g="w29206" t="subj" cr="" w="" l="function" p="N"/>
+     <dpg d="E5" g="w29201" t="antecedent" cr="" w="" l="function" p="N"/>
+     <dpg d="w29207" g="w29206" t="obj" cr="obj:w29206" w="aspects" l="aspect" p="N"/>
+     <dpg d="w29208" g="w29207" t="pnmod" cr="pnmod:w29207" w="independent" l="~" p="A"/>
+     <dpg d="w29209" g="w29208" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29210" g="w29211" t="det" cr="det:w29211" w="the" l="~" p="Det"/>
+     <dpg d="w29211" g="w29209" t="pcomp-n" cr="mod*of*n:w29208" w="syntaxin" l="~" p="N"/>
+     <dpg d="w29212" g="w29213" t="num" cr="num:w29213" w="3" l="~" p="N"/>
+     <dpg d="w29213" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="interaction" l="~" p="N"/>
+     <dpg d="w29214" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

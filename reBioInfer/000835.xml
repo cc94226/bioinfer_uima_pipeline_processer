@@ -1,0 +1,109 @@
+<rexml>
+<doc id="835">
+  <text>
+<p><s id="s1"><w id="w12905">In</w> <w id="w12906">the</w> <w id="w12907">ADE2</w> <w id="w12908">assay</w> <w id="w12909">system</w> <w id="w12910">,</w> <w id="w12911">silencing</w> <w id="w12912">depends</w> <w id="w12913">completely</w> <w id="w12914">upon</w> <w id="w12915">the</w> <w id="w12916">function</w> <w id="w12917">of</w> <w id="w12918">the</w> <w id="w12919">SIR</w> <w id="w12920">genes</w> <w id="w12921">,</w> <w id="w12922">known</w> <w id="w12923">trans-acting</w> <w id="w12924">regulators</w> <w id="w12925">of</w> <w id="w12926">the</w> <w id="w12927">silent</w> <w id="w12928">loci</w> <w id="w12929">,</w> <w id="w12930">and</w> <w id="w12931">is</w> <w id="w12932">sensitive</w> <w id="w12933">to</w> <w id="w12934">the</w> <w id="w12935">gene</w> <w id="w12936">dosage</w> <w id="w12937">of</w> <w id="w12938">two</w> <w id="w12939">SIR</w> <w id="w12940">genes</w> <w id="w12941">,</w> <w id="w12942">SIR1</w> <w id="w12943">and</w> <w id="w12944">SIR4</w> <w id="w12945">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2992" gid="g2870" t="Gene" fr="w12942" to="w12942" nam="yes">
+     <textspan type="extent">SIR1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.835.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2993" gid="g2871" t="Gene/protein/RNA" fr="w12919" to="w12919" nam="yes">
+     <textspan type="extent">SIR</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.835.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2994" gid="g2872" t="Gene" fr="w12944" to="w12944" nam="yes">
+     <textspan type="extent">SIR4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.835.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2995" gid="g2873" t="Gene" fr="w12939" to="w12940" nam="yes">
+     <textspan type="extent">SIR genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.835.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2996" gid="g2874" t="Gene/protein/RNA" fr="w12907" to="w12907" nam="yes">
+     <textspan type="extent">ADE2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.835.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2997" gid="g2875" t="Gene" fr="w12939" to="w12939" nam="yes">
+     <textspan type="extent">SIR</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.835.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1156" t="MEMBER" e1="e2995" e2="e2992" re="">
+     <textspan type="extent">SIR genes , SIR1</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1157" t="MEMBER" e1="e2995" e2="e2994" re="">
+     <textspan type="extent">SIR genes , SIR1 and SIR4</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

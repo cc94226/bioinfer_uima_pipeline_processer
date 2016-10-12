@@ -1,0 +1,41 @@
+<rexml>
+<doc id="962">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w15029" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="Mechanism" l="~" p="N"/>
+     <dpg d="w15030" g="w15029" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15031" g="w15030" t="pcomp-n" cr="mod*of*n:w15029" w="inhibition" l="~" p="N"/>
+     <dpg d="w15032" g="w15031" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="E0" g="w15032" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="s+subj:w15033" w="" l="~" p="N"/>
+     <dpg d="w15033" g="E0" t="i" cr="mod*of*c:w15031" w="proliferating" l="proliferate" p="V"/>
+     <dpg d="E4" g="w15033" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="E1" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w15034" g="w15038" t="nn" cr="nn:w15038" w="cell" l="~" p="N"/>
+     <dpg d="w15035" g="w15038" t="mod" cr="mod:w15038" w="nuclear" l="~" p="A"/>
+     <dpg d="w15036" g="w15037" t="lex-mod" cr="lex-mod:w15037" w="antigen" l="~" p="U"/>
+     <dpg d="w15037" g="w15038" t="mod" cr="mod:w15038" w="-dependent" l="antigen -dependent" p="A"/>
+     <dpg d="w15038" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="DNA" l="~" p="N"/>
+     <dpg d="w15039" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="synthesis" l="~" p="N"/>
+     <dpg d="w15040" g="w15039" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w15041" g="w15045" t="det" cr="det:w15045" w="the" l="~" p="Det"/>
+     <dpg d="w15042" g="w15045" t="mod" cr="mod:w15045" w="cyclin-dependent" l="cyclin-dependent" p="A"/>
+     <dpg d="w15043" g="w15045" t="nn" cr="nn:w15045" w="kinase" l="~" p="N"/>
+     <dpg d="w15044" g="w15045" t="nn" cr="nn:w15045" w="inhibitor" l="~" p="N"/>
+     <dpg d="w15045" g="w15040" t="pcomp-n" cr="mod*by*n:w15039" w="p21" l="~" p="N"/>
+     <dpg d="w15046" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

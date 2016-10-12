@@ -1,0 +1,253 @@
+<rexml>
+<doc id="555">
+  <text>
+<p><s id="s1"><w id="w7773">Glutathione</w> <w id="w7774">S-transferase</w> <w id="w7775">pull-down</w> <w id="w7776">performed</w> <w id="w7777">with</w> <w id="w7778">Tax</w> <w id="w7779">deletion</w> <w id="w7780">mutants</w> <w id="w7781">and</w> <w id="w7782">peptide</w> <w id="w7783">competition</w> <w id="w7784">have</w> <w id="w7785">localized</w> <w id="w7786">the</w> <w id="w7787">site</w> <w id="w7788">in</w> <w id="w7789">Tax</w> <w id="w7790">critical</w> <w id="w7791">for</w> <w id="w7792">binding</w> <w id="w7793">CBP</w><w id="w7794">/</w><w id="w7795">p300</w> <w id="w7796">to</w> <w id="w7797">a</w> <w id="w7798">highly</w> <w id="w7799">protease-sensitive</w> <w id="w7800">region</w> <w id="w7801">around</w> <w id="w7802">amino</w> <w id="w7803">acid</w> <w id="w7804">residues</w> <w id="w7805">81</w> <w id="w7806">to</w> <w id="w7807">95</w> <w id="w7808">(</w> <w id="w7809">81QRTSKTLKVLTPPIT95</w> <w id="w7810">)</w> <w id="w7811">which</w> <w id="w7812">lies</w> <w id="w7813">between</w> <w id="w7814">the</w> <w id="w7815">domains</w> <w id="w7816">previously</w> <w id="w7817">proposed</w> <w id="w7818">to</w> <w id="w7819">be</w> <w id="w7820">important</w> <w id="w7821">for</w> <w id="w7822">CREB</w> <w id="w7823">binding</w> <w id="w7824">and</w> <w id="w7825">Tax</w> <w id="w7826">subunit</w> <w id="w7827">dimerization</w> <w id="w7828">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1831" gid="g1756" t="Gene/protein/RNA" fr="w7773" to="w7774" nam="yes">
+     <textspan type="extent">Glutathione S-transferase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.555.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1832" gid="g1757" t="RELATIONSHIP_TEXTBINDING" fr="w7792" to="w7792">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.555.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1833" gid="g1758" t="Substructure_of_protein" fr="w7787" to="w7789" nam="yes">
+     <textspan type="extent">site in Tax</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.555.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1834" gid="g1759" t="Gene/protein/RNA" fr="w7778" to="w7778" nam="yes">
+     <textspan type="extent">Tax</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.555.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1835" gid="g1760" t="Individual_protein" fr="w7822" to="w7822" nam="yes">
+     <textspan type="extent">CREB</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.555.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1836" gid="g1761" t="Individual_protein" fr="w7793" to="w7793" nam="yes">
+     <textspan type="extent">CBP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.555.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1837" gid="g1762" t="Individual_protein" fr="w7789" to="w7789" nam="yes">
+     <textspan type="extent">Tax</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.555.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1838" gid="g1763" t="BINDING" fr="w7825" to="w7827">
+     <textspan type="extent">Tax subunit dimerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="BINDING"/>
+      <exattr n="bd" v="e.555.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1839" gid="g1764" t="Individual_protein" fr="w7825" to="w7826" nam="yes">
+     <textspan type="extent">Tax subunit</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.555.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e1840" gid="g1765" t="Substructure_of_protein" fr="w7815" to="w7815" nam="yes">
+     <textspan type="extent">domains</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.555.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e1841" gid="g1766" t="RELATIONSHIP_TEXTBINDING" fr="w7820" to="w7821">
+     <textspan type="extent">important for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.555.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e1842" gid="g1767" t="Individual_protein" fr="w7825" to="w7825" nam="yes">
+     <textspan type="extent">Tax</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.555.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e1843" gid="g1768" t="RELATIONSHIP_TEXTBINDING" fr="w7790" to="w7791">
+     <textspan type="extent">critical for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.555.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e1844" gid="g1769" t="Individual_protein" fr="w7795" to="w7795" nam="yes">
+     <textspan type="extent">p300</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.555.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e1845" gid="g1770" t="RELATIONSHIP_TEXTBINDING" fr="w7823" to="w7823">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.555.14"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r711" t="CONDITION" e1="e1833" e2="e1832" re="e1843">
+     <textspan type="extent">site in Tax critical for binding CBP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.555.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r712" t="BIND" e1="e1837" e2="e1836" re="e1832">
+     <textspan type="extent">Tax critical for binding CBP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.555.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r713" t="CONDITION" e1="e1833" e2="e1832" re="e1843">
+     <textspan type="extent">site in Tax critical for binding CBP / p300</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.555.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r714" t="BIND" e1="e1837" e2="e1844" re="e1832">
+     <textspan type="extent">Tax critical for binding CBP / p300</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.555.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r715" t="REL-ENT" e1="e1840" e2="e1837" re="">
+     <textspan type="extent">Tax critical for binding CBP / p300 to a highly protease-sensitive region around amino acid residues 81 to 95 ( 81QRTSKTLKVLTPPIT95 ) which lies between the domains</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="REL-ENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r716" t="CONDITION" e1="e1840" e2="e1845" re="e1841">
+     <textspan type="extent">Tax critical for binding CBP / p300 to a highly protease-sensitive region around amino acid residues 81 to 95 ( 81QRTSKTLKVLTPPIT95 ) which lies between the domains previously proposed to be important for CREB binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.555.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r717" t="BIND" e1="e1837" e2="e1835" re="e1845">
+     <textspan type="extent">Tax critical for binding CBP / p300 to a highly protease-sensitive region around amino acid residues 81 to 95 ( 81QRTSKTLKVLTPPIT95 ) which lies between the domains previously proposed to be important for CREB binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.555.14"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r718" t="CONDITION" e1="e1840" e2="e1838" re="e1841">
+     <textspan type="extent">domains previously proposed to be important for CREB binding and Tax subunit dimerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.555.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

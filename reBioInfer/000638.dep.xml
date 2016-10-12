@@ -1,0 +1,41 @@
+<rexml>
+<doc id="638">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9606" g="E1" t="mod" cr="mod:w9615" w="However" l="~" p="A"/>
+     <dpg d="w9607" g="E1" t="punc" cr="punc:w9615" w="," l="~" p="U"/>
+     <dpg d="w9608" g="w9611" t="det" cr="det:w9611" w="the" l="~" p="Det"/>
+     <dpg d="w9609" g="w9611" t="nn" cr="nn:w9611" w="recombinant" l="~" p="N"/>
+     <dpg d="w9610" g="w9611" t="nn" cr="nn:w9611" w="fusion" l="~" p="N"/>
+     <dpg d="w9611" g="w9615" t="s" cr="s+subj:w9612||s+subj:w9615" w="protein" l="~" p="N"/>
+     <dpg d="E0" g="w9611" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w9611" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w9612" g="E0" t="i" cr="rel:w9611" w="containing" l="contain" p="V"/>
+     <dpg d="E4" g="w9612" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E4" g="E2" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w9613" g="w9614" t="mod" cr="mod:w9614" w="wild-type" l="wild-type" p="A"/>
+     <dpg d="w9614" g="w9612" t="obj" cr="obj:w9612" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w9615" g="E1" t="i" cr="" w="precipitated" l="precipitate" p="V"/>
+     <dpg d="E5" g="w9615" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E5" g="w9611" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w9616" g="w9615" t="obj" cr="obj:w9615" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w9617" g="w9616" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w9618" g="w9619" t="det" cr="det:w9619" w="these" l="~" p="Det"/>
+     <dpg d="w9619" g="w9617" t="pcomp-n" cr="mod*from*n:w9616" w="cells" l="cell" p="N"/>
+     <dpg d="w9620" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

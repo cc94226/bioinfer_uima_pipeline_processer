@@ -1,0 +1,47 @@
+<rexml>
+<doc id="34">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w530" g="w531" t="nn" cr="nn:w531" w="Actin" l="~" p="N"/>
+     <dpg d="w531" g="w537" t="s" cr="s+obj:w537" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w532" g="w531" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w533" g="w534" t="mod" cr="mod:w534" w="different" l="~" p="A"/>
+     <dpg d="w534" g="w532" t="pcomp-n" cr="mod*from*n:w531" w="species" l="specie" p="N"/>
+     <dpg d="w535" g="w537" t="be" cr="be:w537" w="were" l="be" p="be"/>
+     <dpg d="w536" g="w537" t="amod" cr="amod:w537" w="also" l="~" p="A"/>
+     <dpg d="w537" g="E1" t="i" cr="" w="compared" l="compare" p="V"/>
+     <dpg d="E3" g="w537" t="obj" cr="" w="" l="isoform" p="N"/>
+     <dpg d="E3" g="w531" t="antecedent" cr="" w="" l="isoform" p="N"/>
+     <dpg d="w538" g="E1" t="punc" cr="punc:w537" w="," l="~" p="U"/>
+     <dpg d="w539" g="E1" t="punc" cr="punc:w537" w="and" l="~" p="U"/>
+     <dpg d="E0" g="E1" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w540" g="w541" t="det" cr="det:w541" w="the" l="~" p="Det"/>
+     <dpg d="w541" g="w551" t="s" cr="s+obj:w551" w="effect" l="~" p="N"/>
+     <dpg d="w542" g="w541" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w543" g="w542" t="pcomp-n" cr="mod*of*n:w541" w="profilin" l="~" p="N"/>
+     <dpg d="w544" g="w543" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w545" g="w547" t="det" cr="det:w547" w="the" l="~" p="Det"/>
+     <dpg d="w546" g="w547" t="mod" cr="mod:w547" w="thermal" l="~" p="A"/>
+     <dpg d="w547" g="w544" t="pcomp-n" cr="mod*on*n:w543" w="stability" l="~" p="N"/>
+     <dpg d="w548" g="w547" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w549" g="w548" t="pcomp-n" cr="mod*of*n:w547" w="actin" l="~" p="N"/>
+     <dpg d="w550" g="w551" t="be" cr="be:w551" w="was" l="be" p="be"/>
+     <dpg d="w551" g="E0" t="i" cr="conj:w537" w="studied" l="study" p="V"/>
+     <dpg d="E4" g="w551" t="obj" cr="" w="" l="effect" p="N"/>
+     <dpg d="E4" g="w541" t="antecedent" cr="" w="" l="effect" p="N"/>
+     <dpg d="w552" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

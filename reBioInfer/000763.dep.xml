@@ -1,0 +1,64 @@
+<rexml>
+<doc id="763">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11827" g="E2" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w11828" g="w11829" t="mod" cr="mod:w11829" w="flattened" l="~" p="A"/>
+     <dpg d="w11829" g="w11827" t="pcomp-n" cr="mod*in*n:w11835" w="cells" l="cell" p="N"/>
+     <dpg d="w11830" g="w11829" t="mod" cr="" w="under" l="~" p="Prep"/>
+     <dpg d="w11831" g="w11832" t="nn" cr="nn:w11832" w="starvation" l="~" p="N"/>
+     <dpg d="w11832" g="w11830" t="pcomp-n" cr="mod*under*n:w11829" w="stress" l="~" p="N"/>
+     <dpg d="w11833" g="E2" t="punc" cr="punc:w11835" w="," l="~" p="U"/>
+     <dpg d="w11834" g="w11835" t="s" cr="s+subj:w11835||s+subj:w11838||s+subj:w11842" w="cofilin" l="~" p="N"/>
+     <dpg d="w11835" g="E2" t="i" cr="" w="localized" l="localize" p="V"/>
+     <dpg d="E6" g="w11835" t="subj" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="E6" g="w11834" t="antecedent" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="w11836" g="w11835" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="E1" g="w11836" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w11834" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w11837" g="w11838" t="amod" cr="amod:w11838" w="dramatically" l="~" p="A"/>
+     <dpg d="w11838" g="E1" t="i" cr="mod*at*c:w11835" w="reorganizing" l="reorganize" p="V"/>
+     <dpg d="E7" g="w11838" t="subj" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="w11839" g="w11840" t="lex-mod" cr="lex-mod:w11840" w="actin" l="~" p="U"/>
+     <dpg d="w11840" g="w11838" t="obj" cr="obj:w11838" w="-cytoskeletons" l="actin -cytoskeletons" p="N"/>
+     <dpg d="w11841" g="w11840" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="E0" g="w11841" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w11842" g="E0" t="i" cr="mod*in*c:w11840" w="ruffling" l="ruffle" p="V"/>
+     <dpg d="E8" g="w11842" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w11843" g="w11842" t="obj" cr="obj:w11842" w="membranes" l="membrane" p="N"/>
+     <dpg d="w11844" g="w11843" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11845" g="w11847" t="det" cr="det:w11847" w="the" l="~" p="Det"/>
+     <dpg d="w11846" g="w11847" t="lex-mod" cr="lex-mod:w11847" w="leading" l="~" p="U"/>
+     <dpg d="w11847" g="w11844" t="pcomp-n" cr="mod*of*n:w11843" w="edge" l="leading edge" p="N"/>
+     <dpg d="w11848" g="w11844" t="punc" cr="punc:w11844" w="," l="~" p="U"/>
+     <dpg d="w11849" g="w11844" t="punc" cr="punc:w11844" w="but" l="~" p="U"/>
+     <dpg d="w11850" g="w11844" t="punc" cr="punc:w11844" w="not" l="~" p="U"/>
+     <dpg d="w11851" g="w11844" t="conj" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w11852" g="w11854" t="mod" cr="mod:w11854" w="rigid" l="~" p="A"/>
+     <dpg d="w11853" g="w11854" t="nn" cr="nn:w11854" w="actin" l="~" p="N"/>
+     <dpg d="w11854" g="w11851" t="pcomp-n" cr="mod*at*n:w11843" w="meshwork" l="~" p="N"/>
+     <dpg d="w11855" g="w11854" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w11856" g="w11858" t="mod" cr="mod:w11858" w="focal" l="~" p="A"/>
+     <dpg d="w11857" g="w11858" t="nn" cr="nn:w11858" w="adhesion" l="~" p="N"/>
+     <dpg d="w11858" g="w11855" t="pcomp-n" cr="mod*in*n:w11854" w="plaques" l="plaque" p="N"/>
+     <dpg d="w11859" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,39 @@
+<rexml>
+<doc id="805">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12632" g="w12635" t="mod" cr="mod:w12635" w="Insulin-like" l="Insulin-like" p="A"/>
+     <dpg d="w12633" g="w12635" t="nn" cr="nn:w12635" w="growth" l="~" p="N"/>
+     <dpg d="w12634" g="w12635" t="lex-mod" cr="lex-mod:w12635" w="factor" l="~" p="U"/>
+     <dpg d="w12635" g="w12636" t="s" cr="s+subj:w12636" w="I" l="factor I" p="N"/>
+     <dpg d="w12636" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="stimulates" l="stimulate" p="V"/>
+     <dpg d="E3" g="w12636" t="subj" cr="" w="" l="factor I" p="N"/>
+     <dpg d="E3" g="w12635" t="antecedent" cr="" w="" l="factor I" p="N"/>
+     <dpg d="w12637" g="w12640" t="mod" cr="mod:w12640" w="cardiac" l="~" p="A"/>
+     <dpg d="w12638" g="w12640" t="nn" cr="nn:w12640" w="myosin" l="~" p="N"/>
+     <dpg d="w12639" g="w12640" t="mod" cr="mod:w12640" w="heavy" l="~" p="A"/>
+     <dpg d="w12640" g="w12636" t="obj" cr="obj:w12636" w="chain" l="~" p="N"/>
+     <dpg d="w12641" g="w12640" t="punc" cr="punc:w12640" w="and" l="~" p="U"/>
+     <dpg d="w12642" g="w12643" t="nn" cr="nn:w12643" w="actin" l="~" p="N"/>
+     <dpg d="w12643" g="w12640" t="conj" cr="conj:w12640" w="synthesis" l="~" p="N"/>
+     <dpg d="w12644" g="E2" t="punc" cr="punc:E2" w="in" l="~" p="U"/>
+     <dpg d="w12645" g="E2" t="punc" cr="punc:E2" w="the" l="~" p="U"/>
+     <dpg d="w12646" g="E2" t="subcat" cr="subcat:E2" w="awake" l="~" p="A"/>
+     <dpg d="w12647" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="rat" l="~" p="N"/>
+     <dpg d="w12648" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

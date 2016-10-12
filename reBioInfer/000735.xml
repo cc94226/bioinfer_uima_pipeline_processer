@@ -1,0 +1,260 @@
+<rexml>
+<doc id="735">
+  <text>
+<p><s id="s1"><w id="w11383">In</w> <w id="w11384">contrast</w> <w id="w11385">,</w> <w id="w11386">act1-159</w> <w id="w11387">partially</w> <w id="w11388">suppresses</w> <w id="w11389">the</w> <w id="w11390">temperature</w> <w id="w11391">sensitivity</w> <w id="w11392">of</w> <w id="w11393">a</w> <w id="w11394">tropomyosin</w> <w id="w11395">mutant</w> <w id="w11396">,</w> <w id="w11397">and</w> <w id="w11398">the</w> <w id="w11399">loss</w> <w id="w11400">of</w> <w id="w11401">cytoplasmic</w> <w id="w11402">cables</w> <w id="w11403">seen</w> <w id="w11404">in</w> <w id="w11405">fimbrin</w> <w id="w11406">,</w> <w id="w11407">Mdm20p</w> <w id="w11408">,</w> <w id="w11409">and</w> <w id="w11410">tropomyosin</w> <w id="w11411">null</w> <w id="w11412">mutants</w> <w id="w11413">,</w> <w id="w11414">suggesting</w> <w id="w11415">filament</w> <w id="w11416">stabilizing</w> <w id="w11417">functions</w> <w id="w11418">for</w> <w id="w11419">these</w> <w id="w11420">actin</w><w id="w11421">-</w><w id="w11422">binding</w> <w id="w11423">proteins</w> <w id="w11424">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2652" gid="g2540" t="RELATIONSHIP_TEXTBINDING" fr="w11388" to="w11388">
+     <textspan type="extent">suppresses</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.735.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2653" gid="g2541" t="RELATIONSHIP_TEXTBINDING" fr="w11422" to="w11422">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.735.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2654" gid="g2542" t="Individual_protein" fr="w11386" to="w11386" nam="yes">
+     <textspan type="extent">act1-159</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.735.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2655" gid="g2543" t="DECREASE" fr="w11399" to="w11412">
+     <textspan type="extent">loss [..] seen in fimbrin [..] mutants</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="DECREASE"/>
+      <exattr n="bd" v="e.735.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2656" gid="g2544" t="Physical_property" fr="w11391" to="w11395">
+     <textspan type="extent">sensitivity of a tropomyosin mutant</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Physical_property"/>
+      <exattr n="bd" v="e.735.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2657" gid="g2545" t="Individual_protein" fr="w11420" to="w11420" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.735.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2658" gid="g2546" t="DECREASE" fr="w11399" to="w11412">
+     <textspan type="extent">loss [..] seen in [..] tropomyosin [..] mutants</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="DECREASE"/>
+      <exattr n="bd" v="e.735.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2659" gid="g2547" t="Mutant" fr="w11393" to="w11395" nam="yes">
+     <textspan type="extent">a tropomyosin mutant</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.735.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2660" gid="g2548" t="Individual_protein" fr="w11419" to="w11423" nam="yes">
+     <textspan type="extent">these [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.735.8"/>
+      <exattr n="nst" v="st.735.36.0"/>
+      <exattr n="nst" v="st.735.38.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2661" gid="g2549" t="Individual_protein" fr="w11394" to="w11394" nam="yes">
+     <textspan type="extent">tropomyosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.735.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e2662" gid="g2550" t="Individual_protein" fr="w11407" to="w11407" nam="yes">
+     <textspan type="extent">Mdm20p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.735.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e2663" gid="g2551" t="Individual_protein" fr="w11405" to="w11405" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.735.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e2664" gid="g2552" t="Mutant" fr="w11405" to="w11412" nam="yes">
+     <textspan type="extent">fimbrin [..] mutants</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.735.12"/>
+      <exattr n="nst" v="st.735.22.0"/>
+      <exattr n="nst" v="st.735.29.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2665" gid="g2553" t="Individual_protein" fr="w11410" to="w11410" nam="yes">
+     <textspan type="extent">tropomyosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.735.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e2666" gid="g2554" t="Mutant" fr="w11410" to="w11412" nam="yes">
+     <textspan type="extent">tropomyosin [..] mutants</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.735.14"/>
+      <exattr n="nst" v="st.735.27.0"/>
+      <exattr n="nst" v="st.735.29.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2667" gid="g2555" t="Mutant" fr="w11407" to="w11412" nam="yes">
+     <textspan type="extent">Mdm20p [..] mutants</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.735.15"/>
+      <exattr n="nst" v="st.735.24.0"/>
+      <exattr n="nst" v="st.735.29.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2668" gid="g2549" t="Individual_protein" fr="w11419" to="w11419" nam="yes">
+     <textspan type="extent">these</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.735.16"/>
+     </exattrs>
+    </ne>
+    <ne id="e2669" gid="g2556" t="DECREASE" fr="w11399" to="w11412">
+     <textspan type="extent">loss [..] seen in [..] Mdm20p [..] mutants</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="DECREASE"/>
+      <exattr n="bd" v="e.735.17"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1016" t="DECREASE" e1="e2654" e2="e2656" re="e2652">
+     <textspan type="extent">act1-159 partially suppresses the temperature sensitivity of a tropomyosin mutant</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.735.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Amount"/>
+      <exattr n="t4" v="DECREASE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1017" t="SUPPRESS" e1="e2654" e2="e2655" re="e2652">
+     <textspan type="extent">act1-159 partially suppresses the temperature sensitivity of a tropomyosin mutant , and the loss of cytoplasmic cables seen in fimbrin , Mdm20p , and tropomyosin null mutants</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.735.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r1018" t="SUPPRESS" e1="e2654" e2="e2669" re="e2652">
+     <textspan type="extent">act1-159 partially suppresses the temperature sensitivity of a tropomyosin mutant , and the loss of cytoplasmic cables seen in fimbrin , Mdm20p , and tropomyosin null mutants</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.735.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r1019" t="SUPPRESS" e1="e2654" e2="e2658" re="e2652">
+     <textspan type="extent">act1-159 partially suppresses the temperature sensitivity of a tropomyosin mutant , and the loss of cytoplasmic cables seen in fimbrin , Mdm20p , and tropomyosin null mutants</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.735.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r1024" t="BIND" e1="e2660" e2="e2657" re="e2653">
+     <textspan type="extent">these actin - binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.735.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,70 @@
+<rexml>
+<doc id="1648">
+  <text>
+<p><s id="s1"><w id="w26283">The</w> <w id="w26284">results</w> <w id="w26285">clearly</w> <w id="w26286">showed</w> <w id="w26287">that</w> <w id="w26288">the</w> <w id="w26289">mutated</w> <w id="w26290">cofilin</w> <w id="w26291">possessing</w> <w id="w26292">KTLKK</w> <w id="w26293">instead</w> <w id="w26294">of</w> <w id="w26295">KKRKK</w> <w id="w26296">did</w> <w id="w26297">not</w> <w id="w26298">translocate</w> <w id="w26299">into</w> <w id="w26300">the</w> <w id="w26301">nuclei</w> <w id="w26302">in</w> <w id="w26303">response</w> <w id="w26304">to</w> <w id="w26305">heat</w> <w id="w26306">shock</w> <w id="w26307">whereas</w> <w id="w26308">a</w> <w id="w26309">recombinant</w> <w id="w26310">cofilin</w> <w id="w26311">with</w> <w id="w26312">the</w> <w id="w26313">unaltered</w> <w id="w26314">sequence</w> <w id="w26315">of</w> <w id="w26316">KKRKK</w> <w id="w26317">responded</w> <w id="w26318">to</w> <w id="w26319">heat</w> <w id="w26320">shock</w> <w id="w26321">and</w> <w id="w26322">formed</w> <w id="w26323">intranuclear</w> <w id="w26324">rods</w> <w id="w26325">together</w> <w id="w26326">with</w> <w id="w26327">actin</w> <w id="w26328">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6061" gid="g5781" t="Gene/protein/RNA" fr="w26290" to="w26290" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1648.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6062" gid="g5782" t="RELATIONSHIP_TEXTBINDING" fr="w26322" to="w26326">
+     <textspan type="extent">formed [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1648.1"/>
+      <exattr n="nst" v="st.1648.39.0"/>
+      <exattr n="nst" v="st.1648.43.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6063" gid="g5783" t="Individual_protein" fr="w26327" to="w26327" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1648.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6064" gid="g5784" t="Individual_protein" fr="w26310" to="w26310" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1648.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2311" t="ATTACH" e1="e6064" e2="e6063" re="e6062">
+     <textspan type="extent">cofilin with the unaltered sequence of KKRKK responded to heat shock and formed intranuclear rods together with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1648.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="ATTACH"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

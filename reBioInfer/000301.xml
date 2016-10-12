@@ -1,0 +1,60 @@
+<rexml>
+<doc id="301">
+  <text>
+<p><s id="s1"><w id="w4643">Cells</w> <w id="w4644">were</w> <w id="w4645">fixed</w> <w id="w4646">and</w> <w id="w4647">stained</w> <w id="w4648">with</w> <w id="w4649">antibodies</w> <w id="w4650">to</w> <w id="w4651">vascular</w> <w id="w4652">endothelial</w> <w id="w4653">(</w> <w id="w4654">VE</w> <w id="w4655">)</w> <w id="w4656">cadherin</w> <w id="w4657">,</w> <w id="w4658">alpha-catenin</w> <w id="w4659">,</w> <w id="w4660">beta-catenin</w> <w id="w4661">,</w> <w id="w4662">or</w> <w id="w4663">plakoglobin</w> <w id="w4664">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1111" gid="g1057" t="Gene/protein/RNA" fr="w4651" to="w4656" nam="yes">
+     <textspan type="extent">vascular endothelial [..] cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.301.0"/>
+      <exattr n="nst" v="st.301.8.0"/>
+      <exattr n="nst" v="st.301.9.0"/>
+      <exattr n="nst" v="st.301.13.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1112" gid="g1058" t="Gene/protein/RNA" fr="w4660" to="w4660" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.301.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1113" gid="g1059" t="Gene/protein/RNA" fr="w4658" to="w4658" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.301.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1114" gid="g1060" t="Gene/protein/RNA" fr="w4663" to="w4663" nam="yes">
+     <textspan type="extent">plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.301.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

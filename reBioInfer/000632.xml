@@ -1,0 +1,76 @@
+<rexml>
+<doc id="632">
+  <text>
+<p><s id="s1"><w id="w9457">However</w> <w id="w9458">,</w> <w id="w9459">regulation</w> <w id="w9460">of</w> <w id="w9461">profilin</w> <w id="w9462">function</w> <w id="w9463">is</w> <w id="w9464">generally</w> <w id="w9465">unknown</w> <w id="w9466">and</w> <w id="w9467">controversy</w> <w id="w9468">exists</w> <w id="w9469">regarding</w> <w id="w9470">profilin</w> <w id="w9471">effects</w> <w id="w9472">on</w> <w id="w9473">actin</w> <w id="w9474">polymerization</w> <w id="w9475">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2252" gid="g2155" t="Gene/protein/RNA" fr="w9461" to="w9461" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.632.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2253" gid="g2156" t="RELATIONSHIP_TEXTBINDING" fr="w9471" to="w9472">
+     <textspan type="extent">effects on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.632.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2254" gid="g2157" t="POLYMERIZATION" fr="w9473" to="w9474">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.632.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2255" gid="g2158" t="Individual_protein" fr="w9470" to="w9470" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.632.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2256" gid="g2159" t="Individual_protein" fr="w9473" to="w9473" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.632.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r879" t="AFFECT" e1="e2255" e2="e2254" re="e2253">
+     <textspan type="extent">profilin effects on actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.632.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

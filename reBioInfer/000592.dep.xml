@@ -1,0 +1,67 @@
+<rexml>
+<doc id="592">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8510" g="E2" t="mod" cr="mod:w8513" w="Here" l="~" p="N"/>
+     <dpg d="w8511" g="E2" t="punc" cr="punc:w8513" w="," l="~" p="U"/>
+     <dpg d="w8512" g="w8513" t="s" cr="s+subj:w8513" w="we" l="~" p="N"/>
+     <dpg d="w8513" g="E2" t="i" cr="" w="show" l="~" p="V"/>
+     <dpg d="E5" g="w8513" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E5" g="w8512" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w8514" g="w8515" t="det" cr="det:w8515" w="that" l="~" p="Det"/>
+     <dpg d="w8515" g="w8513" t="obj" cr="obj:w8513" w="PRP5" l="~" p="N"/>
+     <dpg d="w8516" g="w8513" t="punc" cr="punc:w8513" w="(" l="~" p="U"/>
+     <dpg d="E1" g="w8513" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8517" g="w8523" t="det" cr="det:w8523" w="a" l="~" p="Det"/>
+     <dpg d="w8518" g="w8523" t="mod" cr="mod:w8523" w="DEAD" l="~" p="A"/>
+     <dpg d="w8519" g="w8523" t="nn" cr="nn:w8523" w="box" l="~" p="N"/>
+     <dpg d="w8520" g="w8522" t="lex-mod" cr="lex-mod:w8522" w="helicase" l="~" p="U"/>
+     <dpg d="w8521" g="w8522" t="lex-mod" cr="lex-mod:w8522" w="-" l="~" p="U"/>
+     <dpg d="w8522" g="w8523" t="mod" cr="mod:w8523" w="like" l="helicase - like" p="A"/>
+     <dpg d="w8523" g="w8530" t="s" cr="s:w8530||subj:w8531" w="protein" l="~" p="N"/>
+     <dpg d="w8524" g="w8523" t="punc" cr="punc:w8523" w=")" l="~" p="U"/>
+     <dpg d="w8525" g="w8523" t="punc" cr="punc:w8523" w="," l="~" p="U"/>
+     <dpg d="w8526" g="w8523" t="conj" cr="conj:w8523" w="PRP9" l="~" p="N"/>
+     <dpg d="w8527" g="w8526" t="punc" cr="punc:w8526" w="," l="~" p="U"/>
+     <dpg d="w8528" g="w8526" t="punc" cr="punc:w8526" w="and" l="~" p="U"/>
+     <dpg d="w8529" g="w8526" t="conj" cr="conj:w8526" w="PRP11" l="~" p="N"/>
+     <dpg d="w8530" g="E1" t="i" cr="fc:w8513" w="are" l="be" p="VBE"/>
+     <dpg d="w8531" g="w8530" t="pred" cr="pred:w8530" w="each" l="~" p="N"/>
+     <dpg d="E6" g="w8531" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E6" g="w8523" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w8532" g="w8531" t="pnmod" cr="pnmod:w8531" w="required" l="~" p="A"/>
+     <dpg d="w8533" g="w8532" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w8534" g="w8536" t="det" cr="det:w8536" w="the" l="~" p="Det"/>
+     <dpg d="w8535" g="w8536" t="nn" cr="nn:w8536" w="U2" l="~" p="N"/>
+     <dpg d="w8536" g="w8533" t="pcomp-n" cr="mod*for*n:w8532||s+subj:w8538" w="snRNP" l="~" p="N"/>
+     <dpg d="E0" g="w8536" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w8536" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w8537" g="w8538" t="aux" cr="aux:w8538" w="to" l="~" p="Aux"/>
+     <dpg d="w8538" g="E0" t="i" cr="rel:w8536" w="bind" l="~" p="V"/>
+     <dpg d="E7" g="w8538" t="subj" cr="" w="" l="snRNP" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="snRNP" p="N"/>
+     <dpg d="w8539" g="w8538" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w8540" g="w8541" t="det" cr="det:w8541" w="the" l="~" p="Det"/>
+     <dpg d="w8541" g="w8539" t="pcomp-n" cr="mod*to*n:w8538" w="pre-spliceosome" l="pre-spliceosome" p="N"/>
+     <dpg d="w8542" g="w8541" t="mod" cr="" w="during" l="~" p="Prep"/>
+     <dpg d="w8543" g="w8544" t="nn" cr="nn:w8544" w="spliceosome" l="~" p="N"/>
+     <dpg d="w8544" g="w8542" t="pcomp-n" cr="mod*during*n:w8541" w="assembly" l="~" p="N"/>
+     <dpg d="w8545" g="w8546" t="lex-mod" cr="lex-mod:w8546" w="in" l="~" p="U"/>
+     <dpg d="w8546" g="w8538" t="mod" cr="mod:w8538" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w8547" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

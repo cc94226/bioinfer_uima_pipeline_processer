@@ -1,0 +1,138 @@
+<rexml>
+<doc id="124">
+  <text>
+<p><s id="s1"><w id="w1987">Analysis</w> <w id="w1988">of</w> <w id="w1989">the</w> <w id="w1990">formation</w> <w id="w1991">of</w> <w id="w1992">the</w> <w id="w1993">calf</w> <w id="w1994">spleen</w> <w id="w1995">complex</w> <w id="w1996">in</w> <w id="w1997">the</w> <w id="w1998">presence</w> <w id="w1999">of</w> <w id="w2000">varying</w> <w id="w2001">concentrations</w> <w id="w2002">of</w> <w id="w2003">divalent</w> <w id="w2004">cations</w> <w id="w2005">gave</w> <w id="w2006">evidence</w> <w id="w2007">for</w> <w id="w2008">the</w> <w id="w2009">presence</w> <w id="w2010">of</w> <w id="w2011">a</w> <w id="w2012">high-affinity</w> <w id="w2013">divalent-cation-binding</w> <w id="w2014">site</w> <w id="w2015">on</w> <w id="w2016">the</w> <w id="w2017">spleen</w> <w id="w2018">actin</w> <w id="w2019">(</w> <w id="w2020">beta</w> <w id="w2021">,</w> <w id="w2022">gamma</w> <w id="w2023">)</w> <w id="w2024">which</w> <w id="w2025">appears</w> <w id="w2026">to</w> <w id="w2027">regulate</w> <w id="w2028">the</w> <w id="w2029">interaction</w> <w id="w2030">with</w> <w id="w2031">profilin</w> <w id="w2032">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e494" gid="g480" t="RELATIONSHIP_TEXTBINDING" fr="w2027" to="w2027">
+     <textspan type="extent">regulate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.124.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e495" gid="g481" t="Individual_protein" fr="w2017" to="w2020" nam="yes">
+     <textspan type="extent">spleen actin [..] beta</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.124.1"/>
+      <exattr n="nst" v="st.124.30.0"/>
+      <exattr n="nst" v="st.124.31.0"/>
+      <exattr n="nst" v="st.124.33.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e496" gid="g482" t="RELATIONSHIP_TEXTBINDING" fr="w2029" to="w2030">
+     <textspan type="extent">interaction with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.124.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e497" gid="g483" t="Individual_protein" fr="w2017" to="w2022" nam="yes">
+     <textspan type="extent">spleen actin [..] gamma</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.124.3"/>
+      <exattr n="nst" v="st.124.30.0"/>
+      <exattr n="nst" v="st.124.31.0"/>
+      <exattr n="nst" v="st.124.35.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e498" gid="g484" t="Substructure_of_protein" fr="w2014" to="w2022" nam="yes">
+     <textspan type="extent">site on [..] spleen actin [..] gamma</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.124.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e499" gid="g485" t="Substructure_of_protein" fr="w2014" to="w2020" nam="yes">
+     <textspan type="extent">site on [..] spleen actin [..] beta</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.124.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e500" gid="g486" t="Individual_protein" fr="w2031" to="w2031" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.124.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r190" t="CONTROL" e1="e499" e2="e496" re="e494">
+     <textspan type="extent">site on the spleen actin ( beta , gamma ) which appears to regulate the interaction with profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.124.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r191" t="INTERACT" e1="e495" e2="e500" re="e496">
+     <textspan type="extent">spleen actin ( beta , gamma ) which appears to regulate the interaction with profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.124.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r192" t="CONTROL" e1="e498" e2="e496" re="e494">
+     <textspan type="extent">site on the spleen actin ( beta , gamma ) which appears to regulate the interaction with profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.124.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r193" t="INTERACT" e1="e497" e2="e500" re="e496">
+     <textspan type="extent">spleen actin ( beta , gamma ) which appears to regulate the interaction with profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.124.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,155 @@
+<rexml>
+<doc id="1660">
+  <text>
+<p><s id="s1"><w id="w26507">The</w> <w id="w26508">results</w> <w id="w26509">suggest</w> <w id="w26510">that</w> <w id="w26511">tyrosine</w> <w id="w26512">phosphorylation</w> <w id="w26513">of</w> <w id="w26514">beta-catenin</w> <w id="w26515">is</w> <w id="w26516">achieved</w> <w id="w26517">by</w> <w id="w26518">EGFR</w> <w id="w26519">upon</w> <w id="w26520">tryptic</w> <w id="w26521">digestion</w> <w id="w26522">of</w> <w id="w26523">cells</w> <w id="w26524">and</w> <w id="w26525">concurrent</w> <w id="w26526">with</w> <w id="w26527">but</w> <w id="w26528">independent</w> <w id="w26529">of</w> <w id="w26530">dissociation</w> <w id="w26531">of</w> <w id="w26532">alpha-catenin</w> <w id="w26533">from</w> <w id="w26534">E-cadherin</w> <w id="w26535">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6112" gid="g5830" t="PHOSPHORYLATION" fr="w26512" to="w26514">
+     <textspan type="extent">phosphorylation of beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="PHOSPHORYLATION"/>
+      <exattr n="bd" v="e.1660.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6113" gid="g5831" t="RELATIONSHIP_TEXTBINDING" fr="w26516" to="w26517">
+     <textspan type="extent">achieved by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1660.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6114" gid="g5832" t="RELATIONSHIP_TEXTBINDING" fr="w26525" to="w26525">
+     <textspan type="extent">concurrent</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1660.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6115" gid="g5833" t="Individual_protein" fr="w26518" to="w26518" nam="yes">
+     <textspan type="extent">EGFR</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1660.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6116" gid="g5834" t="RELATIONSHIP_TEXTBINDING" fr="w26528" to="w26529">
+     <textspan type="extent">independent of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1660.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6117" gid="g5835" t="Individual_protein" fr="w26532" to="w26532" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1660.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6118" gid="g5836" t="Individual_protein" fr="w26514" to="w26514" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1660.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6119" gid="g5837" t="RELATIONSHIP_TEXTBINDING" fr="w26530" to="w26533">
+     <textspan type="extent">dissociation of [..] from</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1660.7"/>
+      <exattr n="nst" v="st.1660.23.0"/>
+      <exattr n="nst" v="st.1660.24.0"/>
+      <exattr n="nst" v="st.1660.26.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6120" gid="g5838" t="Individual_protein" fr="w26534" to="w26534" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1660.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2347" t="CAUSE" e1="e6115" e2="e6112" re="e6113">
+     <textspan type="extent">phosphorylation of beta-catenin is achieved by EGFR</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1660.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2348" t="COOCCUR" e1="e6112" e2="e6119" re="e6114">
+     <textspan type="extent">phosphorylation of beta-catenin is achieved by EGFR upon tryptic digestion of cells and concurrent with but independent of dissociation of alpha-catenin from E-cadherin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1660.2"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Temporal"/>
+      <exattr n="t3" v="COOCCUR"/>
+     </exattrs>
+    </rel>
+    <rel id="r2349" t="UNBIND" e1="e6117" e2="e6120" re="e6119">
+     <textspan type="extent">dissociation of alpha-catenin from E-cadherin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1660.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="UNBIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2351" t="AFFECT" e1="e6112" e2="e6119" re="e6116">
+     <textspan type="extent">phosphorylation of beta-catenin is achieved by EGFR upon tryptic digestion of cells and concurrent with but independent of dissociation of alpha-catenin from E-cadherin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1660.4"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2352" t="UNBIND" e1="e6117" e2="e6120" re="e6119">
+     <textspan type="extent">dissociation of alpha-catenin from E-cadherin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1660.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="UNBIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,60 @@
+<rexml>
+<doc id="1916">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w30849" g="E1" t="mod" cr="" w="To" l="~" p="Prep"/>
+     <dpg d="w30850" g="w30851" t="gen" cr="gen:w30851" w="our" l="~" p="N"/>
+     <dpg d="w30851" g="w30849" t="pcomp-n" cr="mod*to*n:w30854" w="knowledge" l="~" p="N"/>
+     <dpg d="w30852" g="E1" t="punc" cr="punc:w30854" w="," l="~" p="U"/>
+     <dpg d="w30853" g="w30854" t="s" cr="s:w30854||subj:w30858" w="AF-6" l="AF-6" p="N"/>
+     <dpg d="w30854" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="is" l="be" p="VBE"/>
+     <dpg d="E4" g="w30858" t="subj" cr="" w="" l="AF-6" p="N"/>
+     <dpg d="E4" g="w30853" t="antecedent" cr="" w="" l="AF-6" p="N"/>
+     <dpg d="w30855" g="w30858" t="det" cr="det:w30858" w="the" l="~" p="Det"/>
+     <dpg d="w30856" g="w30857" t="mod" cr="mod:w30857" w="only" l="~" p="A"/>
+     <dpg d="w30857" g="w30858" t="mod" cr="mod:w30858" w="integral" l="~" p="A"/>
+     <dpg d="w30858" g="w30854" t="pred" cr="pred:w30854" w="component" l="~" p="N"/>
+     <dpg d="w30859" g="w30858" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w30860" g="w30861" t="mod" cr="mod:w30861" w="cell-cell" l="cell-cell" p="A"/>
+     <dpg d="w30861" g="w30859" t="pcomp-n" cr="mod*in*n:w30858||obj:w30862" w="junctions" l="junction" p="N"/>
+     <dpg d="w30862" g="w30861" t="vrel" cr="vrel:w30861" w="discovered" l="discover" p="V"/>
+     <dpg d="E5" g="w30862" t="obj" cr="" w="" l="junction" p="N"/>
+     <dpg d="E5" g="w30861" t="antecedent" cr="" w="" l="junction" p="N"/>
+     <dpg d="w30863" g="w30864" t="mod" cr="mod:w30864" w="thus" l="~" p="A"/>
+     <dpg d="w30864" g="w30862" t="mod" cr="mod:w30862" w="far" l="~" p="A"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w30865" g="E0" t="whn" cr="whn+subj:w30866||subj:w30872" w="that" l="~" p="THAT"/>
+     <dpg d="w30866" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="interacts" l="interact" p="V"/>
+     <dpg d="E6" g="w30866" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E6" g="w30865" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w30867" g="w30866" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w30868" g="w30867" t="pcomp-n" cr="mod*with*n:w30866" w="profilin" l="~" p="N"/>
+     <dpg d="w30869" g="w30866" t="punc" cr="punc:w30866" w="and" l="~" p="U"/>
+     <dpg d="w30870" g="w30872" t="mod-before" cr="mod-before:w30872" w="thus" l="~" p="A"/>
+     <dpg d="w30871" g="w30872" t="aux" cr="aux:w30872" w="could" l="~" p="Aux"/>
+     <dpg d="w30872" g="w30866" t="conj" cr="conj:w30866" w="modulate" l="~" p="V"/>
+     <dpg d="E7" g="w30872" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E7" g="w30865" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w30873" g="w30874" t="nn" cr="nn:w30874" w="actin" l="~" p="N"/>
+     <dpg d="w30874" g="w30872" t="obj" cr="obj:w30872" w="modeling" l="~" p="N"/>
+     <dpg d="w30875" g="w30874" t="pnmod" cr="pnmod:w30874" w="proximal" l="~" p="A"/>
+     <dpg d="w30876" g="w30875" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w30877" g="w30878" t="nn" cr="nn:w30878" w="adhesion" l="~" p="N"/>
+     <dpg d="w30878" g="w30876" t="pcomp-n" cr="mod*to*n:w30875" w="complexes" l="complex" p="N"/>
+     <dpg d="w30879" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

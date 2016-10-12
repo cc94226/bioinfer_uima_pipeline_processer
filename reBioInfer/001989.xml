@@ -1,0 +1,182 @@
+<rexml>
+<doc id="1989">
+  <text>
+<p><s id="s1"><w id="w31845">Using</w> <w id="w31846">the</w> <w id="w31847">known</w> <w id="w31848">three-dimensional</w> <w id="w31849">structure</w> <w id="w31850">of</w> <w id="w31851">the</w> <w id="w31852">homologous</w> <w id="w31853">actin</w><w id="w31854">-</w><w id="w31855">binding</w> <w id="w31856">domain</w> <w id="w31857">of</w> <w id="w31858">fimbrin</w> <w id="w31859">,</w> <w id="w31860">these</w> <w id="w31861">results</w> <w id="w31862">have</w> <w id="w31863">enabled</w> <w id="w31864">us</w> <w id="w31865">to</w> <w id="w31866">determine</w> <w id="w31867">the</w> <w id="w31868">likely</w> <w id="w31869">orientation</w> <w id="w31870">of</w> <w id="w31871">the</w> <w id="w31872">utrophin</w> <w id="w31873">actin</w><w id="w31874">-</w><w id="w31875">binding</w> <w id="w31876">domain</w> <w id="w31877">with</w> <w id="w31878">respect</w> <w id="w31879">to</w> <w id="w31880">the</w> <w id="w31881">actin</w> <w id="w31882">filament</w> <w id="w31883">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7267" gid="g6931" t="Individual_protein" fr="w31853" to="w31853" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1989.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7268" gid="g6932" t="RELATIONSHIP_TEXTBINDING" fr="w31855" to="w31855">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1989.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7269" gid="g6933" t="RELATIONSHIP_TEXTBINDING" fr="w31852" to="w31852">
+     <textspan type="extent">homologous</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1989.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7270" gid="g6934" t="Individual_protein" fr="w31858" to="w31858" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1989.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7271" gid="g6935" t="Cell_component" fr="w31881" to="w31882" nam="yes">
+     <textspan type="extent">actin filament</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1989.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7272" gid="g6936" t="RELATIONSHIP_TEXTBINDING" fr="w31869" to="w31879">
+     <textspan type="extent">orientation of [..] with respect to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1989.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7273" gid="g6937" t="Substructure_of_protein" fr="w31872" to="w31876" nam="yes">
+     <textspan type="extent">utrophin [..] domain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1989.6"/>
+      <exattr n="nst" v="st.1989.25.0"/>
+      <exattr n="nst" v="st.1989.27.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7274" gid="g6938" t="Substructure_of_protein" fr="w31856" to="w31858" nam="yes">
+     <textspan type="extent">domain of fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1989.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7275" gid="g6939" t="Individual_protein" fr="w31872" to="w31872" nam="yes">
+     <textspan type="extent">utrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1989.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e7276" gid="g6940" t="RELATIONSHIP_TEXTBINDING" fr="w31875" to="w31875">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1989.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e7277" gid="g6941" t="Individual_protein" fr="w31881" to="w31881" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1989.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e7278" gid="g6942" t="Individual_protein" fr="w31873" to="w31873" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1989.11"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2785" t="BIND" e1="e7274" e2="e7267" re="e7268">
+     <textspan type="extent">actin - binding domain of fimbrin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1989.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2786" t="BIND" e1="e7273" e2="e7278" re="e7276">
+     <textspan type="extent">utrophin actin - binding domain</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1989.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2787" t="SIMILAR" e1="e7274" e2="e7273" re="e7269">
+     <textspan type="extent">homologous actin - binding domain of fimbrin , these results have enabled us to determine the likely orientation of the utrophin actin - binding domain</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1989.2"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r2788" t="RELATE" e1="e7273" e2="e7271" re="e7272">
+     <textspan type="extent">orientation of the utrophin actin - binding domain with respect to the actin filament</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1989.5"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,40 @@
+<rexml>
+<doc id="308">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4745" g="w4751" t="s" cr="s+subj:w4751" w="Characterization" l="~" p="N"/>
+     <dpg d="w4746" g="w4745" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4747" g="w4746" t="pcomp-n" cr="mod*of*n:w4745" w="MLH1" l="~" p="N"/>
+     <dpg d="w4748" g="w4747" t="punc" cr="punc:w4747" w="and" l="~" p="U"/>
+     <dpg d="w4749" g="w4750" t="lex-mod" cr="lex-mod:w4750" w="MSH2" l="~" p="U"/>
+     <dpg d="w4750" g="w4747" t="conj" cr="conj:w4747" w="DNA" l="MSH2 DNA" p="N"/>
+     <dpg d="w4751" g="E0" t="i" cr="" w="mismatch" l="~" p="V"/>
+     <dpg d="E2" g="w4751" t="subj" cr="" w="" l="characterization" p="N"/>
+     <dpg d="E2" g="w4745" t="antecedent" cr="" w="" l="characterization" p="N"/>
+     <dpg d="w4752" g="w4753" t="nn" cr="nn:w4753" w="repair" l="~" p="N"/>
+     <dpg d="w4753" g="w4751" t="obj" cr="obj:w4751" w="proteins" l="protein" p="N"/>
+     <dpg d="w4754" g="w4753" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w4755" g="w4756" t="nn" cr="nn:w4756" w="cell" l="~" p="N"/>
+     <dpg d="w4756" g="w4754" t="pcomp-n" cr="mod*in*n:w4753" w="lines" l="line" p="N"/>
+     <dpg d="w4757" g="w4756" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4758" g="w4762" t="det" cr="det:w4762" w="the" l="~" p="Det"/>
+     <dpg d="w4759" g="w4762" t="nn" cr="nn:w4762" w="NCI" l="~" p="N"/>
+     <dpg d="w4760" g="w4762" t="mod" cr="mod:w4762" w="anticancer" l="~" p="A"/>
+     <dpg d="w4761" g="w4762" t="nn" cr="nn:w4762" w="drug" l="~" p="N"/>
+     <dpg d="w4762" g="w4757" t="pcomp-n" cr="mod*of*n:w4756" w="screen" l="~" p="N"/>
+     <dpg d="w4763" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

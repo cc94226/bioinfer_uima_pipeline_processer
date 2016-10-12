@@ -1,0 +1,125 @@
+<rexml>
+<doc id="310">
+  <text>
+<p><s id="s1"><w id="w4776">Characterization</w> <w id="w4777">of</w> <w id="w4778">the</w> <w id="w4779">interactions</w> <w id="w4780">of</w> <w id="w4781">alpha-catenin</w> <w id="w4782">with</w> <w id="w4783">alpha-actinin</w> <w id="w4784">and</w> <w id="w4785">beta-catenin</w><w id="w4786">/</w><w id="w4787">plakoglobin</w> <w id="w4788">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1153" gid="g1099" t="RELATIONSHIP_TEXTBINDING" fr="w4779" to="w4782">
+     <textspan type="extent">interactions of [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.310.0"/>
+      <exattr n="nst" v="st.310.3.0"/>
+      <exattr n="nst" v="st.310.4.0"/>
+      <exattr n="nst" v="st.310.6.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1154" gid="g1100" t="Individual_protein" fr="w4781" to="w4781" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.310.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1155" gid="g1101" t="Individual_protein" fr="w4785" to="w4785" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.310.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1156" gid="g1102" t="Individual_protein" fr="w4783" to="w4783" nam="yes">
+     <textspan type="extent">alpha-actinin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.310.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1157" gid="g1103" t="Protein_complex" fr="w4785" to="w4787" nam="yes">
+     <textspan type="extent">beta-catenin/plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.310.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1158" gid="g1104" t="Individual_protein" fr="w4787" to="w4787" nam="yes">
+     <textspan type="extent">plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.310.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r455" t="CONTAIN" e1="e1157" e2="e1155" re="">
+     <textspan type="extent">beta-catenin / plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r456" t="CONTAIN" e1="e1157" e2="e1158" re="">
+     <textspan type="extent">beta-catenin / plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r457" t="INTERACT" e1="e1154" e2="e1156" re="e1153">
+     <textspan type="extent">interactions of alpha-catenin with alpha-actinin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.310.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r458" t="INTERACT" e1="e1154" e2="e1157" re="e1153">
+     <textspan type="extent">interactions of alpha-catenin with alpha-actinin and beta-catenin / plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.310.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

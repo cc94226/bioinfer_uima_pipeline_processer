@@ -1,0 +1,121 @@
+<rexml>
+<doc id="28">
+  
+  <markup>
+   <nes>
+    <ne id="e142" gid="g140" t="Individual_protein" fr="w437" to="w438" nam="yes" sid="s1">
+     <textspan>Actin-depolymerizing factor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.28.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e145" gid="g140" t="Individual_protein" fr="w440" to="w440" nam="yes" sid="s1">
+     <textspan>ADF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.28.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e144" gid="g142" t="Individual_protein" fr="w443" to="w443" nam="yes" sid="s1">
+     <textspan>cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.28.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e143" gid="g141" t="Protein_family_or_group" fr="w446" to="w449" nam="yes" sid="s1">
+     <textspan>family of actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.28.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e148" gid="g145" t="Protein_family_or_group" fr="w448" to="w449" nam="yes" sid="s1">
+     <textspan>actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.28.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e149" gid="g146" t="Individual_protein" fr="w457" to="w457" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.28.7"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r54" t="COOF-MEMBER" e1="e142" e2="e144" re="e146">
+     <textspan>cofilin define a family of actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.28.4"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r54" t="MEMBER" e1="e143" e2="e142" re="e146">
+     <textspan>Actin-depolymerizing factor ( ADF ) and cofilin define a family of actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.28.4"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r55" t="MEMBER" e1="e143" e2="e144" re="e146">
+     <textspan>cofilin define a family of actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.28.4"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

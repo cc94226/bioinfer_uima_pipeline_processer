@@ -1,0 +1,96 @@
+<rexml>
+<doc id="1170">
+  <text>
+<p><s id="s1"><w id="w18488">Recently</w> <w id="w18489">,</w> <w id="w18490">we</w> <w id="w18491">characterized</w> <w id="w18492">several</w> <w id="w18493">profilin</w> <w id="w18494">isoforms</w> <w id="w18495">from</w> <w id="w18496">maize</w> <w id="w18497">pollen</w> <w id="w18498">for</w> <w id="w18499">their</w> <w id="w18500">ability</w> <w id="w18501">to</w> <w id="w18502">alter</w> <w id="w18503">cytoarchitecture</w> <w id="w18504">when</w> <w id="w18505">microinjected</w> <w id="w18506">into</w> <w id="w18507">living</w> <w id="w18508">plant</w> <w id="w18509">cells</w> <w id="w18510">and</w> <w id="w18511">for</w> <w id="w18512">their</w> <w id="w18513">association</w> <w id="w18514">with</w> <w id="w18515">poly-L-proline</w> <w id="w18516">and</w> <w id="w18517">monomeric</w> <w id="w18518">actin</w> <w id="w18519">from</w> <w id="w18520">maize</w> <w id="w18521">pollen</w> <w id="w18522">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4301" gid="g4111" t="Individual_protein" fr="w18493" to="w18497" nam="yes">
+     <textspan type="extent">profilin isoforms from maize pollen</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1170.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4302" gid="g4112" t="RELATIONSHIP_TEXTBINDING" fr="w18513" to="w18514">
+     <textspan type="extent">association with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1170.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4303" gid="g4113" t="Individual_protein" fr="w18518" to="w18521" nam="yes">
+     <textspan type="extent">actin from maize pollen</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1170.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4304" gid="g4111" t="Individual_protein" fr="w18512" to="w18512" nam="yes">
+     <textspan type="extent">their</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1170.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4305" gid="g4114" t="Individual_protein" fr="w18493" to="w18493" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1170.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4306" gid="g4115" t="Individual_protein" fr="w18518" to="w18518" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1170.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1654" t="BIND" e1="e4304" e2="e4303" re="e4302">
+     <textspan type="extent">their association with poly-L-proline and monomeric actin from maize pollen</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1170.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,46 @@
+<rexml>
+<doc id="521">
+  <text>
+<p><s id="s1"><w id="w7247">Frozen</w> <w id="w7248">tissue</w> <w id="w7249">sections</w> <w id="w7250">,</w> <w id="w7251">isolated</w> <w id="w7252">cardiomyocytes</w> <w id="w7253">,</w> <w id="w7254">cultured</w> <w id="w7255">neonatal</w> <w id="w7256">cardiomyocytes</w> <w id="w7257">and</w> <w id="w7258">fibroblasts</w> <w id="w7259">were</w> <w id="w7260">hybridized</w> <w id="w7261">with</w> <w id="w7262">DNA</w> <w id="w7263">probes</w> <w id="w7264">for</w> <w id="w7265">type-specific</w> <w id="w7266">collagens</w> <w id="w7267">,</w> <w id="w7268">actin</w> <w id="w7269">,</w> <w id="w7270">and</w> <w id="w7271">myosin</w> <w id="w7272">heavy</w> <w id="w7273">chain</w> <w id="w7274">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1733" gid="g1661" t="Gene/protein/RNA" fr="w7266" to="w7266" nam="yes">
+     <textspan type="extent">collagens</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.521.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1734" gid="g1662" t="Gene/protein/RNA" fr="w7271" to="w7273" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.521.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1735" gid="g1663" t="Gene/protein/RNA" fr="w7268" to="w7268" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.521.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

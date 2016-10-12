@@ -1,0 +1,76 @@
+<rexml>
+<doc id="822">
+  
+  <markup>
+   <nes>
+    <ne id="e2959" gid="g2838" t="Individual_protein" fr="w12785" to="w12789" nam="yes" sid="s1">
+     <textspan>yeast RAD51 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.822.1"/>
+      <exattr n="nst" v="st.822.3.0"/>
+      <exattr n="nst" v="st.822.4.0"/>
+      <exattr n="nst" v="st.822.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2960" gid="g2839" t="Individual_protein" fr="w12785" to="w12789" nam="yes" sid="s1">
+     <textspan>yeast [..] RAD52 proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.822.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2961" gid="g2840" t="Individual_protein" fr="w12786" to="w12786" nam="yes" sid="s1">
+     <textspan>RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.822.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2962" gid="g2841" t="Individual_protein" fr="w12788" to="w12788" nam="yes" sid="s1">
+     <textspan>RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.822.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1145" t="INTERACT" e1="e2959" e2="e2960" re="e2958">
+     <textspan>Interaction of the yeast RAD51 and RAD52 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.822.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

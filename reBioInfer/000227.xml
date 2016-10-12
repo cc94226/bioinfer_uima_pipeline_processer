@@ -1,0 +1,73 @@
+<rexml>
+<doc id="227">
+  <text>
+<p><s id="s1"><w id="w3405">Binding</w> <w id="w3406">to</w> <w id="w3407">human</w> <w id="w3408">dipeptidyl</w> <w id="w3409">peptidase</w> <w id="w3410">IV</w> <w id="w3411">by</w> <w id="w3412">adenosine</w> <w id="w3413">deaminase</w> <w id="w3414">and</w> <w id="w3415">antibodies</w> <w id="w3416">that</w> <w id="w3417">inhibit</w> <w id="w3418">ligand</w> <w id="w3419">binding</w> <w id="w3420">involves</w> <w id="w3421">overlapping</w> <w id="w3422">,</w> <w id="w3423">discontinuous</w> <w id="w3424">sites</w> <w id="w3425">on</w> <w id="w3426">a</w> <w id="w3427">predicted</w> <w id="w3428">beta</w> <w id="w3429">propeller</w> <w id="w3430">domain</w> <w id="w3431">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e819" gid="g791" t="RELATIONSHIP_TEXTBINDING" fr="w3405" to="w3411">
+     <textspan type="extent">Binding to [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.227.0"/>
+      <exattr n="nst" v="st.227.0.0"/>
+      <exattr n="nst" v="st.227.1.0"/>
+      <exattr n="nst" v="st.227.6.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e820" gid="g792" t="Individual_protein" fr="w3407" to="w3410" nam="yes">
+     <textspan type="extent">human dipeptidyl peptidase IV</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.227.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e821" gid="g793" t="Individual_protein" fr="w3412" to="w3413" nam="yes">
+     <textspan type="extent">adenosine deaminase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.227.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e822" gid="g794" t="Individual_protein" fr="w3408" to="w3410" nam="yes">
+     <textspan type="extent">dipeptidyl peptidase IV</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.227.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r308" t="BIND" e1="e821" e2="e820" re="e819">
+     <textspan type="extent">Binding to human dipeptidyl peptidase IV by adenosine deaminase</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.227.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

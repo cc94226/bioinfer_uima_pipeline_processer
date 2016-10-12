@@ -1,0 +1,35 @@
+<rexml>
+<doc id="1028">
+  <text>
+<p><s id="s1"><w id="w16272">alpha-Skeletal</w> <w id="w16273">actin</w> <w id="w16274">and</w> <w id="w16275">fast</w> <w id="w16276">myosin</w> <w id="w16277">heavy</w> <w id="w16278">chain</w> <w id="w16279">mRNAs</w> <w id="w16280">were</w> <w id="w16281">detected</w> <w id="w16282">precociously</w> <w id="w16283">,</w> <w id="w16284">before</w> <w id="w16285">the</w> <w id="w16286">young</w> <w id="w16287">myotube</w> <w id="w16288">stage</w> <w id="w16289">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3706" gid="g3553" t="Gene/protein/RNA" fr="w16272" to="w16273" nam="yes">
+     <textspan type="extent">alpha-Skeletal actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1028.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3707" gid="g3554" t="Gene/protein/RNA" fr="w16275" to="w16278" nam="yes">
+     <textspan type="extent">fast myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1028.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

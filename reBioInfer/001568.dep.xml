@@ -1,0 +1,56 @@
+<rexml>
+<doc id="1568">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24895" g="w24897" t="det" cr="det:w24897" w="The" l="~" p="Det"/>
+     <dpg d="w24896" g="w24897" t="mod" cr="mod:w24897" w="NH2-terminal" l="NH2-terminal" p="A"/>
+     <dpg d="w24897" g="w24915" t="s" cr="s:w24915||subj:w24917" w="16kD" l="~" p="N"/>
+     <dpg d="w24898" g="w24897" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w24899" g="w24898" t="pcomp-n" cr="mod*of*n:w24897" w="Abp1p" l="~" p="N"/>
+     <dpg d="w24900" g="w24899" t="punc" cr="punc:w24899" w="," l="~" p="U"/>
+     <dpg d="w24901" g="w24904" t="det" cr="det:w24904" w="a" l="~" p="Det"/>
+     <dpg d="w24902" g="w24904" t="mod" cr="mod:w24904" w="65-kD" l="65-kD" p="A"/>
+     <dpg d="w24903" g="w24904" t="nn" cr="nn:w24904" w="yeast" l="~" p="N"/>
+     <dpg d="w24904" g="w24899" t="appo" cr="appo:w24899||obj:w24905" w="protein" l="~" p="N"/>
+     <dpg d="w24905" g="w24904" t="vrel" cr="vrel:w24904" w="identified" l="identify" p="V"/>
+     <dpg d="E4" g="w24905" t="obj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E4" g="w24904" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w24906" g="w24905" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w24907" g="w24908" t="gen" cr="gen:w24908" w="its" l="~" p="N"/>
+     <dpg d="w24908" g="w24906" t="pcomp-n" cr="by-subj*by*n:w24905||s+subj:w24910" w="ability" l="~" p="N"/>
+     <dpg d="E0" g="w24908" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w24908" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w24909" g="w24910" t="aux" cr="aux:w24910" w="to" l="~" p="Aux"/>
+     <dpg d="w24910" g="E0" t="i" cr="rel:w24908" w="bind" l="~" p="V"/>
+     <dpg d="E5" g="w24910" t="subj" cr="" w="" l="ability" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="ability" p="N"/>
+     <dpg d="w24911" g="w24910" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w24912" g="w24913" t="nn" cr="nn:w24913" w="actin" l="~" p="N"/>
+     <dpg d="w24913" g="w24911" t="pcomp-n" cr="mod*to*n:w24910" w="filaments" l="filament" p="N"/>
+     <dpg d="w24914" g="w24915" t="punc" cr="punc:w24915" w="," l="~" p="U"/>
+     <dpg d="w24915" g="E1" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="E6" g="w24917" t="subj" cr="" w="" l="16kD" p="N"/>
+     <dpg d="E6" g="w24897" t="antecedent" cr="" w="" l="16kD" p="N"/>
+     <dpg d="w24916" g="w24917" t="lex-mod" cr="lex-mod:w24917" w="23" l="~" p="U"/>
+     <dpg d="w24917" g="w24915" t="pred" cr="pred:w24915" w="%" l="23 %" p="N"/>
+     <dpg d="w24918" g="w24917" t="pnmod" cr="pnmod:w24917" w="identical" l="~" p="A"/>
+     <dpg d="w24919" g="w24918" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w24920" g="w24921" t="nn" cr="nn:w24921" w="yeast" l="~" p="N"/>
+     <dpg d="w24921" g="w24919" t="pcomp-n" cr="mod*to*n:w24918" w="cofilin" l="~" p="N"/>
+     <dpg d="w24922" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

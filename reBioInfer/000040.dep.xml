@@ -1,0 +1,39 @@
+<rexml>
+<doc id="40">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w610" g="w613" t="s" cr="s+subj:w613" w="Actophorin" l="~" p="N"/>
+     <dpg d="w611" g="w610" t="punc" cr="punc:w610" w="and" l="~" p="U"/>
+     <dpg d="w612" g="w610" t="conj" cr="conj:w610" w="profilin" l="~" p="N"/>
+     <dpg d="w613" g="E0" t="i" cr="" w="have" l="~" p="V"/>
+     <dpg d="E2" g="w613" t="subj" cr="" w="" l="Actophorin" p="N"/>
+     <dpg d="E2" g="w610" t="antecedent" cr="" w="" l="Actophorin" p="N"/>
+     <dpg d="w614" g="w615" t="mod" cr="mod:w615" w="opposite" l="~" p="A"/>
+     <dpg d="w615" g="w613" t="obj" cr="obj:w613" w="effects" l="effect" p="N"/>
+     <dpg d="w616" g="w615" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w617" g="w620" t="det" cr="det:w620" w="the" l="~" p="Det"/>
+     <dpg d="w618" g="w620" t="lex-mod" cr="lex-mod:w620" w="rate" l="~" p="U"/>
+     <dpg d="w619" g="w620" t="lex-mod" cr="lex-mod:w620" w="of" l="~" p="U"/>
+     <dpg d="w620" g="w616" t="pcomp-n" cr="mod*on*n:w615" w="exchange" l="rate of exchange" p="N"/>
+     <dpg d="w621" g="w620" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w622" g="w621" t="pcomp-n" cr="mod*of*n:w620" w="nucleotide" l="~" p="N"/>
+     <dpg d="w623" g="w622" t="pnmod" cr="pnmod:w622" w="bound" l="~" p="A"/>
+     <dpg d="w624" g="w623" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w625" g="w626" t="nn" cr="nn:w626" w="actin" l="~" p="N"/>
+     <dpg d="w626" g="w624" t="pcomp-n" cr="mod*to*n:w623" w="monomers" l="monomer" p="N"/>
+     <dpg d="w627" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

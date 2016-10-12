@@ -1,0 +1,50 @@
+<rexml>
+<doc id="1237">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w19484" g="w19485" t="nn" cr="nn:w19485" w="Sequence" l="~" p="N"/>
+     <dpg d="w19485" g="" t="" cr="" w="analysis" l="~" p="N"/>
+     <dpg d="w19486" g="w19485" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w19487" g="w19488" t="det" cr="det:w19488" w="the" l="~" p="Det"/>
+     <dpg d="w19488" g="w19486" t="pcomp-n" cr="mod*of*n:w19485||s+subj:w19489" w="genes" l="gene" p="N"/>
+     <dpg d="E0" g="w19488" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E1" g="w19488" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w19489" g="E0" t="i" cr="rel:w19488" w="encoding" l="encode" p="V"/>
+     <dpg d="E3" g="w19489" t="subj" cr="" w="" l="gene" p="N"/>
+     <dpg d="E3" g="E1" t="antecedent" cr="" w="" l="gene" p="N"/>
+     <dpg d="w19490" g="w19492" t="det" cr="det:w19492" w="the" l="~" p="Det"/>
+     <dpg d="w19491" g="w19492" t="nn" cr="nn:w19492" w="nucleocapsid" l="~" p="N"/>
+     <dpg d="w19492" g="w19489" t="obj" cr="obj:w19489" w="protein" l="~" p="N"/>
+     <dpg d="w19493" g="w19492" t="punc" cr="punc:w19492" w="and" l="~" p="U"/>
+     <dpg d="w19494" g="w19496" t="nn" cr="nn:w19496" w="phosphoprotein" l="~" p="N"/>
+     <dpg d="w19495" g="w19496" t="punc" cr="punc:w19496" w="(" l="~" p="U"/>
+     <dpg d="w19496" g="w19492" t="conj" cr="conj:w19492" w="P" l="~" p="N"/>
+     <dpg d="w19497" g="w19496" t="punc" cr="punc:w19496" w=")" l="~" p="U"/>
+     <dpg d="w19498" g="w19496" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w19499" g="w19501" t="nn" cr="nn:w19501" w="phocid" l="~" p="N"/>
+     <dpg d="w19500" g="w19501" t="nn" cr="nn:w19501" w="distemper" l="~" p="N"/>
+     <dpg d="w19501" g="w19498" t="pcomp-n" cr="mod*of*n:w19496" w="virus" l="~" p="N"/>
+     <dpg d="w19502" g="w19501" t="punc" cr="punc:w19501" w="," l="~" p="U"/>
+     <dpg d="w19503" g="w19501" t="punc" cr="punc:w19501" w="and" l="~" p="U"/>
+     <dpg d="w19504" g="w19501" t="conj" cr="conj:w19501" w="editing" l="~" p="N"/>
+     <dpg d="w19505" g="w19504" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w19506" g="w19509" t="det" cr="det:w19509" w="the" l="~" p="Det"/>
+     <dpg d="w19507" g="w19509" t="nn" cr="nn:w19509" w="P" l="~" p="N"/>
+     <dpg d="w19508" g="w19509" t="nn" cr="nn:w19509" w="gene" l="~" p="N"/>
+     <dpg d="w19509" g="w19505" t="pcomp-n" cr="mod*of*n:w19504" w="transcript" l="~" p="N"/>
+     <dpg d="w19510" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

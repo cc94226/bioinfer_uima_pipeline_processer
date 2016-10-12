@@ -1,0 +1,46 @@
+<rexml>
+<doc id="1506">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w23601" g="w23606" t="det" cr="det:w23606" w="The" l="~" p="Det"/>
+     <dpg d="w23602" g="w23604" t="lex-mod" cr="lex-mod:w23604" w="herpes" l="~" p="U"/>
+     <dpg d="w23603" g="w23604" t="lex-mod" cr="lex-mod:w23604" w="simplex" l="~" p="U"/>
+     <dpg d="w23604" g="w23606" t="nn" cr="nn:w23606" w="virus" l="herpes simplex virus" p="N"/>
+     <dpg d="w23605" g="w23606" t="lex-mod" cr="lex-mod:w23606" w="type" l="~" p="U"/>
+     <dpg d="w23606" g="E2" t="subclass" cr="subclass:E2" w="1" l="type 1" p="N"/>
+     <dpg d="w23607" g="w23606" t="punc" cr="punc:w23606" w="(" l="~" p="U"/>
+     <dpg d="w23608" g="w23610" t="nn" cr="nn:w23610" w="HSV" l="~" p="N"/>
+     <dpg d="w23609" g="w23610" t="punc" cr="punc:w23610" w=")" l="~" p="U"/>
+     <dpg d="w23610" g="w23606" t="appo" cr="appo:w23606" w="UL5" l="~" p="N"/>
+     <dpg d="w23611" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23612" g="w23617" t="s" cr="s+subj:w23617" w="UL8" l="~" p="N"/>
+     <dpg d="w23613" g="w23612" t="punc" cr="punc:w23612" w="," l="~" p="U"/>
+     <dpg d="w23614" g="w23612" t="punc" cr="punc:w23612" w="and" l="~" p="U"/>
+     <dpg d="w23615" g="w23616" t="nn" cr="nn:w23616" w="UL52" l="~" p="N"/>
+     <dpg d="w23616" g="w23612" t="conj" cr="conj:w23612" w="proteins" l="protein" p="N"/>
+     <dpg d="w23617" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="form" l="~" p="V"/>
+     <dpg d="E3" g="w23617" t="subj" cr="" w="" l="UL8" p="N"/>
+     <dpg d="E3" g="w23612" t="antecedent" cr="" w="" l="UL8" p="N"/>
+     <dpg d="w23618" g="w23620" t="det" cr="det:w23620" w="a" l="~" p="Det"/>
+     <dpg d="w23619" g="w23620" t="mod" cr="mod:w23620" w="helicase-primase" l="helicase-primase" p="A"/>
+     <dpg d="w23620" g="w23617" t="obj" cr="obj:w23617" w="complex" l="~" p="N"/>
+     <dpg d="w23621" g="w23620" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w23622" g="w23623" t="mod" cr="mod:w23623" w="infected" l="~" p="A"/>
+     <dpg d="w23623" g="w23621" t="pcomp-n" cr="mod*in*n:w23620" w="cells" l="cell" p="N"/>
+     <dpg d="w23624" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

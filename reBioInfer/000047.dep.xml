@@ -1,0 +1,52 @@
+<rexml>
+<doc id="47">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w698" g="w704" t="s" cr="s+subj:w704" w="Addition" l="~" p="N"/>
+     <dpg d="w699" g="w698" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w700" g="w699" t="pcomp-n" cr="mod*of*n:w698||s+subj:w702" w="profilin" l="~" p="N"/>
+     <dpg d="E1" g="w700" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w700" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w701" g="w702" t="aux" cr="aux:w702" w="to" l="~" p="Aux"/>
+     <dpg d="w702" g="E1" t="i" cr="rel:w700" w="polymerized" l="polymerize" p="V"/>
+     <dpg d="E5" g="w702" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E5" g="E3" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w703" g="w702" t="obj" cr="obj:w702" w="actin" l="~" p="N"/>
+     <dpg d="w704" g="E2" t="i" cr="" w="causes" l="cause" p="V"/>
+     <dpg d="E6" g="w704" t="subj" cr="" w="" l="addition" p="N"/>
+     <dpg d="E6" g="w698" t="antecedent" cr="" w="" l="addition" p="N"/>
+     <dpg d="w705" g="w704" t="obj" cr="obj:w704" w="it" l="~" p="N"/>
+     <dpg d="w706" g="w704" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w707" g="w706" t="pcomp-n" cr="mod*to*n:w704" w="depolymerize" l="~" p="N"/>
+     <dpg d="w708" g="w704" t="mod" cr="mod:w704" w="until" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w708" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w709" g="w711" t="det" cr="det:w711" w="a" l="~" p="Det"/>
+     <dpg d="w710" g="w711" t="mod" cr="mod:w711" w="new" l="~" p="A"/>
+     <dpg d="w711" g="w719" t="s" cr="s+obj:w719" w="steady-state" l="steady-state" p="N"/>
+     <dpg d="w712" g="w711" t="punc" cr="punc:w711" w="," l="~" p="U"/>
+     <dpg d="w713" g="w711" t="appo" cr="appo:w711" w="dependent" l="~" p="N"/>
+     <dpg d="w714" g="w713" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w715" g="w716" t="nn" cr="nn:w716" w="profilin" l="~" p="N"/>
+     <dpg d="w716" g="w714" t="pcomp-n" cr="mod*on*n:w713" w="concentration" l="~" p="N"/>
+     <dpg d="w717" g="w719" t="punc" cr="punc:w719" w="," l="~" p="U"/>
+     <dpg d="w718" g="w719" t="be" cr="be:w719" w="is" l="be" p="be"/>
+     <dpg d="w719" g="E0" t="i" cr="comp1:w708" w="achieved" l="achieve" p="V"/>
+     <dpg d="E7" g="w719" t="obj" cr="" w="" l="steady-state" p="N"/>
+     <dpg d="E7" g="w711" t="antecedent" cr="" w="" l="steady-state" p="N"/>
+     <dpg d="w720" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,224 @@
+<rexml>
+<doc id="583">
+  
+  <markup>
+   <nes>
+    <ne id="e1965" gid="g1882" t="Individual_protein" fr="w8391" to="w8391" nam="yes" sid="s1">
+     <textspan>p120</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.583.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1972" gid="g1889" t="Protein_complex" fr="w8395" to="w8404" nam="yes" sid="s1">
+     <textspan>complex containing E-cadherin , alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.583.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1971" gid="g1888" t="Individual_protein" fr="w8397" to="w8397" nam="yes" sid="s1">
+     <textspan>E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.583.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1967" gid="g1884" t="Individual_protein" fr="w8399" to="w8399" nam="yes" sid="s1">
+     <textspan>alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.583.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1970" gid="g1887" t="Individual_protein" fr="w8401" to="w8401" nam="yes" sid="s1">
+     <textspan>beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.583.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1969" gid="g1886" t="Individual_protein" fr="w8404" to="w8404" nam="yes" sid="s1">
+     <textspan>plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.583.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r771" t="BIND" e1="e1965" e2="e1972" re="e1966">
+     <textspan>p120 associates with a complex containing E-cadherin , alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.583.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r772" t="COOF-CONTAIN" e1="e1971" e2="e1967" re="e1968">
+     <textspan>complex containing E-cadherin , alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.583.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r772" t="COOF-CONTAIN" e1="e1971" e2="e1970" re="e1968">
+     <textspan>complex containing E-cadherin , alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.583.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r772" t="COOF-CONTAIN" e1="e1971" e2="e1969" re="e1968">
+     <textspan>complex containing E-cadherin , alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.583.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r772" t="COOF-CONTAIN" e1="e1967" e2="e1970" re="e1968">
+     <textspan>complex containing E-cadherin , alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.583.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r772" t="COOF-CONTAIN" e1="e1967" e2="e1969" re="e1968">
+     <textspan>complex containing E-cadherin , alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.583.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r772" t="COOF-CONTAIN" e1="e1970" e2="e1969" re="e1968">
+     <textspan>complex containing E-cadherin , alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.583.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r772" t="CONTAIN" e1="e1972" e2="e1971" re="e1968">
+     <textspan>complex containing E-cadherin , alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.583.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r773" t="CONTAIN" e1="e1972" e2="e1967" re="e1968">
+     <textspan>complex containing E-cadherin , alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.583.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r774" t="CONTAIN" e1="e1972" e2="e1970" re="e1968">
+     <textspan>complex containing E-cadherin , alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.583.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r775" t="CONTAIN" e1="e1972" e2="e1969" re="e1968">
+     <textspan>complex containing E-cadherin , alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.583.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

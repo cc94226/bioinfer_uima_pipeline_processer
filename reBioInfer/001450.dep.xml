@@ -1,0 +1,62 @@
+<rexml>
+<doc id="1450">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22803" g="w22804" t="det" cr="det:w22804" w="The" l="~" p="Det"/>
+     <dpg d="w22804" g="w22805" t="s" cr="s+subj:w22805" w="data" l="~" p="N"/>
+     <dpg d="w22805" g="E4" t="i" cr="" w="suggest" l="~" p="V"/>
+     <dpg d="E9" g="w22805" t="subj" cr="" w="" l="data" p="N"/>
+     <dpg d="E9" g="w22804" t="antecedent" cr="" w="" l="data" p="N"/>
+     <dpg d="E3" g="w22805" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22806" g="E3" t="c" cr="c:w22811" w="that" l="~" p="COMP"/>
+     <dpg d="w22807" g="w22811" t="s" cr="s+subj:w22808||s+subj:w22811" w="profilin" l="~" p="N"/>
+     <dpg d="E2" g="w22807" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E7" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="w22807" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w22808" g="E2" t="i" cr="rel:w22807" w="binding" l="bind" p="V"/>
+     <dpg d="E10" g="w22808" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E10" g="E7" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w22809" g="w22808" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w22810" g="w22809" t="pcomp-n" cr="mod*to*n:w22808" w="actin" l="~" p="N"/>
+     <dpg d="w22811" g="E3" t="i" cr="fc:w22805" w="weakens" l="weaken" p="V"/>
+     <dpg d="E11" g="w22811" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E11" g="w22807" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w22812" g="w22811" t="obj" cr="obj:w22811||s+subj:w22813||s+subj:w22817" w="nucleotide" l="~" p="N"/>
+     <dpg d="E1" g="w22812" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E6" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w22812" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w22813" g="E1" t="i" cr="rel:w22812" w="binding" l="bind" p="V"/>
+     <dpg d="E12" g="w22813" t="subj" cr="" w="" l="nucleotide" p="N"/>
+     <dpg d="E12" g="E6" t="antecedent" cr="" w="" l="nucleotide" p="N"/>
+     <dpg d="w22814" g="w22813" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w22815" g="w22814" t="pcomp-n" cr="mod*to*n:w22813" w="actin" l="~" p="N"/>
+     <dpg d="w22816" g="w22815" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E0" g="w22816" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E6" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w22817" g="E0" t="i" cr="mod*by*c:w22815" w="disrupting" l="disrupt" p="V"/>
+     <dpg d="E13" g="w22817" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E13" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w22818" g="w22819" t="punc" cr="punc:w22819" w="Mg(2+)" l="~" p="U"/>
+     <dpg d="w22819" g="w22817" t="obj" cr="obj:w22817" w="coordination" l="~" p="N"/>
+     <dpg d="w22820" g="w22819" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w22821" g="w22824" t="det" cr="det:w22824" w="the" l="~" p="Det"/>
+     <dpg d="w22822" g="w22824" t="nn" cr="nn:w22824" w="actin" l="~" p="N"/>
+     <dpg d="w22823" g="w22824" t="mod" cr="mod:w22824" w="central" l="~" p="A"/>
+     <dpg d="w22824" g="w22820" t="pcomp-n" cr="mod*in*n:w22819" w="cleft" l="~" p="N"/>
+     <dpg d="w22825" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

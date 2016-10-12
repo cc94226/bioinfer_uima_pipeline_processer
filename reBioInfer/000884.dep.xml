@@ -1,0 +1,41 @@
+<rexml>
+<doc id="884">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13926" g="E0" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w13927" g="w13926" t="pcomp-n" cr="mod*in*n:w13943" w="three" l="~" p="N"/>
+     <dpg d="w13928" g="w13927" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w13929" g="w13930" t="det" cr="det:w13930" w="the" l="~" p="Det"/>
+     <dpg d="w13930" g="w13928" t="pcomp-n" cr="mod*of*n:w13927" w="cell" l="~" p="N"/>
+     <dpg d="w13931" g="w13943" t="s" cr="s:w13943||subj:w13944" w="lines" l="line" p="N"/>
+     <dpg d="w13932" g="w13931" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w13933" g="w13934" t="nn" cr="nn:w13934" w="CTNNB1" l="~" p="N"/>
+     <dpg d="w13934" g="w13932" t="pcomp-n" cr="mod*with*n:w13931" w="mutations" l="mutation" p="N"/>
+     <dpg d="w13935" g="w13934" t="punc" cr="punc:w13934" w="," l="~" p="U"/>
+     <dpg d="w13936" g="w13934" t="conj" cr="conj:w13934" w="complexes" l="complex" p="N"/>
+     <dpg d="w13937" g="w13936" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w13938" g="w13937" t="pcomp-n" cr="mod*of*n:w13936" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w13939" g="w13938" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w13940" g="w13939" t="pcomp-n" cr="mod*with*n:w13938" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w13941" g="w13940" t="punc" cr="punc:w13940" w="and" l="~" p="U"/>
+     <dpg d="w13942" g="w13940" t="conj" cr="conj:w13940" w="APC" l="~" p="N"/>
+     <dpg d="w13943" g="E0" t="i" cr="" w="were" l="be" p="VBE"/>
+     <dpg d="w13944" g="w13943" t="pred" cr="pred:w13943" w="detectable" l="~" p="A"/>
+     <dpg d="E2" g="w13944" t="subj" cr="" w="" l="line" p="N"/>
+     <dpg d="E2" g="w13931" t="antecedent" cr="" w="" l="line" p="N"/>
+     <dpg d="w13945" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

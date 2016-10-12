@@ -1,0 +1,59 @@
+<rexml>
+<doc id="1690">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w26915" g="w26916" t="det" cr="det:w26916" w="These" l="~" p="Det"/>
+     <dpg d="w26916" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="differences" l="difference" p="N"/>
+     <dpg d="w26917" g="w26916" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w26918" g="w26920" t="mod" cr="mod:w26920" w="contractile" l="~" p="A"/>
+     <dpg d="w26919" g="w26920" t="nn" cr="nn:w26920" w="protein" l="~" p="N"/>
+     <dpg d="w26920" g="w26917" t="pcomp-n" cr="mod*in*n:w26916" w="profiles" l="profile" p="N"/>
+     <dpg d="w26921" g="w26920" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w26922" g="w26921" t="pcomp-n" cr="mod*between*n:w26920" w="single" l="~" p="N"/>
+     <dpg d="w26923" g="w26922" t="punc" cr="punc:w26922" w="and" l="~" p="U"/>
+     <dpg d="w26924" g="w26925" t="mod" cr="mod:w26925" w="cultured" l="~" p="A"/>
+     <dpg d="w26925" g="w26922" t="conj" cr="conj:w26922" w="cells" l="cell" p="N"/>
+     <dpg d="w26926" g="E3" t="punc" cr="punc:E3" w="were" l="~" p="U"/>
+     <dpg d="w26927" g="E3" t="punc" cr="punc:E3" w="collaborated" l="~" p="U"/>
+     <dpg d="w26928" g="E3" t="p" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w26929" g="w26930" t="det" cr="det:w26930" w="the" l="~" p="Det"/>
+     <dpg d="w26930" g="w26928" t="pcomp-n" cr="p*with*n:E3" w="observation" l="~" p="N"/>
+     <dpg d="w26931" g="w26930" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26932" g="w26931" t="pcomp-n" cr="mod*of*n:w26930||s+subj:w26933" w="cells" l="cell" p="N"/>
+     <dpg d="E0" g="w26932" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E1" g="w26932" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w26933" g="E0" t="i" cr="rel:w26932" w="using" l="use" p="V"/>
+     <dpg d="E4" g="w26933" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E4" g="E1" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w26934" g="w26935" t="nn" cr="nn:w26935" w="immunofluorescence" l="~" p="N"/>
+     <dpg d="w26935" g="w26933" t="obj" cr="obj:w26933" w="microscope" l="~" p="N"/>
+     <dpg d="w26936" g="w26935" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w26937" g="w26938" t="mod" cr="mod:w26938" w="responsible" l="~" p="A"/>
+     <dpg d="w26938" g="w26936" t="pcomp-n" cr="mod*with*n:w26935" w="antibodies" l="antibody" p="N"/>
+     <dpg d="w26939" g="w26938" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w26940" g="w26939" t="pcomp-n" cr="mod*to*n:w26938" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w26941" g="w26940" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26942" g="w26944" t="nn" cr="nn:w26944" w="myosin" l="~" p="N"/>
+     <dpg d="w26943" g="w26944" t="mod" cr="mod:w26944" w="heavy" l="~" p="A"/>
+     <dpg d="w26944" g="w26941" t="pcomp-n" cr="mod*of*n:w26940" w="chain" l="~" p="N"/>
+     <dpg d="w26945" g="w26944" t="punc" cr="punc:w26944" w="," l="~" p="U"/>
+     <dpg d="w26946" g="w26944" t="conj" cr="conj:w26944" w="actin" l="~" p="N"/>
+     <dpg d="w26947" g="w26946" t="punc" cr="punc:w26946" w="and" l="~" p="U"/>
+     <dpg d="w26948" g="w26946" t="conj" cr="conj:w26946" w="tropomyosin" l="~" p="N"/>
+     <dpg d="w26949" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

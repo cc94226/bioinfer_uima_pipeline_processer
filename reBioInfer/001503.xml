@@ -1,0 +1,161 @@
+<rexml>
+<doc id="1503">
+  <text>
+<p><s id="s1"><w id="w23544">The</w> <w id="w23545">herpes</w> <w id="w23546">simplex</w> <w id="w23547">virus</w> <w id="w23548">type-1</w> <w id="w23549">DNA</w> <w id="w23550">helicase-primase</w> <w id="w23551">is</w> <w id="w23552">a</w> <w id="w23553">heterotrimer</w> <w id="w23554">encoded</w> <w id="w23555">by</w> <w id="w23556">the</w> <w id="w23557">UL5</w> <w id="w23558">,</w> <w id="w23559">UL8</w> <w id="w23560">,</w> <w id="w23561">and</w> <w id="w23562">UL52</w> <w id="w23563">genes</w> <w id="w23564">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5457" gid="g5210" t="Individual_protein" fr="w23545" to="w23550" nam="yes">
+     <textspan type="extent">herpes simplex virus type-1 DNA helicase-primase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1503.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5458" gid="g5211" t="RELATIONSHIP_TEXTBINDING" fr="w23554" to="w23555">
+     <textspan type="extent">encoded by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1503.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5459" gid="g5212" t="Gene" fr="w23559" to="w23563" nam="yes">
+     <textspan type="extent">UL8 [..] genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1503.2"/>
+      <exattr n="nst" v="st.1503.15.0"/>
+      <exattr n="nst" v="st.1503.19.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5460" gid="g5213" t="Gene" fr="w23557" to="w23563" nam="yes">
+     <textspan type="extent">UL5 [..] genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1503.3"/>
+      <exattr n="nst" v="st.1503.13.0"/>
+      <exattr n="nst" v="st.1503.19.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5461" gid="g5214" t="Gene" fr="w23562" to="w23563" nam="yes">
+     <textspan type="extent">UL52 genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1503.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5462" gid="g5215" t="Individual_protein" fr="w23549" to="w23550" nam="yes">
+     <textspan type="extent">DNA helicase-primase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1503.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5463" gid="g5216" t="Gene" fr="w23557" to="w23557" nam="yes">
+     <textspan type="extent">UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1503.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5464" gid="g5217" t="Gene" fr="w23559" to="w23559" nam="yes">
+     <textspan type="extent">UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1503.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5465" gid="g5218" t="Gene" fr="w23562" to="w23562" nam="yes">
+     <textspan type="extent">UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1503.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2099" t="ENCODE" e1="e5460" e2="e5457" re="e5458">
+     <textspan type="extent">herpes simplex virus type-1 DNA helicase-primase is a heterotrimer encoded by the UL5 , UL8 , and UL52 genes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1503.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2100" t="ENCODE" e1="e5459" e2="e5457" re="e5458">
+     <textspan type="extent">herpes simplex virus type-1 DNA helicase-primase is a heterotrimer encoded by the UL5 , UL8 , and UL52 genes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1503.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2101" t="ENCODE" e1="e5461" e2="e5457" re="e5458">
+     <textspan type="extent">herpes simplex virus type-1 DNA helicase-primase is a heterotrimer encoded by the UL5 , UL8 , and UL52 genes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1503.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

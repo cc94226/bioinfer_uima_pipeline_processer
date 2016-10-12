@@ -1,0 +1,35 @@
+<rexml>
+<doc id="983">
+  <text>
+<p><s id="s1"><w id="w15462">Mitochondrial</w> <w id="w15463">genes</w> <w id="w15464">(</w> <w id="w15465">16.2</w> <w id="w15466">%</w> <w id="w15467">)</w> <w id="w15468">,</w> <w id="w15469">myosin</w> <w id="w15470">heavy</w> <w id="w15471">chain</w> <w id="w15472">genes</w> <w id="w15473">(</w> <w id="w15474">9</w> <w id="w15475">%</w> <w id="w15476">)</w> <w id="w15477">and</w> <w id="w15478">the</w> <w id="w15479">actin</w> <w id="w15480">alpha</w> <w id="w15481">skeletal</w> <w id="w15482">muscle</w> <w id="w15483">gene</w> <w id="w15484">(</w> <w id="w15485">9</w> <w id="w15486">%</w> <w id="w15487">)</w> <w id="w15488">were</w> <w id="w15489">the</w> <w id="w15490">most</w> <w id="w15491">abundant</w> <w id="w15492">transcripts</w> <w id="w15493">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3499" gid="g3352" t="Gene/protein/RNA" fr="w15469" to="w15471" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.983.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3500" gid="g3353" t="Gene/protein/RNA" fr="w15479" to="w15482" nam="yes">
+     <textspan type="extent">actin alpha skeletal muscle</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.983.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

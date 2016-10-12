@@ -1,0 +1,46 @@
+<rexml>
+<doc id="485">
+  <text>
+<p><s id="s1"><w id="w6785">Finally</w> <w id="w6786">,</w> <w id="w6787">both</w> <w id="w6788">receptors</w> <w id="w6789">can</w> <w id="w6790">interact</w> <w id="w6791">with</w> <w id="w6792">FADD</w> <w id="w6793">,</w> <w id="w6794">TRADD</w> <w id="w6795">,</w> <w id="w6796">and</w> <w id="w6797">RIP</w> <w id="w6798">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1633" gid="g1563" t="Gene/protein/RNA" fr="w6792" to="w6792" nam="yes">
+     <textspan type="extent">FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.485.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1634" gid="g1564" t="Gene/protein/RNA" fr="w6797" to="w6797" nam="yes">
+     <textspan type="extent">RIP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.485.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1635" gid="g1565" t="Gene/protein/RNA" fr="w6794" to="w6794" nam="yes">
+     <textspan type="extent">TRADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.485.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,41 @@
+<rexml>
+<doc id="1159">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w18249" g="" t="" cr="" w="Purification" l="~" p="N"/>
+     <dpg d="w18250" g="w18249" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w18251" g="w18253" t="det" cr="det:w18253" w="a" l="~" p="Det"/>
+     <dpg d="w18252" g="w18253" t="mod" cr="mod:w18253" w="cortical" l="~" p="A"/>
+     <dpg d="w18253" g="w18250" t="pcomp-n" cr="mod*of*n:w18249||s+subj:w18254" w="complex" l="~" p="N"/>
+     <dpg d="E0" g="w18253" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E1" g="w18253" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w18254" g="E0" t="i" cr="rel:w18253" w="containing" l="contain" p="V"/>
+     <dpg d="E3" g="w18254" t="subj" cr="" w="" l="complex" p="N"/>
+     <dpg d="E3" g="E1" t="antecedent" cr="" w="" l="complex" p="N"/>
+     <dpg d="w18255" g="w18257" t="nn" cr="nn:w18257" w="two" l="~" p="N"/>
+     <dpg d="w18256" g="w18257" t="mod" cr="mod:w18257" w="unconventional" l="~" p="A"/>
+     <dpg d="w18257" g="w18254" t="obj" cr="obj:w18254" w="actins" l="~" p="N"/>
+     <dpg d="w18258" g="w18257" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w18259" g="w18258" t="pcomp-n" cr="mod*from*n:w18257" w="Acanthamoeba" l="~" p="N"/>
+     <dpg d="w18260" g="w18259" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w18261" g="w18262" t="nn" cr="nn:w18262" w="affinity" l="~" p="N"/>
+     <dpg d="w18262" g="w18260" t="pcomp-n" cr="mod*by*n:w18259" w="chromatography" l="~" p="N"/>
+     <dpg d="w18263" g="w18262" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w18264" g="w18265" t="lex-mod" cr="lex-mod:w18265" w="profilin" l="~" p="U"/>
+     <dpg d="w18265" g="w18263" t="pcomp-n" cr="mod*on*n:w18262" w="-agarose" l="profilin -agarose" p="N"/>
+     <dpg d="w18266" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

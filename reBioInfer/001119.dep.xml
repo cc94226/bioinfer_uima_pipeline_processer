@@ -1,0 +1,40 @@
+<rexml>
+<doc id="1119">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w17720" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="Phosphorylation" l="~" p="N"/>
+     <dpg d="w17721" g="E4" t="punc" cr="punc:E4" w="by" l="~" p="U"/>
+     <dpg d="w17722" g="w17723" t="lex-mod" cr="lex-mod:w17723" w="LIM-kinase" l="~" p="U"/>
+     <dpg d="w17723" g="w17724" t="s" cr="s+subj:w17724||s+subj:w17727" w="1" l="kinase 1" p="N"/>
+     <dpg d="w17724" g="E1" t="i" cr="i:E1" w="inactivates" l="inactivate" p="V"/>
+     <dpg d="E5" g="w17724" t="subj" cr="" w="" l="kinase 1" p="N"/>
+     <dpg d="E5" g="w17723" t="antecedent" cr="" w="" l="kinase 1" p="N"/>
+     <dpg d="w17725" g="w17724" t="obj" cr="obj:w17724" w="cofilin" l="~" p="N"/>
+     <dpg d="w17726" g="w17724" t="punc" cr="punc:w17724" w="," l="~" p="U"/>
+     <dpg d="E0" g="w17724" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w17723" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w17727" g="E0" t="i" cr="mod:w17724" w="leading" l="lead to" p="V"/>
+     <dpg d="w17728" g="w17727" t="lex-mod" cr="lex-mod:w17727" w="to" l="~" p="U"/>
+     <dpg d="E6" g="w17727" t="subj" cr="" w="" l="kinase 1" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="kinase 1" p="N"/>
+     <dpg d="w17729" g="w17727" t="obj" cr="obj:w17727" w="accumulation" l="~" p="N"/>
+     <dpg d="w17730" g="w17729" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w17731" g="w17732" t="nn" cr="nn:w17732" w="actin" l="~" p="N"/>
+     <dpg d="w17732" g="w17730" t="pcomp-n" cr="mod*of*n:w17729" w="filaments" l="filament" p="N"/>
+     <dpg d="w17733" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

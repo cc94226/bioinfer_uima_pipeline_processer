@@ -1,0 +1,56 @@
+<rexml>
+<doc id="227">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="E1" g="E2" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="s+subj:w3405" w="" l="~" p="N"/>
+     <dpg d="w3405" g="E1" t="i" cr="mod:w3420" w="Binding" l="bind" p="V"/>
+     <dpg d="E5" g="w3405" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w3406" g="w3405" t="guest" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w3407" g="w3408" t="mod" cr="mod:w3408" w="human" l="~" p="A"/>
+     <dpg d="w3408" g="w3406" t="pcomp-n" cr="guest*to*n:w3405" w="dipeptidyl" l="~" p="N"/>
+     <dpg d="w3409" g="w3410" t="nn" cr="nn:w3410" w="peptidase" l="~" p="N"/>
+     <dpg d="w3410" g="w3405" t="obj" cr="obj:w3405" w="IV" l="~" p="N"/>
+     <dpg d="w3411" g="w3410" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w3412" g="w3413" t="nn" cr="nn:w3413" w="adenosine" l="~" p="N"/>
+     <dpg d="w3413" g="w3411" t="pcomp-n" cr="mod*by*n:w3410" w="deaminase" l="~" p="N"/>
+     <dpg d="w3414" g="w3413" t="punc" cr="punc:w3413" w="and" l="~" p="U"/>
+     <dpg d="w3415" g="w3413" t="conj" cr="conj:w3413||subj:w3417" w="antibodies" l="antibody" p="N"/>
+     <dpg d="E0" g="w3415" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3416" g="E0" t="whn" cr="whn:w3417" w="that" l="~" p="THAT"/>
+     <dpg d="w3416" g="w3415" t="antecedent" cr="antecedent:w3415" w="that" l="~" p="THAT"/>
+     <dpg d="w3417" g="E0" t="i" cr="rel:w3415" w="inhibit" l="~" p="V"/>
+     <dpg d="E6" g="w3417" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E6" g="w3415" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w3418" g="w3417" t="obj" cr="obj:w3417" w="ligand" l="~" p="N"/>
+     <dpg d="w3419" g="w3420" t="s" cr="s+subj:w3420" w="binding" l="~" p="N"/>
+     <dpg d="w3420" g="E2" t="i" cr="" w="involves" l="involve" p="V"/>
+     <dpg d="E7" g="w3420" t="subj" cr="" w="" l="binding" p="N"/>
+     <dpg d="E7" g="w3419" t="antecedent" cr="" w="" l="binding" p="N"/>
+     <dpg d="w3421" g="w3424" t="mod" cr="mod:w3424" w="overlapping" l="~" p="A"/>
+     <dpg d="w3422" g="w3424" t="punc" cr="punc:w3424" w="," l="~" p="U"/>
+     <dpg d="w3423" g="w3424" t="mod" cr="mod:w3424" w="discontinuous" l="~" p="A"/>
+     <dpg d="w3424" g="w3420" t="obj" cr="obj:w3420" w="sites" l="site" p="N"/>
+     <dpg d="w3425" g="w3424" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w3426" g="w3430" t="det" cr="det:w3430" w="a" l="~" p="Det"/>
+     <dpg d="w3427" g="w3430" t="mod" cr="mod:w3430" w="predicted" l="~" p="A"/>
+     <dpg d="w3428" g="w3430" t="nn" cr="nn:w3430" w="beta" l="~" p="N"/>
+     <dpg d="w3429" g="w3430" t="nn" cr="nn:w3430" w="propeller" l="~" p="N"/>
+     <dpg d="w3430" g="w3425" t="pcomp-n" cr="mod*on*n:w3424" w="domain" l="~" p="N"/>
+     <dpg d="w3431" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

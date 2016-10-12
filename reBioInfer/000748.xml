@@ -1,0 +1,147 @@
+<rexml>
+<doc id="748">
+  <text>
+<p><s id="s1"><w id="w11627">In</w> <w id="w11628">contrast</w> <w id="w11629">to</w> <w id="w11630">the</w> <w id="w11631">model</w> <w id="w11632">of</w> <w id="w11633">actin</w> <w id="w11634">binding</w> <w id="w11635">proposed</w> <w id="w11636">for</w> <w id="w11637">fimbrin</w> <w id="w11638">,</w> <w id="w11639">the</w> <w id="w11640">utrophin</w> <w id="w11641">actin</w><w id="w11642">-</w><w id="w11643">binding</w> <w id="w11644">domain</w> <w id="w11645">appears</w> <w id="w11646">to</w> <w id="w11647">associate</w> <w id="w11648">with</w> <w id="w11649">actin</w> <w id="w11650">in</w> <w id="w11651">an</w> <w id="w11652">extended</w> <w id="w11653">conformation</w> <w id="w11654">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2711" gid="g2597" t="Individual_protein" fr="w11633" to="w11633" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.748.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2712" gid="g2598" t="RELATIONSHIP_TEXTBINDING" fr="w11634" to="w11634">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.748.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2713" gid="g2599" t="Individual_protein" fr="w11640" to="w11640" nam="yes">
+     <textspan type="extent">utrophin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.748.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2714" gid="g2600" t="Individual_protein" fr="w11637" to="w11637" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.748.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2715" gid="g2601" t="Individual_protein" fr="w11649" to="w11649" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.748.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2716" gid="g2602" t="Individual_protein" fr="w11641" to="w11641" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.748.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2717" gid="g2603" t="Substructure_of_protein" fr="w11640" to="w11644" nam="yes">
+     <textspan type="extent">utrophin [..] domain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.748.6"/>
+      <exattr n="nst" v="st.748.13.0"/>
+      <exattr n="nst" v="st.748.15.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2718" gid="g2604" t="RELATIONSHIP_TEXTBINDING" fr="w11647" to="w11648">
+     <textspan type="extent">associate with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.748.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2719" gid="g2605" t="RELATIONSHIP_TEXTBINDING" fr="w11643" to="w11643">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.748.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1034" t="BIND" e1="e2714" e2="e2711" re="e2712">
+     <textspan type="extent">actin binding proposed for fimbrin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.748.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1035" t="BIND" e1="e2717" e2="e2716" re="e2719">
+     <textspan type="extent">utrophin actin - binding domain</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.748.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1036" t="BIND" e1="e2717" e2="e2715" re="e2718">
+     <textspan type="extent">utrophin actin - binding domain appears to associate with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.748.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

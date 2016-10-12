@@ -1,0 +1,192 @@
+<rexml>
+<doc id="2081">
+  <text>
+<p><s id="s1"><w id="w32981">We</w> <w id="w32982">have</w> <w id="w32983">developed</w> <w id="w32984">a</w> <w id="w32985">new</w> <w id="w32986">integrated</w> <w id="w32987">kinetic</w> <w id="w32988">model</w> <w id="w32989">to</w> <w id="w32990">examine</w> <w id="w32991">how</w> <w id="w32992">the</w> <w id="w32993">maintenance</w> <w id="w32994">of</w> <w id="w32995">the</w> <w id="w32996">pool</w> <w id="w32997">of</w> <w id="w32998">unpolymerized</w> <w id="w32999">actin</w> <w id="w33000">and</w> <w id="w33001">the</w> <w id="w33002">flux</w> <w id="w33003">of</w> <w id="w33004">actin</w> <w id="w33005">subunits</w> <w id="w33006">through</w> <w id="w33007">filaments</w> <w id="w33008">are</w> <w id="w33009">controlled</w> <w id="w33010">by</w> <w id="w33011">profilin</w> <w id="w33012">and</w> <w id="w33013">free</w> <w id="w33014">filament</w> <w id="w33015">barbed</w> <w id="w33016">ends</w> <w id="w33017">through</w> <w id="w33018">their</w> <w id="w33019">interaction</w> <w id="w33020">with</w> <w id="w33021">ATP</w> <w id="w33022">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7530" gid="g7177" t="CONTROL" fr="w32993" to="w32999">
+     <textspan type="extent">maintenance of the pool of [..] actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Unspecified"/>
+      <exattr n="t4" v="CONTROL"/>
+      <exattr n="bd" v="e.2081.0"/>
+      <exattr n="nst" v="st.2081.12.0"/>
+      <exattr n="nst" v="st.2081.13.0"/>
+      <exattr n="nst" v="st.2081.14.0"/>
+      <exattr n="nst" v="st.2081.15.0"/>
+      <exattr n="nst" v="st.2081.16.0"/>
+      <exattr n="nst" v="st.2081.18.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7531" gid="g7178" t="RELATIONSHIP_TEXTBINDING" fr="w33009" to="w33010">
+     <textspan type="extent">controlled by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2081.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7532" gid="g7179" t="Individual_protein" fr="w33011" to="w33011" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2081.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7533" gid="g7180" t="Process_entity" fr="w33002" to="w33005">
+     <textspan type="extent">flux of actin subunits</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.2081.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7534" gid="g7181" t="Individual_protein" fr="w33004" to="w33005" nam="yes">
+     <textspan type="extent">actin subunits</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2081.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7535" gid="g7182" t="Amount_property" fr="w32995" to="w32999">
+     <textspan type="extent">the pool of [..] actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.2081.5"/>
+      <exattr n="nst" v="st.2081.14.0"/>
+      <exattr n="nst" v="st.2081.15.0"/>
+      <exattr n="nst" v="st.2081.16.0"/>
+      <exattr n="nst" v="st.2081.18.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7536" gid="g7183" t="INTERACTION" fr="w33018" to="w33019">
+     <textspan type="extent">their interaction</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="INTERACTION"/>
+      <exattr n="bd" v="e.2081.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7537" gid="g7179" t="Individual_protein" fr="w33018" to="w33018" nam="yes">
+     <textspan type="extent">their</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2081.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7538" gid="g7184" t="Individual_protein" fr="w32999" to="w32999" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2081.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e7539" gid="g7185" t="RELATIONSHIP_TEXTBINDING" fr="w33017" to="w33017">
+     <textspan type="extent">through</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2081.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e7540" gid="g7186" t="Individual_protein" fr="w33004" to="w33004" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2081.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e7541" gid="g7187" t="Individual_protein" fr="w32999" to="w32999" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2081.11"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2889" t="MEDIATE" e1="e7536" e2="e7531" re="e7539">
+     <textspan type="extent">maintenance of the pool of unpolymerized actin and the flux of actin subunits through filaments are controlled by profilin and free filament barbed ends through their interaction</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2081.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2890" t="CONTROL" e1="e7532" e2="e7530" re="e7531">
+     <textspan type="extent">maintenance of the pool of unpolymerized actin and the flux of actin subunits through filaments are controlled by profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2081.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r2891" t="MEDIATE" e1="e7536" e2="e7531" re="e7539">
+     <textspan type="extent">flux of actin subunits through filaments are controlled by profilin and free filament barbed ends through their interaction</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2081.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2892" t="CONTROL" e1="e7532" e2="e7533" re="e7531">
+     <textspan type="extent">flux of actin subunits through filaments are controlled by profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2081.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

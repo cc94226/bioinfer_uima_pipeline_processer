@@ -1,0 +1,46 @@
+<rexml>
+<doc id="61">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w941" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="After" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w941" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w942" g="w953" t="s" cr="s+obj:w953" w="elution" l="~" p="N"/>
+     <dpg d="w943" g="w942" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w944" g="w947" t="det" cr="det:w947" w="the" l="~" p="Det"/>
+     <dpg d="w945" g="w947" t="nn" cr="nn:w947" w="three" l="~" p="N"/>
+     <dpg d="w946" g="w947" t="mod" cr="mod:w947" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w947" g="w943" t="pcomp-n" cr="mod*of*n:w942" w="proteins" l="protein" p="N"/>
+     <dpg d="w948" g="w947" t="punc" cr="punc:w947" w="," l="~" p="U"/>
+     <dpg d="w949" g="w947" t="conj" cr="conj:w947" w="actin" l="~" p="N"/>
+     <dpg d="w950" g="w949" t="punc" cr="punc:w949" w="and" l="~" p="U"/>
+     <dpg d="w951" g="w949" t="conj" cr="conj:w949" w="profilin" l="~" p="N"/>
+     <dpg d="w952" g="w953" t="be" cr="be:w953" w="were" l="be" p="be"/>
+     <dpg d="w953" g="E0" t="i" cr="comp1:w941" w="recovered" l="recover" p="V"/>
+     <dpg d="E3" g="w953" t="obj" cr="" w="" l="elution" p="N"/>
+     <dpg d="E3" g="w942" t="antecedent" cr="" w="" l="elution" p="N"/>
+     <dpg d="w954" g="w953" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w955" g="w956" t="det" cr="det:w956" w="the" l="~" p="Det"/>
+     <dpg d="w956" g="w954" t="pcomp-n" cr="mod*from*n:w953" w="DNase" l="~" p="N"/>
+     <dpg d="w957" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="I" l="~" p="N"/>
+     <dpg d="w958" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="column" l="~" p="N"/>
+     <dpg d="w959" g="w958" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w960" g="w961" t="amount-value" cr="amount-value:w961" w="2" l="~" p="N"/>
+     <dpg d="w961" g="w963" t="nn" cr="nn:w963" w="M" l="~" p="N"/>
+     <dpg d="w962" g="w963" t="nn" cr="nn:w963" w="urea" l="~" p="N"/>
+     <dpg d="w963" g="w959" t="pcomp-n" cr="mod*with*n:w958" w="solution" l="~" p="N"/>
+     <dpg d="w964" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

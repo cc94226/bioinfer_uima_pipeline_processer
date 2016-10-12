@@ -1,0 +1,46 @@
+<rexml>
+<doc id="728">
+  <text>
+<p><s id="s1"><w id="w11222">In</w> <w id="w11223">cancerous</w> <w id="w11224">tissues</w> <w id="w11225">,</w> <w id="w11226">the</w> <w id="w11227">frequency</w> <w id="w11228">of</w> <w id="w11229">reduced</w> <w id="w11230">expression</w> <w id="w11231">of</w> <w id="w11232">beta-catenin</w> <w id="w11233">(</w> <w id="w11234">28</w> <w id="w11235">of</w> <w id="w11236">86</w> <w id="w11237">,</w> <w id="w11238">33</w> <w id="w11239">%</w> <w id="w11240">)</w> <w id="w11241">was</w> <w id="w11242">similar</w> <w id="w11243">to</w> <w id="w11244">that</w> <w id="w11245">of</w> <w id="w11246">E-cadherin</w> <w id="w11247">(</w> <w id="w11248">19</w> <w id="w11249">of</w> <w id="w11250">86</w> <w id="w11251">,</w> <w id="w11252">22</w> <w id="w11253">%</w> <w id="w11254">)</w> <w id="w11255">,</w> <w id="w11256">but</w> <w id="w11257">less</w> <w id="w11258">than</w> <w id="w11259">that</w> <w id="w11260">of</w> <w id="w11261">alpha-catenin</w> <w id="w11262">(</w> <w id="w11263">47</w> <w id="w11264">of</w> <w id="w11265">86</w> <w id="w11266">,</w> <w id="w11267">55</w> <w id="w11268">%</w> <w id="w11269">)</w> <w id="w11270">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2637" gid="g2527" t="Gene/protein/RNA" fr="w11232" to="w11232" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.728.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2638" gid="g2528" t="Gene/protein/RNA" fr="w11261" to="w11261" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.728.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2639" gid="g2529" t="Gene/protein/RNA" fr="w11246" to="w11246" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.728.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

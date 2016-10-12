@@ -1,0 +1,64 @@
+<rexml>
+<doc id="268">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4071" g="E0" t="mod" cr="" w="By" l="~" p="Prep"/>
+     <dpg d="w4072" g="w4073" t="mod" cr="mod:w4073" w="analytical" l="~" p="A"/>
+     <dpg d="w4073" g="w4071" t="pcomp-n" cr="mod*by*n:w4077" w="ultracentrifugation" l="~" p="N"/>
+     <dpg d="w4074" g="E0" t="punc" cr="punc:w4077" w="," l="~" p="U"/>
+     <dpg d="w4075" g="w4076" t="mod" cr="mod:w4076" w="rhodamine-labeled" l="rhodamine-labeled" p="A"/>
+     <dpg d="w4076" g="w4077" t="s" cr="s+subj:w4077" w="profilin" l="~" p="N"/>
+     <dpg d="w4077" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="binds" l="bind" p="V"/>
+     <dpg d="E3" g="w4077" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E3" g="w4076" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w4078" g="w4079" t="lex-mod" cr="lex-mod:w4079" w="Arp" l="~" p="U"/>
+     <dpg d="w4079" g="w4080" t="nn" cr="nn:w4080" w="2" l="Arp 2" p="N"/>
+     <dpg d="w4080" g="w4077" t="obj" cr="obj:w4077" w="/" l="~" p="N"/>
+     <dpg d="w4081" g="w4082" t="num" cr="num:w4082" w="3" l="~" p="N"/>
+     <dpg d="w4082" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="complex" l="~" p="N"/>
+     <dpg d="w4083" g="w4082" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w4084" g="w4085" t="det" cr="det:w4085" w="a" l="~" p="Det"/>
+     <dpg d="w4085" g="w4083" t="pcomp-n" cr="mod*with*n:w4082" w="Kd" l="~" p="N"/>
+     <dpg d="w4086" g="w4085" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4087" g="w4088" t="num" cr="num:w4088" w="7" l="~" p="N"/>
+     <dpg d="w4088" g="w4086" t="pcomp-n" cr="mod*of*n:w4085" w="microM" l="~" p="N"/>
+     <dpg d="w4089" g="w4088" t="punc" cr="punc:w4088" w="," l="~" p="U"/>
+     <dpg d="w4090" g="w4091" t="det" cr="det:w4091" w="an" l="~" p="Det"/>
+     <dpg d="w4091" g="w4088" t="conj" cr="conj:w4088" w="affinity" l="~" p="N"/>
+     <dpg d="w4092" g="w4091" t="pnmod" cr="pnmod:w4091" w="intermediate" l="~" p="A"/>
+     <dpg d="w4093" g="w4092" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w4094" g="w4096" t="det" cr="det:w4096" w="the" l="~" p="Det"/>
+     <dpg d="w4095" g="w4096" t="mod" cr="mod:w4096" w="low" l="~" p="A"/>
+     <dpg d="w4096" g="w4093" t="pcomp-n" cr="mod*between*n:w4092" w="affinity" l="~" p="N"/>
+     <dpg d="w4097" g="w4096" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4098" g="w4097" t="pcomp-n" cr="mod*of*n:w4096" w="profilin" l="~" p="N"/>
+     <dpg d="w4099" g="w4098" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w4100" g="w4101" t="mod" cr="mod:w4101" w="barbed" l="~" p="A"/>
+     <dpg d="w4101" g="w4099" t="pcomp-n" cr="mod*for*n:w4098" w="ends" l="end" p="N"/>
+     <dpg d="w4102" g="w4101" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4103" g="w4104" t="nn" cr="nn:w4104" w="actin" l="~" p="N"/>
+     <dpg d="w4104" g="w4102" t="pcomp-n" cr="mod*of*n:w4101" w="filaments" l="filament" p="N"/>
+     <dpg d="w4105" g="w4091" t="punc" cr="punc:w4091" w="and" l="~" p="U"/>
+     <dpg d="w4106" g="w4108" t="gen" cr="gen:w4108" w="its" l="~" p="N"/>
+     <dpg d="w4107" g="w4108" t="mod" cr="mod:w4108" w="high" l="~" p="A"/>
+     <dpg d="w4108" g="w4091" t="conj" cr="conj:w4091" w="affinity" l="~" p="N"/>
+     <dpg d="w4109" g="w4108" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w4110" g="w4111" t="nn" cr="nn:w4111" w="actin" l="~" p="N"/>
+     <dpg d="w4111" g="w4109" t="pcomp-n" cr="mod*for*n:w4108" w="monomers" l="monomer" p="N"/>
+     <dpg d="w4112" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

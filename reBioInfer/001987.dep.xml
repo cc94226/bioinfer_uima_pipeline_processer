@@ -1,0 +1,75 @@
+<rexml>
+<doc id="1987">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="E1" g="E2" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="s+subj:w31800" w="" l="~" p="N"/>
+     <dpg d="w31800" g="E1" t="i" cr="mod:w31812" w="Using" l="use" p="V"/>
+     <dpg d="E6" g="w31800" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31801" g="w31805" t="lex-mod" cr="lex-mod:w31805" w="sodium" l="~" p="U"/>
+     <dpg d="w31802" g="w31805" t="lex-mod" cr="lex-mod:w31805" w="dodecyl" l="~" p="U"/>
+     <dpg d="w31803" g="w31805" t="lex-mod" cr="lex-mod:w31805" w="sulfate-polyacrylamide" l="~" p="U"/>
+     <dpg d="w31804" g="w31805" t="lex-mod" cr="lex-mod:w31805" w="gel" l="~" p="U"/>
+     <dpg d="w31805" g="w31800" t="obj" cr="obj:w31800" w="electrophoresis" l="sodium dodecyl sulfate-polyacrylamide gel electrophoresis" p="N"/>
+     <dpg d="w31806" g="w31807" t="punc" cr="punc:w31807" w="(" l="~" p="U"/>
+     <dpg d="w31807" g="w31805" t="abbrev" cr="abbrev:w31805" w="SDS-PAGE" l="SDS-PAGE" p="N"/>
+     <dpg d="w31808" g="w31807" t="punc" cr="punc:w31807" w=")" l="~" p="U"/>
+     <dpg d="w31809" g="E2" t="punc" cr="punc:w31812" w="," l="~" p="U"/>
+     <dpg d="w31810" g="w31812" t="s" cr="s+subj:w31812" w="we" l="~" p="N"/>
+     <dpg d="w31811" g="w31812" t="have" cr="have:w31812" w="have" l="~" p="have"/>
+     <dpg d="w31812" g="E2" t="i" cr="" w="developed" l="develop" p="V"/>
+     <dpg d="E7" g="w31812" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E7" g="w31810" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w31813" g="w31815" t="det" cr="det:w31815" w="a" l="~" p="Det"/>
+     <dpg d="w31814" g="w31815" t="mod" cr="mod:w31815" w="simple" l="~" p="A"/>
+     <dpg d="w31815" g="w31812" t="obj" cr="obj:w31812||s+subj:w31817" w="method" l="~" p="N"/>
+     <dpg d="E0" g="w31815" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w31815" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31816" g="w31817" t="aux" cr="aux:w31817" w="to" l="~" p="Aux"/>
+     <dpg d="w31817" g="E0" t="i" cr="rel:w31815" w="isolate" l="~" p="V"/>
+     <dpg d="E8" g="w31817" t="subj" cr="" w="" l="method" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="method" p="N"/>
+     <dpg d="w31818" g="w31820" t="lex-mod" cr="lex-mod:w31820" w="myosin" l="~" p="U"/>
+     <dpg d="w31819" g="w31820" t="lex-mod" cr="lex-mod:w31820" w="heavy" l="~" p="U"/>
+     <dpg d="w31820" g="w31817" t="obj" cr="obj:w31817" w="chain" l="myosin heavy chain" p="N"/>
+     <dpg d="w31821" g="w31822" t="punc" cr="punc:w31822" w="(" l="~" p="U"/>
+     <dpg d="w31822" g="w31820" t="abbrev" cr="abbrev:w31820" w="MHC" l="~" p="N"/>
+     <dpg d="w31823" g="w31822" t="punc" cr="punc:w31822" w=")" l="~" p="U"/>
+     <dpg d="w31824" g="w31820" t="punc" cr="punc:w31820" w="and" l="~" p="U"/>
+     <dpg d="w31825" g="w31820" t="conj" cr="conj:w31820" w="actin" l="~" p="N"/>
+     <dpg d="w31826" g="w31825" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w31827" g="w31835" t="mod" cr="mod:w31835" w="small" l="~" p="A"/>
+     <dpg d="w31828" g="w31835" t="punc" cr="punc:w31835" w="(" l="~" p="U"/>
+     <dpg d="w31829" g="w31830" t="amount-value" cr="amount-value:w31830" w="60-80" l="60-80" p="N"/>
+     <dpg d="w31830" g="w31835" t="nn" cr="nn:w31835" w="mg" l="~" p="N"/>
+     <dpg d="w31831" g="w31835" t="punc" cr="punc:w31835" w=")" l="~" p="U"/>
+     <dpg d="w31832" g="w31835" t="mod" cr="mod:w31835" w="human" l="~" p="A"/>
+     <dpg d="w31833" g="w31834" t="lex-mod" cr="lex-mod:w31834" w="skeletal" l="~" p="U"/>
+     <dpg d="w31834" g="w31835" t="nn" cr="nn:w31835" w="muscle" l="skeletal muscle" p="N"/>
+     <dpg d="w31835" g="w31826" t="pcomp-n" cr="mod*from*n:w31825" w="samples" l="sample" p="N"/>
+     <dpg d="w31836" g="w31835" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w31837" g="w31838" t="det" cr="det:w31838" w="the" l="~" p="Det"/>
+     <dpg d="w31838" g="w31836" t="pcomp-n" cr="mod*for*n:w31835" w="determination" l="~" p="N"/>
+     <dpg d="w31839" g="w31838" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31840" g="w31843" t="gen" cr="gen:w31843" w="their" l="~" p="N"/>
+     <dpg d="w31841" g="w31843" t="mod" cr="mod:w31843" w="fractional" l="~" p="A"/>
+     <dpg d="w31842" g="w31843" t="nn" cr="nn:w31843" w="synthesis" l="~" p="N"/>
+     <dpg d="w31843" g="w31839" t="pcomp-n" cr="mod*of*n:w31838" w="rates" l="rate" p="N"/>
+     <dpg d="w31844" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,168 @@
+<rexml>
+<doc id="1777">
+  <text>
+<p><s id="s1"><w id="w28415">The</w> <w id="w28416">tandem</w> <w id="w28417">repeat</w> <w id="w28418">domain</w> <w id="w28419">in</w> <w id="w28420">the</w> <w id="w28421">Listeria</w> <w id="w28422">monocytogenes</w> <w id="w28423">ActA</w> <w id="w28424">protein</w> <w id="w28425">controls</w> <w id="w28426">the</w> <w id="w28427">rate</w> <w id="w28428">of</w> <w id="w28429">actin</w><w id="w28430">-based</w> <w id="w28431">motility</w> <w id="w28432">,</w> <w id="w28433">the</w> <w id="w28434">percentage</w> <w id="w28435">of</w> <w id="w28436">moving</w> <w id="w28437">bacteria</w> <w id="w28438">,</w> <w id="w28439">and</w> <w id="w28440">the</w> <w id="w28441">localization</w> <w id="w28442">of</w> <w id="w28443">vasodilator-stimulated</w> <w id="w28444">phosphoprotein</w> <w id="w28445">and</w> <w id="w28446">profilin</w> <w id="w28447">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6574" gid="g6268" t="Substructure_of_protein" fr="w28418" to="w28424" nam="yes">
+     <textspan type="extent">domain in the Listeria monocytogenes ActA protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1777.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6575" gid="g6269" t="Individual_protein" fr="w28429" to="w28429" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1777.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6576" gid="g6270" t="LOCALIZATION" fr="w28441" to="w28444">
+     <textspan type="extent">localization of vasodilator-stimulated phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.1777.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6577" gid="g6271" t="Dynamics_property" fr="w28427" to="w28431">
+     <textspan type="extent">rate of actin-based motility</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.1777.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6578" gid="g6272" t="Individual_protein" fr="w28420" to="w28424" nam="yes">
+     <textspan type="extent">the Listeria monocytogenes ActA protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1777.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6579" gid="g6273" t="LOCALIZATION" fr="w28441" to="w28446">
+     <textspan type="extent">localization of [..] profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.1777.5"/>
+      <exattr n="nst" v="st.1777.25.0"/>
+      <exattr n="nst" v="st.1777.26.0"/>
+      <exattr n="nst" v="st.1777.30.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6580" gid="g6274" t="Function_property" fr="w28429" to="w28431">
+     <textspan type="extent">actin-based motility</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.1777.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6581" gid="g6275" t="RELATIONSHIP_TEXTBINDING" fr="w28425" to="w28425">
+     <textspan type="extent">controls</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1777.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6582" gid="g6276" t="Individual_protein" fr="w28443" to="w28444" nam="yes">
+     <textspan type="extent">vasodilator-stimulated phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1777.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6583" gid="g6277" t="Individual_protein" fr="w28423" to="w28423" nam="yes">
+     <textspan type="extent">ActA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1777.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6584" gid="g6278" t="Individual_protein" fr="w28446" to="w28446" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1777.10"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2532" t="CONTROL" e1="e6574" e2="e6577" re="e6581">
+     <textspan type="extent">domain in the Listeria monocytogenes ActA protein controls the rate of actin -based motility</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1777.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r2533" t="CONTROL" e1="e6574" e2="e6576" re="e6581">
+     <textspan type="extent">domain in the Listeria monocytogenes ActA protein controls the rate of actin -based motility , the percentage of moving bacteria , and the localization of vasodilator-stimulated phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1777.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r2534" t="CONTROL" e1="e6574" e2="e6579" re="e6581">
+     <textspan type="extent">domain in the Listeria monocytogenes ActA protein controls the rate of actin -based motility , the percentage of moving bacteria , and the localization of vasodilator-stimulated phosphoprotein and profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1777.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

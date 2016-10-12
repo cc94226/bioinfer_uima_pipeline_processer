@@ -1,0 +1,118 @@
+<rexml>
+<doc id="616">
+  <text>
+<p><s id="s1"><w id="w9108">Histone</w> <w id="w9109">H3</w> <w id="w9110">showed</w> <w id="w9111">at</w> <w id="w9112">least</w> <w id="w9113">seven</w> <w id="w9114">sites</w> <w id="w9115">of</w> <w id="w9116">acetylation</w> <w id="w9117">,</w> <w id="w9118">histone</w> <w id="w9119">H2B.1</w> <w id="w9120">had</w> <w id="w9121">six</w> <w id="w9122">sites</w> <w id="w9123">and</w> <w id="w9124">histone</w> <w id="w9125">H4</w> <w id="w9126">had</w> <w id="w9127">five</w> <w id="w9128">sites</w> <w id="w9129">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2170" gid="g2078" t="Protein_family_or_group" fr="w9108" to="w9108" nam="yes">
+     <textspan type="extent">Histone</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.616.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2171" gid="g2079" t="Protein_family_or_group" fr="w9124" to="w9124" nam="yes">
+     <textspan type="extent">histone</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.616.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2172" gid="g2080" t="Protein_family_or_group" fr="w9118" to="w9118" nam="yes">
+     <textspan type="extent">histone</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.616.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2173" gid="g2081" t="Individual_protein" fr="w9119" to="w9119" nam="yes">
+     <textspan type="extent">H2B.1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.616.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2174" gid="g2082" t="Individual_protein" fr="w9109" to="w9109" nam="yes">
+     <textspan type="extent">H3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.616.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2175" gid="g2083" t="Individual_protein" fr="w9125" to="w9125" nam="yes">
+     <textspan type="extent">H4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.616.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r851" t="MEMBER" e1="e2170" e2="e2174" re="">
+     <textspan type="extent">Histone H3</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r852" t="MEMBER" e1="e2172" e2="e2173" re="">
+     <textspan type="extent">histone H2B.1</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r853" t="MEMBER" e1="e2171" e2="e2175" re="">
+     <textspan type="extent">histone H4</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

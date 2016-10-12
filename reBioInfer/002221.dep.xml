@@ -1,0 +1,72 @@
+<rexml>
+<doc id="2221">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w34223" g="E4" t="p" cr="" w="With" l="~" p="Prep"/>
+     <dpg d="w34224" g="w34223" t="pcomp-n" cr="p*with*n:w34247||subj:w34230" w="profilins" l="~" p="N"/>
+     <dpg d="w34225" g="w34224" t="punc" cr="punc:w34224" w="," l="~" p="U"/>
+     <dpg d="E1" g="w34224" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w34226" g="E1" t="whn" cr="whn:w34229" w="whose" l="~" p="N"/>
+     <dpg d="w34226" g="w34224" t="antecedent" cr="antecedent:w34224" w="whose" l="~" p="N"/>
+     <dpg d="E0" g="E1" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="s+subj:w34227" w="" l="~" p="N"/>
+     <dpg d="w34227" g="E0" t="i" cr="mod:w34229" w="sequestering" l="sequester" p="V"/>
+     <dpg d="E5" g="w34227" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w34228" g="w34227" t="obj" cr="obj:w34227" w="activity" l="~" p="N"/>
+     <dpg d="w34229" g="E1" t="i" cr="rel:w34224" w="was" l="be" p="VBE"/>
+     <dpg d="w34230" g="w34229" t="pred" cr="pred:w34229" w="low" l="~" p="A"/>
+     <dpg d="E6" g="w34230" t="subj" cr="" w="" l="whose" p="N"/>
+     <dpg d="E6" g="w34224" t="antecedent" cr="" w="" l="whose" p="N"/>
+     <dpg d="w34231" g="E4" t="punc" cr="punc:w34247" w="," l="~" p="U"/>
+     <dpg d="w34232" g="w34233" t="det" cr="det:w34233" w="the" l="~" p="Det"/>
+     <dpg d="w34233" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w34247" w="concentration" l="~" p="N"/>
+     <dpg d="w34234" g="w34233" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34235" g="w34237" t="mod" cr="mod:w34237" w="free" l="~" p="A"/>
+     <dpg d="w34236" g="w34237" t="nn" cr="nn:w34237" w="actin" l="~" p="N"/>
+     <dpg d="w34237" g="w34234" t="pcomp-n" cr="mod*of*n:w34233||obj:w34238" w="monomers" l="monomer" p="N"/>
+     <dpg d="w34238" g="w34237" t="vrel" cr="vrel:w34237" w="observed" l="observe" p="V"/>
+     <dpg d="E7" g="w34238" t="obj" cr="" w="" l="monomer" p="N"/>
+     <dpg d="E7" g="w34237" t="antecedent" cr="" w="" l="monomer" p="N"/>
+     <dpg d="w34239" g="w34238" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w34240" g="w34239" t="pcomp-n" cr="mod*at*n:w34238" w="steady-state" l="steady-state" p="N"/>
+     <dpg d="w34241" g="w34240" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34242" g="w34244" t="nn" cr="nn:w34244" w="polymerization" l="~" p="N"/>
+     <dpg d="w34243" g="w34244" t="punc" cr="punc:w34244" w="[" l="~" p="U"/>
+     <dpg d="w34244" g="w34241" t="pcomp-n" cr="mod*of*n:w34240" w="Afree" l="~" p="N"/>
+     <dpg d="w34245" g="E4" t="punc" cr="punc:w34247" w="]" l="~" p="U"/>
+     <dpg d="w34246" g="E4" t="punc" cr="punc:w34247" w="," l="~" p="U"/>
+     <dpg d="w34247" g="E4" t="i" cr="" w="was" l="be" p="VBE"/>
+     <dpg d="w34248" g="w34247" t="pred" cr="pred:w34247" w="close" l="~" p="A"/>
+     <dpg d="w34249" g="w34248" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w34250" g="w34249" t="pcomp-n" cr="mod*to*n:w34248" w="that" l="~" p="N"/>
+     <dpg d="w34251" g="E4" t="punc" cr="punc:w34247" w="seen" l="~" p="U"/>
+     <dpg d="w34252" g="E4" t="p" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w34253" g="w34255" t="lex-mod" cr="lex-mod:w34255" w="actin" l="~" p="U"/>
+     <dpg d="w34254" g="w34255" t="lex-mod" cr="lex-mod:w34255" w="alone" l="~" p="U"/>
+     <dpg d="w34255" g="w34252" t="pcomp-n" cr="p*with*n:w34247" w="(" l="actin alone (" p="N"/>
+     <dpg d="w34256" g="w34257" t="punc" cr="punc:w34257" w="[" l="~" p="U"/>
+     <dpg d="w34257" g="w34255" t="abbrev" cr="abbrev:w34255" w="Acc" l="~" p="N"/>
+     <dpg d="w34258" g="w34257" t="punc" cr="punc:w34257" w="]" l="~" p="U"/>
+     <dpg d="w34259" g="w34255" t="punc" cr="punc:w34255" w="," l="~" p="U"/>
+     <dpg d="w34260" g="w34261" t="mod" cr="mod:w34261" w="critical" l="~" p="A"/>
+     <dpg d="w34261" g="w34255" t="appo" cr="appo:w34255" w="concentration" l="~" p="N"/>
+     <dpg d="w34262" g="w34261" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34263" g="w34262" t="pcomp-n" cr="mod*of*n:w34261" w="polymerization" l="~" p="N"/>
+     <dpg d="w34264" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w34265" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

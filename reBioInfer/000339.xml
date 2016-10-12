@@ -1,0 +1,108 @@
+<rexml>
+<doc id="339">
+  <text>
+<p><s id="s1"><w id="w5111">CONCLUSIONS</w> <w id="w5112">:</w> <w id="w5113">These</w> <w id="w5114">results</w> <w id="w5115">suggest</w> <w id="w5116">the</w> <w id="w5117">cooperative</w> <w id="w5118">modulation</w> <w id="w5119">of</w> <w id="w5120">the</w> <w id="w5121">actin</w> <w id="w5122">cytoskeleton</w> <w id="w5123">by</w> <w id="w5124">cofilin</w> <w id="w5125">and</w> <w id="w5126">Aip1</w> <w id="w5127">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1233" gid="g1175" t="RELATIONSHIP_TEXTBINDING" fr="w5118" to="w5123">
+     <textspan type="extent">modulation of [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.339.0"/>
+      <exattr n="nst" v="st.339.7.0"/>
+      <exattr n="nst" v="st.339.8.0"/>
+      <exattr n="nst" v="st.339.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1234" gid="g1176" t="Cell_component" fr="w5121" to="w5122" nam="yes">
+     <textspan type="extent">actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.339.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1235" gid="g1177" t="Individual_protein" fr="w5126" to="w5126" nam="yes">
+     <textspan type="extent">Aip1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.339.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1236" gid="g1178" t="RELATIONSHIP_TEXTBINDING" fr="w5117" to="w5117">
+     <textspan type="extent">cooperative</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.339.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1237" gid="g1179" t="Individual_protein" fr="w5121" to="w5121" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.339.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1238" gid="g1180" t="Individual_protein" fr="w5124" to="w5124" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.339.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r480" t="RELATE" e1="e1233" e2="e1233" re="e1236">
+     <textspan type="extent">cooperative modulation of the actin cytoskeleton by cofilin and Aip1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.339.3"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r481" t="MODIFY" e1="e1238" e2="e1234" re="e1233">
+     <textspan type="extent">modulation of the actin cytoskeleton by cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.339.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="MODIFY"/>
+     </exattrs>
+    </rel>
+    <rel id="r482" t="MODIFY" e1="e1235" e2="e1234" re="e1233">
+     <textspan type="extent">modulation of the actin cytoskeleton by cofilin and Aip1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.339.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="MODIFY"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

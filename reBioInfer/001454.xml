@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1454">
+  <text>
+<p><s id="s1"><w id="w22826">The</w> <w id="w22827">deduced</w> <w id="w22828">peptide</w> <w id="w22829">sequence</w> <w id="w22830">contained</w> <w id="w22831">a</w> <w id="w22832">nuclear</w> <w id="w22833">localization</w> <w id="w22834">signal</w> <w id="w22835">and</w> <w id="w22836">a</w> <w id="w22837">putative</w> <w id="w22838">actin</w><w id="w22839">-</w><w id="w22840">binding</w> <w id="w22841">sequence</w> <w id="w22842">as</w> <w id="w22843">reported</w> <w id="w22844">in</w> <w id="w22845">NM-type</w> <w id="w22846">cofilin</w> <w id="w22847">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5275" gid="g5034" t="Individual_protein" fr="w22838" to="w22838" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1454.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5276" gid="g5035" t="RELATIONSHIP_TEXTBINDING" fr="w22840" to="w22844">
+     <textspan type="extent">binding [..] as reported in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1454.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5277" gid="g5036" t="Individual_protein" fr="w22845" to="w22846" nam="yes">
+     <textspan type="extent">NM-type cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1454.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2032" t="BIND" e1="e5277" e2="e5275" re="e5276">
+     <textspan type="extent">actin - binding sequence as reported in NM-type cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1454.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

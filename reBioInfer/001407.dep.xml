@@ -1,0 +1,75 @@
+<rexml>
+<doc id="1407">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22010" g="w22012" t="det" cr="det:w22012" w="The" l="~" p="Det"/>
+     <dpg d="w22011" g="w22012" t="nn" cr="nn:w22012" w="C374S" l="~" p="N"/>
+     <dpg d="w22012" g="w22016" t="s" cr="s+subj:w22016" w="mutation" l="~" p="N"/>
+     <dpg d="w22013" g="w22016" t="have" cr="have:w22016" w="had" l="have" p="have"/>
+     <dpg d="w22014" g="w22015" t="lex-mod" cr="lex-mod:w22015" w="the" l="~" p="U"/>
+     <dpg d="w22015" g="w22016" t="amod" cr="amod:w22016" w="most" l="the most" p="A"/>
+     <dpg d="w22016" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="pronounced" l="pronounce" p="V"/>
+     <dpg d="E6" g="w22016" t="subj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E6" g="w22012" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="w22017" g="w22016" t="obj" cr="obj:w22016" w="effect" l="~" p="N"/>
+     <dpg d="w22018" g="E5" t="punc" cr="punc:E5" w=";" l="~" p="U"/>
+     <dpg d="E1" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22019" g="w22020" t="s" cr="s+subj:w22020" w="it" l="~" p="N"/>
+     <dpg d="w22020" g="E1" t="i" cr="UNSPECRELTYPE:E5" w="reduced" l="reduce" p="V"/>
+     <dpg d="E7" g="w22020" t="subj" cr="" w="" l="it" p="N"/>
+     <dpg d="E7" g="w22019" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w22021" g="w22022" t="det" cr="det:w22022" w="the" l="~" p="Det"/>
+     <dpg d="w22022" g="w22020" t="obj" cr="obj:w22020" w="polymerizability" l="~" p="N"/>
+     <dpg d="w22023" g="w22022" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w22024" g="w22025" t="det" cr="det:w22025" w="the" l="~" p="Det"/>
+     <dpg d="w22025" g="w22023" t="pcomp-n" cr="mod*of*n:w22022||obj:w22027" w="actin" l="~" p="N"/>
+     <dpg d="w22026" g="w22025" t="punc" cr="punc:w22025" w="," l="~" p="U"/>
+     <dpg d="w22027" g="w22025" t="vrel" cr="vrel:w22025" w="abolished" l="abolish" p="V"/>
+     <dpg d="E8" g="w22027" t="obj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E8" g="w22025" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w22028" g="w22029" t="s" cr="s+subj:w22029" w="its" l="~" p="N"/>
+     <dpg d="w22029" g="w22027" t="mod" cr="mod:w22027" w="binding" l="bind" p="V"/>
+     <dpg d="E9" g="w22029" t="subj" cr="" w="" l="its" p="N"/>
+     <dpg d="E9" g="w22028" t="antecedent" cr="" w="" l="its" p="N"/>
+     <dpg d="w22030" g="w22029" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w22031" g="w22030" t="pcomp-n" cr="mod*to*n:w22029" w="profilin" l="~" p="N"/>
+     <dpg d="w22032" g="w22031" t="punc" cr="punc:w22031" w="," l="~" p="U"/>
+     <dpg d="w22033" g="w22031" t="punc" cr="punc:w22031" w="and" l="~" p="U"/>
+     <dpg d="w22034" g="w22031" t="conj" cr="conj:w22031||s+subj:w22035" w="filaments" l="filament" p="N"/>
+     <dpg d="E0" g="w22034" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w22034" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w22035" g="E0" t="i" cr="rel:w22034" w="containing" l="contain" p="V"/>
+     <dpg d="E10" g="w22035" t="subj" cr="" w="" l="filament" p="N"/>
+     <dpg d="E10" g="E3" t="antecedent" cr="" w="" l="filament" p="N"/>
+     <dpg d="w22036" g="w22037" t="det" cr="det:w22037" w="this" l="~" p="Det"/>
+     <dpg d="w22037" g="w22035" t="obj" cr="obj:w22035||obj:w22038" w="mutation" l="~" p="N"/>
+     <dpg d="w22038" g="w22037" t="vrel" cr="vrel:w22037" w="moved" l="move" p="V"/>
+     <dpg d="E11" g="w22038" t="obj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E11" g="w22037" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="w22039" g="w22038" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w22040" g="w22041" t="mod" cr="mod:w22041" w="reduced" l="~" p="A"/>
+     <dpg d="w22041" g="w22039" t="pcomp-n" cr="mod*at*n:w22038" w="rates" l="rate" p="N"/>
+     <dpg d="w22042" g="w22041" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w22043" g="w22047" t="det" cr="det:w22047" w="the" l="~" p="Det"/>
+     <dpg d="w22044" g="w22045" t="lex-mod" cr="lex-mod:w22045" w="in" l="~" p="U"/>
+     <dpg d="w22045" g="w22047" t="mod" cr="mod:w22047" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w22046" g="w22047" t="nn" cr="nn:w22047" w="motility" l="~" p="N"/>
+     <dpg d="w22047" g="w22042" t="pcomp-n" cr="mod*in*n:w22041" w="assay" l="~" p="N"/>
+     <dpg d="w22048" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

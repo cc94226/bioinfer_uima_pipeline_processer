@@ -1,0 +1,51 @@
+<rexml>
+<doc id="1821">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29319" g="w29321" t="det" cr="det:w29321" w="This" l="~" p="Det"/>
+     <dpg d="w29320" g="w29321" t="mod" cr="mod:w29321" w="novel" l="~" p="A"/>
+     <dpg d="w29321" g="w29323" t="s" cr="s+obj:w29323||s+subj:w29325||obj:w29335" w="mutation" l="~" p="N"/>
+     <dpg d="w29322" g="w29323" t="be" cr="be:w29323" w="was" l="be" p="be"/>
+     <dpg d="w29323" g="E1" t="i" cr="" w="predicted" l="predict" p="V"/>
+     <dpg d="E4" g="w29323" t="obj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E4" g="w29321" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E0" g="w29323" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w29321" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w29324" g="w29325" t="aux" cr="aux:w29325" w="to" l="~" p="Aux"/>
+     <dpg d="w29325" g="E0" t="i" cr="mod:w29323" w="disrupt" l="~" p="V"/>
+     <dpg d="E5" g="w29325" t="subj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="w29326" g="w29327" t="det" cr="det:w29327" w="the" l="~" p="Det"/>
+     <dpg d="w29327" g="w29325" t="obj" cr="obj:w29325" w="binding" l="~" p="N"/>
+     <dpg d="w29328" g="w29327" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29329" g="w29328" t="pcomp-n" cr="mod*of*n:w29327" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w29330" g="w29329" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w29331" g="w29330" t="pcomp-n" cr="mod*to*n:w29329" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w29332" g="w29323" t="punc" cr="punc:w29323" w="and" l="~" p="U"/>
+     <dpg d="w29333" g="w29335" t="aux" cr="aux:w29335" w="may" l="~" p="Aux"/>
+     <dpg d="w29334" g="w29335" t="be" cr="be:w29335" w="be" l="~" p="be"/>
+     <dpg d="w29335" g="w29323" t="conj" cr="conj:w29323" w="related" l="relate" p="V"/>
+     <dpg d="E6" g="w29335" t="obj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E6" g="w29321" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="w29336" g="w29335" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w29337" g="w29340" t="det" cr="det:w29340" w="the" l="~" p="Det"/>
+     <dpg d="w29338" g="w29340" t="mod" cr="mod:w29340" w="diffuse" l="~" p="A"/>
+     <dpg d="w29339" g="w29340" t="nn" cr="nn:w29340" w="type" l="~" p="N"/>
+     <dpg d="w29340" g="w29336" t="pcomp-n" cr="mod*to*n:w29335" w="morphology" l="~" p="N"/>
+     <dpg d="w29341" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

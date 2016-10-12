@@ -1,0 +1,35 @@
+<rexml>
+<doc id="863">
+  <text>
+<p><s id="s1"><w id="w13389">In</w> <w id="w13390">this</w> <w id="w13391">case</w> <w id="w13392">,</w> <w id="w13393">efficient</w> <w id="w13394">repair</w> <w id="w13395">does</w> <w id="w13396">not</w> <w id="w13397">require</w> <w id="w13398">RAD1</w> <w id="w13399">and</w> <w id="w13400">MSH2</w> <w id="w13401">,</w> <w id="w13402">consistent</w> <w id="w13403">with</w> <w id="w13404">our</w> <w id="w13405">previous</w> <w id="w13406">observations</w> <w id="w13407">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3079" gid="g2954" t="Gene/protein/RNA" fr="w13398" to="w13398" nam="yes">
+     <textspan type="extent">RAD1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.863.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3080" gid="g2955" t="Gene/protein/RNA" fr="w13400" to="w13400" nam="yes">
+     <textspan type="extent">MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.863.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

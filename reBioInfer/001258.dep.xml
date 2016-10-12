@@ -1,0 +1,76 @@
+<rexml>
+<doc id="1258">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E7" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E3" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w19888" g="E3" t="mod" cr="mod:w19903" w="Significantly" l="~" p="A"/>
+     <dpg d="w19889" g="E3" t="punc" cr="punc:w19903" w="," l="~" p="U"/>
+     <dpg d="w19890" g="w19892" t="det" cr="det:w19892" w="those" l="~" p="Det"/>
+     <dpg d="w19891" g="w19892" t="nn" cr="nn:w19892" w="actin" l="~" p="N"/>
+     <dpg d="w19892" g="w19903" t="s" cr="s+subj:w19893||s+subj:w19903" w="mutants" l="mutant" p="N"/>
+     <dpg d="E2" g="w19892" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w19892" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w19893" g="E2" t="i" cr="rel:w19892" w="exhibiting" l="exhibit" p="V"/>
+     <dpg d="E8" g="w19893" t="subj" cr="" w="" l="mutant" p="N"/>
+     <dpg d="E8" g="E5" t="antecedent" cr="" w="" l="mutant" p="N"/>
+     <dpg d="w19894" g="w19895" t="det" cr="det:w19895" w="the" l="~" p="Det"/>
+     <dpg d="w19895" g="w19893" t="obj1" cr="obj1:w19893" w="most" l="~" p="N"/>
+     <dpg d="w19896" g="w19897" t="mod" cr="mod:w19897" w="severe" l="~" p="A"/>
+     <dpg d="w19897" g="w19893" t="obj2" cr="obj2:w19893" w="phenotypes" l="phenotype" p="N"/>
+     <dpg d="w19898" g="w19897" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w19899" g="w19901" t="pre" cr="pre:w19901" w="all" l="~" p="PreDet"/>
+     <dpg d="w19900" g="w19901" t="nn" cr="nn:w19901" w="three" l="~" p="N"/>
+     <dpg d="w19901" g="w19898" t="pcomp-n" cr="mod*in*n:w19897" w="processes" l="process" p="N"/>
+     <dpg d="w19902" g="w19903" t="have" cr="have:w19903" w="have" l="~" p="have"/>
+     <dpg d="w19903" g="E3" t="i" cr="UNSPECRELTYPE:E7" w="altered" l="alter" p="V"/>
+     <dpg d="E9" g="w19903" t="subj" cr="" w="" l="mutant" p="N"/>
+     <dpg d="E9" g="w19892" t="antecedent" cr="" w="" l="mutant" p="N"/>
+     <dpg d="w19904" g="w19903" t="obj" cr="obj:w19903||subj:w19906" w="residues" l="residue" p="N"/>
+     <dpg d="E1" g="w19904" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w19905" g="E1" t="whn" cr="whn:w19906" w="that" l="~" p="THAT"/>
+     <dpg d="w19905" g="w19904" t="antecedent" cr="antecedent:w19904" w="that" l="~" p="THAT"/>
+     <dpg d="w19906" g="E1" t="i" cr="rel:w19904" w="cluster" l="~" p="V"/>
+     <dpg d="E10" g="w19906" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E10" g="w19904" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w19907" g="w19906" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w19908" g="w19910" t="det" cr="det:w19910" w="a" l="~" p="Det"/>
+     <dpg d="w19909" g="w19910" t="mod" cr="mod:w19910" w="small" l="~" p="A"/>
+     <dpg d="w19910" g="w19907" t="pcomp-n" cr="mod*to*n:w19906" w="region" l="~" p="N"/>
+     <dpg d="w19911" g="w19910" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w19912" g="w19915" t="det" cr="det:w19915" w="the" l="~" p="Det"/>
+     <dpg d="w19913" g="w19915" t="nn" cr="nn:w19915" w="actin" l="~" p="N"/>
+     <dpg d="w19914" g="w19915" t="nn" cr="nn:w19915" w="crystal" l="~" p="N"/>
+     <dpg d="w19915" g="w19911" t="pcomp-n" cr="mod*of*n:w19910||obj:w19917" w="structure" l="~" p="N"/>
+     <dpg d="w19916" g="w19917" t="mod-before" cr="mod-before:w19917" w="previously" l="~" p="A"/>
+     <dpg d="w19917" g="w19915" t="vrel" cr="vrel:w19915" w="defined" l="define" p="V"/>
+     <dpg d="E11" g="w19917" t="obj" cr="" w="" l="structure" p="N"/>
+     <dpg d="E11" g="w19915" t="antecedent" cr="" w="" l="structure" p="N"/>
+     <dpg d="w19918" g="w19917" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w19919" g="w19922" t="det" cr="det:w19922" w="the" l="~" p="Det"/>
+     <dpg d="w19920" g="w19922" t="nn" cr="nn:w19922" w="fimbrin" l="~" p="N"/>
+     <dpg d="w19921" g="w19922" t="punc" cr="punc:w19922" w="(" l="~" p="U"/>
+     <dpg d="w19922" g="w19918" t="pcomp-n" cr="mod*as*n:w19917" w="Sac6p" l="~" p="N"/>
+     <dpg d="w19923" g="E7" t="punc" cr="punc:E7" w=")-" l="~" p="U"/>
+     <dpg d="E0" g="E7" t="UNSPECRELTYPE" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="s+subj:w19924" w="" l="~" p="N"/>
+     <dpg d="w19924" g="E0" t="i" cr="UNSPECRELTYPE:E7" w="binding" l="bind" p="V"/>
+     <dpg d="E12" g="w19924" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E12" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w19925" g="w19924" t="obj" cr="obj:w19924" w="site" l="~" p="N"/>
+     <dpg d="w19926" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,81 @@
+<rexml>
+<doc id="467">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6628" g="w6634" t="s" cr="s:w6634||subj:w6635||s+subj:w6637||s+subj:w6643" w="Expression" l="~" p="N"/>
+     <dpg d="w6629" g="w6628" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6630" g="w6629" t="pcomp-n" cr="mod*of*n:w6628" w="c-Myc" l="c-Myc" p="N"/>
+     <dpg d="w6631" g="w6630" t="punc" cr="punc:w6630" w="or" l="~" p="U"/>
+     <dpg d="w6632" g="w6633" t="nn" cr="nn:w6633" w="cyclin" l="~" p="N"/>
+     <dpg d="w6633" g="w6630" t="conj" cr="conj:w6630" w="D1" l="~" p="N"/>
+     <dpg d="w6634" g="E4" t="i" cr="" w="was" l="be" p="VBE"/>
+     <dpg d="w6635" g="w6634" t="pred" cr="pred:w6634" w="sufficient" l="~" p="A"/>
+     <dpg d="E11" g="w6635" t="subj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E11" g="w6628" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="E3" g="w6635" t="fc" cr="" w="" l="inf" p="C"/>
+     <dpg d="E9" g="E3" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E9" g="w6628" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6636" g="w6637" t="aux" cr="aux:w6637" w="to" l="~" p="Aux"/>
+     <dpg d="w6637" g="E3" t="i" cr="fc:w6635" w="activate" l="~" p="V"/>
+     <dpg d="E12" g="w6637" t="subj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E12" g="E9" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w6638" g="w6641" t="nn" cr="nn:w6641" w="cyclin" l="~" p="N"/>
+     <dpg d="w6639" g="w6641" t="lex-mod" cr="lex-mod:w6641" w="E" l="~" p="U"/>
+     <dpg d="w6640" g="w6641" t="lex-mod" cr="lex-mod:w6641" w="-" l="~" p="U"/>
+     <dpg d="w6641" g="w6637" t="obj" cr="obj:w6637" w="Cdk2" l="E - Cdk2" p="N"/>
+     <dpg d="w6642" g="w6641" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E2" g="w6642" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E8" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="E9" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6643" g="E2" t="i" cr="mod*by*c:w6641" w="promoting" l="promote" p="V"/>
+     <dpg d="E13" g="w6643" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E13" g="E8" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6644" g="w6645" t="det" cr="det:w6645" w="the" l="~" p="Det"/>
+     <dpg d="w6645" g="w6643" t="obj" cr="obj:w6643" w="formation" l="~" p="N"/>
+     <dpg d="w6646" g="w6645" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6647" g="w6648" t="mod" cr="mod:w6648" w="high-molecular-weight" l="high-molecular-weight" p="A"/>
+     <dpg d="w6648" g="w6646" t="pcomp-n" cr="mod*of*n:w6645||s+subj:w6649||s+subj:w6661" w="complexes" l="complex" p="N"/>
+     <dpg d="E1" g="w6648" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E7" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="w6648" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6649" g="E1" t="i" cr="rel:w6648" w="lacking" l="lack" p="V"/>
+     <dpg d="E14" g="w6649" t="subj" cr="" w="" l="complex" p="N"/>
+     <dpg d="E14" g="E7" t="antecedent" cr="" w="" l="complex" p="N"/>
+     <dpg d="w6650" g="w6654" t="det" cr="det:w6654" w="the" l="~" p="Det"/>
+     <dpg d="w6651" g="w6654" t="mod" cr="mod:w6654" w="cyclin-dependent" l="cyclin-dependent" p="A"/>
+     <dpg d="w6652" g="w6654" t="nn" cr="nn:w6654" w="kinase" l="~" p="N"/>
+     <dpg d="w6653" g="w6654" t="nn" cr="nn:w6654" w="inhibitor" l="~" p="N"/>
+     <dpg d="w6654" g="w6649" t="obj" cr="obj:w6649" w="p21" l="~" p="N"/>
+     <dpg d="w6655" g="w6649" t="punc" cr="punc:w6649" w="," l="~" p="U"/>
+     <dpg d="w6656" g="w6649" t="mod" cr="mod:w6649" w="as" l="~" p="A"/>
+     <dpg d="E6" g="w6659" t="ECR" cr="ECR+obj:w6659" w="" l="~" p="EC"/>
+     <dpg d="w6657" g="w6659" t="have" cr="have:w6659" w="has" l="have" p="have"/>
+     <dpg d="w6658" g="w6659" t="be" cr="be:w6659" w="been" l="be" p="be"/>
+     <dpg d="w6659" g="w6656" t="comp1" cr="comp1:w6656" w="described" l="describe" p="V"/>
+     <dpg d="E15" g="w6659" t="obj" cr="" w="" l="~" p="EC"/>
+     <dpg d="E15" g="E6" t="antecedent" cr="" w="" l="~" p="EC"/>
+     <dpg d="w6660" g="w6659" t="punc" cr="punc:w6659" w="," l="~" p="U"/>
+     <dpg d="E0" g="w6659" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E7" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6661" g="E0" t="i" cr="mod:w6659" w="following" l="follow" p="V"/>
+     <dpg d="E16" g="w6661" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E16" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6662" g="w6663" t="nn" cr="nn:w6663" w="estrogen" l="~" p="N"/>
+     <dpg d="w6663" g="w6661" t="obj" cr="obj:w6661" w="treatment" l="~" p="N"/>
+     <dpg d="w6664" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

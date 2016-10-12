@@ -1,0 +1,43 @@
+<rexml>
+<doc id="799">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12557" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="E0" g="w12557" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="s+subj:w12558" w="" l="~" p="N"/>
+     <dpg d="w12558" g="E0" t="i" cr="mod*in*c:w12565" w="resting" l="rest" p="V"/>
+     <dpg d="E4" g="w12558" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="E2" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w12559" g="w12558" t="obj" cr="obj:w12558" w="leukocytes" l="leukocyte" p="N"/>
+     <dpg d="w12560" g="E1" t="punc" cr="punc:w12565" w="," l="~" p="U"/>
+     <dpg d="w12561" g="w12562" t="nn" cr="nn:w12562" w="beta2" l="~" p="N"/>
+     <dpg d="w12562" g="w12565" t="s" cr="s+obj:w12565" w="integrins" l="~" p="N"/>
+     <dpg d="w12563" g="w12565" t="be" cr="be:w12565" w="are" l="be" p="be"/>
+     <dpg d="w12564" g="w12565" t="amod" cr="amod:w12565" w="constitutively" l="~" p="A"/>
+     <dpg d="w12565" g="E1" t="i" cr="" w="linked" l="link" p="V"/>
+     <dpg d="E5" g="w12565" t="obj" cr="" w="" l="integrins" p="N"/>
+     <dpg d="E5" g="w12562" t="antecedent" cr="" w="" l="integrins" p="N"/>
+     <dpg d="w12566" g="w12565" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w12567" g="w12569" t="det" cr="det:w12569" w="the" l="~" p="Det"/>
+     <dpg d="w12568" g="w12569" t="nn" cr="nn:w12569" w="actin" l="~" p="N"/>
+     <dpg d="w12569" g="w12566" t="pcomp-n" cr="mod*to*n:w12565" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w12570" g="w12569" t="mod" cr="" w="via" l="~" p="Prep"/>
+     <dpg d="w12571" g="w12573" t="det" cr="det:w12573" w="the" l="~" p="Det"/>
+     <dpg d="w12572" g="w12573" t="nn" cr="nn:w12573" w="protein" l="~" p="N"/>
+     <dpg d="w12573" g="w12570" t="pcomp-n" cr="mod*via*n:w12569" w="talin" l="~" p="N"/>
+     <dpg d="w12574" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

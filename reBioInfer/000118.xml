@@ -1,0 +1,160 @@
+<rexml>
+<doc id="118">
+  <text>
+<p><s id="s1"><w id="w1825">Analyses</w> <w id="w1826">of</w> <w id="w1827">beta-catenin</w> <w id="w1828">or</w> <w id="w1829">E-cadherin</w> <w id="w1830">immunoprecipitates</w> <w id="w1831">from</w> <w id="w1832">BMMC</w> <w id="w1833">lysate</w> <w id="w1834">revealed</w> <w id="w1835">that</w> <w id="w1836">alpha-catenin</w> <w id="w1837">,</w> <w id="w1838">beta-catenin</w> <w id="w1839">,</w> <w id="w1840">and</w> <w id="w1841">E-cadherin</w> <w id="w1842">were</w> <w id="w1843">co-precipitated</w> <w id="w1844">,</w> <w id="w1845">suggesting</w> <w id="w1846">that</w> <w id="w1847">E-cadherin</w> <w id="w1848">and</w> <w id="w1849">catenins</w> <w id="w1850">form</w> <w id="w1851">a</w> <w id="w1852">complex</w> <w id="w1853">in</w> <w id="w1854">mast</w> <w id="w1855">cells</w> <w id="w1856">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e455" gid="g441" t="Gene/protein/RNA" fr="w1827" to="w1827" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.118.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e456" gid="g442" t="RELATIONSHIP_TEXTBINDING" fr="w1850" to="w1852">
+     <textspan type="extent">form [..] complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.118.1"/>
+      <exattr n="nst" v="st.118.25.0"/>
+      <exattr n="nst" v="st.118.27.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e457" gid="g443" t="Individual_protein" fr="w1836" to="w1836" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.118.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e458" gid="g444" t="Gene/protein/RNA" fr="w1829" to="w1829" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.118.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e459" gid="g445" t="Individual_protein" fr="w1841" to="w1841" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.118.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e460" gid="g446" t="Individual_protein" fr="w1838" to="w1838" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.118.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e461" gid="g447" t="Individual_protein" fr="w1849" to="w1849" nam="yes">
+     <textspan type="extent">catenins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.118.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e462" gid="g448" t="Individual_protein" fr="w1847" to="w1847" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.118.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e463" gid="g449" t="Protein_complex" fr="w1852" to="w1852" nam="yes">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.118.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e464" gid="g450" t="RELATIONSHIP_TEXTBINDING" fr="w1843" to="w1843">
+     <textspan type="extent">co-precipitated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.118.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r177" t="CONTAIN" e1="e463" e2="e462" re="e456">
+     <textspan type="extent">E-cadherin and catenins form a complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.118.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r178" t="CONTAIN" e1="e463" e2="e461" re="e456">
+     <textspan type="extent">catenins form a complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.118.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r179" t="COPRECIPITATE" e1="e457" e2="e460,e459" re="e464">
+     <textspan type="extent">alpha-catenin , beta-catenin , and E-cadherin were co-precipitated</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.118.9"/>
+      <exattr n="arg" v="e457"/>
+      <exattr n="arg" v="e460"/>
+      <exattr n="arg" v="e459"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COPRECIPITATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,84 @@
+<rexml>
+<doc id="1218">
+  <text>
+<p><s id="s1"><w id="w19154">Reversible</w> <w id="w19155">binding</w> <w id="w19156">of</w> <w id="w19157">actin</w> <w id="w19158">to</w> <w id="w19159">gelsolin</w> <w id="w19160">and</w> <w id="w19161">profilin</w> <w id="w19162">in</w> <w id="w19163">human</w> <w id="w19164">platelet</w> <w id="w19165">extracts</w> <w id="w19166">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4439" gid="g4246" t="RELATIONSHIP_TEXTBINDING" fr="w19155" to="w19158">
+     <textspan type="extent">binding of [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1218.0"/>
+      <exattr n="nst" v="st.1218.1.0"/>
+      <exattr n="nst" v="st.1218.2.0"/>
+      <exattr n="nst" v="st.1218.4.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4440" gid="g4247" t="Individual_protein" fr="w19157" to="w19157" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1218.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4441" gid="g4248" t="Individual_protein" fr="w19161" to="w19161" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1218.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4442" gid="g4249" t="Individual_protein" fr="w19159" to="w19159" nam="yes">
+     <textspan type="extent">gelsolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1218.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1690" t="BIND" e1="e4440" e2="e4442" re="e4439">
+     <textspan type="extent">binding of actin to gelsolin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1218.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1691" t="BIND" e1="e4440" e2="e4441" re="e4439">
+     <textspan type="extent">binding of actin to gelsolin and profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1218.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

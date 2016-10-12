@@ -1,0 +1,142 @@
+<rexml>
+<doc id="669">
+  <text>
+<p><s id="s1"><w id="w10022">Immunofluorescence</w> <w id="w10023">microscopy</w> <w id="w10024">of</w> <w id="w10025">cells</w> <w id="w10026">grown</w> <w id="w10027">on</w> <w id="w10028">fibronectin</w> <w id="w10029">confirmed</w> <w id="w10030">the</w> <w id="w10031">presence</w> <w id="w10032">of</w> <w id="w10033">paxillin</w> <w id="w10034">,</w> <w id="w10035">talin</w> <w id="w10036">,</w> <w id="w10037">and</w> <w id="w10038">vinculin</w> <w id="w10039">at</w> <w id="w10040">the</w> <w id="w10041">ends</w> <w id="w10042">of</w> <w id="w10043">actin</w> <w id="w10044">stress</w> <w id="w10045">fibers</w> <w id="w10046">at</w> <w id="w10047">presumptive</w> <w id="w10048">focal</w> <w id="w10049">contacts</w> <w id="w10050">in</w> <w id="w10051">melanocytes</w> <w id="w10052">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2368" gid="g2268" t="Gene/protein/RNA" fr="w10028" to="w10028" nam="yes">
+     <textspan type="extent">fibronectin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.669.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2369" gid="g2269" t="RELATIONSHIP_TEXTBINDING" fr="w10031" to="w10039">
+     <textspan type="extent">presence of [..] at</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.669.1"/>
+      <exattr n="nst" v="st.669.9.0"/>
+      <exattr n="nst" v="st.669.10.0"/>
+      <exattr n="nst" v="st.669.17.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2370" gid="g2270" t="Individual_protein" fr="w10035" to="w10035" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.669.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2371" gid="g2271" t="Individual_protein" fr="w10033" to="w10033" nam="yes">
+     <textspan type="extent">paxillin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.669.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2372" gid="g2272" t="Cell_component" fr="w10041" to="w10045" nam="yes">
+     <textspan type="extent">ends of actin [..] fibers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.669.4"/>
+      <exattr n="nst" v="st.669.19.0"/>
+      <exattr n="nst" v="st.669.20.0"/>
+      <exattr n="nst" v="st.669.21.0"/>
+      <exattr n="nst" v="st.669.23.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2373" gid="g2273" t="Individual_protein" fr="w10038" to="w10038" nam="yes">
+     <textspan type="extent">vinculin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.669.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2374" gid="g2274" t="Cell_component" fr="w10043" to="w10045" nam="yes">
+     <textspan type="extent">actin [..] fibers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.669.6"/>
+      <exattr n="nst" v="st.669.21.0"/>
+      <exattr n="nst" v="st.669.23.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2375" gid="g2275" t="Individual_protein" fr="w10043" to="w10043" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.669.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r915" t="LOCALIZE-TO" e1="e2371" e2="e2372" re="e2369">
+     <textspan type="extent">presence of paxillin , talin , and vinculin at the ends of actin stress fibers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.669.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+    <rel id="r916" t="LOCALIZE-TO" e1="e2370" e2="e2372" re="e2369">
+     <textspan type="extent">presence of paxillin , talin , and vinculin at the ends of actin stress fibers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.669.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+    <rel id="r917" t="LOCALIZE-TO" e1="e2373" e2="e2372" re="e2369">
+     <textspan type="extent">presence of paxillin , talin , and vinculin at the ends of actin stress fibers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.669.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

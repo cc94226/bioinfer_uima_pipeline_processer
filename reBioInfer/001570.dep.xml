@@ -1,0 +1,41 @@
+<rexml>
+<doc id="1570">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24923" g="w24926" t="det" cr="det:w24926" w="The" l="~" p="Det"/>
+     <dpg d="w24924" g="w24926" t="mod" cr="mod:w24926" w="N-terminal" l="N-terminal" p="A"/>
+     <dpg d="w24925" g="w24926" t="nn" cr="nn:w24926" w="talin" l="~" p="N"/>
+     <dpg d="w24926" g="w24928" t="s" cr="s+subj:w24928" w="polypeptide" l="~" p="N"/>
+     <dpg d="w24927" g="w24928" t="mod-before" cr="mod-before:w24928" w="eventually" l="~" p="A"/>
+     <dpg d="w24928" g="E1" t="i" cr="" w="disrupted" l="disrupt" p="V"/>
+     <dpg d="E3" g="w24928" t="subj" cr="" w="" l="polypeptide" p="N"/>
+     <dpg d="E3" g="w24926" t="antecedent" cr="" w="" l="polypeptide" p="N"/>
+     <dpg d="w24929" g="w24931" t="nn" cr="nn:w24931" w="actin" l="~" p="N"/>
+     <dpg d="w24930" g="w24931" t="nn" cr="nn:w24931" w="stress" l="~" p="N"/>
+     <dpg d="w24931" g="w24928" t="obj" cr="obj:w24928" w="fibres" l="fibre" p="N"/>
+     <dpg d="w24932" g="w24928" t="mod" cr="mod:w24928" w="whereas" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w24932" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24933" g="w24935" t="det" cr="det:w24935" w="the" l="~" p="Det"/>
+     <dpg d="w24934" g="w24935" t="mod" cr="mod:w24935" w="C-terminal" l="C-terminal" p="A"/>
+     <dpg d="w24935" g="w24936" t="s" cr="s:w24936||subj-without:w24938" w="polypeptide" l="~" p="N"/>
+     <dpg d="w24936" g="E0" t="i" cr="comp1:w24932" w="was" l="be" p="VBE"/>
+     <dpg d="w24937" g="w24936" t="pred" cr="" w="without" l="~" p="Prep"/>
+     <dpg d="E4" g="w24938" t="subj-without" cr="" w="" l="polypeptide" p="N"/>
+     <dpg d="E4" g="w24935" t="antecedent" cr="" w="" l="polypeptide" p="N"/>
+     <dpg d="w24938" g="w24937" t="pcomp-n" cr="pred*without*n:w24936" w="effect" l="~" p="N"/>
+     <dpg d="w24939" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

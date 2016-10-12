@@ -1,0 +1,111 @@
+<rexml>
+<doc id="1440">
+  
+  <markup>
+   <nes>
+    <ne id="e5231" gid="g4992" t="Substructure_of_protein" fr="w22651" to="w22653" nam="yes" sid="s1">
+     <textspan>region of ORC3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1440.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5236" gid="g4997" t="Individual_protein" fr="w22653" to="w22653" nam="yes" sid="s1">
+     <textspan>ORC3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1440.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5237" gid="g4998" t="Individual_protein" fr="w22661" to="w22661" nam="yes" sid="s1">
+     <textspan>ORC4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1440.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5233" gid="g4994" t="Individual_protein" fr="w22663" to="w22663" nam="yes" sid="s1">
+     <textspan>ORC5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1440.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5235" gid="g4996" t="Protein_complex" fr="w22667" to="w22667" nam="yes" sid="s1">
+     <textspan>complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1440.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2009" t="COOF-CONTAIN" e1="e5237" e2="e5233" re="e5232">
+     <textspan>bring ORC4 and ORC5 into the core complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1440.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2009" t="CONTAIN" e1="e5235" e2="e5237" re="e5232">
+     <textspan>bring ORC4 and ORC5 into the core complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1440.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2011" t="CONTAIN" e1="e5235" e2="e5233" re="e5232">
+     <textspan>bring ORC4 and ORC5 into the core complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1440.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

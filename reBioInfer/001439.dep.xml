@@ -1,0 +1,51 @@
+<rexml>
+<doc id="1439">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22623" g="w22624" t="det" cr="det:w22624" w="The" l="~" p="Det"/>
+     <dpg d="w22624" g="w22627" t="s" cr="s+subj:w22627" w="C-terminal" l="C-terminal" p="N"/>
+     <dpg d="w22625" g="w22624" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w22626" g="w22625" t="pcomp-n" cr="mod*of*n:w22624" w="TRADD" l="~" p="N"/>
+     <dpg d="w22627" g="E1" t="i" cr="" w="comprises" l="comprise" p="V"/>
+     <dpg d="E3" g="w22627" t="subj" cr="" w="" l="C-terminal" p="N"/>
+     <dpg d="E3" g="w22624" t="antecedent" cr="" w="" l="C-terminal" p="N"/>
+     <dpg d="w22628" g="w22630" t="det" cr="det:w22630" w="the" l="~" p="Det"/>
+     <dpg d="w22629" g="w22630" t="nn" cr="nn:w22630" w="death" l="~" p="N"/>
+     <dpg d="w22630" g="w22627" t="obj" cr="obj:w22627||subj:w22633" w="domain" l="~" p="N"/>
+     <dpg d="E0" g="w22630" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22631" g="E0" t="whn" cr="whn:w22632" w="that" l="~" p="THAT"/>
+     <dpg d="w22631" g="w22630" t="antecedent" cr="antecedent:w22630" w="that" l="~" p="THAT"/>
+     <dpg d="w22632" g="E0" t="i" cr="rel:w22630" w="is" l="be" p="VBE"/>
+     <dpg d="w22633" g="w22632" t="pred" cr="pred:w22632" w="responsible" l="~" p="A"/>
+     <dpg d="E4" g="w22633" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E4" g="w22630" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w22634" g="w22633" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w22635" g="w22634" t="pcomp-n" cr="mod*for*n:w22633" w="association" l="~" p="N"/>
+     <dpg d="w22636" g="w22635" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w22637" g="w22636" t="pcomp-n" cr="mod*of*n:w22635" w="TNFR1" l="~" p="N"/>
+     <dpg d="w22638" g="w22637" t="punc" cr="punc:w22637" w="and" l="~" p="U"/>
+     <dpg d="w22639" g="w22642" t="mod" cr="mod:w22642" w="other" l="~" p="A"/>
+     <dpg d="w22640" g="w22642" t="nn" cr="nn:w22642" w="death" l="~" p="N"/>
+     <dpg d="w22641" g="w22642" t="mod" cr="mod:w22642" w="domain-containing" l="domain-containing" p="A"/>
+     <dpg d="w22642" g="w22637" t="conj" cr="conj:w22637" w="proteins" l="protein" p="N"/>
+     <dpg d="w22643" g="w22642" t="mod" cr="" w="such" l="such as" p="Prep"/>
+     <dpg d="w22644" g="w22643" t="lex-mod" cr="lex-mod:w22643" w="as" l="~" p="U"/>
+     <dpg d="w22645" g="w22643" t="pcomp-n" cr="mod*such*n:w22642" w="FADD" l="~" p="N"/>
+     <dpg d="w22646" g="w22645" t="punc" cr="punc:w22645" w="and" l="~" p="U"/>
+     <dpg d="w22647" g="w22645" t="conj" cr="conj:w22645" w="RIP" l="~" p="N"/>
+     <dpg d="w22648" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

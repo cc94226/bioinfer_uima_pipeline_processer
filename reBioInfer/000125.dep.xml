@@ -1,0 +1,60 @@
+<rexml>
+<doc id="125">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2033" g="w2049" t="s" cr="s+subj:w2049" w="Analysis" l="~" p="N"/>
+     <dpg d="w2034" g="w2033" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2035" g="w2037" t="det" cr="det:w2037" w="the" l="~" p="Det"/>
+     <dpg d="w2036" g="w2037" t="nn" cr="nn:w2037" w="u.v." l="~" p="N"/>
+     <dpg d="w2037" g="w2034" t="pcomp-n" cr="mod*of*n:w2033" w="absorbance" l="~" p="N"/>
+     <dpg d="w2038" g="w2037" t="punc" cr="punc:w2037" w="and" l="~" p="U"/>
+     <dpg d="w2039" g="w2042" t="mod" cr="mod:w2042" w="far-u.v." l="far- u.v" p="A"/>
+     <dpg d="w2040" g="w2042" t="mod" cr="mod:w2042" w="circular" l="~" p="A"/>
+     <dpg d="w2041" g="w2042" t="nn" cr="nn:w2042" w="dichroism" l="~" p="N"/>
+     <dpg d="w2042" g="w2037" t="conj" cr="conj:w2037" w="spectra" l="~" p="N"/>
+     <dpg d="w2043" g="w2042" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2044" g="w2043" t="pcomp-n" cr="mod*of*n:w2042" w="profilin" l="~" p="N"/>
+     <dpg d="w2045" g="w2044" t="punc" cr="punc:w2044" w="and" l="~" p="U"/>
+     <dpg d="w2046" g="w2044" t="conj" cr="conj:w2044" w="actin" l="~" p="N"/>
+     <dpg d="w2047" g="w2049" t="aux" cr="aux:w2049" w="did" l="do" p="Aux"/>
+     <dpg d="w2048" g="w2047" t="neg" cr="neg:w2047" w="not" l="~" p="A"/>
+     <dpg d="w2049" g="E1" t="i" cr="" w="reveal" l="~" p="V"/>
+     <dpg d="E4" g="w2049" t="subj" cr="" w="" l="analysis" p="N"/>
+     <dpg d="E4" g="w2033" t="antecedent" cr="" w="" l="analysis" p="N"/>
+     <dpg d="w2050" g="w2052" t="det" cr="det:w2052" w="any" l="~" p="Det"/>
+     <dpg d="w2051" g="w2052" t="mod" cr="mod:w2052" w="major" l="~" p="A"/>
+     <dpg d="w2052" g="w2049" t="obj" cr="obj:w2049" w="changes" l="change" p="N"/>
+     <dpg d="w2053" g="w2052" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w2054" g="w2055" t="det" cr="det:w2055" w="the" l="~" p="Det"/>
+     <dpg d="w2055" g="w2053" t="pcomp-n" cr="mod*in*n:w2052" w="conformation" l="~" p="N"/>
+     <dpg d="w2056" g="w2055" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2057" g="w2058" t="det" cr="det:w2058" w="the" l="~" p="Det"/>
+     <dpg d="w2058" g="w2056" t="pcomp-n" cr="mod*of*n:w2055||s+subj:w2059" w="proteins" l="protein" p="N"/>
+     <dpg d="E0" g="w2058" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w2058" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w2059" g="E0" t="i" cr="rel:w2058" w="accompanying" l="accompany" p="V"/>
+     <dpg d="E5" g="w2059" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w2060" g="w2061" t="det" cr="det:w2061" w="the" l="~" p="Det"/>
+     <dpg d="w2061" g="w2059" t="obj" cr="obj:w2059" w="modifications" l="modification" p="N"/>
+     <dpg d="w2062" g="w2061" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w2063" g="w2065" t="det" cr="det:w2065" w="the" l="~" p="Det"/>
+     <dpg d="w2064" g="w2065" t="mod" cr="mod:w2065" w="C-terminal" l="C-terminal" p="A"/>
+     <dpg d="w2065" g="w2062" t="pcomp-n" cr="mod*at*n:w2061" w="ends" l="end" p="N"/>
+     <dpg d="w2066" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,95 @@
+<rexml>
+<doc id="788">
+  <text>
+<p><s id="s1"><w id="w12406">In</w> <w id="w12407">order</w> <w id="w12408">to</w> <w id="w12409">determine</w> <w id="w12410">possible</w> <w id="w12411">changes</w> <w id="w12412">in</w> <w id="w12413">the</w> <w id="w12414">cytoskeleton</w> <w id="w12415">organization</w> <w id="w12416">and</w> <w id="w12417">function</w> <w id="w12418">during</w> <w id="w12419">these</w> <w id="w12420">processes</w> <w id="w12421">,</w> <w id="w12422">we</w> <w id="w12423">have</w> <w id="w12424">studied</w> <w id="w12425">the</w> <w id="w12426">in</w> <w id="w12427">situ</w> <w id="w12428">distribution</w> <w id="w12429">of</w> <w id="w12430">two</w> <w id="w12431">major</w> <w id="w12432">cytoskeleton-associated</w> <w id="w12433">elements</w> <w id="w12434">involved</w> <w id="w12435">in</w> <w id="w12436">the</w> <w id="w12437">membrane</w> <w id="w12438">anchorage</w> <w id="w12439">of</w> <w id="w12440">actin</w> <w id="w12441">microfilaments</w> <w id="w12442">,</w> <w id="w12443">i.e.</w> <w id="w12444">vinculin</w> <w id="w12445">and</w> <w id="w12446">talin</w> <w id="w12447">,</w> <w id="w12448">during</w> <w id="w12449">the</w> <w id="w12450">ontogeny</w> <w id="w12451">of</w> <w id="w12452">the</w> <w id="w12453">neural</w> <w id="w12454">crest</w> <w id="w12455">and</w> <w id="w12456">its</w> <w id="w12457">derivatives</w> <w id="w12458">in</w> <w id="w12459">the</w> <w id="w12460">avian</w> <w id="w12461">embryo</w> <w id="w12462">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2875" gid="g2756" t="RELATIONSHIP_TEXTBINDING" fr="w12434" to="w12435">
+     <textspan type="extent">involved in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.788.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2876" gid="g2757" t="ASSEMBLY" fr="w12438" to="w12441">
+     <textspan type="extent">anchorage of actin microfilaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.788.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2877" gid="g2758" t="Individual_protein" fr="w12446" to="w12446" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.788.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2878" gid="g2759" t="Individual_protein" fr="w12444" to="w12444" nam="yes">
+     <textspan type="extent">vinculin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.788.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2879" gid="g2760" t="Cell_component" fr="w12440" to="w12441" nam="yes">
+     <textspan type="extent">actin microfilaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.788.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2880" gid="g2761" t="Individual_protein" fr="w12440" to="w12440" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.788.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1119" t="PARTICIPATE" e1="e2878" e2="e2876" re="e2875">
+     <textspan type="extent">involved in the membrane anchorage of actin microfilaments , i.e. vinculin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.788.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1120" t="PARTICIPATE" e1="e2877" e2="e2876" re="e2875">
+     <textspan type="extent">involved in the membrane anchorage of actin microfilaments , i.e. vinculin and talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.788.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

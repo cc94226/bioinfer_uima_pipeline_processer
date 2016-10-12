@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1321">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20623" g="w20626" t="lex-mod" cr="lex-mod:w20626" w="Testicular" l="~" p="U"/>
+     <dpg d="w20624" g="w20626" t="lex-mod" cr="lex-mod:w20626" w="protein" l="~" p="U"/>
+     <dpg d="w20625" g="w20626" t="lex-mod" cr="lex-mod:w20626" w="kinase" l="~" p="U"/>
+     <dpg d="w20626" g="w20630" t="s" cr="s:w20630||subj:w20633" w="1" l="Testicular protein kinase 1" p="N"/>
+     <dpg d="w20627" g="w20628" t="punc" cr="punc:w20628" w="(" l="~" p="U"/>
+     <dpg d="w20628" g="w20626" t="abbrev" cr="abbrev:w20626" w="TESK1" l="~" p="N"/>
+     <dpg d="w20629" g="w20628" t="punc" cr="punc:w20628" w=")" l="~" p="U"/>
+     <dpg d="w20630" g="E0" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="E2" g="w20633" t="subj" cr="" w="" l="Testicular protein kinase 1" p="N"/>
+     <dpg d="E2" g="w20626" t="antecedent" cr="" w="" l="Testicular protein kinase 1" p="N"/>
+     <dpg d="w20631" g="w20633" t="det" cr="det:w20633" w="a" l="~" p="Det"/>
+     <dpg d="w20632" g="w20633" t="nn" cr="nn:w20633" w="serine/threonine" l="~" p="N"/>
+     <dpg d="w20633" g="w20630" t="pred" cr="pred:w20630||obj:w20635||subj:w20641||subj:w20648" w="kinase" l="~" p="N"/>
+     <dpg d="w20634" g="w20635" t="mod-before" cr="mod-before:w20635" w="highly" l="~" p="A"/>
+     <dpg d="w20635" g="w20633" t="vrel" cr="vrel:w20633" w="expressed" l="express" p="V"/>
+     <dpg d="E3" g="w20635" t="obj" cr="" w="" l="kinase" p="N"/>
+     <dpg d="E3" g="w20633" t="antecedent" cr="" w="" l="kinase" p="N"/>
+     <dpg d="w20636" g="w20635" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w20637" g="w20639" t="mod" cr="mod:w20639" w="testicular" l="~" p="A"/>
+     <dpg d="w20638" g="w20639" t="nn" cr="nn:w20639" w="germ" l="~" p="N"/>
+     <dpg d="w20639" g="w20636" t="pcomp-n" cr="mod*in*n:w20635" w="cells" l="cell" p="N"/>
+     <dpg d="w20640" g="w20635" t="punc" cr="punc:w20635" w="and" l="~" p="U"/>
+     <dpg d="w20641" g="w20635" t="conj" cr="conj:w20635" w="has" l="have" p="V"/>
+     <dpg d="E4" g="w20641" t="subj" cr="" w="" l="kinase" p="N"/>
+     <dpg d="E4" g="w20633" t="antecedent" cr="" w="" l="kinase" p="N"/>
+     <dpg d="w20642" g="w20643" t="det" cr="det:w20643" w="the" l="~" p="Det"/>
+     <dpg d="w20643" g="w20641" t="obj" cr="obj:w20641" w="potential" l="~" p="N"/>
+     <dpg d="w20644" g="w20643" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w20645" g="w20646" t="nn" cr="nn:w20646" w="phosphorylate" l="~" p="N"/>
+     <dpg d="w20646" g="w20644" t="pcomp-n" cr="mod*to*n:w20643" w="cofilin" l="~" p="N"/>
+     <dpg d="w20647" g="w20641" t="punc" cr="punc:w20641" w="and" l="~" p="U"/>
+     <dpg d="w20648" g="w20641" t="conj" cr="conj:w20641" w="induce" l="~" p="V"/>
+     <dpg d="E5" g="w20648" t="subj" cr="" w="" l="kinase" p="N"/>
+     <dpg d="E5" g="w20633" t="antecedent" cr="" w="" l="kinase" p="N"/>
+     <dpg d="w20649" g="w20651" t="nn" cr="nn:w20651" w="actin" l="~" p="N"/>
+     <dpg d="w20650" g="w20651" t="mod" cr="mod:w20651" w="cytoskeletal" l="~" p="A"/>
+     <dpg d="w20651" g="w20648" t="obj" cr="obj:w20648" w="reorganization" l="~" p="N"/>
+     <dpg d="w20652" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

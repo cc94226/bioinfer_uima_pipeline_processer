@@ -1,0 +1,56 @@
+<rexml>
+<doc id="1603">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25443" g="w25445" t="det" cr="det:w25445" w="The" l="~" p="Det"/>
+     <dpg d="w25444" g="w25445" t="mod" cr="mod:w25445" w="present" l="~" p="A"/>
+     <dpg d="w25445" g="w25447" t="s" cr="s+obj:w25447||s+subj:w25449" w="study" l="~" p="N"/>
+     <dpg d="w25446" g="w25447" t="be" cr="be:w25447" w="was" l="be" p="be"/>
+     <dpg d="w25447" g="E2" t="i" cr="" w="designed" l="design" p="V"/>
+     <dpg d="E5" g="w25447" t="obj" cr="" w="" l="study" p="N"/>
+     <dpg d="E5" g="w25445" t="antecedent" cr="" w="" l="study" p="N"/>
+     <dpg d="E1" g="w25447" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w25445" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w25448" g="w25449" t="aux" cr="aux:w25449" w="to" l="~" p="Aux"/>
+     <dpg d="w25449" g="E1" t="i" cr="mod:w25447" w="determine" l="~" p="V"/>
+     <dpg d="E6" g="w25449" t="subj" cr="" w="" l="study" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="study" p="N"/>
+     <dpg d="E0" g="w25449" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25450" g="E0" t="c" cr="c:w25453" w="if" l="~" p="COMP"/>
+     <dpg d="w25451" g="w25452" t="nn" cr="nn:w25452" w="cholesterol" l="~" p="N"/>
+     <dpg d="w25452" g="w25453" t="s" cr="s+subj:w25453" w="feeding" l="~" p="N"/>
+     <dpg d="w25453" g="E0" t="i" cr="fc:w25449" w="results" l="result" p="V"/>
+     <dpg d="E7" g="w25453" t="subj" cr="" w="" l="feeding" p="N"/>
+     <dpg d="E7" g="w25452" t="antecedent" cr="" w="" l="feeding" p="N"/>
+     <dpg d="w25454" g="w25453" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w25455" g="w25454" t="pcomp-n" cr="mod*in*n:w25453" w="alterations" l="alteration" p="N"/>
+     <dpg d="w25456" g="w25455" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w25457" g="w25458" t="det" cr="det:w25458" w="the" l="~" p="Det"/>
+     <dpg d="w25458" g="w25456" t="pcomp-n" cr="mod*in*n:w25455" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w25459" g="w25458" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25460" g="w25459" t="pcomp-n" cr="mod*of*n:w25458" w="actin" l="~" p="N"/>
+     <dpg d="w25461" g="w25460" t="punc" cr="punc:w25460" w="and/or" l="~" p="U"/>
+     <dpg d="w25462" g="w25464" t="nn" cr="nn:w25464" w="myosin" l="~" p="N"/>
+     <dpg d="w25463" g="w25464" t="mod" cr="mod:w25464" w="heavy" l="~" p="A"/>
+     <dpg d="w25464" g="w25460" t="conj" cr="conj:w25460" w="chain" l="~" p="N"/>
+     <dpg d="w25465" g="w25464" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w25466" g="w25468" t="nn" cr="nn:w25468" w="gallbladder" l="~" p="N"/>
+     <dpg d="w25467" g="w25468" t="lex-mod" cr="lex-mod:w25468" w="smooth" l="~" p="U"/>
+     <dpg d="w25468" g="w25465" t="pcomp-n" cr="mod*in*n:w25464" w="muscle" l="smooth muscle" p="N"/>
+     <dpg d="w25469" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

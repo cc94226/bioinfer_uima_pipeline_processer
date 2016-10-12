@@ -1,0 +1,56 @@
+<rexml>
+<doc id="787">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w12375" g="" t="" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w12376" g="w12375" t="pcomp-n" cr="pcomp-n:w12375" w="order" l="~" p="N"/>
+     <dpg d="E1" g="w12376" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="E0" g="E1" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="s+subj:w12378" w="" l="~" p="N"/>
+     <dpg d="w12377" g="w12378" t="aux" cr="aux:w12378" w="to" l="~" p="Aux"/>
+     <dpg d="w12378" g="E0" t="i" cr="mod:w12396" w="clarify" l="~" p="V"/>
+     <dpg d="E4" g="w12378" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="E2" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w12379" g="w12381" t="lex-mod" cr="lex-mod:w12381" w="cofilin" l="~" p="U"/>
+     <dpg d="w12380" g="w12381" t="lex-mod" cr="lex-mod:w12381" w="-" l="~" p="U"/>
+     <dpg d="w12381" g="w12382" t="mod" cr="mod:w12382" w="dependent" l="cofilin - dependent" p="A"/>
+     <dpg d="w12382" g="w12378" t="obj" cr="obj:w12378" w="regulation" l="~" p="N"/>
+     <dpg d="w12383" g="w12382" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12384" g="w12385" t="nn" cr="nn:w12385" w="actin" l="~" p="N"/>
+     <dpg d="w12385" g="w12383" t="pcomp-n" cr="mod*of*n:w12382" w="assembly" l="~" p="N"/>
+     <dpg d="w12386" g="w12385" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w12387" g="w12388" t="nn" cr="nn:w12388" w="muscle" l="~" p="N"/>
+     <dpg d="w12388" g="w12386" t="pcomp-n" cr="mod*in*n:w12385" w="cells" l="cell" p="N"/>
+     <dpg d="w12389" g="E1" t="punc" cr="punc:w12396" w="," l="~" p="U"/>
+     <dpg d="w12390" g="w12396" t="s" cr="s+obj:w12396" w="cofilin" l="~" p="N"/>
+     <dpg d="w12391" g="w12390" t="pnmod" cr="pnmod:w12390" w="tagged" l="~" p="A"/>
+     <dpg d="w12392" g="w12391" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w12393" g="w12394" t="nn" cr="nn:w12394" w="fluorescence" l="~" p="N"/>
+     <dpg d="w12394" g="w12392" t="pcomp-n" cr="mod*with*n:w12391" w="dyes" l="dye" p="N"/>
+     <dpg d="w12395" g="w12396" t="be" cr="be:w12396" w="was" l="be" p="be"/>
+     <dpg d="w12396" g="E1" t="i" cr="comp1:w12376" w="introduced" l="introduce" p="V"/>
+     <dpg d="E5" g="w12396" t="obj" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="E5" g="w12390" t="antecedent" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="w12397" g="w12396" t="mod" cr="" w="into" l="~" p="Prep"/>
+     <dpg d="w12398" g="w12399" t="nn" cr="nn:w12399" w="C2" l="~" p="N"/>
+     <dpg d="w12399" g="w12397" t="pcomp-n" cr="mod*into*n:w12396" w="myoblasts" l="~" p="N"/>
+     <dpg d="w12400" g="w12399" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w12401" g="w12404" t="det" cr="det:w12404" w="a" l="~" p="Det"/>
+     <dpg d="w12402" g="w12404" t="mod" cr="mod:w12404" w="micro" l="~" p="A"/>
+     <dpg d="w12403" g="w12404" t="nn" cr="nn:w12404" w="injection" l="~" p="N"/>
+     <dpg d="w12404" g="w12400" t="pcomp-n" cr="mod*by*n:w12399" w="method" l="~" p="N"/>
+     <dpg d="w12405" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,43 @@
+<rexml>
+<doc id="1280">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w20172" g="w20173" t="lex-mod" cr="lex-mod:w20173" w="Smooth" l="~" p="U"/>
+     <dpg d="w20173" g="w20175" t="nn" cr="nn:w20175" w="muscle" l="smooth muscle" p="N"/>
+     <dpg d="w20174" g="w20175" t="mod" cr="mod:w20175" w="alpha" l="~" p="A"/>
+     <dpg d="w20175" g="" t="" cr="" w="actin" l="~" p="N"/>
+     <dpg d="w20176" g="w20175" t="punc" cr="punc:w20175" w="and" l="~" p="U"/>
+     <dpg d="w20177" g="w20180" t="nn" cr="nn:w20180" w="myosin" l="~" p="N"/>
+     <dpg d="w20178" g="w20180" t="mod" cr="mod:w20180" w="heavy" l="~" p="A"/>
+     <dpg d="w20179" g="w20180" t="nn" cr="nn:w20180" w="chain" l="~" p="N"/>
+     <dpg d="w20180" g="w20175" t="conj" cr="conj:w20175" w="expression" l="~" p="N"/>
+     <dpg d="w20181" g="w20180" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w20182" g="w20186" t="det" cr="det:w20186" w="the" l="~" p="Det"/>
+     <dpg d="w20183" g="w20186" t="mod" cr="mod:w20186" w="vascular" l="~" p="A"/>
+     <dpg d="w20184" g="w20186" t="lex-mod" cr="lex-mod:w20186" w="smooth" l="~" p="U"/>
+     <dpg d="w20185" g="w20186" t="lex-mod" cr="lex-mod:w20186" w="muscle" l="~" p="U"/>
+     <dpg d="w20186" g="w20181" t="pcomp-n" cr="mod*in*n:w20180||s+subj:w20187" w="cells" l="smooth muscle cell" p="N"/>
+     <dpg d="E0" g="w20186" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E1" g="w20186" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w20187" g="E0" t="i" cr="rel:w20186" w="surrounding" l="surround" p="V"/>
+     <dpg d="E3" g="w20187" t="subj" cr="" w="" l="smooth muscle cell" p="N"/>
+     <dpg d="E3" g="E1" t="antecedent" cr="" w="" l="smooth muscle cell" p="N"/>
+     <dpg d="w20188" g="w20190" t="mod" cr="mod:w20190" w="human" l="~" p="A"/>
+     <dpg d="w20189" g="w20190" t="mod" cr="mod:w20190" w="endometrial" l="~" p="A"/>
+     <dpg d="w20190" g="w20187" t="obj" cr="obj:w20187" w="arterioles" l="arteriole" p="N"/>
+     <dpg d="w20191" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

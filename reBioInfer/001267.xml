@@ -1,0 +1,53 @@
+<rexml>
+<doc id="1267">
+  <text>
+<p><s id="s1"><w id="w20021">Since</w> <w id="w20022">RAD54</w> <w id="w20023">is</w> <w id="w20024">a</w> <w id="w20025">recombinational</w> <w id="w20026">protein</w> <w id="w20027">associated</w> <w id="w20028">with</w> <w id="w20029">RAD51</w> <w id="w20030">,</w> <w id="w20031">this</w> <w id="w20032">is</w> <w id="w20033">the</w> <w id="w20034">first</w> <w id="w20035">genetic</w> <w id="w20036">evidence</w> <w id="w20037">that</w> <w id="w20038">cancer</w> <w id="w20039">arises</w> <w id="w20040">from</w> <w id="w20041">a</w> <w id="w20042">defect</w> <w id="w20043">in</w> <w id="w20044">repair</w> <w id="w20045">processes</w> <w id="w20046">involving</w> <w id="w20047">homologous</w> <w id="w20048">recombination</w> <w id="w20049">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4622" gid="g4420" t="Individual_protein" fr="w20022" to="w20022" nam="yes">
+     <textspan type="extent">RAD54</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1267.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4623" gid="g4421" t="RELATIONSHIP_TEXTBINDING" fr="w20027" to="w20028">
+     <textspan type="extent">associated with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1267.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4624" gid="g4422" t="Individual_protein" fr="w20029" to="w20029" nam="yes">
+     <textspan type="extent">RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1267.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1760" t="RELATE" e1="e4622" e2="e4624" re="e4623">
+     <textspan type="extent">RAD54 is a recombinational protein associated with RAD51</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1267.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

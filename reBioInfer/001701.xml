@@ -1,0 +1,246 @@
+<rexml>
+<doc id="1701">
+  <text>
+<p><s id="s1"><w id="w27053">These</w> <w id="w27054">findings</w> <w id="w27055">suggest</w> <w id="w27056">that</w> <w id="w27057">this</w> <w id="w27058">novel</w> <w id="w27059">RhoGAP</w> <w id="w27060">is</w> <w id="w27061">involved</w> <w id="w27062">in</w> <w id="w27063">the</w> <w id="w27064">Rho</w> <w id="w27065">signalling</w> <w id="w27066">pathway</w> <w id="w27067">,</w> <w id="w27068">probably</w> <w id="w27069">downstream</w> <w id="w27070">of</w> <w id="w27071">Rho</w> <w id="w27072">activation</w> <w id="w27073">,</w> <w id="w27074">and</w> <w id="w27075">mediates</w> <w id="w27076">the</w> <w id="w27077">stimulation</w> <w id="w27078">of</w> <w id="w27079">PLC-delta</w> <w id="w27080">,</w> <w id="w27081">which</w> <w id="w27082">leads</w> <w id="w27083">to</w> <w id="w27084">actin</w><w id="w27085">-related</w> <w id="w27086">cytoskeletal</w> <w id="w27087">changes</w> <w id="w27088">through</w> <w id="w27089">the</w> <w id="w27090">hydrolysis</w> <w id="w27091">of</w> <w id="w27092">PIP2</w> <w id="w27093">,</w> <w id="w27094">which</w> <w id="w27095">binds</w> <w id="w27096">to</w> <w id="w27097">actin</w> <w id="w27098">binding</w> <w id="w27099">proteins</w> <w id="w27100">such</w> <w id="w27101">as</w> <w id="w27102">gelsolin</w> <w id="w27103">and</w> <w id="w27104">profilin</w> <w id="w27105">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6240" gid="g5955" t="Individual_protein" fr="w27059" to="w27059" nam="yes">
+     <textspan type="extent">RhoGAP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1701.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6241" gid="g5956" t="RELATIONSHIP_TEXTBINDING" fr="w27061" to="w27062">
+     <textspan type="extent">involved in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1701.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6242" gid="g5957" t="ACTIVATION" fr="w27071" to="w27072">
+     <textspan type="extent">Rho activation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="ACTIVATION"/>
+      <exattr n="bd" v="e.1701.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6243" gid="g5958" t="Process_entity" fr="w27064" to="w27066">
+     <textspan type="extent">Rho [..] pathway</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.1701.3"/>
+      <exattr n="nst" v="st.1701.11.0"/>
+      <exattr n="nst" v="st.1701.13.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6244" gid="g5959" t="RELATIONSHIP_TEXTBINDING" fr="w27069" to="w27070">
+     <textspan type="extent">downstream of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1701.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6245" gid="g5960" t="STIMULATION" fr="w27077" to="w27079">
+     <textspan type="extent">stimulation of PLC-delta</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="STIMULATION"/>
+      <exattr n="bd" v="e.1701.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6246" gid="g5961" t="Protein_family_or_group" fr="w27097" to="w27099" nam="yes">
+     <textspan type="extent">actin binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1701.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6247" gid="g5962" t="Individual_protein" fr="w27104" to="w27104" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1701.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6248" gid="g5963" t="Individual_protein" fr="w27102" to="w27102" nam="yes">
+     <textspan type="extent">gelsolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1701.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6249" gid="g5964" t="RELATIONSHIP_TEXTBINDING" fr="w27082" to="w27083">
+     <textspan type="extent">leads to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1701.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6250" gid="g5965" t="RELATIONSHIP_TEXTBINDING" fr="w27075" to="w27075">
+     <textspan type="extent">mediates</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1701.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e6251" gid="g5966" t="Individual_protein" fr="w27064" to="w27064" nam="yes">
+     <textspan type="extent">Rho</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1701.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e6252" gid="g5967" t="MODIFICATION" fr="w27084" to="w27087">
+     <textspan type="extent">actin-related [..] changes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1701.12"/>
+      <exattr n="nst" v="st.1701.31.0"/>
+      <exattr n="nst" v="st.1701.31.1"/>
+      <exattr n="nst" v="st.1701.33.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6253" gid="g5968" t="Individual_protein" fr="w27071" to="w27071" nam="yes">
+     <textspan type="extent">Rho</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1701.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e6254" gid="g5969" t="Individual_protein" fr="w27079" to="w27079" nam="yes">
+     <textspan type="extent">PLC-delta</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1701.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e6255" gid="g5970" t="Individual_protein" fr="w27084" to="w27084" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1701.15"/>
+     </exattrs>
+    </ne>
+    <ne id="e6256" gid="g5971" t="RELATIONSHIP_TEXTBINDING" fr="w27100" to="w27101">
+     <textspan type="extent">such as</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1701.16"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2390" t="RELATE" e1="e6241" e2="e6242" re="e6244">
+     <textspan type="extent">RhoGAP is involved in the Rho signalling pathway , probably downstream of Rho activation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1701.4"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2391" t="PARTICIPATE" e1="e6240" e2="e6243" re="e6241">
+     <textspan type="extent">RhoGAP is involved in the Rho signalling pathway</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1701.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2392" t="MEDIATE" e1="e6240" e2="e6245" re="e6250">
+     <textspan type="extent">RhoGAP is involved in the Rho signalling pathway , probably downstream of Rho activation , and mediates the stimulation of PLC-delta</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1701.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2393" t="CAUSE" e1="e6245" e2="e6252" re="e6249">
+     <textspan type="extent">stimulation of PLC-delta , which leads to actin -related cytoskeletal changes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1701.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2394" t="MEMBER" e1="e6246" e2="e6248" re="e6256">
+     <textspan type="extent">actin binding proteins such as gelsolin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1701.16"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2395" t="MEMBER" e1="e6246" e2="e6247" re="e6256">
+     <textspan type="extent">actin binding proteins such as gelsolin and profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1701.16"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

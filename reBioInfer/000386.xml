@@ -1,0 +1,68 @@
+<rexml>
+<doc id="386">
+  <text>
+<p><s id="s1"><w id="w5745">Detection</w> <w id="w5746">of</w> <w id="w5747">loss</w> <w id="w5748">of</w> <w id="w5749">heterozygosity</w> <w id="w5750">at</w> <w id="w5751">RAD51</w> <w id="w5752">,</w> <w id="w5753">RAD52</w> <w id="w5754">,</w> <w id="w5755">RAD54</w> <w id="w5756">and</w> <w id="w5757">BRCA1</w> <w id="w5758">and</w> <w id="w5759">BRCA2</w> <w id="w5760">loci</w> <w id="w5761">in</w> <w id="w5762">breast</w> <w id="w5763">cancer</w> <w id="w5764">:</w> <w id="w5765">pathological</w> <w id="w5766">correlations</w> <w id="w5767">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1389" gid="g1325" t="Gene/protein/RNA" fr="w5751" to="w5751" nam="yes">
+     <textspan type="extent">RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.386.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1390" gid="g1326" t="Gene/protein/RNA" fr="w5755" to="w5755" nam="yes">
+     <textspan type="extent">RAD54</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.386.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1391" gid="g1327" t="Gene/protein/RNA" fr="w5753" to="w5753" nam="yes">
+     <textspan type="extent">RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.386.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1392" gid="g1328" t="Gene/protein/RNA" fr="w5759" to="w5759" nam="yes">
+     <textspan type="extent">BRCA2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.386.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1393" gid="g1329" t="Gene/protein/RNA" fr="w5757" to="w5757" nam="yes">
+     <textspan type="extent">BRCA1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.386.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

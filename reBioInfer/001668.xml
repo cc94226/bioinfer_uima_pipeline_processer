@@ -1,0 +1,77 @@
+<rexml>
+<doc id="1668">
+  <text>
+<p><s id="s1"><w id="w26576">The</w> <w id="w26577">role</w> <w id="w26578">of</w> <w id="w26579">profilin</w> <w id="w26580">in</w> <w id="w26581">the</w> <w id="w26582">regulation</w> <w id="w26583">of</w> <w id="w26584">actin</w> <w id="w26585">assembly</w> <w id="w26586">has</w> <w id="w26587">been</w> <w id="w26588">reexamined</w> <w id="w26589">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6129" gid="g5847" t="Individual_protein" fr="w26579" to="w26579" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1668.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6130" gid="g5848" t="ASSEMBLY" fr="w26584" to="w26585">
+     <textspan type="extent">actin assembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1668.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6131" gid="g5849" t="RELATIONSHIP_TEXTBINDING" fr="w26577" to="w26580">
+     <textspan type="extent">role of [..] in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1668.2"/>
+      <exattr n="nst" v="st.1668.1.0"/>
+      <exattr n="nst" v="st.1668.2.0"/>
+      <exattr n="nst" v="st.1668.4.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6132" gid="g5850" t="CONTROL" fr="w26582" to="w26585">
+     <textspan type="extent">regulation of actin assembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Unspecified"/>
+      <exattr n="t4" v="CONTROL"/>
+      <exattr n="bd" v="e.1668.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6133" gid="g5851" t="Individual_protein" fr="w26584" to="w26584" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1668.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2355" t="PARTICIPATE" e1="e6129" e2="e6132" re="e6131">
+     <textspan type="extent">role of profilin in the regulation of actin assembly</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1668.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

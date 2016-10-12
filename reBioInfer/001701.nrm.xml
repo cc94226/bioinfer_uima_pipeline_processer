@@ -1,0 +1,147 @@
+<rexml>
+<doc id="1701">
+  
+  <markup>
+   <nes>
+    <ne id="e6240" gid="g5955" t="Individual_protein" fr="w27059" to="w27059" nam="yes" sid="s1">
+     <textspan>RhoGAP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1701.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6251" gid="g5966" t="Individual_protein" fr="w27064" to="w27064" nam="yes" sid="s1">
+     <textspan>Rho</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1701.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e6253" gid="g5968" t="Individual_protein" fr="w27071" to="w27071" nam="yes" sid="s1">
+     <textspan>Rho</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1701.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e6254" gid="g5969" t="Individual_protein" fr="w27079" to="w27079" nam="yes" sid="s1">
+     <textspan>PLC-delta</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1701.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e6255" gid="g5970" t="Individual_protein" fr="w27084" to="w27084" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1701.15"/>
+     </exattrs>
+    </ne>
+    <ne id="e6246" gid="g5961" t="Protein_family_or_group" fr="w27097" to="w27099" nam="yes" sid="s1">
+     <textspan>actin binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1701.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6248" gid="g5963" t="Individual_protein" fr="w27102" to="w27102" nam="yes" sid="s1">
+     <textspan>gelsolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1701.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6247" gid="g5962" t="Individual_protein" fr="w27104" to="w27104" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1701.7"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2394" t="COOF-MEMBER" e1="e6248" e2="e6247" re="e6256">
+     <textspan>actin binding proteins such as gelsolin and profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1701.16"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2394" t="MEMBER" e1="e6246" e2="e6248" re="e6256">
+     <textspan>actin binding proteins such as gelsolin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1701.16"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2395" t="MEMBER" e1="e6246" e2="e6247" re="e6256">
+     <textspan>actin binding proteins such as gelsolin and profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1701.16"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

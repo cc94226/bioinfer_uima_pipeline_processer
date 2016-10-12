@@ -1,0 +1,91 @@
+<rexml>
+<doc id="768">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E7" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11940" g="w11946" t="s" cr="s:w11946||subj:w11947||s+subj:w11971" w="Inhibition" l="~" p="N"/>
+     <dpg d="w11941" g="w11940" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11942" g="w11943" t="nn" cr="nn:w11943" w="actin" l="~" p="N"/>
+     <dpg d="w11943" g="w11941" t="pcomp-n" cr="mod*of*n:w11940" w="polymerization" l="~" p="N"/>
+     <dpg d="w11944" g="w11943" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w11945" g="w11944" t="pcomp-n" cr="mod*in*n:w11943" w="KCl" l="~" p="N"/>
+     <dpg d="w11946" g="E1" t="i" cr="UNSPECRELTYPE:E7" w="was" l="be" p="VBE"/>
+     <dpg d="w11947" g="w11946" t="pred" cr="pred:w11946" w="stronger" l="strong" p="A"/>
+     <dpg d="E8" g="w11947" t="subj" cr="" w="" l="inhibition" p="N"/>
+     <dpg d="E8" g="w11940" t="antecedent" cr="" w="" l="inhibition" p="N"/>
+     <dpg d="w11948" g="w11947" t="mod" cr="" w="than" l="~" p="Prep"/>
+     <dpg d="w11949" g="w11948" t="pcomp-n" cr="mod*than*n:w11947" w="that" l="~" p="N"/>
+     <dpg d="w11950" g="w11946" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11951" g="w11953" t="det" cr="det:w11953" w="the" l="~" p="Det"/>
+     <dpg d="w11952" g="w11953" t="mod" cr="mod:w11953" w="parental" l="~" p="A"/>
+     <dpg d="w11953" g="w11950" t="pcomp-n" cr="mod*of*n:w11946" w="profilin" l="~" p="N"/>
+     <dpg d="w11954" g="w11953" t="punc" cr="punc:w11953" w="," l="~" p="U"/>
+     <dpg d="w11955" g="w11953" t="punc" cr="punc:w11953" w="and" l="~" p="U"/>
+     <dpg d="w11956" g="w11958" t="det" cr="det:w11958" w="the" l="~" p="Det"/>
+     <dpg d="w11957" g="w11958" t="nn" cr="nn:w11958" w="Kd" l="~" p="N"/>
+     <dpg d="w11958" g="w11953" t="conj" cr="conj:w11953" w="value" l="~" p="N"/>
+     <dpg d="w11959" g="w11958" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11960" g="w11961" t="gen" cr="gen:w11961" w="its" l="~" p="N"/>
+     <dpg d="w11961" g="w11959" t="pcomp-n" cr="mod*of*n:w11958" w="interaction" l="~" p="N"/>
+     <dpg d="w11962" g="w11961" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w11963" g="w11966" t="nn" cr="nn:w11966" w="rabbit" l="~" p="N"/>
+     <dpg d="w11964" g="w11965" t="lex-mod" cr="lex-mod:w11965" w="skeletal" l="~" p="U"/>
+     <dpg d="w11965" g="w11966" t="nn" cr="nn:w11966" w="muscle" l="skeletal muscle" p="N"/>
+     <dpg d="w11966" g="w11962" t="pcomp-n" cr="mod*with*n:w11961" w="actin" l="~" p="N"/>
+     <dpg d="w11967" g="w11966" t="punc" cr="punc:w11966" w="," l="~" p="U"/>
+     <dpg d="w11968" g="w11966" t="appo-mod" cr="appo-mod:w11966" w="as" l="~" p="A"/>
+     <dpg d="w11969" g="w11968" t="comp1" cr="comp1:w11968" w="determined" l="determine" p="V"/>
+     <dpg d="E5" g="w11969" t="ECR" cr="ECR+obj:w11969" w="" l="~" p="EC"/>
+     <dpg d="E9" g="w11969" t="obj" cr="" w="" l="~" p="EC"/>
+     <dpg d="E9" g="E5" t="antecedent" cr="" w="" l="~" p="EC"/>
+     <dpg d="w11970" g="w11969" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E0" g="w11970" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w11940" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w11971" g="E0" t="i" cr="by-subj*by*c:w11969" w="falling" l="fall" p="V"/>
+     <dpg d="E10" g="w11971" t="subj" cr="" w="" l="inhibition" p="N"/>
+     <dpg d="E10" g="E4" t="antecedent" cr="" w="" l="inhibition" p="N"/>
+     <dpg d="w11972" g="w11973" t="nn" cr="nn:w11973" w="ball" l="~" p="N"/>
+     <dpg d="w11973" g="w11966" t="appo" cr="appo:w11966" w="viscometry" l="~" p="N"/>
+     <dpg d="w11974" g="E7" t="punc" cr="punc:E7" w="," l="~" p="U"/>
+     <dpg d="E2" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="" l="~" p="QBE"/>
+     <dpg d="w11975" g="E2" t="head" cr="head:E2" w="was" l="be" p="be"/>
+     <dpg d="w11976" g="w11979" t="mod" cr="mod:w11979" w="smaller" l="small" p="A"/>
+     <dpg d="w11977" g="w11979" t="punc" cr="punc:w11979" w="(" l="~" p="U"/>
+     <dpg d="w11978" g="w11979" t="mod" cr="mod:w11979" w="mean" l="~" p="A"/>
+     <dpg d="w11979" g="E2" t="subj" cr="subj:E2" w="value" l="~" p="N"/>
+     <dpg d="w11980" g="w11979" t="num" cr="num:w11979" w="0.5" l="~" p="N"/>
+     <dpg d="w11981" g="E2" t="pred" cr="pred:E2" w="x" l="~" p="N"/>
+     <dpg d="w11982" g="w11983" t="punc" cr="punc:w11983" w="10(-6)" l="~" p="U"/>
+     <dpg d="w11983" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="M" l="~" p="N"/>
+     <dpg d="w11984" g="E7" t="punc" cr="punc:E7" w="," l="~" p="U"/>
+     <dpg d="w11985" g="E7" t="subcat" cr="subcat:E7" w="as" l="~" p="A"/>
+     <dpg d="w11986" g="w11985" t="comp1" cr="comp1:w11985" w="compared" l="compare" p="V"/>
+     <dpg d="E3" g="w11986" t="ECR" cr="ECR+obj:w11986" w="" l="~" p="EC"/>
+     <dpg d="E11" g="w11986" t="obj" cr="" w="" l="~" p="EC"/>
+     <dpg d="E11" g="E3" t="antecedent" cr="" w="" l="~" p="EC"/>
+     <dpg d="w11987" g="w11986" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w11988" g="w11989" t="num" cr="num:w11989" w="1.9" l="~" p="N"/>
+     <dpg d="w11989" g="w11987" t="pcomp-n" cr="mod*to*n:w11986" w="x" l="~" p="N"/>
+     <dpg d="w11990" g="w11991" t="punc" cr="punc:w11991" w="10(-6)" l="~" p="U"/>
+     <dpg d="w11991" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="M" l="~" p="N"/>
+     <dpg d="w11992" g="w11991" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w11993" g="w11994" t="mod" cr="mod:w11994" w="bovine" l="~" p="A"/>
+     <dpg d="w11994" g="w11992" t="pcomp-n" cr="mod*for*n:w11991" w="profilin" l="~" p="N"/>
+     <dpg d="w11995" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w11996" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

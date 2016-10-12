@@ -1,0 +1,179 @@
+<rexml>
+<doc id="1372">
+  <text>
+<p><s id="s1"><w id="w21316">The</w> <w id="w21317">APC</w> <w id="w21318">binding</w> <w id="w21319">site</w> <w id="w21320">on</w> <w id="w21321">beta-catenin</w> <w id="w21322">may</w> <w id="w21323">be</w> <w id="w21324">discontinuous</w> <w id="w21325">since</w> <w id="w21326">neither</w> <w id="w21327">the</w> <w id="w21328">carboxyl-</w> <w id="w21329">nor</w> <w id="w21330">amino-terminal</w> <w id="w21331">halves</w> <w id="w21332">of</w> <w id="w21333">beta-catenin</w> <w id="w21334">will</w> <w id="w21335">independently</w> <w id="w21336">associate</w> <w id="w21337">with</w> <w id="w21338">APC</w> <w id="w21339">,</w> <w id="w21340">although</w> <w id="w21341">the</w> <w id="w21342">amino-terminal</w> <w id="w21343">half</w> <w id="w21344">independently</w> <w id="w21345">binds</w> <w id="w21346">alpha-catenin</w> <w id="w21347">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4932" gid="g4708" t="Individual_protein" fr="w21317" to="w21317" nam="yes">
+     <textspan type="extent">APC</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1372.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4933" gid="g4709" t="RELATIONSHIP_TEXTBINDING" fr="w21318" to="w21318">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1372.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4934" gid="g4710" t="Substructure_of_protein" fr="w21331" to="w21333" nam="yes">
+     <textspan type="extent">halves of beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1372.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4935" gid="g4711" t="Substructure_of_protein" fr="w21319" to="w21321" nam="yes">
+     <textspan type="extent">site on beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1372.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4936" gid="g4712" t="Individual_protein" fr="w21346" to="w21346" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1372.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4937" gid="g4713" t="Individual_protein" fr="w21338" to="w21338" nam="yes">
+     <textspan type="extent">APC</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1372.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4938" gid="g4714" t="RELATIONSHIP_TEXTBINDING" fr="w21345" to="w21345">
+     <textspan type="extent">binds</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1372.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4939" gid="g4715" t="RELATIONSHIP_TEXTBINDING" fr="w21329" to="w21329">
+     <textspan type="extent">nor</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1372.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e4940" gid="g4710" t="Substructure_of_protein" fr="w21343" to="w21343" nam="yes">
+     <textspan type="extent">half</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1372.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e4941" gid="g4716" t="RELATIONSHIP_TEXTBINDING" fr="w21336" to="w21337">
+     <textspan type="extent">associate with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1372.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e4942" gid="g4717" t="Individual_protein" fr="w21321" to="w21321" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1372.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e4943" gid="g4718" t="Individual_protein" fr="w21333" to="w21333" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1372.11"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1882" t="BIND" e1="e4935" e2="e4932" re="e4933">
+     <textspan type="extent">APC binding site on beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1372.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1884" t="BIND" e1="e4934" e2="e4937" re="e4941">
+     <textspan type="extent">halves of beta-catenin will independently associate with APC</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1372.9"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1886" t="BIND" e1="e4940" e2="e4936" re="e4938">
+     <textspan type="extent">half independently binds alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1372.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

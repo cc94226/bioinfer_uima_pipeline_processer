@@ -1,0 +1,50 @@
+<rexml>
+<doc id="1507">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23625" g="w23631" t="det" cr="det:w23631" w="The" l="~" p="Det"/>
+     <dpg d="w23626" g="w23628" t="lex-mod" cr="lex-mod:w23628" w="Herpes" l="~" p="U"/>
+     <dpg d="w23627" g="w23628" t="lex-mod" cr="lex-mod:w23628" w="simplex" l="~" p="U"/>
+     <dpg d="w23628" g="w23631" t="nn" cr="nn:w23631" w="virus" l="herpes simplex virus" p="N"/>
+     <dpg d="w23629" g="w23630" t="lex-mod" cr="lex-mod:w23630" w="type" l="~" p="U"/>
+     <dpg d="w23630" g="w23631" t="nn" cr="nn:w23631" w="1" l="type 1" p="N"/>
+     <dpg d="w23631" g="w23632" t="s" cr="s+subj:w23632" w="primosome" l="~" p="N"/>
+     <dpg d="w23632" g="E1" t="i" cr="" w="consists" l="consist of" p="V"/>
+     <dpg d="w23633" g="w23632" t="lex-mod" cr="lex-mod:w23632" w="of" l="~" p="U"/>
+     <dpg d="E3" g="w23632" t="subj" cr="" w="" l="primosome" p="N"/>
+     <dpg d="E3" g="w23631" t="antecedent" cr="" w="" l="primosome" p="N"/>
+     <dpg d="w23634" g="w23635" t="nn" cr="nn:w23635" w="three" l="~" p="N"/>
+     <dpg d="w23635" g="w23632" t="obj" cr="obj:w23632||subj:w23639" w="subunits" l="~" p="N"/>
+     <dpg d="E0" g="w23635" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23636" g="E0" t="whn" cr="whn:w23637" w="that" l="~" p="THAT"/>
+     <dpg d="w23636" g="w23635" t="antecedent" cr="antecedent:w23635" w="that" l="~" p="THAT"/>
+     <dpg d="w23637" g="E0" t="i" cr="rel:w23635" w="are" l="be" p="VBE"/>
+     <dpg d="E4" g="w23639" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E4" g="w23635" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w23638" g="w23639" t="det" cr="det:w23639" w="the" l="~" p="Det"/>
+     <dpg d="w23639" g="w23637" t="pred" cr="pred:w23637" w="products" l="product" p="N"/>
+     <dpg d="w23640" g="w23639" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w23641" g="w23642" t="det" cr="det:w23642" w="the" l="~" p="Det"/>
+     <dpg d="w23642" g="w23640" t="pcomp-n" cr="mod*of*n:w23639" w="UL5" l="~" p="N"/>
+     <dpg d="w23643" g="w23642" t="punc" cr="punc:w23642" w="," l="~" p="U"/>
+     <dpg d="w23644" g="w23642" t="conj" cr="conj:w23642" w="UL8" l="~" p="N"/>
+     <dpg d="w23645" g="w23644" t="punc" cr="punc:w23644" w="," l="~" p="U"/>
+     <dpg d="w23646" g="w23644" t="punc" cr="punc:w23644" w="and" l="~" p="U"/>
+     <dpg d="w23647" g="w23648" t="nn" cr="nn:w23648" w="UL52" l="~" p="N"/>
+     <dpg d="w23648" g="w23644" t="conj" cr="conj:w23644" w="genes" l="gene" p="N"/>
+     <dpg d="w23649" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

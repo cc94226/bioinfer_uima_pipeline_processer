@@ -1,0 +1,35 @@
+<rexml>
+<doc id="1603">
+  <text>
+<p><s id="s1"><w id="w25443">The</w> <w id="w25444">present</w> <w id="w25445">study</w> <w id="w25446">was</w> <w id="w25447">designed</w> <w id="w25448">to</w> <w id="w25449">determine</w> <w id="w25450">if</w> <w id="w25451">cholesterol</w> <w id="w25452">feeding</w> <w id="w25453">results</w> <w id="w25454">in</w> <w id="w25455">alterations</w> <w id="w25456">in</w> <w id="w25457">the</w> <w id="w25458">isoforms</w> <w id="w25459">of</w> <w id="w25460">actin</w> <w id="w25461">and/or</w> <w id="w25462">myosin</w> <w id="w25463">heavy</w> <w id="w25464">chain</w> <w id="w25465">in</w> <w id="w25466">gallbladder</w> <w id="w25467">smooth</w> <w id="w25468">muscle</w> <w id="w25469">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5899" gid="g5628" t="Gene/protein/RNA" fr="w25460" to="w25460" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1603.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5900" gid="g5629" t="Gene/protein/RNA" fr="w25462" to="w25464" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1603.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,47 @@
+<rexml>
+<doc id="1045">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w16475" g="w16477" t="det" cr="det:w16477" w="No" l="~" p="Det"/>
+     <dpg d="w16476" g="w16477" t="mod" cr="mod:w16477" w="significant" l="~" p="A"/>
+     <dpg d="w16477" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="changes" l="change" p="N"/>
+     <dpg d="w16478" g="w16477" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w16479" g="w16480" t="mod" cr="mod:w16480" w="glomerular" l="~" p="A"/>
+     <dpg d="w16480" g="w16478" t="pcomp-n" cr="mod*in*n:w16477" w="vinculin" l="~" p="N"/>
+     <dpg d="w16481" g="w16480" t="punc" cr="punc:w16480" w="," l="~" p="U"/>
+     <dpg d="w16482" g="w16480" t="appo" cr="appo:w16480" w="talin" l="~" p="N"/>
+     <dpg d="w16483" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w16484" g="E2" t="punc" cr="punc:E2" w="beta" l="~" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16485" g="w16491" t="s" cr="s+subj:w16491" w="1-integrin" l="1-integrin" p="N"/>
+     <dpg d="w16486" g="w16485" t="punc" cr="punc:w16485" w="," l="~" p="U"/>
+     <dpg d="w16487" g="w16485" t="punc" cr="punc:w16485" w="or" l="~" p="U"/>
+     <dpg d="w16488" g="w16490" t="mod" cr="mod:w16490" w="total" l="~" p="A"/>
+     <dpg d="w16489" g="w16490" t="nn" cr="nn:w16490" w="actin" l="~" p="N"/>
+     <dpg d="w16490" g="w16485" t="conj" cr="conj:w16485" w="expression" l="~" p="N"/>
+     <dpg d="w16491" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="occurred" l="occur" p="V"/>
+     <dpg d="E3" g="w16491" t="subj" cr="" w="" l="1-integrin" p="N"/>
+     <dpg d="E3" g="w16485" t="antecedent" cr="" w="" l="1-integrin" p="N"/>
+     <dpg d="w16492" g="w16491" t="guest" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w16493" g="w16494" t="det" cr="det:w16494" w="any" l="~" p="Det"/>
+     <dpg d="w16494" g="w16492" t="pcomp-n" cr="guest*at*n:w16491" w="time" l="~" p="N"/>
+     <dpg d="w16495" g="w16491" t="obj" cr="obj:w16491" w="point" l="~" p="N"/>
+     <dpg d="w16496" g="w16495" t="mod" cr="" w="during" l="~" p="Prep"/>
+     <dpg d="w16497" g="w16498" t="nn" cr="nn:w16498" w="disease" l="~" p="N"/>
+     <dpg d="w16498" g="w16496" t="pcomp-n" cr="mod*during*n:w16495" w="development" l="~" p="N"/>
+     <dpg d="w16499" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

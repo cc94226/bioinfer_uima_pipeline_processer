@@ -1,0 +1,206 @@
+<rexml>
+<doc id="1733">
+  <text>
+<p><s id="s1"><w id="w27616">These</w> <w id="w27617">results</w> <w id="w27618">show</w> <w id="w27619">that</w> <w id="w27620">the</w> <w id="w27621">C-terminal</w> <w id="w27622">actin</w><w id="w27623">-</w><w id="w27624">binding</w> <w id="w27625">site</w> <w id="w27626">is</w> <w id="w27627">distinct</w> <w id="w27628">from</w> <w id="w27629">the</w> <w id="w27630">region</w> <w id="w27631">recognized</w> <w id="w27632">by</w> <w id="w27633">the</w> <w id="w27634">anti-functional</w> <w id="w27635">antibody</w> <w id="w27636">TD77</w> <w id="w27637">,</w> <w id="w27638">raising</w> <w id="w27639">the</w> <w id="w27640">possibility</w> <w id="w27641">that</w> <w id="w27642">it</w> <w id="w27643">binds</w> <w id="w27644">to</w> <w id="w27645">a</w> <w id="w27646">novel</w> <w id="w27647">functionally</w> <w id="w27648">important</w> <w id="w27649">ligand-binding</w> <w id="w27650">site</w> <w id="w27651">in</w> <w id="w27652">the</w> <w id="w27653">talin</w> <w id="w27654">molecule</w> <w id="w27655">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6356" gid="g6067" t="Individual_protein" fr="w27622" to="w27622" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1733.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6357" gid="g6068" t="RELATIONSHIP_TEXTBINDING" fr="w27624" to="w27624">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1733.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6358" gid="g6069" t="Substructure_of_protein" fr="w27625" to="w27625" nam="yes">
+     <textspan type="extent">site</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1733.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6359" gid="g6070" t="RELATIONSHIP_TEXTBINDING" fr="w27627" to="w27628">
+     <textspan type="extent">distinct from</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1733.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6360" gid="g6071" t="Individual_protein" fr="w27635" to="w27636" nam="yes">
+     <textspan type="extent">antibody TD77</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1733.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6361" gid="g6069" t="Substructure_of_protein" fr="w27630" to="w27630" nam="yes">
+     <textspan type="extent">region</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1733.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6362" gid="g6072" t="Substructure_of_protein" fr="w27650" to="w27654" nam="yes">
+     <textspan type="extent">site in the talin molecule</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1733.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6363" gid="g6071" t="Antibody" fr="w27642" to="w27642" nam="yes">
+     <textspan type="extent">it</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Antibody"/>
+      <exattr n="bd" v="e.1733.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6364" gid="g6073" t="RELATIONSHIP_TEXTBINDING" fr="w27643" to="w27644">
+     <textspan type="extent">binds to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1733.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6365" gid="g6074" t="Individual_protein" fr="w27653" to="w27654" nam="yes">
+     <textspan type="extent">talin molecule</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1733.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6366" gid="g6075" t="Individual_protein" fr="w27653" to="w27653" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1733.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e6367" gid="g6076" t="Individual_protein" fr="w27636" to="w27636" nam="yes">
+     <textspan type="extent">TD77</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1733.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e6368" gid="g6077" t="RELATIONSHIP_TEXTBINDING" fr="w27631" to="w27632">
+     <textspan type="extent">recognized by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1733.12"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2430" t="REL-ENT" e1="e6358" e2="e6365" re="">
+     <textspan type="extent">site is distinct from the region recognized by the anti-functional antibody TD77 , raising the possibility that it binds to a novel functionally important ligand-binding site in the talin molecule</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="REL-ENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2431" t="REL-ENT" e1="e6361" e2="e6365" re="">
+     <textspan type="extent">region recognized by the anti-functional antibody TD77 , raising the possibility that it binds to a novel functionally important ligand-binding site in the talin molecule</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="REL-ENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2432" t="BIND" e1="e6358" e2="e6356" re="e6357">
+     <textspan type="extent">actin - binding site</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1733.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2433" t="BIND" e1="e6360" e2="e6361" re="e6368">
+     <textspan type="extent">region recognized by the anti-functional antibody TD77</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1733.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2437" t="BIND" e1="e6363" e2="e6362" re="e6364">
+     <textspan type="extent">it binds to a novel functionally important ligand-binding site in the talin molecule</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1733.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

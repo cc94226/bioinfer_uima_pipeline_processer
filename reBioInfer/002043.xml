@@ -1,0 +1,157 @@
+<rexml>
+<doc id="2043">
+  <text>
+<p><s id="s1"><w id="w32368">We</w> <w id="w32369">describe</w> <w id="w32370">the</w> <w id="w32371">localization</w> <w id="w32372">of</w> <w id="w32373">cadherin-11</w> <w id="w32374">and</w> <w id="w32375">N-cadherin</w> <w id="w32376">along</w> <w id="w32377">the</w> <w id="w32378">cell</w> <w id="w32379">margins</w> <w id="w32380">of</w> <w id="w32381">mouse</w> <w id="w32382">osteoblast-like</w> <w id="w32383">cells</w> <w id="w32384">,</w> <w id="w32385">the</w> <w id="w32386">colocalization</w> <w id="w32387">of</w> <w id="w32388">pancadherin</w> <w id="w32389">with</w> <w id="w32390">alpha-catenin</w> <w id="w32391">,</w> <w id="w32392">beta-catenin</w> <w id="w32393">,</w> <w id="w32394">p120</w> <w id="w32395">,</w> <w id="w32396">and</w> <w id="w32397">vinculin</w> <w id="w32398">,</w> <w id="w32399">and</w> <w id="w32400">the</w> <w id="w32401">association</w> <w id="w32402">of</w> <w id="w32403">these</w> <w id="w32404">complexes</w> <w id="w32405">with</w> <w id="w32406">the</w> <w id="w32407">actin</w> <w id="w32408">microfilaments</w> <w id="w32409">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7385" gid="g7047" t="Gene/protein/RNA" fr="w32373" to="w32373" nam="yes">
+     <textspan type="extent">cadherin-11</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2043.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7386" gid="g7048" t="RELATIONSHIP_TEXTBINDING" fr="w32386" to="w32389">
+     <textspan type="extent">colocalization of [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2043.1"/>
+      <exattr n="nst" v="st.2043.18.0"/>
+      <exattr n="nst" v="st.2043.19.0"/>
+      <exattr n="nst" v="st.2043.21.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7387" gid="g7049" t="Individual_protein" fr="w32388" to="w32388" nam="yes">
+     <textspan type="extent">pancadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2043.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7388" gid="g7050" t="Gene/protein/RNA" fr="w32375" to="w32375" nam="yes">
+     <textspan type="extent">N-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2043.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7389" gid="g7051" t="Individual_protein" fr="w32392" to="w32392" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2043.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7390" gid="g7052" t="Individual_protein" fr="w32390" to="w32390" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2043.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7391" gid="g7053" t="Individual_protein" fr="w32397" to="w32397" nam="yes">
+     <textspan type="extent">vinculin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2043.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7392" gid="g7054" t="Individual_protein" fr="w32394" to="w32394" nam="yes">
+     <textspan type="extent">p120</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2043.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7393" gid="g7055" t="Gene/protein/RNA" fr="w32407" to="w32407" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2043.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2824" t="COLOCALIZE" e1="e7387" e2="e7390" re="e7386">
+     <textspan type="extent">colocalization of pancadherin with alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2043.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2825" t="COLOCALIZE" e1="e7387" e2="e7389" re="e7386">
+     <textspan type="extent">colocalization of pancadherin with alpha-catenin , beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2043.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2826" t="COLOCALIZE" e1="e7387" e2="e7392" re="e7386">
+     <textspan type="extent">colocalization of pancadherin with alpha-catenin , beta-catenin , p120</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2043.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2827" t="COLOCALIZE" e1="e7387" e2="e7391" re="e7386">
+     <textspan type="extent">colocalization of pancadherin with alpha-catenin , beta-catenin , p120 , and vinculin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2043.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

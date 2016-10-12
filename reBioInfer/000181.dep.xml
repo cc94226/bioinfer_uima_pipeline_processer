@@ -1,0 +1,70 @@
+<rexml>
+<doc id="181">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w2898" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="As" l="~" p="SentAdjunct"/>
+     <dpg d="E2" g="w2898" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2899" g="w2900" t="mod" cr="mod:w2900" w="previous" l="~" p="A"/>
+     <dpg d="w2900" g="w2901" t="s" cr="s+subj:w2901" w="studies" l="study" p="N"/>
+     <dpg d="w2901" g="E2" t="i" cr="comp1:w2898" w="indicated" l="indicate" p="V"/>
+     <dpg d="E5" g="w2901" t="subj" cr="" w="" l="study" p="N"/>
+     <dpg d="E5" g="w2900" t="antecedent" cr="" w="" l="study" p="N"/>
+     <dpg d="E1" g="w2901" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2902" g="E1" t="c" cr="c:w2912" w="that" l="~" p="COMP"/>
+     <dpg d="w2903" g="w2904" t="det" cr="det:w2904" w="the" l="~" p="Det"/>
+     <dpg d="w2904" g="w2912" t="s" cr="s:w2912||obj:w2915" w="RVS161" l="~" p="N"/>
+     <dpg d="w2905" g="w2904" t="punc" cr="punc:w2904" w="and" l="~" p="U"/>
+     <dpg d="w2906" g="w2908" t="nn" cr="nn:w2908" w="RVS167" l="~" p="N"/>
+     <dpg d="w2907" g="w2908" t="nn" cr="nn:w2908" w="gene" l="~" p="N"/>
+     <dpg d="w2908" g="w2904" t="conj" cr="conj:w2904" w="products" l="product" p="N"/>
+     <dpg d="w2909" g="w2908" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2910" g="w2911" t="lex-mod" cr="lex-mod:w2911" w="Saccharomyces" l="~" p="U"/>
+     <dpg d="w2911" g="w2909" t="pcomp-n" cr="mod*of*n:w2908" w="cerevisiae" l="Saccharomyces cerevisiae" p="N"/>
+     <dpg d="w2912" g="E1" t="i" cr="fc:w2901" w="seem" l="~" p="V"/>
+     <dpg d="w2913" g="w2915" t="aux" cr="aux:w2915" w="to" l="~" p="Aux"/>
+     <dpg d="w2914" g="w2915" t="be" cr="be:w2915" w="be" l="~" p="Be"/>
+     <dpg d="w2915" g="w2912" t="sc" cr="sc:w2912" w="involved" l="involve" p="V"/>
+     <dpg d="E6" g="w2915" t="obj" cr="" w="" l="RVS161" p="N"/>
+     <dpg d="E6" g="w2904" t="antecedent" cr="" w="" l="RVS161" p="N"/>
+     <dpg d="w2916" g="w2915" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w2917" g="w2920" t="det" cr="det:w2920" w="the" l="~" p="Det"/>
+     <dpg d="w2918" g="w2920" t="post" cr="post:w2920" w="same" l="~" p="PostDet"/>
+     <dpg d="w2919" g="w2920" t="mod" cr="mod:w2920" w="cellular" l="~" p="A"/>
+     <dpg d="w2920" g="w2916" t="pcomp-n" cr="mod*in*n:w2915" w="function" l="~" p="N"/>
+     <dpg d="w2921" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="E0" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2922" g="w2923" t="s" cr="s+subj:w2923" w="we" l="~" p="N"/>
+     <dpg d="w2923" g="E0" t="i" cr="UNSPECRELTYPE:E4" w="considered" l="consider" p="V"/>
+     <dpg d="E7" g="w2923" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E7" g="w2922" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w2924" g="w2925" t="det" cr="det:w2925" w="the" l="~" p="Det"/>
+     <dpg d="w2925" g="w2923" t="obj" cr="obj:w2923" w="possibility" l="~" p="N"/>
+     <dpg d="w2926" g="w2925" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2927" g="w2928" t="det" cr="det:w2928" w="a" l="~" p="Det"/>
+     <dpg d="w2928" g="w2926" t="pcomp-n" cr="mod*of*n:w2925" w="complex" l="~" p="N"/>
+     <dpg d="w2929" g="w2928" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w2930" g="w2931" t="det" cr="det:w2931" w="the" l="~" p="Det"/>
+     <dpg d="w2931" g="w2929" t="pcomp-n" cr="mod*between*n:w2928||obj:w2932" w="proteins" l="protein" p="N"/>
+     <dpg d="w2932" g="w2931" t="vrel" cr="vrel:w2931" w="encoded" l="encode" p="V"/>
+     <dpg d="E8" g="w2932" t="obj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E8" g="w2931" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w2933" g="w2932" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w2934" g="w2936" t="det" cr="det:w2936" w="these" l="~" p="Det"/>
+     <dpg d="w2935" g="w2936" t="nn" cr="nn:w2936" w="two" l="~" p="N"/>
+     <dpg d="w2936" g="w2933" t="pcomp-n" cr="by-subj*by*n:w2932" w="genes" l="gene" p="N"/>
+     <dpg d="w2937" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

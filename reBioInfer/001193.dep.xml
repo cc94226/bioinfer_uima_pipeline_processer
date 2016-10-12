@@ -1,0 +1,34 @@
+<rexml>
+<doc id="1193">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18890" g="w18900" t="s" cr="s+subj:w18900" w="Redundancy" l="~" p="N"/>
+     <dpg d="w18891" g="w18890" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w18892" g="w18893" t="lex-mod" cr="lex-mod:w18893" w="Saccharomyces" l="~" p="U"/>
+     <dpg d="w18893" g="w18894" t="nn" cr="nn:w18894" w="cerevisiae" l="Saccharomyces cerevisiae" p="N"/>
+     <dpg d="w18894" g="w18891" t="pcomp-n" cr="mod*of*n:w18890" w="MSH3" l="~" p="N"/>
+     <dpg d="w18895" g="w18894" t="punc" cr="punc:w18894" w="and" l="~" p="U"/>
+     <dpg d="w18896" g="w18894" t="conj" cr="conj:w18894" w="MSH6" l="~" p="N"/>
+     <dpg d="w18897" g="w18896" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w18898" g="w18899" t="lex-mod" cr="lex-mod:w18899" w="MSH2" l="~" p="U"/>
+     <dpg d="w18899" g="w18897" t="pcomp-n" cr="mod*in*n:w18896" w="-dependent" l="MSH2 -dependent" p="N"/>
+     <dpg d="w18900" g="E0" t="i" cr="" w="mismatch" l="~" p="V"/>
+     <dpg d="E2" g="w18900" t="subj" cr="" w="" l="redundancy" p="N"/>
+     <dpg d="E2" g="w18890" t="antecedent" cr="" w="" l="redundancy" p="N"/>
+     <dpg d="w18901" g="w18900" t="obj" cr="obj:w18900" w="repair" l="~" p="N"/>
+     <dpg d="w18902" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

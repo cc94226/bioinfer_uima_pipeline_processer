@@ -1,0 +1,78 @@
+<rexml>
+<doc id="234">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3474" g="w3475" t="s" cr="s+subj:w3475" w="Biopsies" l="biopsy" p="N"/>
+     <dpg d="w3475" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="taken" l="take" p="V"/>
+     <dpg d="E6" g="w3475" t="subj" cr="" w="" l="biopsy" p="N"/>
+     <dpg d="E6" g="w3474" t="antecedent" cr="" w="" l="biopsy" p="N"/>
+     <dpg d="w3476" g="w3475" t="mod" cr="" w="prior" l="prior to" p="Prep"/>
+     <dpg d="w3477" g="w3476" t="lex-mod" cr="lex-mod:w3476" w="to" l="~" p="U"/>
+     <dpg d="w3478" g="w3476" t="pcomp-n" cr="mod*prior*n:w3475" w="NAC" l="~" p="N"/>
+     <dpg d="w3479" g="E2" t="punc" cr="punc:w3475" w="and" l="~" p="U"/>
+     <dpg d="E1" g="E2" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3480" g="w3481" t="mod" cr="mod:w3481" w="operative" l="~" p="A"/>
+     <dpg d="w3481" g="w3483" t="s" cr="s+obj1:w3483" w="specimens" l="specimen" p="N"/>
+     <dpg d="w3482" g="w3483" t="be" cr="be:w3483" w="were" l="be" p="be"/>
+     <dpg d="w3483" g="E1" t="i" cr="conj:w3475" w="subjected" l="subject to" p="V"/>
+     <dpg d="w3484" g="w3483" t="lex-mod" cr="lex-mod:w3483" w="to" l="~" p="U"/>
+     <dpg d="E7" g="w3483" t="obj1" cr="" w="" l="specimen" p="N"/>
+     <dpg d="E7" g="w3481" t="antecedent" cr="" w="" l="specimen" p="N"/>
+     <dpg d="w3485" g="w3489" t="nn" cr="nn:w3489" w="immunohistochemical" l="~" p="N"/>
+     <dpg d="w3486" g="w3487" t="punc" cr="punc:w3487" w="(" l="~" p="U"/>
+     <dpg d="w3487" g="w3485" t="abbrev" cr="abbrev:w3485" w="IHC" l="~" p="N"/>
+     <dpg d="w3488" g="w3487" t="punc" cr="punc:w3487" w=")" l="~" p="U"/>
+     <dpg d="w3489" g="w3483" t="obj2" cr="obj2:w3483" w="staining" l="~" p="N"/>
+     <dpg d="w3490" g="w3489" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w3491" g="w3490" t="pcomp-n" cr="mod*for*n:w3489" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w3492" g="w3491" t="punc" cr="punc:w3491" w="," l="~" p="U"/>
+     <dpg d="w3493" g="w3491" t="conj" cr="conj:w3491" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w3494" g="w3493" t="punc" cr="punc:w3493" w="," l="~" p="U"/>
+     <dpg d="w3495" g="w3493" t="conj" cr="conj:w3493" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w3496" g="w3495" t="punc" cr="punc:w3495" w="," l="~" p="U"/>
+     <dpg d="w3497" g="w3495" t="punc" cr="punc:w3495" w="and" l="~" p="U"/>
+     <dpg d="w3498" g="w3499" t="nn" cr="nn:w3499" w="CD44" l="~" p="N"/>
+     <dpg d="w3499" g="w3495" t="conj" cr="conj:w3495" w="isoform" l="~" p="N"/>
+     <dpg d="w3500" g="w3499" t="num" cr="num:w3499" w="6" l="~" p="N"/>
+     <dpg d="w3501" g="w3491" t="punc" cr="punc:w3491" w="(" l="~" p="U"/>
+     <dpg d="w3502" g="w3491" t="appo" cr="appo:w3491" w="CD44v6" l="~" p="N"/>
+     <dpg d="w3503" g="E5" t="punc" cr="punc:E5" w=")" l="~" p="U"/>
+     <dpg d="w3504" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="E0" g="E5" t="UNSPECRELTYPE" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="s+subj:w3506" w="" l="~" p="N"/>
+     <dpg d="w3505" g="w3506" t="aux" cr="aux:w3506" w="to" l="~" p="Aux"/>
+     <dpg d="w3506" g="E0" t="i" cr="UNSPECRELTYPE:E5" w="uncover" l="~" p="V"/>
+     <dpg d="E8" g="w3506" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w3507" g="w3508" t="det" cr="det:w3508" w="the" l="~" p="Det"/>
+     <dpg d="w3508" g="w3506" t="obj" cr="obj:w3506" w="role" l="~" p="N"/>
+     <dpg d="w3509" g="w3508" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3510" g="w3511" t="nn" cr="nn:w3511" w="adhesion" l="~" p="N"/>
+     <dpg d="w3511" g="w3509" t="pcomp-n" cr="mod*of*n:w3508" w="molecules" l="molecule" p="N"/>
+     <dpg d="w3512" g="w3511" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w3513" g="w3512" t="pcomp-n" cr="mod*as*n:w3511" w="determinants" l="determinant" p="N"/>
+     <dpg d="w3514" g="w3513" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3515" g="w3516" t="det" cr="det:w3516" w="the" l="~" p="Det"/>
+     <dpg d="w3516" g="w3514" t="pcomp-n" cr="mod*of*n:w3513" w="response" l="~" p="N"/>
+     <dpg d="w3517" g="w3516" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w3518" g="w3517" t="pcomp-n" cr="mod*to*n:w3516" w="NAC" l="~" p="N"/>
+     <dpg d="w3519" g="w3518" t="punc" cr="punc:w3518" w="and" l="~" p="U"/>
+     <dpg d="w3520" g="w3521" t="nn" cr="nn:w3521" w="disease" l="~" p="N"/>
+     <dpg d="w3521" g="w3518" t="conj" cr="conj:w3518" w="outcome" l="~" p="N"/>
+     <dpg d="w3522" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

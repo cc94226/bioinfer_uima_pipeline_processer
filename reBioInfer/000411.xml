@@ -1,0 +1,171 @@
+<rexml>
+<doc id="411">
+  <text>
+<p><s id="s1"><w id="w5959">DR3</w> <w id="w5960">signal</w> <w id="w5961">transduction</w> <w id="w5962">is</w> <w id="w5963">mediated</w> <w id="w5964">by</w> <w id="w5965">a</w> <w id="w5966">complex</w> <w id="w5967">of</w> <w id="w5968">intracellular</w> <w id="w5969">signaling</w> <w id="w5970">molecules</w> <w id="w5971">including</w> <w id="w5972">TRADD</w> <w id="w5973">,</w> <w id="w5974">TRAF2</w> <w id="w5975">,</w> <w id="w5976">FADD</w> <w id="w5977">,</w> <w id="w5978">and</w> <w id="w5979">FLICE</w> <w id="w5980">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1449" gid="g1381" t="MEDIATION" fr="w5959" to="w5961">
+     <textspan type="extent">DR3 signal transduction</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="MEDIATION"/>
+      <exattr n="bd" v="e.411.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1450" gid="g1382" t="RELATIONSHIP_TEXTBINDING" fr="w5963" to="w5964">
+     <textspan type="extent">mediated by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.411.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1451" gid="g1383" t="Individual_protein" fr="w5974" to="w5974" nam="yes">
+     <textspan type="extent">TRAF2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.411.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1452" gid="g1384" t="RELATIONSHIP_TEXTBINDING" fr="w5966" to="w5967">
+     <textspan type="extent">complex of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.411.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1453" gid="g1385" t="Individual_protein" fr="w5979" to="w5979" nam="yes">
+     <textspan type="extent">FLICE</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.411.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1454" gid="g1386" t="Individual_protein" fr="w5976" to="w5976" nam="yes">
+     <textspan type="extent">FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.411.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1455" gid="g1387" t="Function_property" fr="w5959" to="w5960">
+     <textspan type="extent">DR3 signal</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.411.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1456" gid="g1388" t="Protein_complex" fr="w5966" to="w5966" nam="yes">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.411.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1457" gid="g1389" t="Individual_protein" fr="w5972" to="w5972" nam="yes">
+     <textspan type="extent">TRADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.411.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e1458" gid="g1390" t="Individual_protein" fr="w5959" to="w5959" nam="yes">
+     <textspan type="extent">DR3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.411.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r568" t="MEDIATE" e1="e1456" e2="e1449" re="e1450">
+     <textspan type="extent">DR3 signal transduction is mediated by a complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.411.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r569" t="CONTAIN" e1="e1456" e2="e1457" re="e1452">
+     <textspan type="extent">complex of intracellular signaling molecules including TRADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.411.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r570" t="CONTAIN" e1="e1456" e2="e1451" re="e1452">
+     <textspan type="extent">complex of intracellular signaling molecules including TRADD , TRAF2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.411.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r571" t="CONTAIN" e1="e1456" e2="e1454" re="e1452">
+     <textspan type="extent">complex of intracellular signaling molecules including TRADD , TRAF2 , FADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.411.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r572" t="CONTAIN" e1="e1456" e2="e1453" re="e1452">
+     <textspan type="extent">complex of intracellular signaling molecules including TRADD , TRAF2 , FADD , and FLICE</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.411.3"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

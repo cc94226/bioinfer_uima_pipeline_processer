@@ -1,0 +1,115 @@
+<rexml>
+<doc id="573">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E9" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E5" g="E9" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8229" g="E5" t="mod" cr="mod:w8233" w="Here" l="~" p="N"/>
+     <dpg d="w8230" g="E5" t="punc" cr="punc:w8233" w="," l="~" p="U"/>
+     <dpg d="w8231" g="w8233" t="s" cr="s+subj:w8233||s+subj:w8253" w="we" l="~" p="N"/>
+     <dpg d="w8232" g="w8233" t="have" cr="have:w8233" w="have" l="~" p="have"/>
+     <dpg d="w8233" g="E5" t="i" cr="UNSPECRELTYPE:E9" w="detected" l="detect" p="V"/>
+     <dpg d="E10" g="w8233" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E10" g="w8231" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w8234" g="w8235" t="det" cr="det:w8235" w="a" l="~" p="Det"/>
+     <dpg d="w8235" g="w8233" t="obj" cr="obj:w8233" w="polypeptide" l="~" p="N"/>
+     <dpg d="w8236" g="w8235" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w8237" g="w8240" t="nn" cr="nn:w8240" w="rat" l="~" p="N"/>
+     <dpg d="w8238" g="w8240" t="nn" cr="nn:w8240" w="rod" l="~" p="N"/>
+     <dpg d="w8239" g="w8240" t="mod" cr="mod:w8240" w="outer" l="~" p="A"/>
+     <dpg d="w8240" g="w8236" t="pcomp-n" cr="mod*in*n:w8235||obj:w8243||obj:w8251" w="segments" l="segment" p="N"/>
+     <dpg d="E4" g="w8240" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8241" g="E4" t="whn" cr="whn:w8243" w="that" l="~" p="THAT"/>
+     <dpg d="w8241" g="w8240" t="antecedent" cr="antecedent:w8240" w="that" l="~" p="THAT"/>
+     <dpg d="w8242" g="w8243" t="be" cr="be:w8243" w="is" l="be" p="be"/>
+     <dpg d="w8243" g="E4" t="i" cr="rel:w8240" w="recognized" l="recognize" p="V"/>
+     <dpg d="E11" g="w8243" t="obj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E11" g="w8240" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w8244" g="w8243" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w8245" g="w8248" t="nn" cr="nn:w8248" w="myosin" l="~" p="N"/>
+     <dpg d="w8246" g="w8248" t="mod" cr="mod:w8248" w="heavy" l="~" p="A"/>
+     <dpg d="w8247" g="w8248" t="nn" cr="nn:w8248" w="chain" l="~" p="N"/>
+     <dpg d="w8248" g="w8244" t="pcomp-n" cr="by-subj*by*n:w8243" w="antibodies" l="antibody" p="N"/>
+     <dpg d="w8249" g="w8243" t="punc" cr="punc:w8243" w="and" l="~" p="U"/>
+     <dpg d="w8250" g="w8251" t="be" cr="be:w8251" w="was" l="be" p="be"/>
+     <dpg d="w8251" g="w8243" t="conj" cr="conj:w8243" w="found" l="find" p="V"/>
+     <dpg d="E12" g="w8251" t="obj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E12" g="w8240" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E3" g="w8251" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E7" g="E3" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="w8231" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w8252" g="w8253" t="aux" cr="aux:w8253" w="to" l="~" p="Aux"/>
+     <dpg d="w8253" g="E3" t="i" cr="mod:w8251" w="possess" l="~" p="V"/>
+     <dpg d="E13" g="w8253" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E13" g="E7" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w8254" g="w8255" t="mod" cr="mod:w8255" w="other" l="~" p="A"/>
+     <dpg d="w8255" g="w8253" t="obj" cr="obj:w8253" w="characteristics" l="characteristic" p="N"/>
+     <dpg d="w8256" g="w8255" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w8257" g="w8261" t="mod" cr="mod:w8261" w="conventional" l="~" p="A"/>
+     <dpg d="w8258" g="w8261" t="mod" cr="mod:w8261" w="non-muscle" l="non-muscle" p="A"/>
+     <dpg d="w8259" g="w8261" t="nn" cr="nn:w8261" w="myosin" l="~" p="N"/>
+     <dpg d="w8260" g="w8261" t="mod" cr="mod:w8261" w="heavy" l="~" p="A"/>
+     <dpg d="w8261" g="w8256" t="pcomp-n" cr="mod*of*n:w8255" w="chain" l="~" p="N"/>
+     <dpg d="w8262" g="E9" t="punc" cr="punc:E9" w=":" l="~" p="U"/>
+     <dpg d="w8263" g="E9" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E9" w="it" l="~" p="N"/>
+     <dpg d="w8264" g="E9" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E9" w="comigrates" l="~" p="N"/>
+     <dpg d="w8265" g="w8264" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w8266" g="w8265" t="pcomp-n" cr="mod*in*n:w8264" w="SDS-PAGE" l="SDS-PAGE" p="N"/>
+     <dpg d="w8267" g="w8266" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w8268" g="w8271" t="mod" cr="mod:w8271" w="non-muscle" l="non-muscle" p="A"/>
+     <dpg d="w8269" g="w8271" t="nn" cr="nn:w8271" w="myosin" l="~" p="N"/>
+     <dpg d="w8270" g="w8271" t="mod" cr="mod:w8271" w="heavy" l="~" p="A"/>
+     <dpg d="w8271" g="w8267" t="pcomp-n" cr="mod*with*n:w8266" w="chain" l="~" p="N"/>
+     <dpg d="w8272" g="E9" t="punc" cr="punc:E9" w=";" l="~" p="U"/>
+     <dpg d="E2" g="E9" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8273" g="w8274" t="s" cr="s+subj:w8274" w="it" l="~" p="N"/>
+     <dpg d="w8274" g="E2" t="i" cr="UNSPECRELTYPE:E9" w="associates" l="associate with" p="V"/>
+     <dpg d="w8275" g="w8274" t="lex-mod" cr="lex-mod:w8274" w="with" l="~" p="U"/>
+     <dpg d="E14" g="w8274" t="subj" cr="" w="" l="it" p="N"/>
+     <dpg d="E14" g="w8273" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w8276" g="w8277" t="det" cr="det:w8277" w="the" l="~" p="Det"/>
+     <dpg d="w8277" g="w8274" t="obj" cr="obj:w8274" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w8278" g="w8277" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w8279" g="w8281" t="nn" cr="nn:w8281" w="rod" l="~" p="N"/>
+     <dpg d="w8280" g="w8281" t="mod" cr="mod:w8281" w="outer" l="~" p="A"/>
+     <dpg d="w8281" g="w8278" t="pcomp-n" cr="mod*of*n:w8277" w="segments" l="segment" p="N"/>
+     <dpg d="w8282" g="w8281" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w8283" g="w8285" t="det" cr="det:w8285" w="an" l="~" p="Det"/>
+     <dpg d="w8284" g="w8285" t="mod" cr="mod:w8285" w="ATP-sensitive" l="ATP-sensitive" p="A"/>
+     <dpg d="w8285" g="w8282" t="pcomp-n" cr="mod*in*n:w8281" w="manner" l="~" p="N"/>
+     <dpg d="w8286" g="E9" t="punc" cr="punc:E9" w=";" l="~" p="U"/>
+     <dpg d="w8287" g="E9" t="punc" cr="punc:E9" w="and" l="~" p="U"/>
+     <dpg d="E1" g="E9" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8288" g="w8289" t="s" cr="s+subj:w8289||s+subj:w8291" w="it" l="~" p="N"/>
+     <dpg d="w8289" g="E1" t="i" cr="UNSPECRELTYPE:E9" w="binds" l="bind" p="V"/>
+     <dpg d="E15" g="w8289" t="subj" cr="" w="" l="it" p="N"/>
+     <dpg d="E15" g="w8288" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="E0" g="w8289" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E6" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w8288" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w8290" g="w8291" t="aux" cr="aux:w8291" w="to" l="~" p="Aux"/>
+     <dpg d="w8291" g="E0" t="i" cr="mod:w8289" w="purified" l="purify" p="V"/>
+     <dpg d="E16" g="w8291" t="subj" cr="" w="" l="it" p="N"/>
+     <dpg d="E16" g="E6" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w8292" g="w8293" t="nn" cr="nn:w8293" w="actin" l="~" p="N"/>
+     <dpg d="w8293" g="w8291" t="obj" cr="obj:w8291" w="filaments" l="filament" p="N"/>
+     <dpg d="w8294" g="w8293" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w8295" g="w8296" t="det" cr="det:w8296" w="the" l="~" p="Det"/>
+     <dpg d="w8296" g="w8294" t="pcomp-n" cr="mod*in*n:w8293" w="absence" l="~" p="N"/>
+     <dpg d="w8297" g="w8296" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w8298" g="w8297" t="pcomp-n" cr="mod*of*n:w8296" w="ATP" l="~" p="N"/>
+     <dpg d="w8299" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

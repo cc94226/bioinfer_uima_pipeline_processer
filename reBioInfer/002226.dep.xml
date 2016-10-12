@@ -1,0 +1,58 @@
+<rexml>
+<doc id="2226">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w34325" g="E4" t="p" cr="" w="With" l="~" p="Prep"/>
+     <dpg d="w34326" g="w34325" t="pcomp-n" cr="p*with*n:E4" w="solutions" l="solution" p="N"/>
+     <dpg d="w34327" g="w34326" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34328" g="w34327" t="pcomp-n" cr="mod*of*n:w34326" w="actin" l="~" p="N"/>
+     <dpg d="w34329" g="w34328" t="punc" cr="punc:w34328" w="(" l="~" p="U"/>
+     <dpg d="w34330" g="w34331" t="num" cr="num:w34331" w="2" l="~" p="N"/>
+     <dpg d="w34331" g="w34328" t="appo" cr="appo:w34328" w="microM" l="~" p="N"/>
+     <dpg d="w34332" g="w34331" t="punc" cr="punc:w34331" w=")" l="~" p="U"/>
+     <dpg d="w34333" g="w34331" t="punc" cr="punc:w34331" w="and" l="~" p="U"/>
+     <dpg d="w34334" g="w34331" t="conj" cr="conj:w34331" w="thymosin-beta4" l="thymosin-beta4" p="N"/>
+     <dpg d="w34335" g="w34334" t="punc" cr="punc:w34334" w="(" l="~" p="U"/>
+     <dpg d="w34336" g="w34334" t="num" cr="num:w34334" w="2" l="~" p="N"/>
+     <dpg d="w34337" g="w34334" t="punc" cr="punc:w34334" w="or" l="~" p="U"/>
+     <dpg d="w34338" g="w34339" t="num" cr="num:w34339" w="4" l="~" p="N"/>
+     <dpg d="w34339" g="w34334" t="conj" cr="conj:w34334" w="microM" l="~" p="N"/>
+     <dpg d="w34340" g="E4" t="punc" cr="punc:E4" w=")" l="~" p="U"/>
+     <dpg d="w34341" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w34342" g="w34345" t="det" cr="det:w34345" w="the" l="~" p="Det"/>
+     <dpg d="w34343" g="w34345" t="mod" cr="mod:w34345" w="barbed-end" l="barbed-end" p="A"/>
+     <dpg d="w34344" g="w34345" t="nn" cr="nn:w34345" w="assembly" l="~" p="N"/>
+     <dpg d="w34345" g="w34346" t="s" cr="s+subj:w34346||s+subj:w34348" w="rate" l="~" p="N"/>
+     <dpg d="w34346" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="rose" l="rise" p="V"/>
+     <dpg d="E5" g="w34346" t="subj" cr="" w="" l="rate" p="N"/>
+     <dpg d="E5" g="w34345" t="antecedent" cr="" w="" l="rate" p="N"/>
+     <dpg d="w34347" g="w34346" t="guest" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="E0" g="w34347" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w34345" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w34348" g="E0" t="i" cr="guest*with*c:w34346" w="increasing" l="increase" p="V"/>
+     <dpg d="E6" g="w34348" t="subj" cr="" w="" l="rate" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="rate" p="N"/>
+     <dpg d="w34349" g="w34348" t="obj" cr="obj:w34348" w="profilin" l="~" p="N"/>
+     <dpg d="w34350" g="w34353" t="nn" cr="nn:w34353" w="concentration" l="~" p="N"/>
+     <dpg d="w34351" g="w34353" t="punc" cr="punc:w34353" w="(" l="~" p="U"/>
+     <dpg d="w34352" g="w34353" t="nn" cr="nn:w34353" w="0.7-2" l="0.7-2" p="N"/>
+     <dpg d="w34353" g="w34346" t="obj" cr="obj:w34346" w="microM" l="~" p="N"/>
+     <dpg d="w34354" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w34355" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

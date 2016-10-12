@@ -1,0 +1,177 @@
+<rexml>
+<doc id="238">
+  <text>
+<p><s id="s1"><w id="w3608">MSH3</w> <w id="w3609">appears</w> <w id="w3610">to</w> <w id="w3611">be</w> <w id="w3612">more</w> <w id="w3613">closely</w> <w id="w3614">related</w> <w id="w3615">to</w> <w id="w3616">the</w> <w id="w3617">mouse</w> <w id="w3618">Rep-3</w> <w id="w3619">gene</w> <w id="w3620">and</w> <w id="w3621">other</w> <w id="w3622">similar</w> <w id="w3623">eukaryotic</w> <w id="w3624">mutS</w> <w id="w3625">homologues</w> <w id="w3626">than</w> <w id="w3627">to</w> <w id="w3628">the</w> <w id="w3629">yeast</w> <w id="w3630">gene</w> <w id="w3631">MSH2</w> <w id="w3632">and</w> <w id="w3633">other</w> <w id="w3634">mutS</w> <w id="w3635">homologues</w> <w id="w3636">that</w> <w id="w3637">are</w> <w id="w3638">involved</w> <w id="w3639">in</w> <w id="w3640">replication</w> <w id="w3641">repair</w> <w id="w3642">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e874" gid="g842" t="Gene" fr="w3608" to="w3608" nam="yes">
+     <textspan type="extent">MSH3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.238.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e875" gid="g843" t="RELATIONSHIP_TEXTBINDING" fr="w3614" to="w3615">
+     <textspan type="extent">related to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.238.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e876" gid="g844" t="Homolog" fr="w3623" to="w3625" nam="yes">
+     <textspan type="extent">eukaryotic mutS homologues</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Homolog"/>
+      <exattr n="bd" v="e.238.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e877" gid="g845" t="RELATIONSHIP_TEXTBINDING" fr="w3614" to="w3627">
+     <textspan type="extent">related [..] than to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.238.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e878" gid="g846" t="Homolog" fr="w3634" to="w3635" nam="yes">
+     <textspan type="extent">mutS homologues</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Homolog"/>
+      <exattr n="bd" v="e.238.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e879" gid="g847" t="Gene" fr="w3629" to="w3631" nam="yes">
+     <textspan type="extent">yeast gene MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.238.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e880" gid="g848" t="Gene" fr="w3617" to="w3619" nam="yes">
+     <textspan type="extent">mouse Rep-3 gene</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.238.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e881" gid="g849" t="Gene" fr="w3618" to="w3618" nam="yes">
+     <textspan type="extent">Rep-3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.238.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e882" gid="g850" t="Gene" fr="w3624" to="w3624" nam="yes">
+     <textspan type="extent">mutS</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.238.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e883" gid="g851" t="Gene" fr="w3634" to="w3634" nam="yes">
+     <textspan type="extent">mutS</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.238.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e884" gid="g852" t="Gene" fr="w3631" to="w3631" nam="yes">
+     <textspan type="extent">MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.238.10"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r327" t="SIMILAR" e1="e874" e2="e880" re="e875">
+     <textspan type="extent">MSH3 appears to be more closely related to the mouse Rep-3 gene</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.238.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r328" t="SIMILAR" e1="e874" e2="e876" re="e875">
+     <textspan type="extent">MSH3 appears to be more closely related to the mouse Rep-3 gene and other similar eukaryotic mutS homologues</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.238.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r329" t="SIMILAR" e1="e874" e2="e879" re="e877">
+     <textspan type="extent">MSH3 appears to be more closely related to the mouse Rep-3 gene and other similar eukaryotic mutS homologues than to the yeast gene MSH2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.238.3"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r330" t="SIMILAR" e1="e874" e2="e878" re="e877">
+     <textspan type="extent">MSH3 appears to be more closely related to the mouse Rep-3 gene and other similar eukaryotic mutS homologues than to the yeast gene MSH2 and other mutS homologues</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.238.3"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

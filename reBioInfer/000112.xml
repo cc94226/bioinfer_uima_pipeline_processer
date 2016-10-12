@@ -1,0 +1,129 @@
+<rexml>
+<doc id="112">
+  <text>
+<p><s id="s1"><w id="w1799">Munc18-2</w> <w id="w1800">is</w> <w id="w1801">a</w> <w id="w1802">Sec1</w> <w id="w1803">homologue</w> <w id="w1804">enriched</w> <w id="w1805">in</w> <w id="w1806">epithelial</w> <w id="w1807">cells</w> <w id="w1808">and</w> <w id="w1809">forms</w> <w id="w1810">a</w> <w id="w1811">complex</w> <w id="w1812">with</w> <w id="w1813">syntaxin</w> <w id="w1814">3</w> <w id="w1815">,</w> <w id="w1816">a</w> <w id="w1817">t-SNARE</w> <w id="w1818">localized</w> <w id="w1819">to</w> <w id="w1820">the</w> <w id="w1821">apical</w> <w id="w1822">plasma</w> <w id="w1823">membrane</w> <w id="w1824">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e448" gid="g434" t="Individual_protein" fr="w1799" to="w1799" nam="yes">
+     <textspan type="extent">Munc18-2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.112.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e449" gid="g435" t="RELATIONSHIP_TEXTBINDING" fr="w1809" to="w1812">
+     <textspan type="extent">forms [..] complex with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.112.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e450" gid="g436" t="Individual_protein" fr="w1813" to="w1814" nam="yes">
+     <textspan type="extent">syntaxin 3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.112.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e451" gid="g437" t="RELATIONSHIP_TEXTBINDING" fr="w1803" to="w1803">
+     <textspan type="extent">homologue</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.112.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e452" gid="g438" t="Protein_complex" fr="w1811" to="w1811" nam="yes">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.112.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e453" gid="g439" t="Individual_protein" fr="w1802" to="w1802" nam="yes">
+     <textspan type="extent">Sec1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.112.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e454" gid="g440" t="Protein_family_or_group" fr="w1817" to="w1817" nam="yes">
+     <textspan type="extent">t-SNARE</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.112.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r173" t="SIMILAR" e1="e448" e2="e453" re="e451">
+     <textspan type="extent">Munc18-2 is a Sec1 homologue</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.112.3"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r174" t="CONTAIN" e1="e452" e2="e448" re="e449">
+     <textspan type="extent">Munc18-2 is a Sec1 homologue enriched in epithelial cells and forms a complex with</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.112.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r175" t="CONTAIN" e1="e452" e2="e450" re="e449">
+     <textspan type="extent">forms a complex with syntaxin 3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.112.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r176" t="MEMBER" e1="e454" e2="e450" re="">
+     <textspan type="extent">syntaxin 3 , a t-SNARE</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,80 @@
+<rexml>
+<doc id="2100">
+  <text>
+<p><s id="s1"><w id="w33094">We</w> <w id="w33095">have</w> <w id="w33096">previously</w> <w id="w33097">shown</w> <w id="w33098">that</w> <w id="w33099">the</w> <w id="w33100">synthetic</w> <w id="w33101">dodecapeptide</w> <w id="w33102">corresponding</w> <w id="w33103">to</w> <w id="w33104">Trp104-Met115</w> <w id="w33105">of</w> <w id="w33106">cofilin</w> <w id="w33107">is</w> <w id="w33108">a</w> <w id="w33109">potent</w> <w id="w33110">inhibitor</w> <w id="w33111">of</w> <w id="w33112">actin</w> <w id="w33113">polymerization</w> <w id="w33114">(</w> <w id="w33115">Yonezawa</w> <w id="w33116">,</w> <w id="w33117">N.</w> <w id="w33118">,</w> <w id="w33119">Nishida</w> <w id="w33120">,</w> <w id="w33121">E.</w> <w id="w33122">,</w> <w id="w33123">Iida</w> <w id="w33124">,</w> <w id="w33125">K.</w> <w id="w33126">,</w> <w id="w33127">Kumagai</w> <w id="w33128">,</w> <w id="w33129">H.</w> <w id="w33130">,</w> <w id="w33131">Yahara</w> <w id="w33132">,</w> <w id="w33133">I.</w> <w id="w33134">,</w> <w id="w33135">and</w> <w id="w33136">Sakai</w> <w id="w33137">,</w> <w id="w33138">H.</w> <w id="w33139">(</w> <w id="w33140">1991</w> <w id="w33141">)</w> <w id="w33142">J.</w> <w id="w33143">Biol.</w> <w id="w33144">Chem.</w> <w id="w33145">266</w> <w id="w33146">,</w> <w id="w33147">10485-10489</w> <w id="w33148">)</w> <w id="w33149">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7551" gid="g7197" t="Substructure_of_protein" fr="w33104" to="w33106" nam="yes">
+     <textspan type="extent">Trp104-Met115 of cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.2100.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7552" gid="g7198" t="RELATIONSHIP_TEXTBINDING" fr="w33110" to="w33111">
+     <textspan type="extent">inhibitor of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2100.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7553" gid="g7199" t="POLYMERIZATION" fr="w33112" to="w33113">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.2100.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7554" gid="g7200" t="Individual_protein" fr="w33106" to="w33106" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2100.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7555" gid="g7201" t="Individual_protein" fr="w33112" to="w33112" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2100.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2897" t="SUPPRESS" e1="e7551" e2="e7553" re="e7552">
+     <textspan type="extent">Trp104-Met115 of cofilin is a potent inhibitor of actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2100.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

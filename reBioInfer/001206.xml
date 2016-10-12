@@ -1,0 +1,115 @@
+<rexml>
+<doc id="1206">
+  <text>
+<p><s id="s1"><w id="w19025">Requirement</w> <w id="w19026">of</w> <w id="w19027">yeast</w> <w id="w19028">fimbrin</w> <w id="w19029">for</w> <w id="w19030">actin</w> <w id="w19031">organization</w> <w id="w19032">and</w> <w id="w19033">morphogenesis</w> <w id="w19034">in</w> <w id="w19035">vivo</w> <w id="w19036">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4410" gid="g4217" t="RELATIONSHIP_TEXTBINDING" fr="w19025" to="w19029">
+     <textspan type="extent">Requirement of [..] for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1206.0"/>
+      <exattr n="nst" v="st.1206.0.0"/>
+      <exattr n="nst" v="st.1206.1.0"/>
+      <exattr n="nst" v="st.1206.4.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4411" gid="g4218" t="Individual_protein" fr="w19027" to="w19028" nam="yes">
+     <textspan type="extent">yeast fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1206.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4412" gid="g4219" t="MODIFICATION" fr="w19030" to="w19033">
+     <textspan type="extent">actin [..] morphogenesis</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1206.2"/>
+      <exattr n="nst" v="st.1206.5.0"/>
+      <exattr n="nst" v="st.1206.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4413" gid="g4220" t="MODIFICATION" fr="w19030" to="w19031">
+     <textspan type="extent">actin organization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1206.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4414" gid="g4221" t="Individual_protein" fr="w19028" to="w19028" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1206.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4415" gid="g4222" t="Individual_protein" fr="w19030" to="w19030" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1206.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4416" gid="g4223" t="Individual_protein" fr="w19030" to="w19030" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1206.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1684" t="CONDITION" e1="e4411" e2="e4413" re="e4410">
+     <textspan type="extent">Requirement of yeast fimbrin for actin organization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1206.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r1685" t="CONDITION" e1="e4411" e2="e4412" re="e4410">
+     <textspan type="extent">Requirement of yeast fimbrin for actin organization and morphogenesis</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1206.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,62 @@
+<rexml>
+<doc id="54">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w811" g="w822" t="s" cr="s+subj:w822" w="ADP-ribosylation" l="ADP-ribosylation" p="N"/>
+     <dpg d="w812" g="w811" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w813" g="w812" t="pcomp-n" cr="mod*of*n:w811" w="actin" l="~" p="N"/>
+     <dpg d="w814" g="w813" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w815" g="w816" t="lex-mod" cr="lex-mod:w816" w="Arg" l="~" p="U"/>
+     <dpg d="w816" g="w814" t="pcomp-n" cr="mod*at*n:w813" w="177" l="Arg 177" p="N"/>
+     <dpg d="w817" g="w816" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w818" g="w821" t="nn" cr="nn:w821" w="Clostridium" l="~" p="N"/>
+     <dpg d="w819" g="w821" t="nn" cr="nn:w821" w="perfringens" l="~" p="N"/>
+     <dpg d="w820" g="w821" t="nn" cr="nn:w821" w="iota" l="~" p="N"/>
+     <dpg d="w821" g="w817" t="pcomp-n" cr="mod*by*n:w816" w="toxin" l="~" p="N"/>
+     <dpg d="w822" g="E0" t="i" cr="UNSPECRELTYPE:E4" w="increased" l="increase" p="V"/>
+     <dpg d="E5" g="w822" t="subj" cr="" w="" l="ADP-ribosylation" p="N"/>
+     <dpg d="E5" g="w811" t="antecedent" cr="" w="" l="ADP-ribosylation" p="N"/>
+     <dpg d="w823" g="w826" t="det" cr="det:w826" w="the" l="~" p="Det"/>
+     <dpg d="w824" g="w826" t="nn" cr="nn:w826" w="nucleotide" l="~" p="N"/>
+     <dpg d="w825" g="w826" t="nn" cr="nn:w826" w="dissociation" l="~" p="N"/>
+     <dpg d="w826" g="w822" t="obj" cr="obj:w822" w="rate" l="~" p="N"/>
+     <dpg d="w827" g="w826" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w828" g="w829" t="num" cr="num:w829" w="2.2" l="~" p="N"/>
+     <dpg d="w829" g="w827" t="pcomp-n" cr="mod*from*n:w826" w="x" l="~" p="N"/>
+     <dpg d="w830" g="w831" t="punc" cr="punc:w831" w="10(-3)" l="~" p="U"/>
+     <dpg d="w831" g="w833" t="lex-mod" cr="lex-mod:w833" w="s-1" l="~" p="U"/>
+     <dpg d="w832" g="w833" t="lex-mod" cr="lex-mod:w833" w="to" l="~" p="U"/>
+     <dpg d="w833" g="w834" t="nn" cr="nn:w834" w="4.5" l="1 to 4.5" p="N"/>
+     <dpg d="w834" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="x" l="~" p="N"/>
+     <dpg d="w835" g="w836" t="punc" cr="punc:w836" w="10(-3)" l="~" p="U"/>
+     <dpg d="w836" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="s-1" l="s-1" p="N"/>
+     <dpg d="w837" g="w836" t="mod" cr="" w="without" l="~" p="Prep"/>
+     <dpg d="E1" g="w837" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E1" t="s" cr="s+subj:w838" w="" l="~" p="N"/>
+     <dpg d="w838" g="E1" t="i" cr="mod*without*c:w836" w="affecting" l="affect" p="V"/>
+     <dpg d="E6" g="w838" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w839" g="w842" t="det" cr="det:w842" w="the" l="~" p="Det"/>
+     <dpg d="w840" g="w841" t="lex-mod" cr="lex-mod:w841" w="profilin" l="~" p="U"/>
+     <dpg d="w841" g="w842" t="mod" cr="mod:w842" w="-induced" l="profilin -induced" p="A"/>
+     <dpg d="w842" g="w838" t="obj" cr="obj:w838" w="stimulation" l="~" p="N"/>
+     <dpg d="w843" g="w842" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w844" g="w845" t="nn" cr="nn:w845" w="nucleotide" l="~" p="N"/>
+     <dpg d="w845" g="w843" t="pcomp-n" cr="mod*of*n:w842" w="exchange" l="~" p="N"/>
+     <dpg d="w846" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

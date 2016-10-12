@@ -1,0 +1,201 @@
+<rexml>
+<doc id="151">
+  <text>
+<p><s id="s1"><w id="w2417">Aprotinin</w> <w id="w2418">inhibited</w> <w id="w2419">platelet</w> <w id="w2420">aggregation</w> <w id="w2421">induced</w> <w id="w2422">by</w> <w id="w2423">thrombin</w> <w id="w2424">(</w> <w id="w2425">0.25</w> <w id="w2426">U.ml-1</w> <w id="w2427">)</w> <w id="w2428">with</w> <w id="w2429">IC50</w> <w id="w2430">200</w> <w id="w2431">kIU.ml-1</w> <w id="w2432">,</w> <w id="w2433">and</w> <w id="w2434">inhibited</w> <w id="w2435">the</w> <w id="w2436">rise</w> <w id="w2437">of</w> <w id="w2438">cytosolic</w> <w id="w2439">free</w> <w id="w2440">calcium</w> <w id="w2441">concentration</w> <w id="w2442">in</w> <w id="w2443">platelets</w> <w id="w2444">stimulated</w> <w id="w2445">by</w> <w id="w2446">thrombin</w> <w id="w2447">(</w> <w id="w2448">0.1</w> <w id="w2449">U.ml-1</w> <w id="w2450">)</w> <w id="w2451">in</w> <w id="w2452">the</w> <w id="w2453">absence</w> <w id="w2454">and</w> <w id="w2455">in</w> <w id="w2456">the</w> <w id="w2457">presence</w> <w id="w2458">of</w> <w id="w2459">Ca2+</w> <w id="w2460">0.5</w> <w id="w2461">mmol.L-1</w> <w id="w2462">(</w> <w id="w2463">IC50</w> <w id="w2464">117</w> <w id="w2465">and</w> <w id="w2466">50</w> <w id="w2467">kIU.ml-1</w> <w id="w2468">,</w> <w id="w2469">respectively</w> <w id="w2470">)</w> <w id="w2471">,</w> <w id="w2472">but</w> <w id="w2473">had</w> <w id="w2474">no</w> <w id="w2475">effect</w> <w id="w2476">on</w> <w id="w2477">the</w> <w id="w2478">amounts</w> <w id="w2479">of</w> <w id="w2480">actin</w> <w id="w2481">and</w> <w id="w2482">myosin</w> <w id="w2483">heavy</w> <w id="w2484">chain</w> <w id="w2485">associated</w> <w id="w2486">with</w> <w id="w2487">cytoskeletons</w> <w id="w2488">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e579" gid="g558" t="Individual_protein" fr="w2417" to="w2417" nam="yes">
+     <textspan type="extent">Aprotinin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.151.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e580" gid="g559" t="RELATIONSHIP_TEXTBINDING" fr="w2418" to="w2418">
+     <textspan type="extent">inhibited</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.151.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e581" gid="g560" t="INCREASE" fr="w2436" to="w2446">
+     <textspan type="extent">rise of [..] concentration in platelets stimulated by thrombin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="INCREASE"/>
+      <exattr n="bd" v="e.151.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e582" gid="g561" t="RELATIONSHIP_TEXTBINDING" fr="w2434" to="w2434">
+     <textspan type="extent">inhibited</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.151.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e583" gid="g562" t="Amount_property" fr="w2478" to="w2484">
+     <textspan type="extent">amounts of [..] myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.151.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e584" gid="g563" t="RELATIONSHIP_TEXTBINDING" fr="w2474" to="w2474">
+     <textspan type="extent">no</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.151.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e585" gid="g564" t="Cell_type" fr="w2443" to="w2446" nam="yes">
+     <textspan type="extent">platelets stimulated by thrombin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_type"/>
+      <exattr n="bd" v="e.151.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e586" gid="g565" t="Amount_property" fr="w2441" to="w2446">
+     <textspan type="extent">concentration in platelets stimulated by thrombin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.151.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e587" gid="g566" t="Individual_protein" fr="w2480" to="w2480" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.151.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e588" gid="g567" t="RELATIONSHIP_TEXTBINDING" fr="w2475" to="w2476">
+     <textspan type="extent">effect on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.151.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e589" gid="g568" t="ASSEMBLY" fr="w2420" to="w2423">
+     <textspan type="extent">aggregation induced by thrombin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.151.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e590" gid="g569" t="Individual_protein" fr="w2423" to="w2423" nam="yes">
+     <textspan type="extent">thrombin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.151.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e591" gid="g570" t="Individual_protein" fr="w2446" to="w2446" nam="yes">
+     <textspan type="extent">thrombin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.151.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e592" gid="g571" t="Individual_protein" fr="w2482" to="w2484" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.151.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e593" gid="g572" t="Amount_property" fr="w2478" to="w2480">
+     <textspan type="extent">amounts of actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.151.14"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r221" t="AFFECT" e1="e579" e2="e593" re="e588">
+     <textspan type="extent">Aprotinin inhibited platelet aggregation induced by thrombin ( 0.25 U.ml-1 ) with IC50 200 kIU.ml-1 , and inhibited the rise of cytosolic free calcium concentration in platelets stimulated by thrombin ( 0.1 U.ml-1 ) in the absence and in the presence of Ca2+ 0.5 mmol.L-1 ( IC50 117 and 50 kIU.ml-1 , respectively ) , but had no effect on the amounts of actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.151.9"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r223" t="AFFECT" e1="e579" e2="e583" re="e588">
+     <textspan type="extent">Aprotinin inhibited platelet aggregation induced by thrombin ( 0.25 U.ml-1 ) with IC50 200 kIU.ml-1 , and inhibited the rise of cytosolic free calcium concentration in platelets stimulated by thrombin ( 0.1 U.ml-1 ) in the absence and in the presence of Ca2+ 0.5 mmol.L-1 ( IC50 117 and 50 kIU.ml-1 , respectively ) , but had no effect on the amounts of actin and myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.151.9"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r224" t="SUPPRESS" e1="e579" e2="e589" re="e580">
+     <textspan type="extent">Aprotinin inhibited platelet aggregation induced by thrombin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.151.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r225" t="SUPPRESS" e1="e579" e2="e581" re="e582">
+     <textspan type="extent">Aprotinin inhibited platelet aggregation induced by thrombin ( 0.25 U.ml-1 ) with IC50 200 kIU.ml-1 , and inhibited the rise of cytosolic free calcium concentration in platelets stimulated by thrombin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.151.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

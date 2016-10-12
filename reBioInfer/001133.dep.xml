@@ -1,0 +1,82 @@
+<rexml>
+<doc id="1133">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w17860" g="w17862" t="mod" cr="mod:w17862" w="Porcine" l="~" p="A"/>
+     <dpg d="w17861" g="w17862" t="mod" cr="mod:w17862" w="arterial" l="~" p="A"/>
+     <dpg d="w17862" g="w17867" t="s" cr="s+subj:w17867" w="SMCs" l="~" p="N"/>
+     <dpg d="w17863" g="w17862" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w17864" g="w17863" t="pcomp-n" cr="mod*in*n:w17862" w="culture" l="~" p="N"/>
+     <dpg d="w17865" g="w17866" t="mod" cr="mod:w17866" w="not" l="~" p="A"/>
+     <dpg d="w17866" g="w17867" t="mod-before" cr="mod-before:w17867" w="only" l="~" p="A"/>
+     <dpg d="w17867" g="E2" t="i" cr="UNSPECRELTYPE:E4" w="express" l="~" p="V"/>
+     <dpg d="E5" g="w17867" t="subj" cr="" w="" l="SMCs" p="N"/>
+     <dpg d="E5" g="w17862" t="antecedent" cr="" w="" l="SMCs" p="N"/>
+     <dpg d="w17868" g="w17869" t="mod" cr="mod:w17869" w="high" l="~" p="A"/>
+     <dpg d="w17869" g="w17867" t="obj" cr="obj:w17867" w="levels" l="level" p="N"/>
+     <dpg d="w17870" g="w17869" t="mod" cr="mod:w17869" w="of" l="~" p="Prep"/>
+     <dpg d="w17871" g="w17872" t="lex-mod" cr="lex-mod:w17872" w="alpha-smooth" l="~" p="U"/>
+     <dpg d="w17872" g="w17876" t="nn" cr="nn:w17876" w="muscle" l="smooth muscle" p="N"/>
+     <dpg d="w17873" g="w17874" t="punc" cr="punc:w17874" w="(" l="~" p="U"/>
+     <dpg d="w17874" g="w17872" t="abbrev" cr="abbrev:w17872" w="SM" l="~" p="N"/>
+     <dpg d="w17875" g="w17874" t="punc" cr="punc:w17874" w=")" l="~" p="U"/>
+     <dpg d="w17876" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="actin" l="~" p="N"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w17877" g="E1" t="mod" cr="mod:w17893" w="but" l="~" p="SentAdjunct"/>
+     <dpg d="w17878" g="w17877" t="punc" cr="punc:w17877" w="," l="~" p="U"/>
+     <dpg d="E0" g="w17877" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w17879" g="w17885" t="s" cr="s+subj:w17885" w="contrary" l="~" p="N"/>
+     <dpg d="w17880" g="w17879" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w17881" g="w17882" t="nn" cr="nn:w17882" w="rodent" l="~" p="N"/>
+     <dpg d="w17882" g="w17880" t="pcomp-n" cr="mod*to*n:w17879" w="SMCs" l="~" p="N"/>
+     <dpg d="w17883" g="w17885" t="punc" cr="punc:w17885" w="," l="~" p="U"/>
+     <dpg d="w17884" g="w17885" t="mod-before" cr="mod-before:w17885" w="also" l="~" p="A"/>
+     <dpg d="w17885" g="E0" t="i" cr="comp1:w17877" w="maintain" l="~" p="V"/>
+     <dpg d="E6" g="w17885" t="subj" cr="" w="" l="contrary" p="N"/>
+     <dpg d="E6" g="w17879" t="antecedent" cr="" w="" l="contrary" p="N"/>
+     <dpg d="w17886" g="w17888" t="det" cr="det:w17888" w="an" l="~" p="Det"/>
+     <dpg d="w17887" g="w17888" t="mod" cr="mod:w17888" w="appreciable" l="~" p="A"/>
+     <dpg d="w17888" g="w17885" t="obj" cr="obj:w17885" w="expression" l="~" p="N"/>
+     <dpg d="w17889" g="w17888" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w17890" g="w17889" t="pcomp-n" cr="mod*of*n:w17888" w="SM" l="~" p="N"/>
+     <dpg d="w17891" g="w17892" t="nn" cr="nn:w17892" w="myosin" l="~" p="N"/>
+     <dpg d="w17892" g="w17893" t="s" cr="s+subj:w17893" w="heavy" l="~" p="N"/>
+     <dpg d="w17893" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="chain" l="~" p="V"/>
+     <dpg d="E7" g="w17893" t="subj" cr="" w="" l="heavy" p="N"/>
+     <dpg d="E7" g="w17892" t="antecedent" cr="" w="" l="heavy" p="N"/>
+     <dpg d="w17894" g="w17897" t="nn" cr="nn:w17897" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w17895" g="w17897" t="lex-mod" cr="lex-mod:w17897" w="1" l="~" p="U"/>
+     <dpg d="w17896" g="w17897" t="lex-mod" cr="lex-mod:w17897" w="and" l="~" p="U"/>
+     <dpg d="w17897" g="w17893" t="obj" cr="obj:w17893" w="2" l="1 and 2" p="N"/>
+     <dpg d="w17898" g="w17897" t="punc" cr="punc:w17897" w="," l="~" p="U"/>
+     <dpg d="w17899" g="w17897" t="conj" cr="conj:w17897" w="desmin" l="~" p="N"/>
+     <dpg d="w17900" g="w17899" t="punc" cr="punc:w17899" w="," l="~" p="U"/>
+     <dpg d="w17901" g="w17899" t="punc" cr="punc:w17899" w="and" l="~" p="U"/>
+     <dpg d="w17902" g="w17899" t="conj" cr="conj:w17899" w="smoothelin" l="~" p="N"/>
+     <dpg d="w17903" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="w17904" g="w17909" t="det" cr="det:w17909" w="a" l="~" p="Det"/>
+     <dpg d="w17905" g="w17906" t="mod" cr="mod:w17906" w="recently" l="~" p="A"/>
+     <dpg d="w17906" g="w17909" t="mod" cr="mod:w17909" w="described" l="~" p="A"/>
+     <dpg d="w17907" g="w17909" t="mod" cr="mod:w17909" w="late" l="~" p="A"/>
+     <dpg d="w17908" g="w17909" t="nn" cr="nn:w17909" w="differentiation" l="~" p="N"/>
+     <dpg d="w17909" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="marker" l="~" p="N"/>
+     <dpg d="w17910" g="w17909" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w17911" g="w17912" t="mod" cr="mod:w17912" w="vascular" l="~" p="A"/>
+     <dpg d="w17912" g="w17910" t="pcomp-n" cr="mod*of*n:w17909" w="SMCs" l="~" p="N"/>
+     <dpg d="w17913" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

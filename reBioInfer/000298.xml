@@ -1,0 +1,35 @@
+<rexml>
+<doc id="298">
+  <text>
+<p><s id="s1"><w id="w4584">Cells</w> <w id="w4585">lacking</w> <w id="w4586">talin</w> <w id="w4587">,</w> <w id="w4588">a</w> <w id="w4589">protein</w> <w id="w4590">which</w> <w id="w4591">in</w> <w id="w4592">many</w> <w id="w4593">mammalian</w> <w id="w4594">cell</w> <w id="w4595">types</w> <w id="w4596">is</w> <w id="w4597">a</w> <w id="w4598">constituent</w> <w id="w4599">of</w> <w id="w4600">focal</w> <w id="w4601">complexes</w> <w id="w4602">that</w> <w id="w4603">link</w> <w id="w4604">the</w> <w id="w4605">actin</w> <w id="w4606">cytoskeleton</w> <w id="w4607">to</w> <w id="w4608">the</w> <w id="w4609">plasma</w> <w id="w4610">membrane</w> <w id="w4611">,</w> <w id="w4612">are</w> <w id="w4613">strongly</w> <w id="w4614">impaired</w> <w id="w4615">in</w> <w id="w4616">adhesion</w> <w id="w4617">to</w> <w id="w4618">external</w> <w id="w4619">surfaces</w> <w id="w4620">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1108" gid="g1054" t="Gene/protein/RNA" fr="w4586" to="w4586" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.298.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1109" gid="g1055" t="Gene/protein/RNA" fr="w4605" to="w4605" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.298.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

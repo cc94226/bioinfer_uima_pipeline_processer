@@ -1,0 +1,35 @@
+<rexml>
+<doc id="732">
+  <text>
+<p><s id="s1"><w id="w11350">In</w> <w id="w11351">cells</w> <w id="w11352">lacking</w> <w id="w11353">the</w> <w id="w11354">myosin-II</w> <w id="w11355">heavy</w> <w id="w11356">chain</w> <w id="w11357">,</w> <w id="w11358">the</w> <w id="w11359">bundles</w> <w id="w11360">,</w> <w id="w11361">which</w> <w id="w11362">were</w> <w id="w11363">induced</w> <w id="w11364">by</w> <w id="w11365">an</w> <w id="w11366">over-expression</w> <w id="w11367">of</w> <w id="w11368">cofilin</w> <w id="w11369">,</w> <w id="w11370">shortened</w> <w id="w11371">and</w> <w id="w11372">became</w> <w id="w11373">straight</w> <w id="w11374">following</w> <w id="w11375">hyperosmotic</w> <w id="w11376">stress</w> <w id="w11377">,</w> <w id="w11378">forming</w> <w id="w11379">a</w> <w id="w11380">polygonal</w> <w id="w11381">structure</w> <w id="w11382">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2650" gid="g2538" t="Gene/protein/RNA" fr="w11354" to="w11356" nam="yes">
+     <textspan type="extent">myosin-II heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.732.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2651" gid="g2539" t="Gene/protein/RNA" fr="w11368" to="w11368" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.732.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

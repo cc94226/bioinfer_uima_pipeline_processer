@@ -1,0 +1,49 @@
+<rexml>
+<doc id="830">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12851" g="E1" t="mod" cr="mod:w12862" w="Interestingly" l="~" p="A"/>
+     <dpg d="w12852" g="E1" t="punc" cr="punc:w12862" w="," l="~" p="U"/>
+     <dpg d="w12853" g="w12854" t="det" cr="det:w12854" w="the" l="~" p="Det"/>
+     <dpg d="w12854" g="w12862" t="s" cr="subj:w12856||s+obj:w12862" w="regions" l="region" p="N"/>
+     <dpg d="E0" g="w12854" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12855" g="E0" t="whn" cr="whn:w12856" w="that" l="~" p="THAT"/>
+     <dpg d="w12855" g="w12854" t="antecedent" cr="antecedent:w12854" w="that" l="~" p="THAT"/>
+     <dpg d="w12856" g="E0" t="i" cr="rel:w12854" w="show" l="~" p="V"/>
+     <dpg d="E4" g="w12856" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E4" g="w12854" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w12857" g="w12858" t="det" cr="det:w12858" w="the" l="~" p="Det"/>
+     <dpg d="w12858" g="w12856" t="obj1" cr="obj1:w12856" w="most" l="~" p="N"/>
+     <dpg d="w12859" g="w12860" t="mod" cr="mod:w12860" w="structural" l="~" p="A"/>
+     <dpg d="w12860" g="w12856" t="obj2" cr="obj2:w12856" w="diversity" l="~" p="N"/>
+     <dpg d="w12861" g="w12862" t="be" cr="be:w12862" w="are" l="be" p="be"/>
+     <dpg d="w12862" g="E1" t="i" cr="UNSPECRELTYPE:w12865" w="located" l="locate" p="V"/>
+     <dpg d="E5" g="w12862" t="obj" cr="" w="" l="region" p="N"/>
+     <dpg d="E5" g="w12854" t="antecedent" cr="" w="" l="region" p="N"/>
+     <dpg d="w12863" g="E3" t="punc" cr="punc:w12865" w="at" l="~" p="U"/>
+     <dpg d="w12864" g="E3" t="punc" cr="punc:w12865" w="or" l="~" p="U"/>
+     <dpg d="w12865" g="E3" t="i" cr="" w="near" l="~" p="V"/>
+     <dpg d="w12866" g="w12870" t="det" cr="det:w12870" w="the" l="~" p="Det"/>
+     <dpg d="w12867" g="w12869" t="lex-mod" cr="lex-mod:w12869" w="actin" l="~" p="U"/>
+     <dpg d="w12868" g="w12869" t="lex-mod" cr="lex-mod:w12869" w="-" l="~" p="U"/>
+     <dpg d="w12869" g="w12870" t="mod" cr="mod:w12870" w="binding" l="actin - binding" p="A"/>
+     <dpg d="w12870" g="w12865" t="obj" cr="obj:w12865" w="site" l="~" p="N"/>
+     <dpg d="w12871" g="w12870" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12872" g="w12871" t="pcomp-n" cr="mod*of*n:w12870" w="profilin" l="~" p="N"/>
+     <dpg d="w12873" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

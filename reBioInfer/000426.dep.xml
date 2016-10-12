@@ -1,0 +1,68 @@
+<rexml>
+<doc id="426">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6135" g="w6136" t="mod" cr="mod:w6136" w="Electrical" l="~" p="A"/>
+     <dpg d="w6136" g="w6142" t="s" cr="s+subj:w6142" w="stimulation" l="~" p="N"/>
+     <dpg d="w6137" g="w6136" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6138" g="w6139" t="nn" cr="nn:w6139" w="cardiocyte" l="~" p="N"/>
+     <dpg d="w6139" g="w6137" t="pcomp-n" cr="mod*of*n:w6136" w="contraction" l="~" p="N"/>
+     <dpg d="w6140" g="w6142" t="aux" cr="aux:w6142" w="did" l="do" p="Aux"/>
+     <dpg d="w6141" g="w6140" t="neg" cr="neg:w6140" w="not" l="~" p="A"/>
+     <dpg d="w6142" g="E2" t="i" cr="" w="enhance" l="~" p="V"/>
+     <dpg d="E4" g="w6142" t="subj" cr="" w="" l="stimulation" p="N"/>
+     <dpg d="E4" g="w6136" t="antecedent" cr="" w="" l="stimulation" p="N"/>
+     <dpg d="w6143" g="w6144" t="mod" cr="mod:w6144" w="alpha-cardiac" l="alpha-cardiac" p="A"/>
+     <dpg d="w6144" g="w6142" t="obj" cr="obj:w6142" w="actin" l="~" p="N"/>
+     <dpg d="w6145" g="E2" t="punc" cr="punc:w6142" w="or" l="~" p="U"/>
+     <dpg d="E1" g="E2" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6146" g="w6147" t="nn" cr="nn:w6147" w="myosin" l="~" p="N"/>
+     <dpg d="w6147" g="w6148" t="s" cr="s+subj:w6148" w="heavy" l="~" p="N"/>
+     <dpg d="w6148" g="E1" t="i" cr="conj:w6142" w="chain" l="~" p="V"/>
+     <dpg d="E5" g="w6148" t="subj" cr="" w="" l="heavy" p="N"/>
+     <dpg d="E5" g="w6147" t="antecedent" cr="" w="" l="heavy" p="N"/>
+     <dpg d="w6149" g="w6148" t="punc" cr="punc:w6148" w="(" l="~" p="U"/>
+     <dpg d="w6150" g="w6156" t="mod" cr="mod:w6156" w="alpha" l="~" p="A"/>
+     <dpg d="w6151" g="w6156" t="nn" cr="nn:w6156" w="+" l="~" p="N"/>
+     <dpg d="w6152" g="w6156" t="nn" cr="nn:w6156" w="beta" l="~" p="N"/>
+     <dpg d="w6153" g="w6156" t="punc" cr="punc:w6156" w=")" l="~" p="U"/>
+     <dpg d="w6154" g="w6156" t="nn" cr="nn:w6156" w="mRNA" l="~" p="N"/>
+     <dpg d="w6155" g="w6156" t="nn" cr="nn:w6156" w="transcript" l="~" p="N"/>
+     <dpg d="w6156" g="w6148" t="obj" cr="obj:w6148" w="levels" l="level" p="N"/>
+     <dpg d="w6157" g="w6156" t="pnmod" cr="pnmod:w6156" w="relative" l="~" p="A"/>
+     <dpg d="w6158" g="w6157" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w6159" g="w6160" t="nn" cr="nn:w6160" w="28S" l="~" p="N"/>
+     <dpg d="w6160" g="w6158" t="pcomp-n" cr="mod*to*n:w6157" w="rRNA" l="~" p="N"/>
+     <dpg d="w6161" g="w6160" t="mod" cr="" w="during" l="~" p="Prep"/>
+     <dpg d="w6162" g="w6163" t="det" cr="det:w6163" w="the" l="~" p="Det"/>
+     <dpg d="w6163" g="w6161" t="pcomp-n" cr="mod*during*n:w6160" w="period" l="~" p="N"/>
+     <dpg d="w6164" g="w6163" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6165" g="w6166" t="nn" cr="nn:w6166" w="rapid" l="~" p="N"/>
+     <dpg d="w6166" g="w6164" t="pcomp-n" cr="mod*of*n:w6163||subj:w6168" w="growth" l="~" p="N"/>
+     <dpg d="E0" g="w6166" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6167" g="E0" t="whn" cr="whn:w6168" w="that" l="~" p="THAT"/>
+     <dpg d="w6167" g="w6166" t="antecedent" cr="antecedent:w6166" w="that" l="~" p="THAT"/>
+     <dpg d="w6168" g="E0" t="i" cr="rel:w6166" w="occurred" l="occur" p="V"/>
+     <dpg d="E6" g="w6168" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E6" g="w6166" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w6169" g="w6168" t="mod" cr="" w="over" l="~" p="Prep"/>
+     <dpg d="w6170" g="w6173" t="det" cr="det:w6173" w="the" l="~" p="Det"/>
+     <dpg d="w6171" g="w6172" t="lex-mod" cr="lex-mod:w6172" w="first" l="~" p="U"/>
+     <dpg d="w6172" g="w6173" t="amount-value" cr="amount-value:w6173" w="48" l="first 48" p="N"/>
+     <dpg d="w6173" g="w6169" t="pcomp-n" cr="mod*over*n:w6168" w="hours" l="~" p="N"/>
+     <dpg d="w6174" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

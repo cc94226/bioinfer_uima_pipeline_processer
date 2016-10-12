@@ -1,0 +1,38 @@
+<rexml>
+<doc id="1328">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20722" g="w20725" t="det" cr="det:w20725" w="The" l="~" p="Det"/>
+     <dpg d="w20723" g="w20725" t="mod" cr="mod:w20725" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w20724" g="w20725" t="nn" cr="nn:w20725" w="protein" l="~" p="N"/>
+     <dpg d="w20725" g="w20726" t="s" cr="s+subj:w20726||subj:w20730" w="profilin" l="~" p="N"/>
+     <dpg d="w20726" g="E0" t="i" cr="" w="binds" l="bind" p="V"/>
+     <dpg d="E2" g="w20726" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E2" g="w20725" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w20727" g="w20726" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w20728" g="w20727" t="pcomp-n" cr="mod*to*n:w20726" w="PIP2" l="~" p="N"/>
+     <dpg d="w20729" g="w20726" t="punc" cr="punc:w20726" w="and" l="~" p="U"/>
+     <dpg d="w20730" g="w20726" t="conj" cr="conj:w20726" w="inhibits" l="inhibit" p="V"/>
+     <dpg d="E3" g="w20730" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E3" g="w20725" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w20731" g="w20732" t="gen" cr="gen:w20732" w="its" l="~" p="N"/>
+     <dpg d="w20732" g="w20730" t="obj" cr="obj:w20730" w="hydrolysis" l="~" p="N"/>
+     <dpg d="w20733" g="w20732" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w20734" g="w20735" t="nn" cr="nn:w20735" w="phospholipase" l="~" p="N"/>
+     <dpg d="w20735" g="w20733" t="pcomp-n" cr="mod*by*n:w20732" w="C" l="~" p="N"/>
+     <dpg d="w20736" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

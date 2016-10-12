@@ -1,0 +1,35 @@
+<rexml>
+<doc id="1430">
+  <text>
+<p><s id="s1"><w id="w22411">The</w> <w id="w22412">concentration</w> <w id="w22413">of</w> <w id="w22414">beta-catenin</w> <w id="w22415">was</w> <w id="w22416">constant</w> <w id="w22417">during</w> <w id="w22418">the</w> <w id="w22419">follicular</w> <w id="w22420">phase</w> <w id="w22421">,</w> <w id="w22422">whereas</w> <w id="w22423">the</w> <w id="w22424">content</w> <w id="w22425">of</w> <w id="w22426">alpha-catenin</w> <w id="w22427">decreased</w> <w id="w22428">in</w> <w id="w22429">granulosa</w> <w id="w22430">cells</w> <w id="w22431">after</w> <w id="w22432">treatment</w> <w id="w22433">with</w> <w id="w22434">diethylstilboestrol</w> <w id="w22435">or</w> <w id="w22436">hCG</w> <w id="w22437">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5198" gid="g4959" t="Gene/protein/RNA" fr="w22414" to="w22414" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1430.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5199" gid="g4960" t="Gene/protein/RNA" fr="w22426" to="w22426" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1430.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

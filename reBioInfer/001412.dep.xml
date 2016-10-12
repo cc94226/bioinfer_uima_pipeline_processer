@@ -1,0 +1,44 @@
+<rexml>
+<doc id="1412">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22100" g="w22103" t="det" cr="det:w22103" w="The" l="~" p="Det"/>
+     <dpg d="w22101" g="w22103" t="mod" cr="mod:w22103" w="cardiac" l="~" p="A"/>
+     <dpg d="w22102" g="w22103" t="mod" cr="mod:w22103" w="ventricular" l="~" p="A"/>
+     <dpg d="w22103" g="w22105" t="s" cr="s+subj:w22105" w="myosin" l="~" p="N"/>
+     <dpg d="w22104" g="w22105" t="mod-before" cr="mod-before:w22105" w="heavy" l="~" p="A"/>
+     <dpg d="w22105" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="chain" l="~" p="V"/>
+     <dpg d="E3" g="w22105" t="subj" cr="" w="" l="myosin" p="N"/>
+     <dpg d="E3" g="w22103" t="antecedent" cr="" w="" l="myosin" p="N"/>
+     <dpg d="w22106" g="w22105" t="obj" cr="obj:w22105" w="phenotype" l="~" p="N"/>
+     <dpg d="w22107" g="E2" t="punc" cr="punc:E2" w="is" l="~" p="U"/>
+     <dpg d="w22108" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="developmentally" l="~" p="A"/>
+     <dpg d="w22109" g="w22108" t="punc" cr="punc:w22108" w="and" l="~" p="U"/>
+     <dpg d="w22110" g="w22108" t="conj" cr="conj:w22108" w="hormonally" l="~" p="A"/>
+     <dpg d="w22111" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="regulated" l="~" p="A"/>
+     <dpg d="w22112" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w22113" g="E2" t="punc" cr="punc:E2" w="but" l="~" p="U"/>
+     <dpg d="w22114" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="less" l="~" p="A"/>
+     <dpg d="w22115" g="E2" t="punc" cr="punc:E2" w="is" l="~" p="U"/>
+     <dpg d="w22116" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="known" l="~" p="A"/>
+     <dpg d="w22117" g="w22116" t="mod" cr="" w="concerning" l="~" p="Prep"/>
+     <dpg d="w22118" g="w22120" t="det" cr="det:w22120" w="the" l="~" p="Det"/>
+     <dpg d="w22119" g="w22120" t="nn" cr="nn:w22120" w="actin" l="~" p="N"/>
+     <dpg d="w22120" g="w22117" t="pcomp-n" cr="mod*concerning*n:w22116" w="phenotype" l="~" p="N"/>
+     <dpg d="w22121" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,67 @@
+<rexml>
+<doc id="2199">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w33982" g="E2" t="mod" cr="mod:w33992" w="When" l="~" p="A"/>
+     <dpg d="w33983" g="w33982" t="comp1" cr="comp1:w33982" w="measured" l="measure" p="V"/>
+     <dpg d="E4" g="w33983" t="ECR" cr="ECR+obj:w33983" w="" l="~" p="EC"/>
+     <dpg d="E7" g="w33983" t="obj" cr="" w="" l="~" p="EC"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="~" p="EC"/>
+     <dpg d="w33984" g="w33983" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w33985" g="w33986" t="det" cr="det:w33986" w="the" l="~" p="Det"/>
+     <dpg d="w33986" g="w33984" t="pcomp-n" cr="mod*in*n:w33983" w="absence" l="~" p="N"/>
+     <dpg d="w33987" g="w33986" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33988" g="w33987" t="pcomp-n" cr="mod*of*n:w33986" w="profilin" l="~" p="N"/>
+     <dpg d="w33989" g="E2" t="punc" cr="punc:w33992" w="," l="~" p="U"/>
+     <dpg d="w33990" g="w33991" t="nn" cr="nn:w33991" w="actin" l="~" p="N"/>
+     <dpg d="w33991" g="w33992" t="s" cr="s+subj:w33992" w="assembly" l="~" p="N"/>
+     <dpg d="w33992" g="E2" t="i" cr="UNSPECRELTYPE:E6" w="curves" l="curve" p="V"/>
+     <dpg d="E8" g="w33992" t="subj" cr="" w="" l="assembly" p="N"/>
+     <dpg d="E8" g="w33991" t="antecedent" cr="" w="" l="assembly" p="N"/>
+     <dpg d="w33993" g="w33992" t="mod" cr="" w="over" l="~" p="Prep"/>
+     <dpg d="w33994" g="w33996" t="det" cr="det:w33996" w="a" l="~" p="Det"/>
+     <dpg d="w33995" g="w33996" t="nn" cr="nn:w33996" w="0.7-4" l="0.7-4" p="N"/>
+     <dpg d="w33996" g="w33993" t="pcomp-n" cr="mod*over*n:w33992" w="microM" l="~" p="N"/>
+     <dpg d="E1" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w33997" g="w33999" t="mod" cr="mod:w33999" w="thymosin-beta4" l="thymosin-beta4" p="A"/>
+     <dpg d="w33998" g="w33999" t="nn" cr="nn:w33999" w="concentration" l="~" p="N"/>
+     <dpg d="w33999" g="w34000" t="s" cr="s+subj:w34000" w="range" l="~" p="N"/>
+     <dpg d="w34000" g="E1" t="i" cr="UNSPECRELTYPE:E6" w="fit" l="~" p="V"/>
+     <dpg d="E9" g="w34000" t="subj" cr="" w="" l="range" p="N"/>
+     <dpg d="E9" g="w33999" t="antecedent" cr="" w="" l="range" p="N"/>
+     <dpg d="w34001" g="w34003" t="det" cr="det:w34003" w="a" l="~" p="Det"/>
+     <dpg d="w34002" g="w34003" t="mod" cr="mod:w34003" w="simple" l="~" p="A"/>
+     <dpg d="w34003" g="w34000" t="obj" cr="obj:w34000||s+subj:w34004" w="monomer" l="~" p="N"/>
+     <dpg d="E0" g="w34003" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w34003" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w34004" g="E0" t="i" cr="rel:w34003" w="sequestering" l="sequester" p="V"/>
+     <dpg d="E10" g="w34004" t="subj" cr="" w="" l="monomer" p="N"/>
+     <dpg d="E10" g="E3" t="antecedent" cr="" w="" l="monomer" p="N"/>
+     <dpg d="w34005" g="w34004" t="obj" cr="obj:w34004" w="model" l="~" p="N"/>
+     <dpg d="w34006" g="w34005" t="punc" cr="punc:w34005" w="(" l="~" p="U"/>
+     <dpg d="w34007" g="w34009" t="num" cr="num:w34009" w="1" l="~" p="N"/>
+     <dpg d="w34008" g="w34009" t="nn" cr="nn:w34009" w="microM" l="~" p="N"/>
+     <dpg d="w34009" g="w34004" t="punc" cr="punc:w34004" w="K(D)" l="~" p="U"/>
+     <dpg d="w34010" g="w34004" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w34011" g="w34010" t="pcomp-n" cr="mod*for*n:w34004" w="Thymosin-beta4" l="Thymosin-beta4" p="N"/>
+     <dpg d="w34012" g="E6" t="punc" cr="punc:E6" w="." l="~" p="U"/>
+     <dpg d="w34013" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="Actin" l="~" p="N"/>
+     <dpg d="w34014" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w34015" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

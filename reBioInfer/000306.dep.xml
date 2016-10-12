@@ -1,0 +1,38 @@
+<rexml>
+<doc id="306">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w4710" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="Characterization" l="~" p="N"/>
+     <dpg d="w4711" g="w4710" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4712" g="w4714" t="det" cr="det:w4714" w="a" l="~" p="Det"/>
+     <dpg d="w4713" g="w4714" t="mod" cr="mod:w4714" w="mutant" l="~" p="A"/>
+     <dpg d="w4714" g="w4711" t="pcomp-n" cr="mod*of*n:w4710" w="profilin" l="~" p="N"/>
+     <dpg d="w4715" g="w4714" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w4716" g="w4720" t="mod" cr="mod:w4720" w="reduced" l="~" p="A"/>
+     <dpg d="w4717" g="w4719" t="lex-mod" cr="lex-mod:w4719" w="actin" l="~" p="U"/>
+     <dpg d="w4718" g="w4719" t="lex-mod" cr="lex-mod:w4719" w="-" l="~" p="U"/>
+     <dpg d="w4719" g="w4720" t="mod" cr="mod:w4720" w="binding" l="actin - binding" p="A"/>
+     <dpg d="w4720" g="w4715" t="pcomp-n" cr="mod*with*n:w4714" w="capacity" l="~" p="N"/>
+     <dpg d="w4721" g="E1" t="punc" cr="punc:E1" w=":" l="~" p="U"/>
+     <dpg d="w4722" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="effects" l="effect" p="N"/>
+     <dpg d="w4723" g="w4724" t="lex-mod" cr="lex-mod:w4724" w="in" l="~" p="U"/>
+     <dpg d="w4724" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w4725" g="w4724" t="punc" cr="punc:w4724" w="and" l="~" p="U"/>
+     <dpg d="w4726" g="w4727" t="lex-mod" cr="lex-mod:w4727" w="in" l="~" p="U"/>
+     <dpg d="w4727" g="w4724" t="conj" cr="conj:w4724" w="vivo" l="in vivo" p="A"/>
+     <dpg d="w4728" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

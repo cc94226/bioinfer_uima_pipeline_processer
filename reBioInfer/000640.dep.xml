@@ -1,0 +1,61 @@
+<rexml>
+<doc id="640">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9638" g="E2" t="mod" cr="mod:w9642" w="However" l="~" p="A"/>
+     <dpg d="w9639" g="E2" t="punc" cr="punc:w9642" w="," l="~" p="U"/>
+     <dpg d="w9640" g="w9641" t="det" cr="det:w9641" w="these" l="~" p="Det"/>
+     <dpg d="w9641" g="w9642" t="s" cr="s+subj:w9642||s+subj:w9652" w="mutants" l="mutant" p="N"/>
+     <dpg d="w9642" g="E2" t="i" cr="" w="displayed" l="display" p="V"/>
+     <dpg d="E5" g="w9642" t="subj" cr="" w="" l="mutant" p="N"/>
+     <dpg d="E5" g="w9641" t="antecedent" cr="" w="" l="mutant" p="N"/>
+     <dpg d="w9643" g="w9645" t="det" cr="det:w9645" w="a" l="~" p="Det"/>
+     <dpg d="w9644" g="w9645" t="mod" cr="mod:w9645" w="lower" l="low" p="A"/>
+     <dpg d="w9645" g="w9642" t="obj" cr="obj:w9642" w="affinity" l="~" p="N"/>
+     <dpg d="w9646" g="w9645" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w9647" g="w9646" t="pcomp-n" cr="mod*for*n:w9645" w="actin" l="~" p="N"/>
+     <dpg d="w9648" g="w9647" t="mod" cr="" w="than" l="~" p="Prep"/>
+     <dpg d="w9649" g="w9650" t="mod" cr="mod:w9650" w="wild-type" l="wild-type" p="A"/>
+     <dpg d="w9650" g="w9648" t="pcomp-n" cr="mod*than*n:w9647" w="profilin" l="~" p="N"/>
+     <dpg d="w9651" g="w9642" t="punc" cr="punc:w9642" w="," l="~" p="U"/>
+     <dpg d="E1" g="w9642" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w9641" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w9652" g="E1" t="i" cr="mod:w9642" w="suggesting" l="suggest" p="V"/>
+     <dpg d="E6" g="w9652" t="subj" cr="" w="" l="mutant" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="mutant" p="N"/>
+     <dpg d="E0" g="w9652" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9653" g="E0" t="c" cr="c:w9661" w="that" l="~" p="COMP"/>
+     <dpg d="w9654" g="w9656" t="mod" cr="mod:w9656" w="additional" l="~" p="A"/>
+     <dpg d="w9655" g="w9656" t="mod" cr="mod:w9656" w="putative" l="~" p="A"/>
+     <dpg d="w9656" g="w9661" t="s" cr="obj:w9657||s+subj:w9661" w="bonds" l="bond" p="N"/>
+     <dpg d="w9657" g="w9656" t="vrel" cr="vrel:w9656" w="created" l="create" p="V"/>
+     <dpg d="E7" g="w9657" t="obj" cr="" w="" l="bond" p="N"/>
+     <dpg d="E7" g="w9656" t="antecedent" cr="" w="" l="bond" p="N"/>
+     <dpg d="w9658" g="w9659" t="det" cr="det:w9659" w="this" l="~" p="Det"/>
+     <dpg d="w9659" g="w9657" t="mod" cr="mod:w9657" w="way" l="~" p="N"/>
+     <dpg d="w9660" g="w9661" t="aux" cr="aux:w9661" w="cannot" l="~" p="Aux"/>
+     <dpg d="w9661" g="E0" t="i" cr="fc:w9652" w="increase" l="~" p="V"/>
+     <dpg d="E8" g="w9661" t="subj" cr="" w="" l="bond" p="N"/>
+     <dpg d="E8" g="w9656" t="antecedent" cr="" w="" l="bond" p="N"/>
+     <dpg d="w9662" g="w9664" t="gen" cr="gen:w9664" w="profilin" l="~" p="N"/>
+     <dpg d="w9663" g="w9662" t="poss" cr="poss:w9662" w="'s" l="~" p="U"/>
+     <dpg d="w9664" g="w9661" t="obj" cr="obj:w9661" w="affinity" l="~" p="N"/>
+     <dpg d="w9665" g="w9664" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w9666" g="w9665" t="pcomp-n" cr="mod*for*n:w9664" w="actin" l="~" p="N"/>
+     <dpg d="w9667" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

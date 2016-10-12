@@ -1,0 +1,67 @@
+<rexml>
+<doc id="2117">
+  <text>
+<p><s id="s1"><w id="w33266">We</w> <w id="w33267">investigated</w> <w id="w33268">actin</w> <w id="w33269">filament</w> <w id="w33270">turnover</w> <w id="w33271">rates</w> <w id="w33272">,</w> <w id="w33273">length</w> <w id="w33274">,</w> <w id="w33275">number</w> <w id="w33276">,</w> <w id="w33277">barbed</w> <w id="w33278">end</w> <w id="w33279">exposure</w> <w id="w33280">,</w> <w id="w33281">and</w> <w id="w33282">binding</w> <w id="w33283">of</w> <w id="w33284">cofilin</w> <w id="w33285">in</w> <w id="w33286">bovine</w> <w id="w33287">arterial</w> <w id="w33288">endothelial</w> <w id="w33289">cells</w> <w id="w33290">moving</w> <w id="w33291">at</w> <w id="w33292">different</w> <w id="w33293">speeds</w> <w id="w33294">depending</w> <w id="w33295">on</w> <w id="w33296">their</w> <w id="w33297">position</w> <w id="w33298">in</w> <w id="w33299">a</w> <w id="w33300">confluent</w> <w id="w33301">monolayer</w> <w id="w33302">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7585" gid="g7229" t="Cell_component" fr="w33268" to="w33269" nam="yes">
+     <textspan type="extent">actin filament</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.2117.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7586" gid="g7230" t="RELATIONSHIP_TEXTBINDING" fr="w33282" to="w33283">
+     <textspan type="extent">binding of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2117.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7587" gid="g7231" t="Individual_protein" fr="w33284" to="w33284" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2117.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7588" gid="g7232" t="Individual_protein" fr="w33268" to="w33268" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2117.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2915" t="BIND" e1="e7585" e2="e7587" re="e7586">
+     <textspan type="extent">actin filament turnover rates , length , number , barbed end exposure , and binding of cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2117.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

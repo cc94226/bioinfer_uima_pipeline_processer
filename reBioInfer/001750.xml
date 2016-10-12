@@ -1,0 +1,223 @@
+<rexml>
+<doc id="1750">
+  <text>
+<p><s id="s1"><w id="w27848">These</w> <w id="w27849">results</w> <w id="w27850">suggest</w> <w id="w27851">that</w> <w id="w27852">muscle-specific</w> <w id="w27853">processing</w> <w id="w27854">of</w> <w id="w27855">tropomyosin</w> <w id="w27856">transcripts</w> <w id="w27857">can</w> <w id="w27858">continue</w> <w id="w27859">to</w> <w id="w27860">occur</w> <w id="w27861">in</w> <w id="w27862">the</w> <w id="w27863">absence</w> <w id="w27864">of</w> <w id="w27865">myogenin</w> <w id="w27866">expression</w> <w id="w27867">unlike</w> <w id="w27868">the</w> <w id="w27869">expression</w> <w id="w27870">of</w> <w id="w27871">muscle</w> <w id="w27872">actin</w> <w id="w27873">and</w> <w id="w27874">myosin</w> <w id="w27875">heavy</w> <w id="w27876">chain</w> <w id="w27877">mRNAs</w> <w id="w27878">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6425" gid="g6131" t="Process_entity" fr="w27853" to="w27856">
+     <textspan type="extent">processing of tropomyosin transcripts</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.1750.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6426" gid="g6132" t="RELATIONSHIP_TEXTBINDING" fr="w27858" to="w27860">
+     <textspan type="extent">continue to occur</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1750.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6427" gid="g6133" t="Expression" fr="w27869" to="w27877">
+     <textspan type="extent">expression of muscle actin [..] mRNAs</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.1750.2"/>
+      <exattr n="nst" v="st.1750.21.0"/>
+      <exattr n="nst" v="st.1750.22.0"/>
+      <exattr n="nst" v="st.1750.23.0"/>
+      <exattr n="nst" v="st.1750.24.0"/>
+      <exattr n="nst" v="st.1750.29.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6428" gid="g6134" t="Expression" fr="w27865" to="w27866">
+     <textspan type="extent">myogenin expression</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.1750.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6429" gid="g6135" t="Individual_RNA_molecule" fr="w27855" to="w27856" nam="yes">
+     <textspan type="extent">tropomyosin transcripts</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="RNA"/>
+      <exattr n="t7" v="Individual_RNA_molecule"/>
+      <exattr n="bd" v="e.1750.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6430" gid="g6136" t="Expression" fr="w27869" to="w27877">
+     <textspan type="extent">expression of [..] myosin heavy chain mRNAs</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.1750.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6431" gid="g6137" t="Individual_RNA_molecule" fr="w27874" to="w27877" nam="yes">
+     <textspan type="extent">myosin heavy chain mRNAs</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="RNA"/>
+      <exattr n="t7" v="Individual_RNA_molecule"/>
+      <exattr n="bd" v="e.1750.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6432" gid="g6138" t="Individual_RNA_molecule" fr="w27871" to="w27877" nam="yes">
+     <textspan type="extent">muscle actin [..] mRNAs</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="RNA"/>
+      <exattr n="t7" v="Individual_RNA_molecule"/>
+      <exattr n="bd" v="e.1750.7"/>
+      <exattr n="nst" v="st.1750.23.0"/>
+      <exattr n="nst" v="st.1750.24.0"/>
+      <exattr n="nst" v="st.1750.29.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6433" gid="g6139" t="RELATIONSHIP_TEXTBINDING" fr="w27867" to="w27867">
+     <textspan type="extent">unlike</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1750.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6434" gid="g6140" t="RELATIONSHIP_TEXTBINDING" fr="w27863" to="w27864">
+     <textspan type="extent">absence of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1750.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6435" gid="g6141" t="Individual_protein" fr="w27871" to="w27872" nam="yes">
+     <textspan type="extent">muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1750.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e6436" gid="g6142" t="Individual_protein" fr="w27865" to="w27865" nam="yes">
+     <textspan type="extent">myogenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1750.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e6437" gid="g6143" t="Individual_protein" fr="w27871" to="w27872" nam="yes">
+     <textspan type="extent">muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1750.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e6438" gid="g6144" t="Individual_protein" fr="w27874" to="w27876" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1750.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e6439" gid="g6145" t="Individual_protein" fr="w27855" to="w27855" nam="yes">
+     <textspan type="extent">tropomyosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1750.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e6440" gid="g6146" t="Individual_protein" fr="w27874" to="w27876" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1750.15"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2460" t="CONDITION" e1="e6428" e2="e6425" re="e6426">
+     <textspan type="extent">processing of tropomyosin transcripts can continue to occur in the absence of myogenin expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1750.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2463" t="CONDITION" e1="e6428" e2="e6427" re="e6426">
+     <textspan type="extent">continue to occur in the absence of myogenin expression unlike the expression of muscle actin and myosin heavy chain mRNAs</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1750.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2466" t="CONDITION" e1="e6428" e2="e6430" re="e6426">
+     <textspan type="extent">continue to occur in the absence of myogenin expression unlike the expression of muscle actin and myosin heavy chain mRNAs</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1750.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

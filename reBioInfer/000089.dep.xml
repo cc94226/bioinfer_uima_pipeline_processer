@@ -1,0 +1,72 @@
+<rexml>
+<doc id="89">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w1442" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="Although" l="~" p="SentAdjunct"/>
+     <dpg d="E3" g="w1442" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1443" g="w1446" t="s" cr="s+obj:w1446||s+subj:w1448" w="talin" l="~" p="N"/>
+     <dpg d="w1444" g="w1446" t="have" cr="have:w1446" w="has" l="have" p="have"/>
+     <dpg d="w1445" g="w1446" t="be" cr="be:w1446" w="been" l="be" p="be"/>
+     <dpg d="w1446" g="E3" t="i" cr="comp1:w1442" w="suggested" l="suggest" p="V"/>
+     <dpg d="E7" g="w1446" t="obj" cr="" w="" l="talin" p="N"/>
+     <dpg d="E7" g="w1443" t="antecedent" cr="" w="" l="talin" p="N"/>
+     <dpg d="E2" g="w1453" t="s" cr="s+subj:w1453" w="" l="inf" p="CN"/>
+     <dpg d="E1" g="E2" t="cn" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w1443" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w1447" g="w1448" t="aux" cr="aux:w1448" w="to" l="~" p="Aux"/>
+     <dpg d="w1448" g="E1" t="i" cr="cn:E2" w="act" l="act as" p="V"/>
+     <dpg d="w1449" g="w1448" t="lex-mod" cr="lex-mod:w1448" w="as" l="~" p="U"/>
+     <dpg d="E8" g="w1448" t="subj" cr="" w="" l="talin" p="N"/>
+     <dpg d="E8" g="E4" t="antecedent" cr="" w="" l="talin" p="N"/>
+     <dpg d="w1450" g="w1452" t="det" cr="det:w1452" w="a" l="~" p="Det"/>
+     <dpg d="w1451" g="w1452" t="nn" cr="nn:w1452" w="linkage" l="~" p="N"/>
+     <dpg d="w1452" g="w1448" t="obj" cr="obj:w1448" w="protein" l="~" p="N"/>
+     <dpg d="w1453" g="w1446" t="mod" cr="mod:w1446" w="mediating" l="mediate" p="V"/>
+     <dpg d="E9" g="w1453" t="subj" cr="" w="" l="inf" p="CN"/>
+     <dpg d="E9" g="E2" t="antecedent" cr="" w="" l="inf" p="CN"/>
+     <dpg d="w1454" g="w1455" t="det" cr="det:w1455" w="the" l="~" p="Det"/>
+     <dpg d="w1455" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="attachment" l="~" p="N"/>
+     <dpg d="w1456" g="w1455" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w1457" g="w1460" t="lex-mod" cr="lex-mod:w1460" w="GP" l="~" p="U"/>
+     <dpg d="w1458" g="w1460" t="lex-mod" cr="lex-mod:w1460" w="IIb" l="~" p="U"/>
+     <dpg d="w1459" g="w1460" t="lex-mod" cr="lex-mod:w1460" w="-" l="~" p="U"/>
+     <dpg d="w1460" g="w1456" t="pcomp-n" cr="mod*of*n:w1455" w="IIIa" l="GP IIb - IIIa" p="N"/>
+     <dpg d="w1461" g="w1460" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w1462" g="w1463" t="nn" cr="nn:w1463" w="actin" l="~" p="N"/>
+     <dpg d="w1463" g="w1461" t="pcomp-n" cr="mod*to*n:w1460" w="filaments" l="filament" p="N"/>
+     <dpg d="w1464" g="E6" t="punc" cr="punc:E6" w="," l="~" p="U"/>
+     <dpg d="E0" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1465" g="w1466" t="mod" cr="mod:w1466" w="direct" l="~" p="A"/>
+     <dpg d="w1466" g="w1479" t="s" cr="s+obj:w1479" w="binding" l="~" p="N"/>
+     <dpg d="w1467" g="w1466" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w1468" g="w1471" t="lex-mod" cr="lex-mod:w1471" w="GP" l="~" p="U"/>
+     <dpg d="w1469" g="w1471" t="lex-mod" cr="lex-mod:w1471" w="IIb" l="~" p="U"/>
+     <dpg d="w1470" g="w1471" t="lex-mod" cr="lex-mod:w1471" w="-" l="~" p="U"/>
+     <dpg d="w1471" g="w1467" t="pcomp-n" cr="mod*of*n:w1466" w="IIIa" l="GP IIb - IIIa" p="N"/>
+     <dpg d="w1472" g="w1471" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w1473" g="w1475" t="det" cr="det:w1475" w="this" l="~" p="Det"/>
+     <dpg d="w1474" g="w1475" t="mod" cr="mod:w1475" w="cytoskeletal" l="~" p="A"/>
+     <dpg d="w1475" g="w1472" t="pcomp-n" cr="mod*to*n:w1471" w="protein" l="~" p="N"/>
+     <dpg d="w1476" g="w1479" t="have" cr="have:w1479" w="has" l="have" p="have"/>
+     <dpg d="w1477" g="w1479" t="guest" cr="guest:w1479" w="not" l="~" p="A"/>
+     <dpg d="w1478" g="w1479" t="be" cr="be:w1479" w="been" l="be" p="be"/>
+     <dpg d="w1479" g="E0" t="i" cr="UNSPECRELTYPE:E6" w="demonstrated" l="demonstrate" p="V"/>
+     <dpg d="E10" g="w1479" t="obj" cr="" w="" l="binding" p="N"/>
+     <dpg d="E10" g="w1466" t="antecedent" cr="" w="" l="binding" p="N"/>
+     <dpg d="w1480" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

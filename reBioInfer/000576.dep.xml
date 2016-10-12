@@ -1,0 +1,51 @@
+<rexml>
+<doc id="576">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8321" g="E0" t="mod" cr="mod:w8323" w="Here" l="~" p="N"/>
+     <dpg d="w8322" g="w8323" t="s" cr="s+subj:w8323" w="we" l="~" p="N"/>
+     <dpg d="w8323" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="identify" l="~" p="V"/>
+     <dpg d="E4" g="w8323" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E4" g="w8322" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w8324" g="w8325" t="det" cr="det:w8325" w="a" l="~" p="Det"/>
+     <dpg d="w8325" g="w8323" t="obj" cr="obj:w8323" w="pathway" l="~" p="N"/>
+     <dpg d="w8326" g="w8325" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w8327" g="w8328" t="det" cr="det:w8328" w="the" l="~" p="Det"/>
+     <dpg d="w8328" g="w8326" t="pcomp-n" cr="mod*for*n:w8325" w="regulation" l="~" p="N"/>
+     <dpg d="w8329" g="w8328" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w8330" g="w8329" t="pcomp-n" cr="mod*of*n:w8328" w="cofilin" l="~" p="N"/>
+     <dpg d="w8331" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w8332" g="w8335" t="det" cr="det:w8335" w="a" l="~" p="Det"/>
+     <dpg d="w8333" g="w8335" t="mod" cr="mod:w8335" w="ubiquitous" l="~" p="A"/>
+     <dpg d="w8334" g="w8335" t="mod" cr="mod:w8335" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w8335" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3||subj:w8338" w="protein" l="~" p="N"/>
+     <dpg d="E1" g="w8335" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8336" g="E1" t="whn" cr="whn:w8337" w="that" l="~" p="THAT"/>
+     <dpg d="w8336" g="w8335" t="antecedent" cr="antecedent:w8335" w="that" l="~" p="THAT"/>
+     <dpg d="w8337" g="E1" t="i" cr="rel:w8335" w="is" l="be" p="VBE"/>
+     <dpg d="w8338" g="w8337" t="pred" cr="pred:w8337" w="essential" l="~" p="N"/>
+     <dpg d="E5" g="w8338" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E5" g="w8335" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w8339" g="w8338" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w8340" g="w8341" t="mod" cr="mod:w8341" w="effective" l="~" p="A"/>
+     <dpg d="w8341" g="w8339" t="pcomp-n" cr="mod*for*n:w8338" w="depolymerization" l="~" p="N"/>
+     <dpg d="w8342" g="w8341" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w8343" g="w8344" t="nn" cr="nn:w8344" w="actin" l="~" p="N"/>
+     <dpg d="w8344" g="w8342" t="pcomp-n" cr="mod*of*n:w8341" w="filaments" l="filament" p="N"/>
+     <dpg d="w8345" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

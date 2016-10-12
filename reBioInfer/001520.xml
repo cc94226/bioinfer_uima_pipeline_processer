@@ -1,0 +1,72 @@
+<rexml>
+<doc id="1520">
+  <text>
+<p><s id="s1"><w id="w23870">The</w> <w id="w23871">inhibitory</w> <w id="w23872">effects</w> <w id="w23873">of</w> <w id="w23874">rapamycin</w> <w id="w23875">on</w> <w id="w23876">bombesin-stimulated</w> <w id="w23877">cell</w> <w id="w23878">cycle</w> <w id="w23879">progression</w> <w id="w23880">did</w> <w id="w23881">not</w> <w id="w23882">involve</w> <w id="w23883">accumulation</w> <w id="w23884">of</w> <w id="w23885">the</w> <w id="w23886">cyclin-dependent</w> <w id="w23887">kinase</w> <w id="w23888">inhibitor</w> <w id="w23889">p27</w><w id="w23890">(</w><w id="w23891">kip1</w><w id="w23892">)</w> <w id="w23893">but</w> <w id="w23894">a</w> <w id="w23895">striking</w> <w id="w23896">inhibition</w> <w id="w23897">of</w> <w id="w23898">the</w> <w id="w23899">expression</w> <w id="w23900">of</w> <w id="w23901">cyclin</w> <w id="w23902">D1</w> <w id="w23903">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5544" gid="g5297" t="Individual_protein" fr="w23889" to="w23889" nam="yes">
+     <textspan type="extent">p27</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1520.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5545" gid="g5297" t="Individual_protein" fr="w23891" to="w23891" nam="yes">
+     <textspan type="extent">kip1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1520.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5546" gid="g5298" t="Gene/protein/RNA" fr="w23901" to="w23902" nam="yes">
+     <textspan type="extent">cyclin D1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1520.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5547" gid="g5299" t="Protein_family_or_group" fr="w23886" to="w23888" nam="yes">
+     <textspan type="extent">cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1520.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2123" t="MEMBER" e1="e5547" e2="e5544" re="">
+     <textspan type="extent">cyclin-dependent kinase inhibitor p27</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

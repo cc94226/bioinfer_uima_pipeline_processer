@@ -1,0 +1,60 @@
+<rexml>
+<doc id="597">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8638" g="w8651" t="s" cr="s+subj:w8651" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w8639" g="w8638" t="punc" cr="punc:w8638" w="," l="~" p="U"/>
+     <dpg d="w8640" g="w8638" t="punc" cr="punc:w8638" w="but" l="~" p="U"/>
+     <dpg d="w8641" g="w8638" t="punc" cr="punc:w8638" w="not" l="~" p="U"/>
+     <dpg d="w8642" g="w8638" t="conj" cr="conj:w8638" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w8643" g="w8638" t="punc" cr="punc:w8638" w="," l="~" p="U"/>
+     <dpg d="w8644" g="w8638" t="appo" cr="appo:w8638" w="p120" l="~" p="N"/>
+     <dpg d="w8645" g="w8644" t="punc" cr="punc:w8644" w="(" l="~" p="U"/>
+     <dpg d="w8646" g="w8644" t="appo" cr="appo:w8644" w="cas" l="~" p="N"/>
+     <dpg d="w8647" g="w8646" t="punc" cr="punc:w8646" w=")" l="~" p="U"/>
+     <dpg d="w8648" g="w8646" t="punc" cr="punc:w8646" w="or" l="~" p="U"/>
+     <dpg d="w8649" g="w8646" t="conj" cr="conj:w8646" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w8650" g="w8651" t="punc" cr="punc:w8651" w="," l="~" p="U"/>
+     <dpg d="w8651" g="E2" t="i" cr="" w="becomes" l="become" p="V"/>
+     <dpg d="E4" g="w8651" t="subj" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="E4" g="w8638" t="antecedent" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="w8652" g="w8651" t="desc" cr="desc:w8651" w="stabilized" l="~" p="A"/>
+     <dpg d="E0" g="w8651" t="mod" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8653" g="E0" t="wha" cr="wha:w8658" w="when" l="~" p="A"/>
+     <dpg d="w8654" g="w8655" t="lex-mod" cr="lex-mod:w8655" w="proteasome" l="~" p="U"/>
+     <dpg d="w8655" g="w8656" t="mod" cr="mod:w8656" w="-mediated" l="proteasome -mediated" p="A"/>
+     <dpg d="w8656" g="w8658" t="s" cr="s+obj:w8658" w="proteolysis" l="~" p="N"/>
+     <dpg d="w8657" g="w8658" t="be" cr="be:w8658" w="is" l="be" p="be"/>
+     <dpg d="w8658" g="E0" t="i" cr="mod:w8651" w="inhibited" l="inhibit" p="V"/>
+     <dpg d="E5" g="w8658" t="obj" cr="" w="" l="proteolysis" p="N"/>
+     <dpg d="E5" g="w8656" t="antecedent" cr="" w="" l="proteolysis" p="N"/>
+     <dpg d="w8659" g="E2" t="punc" cr="punc:w8651" w="and" l="~" p="U"/>
+     <dpg d="E1" g="E2" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8660" g="w8661" t="s" cr="s+subj:w8661" w="this" l="~" p="N"/>
+     <dpg d="w8661" g="E1" t="i" cr="conj:w8651" w="leads" l="lead to" p="V"/>
+     <dpg d="w8662" g="w8661" t="lex-mod" cr="lex-mod:w8661" w="to" l="~" p="U"/>
+     <dpg d="E6" g="w8661" t="subj" cr="" w="" l="this" p="N"/>
+     <dpg d="E6" g="w8660" t="antecedent" cr="" w="" l="this" p="N"/>
+     <dpg d="w8663" g="w8664" t="det" cr="det:w8664" w="the" l="~" p="Det"/>
+     <dpg d="w8664" g="w8661" t="obj" cr="obj:w8661" w="accumulation" l="~" p="N"/>
+     <dpg d="w8665" g="w8664" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w8666" g="w8667" t="mod" cr="mod:w8667" w="multi-ubiquitinated" l="multi-ubiquitinated" p="A"/>
+     <dpg d="w8667" g="w8665" t="pcomp-n" cr="mod*of*n:w8664" w="forms" l="form" p="N"/>
+     <dpg d="w8668" g="w8667" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w8669" g="w8668" t="pcomp-n" cr="mod*of*n:w8667" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w8670" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

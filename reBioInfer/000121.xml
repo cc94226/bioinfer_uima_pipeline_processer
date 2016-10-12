@@ -1,0 +1,188 @@
+<rexml>
+<doc id="121">
+  <text>
+<p><s id="s1"><w id="w1903">Analysis</w> <w id="w1904">of</w> <w id="w1905">profilin</w> <w id="w1906">:</w> <w id="w1907">actin</w> <w id="w1908">crystals</w> <w id="w1909">reveals</w> <w id="w1910">an</w> <w id="w1911">extensive</w> <w id="w1912">intermolecular</w> <w id="w1913">network</w> <w id="w1914">,</w> <w id="w1915">rather</w> <w id="w1916">than</w> <w id="w1917">a</w> <w id="w1918">discrete</w> <w id="w1919">monomeric</w> <w id="w1920">complex</w> <w id="w1921">,</w> <w id="w1922">comprising</w> <w id="w1923">stacked</w> <w id="w1924">actin</w> <w id="w1925">ribbons</w> <w id="w1926">held</w> <w id="w1927">in</w> <w id="w1928">place</w> <w id="w1929">by</w> <w id="w1930">columns</w> <w id="w1931">of</w> <w id="w1932">profilin</w> <w id="w1933">molecules</w> <w id="w1934">,</w> <w id="w1935">wedged</w> <w id="w1936">in</w> <w id="w1937">between</w> <w id="w1938">neighboring</w> <w id="w1939">actin</w> <w id="w1940">subunits</w> <w id="w1941">and</w> <w id="w1942">running</w> <w id="w1943">perpendicular</w> <w id="w1944">to</w> <w id="w1945">the</w> <w id="w1946">ribbons</w> <w id="w1947">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e477" gid="g463" t="Individual_protein" fr="w1905" to="w1905" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.121.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e478" gid="g464" t="RELATIONSHIP_TEXTBINDING" fr="w1926" to="w1929">
+     <textspan type="extent">held [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.121.1"/>
+      <exattr n="nst" v="st.121.23.0"/>
+      <exattr n="nst" v="st.121.26.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e479" gid="g465" t="RELATIONSHIP_TEXTBINDING" fr="w1908" to="w1908">
+     <textspan type="extent">crystals</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.121.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e480" gid="g466" t="Individual_protein" fr="w1907" to="w1907" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.121.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e481" gid="g467" t="Individual_protein" fr="w1939" to="w1940" nam="yes">
+     <textspan type="extent">actin subunits</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.121.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e482" gid="g468" t="Artificial" fr="w1930" to="w1933" nam="yes">
+     <textspan type="extent">columns of profilin molecules</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Artificial"/>
+      <exattr n="bd" v="e.121.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e483" gid="g469" t="Artificial" fr="w1905" to="w1908" nam="yes">
+     <textspan type="extent">profilin : actin crystals</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Artificial"/>
+      <exattr n="bd" v="e.121.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e484" gid="g470" t="Individual_protein" fr="w1932" to="w1933" nam="yes">
+     <textspan type="extent">profilin molecules</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.121.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e485" gid="g471" t="Artificial" fr="w1924" to="w1925" nam="yes">
+     <textspan type="extent">actin ribbons</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Artificial"/>
+      <exattr n="bd" v="e.121.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e486" gid="g472" t="Individual_protein" fr="w1932" to="w1932" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.121.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e487" gid="g473" t="RELATIONSHIP_TEXTBINDING" fr="w1935" to="w1937">
+     <textspan type="extent">wedged in between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.121.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e488" gid="g474" t="Individual_protein" fr="w1924" to="w1924" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.121.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e489" gid="g475" t="Individual_protein" fr="w1939" to="w1939" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.121.12"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r186" t="HUMANMADE" e1="e483" e2="e477" re="e479">
+     <textspan type="extent">profilin : actin crystals</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.121.2"/>
+      <exattr n="t1" v="HUMANMADE"/>
+     </exattrs>
+    </rel>
+    <rel id="r187" t="HUMANMADE" e1="e483" e2="e480" re="e479">
+     <textspan type="extent">profilin : actin crystals</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.121.2"/>
+      <exattr n="t1" v="HUMANMADE"/>
+     </exattrs>
+    </rel>
+    <rel id="r188" t="LOCALIZE" e1="e482" e2="e485" re="e478">
+     <textspan type="extent">actin ribbons held in place by columns of profilin molecules</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.121.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r189" t="LOCALIZE-TO" e1="e482" e2="e481" re="e487">
+     <textspan type="extent">columns of profilin molecules , wedged in between neighboring actin subunits</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.121.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,35 @@
+<rexml>
+<doc id="71">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1154" g="w1155" t="s" cr="s+subj:w1155" w="Aip1p" l="~" p="N"/>
+     <dpg d="w1155" g="E1" t="i" cr="" w="interacts" l="interact" p="V"/>
+     <dpg d="E4" g="w1155" t="subj" cr="" w="" l="Aip1p" p="N"/>
+     <dpg d="E4" g="w1154" t="antecedent" cr="" w="" l="Aip1p" p="N"/>
+     <dpg d="w1156" g="w1155" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w1157" g="w1156" t="pcomp-n" cr="mod*with*n:w1155||s+subj:w1159" w="cofilin" l="~" p="N"/>
+     <dpg d="E0" g="w1157" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w1157" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w1158" g="w1159" t="aux" cr="aux:w1159" w="to" l="~" p="Aux"/>
+     <dpg d="w1159" g="E0" t="i" cr="rel:w1157" w="disassemble" l="~" p="V"/>
+     <dpg d="E5" g="w1159" t="subj" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="w1160" g="w1161" t="nn" cr="nn:w1161" w="actin" l="~" p="N"/>
+     <dpg d="w1161" g="w1159" t="obj" cr="obj:w1159" w="filaments" l="filament" p="N"/>
+     <dpg d="w1162" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

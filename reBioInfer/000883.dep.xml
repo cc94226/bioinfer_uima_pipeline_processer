@@ -1,0 +1,57 @@
+<rexml>
+<doc id="883">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13893" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w13894" g="w13895" t="det" cr="det:w13895" w="this" l="~" p="Det"/>
+     <dpg d="w13895" g="w13893" t="pcomp-n" cr="mod*in*n:w13897" w="work" l="~" p="N"/>
+     <dpg d="w13896" g="w13897" t="s" cr="s+subj:w13897" w="we" l="~" p="N"/>
+     <dpg d="w13897" g="E1" t="i" cr="" w="report" l="~" p="V"/>
+     <dpg d="E3" g="w13897" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E3" g="w13896" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="E0" g="w13897" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13898" g="E0" t="c" cr="c:w13916" w="that" l="~" p="COMP"/>
+     <dpg d="w13899" g="w13902" t="det" cr="det:w13902" w="the" l="~" p="Det"/>
+     <dpg d="w13900" g="w13901" t="lex-mod" cr="lex-mod:w13901" w="Saccharomyces" l="~" p="U"/>
+     <dpg d="w13901" g="w13902" t="nn" cr="nn:w13902" w="cerevisiae" l="Saccharomyces cerevisiae" p="N"/>
+     <dpg d="w13902" g="w13916" t="s" cr="s+obj:w13916" w="RAD9" l="~" p="N"/>
+     <dpg d="w13903" g="w13902" t="punc" cr="punc:w13902" w="," l="~" p="U"/>
+     <dpg d="w13904" g="w13902" t="conj" cr="conj:w13902" w="RAD24" l="~" p="N"/>
+     <dpg d="w13905" g="w13904" t="punc" cr="punc:w13904" w="," l="~" p="U"/>
+     <dpg d="w13906" g="w13904" t="conj" cr="conj:w13904" w="RAD17" l="~" p="N"/>
+     <dpg d="w13907" g="w13906" t="punc" cr="punc:w13906" w="," l="~" p="U"/>
+     <dpg d="w13908" g="w13906" t="conj" cr="conj:w13906" w="MEC1" l="~" p="N"/>
+     <dpg d="w13909" g="w13908" t="punc" cr="punc:w13908" w="," l="~" p="U"/>
+     <dpg d="w13910" g="w13908" t="conj" cr="conj:w13908" w="MEC3" l="~" p="N"/>
+     <dpg d="w13911" g="w13910" t="punc" cr="punc:w13910" w="and" l="~" p="U"/>
+     <dpg d="w13912" g="w13914" t="nn" cr="nn:w13914" w="RAD53" l="~" p="N"/>
+     <dpg d="w13913" g="w13914" t="nn" cr="nn:w13914" w="checkpoint" l="~" p="N"/>
+     <dpg d="w13914" g="w13910" t="conj" cr="conj:w13910" w="genes" l="gene" p="N"/>
+     <dpg d="w13915" g="w13916" t="be" cr="be:w13916" w="are" l="be" p="be"/>
+     <dpg d="w13916" g="E0" t="i" cr="fc:w13897" w="required" l="require" p="V"/>
+     <dpg d="E4" g="w13916" t="obj" cr="" w="" l="RAD9" p="N"/>
+     <dpg d="E4" g="w13902" t="antecedent" cr="" w="" l="RAD9" p="N"/>
+     <dpg d="w13917" g="w13916" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w13918" g="w13921" t="mod" cr="mod:w13921" w="efficient" l="~" p="A"/>
+     <dpg d="w13919" g="w13921" t="lex-mod" cr="lex-mod:w13921" w="non-homologous" l="~" p="U"/>
+     <dpg d="w13920" g="w13921" t="lex-mod" cr="lex-mod:w13921" w="end" l="~" p="U"/>
+     <dpg d="w13921" g="w13917" t="pcomp-n" cr="mod*for*n:w13916" w="joining" l="non-homologous end joining" p="N"/>
+     <dpg d="w13922" g="w13923" t="punc" cr="punc:w13923" w="(" l="~" p="U"/>
+     <dpg d="w13923" g="w13921" t="abbrev" cr="abbrev:w13921" w="NHEJ" l="~" p="N"/>
+     <dpg d="w13924" g="w13923" t="punc" cr="punc:w13923" w=")" l="~" p="U"/>
+     <dpg d="w13925" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,59 @@
+<rexml>
+<doc id="519">
+  <text>
+<p><s id="s1"><w id="w7215">From</w> <w id="w7216">these</w> <w id="w7217">we</w> <w id="w7218">have</w> <w id="w7219">isolated</w> <w id="w7220">eight</w> <w id="w7221">viable</w> <w id="w7222">and</w> <w id="w7223">lethal</w> <w id="w7224">alleles</w> <w id="w7225">of</w> <w id="w7226">the</w> <w id="w7227">muscle</w> <w id="w7228">myosin</w> <w id="w7229">heavy</w> <w id="w7230">chain</w> <w id="w7231">gene</w> <w id="w7232">,</w> <w id="w7233">and</w> <w id="w7234">seven</w> <w id="w7235">viable</w> <w id="w7236">alleles</w> <w id="w7237">of</w> <w id="w7238">the</w> <w id="w7239">indirect</w> <w id="w7240">flight</w> <w id="w7241">muscle</w> <w id="w7242">(IFM)-specific</w> <w id="w7243">Act88F</w> <w id="w7244">actin</w> <w id="w7245">gene</w> <w id="w7246">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1730" gid="g1658" t="Gene/protein/RNA" fr="w7227" to="w7230" nam="yes">
+     <textspan type="extent">muscle myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.519.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1731" gid="g1659" t="Individual_protein" fr="w7243" to="w7243" nam="yes">
+     <textspan type="extent">Act88F</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.519.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1732" gid="g1660" t="Individual_protein" fr="w7244" to="w7244" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.519.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r684" t="MEMBER" e1="e1732" e2="e1731" re="">
+     <textspan type="extent">Act88F actin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,89 @@
+<rexml>
+<doc id="44">
+  <text>
+<p><s id="s1"><w id="w628">Additional</w> <w id="w629">studies</w> <w id="w630">demonstrated</w> <w id="w631">the</w> <w id="w632">gamma-catenin</w> <w id="w633">distribution</w> <w id="w634">to</w> <w id="w635">be</w> <w id="w636">remarkably</w> <w id="w637">similar</w> <w id="w638">to</w> <w id="w639">that</w> <w id="w640">of</w> <w id="w641">beta-catenin</w> <w id="w642">,</w> <w id="w643">whereas</w> <w id="w644">alpha-catenin</w> <w id="w645">staining</w> <w id="w646">was</w> <w id="w647">more</w> <w id="w648">diffuse</w> <w id="w649">in</w> <w id="w650">the</w> <w id="w651">cytoplasm</w> <w id="w652">of</w> <w id="w653">airway</w> <w id="w654">epithelial</w> <w id="w655">and</w> <w id="w656">gland</w> <w id="w657">bud</w> <w id="w658">cells</w> <w id="w659">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e185" gid="g181" t="LOCALIZATION" fr="w632" to="w633">
+     <textspan type="extent">gamma-catenin distribution</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.44.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e186" gid="g182" t="RELATIONSHIP_TEXTBINDING" fr="w637" to="w637">
+     <textspan type="extent">similar</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.44.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e187" gid="g183" t="Gene/protein/RNA" fr="w644" to="w644" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.44.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e188" gid="g184" t="LOCALIZATION" fr="w639" to="w641">
+     <textspan type="extent">that of beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.44.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e189" gid="g185" t="LOCALIZATION" fr="w639" to="w639">
+     <textspan type="extent">that</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.44.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e190" gid="g185" t="LOCALIZATION" fr="w633" to="w633">
+     <textspan type="extent">distribution</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.44.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e191" gid="g186" t="Individual_protein" fr="w641" to="w641" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.44.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r69" t="SIMILAR" e1="e185" e2="e188" re="e186">
+     <textspan type="extent">gamma-catenin distribution to be remarkably similar to that of beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.44.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

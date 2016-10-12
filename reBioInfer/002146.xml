@@ -1,0 +1,175 @@
+<rexml>
+<doc id="2146">
+  <text>
+<p><s id="s1"><w id="w33426">We</w> <w id="w33427">report</w> <w id="w33428">here</w> <w id="w33429">that</w> <w id="w33430">LIMK1</w> <w id="w33431">and</w> <w id="w33432">LIMK2</w> <w id="w33433">phosphorylate</w> <w id="w33434">both</w> <w id="w33435">cofilin</w> <w id="w33436">and</w> <w id="w33437">actin-depolymerizing</w> <w id="w33438">factor</w> <w id="w33439">(</w> <w id="w33440">ADF</w> <w id="w33441">)</w> <w id="w33442">specifically</w> <w id="w33443">at</w> <w id="w33444">Ser-3</w> <w id="w33445">and</w> <w id="w33446">exhibit</w> <w id="w33447">partially</w> <w id="w33448">distinct</w> <w id="w33449">substrate</w> <w id="w33450">specificity</w> <w id="w33451">when</w> <w id="w33452">tested</w> <w id="w33453">using</w> <w id="w33454">site-directed</w> <w id="w33455">cofilin</w> <w id="w33456">mutants</w> <w id="w33457">as</w> <w id="w33458">substrates</w> <w id="w33459">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7617" gid="g7259" t="Individual_protein" fr="w33430" to="w33430" nam="yes">
+     <textspan type="extent">LIMK1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2146.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7618" gid="g7260" t="RELATIONSHIP_TEXTBINDING" fr="w33433" to="w33433">
+     <textspan type="extent">phosphorylate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2146.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7619" gid="g7261" t="Individual_protein" fr="w33435" to="w33435" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2146.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7620" gid="g7262" t="Individual_protein" fr="w33432" to="w33432" nam="yes">
+     <textspan type="extent">LIMK2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2146.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7621" gid="g7263" t="Individual_protein" fr="w33455" to="w33455" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2146.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7622" gid="g7264" t="Individual_protein" fr="w33437" to="w33438" nam="yes">
+     <textspan type="extent">actin-depolymerizing factor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2146.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7623" gid="g7265" t="Mutant" fr="w33455" to="w33456" nam="yes">
+     <textspan type="extent">cofilin mutants</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.2146.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7624" gid="g7264" t="Individual_protein" fr="w33440" to="w33440" nam="yes">
+     <textspan type="extent">ADF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2146.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7625" gid="g7266" t="RELATIONSHIP_TEXTBINDING" fr="w33458" to="w33458">
+     <textspan type="extent">substrates</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2146.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2930" t="PHOSPHORYLATE" e1="e7617" e2="e7619" re="e7618">
+     <textspan type="extent">LIMK1 and LIMK2 phosphorylate both cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2146.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+     </exattrs>
+    </rel>
+    <rel id="r2931" t="PHOSPHORYLATE" e1="e7617" e2="e7622" re="e7618">
+     <textspan type="extent">LIMK1 and LIMK2 phosphorylate both cofilin and actin-depolymerizing factor</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2146.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+     </exattrs>
+    </rel>
+    <rel id="r2932" t="PHOSPHORYLATE" e1="e7620" e2="e7619" re="e7618">
+     <textspan type="extent">LIMK2 phosphorylate both cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2146.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+     </exattrs>
+    </rel>
+    <rel id="r2933" t="PHOSPHORYLATE" e1="e7620" e2="e7622" re="e7618">
+     <textspan type="extent">LIMK2 phosphorylate both cofilin and actin-depolymerizing factor</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2146.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+     </exattrs>
+    </rel>
+    <rel id="r2935" t="AFFECT" e1="e7617" e2="e7623" re="e7625">
+     <textspan type="extent">LIMK1 and LIMK2 phosphorylate both cofilin and actin-depolymerizing factor ( ADF ) specifically at Ser-3 and exhibit partially distinct substrate specificity when tested using site-directed cofilin mutants as substrates</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2146.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2936" t="AFFECT" e1="e7620" e2="e7623" re="e7625">
+     <textspan type="extent">LIMK2 phosphorylate both cofilin and actin-depolymerizing factor ( ADF ) specifically at Ser-3 and exhibit partially distinct substrate specificity when tested using site-directed cofilin mutants as substrates</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2146.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

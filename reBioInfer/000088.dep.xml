@@ -1,0 +1,103 @@
+<rexml>
+<doc id="88">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E9" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w1380" g="E9" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E9" w="Although" l="~" p="SentAdjunct"/>
+     <dpg d="E4" g="w1380" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1381" g="w1382" t="s" cr="s+subj:w1382||s+subj:w1389" w="profilin" l="~" p="N"/>
+     <dpg d="w1382" g="E4" t="i" cr="comp1:w1380" w="released" l="release" p="V"/>
+     <dpg d="E10" g="w1382" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E10" g="w1381" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w1383" g="w1382" t="obj" cr="obj:w1382" w="actin" l="~" p="N"/>
+     <dpg d="w1384" g="w1383" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w1385" g="w1387" t="det" cr="det:w1387" w="the" l="~" p="Det"/>
+     <dpg d="w1386" g="w1387" t="mod" cr="mod:w1387" w="appropriate" l="~" p="A"/>
+     <dpg d="w1387" g="w1384" t="pcomp-n" cr="mod*at*n:w1383" w="time" l="~" p="N"/>
+     <dpg d="E3" g="w1387" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="E2" g="E3" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E7" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="w1381" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w1388" g="w1389" t="aux" cr="aux:w1389" w="to" l="~" p="Aux"/>
+     <dpg d="w1389" g="E2" t="i" cr="mod:w1403" w="stimulate" l="~" p="V"/>
+     <dpg d="E11" g="w1389" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E11" g="E7" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w1390" g="w1391" t="nn" cr="nn:w1391" w="actin" l="~" p="N"/>
+     <dpg d="w1391" g="w1389" t="obj" cr="obj:w1389" w="assembly" l="~" p="N"/>
+     <dpg d="w1392" g="w1391" t="mod" cr="" w="during" l="~" p="Prep"/>
+     <dpg d="w1393" g="w1392" t="pcomp-n" cr="mod*during*n:w1391" w="exposure" l="~" p="N"/>
+     <dpg d="w1394" g="w1393" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w1395" g="w1394" t="pcomp-n" cr="mod*to*n:w1393" w="chemoattractants" l="~" p="N"/>
+     <dpg d="w1396" g="E3" t="punc" cr="punc:w1403" w="," l="~" p="U"/>
+     <dpg d="w1397" g="w1398" t="det" cr="det:w1398" w="the" l="~" p="Det"/>
+     <dpg d="w1398" g="w1403" t="s" cr="s:w1403||subj:w1404||s+subj:w1406" w="concentration" l="~" p="N"/>
+     <dpg d="w1399" g="w1398" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w1400" g="w1399" t="pcomp-n" cr="mod*of*n:w1398" w="profilin" l="~" p="N"/>
+     <dpg d="w1401" g="w1400" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w1402" g="w1401" t="pcomp-n" cr="mod*in*n:w1400" w="PMN" l="~" p="N"/>
+     <dpg d="w1403" g="E3" t="i" cr="comp1:w1387" w="was" l="be" p="VBE"/>
+     <dpg d="w1404" g="w1403" t="pred" cr="pred:w1403" w="insufficient" l="~" p="A"/>
+     <dpg d="E12" g="w1404" t="subj" cr="" w="" l="concentration" p="N"/>
+     <dpg d="E12" g="w1398" t="antecedent" cr="" w="" l="concentration" p="N"/>
+     <dpg d="E1" g="w1403" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E6" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w1398" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w1405" g="w1406" t="aux" cr="aux:w1406" w="to" l="~" p="Aux"/>
+     <dpg d="w1406" g="E1" t="i" cr="mod:w1403" w="explain" l="~" p="V"/>
+     <dpg d="E13" g="w1406" t="subj" cr="" w="" l="concentration" p="N"/>
+     <dpg d="E13" g="E6" t="antecedent" cr="" w="" l="concentration" p="N"/>
+     <dpg d="w1407" g="w1411" t="det" cr="det:w1411" w="the" l="~" p="Det"/>
+     <dpg d="w1408" g="w1409" t="mod" cr="mod:w1409" w="high" l="~" p="A"/>
+     <dpg d="w1409" g="w1411" t="mod" cr="mod:w1411" w="unpolymerized" l="~" p="A"/>
+     <dpg d="w1410" g="w1411" t="nn" cr="nn:w1411" w="actin" l="~" p="N"/>
+     <dpg d="w1411" g="w1406" t="obj" cr="obj:w1406" w="content" l="~" p="N"/>
+     <dpg d="w1412" g="w1411" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w1413" g="w1414" t="mod" cr="mod:w1414" w="unstimulated" l="~" p="A"/>
+     <dpg d="w1414" g="w1412" t="pcomp-n" cr="mod*in*n:w1411" w="PMN" l="~" p="N"/>
+     <dpg d="w1415" g="w1414" t="punc" cr="punc:w1414" w="and" l="~" p="U"/>
+     <dpg d="w1416" g="w1417" t="det" cr="det:w1417" w="the" l="~" p="Det"/>
+     <dpg d="w1417" g="w1414" t="conj" cr="conj:w1414" w="quantity" l="~" p="N"/>
+     <dpg d="w1418" g="w1417" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w1419" g="w1418" t="pcomp-n" cr="mod*of*n:w1417||obj:w1420" w="actin" l="~" p="N"/>
+     <dpg d="w1420" g="w1419" t="vrel" cr="vrel:w1419" w="released" l="release" p="V"/>
+     <dpg d="E14" g="w1420" t="obj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E14" g="w1419" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w1421" g="w1420" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w1422" g="w1421" t="pcomp-n" cr="mod*from*n:w1420" w="profilin" l="~" p="N"/>
+     <dpg d="w1423" g="w1420" t="mod" cr="mod:w1420" w="too" l="~" p="A"/>
+     <dpg d="w1424" g="E9" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E9" w="small" l="~" p="A"/>
+     <dpg d="E0" g="E9" t="UNSPECRELTYPE" cr="" w="" l="inf" p="C"/>
+     <dpg d="E5" g="E0" t="s" cr="s+subj:w1426" w="" l="~" p="N"/>
+     <dpg d="w1425" g="w1426" t="aux" cr="aux:w1426" w="to" l="~" p="Aux"/>
+     <dpg d="w1426" g="E0" t="i" cr="UNSPECRELTYPE:E9" w="account" l="account for" p="V"/>
+     <dpg d="w1427" g="w1426" t="lex-mod" cr="lex-mod:w1426" w="for" l="~" p="U"/>
+     <dpg d="E15" g="w1426" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E15" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w1428" g="w1430" t="det" cr="det:w1430" w="the" l="~" p="Det"/>
+     <dpg d="w1429" g="w1430" t="mod" cr="mod:w1430" w="large" l="~" p="A"/>
+     <dpg d="w1430" g="w1426" t="obj" cr="obj:w1426" w="shifts" l="shift" p="N"/>
+     <dpg d="w1431" g="E9" t="punc" cr="punc:E9" w="from" l="~" p="U"/>
+     <dpg d="w1432" g="E9" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E9" w="unpolymerized" l="~" p="A"/>
+     <dpg d="w1433" g="w1432" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w1434" g="w1435" t="mod" cr="mod:w1435" w="polymerized" l="~" p="A"/>
+     <dpg d="w1435" g="w1433" t="pcomp-n" cr="mod*to*n:w1432" w="actin" l="~" p="N"/>
+     <dpg d="w1436" g="w1435" t="pnmod" cr="pnmod:w1435" w="associated" l="~" p="A"/>
+     <dpg d="w1437" g="w1436" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w1438" g="w1440" t="mod" cr="mod:w1440" w="maximal" l="~" p="A"/>
+     <dpg d="w1439" g="w1440" t="nn" cr="nn:w1440" w="chemoattractant" l="~" p="N"/>
+     <dpg d="w1440" g="w1437" t="pcomp-n" cr="mod*with*n:w1436" w="stimulation" l="~" p="N"/>
+     <dpg d="w1441" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

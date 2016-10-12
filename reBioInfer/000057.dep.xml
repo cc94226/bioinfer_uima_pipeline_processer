@@ -1,0 +1,82 @@
+<rexml>
+<doc id="57">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E7" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w847" g="E7" t="p" cr="" w="After" l="~" p="Prep"/>
+     <dpg d="w848" g="w847" t="pcomp-n" cr="p*after*n:E7" w="24" l="~" p="N"/>
+     <dpg d="w849" g="w848" t="punc" cr="punc:w848" w="or" l="~" p="U"/>
+     <dpg d="w850" g="w851" t="amount-value" cr="amount-value:w851" w="48" l="~" p="N"/>
+     <dpg d="w851" g="w848" t="conj" cr="conj:w848" w="hours" l="~" p="N"/>
+     <dpg d="w852" g="w851" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w853" g="w852" t="pcomp-n" cr="mod*of*n:w851" w="shear" l="~" p="N"/>
+     <dpg d="w854" g="E7" t="punc" cr="punc:E7" w="," l="~" p="U"/>
+     <dpg d="E2" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="E1" g="E2" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E1" t="s" cr="s+subj:w855" w="" l="~" p="N"/>
+     <dpg d="w855" g="E1" t="i" cr="mod:w863" w="staining" l="stain" p="V"/>
+     <dpg d="E8" g="w855" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w856" g="w855" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w857" g="w856" t="pcomp-n" cr="mod*for*n:w855" w="VE-cadherin" l="VE-cadherin" p="N"/>
+     <dpg d="w858" g="E2" t="punc" cr="punc:w863" w="," l="~" p="U"/>
+     <dpg d="w859" g="w863" t="s" cr="s:w863||subj:w864||s+subj:w868" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w860" g="w859" t="punc" cr="punc:w859" w="," l="~" p="U"/>
+     <dpg d="w861" g="w859" t="punc" cr="punc:w859" w="and" l="~" p="U"/>
+     <dpg d="w862" g="w859" t="conj" cr="conj:w859" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w863" g="E2" t="i" cr="UNSPECRELTYPE:E7" w="was" l="be" p="VBE"/>
+     <dpg d="w864" g="w863" t="pred" cr="pred:w863" w="intense" l="~" p="A"/>
+     <dpg d="E9" g="w864" t="subj" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="E9" g="w859" t="antecedent" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="w865" g="w864" t="punc" cr="punc:w864" w="and" l="~" p="U"/>
+     <dpg d="w866" g="w864" t="conj" cr="conj:w864" w="peripheral" l="~" p="A"/>
+     <dpg d="w867" g="w863" t="punc" cr="punc:w863" w="," l="~" p="U"/>
+     <dpg d="E0" g="w863" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w859" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w868" g="E0" t="i" cr="mod:w863" w="forming" l="form" p="V"/>
+     <dpg d="E10" g="w868" t="subj" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="E10" g="E4" t="antecedent" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="w869" g="w870" t="det" cr="det:w870" w="a" l="~" p="Det"/>
+     <dpg d="w870" g="w868" t="obj" cr="obj:w868" w="band" l="~" p="N"/>
+     <dpg d="w871" g="w870" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w872" g="w875" t="nn" cr="nn:w875" w="dashes" l="dash" p="N"/>
+     <dpg d="w873" g="w875" t="punc" cr="punc:w875" w="(" l="~" p="U"/>
+     <dpg d="w874" g="w875" t="nn" cr="nn:w875" w="adherens" l="~" p="N"/>
+     <dpg d="w875" g="w871" t="pcomp-n" cr="mod*of*n:w870" w="plaques" l="plaque" p="N"/>
+     <dpg d="w876" g="E7" t="punc" cr="punc:E7" w=")" l="~" p="U"/>
+     <dpg d="w877" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="that" l="~" p="N"/>
+     <dpg d="w878" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="colocalized" l="~" p="A"/>
+     <dpg d="w879" g="w878" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w880" g="w881" t="det" cr="det:w881" w="the" l="~" p="Det"/>
+     <dpg d="w881" g="w879" t="pcomp-n" cr="mod*with*n:w878" w="ends" l="end" p="N"/>
+     <dpg d="w882" g="w881" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w883" g="w884" t="nn" cr="nn:w884" w="stress" l="~" p="N"/>
+     <dpg d="w884" g="w882" t="pcomp-n" cr="mod*of*n:w881||subj:w886" w="fibers" l="fiber" p="N"/>
+     <dpg d="E3" g="w884" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w885" g="E3" t="whn" cr="whn:w886" w="that" l="~" p="THAT"/>
+     <dpg d="w885" g="w884" t="antecedent" cr="antecedent:w884" w="that" l="~" p="THAT"/>
+     <dpg d="w886" g="E3" t="i" cr="rel:w884" w="inserted" l="insert" p="V"/>
+     <dpg d="E11" g="w886" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E11" g="w884" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w887" g="w886" t="guest" cr="guest:w886" w="along" l="~" p="A"/>
+     <dpg d="w888" g="w890" t="det" cr="det:w890" w="the" l="~" p="Det"/>
+     <dpg d="w889" g="w890" t="mod" cr="mod:w890" w="lateral" l="~" p="A"/>
+     <dpg d="w890" g="w886" t="obj" cr="obj:w886" w="membranes" l="membrane" p="N"/>
+     <dpg d="w891" g="w890" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w892" g="w891" t="pcomp-n" cr="mod*of*n:w890" w="cells" l="cell" p="N"/>
+     <dpg d="w893" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

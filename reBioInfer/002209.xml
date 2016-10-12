@@ -1,0 +1,130 @@
+<rexml>
+<doc id="2209">
+  <text>
+<p><s id="s1"><w id="w34084">When</w> <w id="w34085">ZmPRO4</w> <w id="w34086">was</w> <w id="w34087">microinjected</w> <w id="w34088">into</w> <w id="w34089">plant</w> <w id="w34090">cells</w> <w id="w34091">,</w> <w id="w34092">the</w> <w id="w34093">effect</w> <w id="w34094">on</w> <w id="w34095">actin</w><w id="w34096">-dependent</w> <w id="w34097">nuclear</w> <w id="w34098">position</w> <w id="w34099">was</w> <w id="w34100">significantly</w> <w id="w34101">more</w> <w id="w34102">rapid</w> <w id="w34103">than</w> <w id="w34104">that</w> <w id="w34105">of</w> <w id="w34106">another</w> <w id="w34107">pollen</w> <w id="w34108">profilin</w> <w id="w34109">isoform</w> <w id="w34110">,</w> <w id="w34111">ZmPRO1</w> <w id="w34112">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7743" gid="g7383" t="Individual_protein" fr="w34085" to="w34085" nam="yes">
+     <textspan type="extent">ZmPRO4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2209.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7744" gid="g7384" t="RELATIONSHIP_TEXTBINDING" fr="w34093" to="w34094">
+     <textspan type="extent">effect on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2209.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7745" gid="g7385" t="Individual_protein" fr="w34107" to="w34109" nam="yes">
+     <textspan type="extent">pollen profilin isoform</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2209.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7746" gid="g7386" t="RELATIONSHIP_TEXTBINDING" fr="w34093" to="w34105">
+     <textspan type="extent">effect on [..] than [..] of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2209.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7747" gid="g7387" t="Individual_protein" fr="w34111" to="w34111" nam="yes">
+     <textspan type="extent">ZmPRO1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2209.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7748" gid="g7388" t="Location_property" fr="w34095" to="w34098">
+     <textspan type="extent">actin-dependent [..] position</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Location_property"/>
+      <exattr n="bd" v="e.2209.5"/>
+      <exattr n="nst" v="st.2209.11.0"/>
+      <exattr n="nst" v="st.2209.11.1"/>
+      <exattr n="nst" v="st.2209.13.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7749" gid="g7389" t="Individual_protein" fr="w34095" to="w34095" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2209.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7750" gid="g7390" t="Individual_protein" fr="w34108" to="w34108" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2209.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2973" t="MEMBER" e1="e7745" e2="e7747" re="">
+     <textspan type="extent">pollen profilin isoform , ZmPRO1</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2974" t="AFFECT" e1="e7743" e2="e7748" re="e7744">
+     <textspan type="extent">ZmPRO4 was microinjected into plant cells , the effect on actin -dependent nuclear position</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2209.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2975" t="AFFECT" e1="e7747" e2="e7748" re="e7746">
+     <textspan type="extent">effect on actin -dependent nuclear position was significantly more rapid than that of another pollen profilin isoform , ZmPRO1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2209.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

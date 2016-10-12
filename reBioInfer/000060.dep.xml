@@ -1,0 +1,77 @@
+<rexml>
+<doc id="60">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w894" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="After" l="~" p="SentAdjunct"/>
+     <dpg d="E2" g="w894" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w895" g="w900" t="s" cr="s+subj:w900" w="digestion" l="~" p="N"/>
+     <dpg d="w896" g="w895" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w897" g="w899" t="det" cr="det:w899" w="the" l="~" p="Det"/>
+     <dpg d="w898" g="w899" t="num" cr="num:w899" w="60" l="~" p="N"/>
+     <dpg d="w899" g="w896" t="pcomp-n" cr="mod*of*n:w895" w="kDa" l="~" p="N"/>
+     <dpg d="w900" g="E2" t="i" cr="comp1:w894" w="fragment" l="~" p="V"/>
+     <dpg d="E6" g="w900" t="subj" cr="" w="" l="digestion" p="N"/>
+     <dpg d="E6" g="w895" t="antecedent" cr="" w="" l="digestion" p="N"/>
+     <dpg d="w901" g="w900" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w902" g="w903" t="nn" cr="nn:w903" w="cyanogen" l="~" p="N"/>
+     <dpg d="w903" g="w901" t="pcomp-n" cr="mod*with*n:w900" w="bromide" l="~" p="N"/>
+     <dpg d="w904" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="E1" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w905" g="w909" t="det" cr="det:w909" w="the" l="~" p="Det"/>
+     <dpg d="w906" g="w909" t="mod" cr="mod:w909" w="N-terminal" l="N-terminal" p="A"/>
+     <dpg d="w907" g="w909" t="mod" cr="mod:w909" w="21-amino" l="21-amino" p="A"/>
+     <dpg d="w908" g="w909" t="mod" cr="mod:w909" w="acid" l="~" p="A"/>
+     <dpg d="w909" g="w917" t="s" cr="s+obj:w917||s+subj:w919" w="sequence" l="~" p="N"/>
+     <dpg d="w910" g="w909" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w911" g="w910" t="pcomp-n" cr="mod*of*n:w909" w="one" l="~" p="N"/>
+     <dpg d="w912" g="w911" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w913" g="w915" t="det" cr="det:w915" w="the" l="~" p="Det"/>
+     <dpg d="w914" g="w915" t="mod" cr="mod:w915" w="resulting" l="~" p="A"/>
+     <dpg d="w915" g="w912" t="pcomp-n" cr="mod*of*n:w911" w="peptides" l="peptide" p="N"/>
+     <dpg d="w916" g="w917" t="be" cr="be:w917" w="was" l="be" p="be"/>
+     <dpg d="w917" g="E1" t="i" cr="UNSPECRELTYPE:E5" w="found" l="find" p="V"/>
+     <dpg d="E7" g="w917" t="obj" cr="" w="" l="sequence" p="N"/>
+     <dpg d="E7" g="w909" t="antecedent" cr="" w="" l="sequence" p="N"/>
+     <dpg d="E0" g="w917" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w909" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w918" g="w919" t="aux" cr="aux:w919" w="to" l="~" p="Aux"/>
+     <dpg d="w919" g="E0" t="i" cr="mod:w917" w="show" l="~" p="V"/>
+     <dpg d="E8" g="w919" t="subj" cr="" w="" l="sequence" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="sequence" p="N"/>
+     <dpg d="w920" g="w921" t="nn" cr="nn:w921" w="sequence" l="~" p="N"/>
+     <dpg d="w921" g="w919" t="obj1" cr="obj1:w919" w="similarity" l="~" p="N"/>
+     <dpg d="w922" g="w921" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w923" g="w924" t="det" cr="det:w924" w="a" l="~" p="Det"/>
+     <dpg d="w924" g="w922" t="pcomp-n" cr="mod*to*n:w921" w="region" l="~" p="N"/>
+     <dpg d="w925" g="w924" t="mod" cr="" w="near" l="~" p="Prep"/>
+     <dpg d="w926" g="w930" t="det" cr="det:w930" w="the" l="~" p="Det"/>
+     <dpg d="w927" g="w929" t="lex-mod" cr="lex-mod:w929" w="actin" l="~" p="U"/>
+     <dpg d="w928" g="w929" t="lex-mod" cr="lex-mod:w929" w="-" l="~" p="U"/>
+     <dpg d="w929" g="w930" t="mod" cr="mod:w930" w="binding" l="actin - binding" p="A"/>
+     <dpg d="w930" g="w925" t="pcomp-n" cr="mod*near*n:w924" w="site" l="~" p="N"/>
+     <dpg d="w931" g="w919" t="punc" cr="punc:w919" w="(" l="~" p="U"/>
+     <dpg d="w932" g="w933" t="lex-mod" cr="lex-mod:w933" w="amino" l="~" p="U"/>
+     <dpg d="w933" g="w935" t="nn" cr="nn:w935" w="acid" l="amino acid" p="N"/>
+     <dpg d="w934" g="w935" t="nn" cr="nn:w935" w="residues" l="residue" p="N"/>
+     <dpg d="w935" g="w919" t="obj2" cr="obj2:w919" w="260-281" l="260-281" p="N"/>
+     <dpg d="w936" g="w935" t="punc" cr="punc:w935" w=")" l="~" p="U"/>
+     <dpg d="w937" g="w935" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w938" g="w939" t="nn" cr="nn:w939" w="yeast" l="~" p="N"/>
+     <dpg d="w939" g="w937" t="pcomp-n" cr="mod*of*n:w935" w="fimbrin" l="~" p="N"/>
+     <dpg d="w940" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

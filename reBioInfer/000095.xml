@@ -1,0 +1,87 @@
+<rexml>
+<doc id="95">
+  <text>
+<p><s id="s1"><w id="w1584">Although</w> <w id="w1585">platelets</w> <w id="w1586">contain</w> <w id="w1587">only</w> <w id="w1588">1</w> <w id="w1589">profilin</w> <w id="w1590">for</w> <w id="w1591">every</w> <w id="w1592">5-10</w> <w id="w1593">actin</w> <w id="w1594">molecules</w> <w id="w1595">,</w> <w id="w1596">these</w> <w id="w1597">complex</w> <w id="w1598">reactions</w> <w id="w1599">may</w> <w id="w1600">allow</w> <w id="w1601">substoichiometric</w> <w id="w1602">profilin</w> <w id="w1603">to</w> <w id="w1604">have</w> <w id="w1605">an</w> <w id="w1606">important</w> <w id="w1607">influence</w> <w id="w1608">on</w> <w id="w1609">actin</w> <w id="w1610">assembly</w> <w id="w1611">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e411" gid="g397" t="Gene/protein/RNA" fr="w1589" to="w1589" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.95.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e412" gid="g398" t="RELATIONSHIP_TEXTBINDING" fr="w1607" to="w1608">
+     <textspan type="extent">influence on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.95.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e413" gid="g399" t="Individual_protein" fr="w1602" to="w1602" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.95.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e414" gid="g400" t="Gene/protein/RNA" fr="w1593" to="w1593" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.95.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e415" gid="g401" t="ASSEMBLY" fr="w1609" to="w1610">
+     <textspan type="extent">actin assembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.95.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e416" gid="g402" t="Individual_protein" fr="w1609" to="w1609" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.95.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r159" t="AFFECT" e1="e413" e2="e415" re="e412">
+     <textspan type="extent">profilin to have an important influence on actin assembly</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.95.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

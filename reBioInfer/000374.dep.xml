@@ -1,0 +1,62 @@
+<rexml>
+<doc id="374">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5640" g="w5643" t="s" cr="s+subj:w5643" w="Deletion" l="~" p="N"/>
+     <dpg d="w5641" g="w5640" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5642" g="w5641" t="pcomp-n" cr="mod*of*n:w5640" w="SIR4" l="~" p="N"/>
+     <dpg d="w5643" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="enhanced" l="enhance" p="V"/>
+     <dpg d="E5" g="w5643" t="subj" cr="" w="" l="deletion" p="N"/>
+     <dpg d="E5" g="w5640" t="antecedent" cr="" w="" l="deletion" p="N"/>
+     <dpg d="w5644" g="w5643" t="obj" cr="obj:w5643" w="mURA3" l="~" p="N"/>
+     <dpg d="w5645" g="w5644" t="punc" cr="punc:w5644" w="and" l="~" p="U"/>
+     <dpg d="w5646" g="w5644" t="conj" cr="conj:w5644" w="MET15" l="~" p="N"/>
+     <dpg d="w5647" g="E4" t="punc" cr="punc:E4" w="silencing" l="~" p="U"/>
+     <dpg d="w5648" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="w5649" g="E4" t="p" cr="" w="but" l="~" p="Prep"/>
+     <dpg d="w5650" g="w5649" t="pcomp-n" cr="p*but*n:E4" w="deletion" l="~" p="N"/>
+     <dpg d="w5651" g="w5650" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5652" g="w5651" t="pcomp-n" cr="mod*of*n:w5650" w="SIR1" l="~" p="N"/>
+     <dpg d="w5653" g="w5652" t="punc" cr="punc:w5652" w="or" l="~" p="U"/>
+     <dpg d="w5654" g="w5652" t="conj" cr="conj:w5652" w="SIR3" l="~" p="N"/>
+     <dpg d="w5655" g="E4" t="punc" cr="punc:E4" w="did" l="~" p="U"/>
+     <dpg d="w5656" g="E4" t="punc" cr="punc:E4" w="not" l="~" p="U"/>
+     <dpg d="w5657" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="affect" l="~" p="N"/>
+     <dpg d="w5658" g="E4" t="punc" cr="punc:E4" w="silencing" l="~" p="U"/>
+     <dpg d="w5659" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="E0" g="E4" t="UNSPECRELTYPE" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="s+subj:w5660" w="" l="~" p="N"/>
+     <dpg d="w5660" g="E0" t="i" cr="UNSPECRELTYPE:E4" w="indicating" l="indicate" p="V"/>
+     <dpg d="E6" g="w5660" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w5661" g="w5660" t="obj1" cr="obj1:w5660" w="that" l="~" p="N"/>
+     <dpg d="w5662" g="w5663" t="det" cr="det:w5663" w="the" l="~" p="Det"/>
+     <dpg d="w5663" g="w5660" t="obj2" cr="obj2:w5660" w="mechanism" l="~" p="N"/>
+     <dpg d="w5664" g="E4" t="punc" cr="punc:E4" w="of" l="~" p="U"/>
+     <dpg d="w5665" g="E4" t="punc" cr="punc:E4" w="silencing" l="~" p="U"/>
+     <dpg d="w5666" g="E4" t="punc" cr="punc:E4" w="differs" l="~" p="U"/>
+     <dpg d="w5667" g="E4" t="p" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w5668" g="w5667" t="pcomp-n" cr="p*from*n:E4" w="that" l="~" p="N"/>
+     <dpg d="w5669" g="E4" t="p" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w5670" g="w5669" t="pcomp-n" cr="p*at*n:E4" w="telomeres" l="~" p="N"/>
+     <dpg d="w5671" g="w5670" t="punc" cr="punc:w5670" w="and" l="~" p="U"/>
+     <dpg d="w5672" g="w5674" t="mod" cr="mod:w5674" w="silent" l="~" p="A"/>
+     <dpg d="w5673" g="w5674" t="nn" cr="nn:w5674" w="mating" l="~" p="N"/>
+     <dpg d="w5674" g="w5670" t="conj" cr="conj:w5670" w="loci" l="~" p="N"/>
+     <dpg d="w5675" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

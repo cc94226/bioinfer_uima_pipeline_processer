@@ -1,0 +1,60 @@
+<rexml>
+<doc id="1856">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w29765" g="w29766" t="nn" cr="nn:w29766" w="Three" l="~" p="N"/>
+     <dpg d="w29766" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w29780" w="methods" l="method" p="N"/>
+     <dpg d="w29767" g="w29766" t="punc" cr="punc:w29766" w="," l="~" p="U"/>
+     <dpg d="w29768" g="w29769" t="nn" cr="nn:w29769" w="fluorescence" l="~" p="N"/>
+     <dpg d="w29769" g="w29766" t="conj" cr="conj:w29766" w="anisotropy" l="~" p="N"/>
+     <dpg d="w29770" g="w29769" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29771" g="w29772" t="mod" cr="mod:w29772" w="rhodamine-labeled" l="rhodamine-labeled" p="A"/>
+     <dpg d="w29772" g="w29770" t="pcomp-n" cr="mod*of*n:w29769" w="profilin" l="~" p="N"/>
+     <dpg d="w29773" g="w29772" t="punc" cr="punc:w29772" w="," l="~" p="U"/>
+     <dpg d="w29774" g="w29775" t="mod" cr="mod:w29775" w="intrinsic" l="~" p="A"/>
+     <dpg d="w29775" g="w29772" t="conj" cr="conj:w29772" w="fluorescence" l="~" p="N"/>
+     <dpg d="w29776" g="w29775" t="punc" cr="punc:w29775" w="and" l="~" p="U"/>
+     <dpg d="w29777" g="w29778" t="nn" cr="nn:w29778" w="nucleotide" l="~" p="N"/>
+     <dpg d="w29778" g="w29775" t="conj" cr="conj:w29775" w="exchange" l="~" p="N"/>
+     <dpg d="w29779" g="E3" t="punc" cr="punc:w29780" w="," l="~" p="U"/>
+     <dpg d="w29780" g="E3" t="i" cr="" w="give" l="~" p="V"/>
+     <dpg d="w29781" g="w29783" t="det" cr="det:w29783" w="the" l="~" p="Det"/>
+     <dpg d="w29782" g="w29783" t="post" cr="post:w29783" w="same" l="~" p="PostDet"/>
+     <dpg d="w29783" g="w29780" t="obj" cr="obj:w29780" w="affinity" l="~" p="N"/>
+     <dpg d="w29784" g="E3" t="punc" cr="punc:w29780" w="," l="~" p="U"/>
+     <dpg d="w29785" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w29780" w="Kd" l="~" p="N"/>
+     <dpg d="w29786" g="E3" t="punc" cr="punc:w29780" w="=" l="~" p="U"/>
+     <dpg d="w29787" g="w29788" t="num" cr="num:w29788" w="0.1" l="~" p="N"/>
+     <dpg d="w29788" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w29780" w="microM" l="~" p="N"/>
+     <dpg d="w29789" g="E3" t="punc" cr="punc:w29780" w="," l="~" p="U"/>
+     <dpg d="w29790" g="E3" t="p" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w29791" g="w29792" t="nn" cr="nn:w29792" w="Acanthamoeba" l="~" p="N"/>
+     <dpg d="w29792" g="w29790" t="pcomp-n" cr="p*for*n:w29780||s+subj:w29793" w="profilins" l="~" p="N"/>
+     <dpg d="E0" g="w29792" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E1" g="w29792" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w29793" g="E0" t="i" cr="rel:w29792" w="binding" l="bind" p="V"/>
+     <dpg d="E4" g="w29793" t="subj" cr="" w="" l="profilins" p="N"/>
+     <dpg d="E4" g="E1" t="antecedent" cr="" w="" l="profilins" p="N"/>
+     <dpg d="w29794" g="w29796" t="nn" cr="nn:w29796" w="amoeba" l="~" p="N"/>
+     <dpg d="w29795" g="w29796" t="nn" cr="nn:w29796" w="actin" l="~" p="N"/>
+     <dpg d="w29796" g="w29793" t="obj" cr="obj:w29793" w="monomers" l="monomer" p="N"/>
+     <dpg d="w29797" g="w29796" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w29798" g="w29799" t="mod" cr="mod:w29799" w="bound" l="~" p="A"/>
+     <dpg d="w29799" g="w29797" t="pcomp-n" cr="mod*with*n:w29796" w="Mg-ATP" l="Mg-ATP" p="N"/>
+     <dpg d="w29800" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

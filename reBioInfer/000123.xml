@@ -1,0 +1,57 @@
+<rexml>
+<doc id="123">
+  <text>
+<p><s id="s1"><w id="w1948">Analysis</w> <w id="w1949">of</w> <w id="w1950">changes</w> <w id="w1951">in</w> <w id="w1952">state</w> <w id="w1953">suggests</w> <w id="w1954">that</w> <w id="w1955">SIR1</w> <w id="w1956">protein</w> <w id="w1957">has</w> <w id="w1958">a</w> <w id="w1959">role</w> <w id="w1960">in</w> <w id="w1961">the</w> <w id="w1962">establishment</w> <w id="w1963">but</w> <w id="w1964">not</w> <w id="w1965">the</w> <w id="w1966">maintenance</w> <w id="w1967">of</w> <w id="w1968">repression</w> <w id="w1969">of</w> <w id="w1970">silent</w> <w id="w1971">mating</w> <w id="w1972">type</w> <w id="w1973">genes</w> <w id="w1974">,</w> <w id="w1975">whereas</w> <w id="w1976">SIR2</w> <w id="w1977">,</w> <w id="w1978">SIR3</w> <w id="w1979">,</w> <w id="w1980">and</w> <w id="w1981">SIR4</w> <w id="w1982">are</w> <w id="w1983">required</w> <w id="w1984">for</w> <w id="w1985">maintenance</w> <w id="w1986">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e490" gid="g476" t="Gene/protein/RNA" fr="w1955" to="w1955" nam="yes">
+     <textspan type="extent">SIR1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.123.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e491" gid="g477" t="Gene/protein/RNA" fr="w1978" to="w1978" nam="yes">
+     <textspan type="extent">SIR3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.123.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e492" gid="g478" t="Gene/protein/RNA" fr="w1976" to="w1976" nam="yes">
+     <textspan type="extent">SIR2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.123.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e493" gid="g479" t="Gene/protein/RNA" fr="w1981" to="w1981" nam="yes">
+     <textspan type="extent">SIR4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.123.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,38 @@
+<rexml>
+<doc id="26">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w420" g="w421" t="mod" cr="mod:w421" w="Actin-binding" l="Actin-binding" p="A"/>
+     <dpg d="w421" g="w425" t="s" cr="s+subj:w425" w="proteins" l="protein" p="N"/>
+     <dpg d="w422" g="w421" t="mod" cr="" w="such" l="such as" p="Prep"/>
+     <dpg d="w423" g="w422" t="lex-mod" cr="lex-mod:w422" w="as" l="~" p="U"/>
+     <dpg d="w424" g="w422" t="pcomp-n" cr="mod*such*n:w421" w="profilins" l="~" p="N"/>
+     <dpg d="w425" g="E0" t="i" cr="" w="participate" l="~" p="V"/>
+     <dpg d="E2" g="w425" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E2" g="w421" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w426" g="w425" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w427" g="w428" t="det" cr="det:w428" w="the" l="~" p="Det"/>
+     <dpg d="w428" g="w426" t="pcomp-n" cr="mod*in*n:w425" w="restructuration" l="~" p="N"/>
+     <dpg d="w429" g="w428" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w430" g="w432" t="det" cr="det:w432" w="the" l="~" p="Det"/>
+     <dpg d="w431" g="w432" t="nn" cr="nn:w432" w="actin" l="~" p="N"/>
+     <dpg d="w432" g="w429" t="pcomp-n" cr="mod*of*n:w428" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w433" g="w432" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w434" g="w435" t="nn" cr="nn:w435" w="plant" l="~" p="N"/>
+     <dpg d="w435" g="w433" t="pcomp-n" cr="mod*in*n:w432" w="cells" l="cell" p="N"/>
+     <dpg d="w436" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

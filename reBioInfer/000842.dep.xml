@@ -1,0 +1,92 @@
+<rexml>
+<doc id="842">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13046" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w13047" g="w13048" t="det" cr="det:w13048" w="the" l="~" p="Det"/>
+     <dpg d="w13048" g="w13046" t="pcomp-n" cr="mod*in*n:w13064" w="hippocampus" l="~" p="N"/>
+     <dpg d="w13049" g="E1" t="punc" cr="punc:w13064" w="," l="~" p="U"/>
+     <dpg d="w13050" g="w13052" t="nn" cr="nn:w13052" w="ATP" l="~" p="N"/>
+     <dpg d="w13051" g="w13052" t="nn" cr="nn:w13052" w="gamma" l="~" p="N"/>
+     <dpg d="w13052" g="w13064" t="s" cr="s:w13064||subj:w13066" w="S" l="~" p="N"/>
+     <dpg d="w13053" g="w13052" t="punc" cr="punc:w13052" w="," l="~" p="U"/>
+     <dpg d="w13054" g="w13056" t="det" cr="det:w13056" w="an" l="~" p="Det"/>
+     <dpg d="w13055" g="w13056" t="nn" cr="nn:w13056" w="ATP" l="~" p="N"/>
+     <dpg d="w13056" g="w13052" t="appo" cr="appo:w13052" w="analogue" l="~" p="N"/>
+     <dpg d="w13057" g="w13058" t="mod" cr="mod:w13058" w="more" l="~" p="A"/>
+     <dpg d="w13058" g="w13056" t="pnmod" cr="pnmod:w13056" w="resistant" l="~" p="A"/>
+     <dpg d="w13059" g="w13058" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w13060" g="w13059" t="pcomp-n" cr="mod*to*n:w13058" w="catabolism" l="~" p="N"/>
+     <dpg d="w13061" g="w13060" t="mod" cr="" w="than" l="~" p="Prep"/>
+     <dpg d="w13062" g="w13061" t="pcomp-n" cr="mod*than*n:w13060" w="ATP" l="~" p="N"/>
+     <dpg d="w13063" g="w13064" t="punc" cr="punc:w13064" w="," l="~" p="U"/>
+     <dpg d="w13064" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="was" l="be" p="VBE"/>
+     <dpg d="E4" g="w13066" t="subj" cr="" w="" l="s" p="N"/>
+     <dpg d="E4" g="w13052" t="antecedent" cr="" w="" l="s" p="N"/>
+     <dpg d="w13065" g="w13066" t="mod" cr="mod:w13066" w="virtually" l="~" p="A"/>
+     <dpg d="w13066" g="w13064" t="pred" cr="pred:w13064" w="devoid" l="~" p="A"/>
+     <dpg d="w13067" g="w13066" t="comp1" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w13068" g="w13067" t="pcomp-n" cr="comp1*of*n:w13066" w="effect" l="~" p="N"/>
+     <dpg d="w13069" g="w13068" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w13070" g="w13071" t="nn" cr="nn:w13071" w="tritium" l="~" p="N"/>
+     <dpg d="w13071" g="w13069" t="pcomp-n" cr="mod*on*n:w13068" w="release" l="~" p="N"/>
+     <dpg d="w13072" g="E1" t="punc" cr="punc:w13064" w="," l="~" p="U"/>
+     <dpg d="w13073" g="E1" t="punc" cr="punc:w13064" w="and" l="~" p="U"/>
+     <dpg d="E0" g="E1" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13074" g="w13075" t="det" cr="det:w13075" w="the" l="~" p="Det"/>
+     <dpg d="w13075" g="w13079" t="s" cr="s+obj:w13079" w="effect" l="~" p="N"/>
+     <dpg d="w13076" g="w13075" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w13077" g="w13076" t="pcomp-n" cr="mod*of*n:w13075" w="ATP" l="~" p="N"/>
+     <dpg d="w13078" g="w13079" t="be" cr="be:w13079" w="was" l="be" p="be"/>
+     <dpg d="w13079" g="E0" t="i" cr="conj:w13064" w="prevented" l="prevent" p="V"/>
+     <dpg d="E5" g="w13079" t="obj" cr="" w="" l="effect" p="N"/>
+     <dpg d="E5" g="w13075" t="antecedent" cr="" w="" l="effect" p="N"/>
+     <dpg d="w13080" g="w13079" t="by-subj" cr="by-subj:w13079" w="by" l="~" p="Prep"/>
+     <dpg d="w13081" g="w13082" t="det" cr="det:w13082" w="the" l="~" p="Det"/>
+     <dpg d="w13082" g="w13085" t="nn" cr="nn:w13085" w="ecto-5'-nucleotidase" l="~" p="N"/>
+     <dpg d="w13083" g="w13085" t="nn" cr="nn:w13085" w="inhibitor" l="~" p="N"/>
+     <dpg d="w13084" g="w13085" t="mod" cr="mod:w13085" w="alpha,beta-methylene" l="alpha,beta-methylene" p="A"/>
+     <dpg d="w13085" g="E3" t="subclass" cr="subclass:E3" w="ADP" l="~" p="N"/>
+     <dpg d="w13086" g="w13085" t="punc" cr="punc:w13085" w="(" l="~" p="U"/>
+     <dpg d="w13087" g="w13088" t="num" cr="num:w13088" w="100" l="~" p="N"/>
+     <dpg d="w13088" g="w13085" t="appo" cr="appo:w13085" w="microM" l="~" p="N"/>
+     <dpg d="w13089" g="E3" t="punc" cr="punc:E3" w=")" l="~" p="U"/>
+     <dpg d="w13090" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w13091" g="E3" t="p" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w13092" g="w13093" t="nn" cr="nn:w13093" w="adenosine" l="~" p="N"/>
+     <dpg d="w13093" g="w13091" t="pcomp-n" cr="p*by*n:E3" w="deaminase" l="~" p="N"/>
+     <dpg d="w13094" g="w13093" t="punc" cr="punc:w13093" w="(" l="~" p="U"/>
+     <dpg d="w13095" g="w13096" t="num" cr="num:w13096" w="2" l="~" p="N"/>
+     <dpg d="w13096" g="w13093" t="appo" cr="appo:w13093" w="U/ml" l="~" p="N"/>
+     <dpg d="w13097" g="w13091" t="punc" cr="punc:w13091" w=")" l="~" p="U"/>
+     <dpg d="w13098" g="w13091" t="punc" cr="punc:w13091" w="and" l="~" p="U"/>
+     <dpg d="w13099" g="w13091" t="conj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w13100" g="w13104" t="det" cr="det:w13104" w="the" l="~" p="Det"/>
+     <dpg d="w13101" g="w13104" t="nn" cr="nn:w13104" w="A1" l="~" p="N"/>
+     <dpg d="w13102" g="w13104" t="nn" cr="nn:w13104" w="adenosine" l="~" p="N"/>
+     <dpg d="w13103" g="w13104" t="nn" cr="nn:w13104" w="receptor" l="~" p="N"/>
+     <dpg d="w13104" g="w13099" t="pcomp-n" cr="p*by*n:E3" w="antagonist" l="~" p="N"/>
+     <dpg d="w13105" g="w13107" t="nn" cr="nn:w13107" w="1,3-dipropyl-8-cyclopentylxanthine" l="1,3-dipropyl-8-cyclopentylxanthine" p="N"/>
+     <dpg d="w13106" g="w13107" t="punc" cr="punc:w13107" w="(" l="~" p="U"/>
+     <dpg d="w13107" g="E3" t="subclass" cr="subclass:E3" w="DPCPX" l="~" p="N"/>
+     <dpg d="w13108" g="w13107" t="punc" cr="punc:w13107" w="," l="~" p="U"/>
+     <dpg d="w13109" g="w13110" t="num" cr="num:w13110" w="20" l="~" p="N"/>
+     <dpg d="w13110" g="w13107" t="appo" cr="appo:w13107" w="nM" l="~" p="N"/>
+     <dpg d="w13111" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w13112" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

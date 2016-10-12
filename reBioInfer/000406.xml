@@ -1,0 +1,128 @@
+<rexml>
+<doc id="406">
+  <text>
+<p><s id="s1"><w id="w5923">DNA</w> <w id="w5924">sequence</w> <w id="w5925">analysis</w> <w id="w5926">of</w> <w id="w5927">the</w> <w id="w5928">cdc3+</w> <w id="w5929">gene</w> <w id="w5930">reveals</w> <w id="w5931">that</w> <w id="w5932">it</w> <w id="w5933">encodes</w> <w id="w5934">profilin</w> <w id="w5935">,</w> <w id="w5936">an</w> <w id="w5937">actin</w><w id="w5938">-monomer</w><w id="w5939">-</w><w id="w5940">binding</w> <w id="w5941">protein</w> <w id="w5942">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1437" gid="g1370" t="Gene" fr="w5928" to="w5929" nam="yes">
+     <textspan type="extent">cdc3+ gene</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.406.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1438" gid="g1371" t="RELATIONSHIP_TEXTBINDING" fr="w5933" to="w5933">
+     <textspan type="extent">encodes</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.406.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1439" gid="g1372" t="Individual_protein" fr="w5937" to="w5938" nam="yes">
+     <textspan type="extent">actin-monomer</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.406.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1440" gid="g1373" t="Individual_protein" fr="w5934" to="w5934" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.406.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1441" gid="g1370" t="Gene" fr="w5932" to="w5932" nam="yes">
+     <textspan type="extent">it</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.406.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1442" gid="g1374" t="Gene" fr="w5928" to="w5928" nam="yes">
+     <textspan type="extent">cdc3+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.406.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1443" gid="g1375" t="RELATIONSHIP_TEXTBINDING" fr="w5940" to="w5940">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.406.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1444" gid="g1376" t="Individual_protein" fr="w5937" to="w5937" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.406.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r564" t="ENCODE" e1="e1441" e2="e1440" re="e1438">
+     <textspan type="extent">it encodes profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.406.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+    <rel id="r565" t="BIND" e1="e1440" e2="e1439" re="e1443">
+     <textspan type="extent">profilin , an actin -monomer - binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.406.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

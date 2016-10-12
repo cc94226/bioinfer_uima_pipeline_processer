@@ -1,0 +1,71 @@
+<rexml>
+<doc id="1709">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w27277" g="w27278" t="det" cr="det:w27278" w="These" l="~" p="Det"/>
+     <dpg d="w27278" g="w27280" t="s" cr="s+subj:w27280" w="proteins" l="protein" p="N"/>
+     <dpg d="w27279" g="w27280" t="mod-before" cr="mod-before:w27280" w="each" l="~" p="A"/>
+     <dpg d="w27280" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="have" l="~" p="V"/>
+     <dpg d="E4" g="w27280" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E4" g="w27278" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w27281" g="w27287" t="det" cr="det:w27287" w="a" l="~" p="Det"/>
+     <dpg d="w27282" g="w27283" t="lex-mod" cr="lex-mod:w27283" w="verprolin" l="~" p="U"/>
+     <dpg d="w27283" g="w27287" t="nn" cr="nn:w27287" w="-homology" l="verprolin -homology" p="N"/>
+     <dpg d="w27284" g="w27287" t="punc" cr="punc:w27287" w="(" l="~" p="U"/>
+     <dpg d="w27285" g="w27287" t="mod" cr="mod:w27287" w="V" l="~" p="A"/>
+     <dpg d="w27286" g="w27287" t="punc" cr="punc:w27287" w=")" l="~" p="U"/>
+     <dpg d="w27287" g="w27280" t="obj" cr="obj:w27280" w="domain" l="~" p="N"/>
+     <dpg d="w27288" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w27289" g="w27290" t="lex-mod" cr="lex-mod:w27290" w="cofilin" l="~" p="U"/>
+     <dpg d="w27290" g="w27294" t="nn" cr="nn:w27294" w="-homology" l="cofilin -homology" p="N"/>
+     <dpg d="w27291" g="w27294" t="punc" cr="punc:w27294" w="(" l="~" p="U"/>
+     <dpg d="w27292" g="w27294" t="mod" cr="mod:w27294" w="C" l="~" p="A"/>
+     <dpg d="w27293" g="w27294" t="punc" cr="punc:w27294" w=")" l="~" p="U"/>
+     <dpg d="w27294" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="domain" l="~" p="N"/>
+     <dpg d="w27295" g="E3" t="punc" cr="punc:E3" w="and" l="~" p="U"/>
+     <dpg d="w27296" g="E3" t="punc" cr="punc:E3" w="an" l="~" p="U"/>
+     <dpg d="w27297" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="acidic" l="~" p="A"/>
+     <dpg d="w27298" g="E3" t="punc" cr="punc:E3" w="(" l="~" p="U"/>
+     <dpg d="w27299" g="w27301" t="det" cr="det:w27301" w="A" l="~" p="Det"/>
+     <dpg d="w27300" g="w27301" t="punc" cr="punc:w27301" w=")" l="~" p="U"/>
+     <dpg d="w27301" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="region" l="~" p="N"/>
+     <dpg d="w27302" g="w27301" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w27303" g="w27304" t="det" cr="det:w27304" w="the" l="~" p="Det"/>
+     <dpg d="w27304" g="w27302" t="pcomp-n" cr="mod*at*n:w27301" w="C-terminus" l="C-terminus" p="N"/>
+     <dpg d="w27305" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w27306" g="E3" t="p" cr="" w="through" l="~" p="Prep"/>
+     <dpg d="w27307" g="w27306" t="pcomp-n" cr="p*through*n:E3" w="which" l="~" p="N"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w27308" g="w27309" t="s" cr="s+subj:w27309" w="they" l="~" p="N"/>
+     <dpg d="w27309" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="activate" l="~" p="V"/>
+     <dpg d="E5" g="w27309" t="subj" cr="" w="" l="they" p="N"/>
+     <dpg d="E5" g="w27308" t="antecedent" cr="" w="" l="they" p="N"/>
+     <dpg d="w27310" g="w27313" t="det" cr="det:w27313" w="the" l="~" p="Det"/>
+     <dpg d="w27311" g="w27312" t="lex-mod" cr="lex-mod:w27312" w="Arp" l="~" p="U"/>
+     <dpg d="w27312" g="w27313" t="nn" cr="nn:w27313" w="2" l="Arp 2" p="N"/>
+     <dpg d="w27313" g="w27309" t="obj" cr="obj:w27309" w="/" l="~" p="N"/>
+     <dpg d="w27314" g="w27315" t="num" cr="num:w27315" w="3" l="~" p="N"/>
+     <dpg d="w27315" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="complex" l="~" p="N"/>
+     <dpg d="w27316" g="w27315" t="punc" cr="punc:w27315" w="," l="~" p="U"/>
+     <dpg d="w27317" g="w27315" t="pnmod" cr="pnmod:w27315" w="leading" l="~" p="A"/>
+     <dpg d="w27318" g="w27317" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w27319" g="w27321" t="mod" cr="mod:w27321" w="rapid" l="~" p="A"/>
+     <dpg d="w27320" g="w27321" t="nn" cr="nn:w27321" w="actin" l="~" p="N"/>
+     <dpg d="w27321" g="w27318" t="pcomp-n" cr="mod*to*n:w27317" w="polymerization" l="~" p="N"/>
+     <dpg d="w27322" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

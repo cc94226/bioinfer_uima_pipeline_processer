@@ -1,0 +1,57 @@
+<rexml>
+<doc id="930">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14517" g="E2" t="mod" cr="" w="Like" l="~" p="Prep"/>
+     <dpg d="w14518" g="w14517" t="pcomp-n" cr="mod*like*n:w14536" w="actin" l="~" p="N"/>
+     <dpg d="w14519" g="w14518" t="punc" cr="punc:w14518" w="," l="~" p="U"/>
+     <dpg d="w14520" g="w14525" t="det" cr="det:w14525" w="the" l="~" p="Det"/>
+     <dpg d="w14521" g="w14523" t="lex-mod" cr="lex-mod:w14523" w="actin" l="~" p="U"/>
+     <dpg d="w14522" g="w14523" t="lex-mod" cr="lex-mod:w14523" w="-" l="~" p="U"/>
+     <dpg d="w14523" g="w14525" t="mod" cr="mod:w14525" w="associated" l="actin - associated" p="A"/>
+     <dpg d="w14524" g="w14525" t="nn" cr="nn:w14525" w="proteins" l="protein" p="N"/>
+     <dpg d="w14525" g="w14518" t="conj" cr="conj:w14518" w="filamin" l="~" p="N"/>
+     <dpg d="w14526" g="w14525" t="punc" cr="punc:w14525" w="," l="~" p="U"/>
+     <dpg d="w14527" g="w14525" t="conj" cr="conj:w14525" w="talin" l="~" p="N"/>
+     <dpg d="w14528" g="w14527" t="punc" cr="punc:w14527" w="and" l="~" p="U"/>
+     <dpg d="w14529" g="w14531" t="det" cr="det:w14531" w="the" l="~" p="Det"/>
+     <dpg d="w14530" g="w14531" t="lex-mod" cr="lex-mod:w14531" w="beta" l="~" p="U"/>
+     <dpg d="w14531" g="w14527" t="conj" cr="conj:w14527" w="1" l="beta 1" p="N"/>
+     <dpg d="w14532" g="w14533" t="nn" cr="nn:w14533" w="integrin" l="~" p="N"/>
+     <dpg d="w14533" g="w14536" t="s" cr="s+obj:w14536||s+subj:w14538||s+subj:w14540" w="subunit" l="~" p="N"/>
+     <dpg d="w14534" g="w14536" t="be" cr="be:w14536" w="were" l="be" p="be"/>
+     <dpg d="w14535" g="w14536" t="amod" cr="amod:w14536" w="also" l="~" p="A"/>
+     <dpg d="w14536" g="E2" t="i" cr="" w="found" l="find" p="V"/>
+     <dpg d="E6" g="w14536" t="obj" cr="" w="" l="subunit" p="N"/>
+     <dpg d="E6" g="w14533" t="antecedent" cr="" w="" l="subunit" p="N"/>
+     <dpg d="E1" g="w14536" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w14533" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w14537" g="w14538" t="aux" cr="aux:w14538" w="to" l="~" p="Aux"/>
+     <dpg d="w14538" g="E1" t="i" cr="mod:w14536" w="accumulate" l="~" p="V"/>
+     <dpg d="E7" g="w14538" t="subj" cr="" w="" l="subunit" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="subunit" p="N"/>
+     <dpg d="w14539" g="w14538" t="mod" cr="" w="around" l="~" p="Prep"/>
+     <dpg d="E0" g="w14539" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w14540" g="E0" t="i" cr="mod*around*c:w14538" w="entering" l="enter" p="V"/>
+     <dpg d="E8" g="w14540" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w14541" g="w14540" t="obj" cr="obj:w14540" w="bacteria" l="~" p="N"/>
+     <dpg d="w14542" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

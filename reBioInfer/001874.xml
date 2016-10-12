@@ -1,0 +1,115 @@
+<rexml>
+<doc id="1874">
+  <text>
+<p><s id="s1"><w id="w30026">Thus</w> <w id="w30027">,</w> <w id="w30028">like</w> <w id="w30029">verprolin</w> <w id="w30030">,</w> <w id="w30031">WIP</w> <w id="w30032">functions</w> <w id="w30033">in</w> <w id="w30034">yeast</w> <w id="w30035">to</w> <w id="w30036">link</w> <w id="w30037">the</w> <w id="w30038">polarity</w> <w id="w30039">development</w> <w id="w30040">pathway</w> <w id="w30041">and</w> <w id="w30042">the</w> <w id="w30043">actin</w> <w id="w30044">cytoskeleton</w> <w id="w30045">to</w> <w id="w30046">generate</w> <w id="w30047">cytoskeletal</w> <w id="w30048">asymmetry</w> <w id="w30049">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6961" gid="g6645" t="Individual_protein" fr="w30029" to="w30029" nam="yes">
+     <textspan type="extent">verprolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1874.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6962" gid="g6646" t="RELATIONSHIP_TEXTBINDING" fr="w30036" to="w30036">
+     <textspan type="extent">link</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1874.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6963" gid="g6647" t="Cell_component" fr="w30043" to="w30044" nam="yes">
+     <textspan type="extent">actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1874.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6964" gid="g6648" t="RELATIONSHIP_TEXTBINDING" fr="w30028" to="w30036">
+     <textspan type="extent">like [..] link</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1874.3"/>
+      <exattr n="nst" v="st.1874.2.0"/>
+      <exattr n="nst" v="st.1874.10.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6965" gid="g6649" t="Process_entity" fr="w30040" to="w30040">
+     <textspan type="extent">pathway</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.1874.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6966" gid="g6650" t="Individual_protein" fr="w30031" to="w30031" nam="yes">
+     <textspan type="extent">WIP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1874.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6967" gid="g6651" t="Individual_protein" fr="w30043" to="w30043" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1874.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2678" t="CAUSE" e1="e6966" e2="e6962" re="e6962">
+     <textspan type="extent">WIP functions in yeast to link the polarity development pathway and the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1874.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2679" t="RELATE" e1="e6965" e2="e6963" re="e6962">
+     <textspan type="extent">link the polarity development pathway and the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1874.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2680" t="CAUSE" e1="e6961" e2="e6962" re="e6964">
+     <textspan type="extent">like verprolin , WIP functions in yeast to link the polarity development pathway and the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1874.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2681" t="RELATE" e1="e6965" e2="e6963" re="e6962">
+     <textspan type="extent">link the polarity development pathway and the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1874.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

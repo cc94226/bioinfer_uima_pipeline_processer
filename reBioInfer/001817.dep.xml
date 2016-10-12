@@ -1,0 +1,40 @@
+<rexml>
+<doc id="1817">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29215" g="w29216" t="s" cr="s:w29216||subj:w29217" w="This" l="~" p="N"/>
+     <dpg d="w29216" g="E1" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="w29217" g="w29216" t="pred" cr="pred:w29216" w="consistent" l="~" p="A"/>
+     <dpg d="E4" g="w29217" t="subj" cr="" w="" l="this" p="N"/>
+     <dpg d="E4" g="w29215" t="antecedent" cr="" w="" l="this" p="N"/>
+     <dpg d="w29218" g="w29217" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w29219" g="w29220" t="nn" cr="nn:w29220" w="cofilin" l="~" p="N"/>
+     <dpg d="w29220" g="w29218" t="pcomp-n" cr="mod*with*n:w29217||s+obj:w29222" w="activation" l="~" p="N"/>
+     <dpg d="E0" g="w29220" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w29220" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w29221" g="w29222" t="being" cr="being:w29222" w="being" l="be" p="be"/>
+     <dpg d="w29222" g="E0" t="i" cr="rel:w29220" w="required" l="require" p="V"/>
+     <dpg d="E5" g="w29222" t="obj" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w29223" g="w29222" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w29224" g="w29225" t="nn" cr="nn:w29225" w="actin" l="~" p="N"/>
+     <dpg d="w29225" g="w29223" t="pcomp-n" cr="mod*for*n:w29222" w="reorganization" l="~" p="N"/>
+     <dpg d="w29226" g="w29225" t="mod" cr="" w="during" l="~" p="Prep"/>
+     <dpg d="w29227" g="w29226" t="pcomp-n" cr="mod*during*n:w29225" w="exocytosis" l="~" p="N"/>
+     <dpg d="w29228" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

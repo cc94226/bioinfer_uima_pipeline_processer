@@ -1,0 +1,45 @@
+<rexml>
+<doc id="415">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6006" g="E0" t="mod" cr="" w="During" l="~" p="Prep"/>
+     <dpg d="w6007" g="w6006" t="pcomp-n" cr="mod*during*n:w6027" w="incubation" l="~" p="N"/>
+     <dpg d="w6008" g="w6007" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6009" g="w6010" t="mod" cr="mod:w6010" w="whole" l="~" p="A"/>
+     <dpg d="w6010" g="w6008" t="pcomp-n" cr="mod*of*n:w6007" w="myofibrils" l="myofibril" p="N"/>
+     <dpg d="w6011" g="w6010" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w6012" g="w6014" t="num" cr="num:w6014" w="37" l="~" p="N"/>
+     <dpg d="w6013" g="w6014" t="lex-mod" cr="lex-mod:w6014" w="degrees" l="~" p="U"/>
+     <dpg d="w6014" g="w6011" t="pcomp-n" cr="mod*at*n:w6010" w="C" l="degrees C" p="N"/>
+     <dpg d="w6015" g="w6014" t="punc" cr="punc:w6014" w="," l="~" p="U"/>
+     <dpg d="w6016" g="w6018" t="nn" cr="nn:w6018" w="myosin" l="~" p="N"/>
+     <dpg d="w6017" g="w6018" t="mod" cr="mod:w6018" w="heavy" l="~" p="A"/>
+     <dpg d="w6018" g="w6014" t="conj" cr="conj:w6014" w="chain" l="~" p="N"/>
+     <dpg d="w6019" g="w6018" t="punc" cr="punc:w6018" w="," l="~" p="U"/>
+     <dpg d="w6020" g="w6021" t="mod" cr="mod:w6021" w="alpha" l="~" p="A"/>
+     <dpg d="w6021" g="w6018" t="conj" cr="conj:w6018" w="actinin" l="~" p="N"/>
+     <dpg d="w6022" g="w6021" t="punc" cr="punc:w6021" w="," l="~" p="U"/>
+     <dpg d="w6023" g="w6021" t="conj" cr="conj:w6021" w="actin" l="~" p="N"/>
+     <dpg d="w6024" g="w6023" t="punc" cr="punc:w6023" w="and" l="~" p="U"/>
+     <dpg d="w6025" g="w6023" t="conj" cr="conj:w6023" w="troponin" l="~" p="N"/>
+     <dpg d="w6026" g="w6027" t="s" cr="s+subj:w6027" w="T" l="~" p="N"/>
+     <dpg d="w6027" g="E0" t="i" cr="" w="suffered" l="suffer" p="V"/>
+     <dpg d="E2" g="w6027" t="subj" cr="" w="" l="T" p="N"/>
+     <dpg d="E2" g="w6026" t="antecedent" cr="" w="" l="T" p="N"/>
+     <dpg d="w6028" g="w6027" t="obj" cr="obj:w6027" w="degradation" l="~" p="N"/>
+     <dpg d="w6029" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

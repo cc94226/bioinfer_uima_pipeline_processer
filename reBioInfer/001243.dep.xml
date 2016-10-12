@@ -1,0 +1,130 @@
+<rexml>
+<doc id="1243">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w19593" g="w19594" t="nn" cr="nn:w19594" w="Ser-133" l="Ser-133" p="N"/>
+     <dpg d="w19594" g="w19595" t="s" cr="s+subj:w19595||s+subj:w19599" w="phosphorylation" l="~" p="N"/>
+     <dpg d="w19595" g="E2" t="i" cr="UNSPECRELTYPE:E6" w="enhances" l="enhance" p="V"/>
+     <dpg d="E7" g="w19595" t="subj" cr="" w="" l="phosphorylation" p="N"/>
+     <dpg d="E7" g="w19594" t="antecedent" cr="" w="" l="phosphorylation" p="N"/>
+     <dpg d="w19596" g="w19597" t="nn" cr="nn:w19597" w="CREB" l="~" p="N"/>
+     <dpg d="w19597" g="w19595" t="obj" cr="obj:w19595||obj:w19607" w="activity" l="~" p="N"/>
+     <dpg d="w19598" g="w19597" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E1" g="w19598" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w19594" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w19599" g="E1" t="i" cr="mod*by*c:w19597" w="promoting" l="promote" p="V"/>
+     <dpg d="E8" g="w19599" t="subj" cr="" w="" l="phosphorylation" p="N"/>
+     <dpg d="E8" g="E4" t="antecedent" cr="" w="" l="phosphorylation" p="N"/>
+     <dpg d="w19600" g="w19599" t="obj" cr="obj:w19599" w="interaction" l="~" p="N"/>
+     <dpg d="w19601" g="w19600" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w19602" g="w19604" t="det" cr="det:w19604" w="a" l="~" p="Det"/>
+     <dpg d="w19603" g="w19604" t="mod" cr="mod:w19604" w="265-kDa" l="265-kDa" p="A"/>
+     <dpg d="w19604" g="w19601" t="pcomp-n" cr="mod*with*n:w19600||s+subj:w19605" w="CREB" l="~" p="N"/>
+     <dpg d="E0" g="w19604" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w19604" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w19605" g="E0" t="i" cr="rel:w19604" w="binding" l="bind" p="V"/>
+     <dpg d="E9" g="w19605" t="subj" cr="" w="" l="CREB" p="N"/>
+     <dpg d="E9" g="E3" t="antecedent" cr="" w="" l="CREB" p="N"/>
+     <dpg d="w19606" g="w19605" t="obj" cr="obj:w19605" w="protein" l="~" p="N"/>
+     <dpg d="w19607" g="w19604" t="vrel" cr="vrel:w19604" w="referred" l="refer to" p="V"/>
+     <dpg d="w19608" g="w19607" t="lex-mod" cr="lex-mod:w19607" w="to" l="~" p="U"/>
+     <dpg d="E10" g="w19607" t="obj" cr="" w="" l="activity" p="N"/>
+     <dpg d="E10" g="w19597" t="antecedent" cr="" w="" l="activity" p="N"/>
+     <dpg d="w19609" g="w19607" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w19610" g="w19612" t="nn" cr="nn:w19612" w="CBP" l="~" p="N"/>
+     <dpg d="w19611" g="w19612" t="punc" cr="punc:w19612" w="(" l="~" p="U"/>
+     <dpg d="w19612" g="w19609" t="pcomp-n" cr="mod*as*n:w19607" w="Arias" l="~" p="N"/>
+     <dpg d="w19613" g="w19612" t="punc" cr="punc:w19612" w="," l="~" p="U"/>
+     <dpg d="w19614" g="w19612" t="conj" cr="conj:w19612" w="J." l="~" p="N"/>
+     <dpg d="w19615" g="w19614" t="punc" cr="punc:w19614" w="," l="~" p="U"/>
+     <dpg d="w19616" g="w19614" t="conj" cr="conj:w19614" w="Alberts" l="~" p="N"/>
+     <dpg d="w19617" g="w19616" t="punc" cr="punc:w19616" w="," l="~" p="U"/>
+     <dpg d="w19618" g="w19616" t="conj" cr="conj:w19616" w="A." l="~" p="N"/>
+     <dpg d="w19619" g="w19618" t="punc" cr="punc:w19618" w="," l="~" p="U"/>
+     <dpg d="w19620" g="w19618" t="conj" cr="conj:w19618" w="Brindle" l="~" p="N"/>
+     <dpg d="w19621" g="w19620" t="punc" cr="punc:w19620" w="," l="~" p="U"/>
+     <dpg d="w19622" g="w19620" t="conj" cr="conj:w19620" w="P." l="~" p="N"/>
+     <dpg d="w19623" g="w19622" t="punc" cr="punc:w19622" w="," l="~" p="U"/>
+     <dpg d="w19624" g="w19622" t="conj" cr="conj:w19622" w="Claret" l="~" p="N"/>
+     <dpg d="w19625" g="w19624" t="punc" cr="punc:w19624" w="," l="~" p="U"/>
+     <dpg d="w19626" g="w19624" t="conj" cr="conj:w19624" w="F." l="~" p="N"/>
+     <dpg d="w19627" g="w19626" t="punc" cr="punc:w19626" w="," l="~" p="U"/>
+     <dpg d="w19628" g="w19626" t="conj" cr="conj:w19626" w="Smeal" l="~" p="N"/>
+     <dpg d="w19629" g="w19628" t="punc" cr="punc:w19628" w="," l="~" p="U"/>
+     <dpg d="w19630" g="w19628" t="conj" cr="conj:w19628" w="T." l="~" p="N"/>
+     <dpg d="w19631" g="w19630" t="punc" cr="punc:w19630" w="," l="~" p="U"/>
+     <dpg d="w19632" g="w19630" t="conj" cr="conj:w19630" w="Karin" l="~" p="N"/>
+     <dpg d="w19633" g="w19632" t="punc" cr="punc:w19632" w="," l="~" p="U"/>
+     <dpg d="w19634" g="w19632" t="conj" cr="conj:w19632" w="M." l="~" p="N"/>
+     <dpg d="w19635" g="w19634" t="punc" cr="punc:w19634" w="," l="~" p="U"/>
+     <dpg d="w19636" g="w19634" t="conj" cr="conj:w19634" w="Feramisco" l="~" p="N"/>
+     <dpg d="w19637" g="w19636" t="punc" cr="punc:w19636" w="," l="~" p="U"/>
+     <dpg d="w19638" g="w19636" t="conj" cr="conj:w19636" w="J." l="~" p="N"/>
+     <dpg d="w19639" g="w19638" t="punc" cr="punc:w19638" w="," l="~" p="U"/>
+     <dpg d="w19640" g="w19638" t="punc" cr="punc:w19638" w="and" l="~" p="U"/>
+     <dpg d="w19641" g="w19638" t="conj" cr="conj:w19638" w="Montminy" l="~" p="N"/>
+     <dpg d="w19642" g="E6" t="punc" cr="punc:E6" w="," l="~" p="U"/>
+     <dpg d="w19643" g="E6" t="subclass" cr="subclass:E6" w="M." l="~" p="N"/>
+     <dpg d="w19644" g="w19643" t="punc" cr="punc:w19643" w="(" l="~" p="U"/>
+     <dpg d="w19645" g="w19643" t="appo-mod" cr="appo-mod:w19643" w="1994" l="~" p="N"/>
+     <dpg d="w19646" g="w19643" t="punc" cr="punc:w19643" w=")" l="~" p="U"/>
+     <dpg d="w19647" g="w19648" t="lex-mod" cr="lex-mod:w19648" w="Nature" l="~" p="U"/>
+     <dpg d="w19648" g="w19643" t="appo" cr="appo:w19643" w="370" l="Nature 370" p="N"/>
+     <dpg d="w19649" g="E6" t="punc" cr="punc:E6" w="," l="~" p="U"/>
+     <dpg d="w19650" g="E6" t="subcat" cr="subcat:E6" w="226-228" l="226-228" p="N"/>
+     <dpg d="w19651" g="E6" t="punc" cr="punc:E6" w=";" l="~" p="U"/>
+     <dpg d="w19652" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="Chrivia" l="~" p="N"/>
+     <dpg d="w19653" g="w19652" t="punc" cr="punc:w19652" w="," l="~" p="U"/>
+     <dpg d="w19654" g="w19655" t="lex-mod" cr="lex-mod:w19655" w="J." l="~" p="U"/>
+     <dpg d="w19655" g="w19652" t="conj" cr="conj:w19652" w="C." l="J. C." p="N"/>
+     <dpg d="w19656" g="w19655" t="punc" cr="punc:w19655" w="," l="~" p="U"/>
+     <dpg d="w19657" g="w19655" t="conj" cr="conj:w19655" w="Kwok" l="~" p="N"/>
+     <dpg d="w19658" g="w19657" t="punc" cr="punc:w19657" w="," l="~" p="U"/>
+     <dpg d="w19659" g="w19660" t="lex-mod" cr="lex-mod:w19660" w="R." l="~" p="U"/>
+     <dpg d="w19660" g="w19657" t="conj" cr="conj:w19657" w="P." l="R. P." p="N"/>
+     <dpg d="w19661" g="w19660" t="punc" cr="punc:w19660" w="," l="~" p="U"/>
+     <dpg d="w19662" g="w19660" t="conj" cr="conj:w19660" w="Lamb" l="~" p="N"/>
+     <dpg d="w19663" g="w19662" t="punc" cr="punc:w19662" w="," l="~" p="U"/>
+     <dpg d="w19664" g="w19662" t="conj" cr="conj:w19662" w="N." l="~" p="N"/>
+     <dpg d="w19665" g="w19664" t="punc" cr="punc:w19664" w="," l="~" p="U"/>
+     <dpg d="w19666" g="w19664" t="conj" cr="conj:w19664" w="Hagiwara" l="~" p="N"/>
+     <dpg d="w19667" g="w19666" t="punc" cr="punc:w19666" w="," l="~" p="U"/>
+     <dpg d="w19668" g="w19666" t="conj" cr="conj:w19666" w="M." l="~" p="N"/>
+     <dpg d="w19669" g="w19668" t="punc" cr="punc:w19668" w="," l="~" p="U"/>
+     <dpg d="w19670" g="w19668" t="conj" cr="conj:w19668" w="Montminy" l="~" p="N"/>
+     <dpg d="w19671" g="w19670" t="punc" cr="punc:w19670" w="," l="~" p="U"/>
+     <dpg d="w19672" g="w19673" t="lex-mod" cr="lex-mod:w19673" w="M." l="~" p="U"/>
+     <dpg d="w19673" g="w19670" t="conj" cr="conj:w19670" w="R." l="M. R." p="N"/>
+     <dpg d="w19674" g="w19673" t="punc" cr="punc:w19673" w="," l="~" p="U"/>
+     <dpg d="w19675" g="w19673" t="punc" cr="punc:w19673" w="and" l="~" p="U"/>
+     <dpg d="w19676" g="w19673" t="conj" cr="conj:w19673" w="Goodman" l="~" p="N"/>
+     <dpg d="w19677" g="E6" t="punc" cr="punc:E6" w="," l="~" p="U"/>
+     <dpg d="w19678" g="w19679" t="lex-mod" cr="lex-mod:w19679" w="R." l="~" p="U"/>
+     <dpg d="w19679" g="E6" t="subclass" cr="subclass:E6" w="H." l="R. H." p="N"/>
+     <dpg d="w19680" g="w19679" t="punc" cr="punc:w19679" w="(" l="~" p="U"/>
+     <dpg d="w19681" g="w19679" t="appo-mod" cr="appo-mod:w19679" w="1993" l="~" p="N"/>
+     <dpg d="w19682" g="w19679" t="punc" cr="punc:w19679" w=")" l="~" p="U"/>
+     <dpg d="w19683" g="w19684" t="lex-mod" cr="lex-mod:w19684" w="Nature" l="~" p="U"/>
+     <dpg d="w19684" g="w19679" t="appo" cr="appo:w19679" w="365" l="Nature 365" p="N"/>
+     <dpg d="w19685" g="E6" t="punc" cr="punc:E6" w="," l="~" p="U"/>
+     <dpg d="w19686" g="E6" t="subcat" cr="subcat:E6" w="855-859" l="855-859" p="N"/>
+     <dpg d="w19687" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w19688" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

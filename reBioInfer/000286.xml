@@ -1,0 +1,35 @@
+<rexml>
+<doc id="286">
+  <text>
+<p><s id="s1"><w id="w4421">Calculated</w> <w id="w4422">solution</w> <w id="w4423">molecular</w> <w id="w4424">masses</w> <w id="w4425">are</w> <w id="w4426">213</w> <w id="w4427">kDa</w> <w id="w4428">for</w> <w id="w4429">alpha-catenin</w> <w id="w4430">,</w> <w id="w4431">73</w> <w id="w4432">kDa</w> <w id="w4433">for</w> <w id="w4434">beta-catenin</w> <w id="w4435">,</w> <w id="w4436">and</w> <w id="w4437">186</w> <w id="w4438">kDa</w> <w id="w4439">for</w> <w id="w4440">both</w> <w id="w4441">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1075" gid="g1025" t="Gene/protein/RNA" fr="w4429" to="w4429" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.286.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1076" gid="g1026" t="Gene/protein/RNA" fr="w4434" to="w4434" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.286.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

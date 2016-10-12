@@ -1,0 +1,51 @@
+<rexml>
+<doc id="1202">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18987" g="w18993" t="s" cr="s+subj:w18993" w="Replacement" l="~" p="N"/>
+     <dpg d="w18988" g="w18987" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w18989" g="w18988" t="pcomp-n" cr="mod*of*n:w18987" w="serine" l="~" p="N"/>
+     <dpg d="w18990" g="w18989" t="num" cr="num:w18989" w="38" l="~" p="N"/>
+     <dpg d="w18991" g="w18989" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w18992" g="w18991" t="pcomp-n" cr="mod*with*n:w18989" w="cysteine" l="~" p="N"/>
+     <dpg d="w18993" g="E1" t="i" cr="UNSPECRELTYPE:w19003" w="created" l="create" p="V"/>
+     <dpg d="E5" g="w18993" t="subj" cr="" w="" l="replacement" p="N"/>
+     <dpg d="E5" g="w18987" t="antecedent" cr="" w="" l="replacement" p="N"/>
+     <dpg d="w18994" g="w18996" t="det" cr="det:w18996" w="a" l="~" p="Det"/>
+     <dpg d="w18995" g="w18996" t="mod" cr="mod:w18996" w="unique" l="~" p="A"/>
+     <dpg d="w18996" g="w18993" t="obj" cr="obj:w18993||s+obj:w18998" w="site" l="~" p="N"/>
+     <dpg d="E0" g="w18996" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="w18997" g="E0" t="whn" cr="whn:w18998" w="where" l="~" p="N"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w18996" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w18998" g="E0" t="i" cr="rel:w18996" w="labeling" l="label" p="V"/>
+     <dpg d="E6" g="w18998" t="obj" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w18999" g="w18998" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w19000" g="w18999" t="pcomp-n" cr="mod*with*n:w18998" w="rhodamine" l="~" p="N"/>
+     <dpg d="w19001" g="w19003" t="aux" cr="aux:w19003" w="did" l="do" p="Aux"/>
+     <dpg d="w19002" g="w19001" t="neg" cr="neg:w19001" w="not" l="~" p="A"/>
+     <dpg d="w19003" g="E4" t="i" cr="" w="alter" l="~" p="V"/>
+     <dpg d="w19004" g="w19005" t="det" cr="det:w19005" w="the" l="~" p="Det"/>
+     <dpg d="w19005" g="w19003" t="obj" cr="obj:w19003" w="affinity" l="~" p="N"/>
+     <dpg d="w19006" g="w19005" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w19007" g="w19006" t="pcomp-n" cr="mod*of*n:w19005" w="profilin" l="~" p="N"/>
+     <dpg d="w19008" g="w19007" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w19009" g="w19008" t="pcomp-n" cr="mod*for*n:w19007" w="actin" l="~" p="N"/>
+     <dpg d="w19010" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

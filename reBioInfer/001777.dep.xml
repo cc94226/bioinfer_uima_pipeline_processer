@@ -1,0 +1,59 @@
+<rexml>
+<doc id="1777">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28415" g="w28418" t="det" cr="det:w28418" w="The" l="~" p="Det"/>
+     <dpg d="w28416" g="w28418" t="nn" cr="nn:w28418" w="tandem" l="~" p="N"/>
+     <dpg d="w28417" g="w28418" t="nn" cr="nn:w28418" w="repeat" l="~" p="N"/>
+     <dpg d="w28418" g="w28425" t="s" cr="s+subj:w28425||s+subj:w28436" w="domain" l="~" p="N"/>
+     <dpg d="w28419" g="w28418" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w28420" g="w28424" t="det" cr="det:w28424" w="the" l="~" p="Det"/>
+     <dpg d="w28421" g="w28424" t="nn" cr="nn:w28424" w="Listeria" l="~" p="N"/>
+     <dpg d="w28422" g="w28424" t="nn" cr="nn:w28424" w="monocytogenes" l="~" p="N"/>
+     <dpg d="w28423" g="w28424" t="nn" cr="nn:w28424" w="ActA" l="~" p="N"/>
+     <dpg d="w28424" g="w28419" t="pcomp-n" cr="mod*in*n:w28418" w="protein" l="~" p="N"/>
+     <dpg d="w28425" g="E1" t="i" cr="" w="controls" l="control" p="V"/>
+     <dpg d="E4" g="w28425" t="subj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E4" g="w28418" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="w28426" g="w28427" t="det" cr="det:w28427" w="the" l="~" p="Det"/>
+     <dpg d="w28427" g="w28425" t="obj" cr="obj:w28425" w="rate" l="~" p="N"/>
+     <dpg d="w28428" g="w28427" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w28429" g="w28430" t="lex-mod" cr="lex-mod:w28430" w="actin" l="~" p="U"/>
+     <dpg d="w28430" g="w28431" t="mod" cr="mod:w28431" w="-based" l="actin -based" p="A"/>
+     <dpg d="w28431" g="w28428" t="pcomp-n" cr="mod*of*n:w28427" w="motility" l="~" p="N"/>
+     <dpg d="w28432" g="w28431" t="punc" cr="punc:w28431" w="," l="~" p="U"/>
+     <dpg d="w28433" g="w28434" t="det" cr="det:w28434" w="the" l="~" p="Det"/>
+     <dpg d="w28434" g="w28431" t="conj" cr="conj:w28431" w="percentage" l="~" p="N"/>
+     <dpg d="w28435" g="w28434" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="E0" g="w28435" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w28418" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w28436" g="E0" t="i" cr="mod*of*c:w28434" w="moving" l="move" p="V"/>
+     <dpg d="E5" g="w28436" t="subj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="w28437" g="w28436" t="obj" cr="obj:w28436" w="bacteria" l="~" p="N"/>
+     <dpg d="w28438" g="w28437" t="punc" cr="punc:w28437" w="," l="~" p="U"/>
+     <dpg d="w28439" g="w28437" t="punc" cr="punc:w28437" w="and" l="~" p="U"/>
+     <dpg d="w28440" g="w28441" t="det" cr="det:w28441" w="the" l="~" p="Det"/>
+     <dpg d="w28441" g="w28437" t="conj" cr="conj:w28437" w="localization" l="~" p="N"/>
+     <dpg d="w28442" g="w28441" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w28443" g="w28444" t="mod" cr="mod:w28444" w="vasodilator-stimulated" l="vasodilator-stimulated" p="A"/>
+     <dpg d="w28444" g="w28442" t="pcomp-n" cr="mod*of*n:w28441" w="phosphoprotein" l="~" p="N"/>
+     <dpg d="w28445" g="w28444" t="punc" cr="punc:w28444" w="and" l="~" p="U"/>
+     <dpg d="w28446" g="w28444" t="conj" cr="conj:w28444" w="profilin" l="~" p="N"/>
+     <dpg d="w28447" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

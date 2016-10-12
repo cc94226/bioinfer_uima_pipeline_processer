@@ -1,0 +1,117 @@
+<rexml>
+<doc id="514">
+  <text>
+<p><s id="s1"><w id="w7093">From</w> <w id="w7094">an</w> <w id="w7095">analysis</w> <w id="w7096">of</w> <w id="w7097">profilin</w> <w id="w7098">mutants</w> <w id="w7099">,</w> <w id="w7100">whose</w> <w id="w7101">actin</w> <w id="w7102">cytoskeleton</w> <w id="w7103">is</w> <w id="w7104">disrupted</w> <w id="w7105">,</w> <w id="w7106">we</w> <w id="w7107">found</w> <w id="w7108">that</w> <w id="w7109">E-APC</w> <w id="w7110">also</w> <w id="w7111">requires</w> <w id="w7112">actin</w> <w id="w7113">filaments</w> <w id="w7114">to</w> <w id="w7115">associate</w> <w id="w7116">with</w> <w id="w7117">adhesive</w> <w id="w7118">cell</w> <w id="w7119">membranes</w> <w id="w7120">in</w> <w id="w7121">the</w> <w id="w7122">ovary</w> <w id="w7123">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1701" gid="g1629" t="Gene/protein/RNA" fr="w7097" to="w7097" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.514.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1702" gid="g1630" t="RELATIONSHIP_TEXTBINDING" fr="w7111" to="w7114">
+     <textspan type="extent">requires [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.514.1"/>
+      <exattr n="nst" v="st.514.18.0"/>
+      <exattr n="nst" v="st.514.21.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1703" gid="g1631" t="Individual_protein" fr="w7109" to="w7109" nam="yes">
+     <textspan type="extent">E-APC</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.514.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1704" gid="g1632" t="Gene/protein/RNA" fr="w7101" to="w7101" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.514.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1705" gid="g1633" t="Cell_component" fr="w7119" to="w7119" nam="yes">
+     <textspan type="extent">membranes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.514.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1706" gid="g1634" t="Cell_component" fr="w7112" to="w7113" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.514.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1707" gid="g1635" t="RELATIONSHIP_TEXTBINDING" fr="w7115" to="w7116">
+     <textspan type="extent">associate with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.514.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1708" gid="g1636" t="Individual_protein" fr="w7112" to="w7112" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.514.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r672" t="CONDITION" e1="e1706" e2="e1707" re="e1702">
+     <textspan type="extent">E-APC also requires actin filaments to associate with adhesive cell membranes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.514.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r673" t="BIND" e1="e1703" e2="e1705" re="e1707">
+     <textspan type="extent">E-APC also requires actin filaments to associate with adhesive cell membranes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.514.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

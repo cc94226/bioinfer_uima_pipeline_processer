@@ -1,0 +1,124 @@
+<rexml>
+<doc id="1726">
+  
+  <markup>
+   <nes>
+    <ne id="e6331" gid="g6043" t="Individual_protein" fr="w27510" to="w27510" nam="yes" sid="s1">
+     <textspan>LIM-kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1726.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6339" gid="g6051" t="Individual_protein" fr="w27512" to="w27512" nam="yes" sid="s1">
+     <textspan>ROCK</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1726.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6332" gid="g6044" t="Individual_protein" fr="w27518" to="w27518" nam="yes" sid="s1">
+     <textspan>cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1726.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6335" gid="g6047" t="Individual_protein" fr="w27520" to="w27520" nam="yes" sid="s1">
+     <textspan>LIM-kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1726.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6340" gid="g6052" t="Individual_protein" fr="w27523" to="w27523" nam="yes" sid="s1">
+     <textspan>Rho</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1726.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e6336" gid="g6048" t="Cell_component" fr="w27528" to="w27530" nam="yes" sid="s1">
+     <textspan>the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1726.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6341" gid="g6053" t="Individual_protein" fr="w27529" to="w27529" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1726.11"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2420" t="PHOSPHORYLATE" e1="e6339" e2="e6331" re="e6330">
+     <textspan>phosphorylation of LIM-kinase by ROCK</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1726.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2421" t="PHOSPHORYLATE" e1="e6335" e2="e6332" re="e6333">
+     <textspan>phosphorylation of cofilin by LIM-kinase</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1726.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,39 @@
+<rexml>
+<doc id="767">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w11919" g="" t="" cr="" w="Inhibition" l="~" p="N"/>
+     <dpg d="w11920" g="w11919" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11921" g="w11922" t="nn" cr="nn:w11922" w="actin" l="~" p="N"/>
+     <dpg d="w11922" g="w11920" t="pcomp-n" cr="mod*of*n:w11919" w="polymerization" l="~" p="N"/>
+     <dpg d="w11923" g="w11922" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w11924" g="w11926" t="det" cr="det:w11926" w="a" l="~" p="Det"/>
+     <dpg d="w11925" g="w11926" t="mod" cr="mod:w11926" w="synthetic" l="~" p="A"/>
+     <dpg d="w11926" g="w11923" t="pcomp-n" cr="mod*by*n:w11922" w="dodecapeptide" l="~" p="N"/>
+     <dpg d="w11927" g="w11926" t="pnmod" cr="pnmod:w11926" w="patterned" l="~" p="A"/>
+     <dpg d="w11928" g="w11927" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w11929" g="w11930" t="det" cr="det:w11930" w="the" l="~" p="Det"/>
+     <dpg d="w11930" g="w11928" t="pcomp-n" cr="mod*on*n:w11927" w="sequence" l="~" p="N"/>
+     <dpg d="w11931" g="w11930" t="mod" cr="" w="around" l="~" p="Prep"/>
+     <dpg d="w11932" g="w11936" t="det" cr="det:w11936" w="the" l="~" p="Det"/>
+     <dpg d="w11933" g="w11935" t="lex-mod" cr="lex-mod:w11935" w="actin" l="~" p="U"/>
+     <dpg d="w11934" g="w11935" t="lex-mod" cr="lex-mod:w11935" w="-" l="~" p="U"/>
+     <dpg d="w11935" g="w11936" t="mod" cr="mod:w11936" w="binding" l="actin - binding" p="A"/>
+     <dpg d="w11936" g="w11931" t="pcomp-n" cr="mod*around*n:w11930" w="site" l="~" p="N"/>
+     <dpg d="w11937" g="w11936" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11938" g="w11937" t="pcomp-n" cr="mod*of*n:w11936" w="cofilin" l="~" p="N"/>
+     <dpg d="w11939" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

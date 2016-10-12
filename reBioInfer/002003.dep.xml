@@ -1,0 +1,69 @@
+<rexml>
+<doc id="2003">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32032" g="w32037" t="s" cr="s+subj:w32037" w="VASP" l="~" p="N"/>
+     <dpg d="w32033" g="w32037" t="punc" cr="punc:w32037" w="," l="~" p="U"/>
+     <dpg d="w32034" g="w32037" t="mod-before" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w32035" g="w32034" t="pcomp-n" cr="mod-before*in*n:w32037" w="turn" l="~" p="N"/>
+     <dpg d="w32036" g="w32037" t="punc" cr="punc:w32037" w="," l="~" p="U"/>
+     <dpg d="w32037" g="E0" t="i" cr="UNSPECRELTYPE:E5" w="provides" l="provide" p="V"/>
+     <dpg d="E6" g="w32037" t="subj" cr="" w="" l="VASP" p="N"/>
+     <dpg d="E6" g="w32032" t="antecedent" cr="" w="" l="VASP" p="N"/>
+     <dpg d="w32038" g="w32042" t="det" cr="det:w32042" w="the" l="~" p="Det"/>
+     <dpg d="w32039" g="w32042" t="nn" cr="nn:w32042" w="ABM-2" l="ABM-2" p="N"/>
+     <dpg d="w32040" g="w32042" t="nn" cr="nn:w32042" w="sequences" l="sequence" p="N"/>
+     <dpg d="w32041" g="w32042" t="punc" cr="punc:w32042" w="[" l="~" p="U"/>
+     <dpg d="w32042" g="w32037" t="obj" cr="obj:w32037" w="XPPPPP" l="~" p="N"/>
+     <dpg d="w32043" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="w32044" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="X" l="~" p="N"/>
+     <dpg d="w32045" g="E5" t="punc" cr="punc:E5" w="=" l="~" p="U"/>
+     <dpg d="w32046" g="E5" t="subclass" cr="subclass:E5" w="G" l="~" p="N"/>
+     <dpg d="w32047" g="w32046" t="punc" cr="punc:w32046" w="," l="~" p="U"/>
+     <dpg d="w32048" g="w32046" t="appo" cr="appo:w32046" w="P" l="~" p="N"/>
+     <dpg d="w32049" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="w32050" g="E5" t="subclass" cr="subclass:E5" w="L" l="~" p="N"/>
+     <dpg d="w32051" g="w32050" t="punc" cr="punc:w32050" w="," l="~" p="U"/>
+     <dpg d="w32052" g="w32050" t="appo" cr="appo:w32050" w="S" l="~" p="N"/>
+     <dpg d="w32053" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="w32054" g="E5" t="punc" cr="punc:E5" w="A" l="~" p="U"/>
+     <dpg d="w32055" g="E5" t="punc" cr="punc:E5" w="]" l="~" p="U"/>
+     <dpg d="w32056" g="E5" t="p" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="E1" g="w32056" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="s+subj:w32057" w="" l="~" p="N"/>
+     <dpg d="w32057" g="E1" t="i" cr="p*for*c:E5" w="binding" l="bind" p="V"/>
+     <dpg d="E7" g="w32057" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w32058" g="w32057" t="obj" cr="obj:w32057" w="profilin" l="~" p="N"/>
+     <dpg d="w32059" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="w32060" g="w32064" t="det" cr="det:w32064" w="an" l="~" p="Det"/>
+     <dpg d="w32061" g="w32063" t="lex-mod" cr="lex-mod:w32063" w="actin" l="~" p="U"/>
+     <dpg d="w32062" g="w32063" t="lex-mod" cr="lex-mod:w32063" w="-" l="~" p="U"/>
+     <dpg d="w32063" g="w32064" t="mod" cr="mod:w32064" w="regulatory" l="actin - regulatory" p="A"/>
+     <dpg d="w32064" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5||subj:w32066" w="protein" l="~" p="N"/>
+     <dpg d="E2" g="w32064" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32065" g="E2" t="whn" cr="whn:w32066" w="that" l="~" p="THAT"/>
+     <dpg d="w32065" g="w32064" t="antecedent" cr="antecedent:w32064" w="that" l="~" p="THAT"/>
+     <dpg d="w32066" g="E2" t="i" cr="rel:w32064" w="stimulates" l="stimulate" p="V"/>
+     <dpg d="E8" g="w32066" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E8" g="w32064" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w32067" g="w32069" t="nn" cr="nn:w32069" w="actin" l="~" p="N"/>
+     <dpg d="w32068" g="w32069" t="nn" cr="nn:w32069" w="filament" l="~" p="N"/>
+     <dpg d="w32069" g="w32066" t="obj" cr="obj:w32066" w="assembly" l="~" p="N"/>
+     <dpg d="w32070" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,56 @@
+<rexml>
+<doc id="1861">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29889" g="E2" t="mod" cr="mod:w29892" w="Thus" l="~" p="A"/>
+     <dpg d="w29890" g="E2" t="punc" cr="punc:w29892" w="," l="~" p="U"/>
+     <dpg d="w29891" g="w29892" t="s" cr="s+subj:w29892" w="APC" l="~" p="N"/>
+     <dpg d="w29892" g="E2" t="i" cr="" w="forms" l="form" p="V"/>
+     <dpg d="E5" g="w29892" t="subj" cr="" w="" l="APC" p="N"/>
+     <dpg d="E5" g="w29891" t="antecedent" cr="" w="" l="APC" p="N"/>
+     <dpg d="w29893" g="w29895" t="mod" cr="mod:w29895" w="distinct" l="~" p="A"/>
+     <dpg d="w29894" g="w29895" t="mod" cr="mod:w29895" w="heteromeric" l="~" p="A"/>
+     <dpg d="w29895" g="w29892" t="obj" cr="obj:w29892||s+subj:w29896" w="complexes" l="complex" p="N"/>
+     <dpg d="E1" g="w29895" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w29895" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w29896" g="E1" t="i" cr="rel:w29895" w="containing" l="contain" p="V"/>
+     <dpg d="E6" g="w29896" t="subj" cr="" w="" l="complex" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="complex" p="N"/>
+     <dpg d="w29897" g="w29896" t="obj" cr="obj:w29896" w="combinations" l="combination" p="N"/>
+     <dpg d="w29898" g="w29897" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29899" g="w29898" t="pcomp-n" cr="mod*of*n:w29897" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w29900" g="w29899" t="punc" cr="punc:w29899" w="," l="~" p="U"/>
+     <dpg d="w29901" g="w29899" t="conj" cr="conj:w29899" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w29902" g="w29901" t="punc" cr="punc:w29901" w="," l="~" p="U"/>
+     <dpg d="w29903" g="w29901" t="punc" cr="punc:w29901" w="and" l="~" p="U"/>
+     <dpg d="w29904" g="w29901" t="conj" cr="conj:w29901||subj:w29907" w="plakoglobin" l="~" p="N"/>
+     <dpg d="E0" g="w29904" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29905" g="E0" t="whn" cr="whn:w29906" w="which" l="~" p="N"/>
+     <dpg d="w29905" g="w29904" t="antecedent" cr="antecedent:w29904" w="which" l="~" p="N"/>
+     <dpg d="w29906" g="E0" t="i" cr="rel:w29904" w="are" l="be" p="VBE"/>
+     <dpg d="w29907" g="w29906" t="pred" cr="pred:w29906" w="independent" l="~" p="A"/>
+     <dpg d="E7" g="w29907" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E7" g="w29904" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w29908" g="w29907" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w29909" g="w29913" t="det" cr="det:w29913" w="the" l="~" p="Det"/>
+     <dpg d="w29910" g="w29912" t="lex-mod" cr="lex-mod:w29912" w="cadherin" l="~" p="U"/>
+     <dpg d="w29911" g="w29912" t="lex-mod" cr="lex-mod:w29912" w="-" l="~" p="U"/>
+     <dpg d="w29912" g="w29913" t="mod" cr="mod:w29913" w="catenin" l="cadherin - catenin" p="A"/>
+     <dpg d="w29913" g="w29908" t="pcomp-n" cr="mod*from*n:w29907" w="complexes" l="complex" p="N"/>
+     <dpg d="w29914" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

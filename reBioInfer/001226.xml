@@ -1,0 +1,110 @@
+<rexml>
+<doc id="1226">
+  <text>
+<p><s id="s1"><w id="w19248">Saccharomyces</w> <w id="w19249">cerevisiae</w> <w id="w19250">PAC2</w> <w id="w19251">functions</w> <w id="w19252">with</w> <w id="w19253">CIN</w><w id="w19254">1</w> <w id="w19255">,</w> <w id="w19256">2</w> <w id="w19257">and</w> <w id="w19258">4</w> <w id="w19259">in</w> <w id="w19260">a</w> <w id="w19261">pathway</w> <w id="w19262">leading</w> <w id="w19263">to</w> <w id="w19264">normal</w> <w id="w19265">microtubule</w> <w id="w19266">stability</w> <w id="w19267">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4471" gid="g4277" t="Individual_protein" fr="w19248" to="w19250" nam="yes">
+     <textspan type="extent">Saccharomyces cerevisiae PAC2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1226.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4472" gid="g4278" t="RELATIONSHIP_TEXTBINDING" fr="w19251" to="w19252">
+     <textspan type="extent">functions with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1226.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4473" gid="g4279" t="Individual_protein" fr="w19253" to="w19256" nam="yes">
+     <textspan type="extent">CIN [..] 2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1226.2"/>
+      <exattr n="nst" v="st.1226.5.0"/>
+      <exattr n="nst" v="st.1226.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4474" gid="g4280" t="Individual_protein" fr="w19253" to="w19254" nam="yes">
+     <textspan type="extent">CIN1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1226.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4475" gid="g4281" t="Individual_protein" fr="w19253" to="w19258" nam="yes">
+     <textspan type="extent">CIN [..] 4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1226.4"/>
+      <exattr n="nst" v="st.1226.5.0"/>
+      <exattr n="nst" v="st.1226.9.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4476" gid="g4282" t="Individual_protein" fr="w19250" to="w19250" nam="yes">
+     <textspan type="extent">PAC2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1226.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1703" t="RELATE" e1="e4471" e2="e4474" re="e4472">
+     <textspan type="extent">Saccharomyces cerevisiae PAC2 functions with CIN 1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1226.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1704" t="RELATE" e1="e4471" e2="e4473" re="e4472">
+     <textspan type="extent">Saccharomyces cerevisiae PAC2 functions with CIN 1 , 2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1226.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1705" t="RELATE" e1="e4471" e2="e4475" re="e4472">
+     <textspan type="extent">Saccharomyces cerevisiae PAC2 functions with CIN 1 , 2 and 4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1226.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

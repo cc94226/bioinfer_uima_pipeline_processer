@@ -1,0 +1,259 @@
+<rexml>
+<doc id="144">
+  <text>
+<p><s id="s1"><w id="w2280">A</w> <w id="w2281">null</w> <w id="w2282">mutation</w> <w id="w2283">of</w> <w id="w2284">the</w> <w id="w2285">actin</w> <w id="w2286">gene</w> <w id="w2287">(</w> <w id="w2288">ACT1</w> <w id="w2289">)</w> <w id="w2290">is</w> <w id="w2291">lethal</w> <w id="w2292">,</w> <w id="w2293">but</w> <w id="w2294">null</w> <w id="w2295">mutations</w> <w id="w2296">in</w> <w id="w2297">the</w> <w id="w2298">tropomyosin</w> <w id="w2299">(</w> <w id="w2300">TPM1</w> <w id="w2301">)</w> <w id="w2302">,</w> <w id="w2303">fimbrin</w> <w id="w2304">(</w> <w id="w2305">SAC6</w> <w id="w2306">)</w> <w id="w2307">,</w> <w id="w2308">Abp1p</w> <w id="w2309">(</w> <w id="w2310">ABP1</w> <w id="w2311">)</w> <w id="w2312">,</w> <w id="w2313">and</w> <w id="w2314">capping</w> <w id="w2315">protein</w> <w id="w2316">(</w> <w id="w2317">CAP1</w> <w id="w2318">and</w> <w id="w2319">CAP2</w> <w id="w2320">)</w> <w id="w2321">genes</w> <w id="w2322">have</w> <w id="w2323">relatively</w> <w id="w2324">mild</w> <w id="w2325">or</w> <w id="w2326">no</w> <w id="w2327">effects</w> <w id="w2328">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e550" gid="g535" t="Gene" fr="w2285" to="w2286" nam="yes">
+     <textspan type="extent">actin gene</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.144.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e551" gid="g536" t="Gene" fr="w2303" to="w2321" nam="yes">
+     <textspan type="extent">fimbrin [..] genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.144.1"/>
+      <exattr n="nst" v="st.144.23.0"/>
+      <exattr n="nst" v="st.144.41.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e552" gid="g537" t="Gene" fr="w2298" to="w2321" nam="yes">
+     <textspan type="extent">tropomyosin [..] genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.144.2"/>
+      <exattr n="nst" v="st.144.18.0"/>
+      <exattr n="nst" v="st.144.41.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e553" gid="g538" t="Gene" fr="w2314" to="w2321" nam="yes">
+     <textspan type="extent">capping protein [..] genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.144.3"/>
+      <exattr n="nst" v="st.144.34.0"/>
+      <exattr n="nst" v="st.144.35.0"/>
+      <exattr n="nst" v="st.144.41.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e554" gid="g539" t="Gene" fr="w2308" to="w2321" nam="yes">
+     <textspan type="extent">Abp1p [..] genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.144.4"/>
+      <exattr n="nst" v="st.144.28.0"/>
+      <exattr n="nst" v="st.144.41.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e555" gid="g537" t="Gene" fr="w2300" to="w2300" nam="yes">
+     <textspan type="extent">TPM1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.144.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e556" gid="g535" t="Gene" fr="w2288" to="w2288" nam="yes">
+     <textspan type="extent">ACT1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.144.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e557" gid="g539" t="Gene" fr="w2310" to="w2310" nam="yes">
+     <textspan type="extent">ABP1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.144.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e558" gid="g536" t="Gene" fr="w2305" to="w2305" nam="yes">
+     <textspan type="extent">SAC6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.144.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e559" gid="g540" t="Gene" fr="w2319" to="w2319" nam="yes">
+     <textspan type="extent">CAP2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.144.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e560" gid="g541" t="Gene" fr="w2317" to="w2317" nam="yes">
+     <textspan type="extent">CAP1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.144.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e561" gid="g542" t="Individual_protein" fr="w2285" to="w2285" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.144.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e562" gid="g543" t="Individual_protein" fr="w2298" to="w2298" nam="yes">
+     <textspan type="extent">tropomyosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.144.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e563" gid="g544" t="Individual_protein" fr="w2303" to="w2303" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.144.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e564" gid="g545" t="Individual_protein" fr="w2314" to="w2315" nam="yes">
+     <textspan type="extent">capping protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.144.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e565" gid="g546" t="Individual_protein" fr="w2308" to="w2308" nam="yes">
+     <textspan type="extent">Abp1p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.144.15"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r214" t="MEMBER" e1="e553" e2="e560" re="">
+     <textspan type="extent">capping protein ( CAP1 and CAP2 ) genes</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r215" t="MEMBER" e1="e553" e2="e559" re="">
+     <textspan type="extent">capping protein ( CAP1 and CAP2 ) genes</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

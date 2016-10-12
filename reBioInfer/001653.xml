@@ -1,0 +1,293 @@
+<rexml>
+<doc id="1653">
+  <text>
+<p><s id="s1"><w id="w26420">The</w> <w id="w26421">results</w> <w id="w26422">indicate</w> <w id="w26423">that</w> <w id="w26424">S.</w> <w id="w26425">cerevisiae</w> <w id="w26426">has</w> <w id="w26427">two</w> <w id="w26428">pathways</w> <w id="w26429">of</w> <w id="w26430">MSH2</w><w id="w26431">-dependent</w> <w id="w26432">mismatch</w> <w id="w26433">repair</w> <w id="w26434">:</w> <w id="w26435">one</w> <w id="w26436">that</w> <w id="w26437">recognized</w> <w id="w26438">single-base</w> <w id="w26439">mispairs</w> <w id="w26440">and</w> <w id="w26441">requires</w> <w id="w26442">MSH2</w> <w id="w26443">and</w> <w id="w26444">MSH6</w> <w id="w26445">,</w> <w id="w26446">and</w> <w id="w26447">a</w> <w id="w26448">second</w> <w id="w26449">that</w> <w id="w26450">recognizes</w> <w id="w26451">insertion/deletion</w> <w id="w26452">mispairs</w> <w id="w26453">and</w> <w id="w26454">requires</w> <w id="w26455">a</w> <w id="w26456">combination</w> <w id="w26457">of</w> <w id="w26458">either</w> <w id="w26459">MSH2</w> <w id="w26460">and</w> <w id="w26461">MSH6</w> <w id="w26462">or</w> <w id="w26463">MSH2</w> <w id="w26464">and</w> <w id="w26465">MSH3</w> <w id="w26466">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6091" gid="g5809" t="RELATIONSHIP_TEXTBINDING" fr="w26441" to="w26441">
+     <textspan type="extent">requires</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1653.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6092" gid="g5810" t="Gene" fr="w26430" to="w26430" nam="yes">
+     <textspan type="extent">MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1653.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6093" gid="g5811" t="Gene" fr="w26444" to="w26444" nam="yes">
+     <textspan type="extent">MSH6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1653.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6094" gid="g5812" t="Gene" fr="w26442" to="w26442" nam="yes">
+     <textspan type="extent">MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1653.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6095" gid="g5813" t="Gene" fr="w26461" to="w26461" nam="yes">
+     <textspan type="extent">MSH6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1653.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6096" gid="g5814" t="Gene" fr="w26459" to="w26459" nam="yes">
+     <textspan type="extent">MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1653.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6097" gid="g5815" t="Gene" fr="w26465" to="w26465" nam="yes">
+     <textspan type="extent">MSH3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1653.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6098" gid="g5816" t="Gene" fr="w26463" to="w26463" nam="yes">
+     <textspan type="extent">MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1653.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6099" gid="g5817" t="Process_entity" fr="w26428" to="w26433">
+     <textspan type="extent">pathways of MSH2-dependent [..] repair</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.1653.8"/>
+      <exattr n="nst" v="st.1653.8.0"/>
+      <exattr n="nst" v="st.1653.9.0"/>
+      <exattr n="nst" v="st.1653.10.0"/>
+      <exattr n="nst" v="st.1653.10.1"/>
+      <exattr n="nst" v="st.1653.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6100" gid="g5818" t="Process_entity" fr="w26428" to="w26433">
+     <textspan type="extent">pathways of MSH2-dependent [..] repair</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.1653.9"/>
+      <exattr n="nst" v="st.1653.8.0"/>
+      <exattr n="nst" v="st.1653.9.0"/>
+      <exattr n="nst" v="st.1653.10.0"/>
+      <exattr n="nst" v="st.1653.10.1"/>
+      <exattr n="nst" v="st.1653.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6101" gid="g5819" t="MODIFICATION" fr="w26430" to="w26433">
+     <textspan type="extent">MSH2-dependent [..] repair</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1653.10"/>
+      <exattr n="nst" v="st.1653.10.0"/>
+      <exattr n="nst" v="st.1653.10.1"/>
+      <exattr n="nst" v="st.1653.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6102" gid="g5820" t="RELATIONSHIP_TEXTBINDING" fr="w26458" to="w26462">
+     <textspan type="extent">either [..] or</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1653.11"/>
+      <exattr n="nst" v="st.1653.37.0"/>
+      <exattr n="nst" v="st.1653.41.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6103" gid="g5821" t="RELATIONSHIP_TEXTBINDING" fr="w26454" to="w26454">
+     <textspan type="extent">requires</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1653.12"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2331" t="CONDITION" e1="e6094" e2="e6100" re="e6091">
+     <textspan type="extent">pathways of MSH2 -dependent mismatch repair : one that recognized single-base mispairs and requires MSH2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1653.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2332" t="CONDITION" e1="e6093" e2="e6100" re="e6091">
+     <textspan type="extent">pathways of MSH2 -dependent mismatch repair : one that recognized single-base mispairs and requires MSH2 and MSH6</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1653.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2333" t="XOR" e1="e6103" e2="e6103" re="e6102">
+     <textspan type="extent">pathways of MSH2 -dependent mismatch repair : one that recognized single-base mispairs and requires MSH2 and MSH6 , and a second that recognizes insertion/deletion mispairs and requires a combination of either MSH2 and MSH6 or MSH2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1653.11"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="XOR"/>
+     </exattrs>
+    </rel>
+    <rel id="r2334" t="CONDITION" e1="e6096" e2="e6099" re="e6103">
+     <textspan type="extent">pathways of MSH2 -dependent mismatch repair : one that recognized single-base mispairs and requires MSH2 and MSH6 , and a second that recognizes insertion/deletion mispairs and requires a combination of either MSH2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1653.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2335" t="CONDITION" e1="e6098" e2="e6099" re="e6103">
+     <textspan type="extent">pathways of MSH2 -dependent mismatch repair : one that recognized single-base mispairs and requires MSH2 and MSH6 , and a second that recognizes insertion/deletion mispairs and requires a combination of either MSH2 and MSH6 or MSH2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1653.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2336" t="XOR" e1="e6103" e2="e6103" re="e6102">
+     <textspan type="extent">pathways of MSH2 -dependent mismatch repair : one that recognized single-base mispairs and requires MSH2 and MSH6 , and a second that recognizes insertion/deletion mispairs and requires a combination of either MSH2 and MSH6 or MSH2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1653.11"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="XOR"/>
+     </exattrs>
+    </rel>
+    <rel id="r2337" t="CONDITION" e1="e6095" e2="e6099" re="e6103">
+     <textspan type="extent">pathways of MSH2 -dependent mismatch repair : one that recognized single-base mispairs and requires MSH2 and MSH6 , and a second that recognizes insertion/deletion mispairs and requires a combination of either MSH2 and MSH6</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1653.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2338" t="CONDITION" e1="e6098" e2="e6099" re="e6103">
+     <textspan type="extent">pathways of MSH2 -dependent mismatch repair : one that recognized single-base mispairs and requires MSH2 and MSH6 , and a second that recognizes insertion/deletion mispairs and requires a combination of either MSH2 and MSH6 or MSH2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1653.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2339" t="XOR" e1="e6103" e2="e6103" re="e6102">
+     <textspan type="extent">pathways of MSH2 -dependent mismatch repair : one that recognized single-base mispairs and requires MSH2 and MSH6 , and a second that recognizes insertion/deletion mispairs and requires a combination of either MSH2 and MSH6 or MSH2 and MSH3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1653.11"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="XOR"/>
+     </exattrs>
+    </rel>
+    <rel id="r2340" t="CONDITION" e1="e6096" e2="e6099" re="e6103">
+     <textspan type="extent">pathways of MSH2 -dependent mismatch repair : one that recognized single-base mispairs and requires MSH2 and MSH6 , and a second that recognizes insertion/deletion mispairs and requires a combination of either MSH2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1653.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2341" t="CONDITION" e1="e6097" e2="e6099" re="e6103">
+     <textspan type="extent">pathways of MSH2 -dependent mismatch repair : one that recognized single-base mispairs and requires MSH2 and MSH6 , and a second that recognizes insertion/deletion mispairs and requires a combination of either MSH2 and MSH6 or MSH2 and MSH3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1653.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2342" t="XOR" e1="e6103" e2="e6103" re="e6102">
+     <textspan type="extent">pathways of MSH2 -dependent mismatch repair : one that recognized single-base mispairs and requires MSH2 and MSH6 , and a second that recognizes insertion/deletion mispairs and requires a combination of either MSH2 and MSH6 or MSH2 and MSH3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1653.11"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="XOR"/>
+     </exattrs>
+    </rel>
+    <rel id="r2343" t="CONDITION" e1="e6095" e2="e6099" re="e6103">
+     <textspan type="extent">pathways of MSH2 -dependent mismatch repair : one that recognized single-base mispairs and requires MSH2 and MSH6 , and a second that recognizes insertion/deletion mispairs and requires a combination of either MSH2 and MSH6</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1653.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2344" t="CONDITION" e1="e6097" e2="e6099" re="e6103">
+     <textspan type="extent">pathways of MSH2 -dependent mismatch repair : one that recognized single-base mispairs and requires MSH2 and MSH6 , and a second that recognizes insertion/deletion mispairs and requires a combination of either MSH2 and MSH6 or MSH2 and MSH3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1653.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

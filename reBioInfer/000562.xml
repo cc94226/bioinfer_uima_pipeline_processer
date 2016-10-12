@@ -1,0 +1,108 @@
+<rexml>
+<doc id="562">
+  <text>
+<p><s id="s1"><w id="w7912">Here</w> <w id="w7913">,</w> <w id="w7914">specific</w> <w id="w7915">interactions</w> <w id="w7916">between</w> <w id="w7917">human</w> <w id="w7918">RAD51</w> <w id="w7919">and</w> <w id="w7920">RAD52</w> <w id="w7921">proteins</w> <w id="w7922">are</w> <w id="w7923">demonstrated</w> <w id="w7924">both</w> <w id="w7925">in</w> <w id="w7926">vivo</w> <w id="w7927">,</w> <w id="w7928">using</w> <w id="w7929">the</w> <w id="w7930">yeast</w> <w id="w7931">two-hybrid</w> <w id="w7932">system</w> <w id="w7933">and</w> <w id="w7934">immunoprecipitation</w> <w id="w7935">of</w> <w id="w7936">insect</w> <w id="w7937">cells</w> <w id="w7938">co-infected</w> <w id="w7939">with</w> <w id="w7940">RAD51</w> <w id="w7941">and</w> <w id="w7942">RAD52</w> <w id="w7943">recombinant</w> <w id="w7944">viruses</w> <w id="w7945">,</w> <w id="w7946">and</w> <w id="w7947">in</w> <w id="w7948">vitro</w> <w id="w7949">,</w> <w id="w7950">using</w> <w id="w7951">affinity</w> <w id="w7952">chromatography</w> <w id="w7953">with</w> <w id="w7954">purified</w> <w id="w7955">recombinant</w> <w id="w7956">proteins</w> <w id="w7957">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1868" gid="g1787" t="RELATIONSHIP_TEXTBINDING" fr="w7915" to="w7916">
+     <textspan type="extent">interactions between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.562.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1869" gid="g1788" t="Individual_protein" fr="w7917" to="w7921" nam="yes">
+     <textspan type="extent">human RAD51 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.562.1"/>
+      <exattr n="nst" v="st.562.5.0"/>
+      <exattr n="nst" v="st.562.6.0"/>
+      <exattr n="nst" v="st.562.9.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1870" gid="g1789" t="Gene/protein/RNA" fr="w7940" to="w7940" nam="yes">
+     <textspan type="extent">RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.562.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1871" gid="g1790" t="Individual_protein" fr="w7917" to="w7921" nam="yes">
+     <textspan type="extent">human [..] RAD52 proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.562.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1872" gid="g1791" t="Gene/protein/RNA" fr="w7942" to="w7942" nam="yes">
+     <textspan type="extent">RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.562.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1873" gid="g1792" t="Gene" fr="w7918" to="w7918" nam="yes">
+     <textspan type="extent">RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.562.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1874" gid="g1793" t="Gene" fr="w7920" to="w7920" nam="yes">
+     <textspan type="extent">RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.562.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r737" t="INTERACT" e1="e1869" e2="e1871" re="e1868">
+     <textspan type="extent">interactions between human RAD51 and RAD52 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.562.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,101 @@
+<rexml>
+<doc id="443">
+  <text>
+<p><s id="s1"><w id="w6370">Evidence</w> <w id="w6371">for</w> <w id="w6372">a</w> <w id="w6373">conformational</w> <w id="w6374">change</w> <w id="w6375">in</w> <w id="w6376">actin</w> <w id="w6377">induced</w> <w id="w6378">by</w> <w id="w6379">fimbrin</w> <w id="w6380">(</w> <w id="w6381">N375</w> <w id="w6382">)</w> <w id="w6383">binding</w> <w id="w6384">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1550" gid="g1481" t="MODIFICATION" fr="w6374" to="w6376">
+     <textspan type="extent">change in actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.443.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1551" gid="g1482" t="Individual_protein" fr="w6381" to="w6381" nam="yes">
+     <textspan type="extent">N375</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.443.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1552" gid="g1483" t="BINDING" fr="w6381" to="w6383">
+     <textspan type="extent">N375 [..] binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="BINDING"/>
+      <exattr n="bd" v="e.443.2"/>
+      <exattr n="nst" v="st.443.11.0"/>
+      <exattr n="nst" v="st.443.13.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1553" gid="g1484" t="Individual_protein" fr="w6379" to="w6379" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.443.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1554" gid="g1485" t="Individual_protein" fr="w6376" to="w6376" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.443.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1555" gid="g1486" t="RELATIONSHIP_TEXTBINDING" fr="w6377" to="w6378">
+     <textspan type="extent">induced by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.443.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r609" t="INITIATE" e1="e1552" e2="e1550" re="e1555">
+     <textspan type="extent">change in actin induced by fimbrin ( N375 ) binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.443.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r610" t="MEMBER" e1="e1553" e2="e1551" re="">
+     <textspan type="extent">fimbrin ( N375</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

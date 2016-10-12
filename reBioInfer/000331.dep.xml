@@ -1,0 +1,98 @@
+<rexml>
+<doc id="331">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w4988" g="" t="" cr="" w="Compared" l="~" p="U"/>
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4989" g="E2" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w4990" g="w4989" t="pcomp-n" cr="mod*with*n:w4998" w="control" l="~" p="N"/>
+     <dpg d="w4991" g="w4990" t="punc" cr="punc:w4990" w="and" l="~" p="U"/>
+     <dpg d="w4992" g="w4993" t="mod" cr="mod:w4993" w="contralateral" l="~" p="A"/>
+     <dpg d="w4993" g="w4990" t="conj" cr="conj:w4990" w="kidneys" l="kidney" p="N"/>
+     <dpg d="w4994" g="E2" t="punc" cr="punc:w4998" w="," l="~" p="U"/>
+     <dpg d="w4995" g="w4997" t="det" cr="det:w4997" w="the" l="~" p="Det"/>
+     <dpg d="w4996" g="w4997" t="mod" cr="mod:w4997" w="ligated" l="~" p="A"/>
+     <dpg d="w4997" g="w4998" t="s" cr="s+subj:w4998" w="kidneys" l="kidney" p="N"/>
+     <dpg d="w4998" g="E2" t="i" cr="UNSPECRELTYPE:E6" w="displayed" l="display" p="V"/>
+     <dpg d="E7" g="w4998" t="subj" cr="" w="" l="kidney" p="N"/>
+     <dpg d="E7" g="w4997" t="antecedent" cr="" w="" l="kidney" p="N"/>
+     <dpg d="w4999" g="w5001" t="det" cr="det:w5001" w="a" l="~" p="Det"/>
+     <dpg d="w5000" g="w5001" t="mod" cr="mod:w5001" w="dynamic" l="~" p="A"/>
+     <dpg d="w5001" g="w4998" t="obj" cr="obj:w4998" w="expression" l="~" p="N"/>
+     <dpg d="w5002" g="w5001" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5003" g="w5002" t="pcomp-n" cr="mod*of*n:w5001" w="mRNAs" l="~" p="N"/>
+     <dpg d="w5004" g="w5003" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w5005" g="w5007" t="det" cr="det:w5007" w="many" l="~" p="Det"/>
+     <dpg d="w5006" g="w5007" t="mod" cr="mod:w5007" w="apoptosis-related" l="apoptosis-related" p="A"/>
+     <dpg d="w5007" g="w5004" t="pcomp-n" cr="mod*for*n:w5003||subj:w5010" w="molecules" l="molecule" p="N"/>
+     <dpg d="w5008" g="w5007" t="punc" cr="punc:w5007" w="," l="~" p="U"/>
+     <dpg d="E1" g="w5007" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5009" g="E1" t="whn" cr="whn:w5010" w="which" l="~" p="N"/>
+     <dpg d="w5009" g="w5007" t="antecedent" cr="antecedent:w5007" w="which" l="~" p="N"/>
+     <dpg d="w5010" g="E1" t="i" cr="rel:w5007" w="included" l="include" p="V"/>
+     <dpg d="E8" g="w5010" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E8" g="w5007" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w5011" g="w5012" t="det" cr="det:w5012" w="an" l="~" p="Det"/>
+     <dpg d="w5012" g="w5010" t="obj" cr="obj:w5010" w="up" l="~" p="N"/>
+     <dpg d="w5013" g="w5012" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w5014" g="w5015" t="mod" cr="mod:w5015" w="threefold" l="~" p="A"/>
+     <dpg d="w5015" g="w5013" t="pcomp-n" cr="mod*to*n:w5012" w="increase" l="~" p="N"/>
+     <dpg d="w5016" g="w5015" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w5017" g="w5016" t="pcomp-n" cr="mod*for*n:w5015" w="Fas" l="fa" p="N"/>
+     <dpg d="w5018" g="w5017" t="punc" cr="punc:w5017" w="," l="~" p="U"/>
+     <dpg d="w5019" g="w5020" t="nn" cr="nn:w5020" w="Fas" l="fa" p="N"/>
+     <dpg d="w5020" g="w5017" t="conj" cr="conj:w5017" w="ligand" l="~" p="N"/>
+     <dpg d="w5021" g="w5020" t="punc" cr="punc:w5020" w="," l="~" p="U"/>
+     <dpg d="w5022" g="w5020" t="conj" cr="conj:w5020" w="TNF-R1" l="TNF-R1" p="N"/>
+     <dpg d="w5023" g="w5022" t="punc" cr="punc:w5022" w="," l="~" p="U"/>
+     <dpg d="w5024" g="w5022" t="conj" cr="conj:w5022" w="TRAIL" l="~" p="N"/>
+     <dpg d="w5025" g="w5024" t="punc" cr="punc:w5024" w="," l="~" p="U"/>
+     <dpg d="w5026" g="w5024" t="conj" cr="conj:w5024" w="TRADD" l="~" p="N"/>
+     <dpg d="w5027" g="w5026" t="punc" cr="punc:w5026" w="," l="~" p="U"/>
+     <dpg d="w5028" g="w5026" t="conj" cr="conj:w5026" w="RIP" l="~" p="N"/>
+     <dpg d="w5029" g="w5028" t="punc" cr="punc:w5028" w="," l="~" p="U"/>
+     <dpg d="w5030" g="w5028" t="punc" cr="punc:w5028" w="and" l="~" p="U"/>
+     <dpg d="w5031" g="w5028" t="conj" cr="conj:w5028" w="caspase-8" l="caspase-8" p="N"/>
+     <dpg d="w5032" g="w5031" t="punc" cr="punc:w5031" w="," l="~" p="U"/>
+     <dpg d="w5033" g="w5031" t="punc" cr="punc:w5031" w="and" l="~" p="U"/>
+     <dpg d="w5034" g="w5035" t="det" cr="det:w5035" w="an" l="~" p="Det"/>
+     <dpg d="w5035" g="w5031" t="conj" cr="conj:w5031||s+subj:w5038" w="up" l="~" p="N"/>
+     <dpg d="E0" g="w5035" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w5035" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w5036" g="w5038" t="aux" cr="aux:w5038" w="to" l="~" p="Aux"/>
+     <dpg d="w5037" g="w5038" t="amod" cr="amod:w5038" w="twofold" l="~" p="A"/>
+     <dpg d="w5038" g="E0" t="i" cr="rel:w5035" w="increase" l="~" p="V"/>
+     <dpg d="E9" g="w5038" t="subj" cr="" w="" l="up" p="N"/>
+     <dpg d="E9" g="E4" t="antecedent" cr="" w="" l="up" p="N"/>
+     <dpg d="w5039" g="w5038" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w5040" g="w5039" t="pcomp-n" cr="mod*for*n:w5038" w="FADD" l="~" p="N"/>
+     <dpg d="w5041" g="w5040" t="punc" cr="punc:w5040" w="and" l="~" p="U"/>
+     <dpg d="w5042" g="w5040" t="conj" cr="conj:w5040" w="FAP" l="~" p="N"/>
+     <dpg d="w5043" g="E6" t="punc" cr="punc:E6" w="," l="~" p="U"/>
+     <dpg d="w5044" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="but" l="~" p="SentAdjunct"/>
+     <dpg d="E3" g="w5044" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5045" g="w5046" t="s" cr="s:w5046||subj:w5048" w="there" l="~" p="Subj"/>
+     <dpg d="w5046" g="E3" t="i" cr="comp1:w5044" w="was" l="be" p="VBE"/>
+     <dpg d="E10" g="w5048" t="subj" cr="" w="" l="there" p="Subj"/>
+     <dpg d="E10" g="w5045" t="antecedent" cr="" w="" l="there" p="Subj"/>
+     <dpg d="w5047" g="w5048" t="det" cr="det:w5048" w="little" l="~" p="Det"/>
+     <dpg d="w5048" g="w5046" t="pred" cr="pred:w5046" w="change" l="~" p="N"/>
+     <dpg d="w5049" g="w5048" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w5050" g="w5049" t="pcomp-n" cr="mod*for*n:w5048" w="FAF" l="~" p="N"/>
+     <dpg d="w5051" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,144 @@
+<rexml>
+<doc id="609">
+  
+  <markup>
+   <nes>
+    <ne id="e2132" gid="g2041" t="Individual_protein" fr="w8932" to="w8932" nam="yes" sid="s1">
+     <textspan>helicase-primase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.609.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2135" gid="g2044" t="Gene" fr="w8941" to="w8947" nam="yes" sid="s1">
+     <textspan>UL5 [..] genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.609.3"/>
+      <exattr n="nst" v="st.609.19.0"/>
+      <exattr n="nst" v="st.609.25.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2137" gid="g2046" t="Gene" fr="w8941" to="w8941" nam="yes" sid="s1">
+     <textspan>UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.609.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2134" gid="g2043" t="Gene" fr="w8943" to="w8947" nam="yes" sid="s1">
+     <textspan>UL8 [..] genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.609.2"/>
+      <exattr n="nst" v="st.609.21.0"/>
+      <exattr n="nst" v="st.609.25.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2138" gid="g2047" t="Gene" fr="w8943" to="w8943" nam="yes" sid="s1">
+     <textspan>UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.609.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2136" gid="g2045" t="Gene" fr="w8946" to="w8947" nam="yes" sid="s1">
+     <textspan>UL52 genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.609.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2139" gid="g2048" t="Gene" fr="w8946" to="w8946" nam="yes" sid="s1">
+     <textspan>UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.609.7"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r840" t="ENCODE" e1="e2135" e2="e2132" re="e2133">
+     <textspan>helicase-primase that consists of three polypeptides encoded by the UL5 , UL8 , and UL52 genes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.609.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r841" t="ENCODE" e1="e2134" e2="e2132" re="e2133">
+     <textspan>helicase-primase that consists of three polypeptides encoded by the UL5 , UL8 , and UL52 genes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.609.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r842" t="ENCODE" e1="e2136" e2="e2132" re="e2133">
+     <textspan>helicase-primase that consists of three polypeptides encoded by the UL5 , UL8 , and UL52 genes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.609.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,66 @@
+<rexml>
+<doc id="702">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10848" g="E2" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w10849" g="w10848" t="pcomp-n" cr="mod*in*n:w10864" w="addition" l="~" p="N"/>
+     <dpg d="w10850" g="w10849" t="punc" cr="punc:w10849" w="," l="~" p="U"/>
+     <dpg d="w10851" g="w10849" t="conj" cr="conj:w10849" w="interactions" l="interaction" p="N"/>
+     <dpg d="w10852" g="w10851" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w10853" g="w10852" t="pcomp-n" cr="mod*with*n:w10851" w="components" l="component" p="N"/>
+     <dpg d="w10854" g="w10853" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10855" g="w10857" t="det" cr="det:w10857" w="the" l="~" p="Det"/>
+     <dpg d="w10856" g="w10857" t="nn" cr="nn:w10857" w="phosphatidylinositol" l="~" p="N"/>
+     <dpg d="w10857" g="w10854" t="pcomp-n" cr="mod*of*n:w10853" w="cycle" l="~" p="N"/>
+     <dpg d="w10858" g="w10857" t="punc" cr="punc:w10857" w="and" l="~" p="U"/>
+     <dpg d="w10859" g="w10860" t="det" cr="det:w10860" w="the" l="~" p="Det"/>
+     <dpg d="w10860" g="w10857" t="conj" cr="conj:w10857" w="RAS" l="Ra" p="N"/>
+     <dpg d="w10861" g="w10864" t="s" cr="s+subj:w10864" w="pathway" l="~" p="N"/>
+     <dpg d="w10862" g="w10861" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w10863" g="w10862" t="pcomp-n" cr="mod*in*n:w10861" w="yeast" l="~" p="N"/>
+     <dpg d="w10864" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="implicate" l="~" p="V"/>
+     <dpg d="E6" g="w10864" t="subj" cr="" w="" l="pathway" p="N"/>
+     <dpg d="E6" g="w10861" t="antecedent" cr="" w="" l="pathway" p="N"/>
+     <dpg d="w10865" g="w10864" t="obj" cr="obj:w10864" w="profilin" l="~" p="N"/>
+     <dpg d="w10866" g="w10865" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w10867" g="w10869" t="det" cr="det:w10869" w="an" l="~" p="Det"/>
+     <dpg d="w10868" g="w10869" t="mod" cr="mod:w10869" w="important" l="~" p="A"/>
+     <dpg d="w10869" g="w10866" t="pcomp-n" cr="mod*as*n:w10865" w="link" l="~" p="N"/>
+     <dpg d="w10870" g="w10864" t="mod" cr="" w="through" l="~" p="Prep"/>
+     <dpg d="w10871" g="w10870" t="pcomp-n" cr="mod*through*n:w10864" w="which" l="~" p="N"/>
+     <dpg d="E1" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10872" g="w10874" t="det" cr="det:w10874" w="the" l="~" p="Det"/>
+     <dpg d="w10873" g="w10874" t="nn" cr="nn:w10874" w="actin" l="~" p="N"/>
+     <dpg d="w10874" g="w10875" t="s" cr="s:w10875||subj:w10876||s+subj:w10878" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w10875" g="E1" t="i" cr="UNSPECRELTYPE:E5" w="is" l="be" p="VBE"/>
+     <dpg d="w10876" g="w10875" t="pred" cr="pred:w10875" w="able" l="~" p="A"/>
+     <dpg d="E7" g="w10876" t="subj" cr="" w="" l="cytoskeleton" p="N"/>
+     <dpg d="E7" g="w10874" t="antecedent" cr="" w="" l="cytoskeleton" p="N"/>
+     <dpg d="E0" g="w10875" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w10874" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w10877" g="w10878" t="aux" cr="aux:w10878" w="to" l="~" p="Aux"/>
+     <dpg d="w10878" g="E0" t="i" cr="mod:w10875" w="communicate" l="~" p="V"/>
+     <dpg d="E8" g="w10878" t="subj" cr="" w="" l="cytoskeleton" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="cytoskeleton" p="N"/>
+     <dpg d="w10879" g="w10878" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w10880" g="w10882" t="mod" cr="mod:w10882" w="major" l="~" p="A"/>
+     <dpg d="w10881" g="w10882" t="nn" cr="nn:w10882" w="signaling" l="~" p="N"/>
+     <dpg d="w10882" g="w10879" t="pcomp-n" cr="mod*with*n:w10878" w="pathways" l="pathway" p="N"/>
+     <dpg d="w10883" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

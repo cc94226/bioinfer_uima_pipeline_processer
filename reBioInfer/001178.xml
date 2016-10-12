@@ -1,0 +1,161 @@
+<rexml>
+<doc id="1178">
+  <text>
+<p><s id="s1"><w id="w18640">Recombinant</w> <w id="w18641">human</w> <w id="w18642">beta-catenin</w> <w id="w18643">can</w> <w id="w18644">simultaneously</w> <w id="w18645">bind</w> <w id="w18646">to</w> <w id="w18647">the</w> <w id="w18648">alpha-catenin</w><w id="w18649">/</w><w id="w18650">actin</w> <w id="w18651">complex</w> <w id="w18652">but</w> <w id="w18653">does</w> <w id="w18654">not</w> <w id="w18655">bind</w> <w id="w18656">actin</w> <w id="w18657">directly</w> <w id="w18658">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4328" gid="g4137" t="Individual_protein" fr="w18641" to="w18642" nam="yes">
+     <textspan type="extent">human beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1178.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4329" gid="g4138" t="RELATIONSHIP_TEXTBINDING" fr="w18645" to="w18646">
+     <textspan type="extent">bind to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1178.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4330" gid="g4139" t="Individual_protein" fr="w18650" to="w18650" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1178.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4331" gid="g4140" t="Individual_protein" fr="w18648" to="w18648" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1178.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4332" gid="g4141" t="Protein_complex" fr="w18648" to="w18651" nam="yes">
+     <textspan type="extent">alpha-catenin/actin complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1178.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4333" gid="g4142" t="RELATIONSHIP_TEXTBINDING" fr="w18655" to="w18655">
+     <textspan type="extent">bind</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1178.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4334" gid="g4143" t="RELATIONSHIP_TEXTBINDING" fr="w18654" to="w18654">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1178.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4335" gid="g4144" t="Individual_protein" fr="w18642" to="w18642" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1178.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e4336" gid="g4145" t="RELATIONSHIP_TEXTBINDING" fr="w18651" to="w18651">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1178.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e4337" gid="g4146" t="Individual_protein" fr="w18656" to="w18656" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1178.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1662" t="BIND" e1="e4328" e2="e4332" re="e4329">
+     <textspan type="extent">human beta-catenin can simultaneously bind to the alpha-catenin / actin complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1178.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1663" t="CONTAIN" e1="e4332" e2="e4331" re="e4336">
+     <textspan type="extent">alpha-catenin / actin complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1178.8"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1664" t="CONTAIN" e1="e4332" e2="e4330" re="e4336">
+     <textspan type="extent">alpha-catenin / actin complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1178.8"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1666" t="BIND" e1="e4328" e2="e4337" re="e4333">
+     <textspan type="extent">human beta-catenin can simultaneously bind to the alpha-catenin / actin complex but does not bind actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1178.5"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

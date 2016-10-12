@@ -1,0 +1,141 @@
+<rexml>
+<doc id="600">
+  
+  <markup>
+   <nes>
+    <ne id="e2071" gid="g1985" t="Individual_protein" fr="w8694" to="w8694" nam="yes" sid="s1">
+     <textspan>alpha-SNAP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.600.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2073" gid="g1987" t="Substructure_of_protein" fr="w8700" to="w8704" nam="yes" sid="s1">
+     <textspan>regions of [..] SNAP-25</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.600.2"/>
+      <exattr n="nst" v="st.600.6.0"/>
+      <exattr n="nst" v="st.600.7.0"/>
+      <exattr n="nst" v="st.600.10.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2074" gid="g1988" t="Substructure_of_protein" fr="w8700" to="w8702" nam="yes" sid="s1">
+     <textspan>regions of syntaxin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.600.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2076" gid="g1990" t="Individual_protein" fr="w8702" to="w8702" nam="yes" sid="s1">
+     <textspan>syntaxin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.600.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2075" gid="g1989" t="Individual_protein" fr="w8704" to="w8704" nam="yes" sid="s1">
+     <textspan>SNAP-25</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.600.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2078" gid="g1988" t="Individual_protein" fr="w8712" to="w8712" nam="yes" sid="s1">
+     <textspan>their</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.600.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2079" gid="g1987" t="Individual_protein" fr="w8712" to="w8712" nam="yes" sid="s1">
+     <textspan>their</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.600.8"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r817" t="BIND" e1="e2071" e2="e2074" re="e2072">
+     <textspan>alpha-SNAP binds to predicted alpha-helical coiled-coil regions of syntaxin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.600.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r818" t="BIND" e1="e2071" e2="e2073" re="e2072">
+     <textspan>alpha-SNAP binds to predicted alpha-helical coiled-coil regions of syntaxin and SNAP-25</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.600.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r822" t="INTERACT" e1="e2078" e2="e2079" re="e2080">
+     <textspan>their direct interaction</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.600.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

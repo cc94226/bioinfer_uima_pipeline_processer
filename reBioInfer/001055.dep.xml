@@ -1,0 +1,56 @@
+<rexml>
+<doc id="1055">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16597" g="w16600" t="s" cr="s:w16600||subj:w16601" w="p130" l="~" p="N"/>
+     <dpg d="w16598" g="w16597" t="punc" cr="punc:w16597" w="and" l="~" p="U"/>
+     <dpg d="w16599" g="w16597" t="conj" cr="conj:w16597" w="pRb" l="~" p="N"/>
+     <dpg d="w16600" g="E2" t="i" cr="" w="were" l="be" p="VBE"/>
+     <dpg d="w16601" g="w16600" t="pred" cr="pred:w16600" w="phosphorylated" l="~" p="A"/>
+     <dpg d="E4" g="w16601" t="subj" cr="" w="" l="p130" p="N"/>
+     <dpg d="E4" g="w16597" t="antecedent" cr="" w="" l="p130" p="N"/>
+     <dpg d="w16602" g="w16600" t="mod" cr="mod:w16600" w="before" l="~" p="SentAdjunct"/>
+     <dpg d="E1" g="w16602" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16603" g="w16605" t="det" cr="det:w16605" w="the" l="~" p="Det"/>
+     <dpg d="w16604" g="w16605" t="mod" cr="mod:w16605" w="infected" l="~" p="A"/>
+     <dpg d="w16605" g="w16606" t="s" cr="s+subj:w16606" w="myotubes" l="~" p="N"/>
+     <dpg d="w16606" g="E1" t="i" cr="comp1:w16602" w="entered" l="enter" p="V"/>
+     <dpg d="E5" g="w16606" t="subj" cr="" w="" l="myotubes" p="N"/>
+     <dpg d="E5" g="w16605" t="antecedent" cr="" w="" l="myotubes" p="N"/>
+     <dpg d="w16607" g="w16608" t="nn" cr="nn:w16608" w="S" l="~" p="N"/>
+     <dpg d="w16608" g="w16606" t="obj" cr="obj:w16606" w="phase" l="~" p="N"/>
+     <dpg d="w16609" g="w16606" t="punc" cr="punc:w16606" w="," l="~" p="U"/>
+     <dpg d="w16610" g="w16606" t="mod" cr="" w="despite" l="~" p="Prep"/>
+     <dpg d="w16611" g="w16613" t="det" cr="det:w16613" w="the" l="~" p="Det"/>
+     <dpg d="w16612" g="w16613" t="mod" cr="mod:w16613" w="high" l="~" p="A"/>
+     <dpg d="w16613" g="w16610" t="pcomp-n" cr="mod*despite*n:w16606" w="expression" l="~" p="N"/>
+     <dpg d="w16614" g="w16613" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w16615" g="w16619" t="det" cr="det:w16619" w="the" l="~" p="Det"/>
+     <dpg d="w16616" g="w16619" t="mod" cr="mod:w16619" w="cyclin-dependent" l="cyclin-dependent" p="A"/>
+     <dpg d="w16617" g="w16619" t="nn" cr="nn:w16619" w="kinase" l="~" p="N"/>
+     <dpg d="w16618" g="w16619" t="nn" cr="nn:w16619" w="inhibitor" l="~" p="N"/>
+     <dpg d="w16619" g="w16614" t="pcomp-n" cr="mod*of*n:w16613" w="p21" l="~" p="N"/>
+     <dpg d="w16620" g="E1" t="punc" cr="punc:w16606" w="," l="~" p="U"/>
+     <dpg d="w16621" g="E1" t="punc" cr="punc:w16606" w="and" l="~" p="U"/>
+     <dpg d="E0" g="E1" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16622" g="w16624" t="s" cr="s+obj:w16624" w="E2F" l="~" p="N"/>
+     <dpg d="w16623" g="w16624" t="be" cr="be:w16624" w="was" l="be" p="be"/>
+     <dpg d="w16624" g="E0" t="i" cr="conj:w16606" w="released" l="release" p="V"/>
+     <dpg d="E6" g="w16624" t="obj" cr="" w="" l="E2F" p="N"/>
+     <dpg d="E6" g="w16622" t="antecedent" cr="" w="" l="E2F" p="N"/>
+     <dpg d="w16625" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

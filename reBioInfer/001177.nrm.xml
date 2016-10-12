@@ -1,0 +1,74 @@
+<rexml>
+<doc id="1177">
+  
+  <markup>
+   <nes>
+    <ne id="e4321" gid="g4130" t="Individual_protein" fr="w18625" to="w18626" nam="yes" sid="s1">
+     <textspan>HSH49 protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1177.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4326" gid="g4135" t="Individual_protein" fr="w18625" to="w18625" nam="yes" sid="s1">
+     <textspan>HSH49</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1177.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4323" gid="g4132" t="RNA" fr="w18630" to="w18630" nam="yes" sid="s1">
+     <textspan>RNA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="RNA"/>
+      <exattr n="bd" v="e.1177.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4327" gid="g4136" t="Individual_protein" fr="w18638" to="w18638" nam="yes" sid="s1">
+     <textspan>CUS1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1177.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1661" t="BIND" e1="e4321" e2="e4323" re="e4325">
+     <textspan>HSH49 protein has a general RNA - binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1177.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

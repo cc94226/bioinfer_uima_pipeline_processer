@@ -1,0 +1,81 @@
+<rexml>
+<doc id="1380">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w21446" g="w21449" t="det" cr="det:w21449" w="The" l="~" p="Det"/>
+     <dpg d="w21447" g="w21448" t="lex-mod" cr="lex-mod:w21448" w="Arp" l="~" p="U"/>
+     <dpg d="w21448" g="w21449" t="nn" cr="nn:w21449" w="2" l="Arp 2" p="N"/>
+     <dpg d="w21449" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="/" l="~" p="N"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21450" g="w21451" t="num" cr="num:w21451" w="3" l="~" p="N"/>
+     <dpg d="w21451" g="w21464" t="s" cr="obj:w21454||s+subj:w21464" w="complex" l="~" p="N"/>
+     <dpg d="w21452" g="w21451" t="punc" cr="punc:w21451" w="," l="~" p="U"/>
+     <dpg d="w21453" g="w21454" t="amod" cr="amod:w21454" w="first" l="~" p="A"/>
+     <dpg d="w21454" g="w21451" t="vrel" cr="vrel:w21451" w="isolated" l="isolate" p="V"/>
+     <dpg d="E3" g="w21454" t="obj" cr="" w="" l="complex" p="N"/>
+     <dpg d="E3" g="w21451" t="antecedent" cr="" w="" l="complex" p="N"/>
+     <dpg d="w21455" g="w21454" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w21456" g="w21457" t="nn" cr="nn:w21457" w="Acanthamoeba" l="~" p="N"/>
+     <dpg d="w21457" g="w21455" t="pcomp-n" cr="mod*from*n:w21454" w="castellani" l="~" p="N"/>
+     <dpg d="w21458" g="w21457" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w21459" g="w21460" t="nn" cr="nn:w21460" w="affinity" l="~" p="N"/>
+     <dpg d="w21460" g="w21458" t="pcomp-n" cr="mod*by*n:w21457" w="chromatography" l="~" p="N"/>
+     <dpg d="w21461" g="w21460" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w21462" g="w21461" t="pcomp-n" cr="mod*on*n:w21460" w="profilin" l="~" p="N"/>
+     <dpg d="w21463" g="w21464" t="punc" cr="punc:w21464" w="," l="~" p="U"/>
+     <dpg d="w21464" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="consists" l="consist of" p="V"/>
+     <dpg d="w21465" g="w21464" t="lex-mod" cr="lex-mod:w21464" w="of" l="~" p="U"/>
+     <dpg d="E4" g="w21464" t="subj" cr="" w="" l="complex" p="N"/>
+     <dpg d="E4" g="w21451" t="antecedent" cr="" w="" l="complex" p="N"/>
+     <dpg d="w21466" g="w21467" t="nn" cr="nn:w21467" w="seven" l="~" p="N"/>
+     <dpg d="w21467" g="w21464" t="obj" cr="obj:w21464" w="polypeptides" l="polypeptide" p="N"/>
+     <dpg d="w21468" g="E2" t="punc" cr="punc:E2" w=";" l="~" p="U"/>
+     <dpg d="w21469" g="w21473" t="nn" cr="nn:w21473" w="two" l="~" p="N"/>
+     <dpg d="w21470" g="w21472" t="lex-mod" cr="lex-mod:w21472" w="actin" l="~" p="U"/>
+     <dpg d="w21471" g="w21472" t="lex-mod" cr="lex-mod:w21472" w="-" l="~" p="U"/>
+     <dpg d="w21472" g="w21473" t="mod" cr="mod:w21473" w="related" l="actin - related" p="A"/>
+     <dpg d="w21473" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="proteins" l="protein" p="N"/>
+     <dpg d="w21474" g="w21473" t="punc" cr="punc:w21473" w="," l="~" p="U"/>
+     <dpg d="w21475" g="w21473" t="conj" cr="conj:w21473" w="Arp2" l="~" p="N"/>
+     <dpg d="w21476" g="w21475" t="punc" cr="punc:w21475" w="and" l="~" p="U"/>
+     <dpg d="w21477" g="w21475" t="conj" cr="conj:w21475" w="Arp3" l="~" p="N"/>
+     <dpg d="w21478" g="E2" t="punc" cr="punc:E2" w=";" l="~" p="U"/>
+     <dpg d="w21479" g="E2" t="punc" cr="punc:E2" w="and" l="~" p="U"/>
+     <dpg d="w21480" g="w21483" t="nn" cr="nn:w21483" w="five" l="~" p="N"/>
+     <dpg d="w21481" g="w21482" t="mod" cr="mod:w21482" w="apparently" l="~" p="A"/>
+     <dpg d="w21482" g="w21483" t="mod" cr="mod:w21483" w="novel" l="~" p="A"/>
+     <dpg d="w21483" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="proteins" l="protein" p="N"/>
+     <dpg d="w21484" g="w21483" t="punc" cr="punc:w21483" w="," l="~" p="U"/>
+     <dpg d="w21485" g="w21483" t="conj" cr="conj:w21483" w="p40" l="~" p="N"/>
+     <dpg d="w21486" g="w21485" t="punc" cr="punc:w21485" w="," l="~" p="U"/>
+     <dpg d="w21487" g="w21485" t="conj" cr="conj:w21485" w="p35" l="~" p="N"/>
+     <dpg d="w21488" g="w21487" t="punc" cr="punc:w21487" w="," l="~" p="U"/>
+     <dpg d="w21489" g="w21487" t="conj" cr="conj:w21487" w="p19" l="~" p="N"/>
+     <dpg d="w21490" g="w21489" t="punc" cr="punc:w21489" w="," l="~" p="U"/>
+     <dpg d="w21491" g="w21489" t="conj" cr="conj:w21489" w="p18" l="~" p="N"/>
+     <dpg d="w21492" g="w21491" t="punc" cr="punc:w21491" w="," l="~" p="U"/>
+     <dpg d="w21493" g="w21491" t="punc" cr="punc:w21491" w="and" l="~" p="U"/>
+     <dpg d="w21494" g="w21496" t="nn" cr="nn:w21496" w="p14" l="~" p="N"/>
+     <dpg d="w21495" g="w21496" t="punc" cr="punc:w21496" w="(" l="~" p="U"/>
+     <dpg d="w21496" g="w21491" t="conj" cr="conj:w21491" w="Machesky" l="~" p="N"/>
+     <dpg d="w21497" g="w21498" t="lex-mod" cr="lex-mod:w21498" w="et" l="~" p="U"/>
+     <dpg d="w21498" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="al." l="et al." p="A"/>
+     <dpg d="w21499" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w21500" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="1994" l="~" p="N"/>
+     <dpg d="w21501" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w21502" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

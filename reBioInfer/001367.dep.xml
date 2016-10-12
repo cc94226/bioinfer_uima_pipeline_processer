@@ -1,0 +1,62 @@
+<rexml>
+<doc id="1367">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21238" g="w21239" t="det" cr="det:w21239" w="The" l="~" p="Det"/>
+     <dpg d="w21239" g="w21248" t="s" cr="s+obj:w21248" w="amount" l="~" p="N"/>
+     <dpg d="w21240" g="w21239" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21241" g="w21242" t="mod" cr="mod:w21242" w="unassembled" l="~" p="A"/>
+     <dpg d="w21242" g="w21240" t="pcomp-n" cr="mod*of*n:w21239" w="actin" l="~" p="N"/>
+     <dpg d="w21243" g="w21242" t="punc" cr="punc:w21242" w="(" l="~" p="U"/>
+     <dpg d="w21244" g="w21245" t="num" cr="num:w21245" w="12" l="~" p="N"/>
+     <dpg d="w21245" g="w21242" t="appo" cr="appo:w21242" w="microM" l="~" p="N"/>
+     <dpg d="w21246" g="w21248" t="punc" cr="punc:w21248" w=")" l="~" p="U"/>
+     <dpg d="w21247" g="w21248" t="be" cr="be:w21248" w="is" l="be" p="be"/>
+     <dpg d="w21248" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="accounted" l="account for" p="V"/>
+     <dpg d="w21249" g="w21248" t="lex-mod" cr="lex-mod:w21248" w="for" l="~" p="U"/>
+     <dpg d="E4" g="w21248" t="obj" cr="" w="" l="amount" p="N"/>
+     <dpg d="E4" g="w21239" t="antecedent" cr="" w="" l="amount" p="N"/>
+     <dpg d="w21250" g="w21248" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w21251" g="w21253" t="det" cr="det:w21253" w="the" l="~" p="Det"/>
+     <dpg d="w21252" g="w21253" t="mod" cr="mod:w21253" w="sequestering" l="~" p="A"/>
+     <dpg d="w21253" g="w21250" t="pcomp-n" cr="by-subj*by*n:w21248" w="functions" l="function" p="N"/>
+     <dpg d="w21254" g="w21253" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21255" g="w21257" t="nn" cr="nn:w21257" w="T" l="~" p="N"/>
+     <dpg d="w21256" g="w21257" t="nn" cr="nn:w21257" w="beta" l="~" p="N"/>
+     <dpg d="w21257" g="w21254" t="pcomp-n" cr="mod*of*n:w21253" w="4Xen" l="~" p="N"/>
+     <dpg d="w21258" g="w21257" t="punc" cr="punc:w21257" w="(" l="~" p="U"/>
+     <dpg d="w21259" g="w21260" t="num" cr="num:w21260" w="20" l="~" p="N"/>
+     <dpg d="w21260" g="w21257" t="appo" cr="appo:w21257" w="microM" l="~" p="N"/>
+     <dpg d="w21261" g="w21260" t="punc" cr="punc:w21260" w=")" l="~" p="U"/>
+     <dpg d="w21262" g="w21260" t="punc" cr="punc:w21260" w="and" l="~" p="U"/>
+     <dpg d="w21263" g="w21260" t="conj" cr="conj:w21260" w="profilin" l="~" p="N"/>
+     <dpg d="w21264" g="w21260" t="punc" cr="punc:w21260" w="(" l="~" p="U"/>
+     <dpg d="w21265" g="w21266" t="num" cr="num:w21266" w="5" l="~" p="N"/>
+     <dpg d="w21266" g="w21260" t="appo" cr="appo:w21260" w="microM" l="~" p="N"/>
+     <dpg d="w21267" g="E3" t="punc" cr="punc:E3" w=")" l="~" p="U"/>
+     <dpg d="w21268" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21269" g="w21271" t="det" cr="det:w21271" w="the" l="~" p="Det"/>
+     <dpg d="w21270" g="w21271" t="mod" cr="mod:w21271" w="barbed" l="~" p="A"/>
+     <dpg d="w21271" g="w21273" t="s" cr="s+obj:w21273" w="ends" l="end" p="N"/>
+     <dpg d="w21272" g="w21273" t="be" cr="be:w21273" w="being" l="be" p="be"/>
+     <dpg d="w21273" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="capped" l="cap" p="V"/>
+     <dpg d="E5" g="w21273" t="obj" cr="" w="" l="end" p="N"/>
+     <dpg d="E5" g="w21271" t="antecedent" cr="" w="" l="end" p="N"/>
+     <dpg d="w21274" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

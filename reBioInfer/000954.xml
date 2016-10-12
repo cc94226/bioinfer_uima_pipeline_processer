@@ -1,0 +1,126 @@
+<rexml>
+<doc id="954">
+  <text>
+<p><s id="s1"><w id="w14881">Mammalian</w> <w id="w14882">LIM-kinases</w> <w id="w14883">(</w> <w id="w14884">LIMKs</w> <w id="w14885">)</w> <w id="w14886">phosphorylate</w> <w id="w14887">cofilin</w> <w id="w14888">and</w> <w id="w14889">induce</w> <w id="w14890">actin</w> <w id="w14891">cytoskeletal</w> <w id="w14892">reorganization</w> <w id="w14893">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3372" gid="g3237" t="Individual_protein" fr="w14881" to="w14882" nam="yes">
+     <textspan type="extent">Mammalian LIM-kinases</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.954.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3373" gid="g3238" t="RELATIONSHIP_TEXTBINDING" fr="w14886" to="w14886">
+     <textspan type="extent">phosphorylate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.954.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3374" gid="g3239" t="MODIFICATION" fr="w14890" to="w14892">
+     <textspan type="extent">actin [..] reorganization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.954.2"/>
+      <exattr n="nst" v="st.954.9.0"/>
+      <exattr n="nst" v="st.954.11.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3375" gid="g3240" t="RELATIONSHIP_TEXTBINDING" fr="w14889" to="w14889">
+     <textspan type="extent">induce</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.954.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3376" gid="g3241" t="Individual_protein" fr="w14882" to="w14882" nam="yes">
+     <textspan type="extent">LIM-kinases</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.954.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3377" gid="g3241" t="Individual_protein" fr="w14884" to="w14884" nam="yes">
+     <textspan type="extent">LIMKs</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.954.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3378" gid="g3242" t="Individual_protein" fr="w14887" to="w14887" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.954.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3379" gid="g3243" t="Individual_protein" fr="w14890" to="w14890" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.954.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1280" t="PHOSPHORYLATE" e1="e3372" e2="e3378" re="e3373">
+     <textspan type="extent">Mammalian LIM-kinases ( LIMKs ) phosphorylate cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.954.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+     </exattrs>
+    </rel>
+    <rel id="r1281" t="INITIATE" e1="e3372" e2="e3374" re="e3375">
+     <textspan type="extent">Mammalian LIM-kinases ( LIMKs ) phosphorylate cofilin and induce actin cytoskeletal reorganization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.954.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

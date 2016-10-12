@@ -1,0 +1,54 @@
+<rexml>
+<doc id="1271">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20116" g="E2" t="mod" cr="mod:w20127" w="Since" l="~" p="SentAdjunct"/>
+     <dpg d="E1" g="w20116" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20117" g="w20119" t="det" cr="det:w20119" w="the" l="~" p="Det"/>
+     <dpg d="w20118" g="w20119" t="nn" cr="nn:w20119" w="NH2" l="~" p="N"/>
+     <dpg d="w20119" g="w20123" t="s" cr="s+obj:w20123" w="terminus" l="~" p="N"/>
+     <dpg d="w20120" g="w20119" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w20121" g="w20120" t="pcomp-n" cr="mod*of*n:w20119" w="profilin" l="~" p="N"/>
+     <dpg d="w20122" g="w20123" t="be" cr="be:w20123" w="is" l="be" p="be"/>
+     <dpg d="w20123" g="E1" t="i" cr="comp1:w20116" w="blocked" l="block" p="V"/>
+     <dpg d="E5" g="w20123" t="obj" cr="" w="" l="terminus" p="N"/>
+     <dpg d="E5" g="w20119" t="antecedent" cr="" w="" l="terminus" p="N"/>
+     <dpg d="w20124" g="E2" t="punc" cr="punc:w20127" w="," l="~" p="U"/>
+     <dpg d="w20125" g="w20126" t="nn" cr="nn:w20126" w="Edman" l="~" p="N"/>
+     <dpg d="w20126" g="w20127" t="s" cr="s+subj:w20127" w="degradation" l="~" p="N"/>
+     <dpg d="w20127" g="E2" t="i" cr="" w="gave" l="give" p="V"/>
+     <dpg d="E6" g="w20127" t="subj" cr="" w="" l="degradation" p="N"/>
+     <dpg d="E6" g="w20126" t="antecedent" cr="" w="" l="degradation" p="N"/>
+     <dpg d="w20128" g="w20127" t="guest" cr="guest:w20127" w="only" l="~" p="A"/>
+     <dpg d="w20129" g="w20130" t="det" cr="det:w20130" w="the" l="~" p="Det"/>
+     <dpg d="w20130" g="w20127" t="obj" cr="obj:w20127" w="sequence" l="~" p="N"/>
+     <dpg d="w20131" g="w20130" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w20132" g="w20136" t="det" cr="det:w20136" w="the" l="~" p="Det"/>
+     <dpg d="w20133" g="w20136" t="mod" cr="mod:w20136" w="conjugated" l="~" p="A"/>
+     <dpg d="w20134" g="w20136" t="nn" cr="nn:w20136" w="actin" l="~" p="N"/>
+     <dpg d="w20135" g="w20136" t="nn" cr="nn:w20136" w="CNBr" l="~" p="N"/>
+     <dpg d="w20136" g="w20131" t="pcomp-n" cr="mod*of*n:w20130||s+subj:w20137" w="fragment" l="~" p="N"/>
+     <dpg d="E0" g="w20136" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w20136" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w20137" g="E0" t="i" cr="rel:w20136" w="beginning" l="begin" p="V"/>
+     <dpg d="E7" g="w20137" t="subj" cr="" w="" l="fragment" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="fragment" p="N"/>
+     <dpg d="w20138" g="w20137" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w20139" g="w20138" t="pcomp-n" cr="mod*with*n:w20137" w="Trp-356" l="Trp-356" p="N"/>
+     <dpg d="w20140" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

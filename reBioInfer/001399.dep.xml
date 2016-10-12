@@ -1,0 +1,86 @@
+<rexml>
+<doc id="1399">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w21873" g="w21876" t="det" cr="det:w21876" w="The" l="~" p="Det"/>
+     <dpg d="w21874" g="w21876" t="nn" cr="nn:w21876" w="phosphoprotein" l="~" p="N"/>
+     <dpg d="w21875" g="w21876" t="punc" cr="punc:w21876" w="(" l="~" p="U"/>
+     <dpg d="w21876" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="P" l="~" p="N"/>
+     <dpg d="w21877" g="w21876" t="punc" cr="punc:w21876" w=")" l="~" p="U"/>
+     <dpg d="w21878" g="w21876" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21879" g="w21885" t="mod" cr="mod:w21885" w="vesicular" l="~" p="A"/>
+     <dpg d="w21880" g="w21885" t="nn" cr="nn:w21885" w="stomatitis" l="~" p="N"/>
+     <dpg d="w21881" g="w21885" t="nn" cr="nn:w21885" w="virus" l="~" p="N"/>
+     <dpg d="w21882" g="w21883" t="punc" cr="punc:w21883" w="(" l="~" p="U"/>
+     <dpg d="w21883" g="w21881" t="abbrev" cr="abbrev:w21881" w="VSV" l="~" p="N"/>
+     <dpg d="w21884" g="w21883" t="punc" cr="punc:w21883" w=")" l="~" p="U"/>
+     <dpg d="w21885" g="w21878" t="pcomp-n" cr="mod*of*n:w21876" w="serotypes" l="~" p="N"/>
+     <dpg d="w21886" g="w21889" t="lex-mod" cr="lex-mod:w21889" w="New" l="~" p="U"/>
+     <dpg d="w21887" g="w21889" t="lex-mod" cr="lex-mod:w21889" w="Jersey" l="~" p="U"/>
+     <dpg d="w21888" g="w21889" t="lex-mod" cr="lex-mod:w21889" w="[" l="~" p="U"/>
+     <dpg d="w21889" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="P(NJ)" l="New Jersey [ P" p="N"/>
+     <dpg d="w21890" g="w21889" t="punc" cr="punc:w21889" w="]" l="~" p="U"/>
+     <dpg d="w21891" g="w21889" t="punc" cr="punc:w21889" w="and" l="~" p="U"/>
+     <dpg d="w21892" g="w21894" t="nn" cr="nn:w21894" w="Indiana" l="~" p="N"/>
+     <dpg d="w21893" g="w21894" t="punc" cr="punc:w21894" w="[" l="~" p="U"/>
+     <dpg d="w21894" g="w21896" t="punc" cr="punc+obj+subj:w21896" w="P(I)" l="~" p="U"/>
+     <dpg d="w21895" g="w21896" t="punc" cr="punc:w21896" w="]" l="~" p="U"/>
+     <dpg d="w21896" g="E2" t="i" cr="i:E2" w="contains" l="contain" p="V"/>
+     <dpg d="E6" g="w21896" t="obj" cr="" w="" l="P" p="N"/>
+     <dpg d="E6" g="w21894" t="antecedent" cr="" w="" l="P" p="N"/>
+     <dpg d="E7" g="w21896" t="subj" cr="" w="" l="I" p="N"/>
+     <dpg d="E7" g="w21894" t="antecedent" cr="" w="" l="I" p="N"/>
+     <dpg d="w21897" g="w21901" t="det" cr="det:w21901" w="a" l="~" p="Det"/>
+     <dpg d="w21898" g="w21899" t="mod" cr="mod:w21899" w="highly" l="~" p="A"/>
+     <dpg d="w21899" g="w21901" t="mod" cr="mod:w21901" w="conserved" l="~" p="A"/>
+     <dpg d="w21900" g="w21901" t="mod" cr="mod:w21901" w="carboxy-terminal" l="carboxy-terminal" p="A"/>
+     <dpg d="w21901" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5||obj:w21904" w="domain" l="~" p="N"/>
+     <dpg d="E1" g="w21901" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21902" g="E1" t="whn" cr="whn:w21904" w="which" l="~" p="N"/>
+     <dpg d="w21902" g="w21901" t="antecedent" cr="antecedent:w21901" w="which" l="~" p="N"/>
+     <dpg d="w21903" g="w21904" t="be" cr="be:w21904" w="is" l="be" p="be"/>
+     <dpg d="w21904" g="E1" t="i" cr="rel:w21901" w="required" l="require" p="V"/>
+     <dpg d="E8" g="w21904" t="obj" cr="" w="" l="which" p="N"/>
+     <dpg d="E8" g="w21901" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w21905" g="w21904" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="E0" g="w21905" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="s+subj:w21906" w="" l="~" p="N"/>
+     <dpg d="w21906" g="E0" t="i" cr="mod*for*c:w21904" w="binding" l="bind" p="V"/>
+     <dpg d="E9" g="w21906" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E9" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w21907" g="w21906" t="guest" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w21908" g="w21909" t="det" cr="det:w21909" w="the" l="~" p="Det"/>
+     <dpg d="w21909" g="w21907" t="pcomp-n" cr="guest*to*n:w21906" w="cognate" l="~" p="N"/>
+     <dpg d="w21910" g="w21911" t="nn" cr="nn:w21911" w="N-RNA" l="N-RNA" p="N"/>
+     <dpg d="w21911" g="w21906" t="obj" cr="obj:w21906" w="template" l="~" p="N"/>
+     <dpg d="w21912" g="w21905" t="punc" cr="punc:w21905" w="as" l="~" p="U"/>
+     <dpg d="w21913" g="w21905" t="punc" cr="punc:w21905" w="well" l="~" p="U"/>
+     <dpg d="w21914" g="w21905" t="punc" cr="punc:w21905" w="as" l="~" p="U"/>
+     <dpg d="w21915" g="w21905" t="conj" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w21916" g="w21915" t="pcomp-n" cr="mod*to*n:w21904" w="form" l="~" p="N"/>
+     <dpg d="w21917" g="w21919" t="det" cr="det:w21919" w="a" l="~" p="Det"/>
+     <dpg d="w21918" g="w21919" t="mod" cr="mod:w21919" w="soluble" l="~" p="A"/>
+     <dpg d="w21919" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="complex" l="~" p="N"/>
+     <dpg d="w21920" g="w21919" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w21921" g="w21924" t="det" cr="det:w21924" w="the" l="~" p="Det"/>
+     <dpg d="w21922" g="w21924" t="nn" cr="nn:w21924" w="nucleocapsid" l="~" p="N"/>
+     <dpg d="w21923" g="w21924" t="nn" cr="nn:w21924" w="protein" l="~" p="N"/>
+     <dpg d="w21924" g="w21920" t="pcomp-n" cr="mod*with*n:w21919" w="N" l="~" p="N"/>
+     <dpg d="w21925" g="w21926" t="lex-mod" cr="lex-mod:w21926" w="in" l="~" p="U"/>
+     <dpg d="w21926" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="vivo" l="in vivo" p="A"/>
+     <dpg d="w21927" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,51 @@
+<rexml>
+<doc id="869">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w13501" g="E3" t="p" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w13502" g="w13503" t="det" cr="det:w13503" w="this" l="~" p="Det"/>
+     <dpg d="w13503" g="w13501" t="pcomp-n" cr="p*in*n:E3" w="study" l="~" p="N"/>
+     <dpg d="w13504" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13505" g="E1" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w13506" g="w13505" t="pcomp-n" cr="mod*by*n:w13512" w="immunoprecipitation" l="~" p="N"/>
+     <dpg d="w13507" g="w13506" t="punc" cr="punc:w13506" w="and" l="~" p="U"/>
+     <dpg d="w13508" g="w13509" t="nn" cr="nn:w13509" w="affinity" l="~" p="N"/>
+     <dpg d="w13509" g="w13506" t="conj" cr="conj:w13506" w="chromatography" l="~" p="N"/>
+     <dpg d="w13510" g="w13512" t="s" cr="s+obj:w13512" w="it" l="~" p="N"/>
+     <dpg d="w13511" g="w13512" t="be" cr="be:w13512" w="is" l="be" p="be"/>
+     <dpg d="w13512" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="shown" l="show" p="V"/>
+     <dpg d="E4" g="w13512" t="obj" cr="" w="" l="it" p="N"/>
+     <dpg d="E4" g="w13510" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="E0" g="w13512" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13513" g="E0" t="c" cr="c:w13520" w="that" l="~" p="COMP"/>
+     <dpg d="w13514" g="w13515" t="nn" cr="nn:w13515" w="adenosine" l="~" p="N"/>
+     <dpg d="w13515" g="w13520" t="s" cr="s+subj:w13520" w="deaminase" l="~" p="N"/>
+     <dpg d="w13516" g="w13515" t="punc" cr="punc:w13515" w="and" l="~" p="U"/>
+     <dpg d="w13517" g="w13519" t="nn" cr="nn:w13519" w="A1" l="~" p="N"/>
+     <dpg d="w13518" g="w13519" t="nn" cr="nn:w13519" w="adenosine" l="~" p="N"/>
+     <dpg d="w13519" g="w13515" t="conj" cr="conj:w13515" w="receptors" l="receptor" p="N"/>
+     <dpg d="w13520" g="E0" t="i" cr="fc:w13512" w="interact" l="~" p="V"/>
+     <dpg d="E5" g="w13520" t="subj" cr="" w="" l="deaminase" p="N"/>
+     <dpg d="E5" g="w13515" t="antecedent" cr="" w="" l="deaminase" p="N"/>
+     <dpg d="w13521" g="w13520" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w13522" g="w13525" t="nn" cr="nn:w13525" w="pig" l="~" p="N"/>
+     <dpg d="w13523" g="w13525" t="nn" cr="nn:w13525" w="brain" l="~" p="N"/>
+     <dpg d="w13524" g="w13525" t="mod" cr="mod:w13525" w="cortical" l="~" p="A"/>
+     <dpg d="w13525" g="w13521" t="pcomp-n" cr="mod*in*n:w13520" w="membranes" l="membrane" p="N"/>
+     <dpg d="w13526" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

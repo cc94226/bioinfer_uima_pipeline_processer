@@ -1,0 +1,119 @@
+<rexml>
+<doc id="1328">
+  <text>
+<p><s id="s1"><w id="w20722">The</w> <w id="w20723">actin-binding</w> <w id="w20724">protein</w> <w id="w20725">profilin</w> <w id="w20726">binds</w> <w id="w20727">to</w> <w id="w20728">PIP2</w> <w id="w20729">and</w> <w id="w20730">inhibits</w> <w id="w20731">its</w> <w id="w20732">hydrolysis</w> <w id="w20733">by</w> <w id="w20734">phospholipase</w> <w id="w20735">C</w> <w id="w20736">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4771" gid="g4555" t="Protein_family_or_group" fr="w20723" to="w20724" nam="yes">
+     <textspan type="extent">actin-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1328.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4772" gid="g4556" t="Other_organic_compounds" fr="w20728" to="w20728" nam="yes">
+     <textspan type="extent">PIP2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Other_organic_compounds"/>
+      <exattr n="bd" v="e.1328.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4773" gid="g4557" t="Individual_protein" fr="w20725" to="w20725" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1328.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4774" gid="g4556" t="Other_organic_compounds" fr="w20731" to="w20731" nam="yes">
+     <textspan type="extent">its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Other_organic_compounds"/>
+      <exattr n="bd" v="e.1328.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4775" gid="g4558" t="RELATIONSHIP_TEXTBINDING" fr="w20732" to="w20733">
+     <textspan type="extent">hydrolysis by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1328.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4776" gid="g4559" t="RELATIONSHIP_TEXTBINDING" fr="w20730" to="w20730">
+     <textspan type="extent">inhibits</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1328.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4777" gid="g4560" t="Individual_protein" fr="w20734" to="w20735" nam="yes">
+     <textspan type="extent">phospholipase C</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1328.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1813" t="MEMBER" e1="e4771" e2="e4773" re="">
+     <textspan type="extent">actin-binding protein profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1815" t="SUPPRESS" e1="e4773" e2="e4775" re="e4776">
+     <textspan type="extent">profilin binds to PIP2 and inhibits its hydrolysis by phospholipase C</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1328.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r1816" t="CLEAVE" e1="e4777" e2="e4774" re="e4775">
+     <textspan type="extent">its hydrolysis by phospholipase C</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1328.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="CLEAVE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

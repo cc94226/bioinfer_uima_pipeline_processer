@@ -1,0 +1,191 @@
+<rexml>
+<doc id="1866">
+  <text>
+<p><s id="s1"><w id="w29928">Thus</w> <w id="w29929">,</w> <w id="w29930">both</w> <w id="w29931">DR5</w> <w id="w29932">and</w> <w id="w29933">DR4</w> <w id="w29934">use</w> <w id="w29935">FADD</w> <w id="w29936">,</w> <w id="w29937">TRADD</w> <w id="w29938">,</w> <w id="w29939">and</w> <w id="w29940">RIP</w> <w id="w29941">in</w> <w id="w29942">their</w> <w id="w29943">signal</w> <w id="w29944">transduction</w> <w id="w29945">pathways</w> <w id="w29946">,</w> <w id="w29947">and</w> <w id="w29948">FADD</w> <w id="w29949">is</w> <w id="w29950">the</w> <w id="w29951">common</w> <w id="w29952">mediator</w> <w id="w29953">of</w> <w id="w29954">apoptosis</w> <w id="w29955">by</w> <w id="w29956">all</w> <w id="w29957">known</w> <w id="w29958">death</w> <w id="w29959">domain-containing</w> <w id="w29960">receptors</w> <w id="w29961">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6931" gid="g6616" t="Individual_protein" fr="w29931" to="w29931" nam="yes">
+     <textspan type="extent">DR5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1866.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6932" gid="g6617" t="RELATIONSHIP_TEXTBINDING" fr="w29941" to="w29941">
+     <textspan type="extent">in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1866.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6933" gid="g6618" t="Individual_protein" fr="w29935" to="w29935" nam="yes">
+     <textspan type="extent">FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1866.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6934" gid="g6619" t="Individual_protein" fr="w29933" to="w29933" nam="yes">
+     <textspan type="extent">DR4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1866.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6935" gid="g6620" t="Individual_protein" fr="w29940" to="w29940" nam="yes">
+     <textspan type="extent">RIP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1866.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6936" gid="g6621" t="Individual_protein" fr="w29937" to="w29937" nam="yes">
+     <textspan type="extent">TRADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1866.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6937" gid="g6616" t="Individual_protein" fr="w29942" to="w29942" nam="yes">
+     <textspan type="extent">their</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1866.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6938" gid="g6622" t="Gene/protein/RNA" fr="w29948" to="w29948" nam="yes">
+     <textspan type="extent">FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1866.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6939" gid="g6623" t="Process_entity" fr="w29942" to="w29945">
+     <textspan type="extent">their [..] pathways</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.1866.8"/>
+      <exattr n="nst" v="st.1866.14.0"/>
+      <exattr n="nst" v="st.1866.17.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6940" gid="g6624" t="RELATIONSHIP_TEXTBINDING" fr="w29934" to="w29934">
+     <textspan type="extent">use</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1866.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2661" t="RELATE" e1="e6931" e2="e6933" re="e6940">
+     <textspan type="extent">DR5 and DR4 use FADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1866.9"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2662" t="RELATE" e1="e6931" e2="e6936" re="e6940">
+     <textspan type="extent">DR5 and DR4 use FADD , TRADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1866.9"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2663" t="RELATE" e1="e6931" e2="e6935" re="e6940">
+     <textspan type="extent">DR5 and DR4 use FADD , TRADD , and RIP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1866.9"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2664" t="RELATE" e1="e6934" e2="e6933" re="e6940">
+     <textspan type="extent">DR4 use FADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1866.9"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2665" t="RELATE" e1="e6934" e2="e6936" re="e6940">
+     <textspan type="extent">DR4 use FADD , TRADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1866.9"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2666" t="RELATE" e1="e6934" e2="e6935" re="e6940">
+     <textspan type="extent">DR4 use FADD , TRADD , and RIP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1866.9"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2669" t="PARTICIPATE" e1="e6933" e2="e6939" re="e6932">
+     <textspan type="extent">FADD , TRADD , and RIP in their signal transduction pathways</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1866.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2670" t="PARTICIPATE" e1="e6936" e2="e6939" re="e6932">
+     <textspan type="extent">TRADD , and RIP in their signal transduction pathways</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1866.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2671" t="PARTICIPATE" e1="e6935" e2="e6939" re="e6932">
+     <textspan type="extent">RIP in their signal transduction pathways</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1866.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

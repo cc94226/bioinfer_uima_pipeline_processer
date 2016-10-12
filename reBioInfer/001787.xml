@@ -1,0 +1,100 @@
+<rexml>
+<doc id="1787">
+  <text>
+<p><s id="s1"><w id="w28629">The</w> <w id="w28630">two</w> <w id="w28631">proteins</w> <w id="w28632">were</w> <w id="w28633">found</w> <w id="w28634">to</w> <w id="w28635">differ</w> <w id="w28636">in</w> <w id="w28637">their</w> <w id="w28638">interaction</w> <w id="w28639">with</w> <w id="w28640">actin</w> <w id="w28641">,</w> <w id="w28642">like</w> <w id="w28643">destrin</w> <w id="w28644">and</w> <w id="w28645">cofilin</w> <w id="w28646">isolated</w> <w id="w28647">from</w> <w id="w28648">porcine</w> <w id="w28649">brain</w> <w id="w28650">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6636" gid="g6328" t="RELATIONSHIP_TEXTBINDING" fr="w28638" to="w28642">
+     <textspan type="extent">interaction with [..] like</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1787.0"/>
+      <exattr n="nst" v="st.1787.9.0"/>
+      <exattr n="nst" v="st.1787.10.0"/>
+      <exattr n="nst" v="st.1787.13.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6637" gid="g6329" t="Individual_protein" fr="w28640" to="w28640" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1787.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6638" gid="g6330" t="Individual_protein" fr="w28645" to="w28645" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1787.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6639" gid="g6331" t="RELATIONSHIP_TEXTBINDING" fr="w28635" to="w28642">
+     <textspan type="extent">differ in [..] like</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1787.3"/>
+      <exattr n="nst" v="st.1787.6.0"/>
+      <exattr n="nst" v="st.1787.7.0"/>
+      <exattr n="nst" v="st.1787.13.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6640" gid="g6332" t="Individual_protein" fr="w28643" to="w28643" nam="yes">
+     <textspan type="extent">destrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1787.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2553" t="SIMILAR" e1="e6636" e2="e6636" re="e6639">
+     <textspan type="extent">differ in their interaction with actin , like destrin and cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1787.3"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r2554" t="INTERACT" e1="e6640" e2="e6637" re="e6636">
+     <textspan type="extent">interaction with actin , like destrin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1787.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2555" t="INTERACT" e1="e6638" e2="e6637" re="e6636">
+     <textspan type="extent">interaction with actin , like destrin and cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1787.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

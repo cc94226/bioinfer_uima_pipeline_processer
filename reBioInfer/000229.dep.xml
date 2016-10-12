@@ -1,0 +1,57 @@
+<rexml>
+<doc id="229">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3432" g="w3433" t="mod" cr="mod:w3433" w="Biochemical" l="~" p="A"/>
+     <dpg d="w3433" g="w3434" t="s" cr="s+subj:w3434" w="analyses" l="analysis" p="N"/>
+     <dpg d="w3434" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="revealed" l="reveal" p="V"/>
+     <dpg d="E4" g="w3434" t="subj" cr="" w="" l="analysis" p="N"/>
+     <dpg d="E4" g="w3433" t="antecedent" cr="" w="" l="analysis" p="N"/>
+     <dpg d="w3435" g="w3437" t="det" cr="det:w3437" w="a" l="~" p="Det"/>
+     <dpg d="w3436" g="w3437" t="mod" cr="mod:w3437" w="strong" l="~" p="A"/>
+     <dpg d="w3437" g="w3434" t="obj" cr="obj:w3434" w="induction" l="~" p="N"/>
+     <dpg d="w3438" g="w3437" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3439" g="w3442" t="nn" cr="nn:w3442" w="VEGF-receptor-2" l="VEGF-receptor-2" p="N"/>
+     <dpg d="w3440" g="w3442" t="punc" cr="punc:w3442" w="(" l="~" p="U"/>
+     <dpg d="w3441" g="w3442" t="nn" cr="nn:w3442" w="flk-1" l="flk-1" p="N"/>
+     <dpg d="w3442" g="w3438" t="pcomp-n" cr="mod*of*n:w3437" w="/" l="~" p="N"/>
+     <dpg d="w3443" g="w3445" t="nn" cr="nn:w3445" w="KDR" l="~" p="N"/>
+     <dpg d="w3444" g="w3445" t="punc" cr="punc:w3445" w=")" l="~" p="U"/>
+     <dpg d="w3445" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="tyrosine-autophosphorylation" l="tyrosine-autophosphorylation" p="N"/>
+     <dpg d="w3446" g="w3445" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w3447" g="w3446" t="pcomp-n" cr="mod*by*n:w3445||subj:w3450||obj:w3456" w="VEGF" l="~" p="N"/>
+     <dpg d="E1" g="w3447" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3448" g="E1" t="whn" cr="whn:w3449" w="which" l="~" p="N"/>
+     <dpg d="w3448" g="w3447" t="antecedent" cr="antecedent:w3447" w="which" l="~" p="N"/>
+     <dpg d="w3449" g="E1" t="i" cr="rel:w3447" w="was" l="be" p="VBE"/>
+     <dpg d="w3450" g="w3449" t="pred" cr="pred:w3449" w="maximal" l="~" p="A"/>
+     <dpg d="E5" g="w3450" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E5" g="w3447" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w3451" g="w3450" t="mod" cr="" w="after" l="~" p="Prep"/>
+     <dpg d="w3452" g="w3453" t="amount-value" cr="amount-value:w3453" w="5" l="~" p="N"/>
+     <dpg d="w3453" g="w3451" t="pcomp-n" cr="mod*after*n:w3450" w="minutes" l="~" p="N"/>
+     <dpg d="w3454" g="w3449" t="punc" cr="punc:w3449" w="and" l="~" p="U"/>
+     <dpg d="w3455" g="w3456" t="be" cr="be:w3456" w="was" l="be" p="be"/>
+     <dpg d="w3456" g="w3449" t="conj" cr="conj:w3449" w="followed" l="follow" p="V"/>
+     <dpg d="E6" g="w3456" t="obj" cr="" w="" l="which" p="N"/>
+     <dpg d="E6" g="w3447" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w3457" g="w3456" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w3458" g="w3459" t="nn" cr="nn:w3459" w="receptor" l="~" p="N"/>
+     <dpg d="w3459" g="w3457" t="pcomp-n" cr="by-subj*by*n:w3456" w="downregulation" l="~" p="N"/>
+     <dpg d="w3460" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

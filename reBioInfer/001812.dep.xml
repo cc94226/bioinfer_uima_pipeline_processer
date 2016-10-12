@@ -1,0 +1,48 @@
+<rexml>
+<doc id="1812">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29153" g="w29154" t="det" cr="det:w29154" w="This" l="~" p="Det"/>
+     <dpg d="w29154" g="w29155" t="s" cr="s:w29155||subj:w29156" w="effect" l="~" p="N"/>
+     <dpg d="w29155" g="E1" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="w29156" g="w29155" t="pred" cr="pred:w29155" w="specific" l="~" p="A"/>
+     <dpg d="E3" g="w29156" t="subj" cr="" w="" l="effect" p="N"/>
+     <dpg d="E3" g="w29154" t="antecedent" cr="" w="" l="effect" p="N"/>
+     <dpg d="w29157" g="w29156" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w29158" g="w29157" t="pcomp-n" cr="mod*to*n:w29156" w="profilin" l="~" p="N"/>
+     <dpg d="w29159" g="w29158" t="punc" cr="punc:w29158" w="and" l="~" p="U"/>
+     <dpg d="w29160" g="w29158" t="conj" cr="conj:w29158" w="gelsolin" l="~" p="N"/>
+     <dpg d="w29161" g="w29155" t="mod" cr="mod:w29155" w="because" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w29161" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29162" g="w29164" t="mod" cr="mod:w29164" w="other" l="~" p="A"/>
+     <dpg d="w29163" g="w29164" t="mod" cr="mod:w29164" w="cytoskeletal" l="~" p="A"/>
+     <dpg d="w29164" g="w29172" t="s" cr="s+subj:w29172" w="proteins" l="protein" p="N"/>
+     <dpg d="w29165" g="w29164" t="mod" cr="" w="such" l="such as" p="Prep"/>
+     <dpg d="w29166" g="w29165" t="lex-mod" cr="lex-mod:w29165" w="as" l="~" p="U"/>
+     <dpg d="w29167" g="w29165" t="pcomp-n" cr="mod*such*n:w29164" w="tau" l="~" p="N"/>
+     <dpg d="w29168" g="w29167" t="punc" cr="punc:w29167" w="or" l="~" p="U"/>
+     <dpg d="w29169" g="w29167" t="conj" cr="conj:w29167" w="actin" l="~" p="N"/>
+     <dpg d="w29170" g="w29172" t="aux" cr="aux:w29172" w="do" l="~" p="Aux"/>
+     <dpg d="w29171" g="w29170" t="neg" cr="neg:w29170" w="not" l="~" p="A"/>
+     <dpg d="w29172" g="E0" t="i" cr="comp1:w29161" w="affect" l="~" p="V"/>
+     <dpg d="E4" g="w29172" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E4" g="w29164" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w29173" g="w29175" t="nn" cr="nn:w29175" w="PI" l="~" p="N"/>
+     <dpg d="w29174" g="w29175" t="mod" cr="mod:w29175" w="3-kinase" l="3-kinase" p="A"/>
+     <dpg d="w29175" g="w29172" t="obj" cr="obj:w29172" w="activity" l="~" p="N"/>
+     <dpg d="w29176" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

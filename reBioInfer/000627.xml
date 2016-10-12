@@ -1,0 +1,153 @@
+<rexml>
+<doc id="627">
+  <text>
+<p><s id="s1"><w id="w9385">However</w> <w id="w9386">,</w> <w id="w9387">in</w> <w id="w9388">non-adherent</w> <w id="w9389">cells</w> <w id="w9390">no</w> <w id="w9391">molecular</w> <w id="w9392">mechanism</w> <w id="w9393">has</w> <w id="w9394">yet</w> <w id="w9395">been</w> <w id="w9396">proposed</w> <w id="w9397">for</w> <w id="w9398">the</w> <w id="w9399">cell</w> <w id="w9400">adhesion-dependent</w> <w id="w9401">up-regulation</w> <w id="w9402">of</w> <w id="w9403">the</w> <w id="w9404">p27</w> <w id="w9405">cyclin-dependent</w> <w id="w9406">kinase</w> <w id="w9407">inhibitor</w> <w id="w9408">(</w> <w id="w9409">CKI</w> <w id="w9410">)</w> <w id="w9411">,</w> <w id="w9412">and</w> <w id="w9413">the</w> <w id="w9414">associated</w> <w id="w9415">inhibition</w> <w id="w9416">of</w> <w id="w9417">cyclin</w> <w id="w9418">E</w><w id="w9419">-</w><w id="w9420">CDK2</w> <w id="w9421">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2239" gid="g2143" t="Individual_protein" fr="w9404" to="w9404" nam="yes">
+     <textspan type="extent">p27</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.627.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2240" gid="g2144" t="RELATIONSHIP_TEXTBINDING" fr="w9414" to="w9414">
+     <textspan type="extent">associated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.627.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2241" gid="g2145" t="Individual_protein" fr="w9420" to="w9420" nam="yes">
+     <textspan type="extent">CDK2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.627.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2242" gid="g2146" t="Individual_protein" fr="w9417" to="w9418" nam="yes">
+     <textspan type="extent">cyclin E</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.627.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2243" gid="g2147" t="Protein_family_or_group" fr="w9405" to="w9407" nam="yes">
+     <textspan type="extent">cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.627.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2244" gid="g2147" t="Protein_family_or_group" fr="w9409" to="w9409" nam="yes">
+     <textspan type="extent">CKI</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.627.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2245" gid="g2148" t="ACTIVATION" fr="w9401" to="w9404">
+     <textspan type="extent">up-regulation of the p27</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="ACTIVATION"/>
+      <exattr n="bd" v="e.627.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2246" gid="g2149" t="Protein_complex" fr="w9417" to="w9420" nam="yes">
+     <textspan type="extent">cyclin E-CDK2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.627.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2247" gid="g2150" t="INHIBITION" fr="w9415" to="w9420">
+     <textspan type="extent">inhibition of cyclin E-CDK2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Negative"/>
+      <exattr n="t4" v="INHIBITION"/>
+      <exattr n="bd" v="e.627.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r875" t="MEMBER" e1="e2243" e2="e2239" re="">
+     <textspan type="extent">p27 cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r876" t="CONTAIN" e1="e2246" e2="e2242" re="">
+     <textspan type="extent">cyclin E - CDK2</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r877" t="CONTAIN" e1="e2246" e2="e2241" re="">
+     <textspan type="extent">cyclin E - CDK2</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r878" t="RELATE" e1="e2245" e2="e2247" re="e2240">
+     <textspan type="extent">up-regulation of the p27 cyclin-dependent kinase inhibitor ( CKI ) , and the associated inhibition of cyclin E - CDK2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.627.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

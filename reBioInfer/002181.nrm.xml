@@ -1,0 +1,178 @@
+<rexml>
+<doc id="2181">
+  
+  <markup>
+   <nes>
+    <ne id="e7699" gid="g7340" t="Individual_protein" fr="w33830" to="w33830" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2181.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7705" gid="g7340" t="Individual_protein" fr="w33834" to="w33834" nam="yes" sid="s1">
+     <textspan>its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2181.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7702" gid="g7343" t="Individual_protein" fr="w33838" to="w33838" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2181.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7703" gid="g7344" t="Protein_complex" fr="w33843" to="w33847" nam="yes" sid="s1">
+     <textspan>Arp2/3 complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.2181.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7704" gid="g7345" t="Individual_protein" fr="w33843" to="w33846" nam="yes" sid="s1">
+     <textspan>Arp [..] 3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2181.5"/>
+      <exattr n="nst" v="st.2181.30.0"/>
+      <exattr n="nst" v="st.2181.30.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7706" gid="g7346" t="Individual_protein" fr="w33843" to="w33844" nam="yes" sid="s1">
+     <textspan>Arp2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2181.7"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2960" t="BIND" e1="e7699" e2="e7702" re="e7700">
+     <textspan>profilin is bound to its known ligands : actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2181.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2961" t="BIND" e1="e7699" e2="e7703" re="e7700">
+     <textspan>profilin is bound to its known ligands : actin , membrane PIP(2) , Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2181.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2962" t="COOF-CONTAIN" e1="e7706" e2="e7704" re="e7707">
+     <textspan>Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2181.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2962" t="CONTAIN" e1="e7703" e2="e7706" re="e7707">
+     <textspan>Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2181.8"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2963" t="CONTAIN" e1="e7703" e2="e7704" re="e7707">
+     <textspan>Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2181.8"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2965" t="BIND" e1="e7705" e2="e7702" re="e7701">
+     <textspan>its known ligands : actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2181.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2966" t="BIND" e1="e7705" e2="e7703" re="e7701">
+     <textspan>its known ligands : actin , membrane PIP(2) , Arp 2 / 3 complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2181.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

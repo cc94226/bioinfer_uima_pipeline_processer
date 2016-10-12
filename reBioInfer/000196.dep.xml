@@ -1,0 +1,46 @@
+<rexml>
+<doc id="196">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3008" g="w3010" t="det" cr="det:w3010" w="A" l="~" p="Det"/>
+     <dpg d="w3009" g="w3010" t="mod" cr="mod:w3010" w="truncated" l="~" p="A"/>
+     <dpg d="w3010" g="w3011" t="s" cr="s+subj:w3011" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w3011" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="disrupts" l="disrupt" p="V"/>
+     <dpg d="E3" g="w3011" t="subj" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="E3" g="w3010" t="antecedent" cr="" w="" l="beta-catenin" p="N"/>
+     <dpg d="w3012" g="w3013" t="det" cr="det:w3013" w="the" l="~" p="Det"/>
+     <dpg d="w3013" g="w3011" t="obj" cr="obj:w3011" w="interaction" l="~" p="N"/>
+     <dpg d="w3014" g="w3013" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w3015" g="w3014" t="pcomp-n" cr="mod*between*n:w3013" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w3016" g="w3015" t="punc" cr="punc:w3015" w="and" l="~" p="U"/>
+     <dpg d="w3017" g="w3015" t="conj" cr="conj:w3015" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w3018" g="E2" t="punc" cr="punc:E2" w=":" l="~" p="U"/>
+     <dpg d="w3019" g="w3020" t="det" cr="det:w3020" w="a" l="~" p="Det"/>
+     <dpg d="w3020" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="cause" l="~" p="N"/>
+     <dpg d="w3021" g="w3020" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3022" g="w3021" t="pcomp-n" cr="mod*of*n:w3020" w="loss" l="~" p="N"/>
+     <dpg d="w3023" g="w3022" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3024" g="w3025" t="mod" cr="mod:w3025" w="intercellular" l="~" p="A"/>
+     <dpg d="w3025" g="w3023" t="pcomp-n" cr="mod*of*n:w3022" w="adhesiveness" l="~" p="N"/>
+     <dpg d="w3026" g="w3025" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w3027" g="w3030" t="mod" cr="mod:w3030" w="human" l="~" p="A"/>
+     <dpg d="w3028" g="w3029" t="lex-mod" cr="lex-mod:w3029" w="cancer" l="~" p="U"/>
+     <dpg d="w3029" g="w3030" t="nn" cr="nn:w3030" w="cell" l="cancer cell" p="N"/>
+     <dpg d="w3030" g="w3026" t="pcomp-n" cr="mod*in*n:w3025" w="lines" l="line" p="N"/>
+     <dpg d="w3031" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

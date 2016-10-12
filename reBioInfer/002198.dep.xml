@@ -1,0 +1,54 @@
+<rexml>
+<doc id="2198">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="E0" g="E1" t="mod" cr="" w="" l="fin" p="C"/>
+     <dpg d="w33952" g="E0" t="wha" cr="wha:w33960" w="When" l="~" p="A"/>
+     <dpg d="w33953" g="w33956" t="lex-mod" cr="lex-mod:w33956" w="liver-" l="~" p="U"/>
+     <dpg d="w33954" g="w33956" t="lex-mod" cr="lex-mod:w33956" w="or" l="~" p="U"/>
+     <dpg d="w33955" g="w33956" t="lex-mod" cr="lex-mod:w33956" w="islet-" l="~" p="U"/>
+     <dpg d="w33956" g="w33957" t="mod" cr="mod:w33957" w="type" l="liver- or islet- type" p="A"/>
+     <dpg d="w33957" g="w33960" t="s" cr="s+obj:w33960" w="glucokinase" l="~" p="N"/>
+     <dpg d="w33958" g="w33960" t="be" cr="be:w33960" w="was" l="be" p="be"/>
+     <dpg d="w33959" g="w33960" t="amod" cr="amod:w33960" w="transiently" l="~" p="A"/>
+     <dpg d="w33960" g="E0" t="i" cr="mod:w33968" w="expressed" l="express" p="V"/>
+     <dpg d="E3" g="w33960" t="obj" cr="" w="" l="glucokinase" p="N"/>
+     <dpg d="E3" g="w33957" t="antecedent" cr="" w="" l="glucokinase" p="N"/>
+     <dpg d="w33961" g="w33960" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w33962" g="w33963" t="nn" cr="nn:w33963" w="COS-7" l="COS-7" p="N"/>
+     <dpg d="w33963" g="w33961" t="pcomp-n" cr="mod*in*n:w33960" w="cells" l="cell" p="N"/>
+     <dpg d="w33964" g="E1" t="punc" cr="punc:w33968" w="," l="~" p="U"/>
+     <dpg d="w33965" g="w33967" t="det" cr="det:w33967" w="the" l="~" p="Det"/>
+     <dpg d="w33966" g="w33967" t="mod" cr="mod:w33967" w="expressed" l="~" p="A"/>
+     <dpg d="w33967" g="w33968" t="s" cr="s:w33968||subj:w33970" w="glucokinase" l="~" p="N"/>
+     <dpg d="w33968" g="E1" t="i" cr="" w="was" l="be" p="VBE"/>
+     <dpg d="w33969" g="w33968" t="guest" cr="guest:w33968" w="also" l="~" p="A"/>
+     <dpg d="E4" g="w33970" t="subj" cr="" w="" l="glucokinase" p="N"/>
+     <dpg d="E4" g="w33967" t="antecedent" cr="" w="" l="glucokinase" p="N"/>
+     <dpg d="w33970" g="w33968" t="pred" cr="pred:w33968" w="co-localized" l="co-localized" p="N"/>
+     <dpg d="w33971" g="w33970" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w33972" g="w33973" t="nn" cr="nn:w33973" w="actin" l="~" p="N"/>
+     <dpg d="w33973" g="w33971" t="pcomp-n" cr="mod*with*n:w33970" w="filaments" l="filament" p="N"/>
+     <dpg d="w33974" g="w33973" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w33975" g="w33976" t="det" cr="det:w33976" w="the" l="~" p="Det"/>
+     <dpg d="w33976" g="w33974" t="pcomp-n" cr="mod*in*n:w33973" w="cytoplasm" l="~" p="N"/>
+     <dpg d="w33977" g="w33976" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33978" g="w33980" t="det" cr="det:w33980" w="these" l="~" p="Det"/>
+     <dpg d="w33979" g="w33980" t="mod" cr="mod:w33980" w="transfected" l="~" p="A"/>
+     <dpg d="w33980" g="w33977" t="pcomp-n" cr="mod*of*n:w33976" w="cells" l="cell" p="N"/>
+     <dpg d="w33981" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

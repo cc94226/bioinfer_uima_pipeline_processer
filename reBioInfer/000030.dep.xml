@@ -1,0 +1,57 @@
+<rexml>
+<doc id="30">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w461" g="w462" t="nn" cr="nn:w462" w="Actin" l="~" p="N"/>
+     <dpg d="w462" g="w464" t="s" cr="s+obj:w464" w="expression" l="~" p="N"/>
+     <dpg d="w463" g="w464" t="be" cr="be:w464" w="was" l="be" p="be"/>
+     <dpg d="w464" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="reduced" l="reduce" p="V"/>
+     <dpg d="E3" g="w464" t="obj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E3" g="w462" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w465" g="w464" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w466" g="w465" t="pcomp-n" cr="by-subj*by*n:w464" w="25-50" l="25-50" p="N"/>
+     <dpg d="w467" g="E2" t="punc" cr="punc:E2" w="%" l="~" p="U"/>
+     <dpg d="w468" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w469" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="relative" l="~" p="N"/>
+     <dpg d="w470" g="w469" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w471" g="w470" t="pcomp-n" cr="mod*to*n:w469" w="that" l="~" p="N"/>
+     <dpg d="w472" g="w469" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w473" g="w475" t="nn" cr="nn:w475" w="myosin" l="~" p="N"/>
+     <dpg d="w474" g="w475" t="mod" cr="mod:w475" w="heavy" l="~" p="A"/>
+     <dpg d="w475" g="w472" t="pcomp-n" cr="mod*of*n:w469" w="chain" l="~" p="N"/>
+     <dpg d="w476" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w477" g="E2" t="p" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w478" g="w479" t="lex-mod" cr="lex-mod:w479" w="smooth" l="~" p="U"/>
+     <dpg d="w479" g="w477" t="pcomp-n" cr="p*in*n:E2" w="muscle" l="smooth muscle" p="N"/>
+     <dpg d="w480" g="w479" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w481" g="w482" t="nn" cr="nn:w482" w="KO" l="~" p="N"/>
+     <dpg d="w482" g="w480" t="pcomp-n" cr="mod*of*n:w479" w="mice" l="~" p="N"/>
+     <dpg d="w483" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w484" g="E2" t="p" cr="" w="without" l="~" p="Prep"/>
+     <dpg d="w485" g="w486" t="det" cr="det:w486" w="any" l="~" p="Det"/>
+     <dpg d="w486" g="w484" t="pcomp-n" cr="p*without*n:E2" w="change" l="~" p="N"/>
+     <dpg d="w487" g="w486" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w488" g="w490" t="det" cr="det:w490" w="the" l="~" p="Det"/>
+     <dpg d="w489" g="w490" t="mod" cr="mod:w490" w="relative" l="~" p="A"/>
+     <dpg d="w490" g="w487" t="pcomp-n" cr="mod*in*n:w486" w="distribution" l="~" p="N"/>
+     <dpg d="w491" g="w490" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w492" g="w494" t="det" cr="det:w494" w="the" l="~" p="Det"/>
+     <dpg d="w493" g="w494" t="nn" cr="nn:w494" w="actin" l="~" p="N"/>
+     <dpg d="w494" g="w491" t="pcomp-n" cr="mod*of*n:w490" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w495" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

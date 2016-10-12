@@ -1,0 +1,48 @@
+<rexml>
+<doc id="567">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8099" g="E0" t="mod" cr="mod:w8101" w="Here" l="~" p="N"/>
+     <dpg d="w8100" g="w8101" t="s" cr="s+subj:w8101" w="we" l="~" p="N"/>
+     <dpg d="w8101" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="describe" l="~" p="V"/>
+     <dpg d="E3" g="w8101" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E3" g="w8100" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w8102" g="w8106" t="det" cr="det:w8106" w="the" l="~" p="Det"/>
+     <dpg d="w8103" g="w8105" t="lex-mod" cr="lex-mod:w8105" w="TNF" l="~" p="U"/>
+     <dpg d="w8104" g="w8105" t="lex-mod" cr="lex-mod:w8105" w="-" l="~" p="U"/>
+     <dpg d="w8105" g="w8106" t="mod" cr="mod:w8106" w="dependent" l="TNF - dependent" p="A"/>
+     <dpg d="w8106" g="w8101" t="obj" cr="obj:w8101" w="activation" l="~" p="N"/>
+     <dpg d="w8107" g="w8106" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w8108" g="w8111" t="mod" cr="mod:w8111" w="acid" l="~" p="A"/>
+     <dpg d="w8109" g="w8111" t="nn" cr="nn:w8111" w="SMase" l="~" p="N"/>
+     <dpg d="w8110" g="w8111" t="punc" cr="punc:w8111" w="(" l="~" p="U"/>
+     <dpg d="w8111" g="w8107" t="pcomp-n" cr="mod*of*n:w8106" w="A-SMase" l="A-SMase" p="N"/>
+     <dpg d="w8112" g="w8111" t="punc" cr="punc:w8111" w=")" l="~" p="U"/>
+     <dpg d="w8113" g="w8111" t="mod" cr="" w="through" l="~" p="Prep"/>
+     <dpg d="w8114" g="w8116" t="det" cr="det:w8116" w="the" l="~" p="Det"/>
+     <dpg d="w8115" g="w8116" t="nn" cr="nn:w8116" w="p55" l="~" p="N"/>
+     <dpg d="w8116" g="w8113" t="pcomp-n" cr="mod*through*n:w8111" w="TNF" l="~" p="N"/>
+     <dpg d="w8117" g="w8119" t="lex-mod" cr="lex-mod:w8119" w="receptor" l="~" p="U"/>
+     <dpg d="w8118" g="w8119" t="lex-mod" cr="lex-mod:w8119" w="-" l="~" p="U"/>
+     <dpg d="w8119" g="w8121" t="mod" cr="mod:w8121" w="associated" l="receptor - associated" p="A"/>
+     <dpg d="w8120" g="w8121" t="nn" cr="nn:w8121" w="proteins" l="protein" p="N"/>
+     <dpg d="w8121" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="TRADD" l="~" p="N"/>
+     <dpg d="w8122" g="w8121" t="punc" cr="punc:w8121" w="and" l="~" p="U"/>
+     <dpg d="w8123" g="w8121" t="conj" cr="conj:w8121" w="FADD" l="~" p="N"/>
+     <dpg d="w8124" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

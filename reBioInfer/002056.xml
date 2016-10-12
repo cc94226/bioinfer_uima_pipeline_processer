@@ -1,0 +1,114 @@
+<rexml>
+<doc id="2056">
+  <text>
+<p><s id="s1"><w id="w32574">We</w> <w id="w32575">find</w> <w id="w32576">that</w> <w id="w32577">profilin</w> <w id="w32578">and</w> <w id="w32579">cofilin</w> <w id="w32580">regulate</w> <w id="w32581">actin</w><w id="w32582">-filament</w> <w id="w32583">formation</w> <w id="w32584">throughout</w> <w id="w32585">the</w> <w id="w32586">cell</w> <w id="w32587">cortex</w> <w id="w32588">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7427" gid="g7086" t="Individual_protein" fr="w32577" to="w32577" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2056.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7428" gid="g7087" t="RELATIONSHIP_TEXTBINDING" fr="w32580" to="w32580">
+     <textspan type="extent">regulate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2056.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7429" gid="g7088" t="ASSEMBLY" fr="w32581" to="w32583">
+     <textspan type="extent">actin-filament formation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.2056.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7430" gid="g7089" t="Individual_protein" fr="w32579" to="w32579" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2056.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7431" gid="g7090" t="Cell_component" fr="w32581" to="w32582" nam="yes">
+     <textspan type="extent">actin-filament</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.2056.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7432" gid="g7091" t="Individual_protein" fr="w32581" to="w32581" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2056.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7433" gid="g7092" t="Individual_protein" fr="w32581" to="w32581" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2056.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2839" t="CONTROL" e1="e7427" e2="e7429" re="e7428">
+     <textspan type="extent">profilin and cofilin regulate actin -filament formation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2056.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r2840" t="CONTROL" e1="e7430" e2="e7429" re="e7428">
+     <textspan type="extent">cofilin regulate actin -filament formation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2056.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,150 @@
+<rexml>
+<doc id="1304">
+  <text>
+<p><s id="s1"><w id="w20457">Study</w> <w id="w20458">of</w> <w id="w20459">mutated</w> <w id="w20460">yeast</w> <w id="w20461">profilins</w> <w id="w20462">and</w> <w id="w20463">profilins</w> <w id="w20464">from</w> <w id="w20465">Acanthamoeba</w> <w id="w20466">suggests</w> <w id="w20467">that</w> <w id="w20468">the</w> <w id="w20469">ability</w> <w id="w20470">of</w> <w id="w20471">profilin</w> <w id="w20472">to</w> <w id="w20473">suppress</w> <w id="w20474">cap-</w> <w id="w20475">cells</w> <w id="w20476">is</w> <w id="w20477">dependent</w> <w id="w20478">upon</w> <w id="w20479">a</w> <w id="w20480">property</w> <w id="w20481">other</w> <w id="w20482">than</w> <w id="w20483">,</w> <w id="w20484">or</w> <w id="w20485">in</w> <w id="w20486">addition</w> <w id="w20487">to</w> <w id="w20488">,</w> <w id="w20489">its</w> <w id="w20490">ability</w> <w id="w20491">to</w> <w id="w20492">bind</w> <w id="w20493">actin</w> <w id="w20494">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4713" gid="g4506" t="Gene/protein/RNA" fr="w20461" to="w20461" nam="yes">
+     <textspan type="extent">profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1304.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4714" gid="g4507" t="RELATIONSHIP_TEXTBINDING" fr="w20492" to="w20492">
+     <textspan type="extent">bind</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1304.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4715" gid="g4508" t="RELATIONSHIP_TEXTBINDING" fr="w20477" to="w20478">
+     <textspan type="extent">dependent upon</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1304.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4716" gid="g4509" t="Gene/protein/RNA" fr="w20463" to="w20463" nam="yes">
+     <textspan type="extent">profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1304.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4717" gid="g4510" t="Individual_protein" fr="w20489" to="w20489" nam="yes">
+     <textspan type="extent">its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1304.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4718" gid="g4511" t="Individual_protein" fr="w20493" to="w20493" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1304.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4719" gid="g4512" t="Cell_line" fr="w20474" to="w20475" nam="yes">
+     <textspan type="extent">cap- cells</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Artificial"/>
+      <exattr n="t4" v="Cell_line"/>
+      <exattr n="bd" v="e.1304.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4720" gid="g4510" t="Individual_protein" fr="w20471" to="w20471" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1304.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e4721" gid="g4513" t="Gene" fr="w20474" to="w20474" nam="yes">
+     <textspan type="extent">cap-</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1304.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e4722" gid="g4514" t="RELATIONSHIP_TEXTBINDING" fr="w20473" to="w20473">
+     <textspan type="extent">suppress</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1304.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1793" t="CONDITION" e1="e4714" e2="e4722" re="e4715">
+     <textspan type="extent">profilin to suppress cap- cells is dependent upon a property other than , or in addition to , its ability to bind actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1304.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r1794" t="BIND" e1="e4717" e2="e4718" re="e4714">
+     <textspan type="extent">its ability to bind actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1304.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1795" t="SUPPRESS" e1="e4720" e2="e4719" re="e4722">
+     <textspan type="extent">profilin to suppress cap- cells</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1304.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

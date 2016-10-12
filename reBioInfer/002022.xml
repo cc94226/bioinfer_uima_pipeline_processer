@@ -1,0 +1,72 @@
+<rexml>
+<doc id="2022">
+  <text>
+<p><s id="s1"><w id="w32217">We</w> <w id="w32218">attribute</w> <w id="w32219">these</w> <w id="w32220">effects</w> <w id="w32221">to</w> <w id="w32222">potential</w> <w id="w32223">sequestration</w> <w id="w32224">of</w> <w id="w32225">actin</w> <w id="w32226">monomers</w> <w id="w32227">by</w> <w id="w32228">profilin</w> <w id="w32229">,</w> <w id="w32230">when</w> <w id="w32231">present</w> <w id="w32232">in</w> <w id="w32233">excess</w> <w id="w32234">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7357" gid="g7019" t="RELATIONSHIP_TEXTBINDING" fr="w32223" to="w32227">
+     <textspan type="extent">sequestration of [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2022.0"/>
+      <exattr n="nst" v="st.2022.6.0"/>
+      <exattr n="nst" v="st.2022.7.0"/>
+      <exattr n="nst" v="st.2022.10.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7358" gid="g7020" t="Individual_protein" fr="w32225" to="w32226" nam="yes">
+     <textspan type="extent">actin monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2022.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7359" gid="g7021" t="Individual_protein" fr="w32228" to="w32228" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2022.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7360" gid="g7022" t="Individual_protein" fr="w32225" to="w32225" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2022.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2818" t="LOCALIZE" e1="e7359" e2="e7358" re="e7357">
+     <textspan type="extent">sequestration of actin monomers by profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2022.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

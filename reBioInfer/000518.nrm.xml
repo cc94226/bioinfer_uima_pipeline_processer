@@ -1,0 +1,163 @@
+<rexml>
+<doc id="518">
+  
+  <markup>
+   <nes>
+    <ne id="e1720" gid="g1648" t="Gene/protein/RNA" fr="w7160" to="w7160" nam="yes" sid="s1">
+     <textspan>RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.518.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1723" gid="g1651" t="Gene/protein/RNA" fr="w7178" to="w7178" nam="yes" sid="s1">
+     <textspan>RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.518.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1722" gid="g1650" t="Gene" fr="w7191" to="w7191" nam="yes" sid="s1">
+     <textspan>RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.518.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1725" gid="g1653" t="Gene" fr="w7193" to="w7193" nam="yes" sid="s1">
+     <textspan>RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.518.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1724" gid="g1652" t="Gene/protein/RNA" fr="w7200" to="w7200" nam="yes" sid="s1">
+     <textspan>RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.518.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1728" gid="g1656" t="Protein_complex" fr="w7209" to="w7213" nam="yes" sid="s1">
+     <textspan>Rad51/Rad52 [..] complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.518.8"/>
+      <exattr n="nst" v="st.518.59.0"/>
+      <exattr n="nst" v="st.518.59.1"/>
+      <exattr n="nst" v="st.518.59.2"/>
+      <exattr n="nst" v="st.518.61.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1727" gid="g1655" t="Individual_protein" fr="w7209" to="w7209" nam="yes" sid="s1">
+     <textspan>Rad51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.518.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1726" gid="g1654" t="Individual_protein" fr="w7211" to="w7211" nam="yes" sid="s1">
+     <textspan>Rad52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.518.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r681" t="FNSIMILAR" e1="e1722" e2="e1725" re="e1729">
+     <textspan>RAD51 and RAD52 have different functions</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.518.9"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Functional-Similarity"/>
+      <exattr n="t4" v="FNSIMILAR"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r682" t="COOF-CONTAIN" e1="e1727" e2="e1726" re="e1721">
+     <textspan>Rad51 / Rad52 protein complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.518.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="COOF-CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r682" t="CONTAIN" e1="e1728" e2="e1727" re="e1721">
+     <textspan>Rad51 / Rad52 protein complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.518.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r683" t="CONTAIN" e1="e1728" e2="e1726" re="e1721">
+     <textspan>Rad51 / Rad52 protein complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.518.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

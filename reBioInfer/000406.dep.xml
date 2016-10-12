@@ -1,0 +1,45 @@
+<rexml>
+<doc id="406">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5923" g="w5925" t="nn" cr="nn:w5925" w="DNA" l="~" p="N"/>
+     <dpg d="w5924" g="w5925" t="nn" cr="nn:w5925" w="sequence" l="~" p="N"/>
+     <dpg d="w5925" g="w5930" t="s" cr="s+subj:w5930" w="analysis" l="~" p="N"/>
+     <dpg d="w5926" g="w5925" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5927" g="w5929" t="det" cr="det:w5929" w="the" l="~" p="Det"/>
+     <dpg d="w5928" g="w5929" t="nn" cr="nn:w5929" w="cdc3+" l="~" p="N"/>
+     <dpg d="w5929" g="w5926" t="pcomp-n" cr="mod*of*n:w5925" w="gene" l="~" p="N"/>
+     <dpg d="w5930" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="reveals" l="reveal" p="V"/>
+     <dpg d="E4" g="w5930" t="subj" cr="" w="" l="analysis" p="N"/>
+     <dpg d="E4" g="w5925" t="antecedent" cr="" w="" l="analysis" p="N"/>
+     <dpg d="E0" g="w5930" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5931" g="E0" t="c" cr="c:w5933" w="that" l="~" p="COMP"/>
+     <dpg d="w5932" g="w5933" t="s" cr="s+subj:w5933" w="it" l="~" p="N"/>
+     <dpg d="w5933" g="E0" t="i" cr="fc:w5930" w="encodes" l="encode" p="V"/>
+     <dpg d="E5" g="w5933" t="subj" cr="" w="" l="it" p="N"/>
+     <dpg d="E5" g="w5932" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w5934" g="w5933" t="obj" cr="obj:w5933" w="profilin" l="~" p="N"/>
+     <dpg d="w5935" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w5936" g="w5941" t="det" cr="det:w5941" w="an" l="~" p="Det"/>
+     <dpg d="w5937" g="w5940" t="lex-mod" cr="lex-mod:w5940" w="actin" l="~" p="U"/>
+     <dpg d="w5938" g="w5940" t="lex-mod" cr="lex-mod:w5940" w="-monomer" l="~" p="U"/>
+     <dpg d="w5939" g="w5940" t="lex-mod" cr="lex-mod:w5940" w="-" l="~" p="U"/>
+     <dpg d="w5940" g="w5941" t="mod" cr="mod:w5941" w="binding" l="actin -monomer - binding" p="A"/>
+     <dpg d="w5941" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="protein" l="~" p="N"/>
+     <dpg d="w5942" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

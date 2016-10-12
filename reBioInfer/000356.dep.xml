@@ -1,0 +1,40 @@
+<rexml>
+<doc id="356">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5306" g="w5307" t="s" cr="s+subj:w5307" w="Coprecipitations" l="~" p="N"/>
+     <dpg d="w5307" g="E1" t="i" cr="" w="revealed" l="reveal" p="V"/>
+     <dpg d="E3" g="w5307" t="subj" cr="" w="" l="Coprecipitations" p="N"/>
+     <dpg d="E3" g="w5306" t="antecedent" cr="" w="" l="Coprecipitations" p="N"/>
+     <dpg d="E0" g="w5307" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5308" g="E0" t="c" cr="c:w5312" w="that" l="~" p="COMP"/>
+     <dpg d="w5309" g="w5311" t="mod" cr="mod:w5311" w="transfected" l="~" p="A"/>
+     <dpg d="w5310" g="w5311" t="nn" cr="nn:w5311" w="cadherin" l="~" p="N"/>
+     <dpg d="w5311" g="w5312" t="s" cr="s:w5312||subj:w5313" w="molecules" l="molecule" p="N"/>
+     <dpg d="w5312" g="E0" t="i" cr="fc:w5307" w="are" l="be" p="VBE"/>
+     <dpg d="w5313" g="w5312" t="pred" cr="pred:w5312" w="complexed" l="~" p="A"/>
+     <dpg d="E4" g="w5313" t="subj" cr="" w="" l="molecule" p="N"/>
+     <dpg d="E4" g="w5311" t="antecedent" cr="" w="" l="molecule" p="N"/>
+     <dpg d="w5314" g="w5313" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w5315" g="w5314" t="pcomp-n" cr="mod*with*n:w5313" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w5316" g="w5315" t="punc" cr="punc:w5315" w="and" l="~" p="U"/>
+     <dpg d="w5317" g="w5315" t="conj" cr="conj:w5315" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w5318" g="w5317" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w5319" g="w5320" t="lex-mod" cr="lex-mod:w5320" w="plasma" l="~" p="U"/>
+     <dpg d="w5320" g="w5318" t="pcomp-n" cr="mod*at*n:w5317" w="membranes" l="plasma membrane" p="N"/>
+     <dpg d="w5321" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

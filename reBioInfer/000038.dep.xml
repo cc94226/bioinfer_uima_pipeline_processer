@@ -1,0 +1,56 @@
+<rexml>
+<doc id="38">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w576" g="w581" t="mod" cr="mod:w581" w="Active" l="~" p="A"/>
+     <dpg d="w577" g="w581" t="punc" cr="punc:w581" w="," l="~" p="U"/>
+     <dpg d="w578" g="w581" t="mod" cr="mod:w581" w="Ser133-phosphorylated" l="Ser133-phosphorylated" p="A"/>
+     <dpg d="w579" g="w581" t="nn" cr="nn:w581" w="CREB" l="~" p="N"/>
+     <dpg d="w580" g="w581" t="nn" cr="nn:w581" w="effects" l="effect" p="N"/>
+     <dpg d="w581" g="" t="" cr="" w="transcription" l="~" p="N"/>
+     <dpg d="w582" g="w581" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w583" g="w584" t="mod" cr="mod:w584" w="CRE-dependent" l="CRE-dependent" p="A"/>
+     <dpg d="w584" g="w582" t="pcomp-n" cr="mod*of*n:w581" w="genes" l="gene" p="N"/>
+     <dpg d="w585" g="w584" t="mod" cr="" w="via" l="~" p="Prep"/>
+     <dpg d="w586" g="w585" t="pcomp-n" cr="mod*via*n:w584||subj:w597" w="interaction" l="~" p="N"/>
+     <dpg d="w587" g="w586" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w588" g="w592" t="det" cr="det:w592" w="the" l="~" p="Det"/>
+     <dpg d="w589" g="w592" t="mod" cr="mod:w592" w="265-kDa" l="265-kDa" p="A"/>
+     <dpg d="w590" g="w592" t="mod" cr="mod:w592" w="co-activator" l="co-activator" p="A"/>
+     <dpg d="w591" g="w592" t="nn" cr="nn:w592" w="protein" l="~" p="N"/>
+     <dpg d="w592" g="w587" t="pcomp-n" cr="mod*with*n:w586" w="CREB-binding-protein" l="CREB-binding-protein" p="N"/>
+     <dpg d="w593" g="w592" t="punc" cr="punc:w592" w="," l="~" p="U"/>
+     <dpg d="w594" g="w592" t="appo" cr="appo:w592" w="CBP" l="~" p="N"/>
+     <dpg d="w595" g="w586" t="punc" cr="punc:w586" w="," l="~" p="U"/>
+     <dpg d="E0" g="w586" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w596" g="E0" t="whn" cr="whn:w597" w="which" l="~" p="N"/>
+     <dpg d="w596" g="w586" t="antecedent" cr="antecedent:w586" w="which" l="~" p="N"/>
+     <dpg d="w597" g="E0" t="i" cr="rel:w586" w="bridges" l="bridge" p="V"/>
+     <dpg d="E2" g="w597" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E2" g="w586" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w598" g="w601" t="det" cr="det:w601" w="the" l="~" p="Det"/>
+     <dpg d="w599" g="w600" t="lex-mod" cr="lex-mod:w600" w="CRE/" l="~" p="U"/>
+     <dpg d="w600" g="w601" t="nn" cr="nn:w601" w="CREB" l="CRE/ CREB" p="N"/>
+     <dpg d="w601" g="w597" t="obj" cr="obj:w597" w="complex" l="~" p="N"/>
+     <dpg d="w602" g="w601" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w603" g="w602" t="pcomp-n" cr="mod*to*n:w601" w="components" l="component" p="N"/>
+     <dpg d="w604" g="w603" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w605" g="w608" t="det" cr="det:w608" w="the" l="~" p="Det"/>
+     <dpg d="w606" g="w608" t="mod" cr="mod:w608" w="basal" l="~" p="A"/>
+     <dpg d="w607" g="w608" t="mod" cr="mod:w608" w="transcriptional" l="~" p="A"/>
+     <dpg d="w608" g="w604" t="pcomp-n" cr="mod*of*n:w603" w="apparatus" l="~" p="N"/>
+     <dpg d="w609" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

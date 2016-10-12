@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1229">
+  <text>
+<p><s id="s1"><w id="w19307">SDS-PAGE</w> <w id="w19308">analysis</w> <w id="w19309">of</w> <w id="w19310">growth</w> <w id="w19311">cone</w> <w id="w19312">cytoskeletons</w> <w id="w19313">revealed</w> <w id="w19314">the</w> <w id="w19315">presence</w> <w id="w19316">of</w> <w id="w19317">several</w> <w id="w19318">major</w> <w id="w19319">bands</w> <w id="w19320">,</w> <w id="w19321">identified</w> <w id="w19322">by</w> <w id="w19323">their</w> <w id="w19324">mobility</w> <w id="w19325">as</w> <w id="w19326">actin</w> <w id="w19327">(</w> <w id="w19328">43</w> <w id="w19329">kDa</w> <w id="w19330">Mr</w> <w id="w19331">)</w> <w id="w19332">,</w> <w id="w19333">myosin</w> <w id="w19334">heavy</w> <w id="w19335">chain</w> <w id="w19336">(</w> <w id="w19337">195</w> <w id="w19338">kDa</w> <w id="w19339">Mr</w> <w id="w19340">)</w> <w id="w19341">,</w> <w id="w19342">spectrin</w> <w id="w19343">(</w> <w id="w19344">235</w> <w id="w19345">and</w> <w id="w19346">240</w> <w id="w19347">kDa</w> <w id="w19348">Mr</w> <w id="w19349">)</w> <w id="w19350">,</w> <w id="w19351">and</w> <w id="w19352">tubulin</w> <w id="w19353">(</w> <w id="w19354">51-54</w> <w id="w19355">kDa</w> <w id="w19356">Mr</w> <w id="w19357">)</w> <w id="w19358">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4487" gid="g4293" t="Gene/protein/RNA" fr="w19326" to="w19326" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1229.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4488" gid="g4294" t="Gene/protein/RNA" fr="w19342" to="w19342" nam="yes">
+     <textspan type="extent">spectrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1229.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4489" gid="g4295" t="Gene/protein/RNA" fr="w19333" to="w19335" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1229.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4490" gid="g4296" t="Gene/protein/RNA" fr="w19352" to="w19352" nam="yes">
+     <textspan type="extent">tubulin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1229.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

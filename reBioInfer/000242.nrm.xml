@@ -1,0 +1,84 @@
+<rexml>
+<doc id="242">
+  
+  <markup>
+   <nes>
+    <ne id="e892" gid="g859" t="Individual_protein" fr="w3688" to="w3688" nam="yes" sid="s1">
+     <textspan>Neuropilin-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.242.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e899" gid="g863" t="Individual_protein" fr="w3690" to="w3690" nam="yes" sid="s1">
+     <textspan>collapsin-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.242.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e896" gid="g863" t="Individual_protein" fr="w3692" to="w3693" nam="yes" sid="s1">
+     <textspan>semaphorin III</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.242.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e894" gid="g861" t="Individual_protein" fr="w3703" to="w3703" nam="yes" sid="s1">
+     <textspan>collapsin-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.242.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e898" gid="g865" t="Individual_protein" fr="w3705" to="w3708" nam="yes" sid="s1">
+     <textspan>vascular endothelial growth factor-165</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.242.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r336" t="RELATE" e1="e894" e2="e898" re="e895">
+     <textspan>competition of collapsin-1 and vascular endothelial growth factor-165</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.242.3"/>
+      <exattr n="t1" v="RELATE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

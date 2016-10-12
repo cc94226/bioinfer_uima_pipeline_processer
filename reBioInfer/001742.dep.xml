@@ -1,0 +1,47 @@
+<rexml>
+<doc id="1742">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w27772" g="w27773" t="det" cr="det:w27773" w="These" l="~" p="Det"/>
+     <dpg d="w27773" g="w27774" t="s" cr="s+subj:w27774" w="results" l="result" p="N"/>
+     <dpg d="w27774" g="E2" t="i" cr="" w="suggest" l="~" p="V"/>
+     <dpg d="E5" g="w27774" t="subj" cr="" w="" l="result" p="N"/>
+     <dpg d="E5" g="w27773" t="antecedent" cr="" w="" l="result" p="N"/>
+     <dpg d="E1" g="w27774" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w27775" g="E1" t="c" cr="c:w27779" w="that" l="~" p="COMP"/>
+     <dpg d="w27776" g="w27779" t="s" cr="s+obj:w27779||s+subj:w27786" w="profilin" l="~" p="N"/>
+     <dpg d="w27777" g="w27779" t="aux" cr="aux:w27779" w="may" l="~" p="Aux"/>
+     <dpg d="w27778" g="w27779" t="be" cr="be:w27779" w="be" l="~" p="Be"/>
+     <dpg d="w27779" g="E1" t="i" cr="fc:w27774" w="involved" l="involve" p="V"/>
+     <dpg d="E6" g="w27779" t="obj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E6" g="w27776" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w27780" g="w27779" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w27781" g="w27782" t="det" cr="det:w27782" w="the" l="~" p="Det"/>
+     <dpg d="w27782" g="w27780" t="pcomp-n" cr="mod*in*n:w27779" w="pathogenesis" l="~" p="N"/>
+     <dpg d="w27783" g="w27782" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w27784" g="w27783" t="pcomp-n" cr="mod*of*n:w27782" w="glomerulonephritis" l="~" p="N"/>
+     <dpg d="w27785" g="w27784" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E0" g="w27785" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w27776" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w27786" g="E0" t="i" cr="mod*by*c:w27784" w="reorganizing" l="reorganize" p="V"/>
+     <dpg d="E7" g="w27786" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w27787" g="w27788" t="nn" cr="nn:w27788" w="actin" l="~" p="N"/>
+     <dpg d="w27788" g="w27786" t="obj" cr="obj:w27786" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w27789" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

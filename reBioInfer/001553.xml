@@ -1,0 +1,87 @@
+<rexml>
+<doc id="1553">
+  <text>
+<p><s id="s1"><w id="w24579">The</w> <w id="w24580">microvillus</w> <w id="w24581">cytoskeleton</w> <w id="w24582">,</w> <w id="w24583">isolated</w> <w id="w24584">from</w> <w id="w24585">chicken</w> <w id="w24586">intestinal</w> <w id="w24587">epithelial</w> <w id="w24588">cell</w> <w id="w24589">brush</w> <w id="w24590">borders</w> <w id="w24591">,</w> <w id="w24592">is</w> <w id="w24593">known</w> <w id="w24594">to</w> <w id="w24595">contain</w> <w id="w24596">five</w> <w id="w24597">major</w> <w id="w24598">protein</w> <w id="w24599">components</w> <w id="w24600">,</w> <w id="w24601">the</w> <w id="w24602">110,000-dalton</w> <w id="w24603">polypeptide</w> <w id="w24604">,</w> <w id="w24605">villin</w> <w id="w24606">(</w> <w id="w24607">95,000</w> <w id="w24608">daltons</w> <w id="w24609">)</w> <w id="w24610">,</w> <w id="w24611">fimbrin</w> <w id="w24612">(</w> <w id="w24613">68,000</w> <w id="w24614">daltons</w> <w id="w24615">)</w> <w id="w24616">,</w> <w id="w24617">actin</w> <w id="w24618">(</w> <w id="w24619">43,000</w> <w id="w24620">daltons</w> <w id="w24621">)</w> <w id="w24622">,</w> <w id="w24623">and</w> <w id="w24624">calmodulin</w> <w id="w24625">(</w> <w id="w24626">17,000</w> <w id="w24627">daltons</w> <w id="w24628">)</w> <w id="w24629">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5701" gid="g5440" t="RELATIONSHIP_TEXTBINDING" fr="w24581" to="w24595">
+     <textspan type="extent">cytoskeleton [..] contain</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1553.0"/>
+      <exattr n="nst" v="st.1553.2.0"/>
+      <exattr n="nst" v="st.1553.16.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5702" gid="g5441" t="Individual_protein" fr="w24605" to="w24605" nam="yes">
+     <textspan type="extent">villin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1553.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5703" gid="g5442" t="Individual_protein" fr="w24617" to="w24617" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1553.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5704" gid="g5443" t="Individual_protein" fr="w24611" to="w24611" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1553.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5705" gid="g5444" t="Individual_protein" fr="w24624" to="w24624" nam="yes">
+     <textspan type="extent">calmodulin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1553.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2189" t="COLOCALIZE" e1="e5702" e2="e5704,e5703,e5705" re="e5701">
+     <textspan type="extent">cytoskeleton , isolated from chicken intestinal epithelial cell brush borders , is known to contain five major protein components , the 110,000-dalton polypeptide , villin ( 95,000 daltons ) , fimbrin ( 68,000 daltons ) , actin ( 43,000 daltons ) , and calmodulin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1553.0"/>
+      <exattr n="arg" v="e5702"/>
+      <exattr n="arg" v="e5704"/>
+      <exattr n="arg" v="e5703"/>
+      <exattr n="arg" v="e5705"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

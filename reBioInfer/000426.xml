@@ -1,0 +1,65 @@
+<rexml>
+<doc id="426">
+  <text>
+<p><s id="s1"><w id="w6135">Electrical</w> <w id="w6136">stimulation</w> <w id="w6137">of</w> <w id="w6138">cardiocyte</w> <w id="w6139">contraction</w> <w id="w6140">did</w> <w id="w6141">not</w> <w id="w6142">enhance</w> <w id="w6143">alpha-cardiac</w> <w id="w6144">actin</w> <w id="w6145">or</w> <w id="w6146">myosin</w> <w id="w6147">heavy</w> <w id="w6148">chain</w> <w id="w6149">(</w> <w id="w6150">alpha</w><w id="w6151">+</w><w id="w6152">beta</w> <w id="w6153">)</w> <w id="w6154">mRNA</w> <w id="w6155">transcript</w> <w id="w6156">levels</w> <w id="w6157">relative</w> <w id="w6158">to</w> <w id="w6159">28S</w> <w id="w6160">rRNA</w> <w id="w6161">during</w> <w id="w6162">the</w> <w id="w6163">period</w> <w id="w6164">of</w> <w id="w6165">rapid</w> <w id="w6166">growth</w> <w id="w6167">that</w> <w id="w6168">occurred</w> <w id="w6169">over</w> <w id="w6170">the</w> <w id="w6171">first</w> <w id="w6172">48</w> <w id="w6173">hours</w> <w id="w6174">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1505" gid="g1437" t="Gene/protein/RNA" fr="w6143" to="w6144" nam="yes">
+     <textspan type="extent">alpha-cardiac actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.426.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1506" gid="g1438" t="Gene/protein/RNA" fr="w6159" to="w6160" nam="yes">
+     <textspan type="extent">28S rRNA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.426.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1507" gid="g1439" t="Gene/protein/RNA" fr="w6146" to="w6152" nam="yes">
+     <textspan type="extent">myosin heavy chain [..] beta</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.426.2"/>
+      <exattr n="nst" v="st.426.11.0"/>
+      <exattr n="nst" v="st.426.12.0"/>
+      <exattr n="nst" v="st.426.13.0"/>
+      <exattr n="nst" v="st.426.15.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1508" gid="g1440" t="Gene/protein/RNA" fr="w6146" to="w6150" nam="yes">
+     <textspan type="extent">myosin heavy chain [..] alpha</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.426.3"/>
+      <exattr n="nst" v="st.426.11.0"/>
+      <exattr n="nst" v="st.426.12.0"/>
+      <exattr n="nst" v="st.426.13.0"/>
+      <exattr n="nst" v="st.426.15.0"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

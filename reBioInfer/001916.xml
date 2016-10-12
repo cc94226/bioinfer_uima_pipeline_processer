@@ -1,0 +1,98 @@
+<rexml>
+<doc id="1916">
+  <text>
+<p><s id="s1"><w id="w30849">To</w> <w id="w30850">our</w> <w id="w30851">knowledge</w> <w id="w30852">,</w> <w id="w30853">AF-6</w> <w id="w30854">is</w> <w id="w30855">the</w> <w id="w30856">only</w> <w id="w30857">integral</w> <w id="w30858">component</w> <w id="w30859">in</w> <w id="w30860">cell-cell</w> <w id="w30861">junctions</w> <w id="w30862">discovered</w> <w id="w30863">thus</w> <w id="w30864">far</w> <w id="w30865">that</w> <w id="w30866">interacts</w> <w id="w30867">with</w> <w id="w30868">profilin</w> <w id="w30869">and</w> <w id="w30870">thus</w> <w id="w30871">could</w> <w id="w30872">modulate</w> <w id="w30873">actin</w> <w id="w30874">modeling</w> <w id="w30875">proximal</w> <w id="w30876">to</w> <w id="w30877">adhesion</w> <w id="w30878">complexes</w> <w id="w30879">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7103" gid="g6782" t="Individual_protein" fr="w30853" to="w30853" nam="yes">
+     <textspan type="extent">AF-6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1916.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7104" gid="g6783" t="RELATIONSHIP_TEXTBINDING" fr="w30866" to="w30867">
+     <textspan type="extent">interacts with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1916.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7105" gid="g6784" t="MODIFICATION" fr="w30873" to="w30874">
+     <textspan type="extent">actin modeling</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1916.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7106" gid="g6785" t="RELATIONSHIP_TEXTBINDING" fr="w30872" to="w30872">
+     <textspan type="extent">modulate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1916.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7107" gid="g6786" t="Individual_protein" fr="w30868" to="w30868" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1916.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7108" gid="g6787" t="Individual_protein" fr="w30873" to="w30873" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1916.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2717" t="BIND" e1="e7103" e2="e7107" re="e7104">
+     <textspan type="extent">AF-6 is the only integral component in cell-cell junctions discovered thus far that interacts with profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1916.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2718" t="CONTROL" e1="e7103" e2="e7105" re="e7106">
+     <textspan type="extent">AF-6 is the only integral component in cell-cell junctions discovered thus far that interacts with profilin and thus could modulate actin modeling</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1916.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

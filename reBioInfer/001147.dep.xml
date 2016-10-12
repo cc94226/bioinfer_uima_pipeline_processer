@@ -1,0 +1,62 @@
+<rexml>
+<doc id="1147">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18100" g="w18102" t="s" cr="s+subj:w18102" w="Profilins" l="~" p="N"/>
+     <dpg d="w18101" g="w18102" t="mod-before" cr="mod-before:w18102" w="also" l="~" p="A"/>
+     <dpg d="w18102" g="E3" t="i" cr="" w="bind" l="~" p="V"/>
+     <dpg d="E6" g="w18102" t="subj" cr="" w="" l="Profilins" p="N"/>
+     <dpg d="E6" g="w18100" t="antecedent" cr="" w="" l="Profilins" p="N"/>
+     <dpg d="w18103" g="w18102" t="obj" cr="obj:w18102||subj:w18107" w="polyphosphoinositides" l="~" p="N"/>
+     <dpg d="w18104" g="w18103" t="punc" cr="punc:w18103" w="," l="~" p="U"/>
+     <dpg d="E2" g="w18103" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18105" g="E2" t="whn" cr="whn:w18107" w="which" l="~" p="N"/>
+     <dpg d="w18105" g="w18103" t="antecedent" cr="antecedent:w18103" w="which" l="~" p="N"/>
+     <dpg d="w18106" g="w18107" t="aux" cr="aux:w18107" w="can" l="~" p="Aux"/>
+     <dpg d="w18107" g="E2" t="i" cr="rel:w18103" w="disrupt" l="~" p="V"/>
+     <dpg d="E7" g="w18107" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E7" g="w18103" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w18108" g="w18112" t="det" cr="det:w18112" w="the" l="~" p="Det"/>
+     <dpg d="w18109" g="w18111" t="lex-mod" cr="lex-mod:w18111" w="profilin" l="~" p="U"/>
+     <dpg d="w18110" g="w18111" t="lex-mod" cr="lex-mod:w18111" w="-" l="~" p="U"/>
+     <dpg d="w18111" g="w18112" t="mod" cr="mod:w18112" w="actin" l="profilin - actin" p="A"/>
+     <dpg d="w18112" g="w18107" t="obj" cr="obj:w18107" w="complex" l="~" p="N"/>
+     <dpg d="w18113" g="w18112" t="punc" cr="punc:w18112" w="," l="~" p="U"/>
+     <dpg d="w18114" g="w18112" t="punc" cr="punc:w18112" w="and" l="~" p="U"/>
+     <dpg d="w18115" g="w18116" t="mod" cr="mod:w18116" w="proline-rich" l="proline-rich" p="A"/>
+     <dpg d="w18116" g="w18112" t="conj" cr="conj:w18112||subj:w18118" w="ligands" l="ligand" p="N"/>
+     <dpg d="E1" g="w18116" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18117" g="E1" t="whn" cr="whn:w18118" w="which" l="~" p="N"/>
+     <dpg d="w18117" g="w18116" t="antecedent" cr="antecedent:w18116" w="which" l="~" p="N"/>
+     <dpg d="w18118" g="E1" t="i" cr="rel:w18116" w="localize" l="~" p="V"/>
+     <dpg d="E8" g="w18118" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E8" g="w18116" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w18119" g="w18118" t="obj" cr="obj:w18118" w="profilin" l="~" p="N"/>
+     <dpg d="w18120" g="w18119" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w18121" g="w18120" t="pcomp-n" cr="mod*to*n:w18119||s+subj:w18122" w="sites" l="site" p="N"/>
+     <dpg d="E0" g="w18121" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w18121" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w18122" g="E0" t="i" cr="rel:w18121" w="requiring" l="require" p="V"/>
+     <dpg d="E9" g="w18122" t="subj" cr="" w="" l="site" p="N"/>
+     <dpg d="E9" g="E4" t="antecedent" cr="" w="" l="site" p="N"/>
+     <dpg d="w18123" g="w18126" t="mod" cr="mod:w18126" w="extensive" l="~" p="A"/>
+     <dpg d="w18124" g="w18126" t="nn" cr="nn:w18126" w="actin" l="~" p="N"/>
+     <dpg d="w18125" g="w18126" t="nn" cr="nn:w18126" w="filament" l="~" p="N"/>
+     <dpg d="w18126" g="w18122" t="obj" cr="obj:w18122" w="accumulation" l="~" p="N"/>
+     <dpg d="w18127" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

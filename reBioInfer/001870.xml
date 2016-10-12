@@ -1,0 +1,87 @@
+<rexml>
+<doc id="1870">
+  <text>
+<p><s id="s1"><w id="w29975">Thus</w> <w id="w29976">,</w> <w id="w29977">it</w> <w id="w29978">is</w> <w id="w29979">likely</w> <w id="w29980">that</w> <w id="w29981">the</w> <w id="w29982">both</w> <w id="w29983">cofilin</w> <w id="w29984">isoforms</w> <w id="w29985">are</w> <w id="w29986">involved</w> <w id="w29987">in</w> <w id="w29988">the</w> <w id="w29989">regulation</w> <w id="w29990">of</w> <w id="w29991">actin</w> <w id="w29992">assembly</w> <w id="w29993">during</w> <w id="w29994">myofibrillogenesis</w> <w id="w29995">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6947" gid="g6631" t="Individual_protein" fr="w29983" to="w29984" nam="yes">
+     <textspan type="extent">cofilin isoforms</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1870.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6948" gid="g6632" t="RELATIONSHIP_TEXTBINDING" fr="w29986" to="w29987">
+     <textspan type="extent">involved in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1870.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6949" gid="g6633" t="ASSEMBLY" fr="w29991" to="w29992">
+     <textspan type="extent">actin assembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1870.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6950" gid="g6634" t="CONTROL" fr="w29989" to="w29992">
+     <textspan type="extent">regulation of actin assembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Unspecified"/>
+      <exattr n="t4" v="CONTROL"/>
+      <exattr n="bd" v="e.1870.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6951" gid="g6635" t="Individual_protein" fr="w29983" to="w29983" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1870.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6952" gid="g6636" t="Individual_protein" fr="w29991" to="w29991" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1870.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2674" t="PARTICIPATE" e1="e6947" e2="e6950" re="e6948">
+     <textspan type="extent">cofilin isoforms are involved in the regulation of actin assembly</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1870.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

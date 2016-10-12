@@ -1,0 +1,91 @@
+<rexml>
+<doc id="4">
+  <text>
+<p><s id="s1"><w id="w17">A</w> <w id="w18">binary</w> <w id="w19">complex</w> <w id="w20">of</w> <w id="w21">birch</w> <w id="w22">profilin</w> <w id="w23">and</w> <w id="w24">skeletal</w> <w id="w25">muscle</w> <w id="w26">actin</w> <w id="w27">could</w> <w id="w28">be</w> <w id="w29">isolated</w> <w id="w30">by</w> <w id="w31">gel</w> <w id="w32">chromatography</w> <w id="w33">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e11" gid="g11" t="RELATIONSHIP_TEXTBINDING" fr="w19" to="w20">
+     <textspan type="extent">complex of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.4.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e12" gid="g12" t="Individual_protein" fr="w21" to="w22" nam="yes">
+     <textspan type="extent">birch profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.4.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e13" gid="g13" t="Individual_protein" fr="w22" to="w22" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.4.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e14" gid="g14" t="Individual_protein" fr="w24" to="w26" nam="yes">
+     <textspan type="extent">skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.4.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e15" gid="g15" t="Protein_complex" fr="w19" to="w26" nam="yes">
+     <textspan type="extent">complex of birch profilin and skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.4.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r8" t="CONTAIN" e1="e15" e2="e12" re="e11">
+     <textspan type="extent">complex of birch profilin and skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.4.0"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r9" t="CONTAIN" e1="e15" e2="e14" re="e11">
+     <textspan type="extent">complex of birch profilin and skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.4.0"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

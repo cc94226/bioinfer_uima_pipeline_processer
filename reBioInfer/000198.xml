@@ -1,0 +1,119 @@
+<rexml>
+<doc id="198">
+  <text>
+<p><s id="s1"><w id="w3032">At</w> <w id="w3033">the</w> <w id="w3034">light</w> <w id="w3035">microscope</w> <w id="w3036">level</w> <w id="w3037">,</w> <w id="w3038">brush</w> <w id="w3039">cells</w> <w id="w3040">can</w> <w id="w3041">be</w> <w id="w3042">identified</w> <w id="w3043">by</w> <w id="w3044">antibodies</w> <w id="w3045">against</w> <w id="w3046">the</w> <w id="w3047">actin</w> <w id="w3048">filament</w> <w id="w3049">crosslinking</w> <w id="w3050">proteins</w> <w id="w3051">villin</w> <w id="w3052">and</w> <w id="w3053">fimbrin</w> <w id="w3054">that</w> <w id="w3055">not</w> <w id="w3056">only</w> <w id="w3057">stain</w> <w id="w3058">the</w> <w id="w3059">apical</w> <w id="w3060">tuft</w> <w id="w3061">of</w> <w id="w3062">microvilli</w> <w id="w3063">and</w> <w id="w3064">their</w> <w id="w3065">rootlets</w> <w id="w3066">,</w> <w id="w3067">but</w> <w id="w3068">also</w> <w id="w3069">label</w> <w id="w3070">projections</w> <w id="w3071">emanating</w> <w id="w3072">from</w> <w id="w3073">the</w> <w id="w3074">basolateral</w> <w id="w3075">surface</w> <w id="w3076">of</w> <w id="w3077">these</w> <w id="w3078">cells</w> <w id="w3079">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e738" gid="g712" t="Cell_component" fr="w3047" to="w3048" nam="yes">
+     <textspan type="extent">actin filament</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.198.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e739" gid="g713" t="RELATIONSHIP_TEXTBINDING" fr="w3049" to="w3049">
+     <textspan type="extent">crosslinking</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.198.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e740" gid="g714" t="Individual_protein" fr="w3050" to="w3053" nam="yes">
+     <textspan type="extent">proteins [..] fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.198.2"/>
+      <exattr n="nst" v="st.198.18.0"/>
+      <exattr n="nst" v="st.198.21.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e741" gid="g715" t="Individual_protein" fr="w3050" to="w3051" nam="yes">
+     <textspan type="extent">proteins villin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.198.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e742" gid="g716" t="Individual_protein" fr="w3047" to="w3047" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.198.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e743" gid="g717" t="Individual_protein" fr="w3051" to="w3051" nam="yes">
+     <textspan type="extent">villin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.198.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e744" gid="g718" t="Individual_protein" fr="w3053" to="w3053" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.198.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r274" t="CROSS-LINK-AP" e1="e741" e2="e738" re="e739">
+     <textspan type="extent">actin filament crosslinking proteins villin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.198.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="CROSS-LINK-AP"/>
+     </exattrs>
+    </rel>
+    <rel id="r275" t="CROSS-LINK-AP" e1="e740" e2="e738" re="e739">
+     <textspan type="extent">actin filament crosslinking proteins villin and fimbrin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.198.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="CROSS-LINK-AP"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

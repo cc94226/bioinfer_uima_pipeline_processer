@@ -1,0 +1,66 @@
+<rexml>
+<doc id="856">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13320" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w13321" g="w13322" t="det" cr="det:w13322" w="these" l="~" p="Det"/>
+     <dpg d="w13322" g="w13320" t="pcomp-n" cr="mod*in*n:w13325" w="investigations" l="investigation" p="N"/>
+     <dpg d="w13323" g="E1" t="punc" cr="punc:w13325" w="," l="~" p="U"/>
+     <dpg d="w13324" g="w13325" t="s" cr="s+subj:w13325" w="we" l="~" p="N"/>
+     <dpg d="w13325" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="determine" l="~" p="V"/>
+     <dpg d="E4" g="w13325" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E4" g="w13324" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w13326" g="w13327" t="det" cr="det:w13327" w="that" l="~" p="Det"/>
+     <dpg d="w13327" g="w13325" t="obj" cr="obj:w13325" w="recruitment" l="~" p="N"/>
+     <dpg d="w13328" g="w13327" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w13329" g="w13331" t="det" cr="det:w13331" w="a" l="~" p="Det"/>
+     <dpg d="w13330" g="w13331" t="nn" cr="nn:w13331" w="coactivator" l="~" p="N"/>
+     <dpg d="w13331" g="w13328" t="pcomp-n" cr="mod*of*n:w13327" w="protein" l="~" p="N"/>
+     <dpg d="w13332" g="w13331" t="punc" cr="punc:w13331" w="," l="~" p="U"/>
+     <dpg d="w13333" g="w13331" t="appo" cr="appo:w13331" w="CBP" l="~" p="N"/>
+     <dpg d="w13334" g="w13333" t="punc" cr="punc:w13333" w="(" l="~" p="U"/>
+     <dpg d="w13335" g="w13337" t="det" cr="det:w13337" w="the" l="~" p="Det"/>
+     <dpg d="w13336" g="w13337" t="nn" cr="nn:w13337" w="CREBbinding" l="~" p="N"/>
+     <dpg d="w13337" g="w13333" t="appo" cr="appo:w13333" w="protein" l="~" p="N"/>
+     <dpg d="w13338" g="E3" t="punc" cr="punc:E3" w=")" l="~" p="U"/>
+     <dpg d="w13339" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13340" g="E0" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w13341" g="w13342" t="det" cr="det:w13342" w="the" l="~" p="Det"/>
+     <dpg d="w13342" g="w13340" t="pcomp-n" cr="mod*to*n:w13346" w="CYBB" l="~" p="N"/>
+     <dpg d="w13343" g="w13342" t="punc" cr="punc:w13342" w="or" l="~" p="U"/>
+     <dpg d="w13344" g="w13342" t="conj" cr="conj:w13342" w="NCF2" l="~" p="N"/>
+     <dpg d="w13345" g="w13346" t="s" cr="s:w13346||subj:w13349" w="promoter" l="~" p="N"/>
+     <dpg d="w13346" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="is" l="be" p="VBE"/>
+     <dpg d="E5" g="w13349" t="subj" cr="" w="" l="promoter" p="N"/>
+     <dpg d="E5" g="w13345" t="antecedent" cr="" w="" l="promoter" p="N"/>
+     <dpg d="w13347" g="w13349" t="det" cr="det:w13349" w="the" l="~" p="Det"/>
+     <dpg d="w13348" g="w13349" t="mod" cr="mod:w13349" w="molecular" l="~" p="A"/>
+     <dpg d="w13349" g="w13346" t="pred" cr="pred:w13346" w="mechanism" l="~" p="N"/>
+     <dpg d="w13350" g="w13349" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w13351" g="w13352" t="mod" cr="mod:w13352" w="transcriptional" l="~" p="A"/>
+     <dpg d="w13352" g="w13350" t="pcomp-n" cr="mod*of*n:w13349" w="activation" l="~" p="N"/>
+     <dpg d="w13353" g="w13352" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w13354" g="w13353" t="pcomp-n" cr="mod*by*n:w13352" w="PU.1" l="~" p="N"/>
+     <dpg d="w13355" g="w13354" t="punc" cr="punc:w13354" w="," l="~" p="U"/>
+     <dpg d="w13356" g="w13354" t="conj" cr="conj:w13354" w="IRF1" l="~" p="N"/>
+     <dpg d="w13357" g="w13356" t="punc" cr="punc:w13356" w="," l="~" p="U"/>
+     <dpg d="w13358" g="w13356" t="punc" cr="punc:w13356" w="and" l="~" p="U"/>
+     <dpg d="w13359" g="w13356" t="conj" cr="conj:w13356" w="ICSBP" l="~" p="N"/>
+     <dpg d="w13360" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

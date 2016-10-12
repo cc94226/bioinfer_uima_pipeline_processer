@@ -1,0 +1,45 @@
+<rexml>
+<doc id="1503">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w23544" g="w23547" t="det" cr="det:w23547" w="The" l="~" p="Det"/>
+     <dpg d="w23545" g="w23547" t="lex-mod" cr="lex-mod:w23547" w="herpes" l="~" p="U"/>
+     <dpg d="w23546" g="w23547" t="lex-mod" cr="lex-mod:w23547" w="simplex" l="~" p="U"/>
+     <dpg d="w23547" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="virus" l="herpes simplex virus" p="N"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23548" g="w23550" t="nn" cr="nn:w23550" w="type-1" l="type-1" p="N"/>
+     <dpg d="w23549" g="w23550" t="nn" cr="nn:w23550" w="DNA" l="~" p="N"/>
+     <dpg d="w23550" g="w23551" t="s" cr="s:w23551||subj:w23553" w="helicase-primase" l="helicase-primase" p="N"/>
+     <dpg d="w23551" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="is" l="be" p="VBE"/>
+     <dpg d="E3" g="w23553" t="subj" cr="" w="" l="helicase-primase" p="N"/>
+     <dpg d="E3" g="w23550" t="antecedent" cr="" w="" l="helicase-primase" p="N"/>
+     <dpg d="w23552" g="w23553" t="det" cr="det:w23553" w="a" l="~" p="Det"/>
+     <dpg d="w23553" g="w23551" t="pred" cr="pred:w23551||obj:w23554" w="heterotrimer" l="~" p="N"/>
+     <dpg d="w23554" g="w23553" t="vrel" cr="vrel:w23553" w="encoded" l="encode" p="V"/>
+     <dpg d="E4" g="w23554" t="obj" cr="" w="" l="heterotrimer" p="N"/>
+     <dpg d="E4" g="w23553" t="antecedent" cr="" w="" l="heterotrimer" p="N"/>
+     <dpg d="w23555" g="w23554" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w23556" g="w23557" t="det" cr="det:w23557" w="the" l="~" p="Det"/>
+     <dpg d="w23557" g="w23555" t="pcomp-n" cr="by-subj*by*n:w23554" w="UL5" l="~" p="N"/>
+     <dpg d="w23558" g="w23557" t="punc" cr="punc:w23557" w="," l="~" p="U"/>
+     <dpg d="w23559" g="w23557" t="conj" cr="conj:w23557" w="UL8" l="~" p="N"/>
+     <dpg d="w23560" g="w23559" t="punc" cr="punc:w23559" w="," l="~" p="U"/>
+     <dpg d="w23561" g="w23559" t="punc" cr="punc:w23559" w="and" l="~" p="U"/>
+     <dpg d="w23562" g="w23563" t="nn" cr="nn:w23563" w="UL52" l="~" p="N"/>
+     <dpg d="w23563" g="w23559" t="conj" cr="conj:w23559" w="genes" l="gene" p="N"/>
+     <dpg d="w23564" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

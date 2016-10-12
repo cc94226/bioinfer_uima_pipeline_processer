@@ -1,0 +1,65 @@
+<rexml>
+<doc id="2014">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32145" g="w32147" t="s" cr="s+subj:w32147||subj:w32156" w="We" l="~" p="N"/>
+     <dpg d="w32146" g="w32147" t="mod-before" cr="mod-before:w32147" w="also" l="~" p="A"/>
+     <dpg d="w32147" g="E0" t="i" cr="UNSPECRELTYPE:w32182" w="analysed" l="analyse" p="V"/>
+     <dpg d="E3" g="w32147" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E3" g="w32145" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w32148" g="w32147" t="obj" cr="obj:w32147" w="NHEJ" l="~" p="N"/>
+     <dpg d="w32149" g="w32148" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w32150" g="w32154" t="mod" cr="mod:w32154" w="other" l="~" p="A"/>
+     <dpg d="w32151" g="w32154" t="nn" cr="nn:w32154" w="DNA" l="~" p="N"/>
+     <dpg d="w32152" g="w32154" t="nn" cr="nn:w32154" w="damage" l="~" p="N"/>
+     <dpg d="w32153" g="w32154" t="nn" cr="nn:w32154" w="response" l="~" p="N"/>
+     <dpg d="w32154" g="w32149" t="pcomp-n" cr="mod*in*n:w32148" w="mutants" l="mutant" p="N"/>
+     <dpg d="w32155" g="w32147" t="punc" cr="punc:w32147" w="and" l="~" p="U"/>
+     <dpg d="w32156" g="w32147" t="conj" cr="conj:w32147" w="showed" l="show" p="V"/>
+     <dpg d="E4" g="w32156" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E4" g="w32145" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w32157" g="w32156" t="obj1" cr="obj1:w32156" w="that" l="~" p="N"/>
+     <dpg d="w32158" g="w32162" t="det" cr="det:w32162" w="the" l="~" p="Det"/>
+     <dpg d="w32159" g="w32162" t="nn" cr="nn:w32162" w="checkpoint" l="~" p="N"/>
+     <dpg d="w32160" g="w32162" t="mod" cr="mod:w32162" w="mutant" l="~" p="A"/>
+     <dpg d="w32161" g="w32162" t="lex-mod" cr="lex-mod:w32162" w="rad3" l="~" p="U"/>
+     <dpg d="w32162" g="w32156" t="obj2" cr="obj2:w32156" w="-d" l="rad3 -d" p="N"/>
+     <dpg d="w32163" g="w32162" t="punc" cr="punc:w32162" w="and" l="~" p="U"/>
+     <dpg d="w32164" g="w32166" t="nn" cr="nn:w32166" w="two" l="~" p="N"/>
+     <dpg d="w32165" g="w32166" t="nn" cr="nn:w32166" w="recombination" l="~" p="N"/>
+     <dpg d="w32166" g="w32162" t="conj" cr="conj:w32162" w="mutants" l="mutant" p="N"/>
+     <dpg d="w32167" g="w32166" t="pnmod" cr="pnmod:w32166" w="defective" l="~" p="A"/>
+     <dpg d="w32168" g="w32167" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w32169" g="w32168" t="pcomp-n" cr="mod*in*n:w32167" w="rhp51" l="~" p="N"/>
+     <dpg d="w32170" g="w32169" t="punc" cr="punc:w32169" w="and" l="~" p="U"/>
+     <dpg d="w32171" g="w32173" t="nn" cr="nn:w32173" w="rhp54" l="~" p="N"/>
+     <dpg d="w32172" g="w32173" t="punc" cr="punc:w32173" w="(" l="~" p="U"/>
+     <dpg d="w32173" g="w32169" t="conj" cr="conj:w32169" w="homologues" l="~" p="N"/>
+     <dpg d="w32174" g="w32173" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32175" g="w32176" t="lex-mod" cr="lex-mod:w32176" w="S.cerevisiae" l="~" p="U"/>
+     <dpg d="w32176" g="w32174" t="pcomp-n" cr="mod*of*n:w32173" w="RAD51" l="S.cerevisiae RAD51" p="N"/>
+     <dpg d="w32177" g="w32176" t="punc" cr="punc:w32176" w="and" l="~" p="U"/>
+     <dpg d="w32178" g="w32176" t="conj" cr="conj:w32176" w="RAD54" l="~" p="N"/>
+     <dpg d="w32179" g="E2" t="punc" cr="punc:w32182" w="," l="~" p="U"/>
+     <dpg d="w32180" g="w32182" t="mod-before" cr="mod-before:w32182" w="respectively" l="~" p="A"/>
+     <dpg d="w32181" g="w32182" t="punc" cr="punc:w32182" w=")" l="~" p="U"/>
+     <dpg d="w32182" g="E2" t="i" cr="" w="are" l="be" p="VBE"/>
+     <dpg d="w32183" g="w32182" t="neg" cr="neg:w32182" w="not" l="~" p="A"/>
+     <dpg d="w32184" g="w32182" t="pred" cr="pred:w32182" w="affected" l="~" p="A"/>
+     <dpg d="w32185" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

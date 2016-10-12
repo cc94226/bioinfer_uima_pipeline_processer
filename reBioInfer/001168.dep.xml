@@ -1,0 +1,73 @@
+<rexml>
+<doc id="1168">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18397" g="E1" t="mod" cr="mod:w18401" w="Recently" l="~" p="A"/>
+     <dpg d="w18398" g="w18401" t="s" cr="s+obj:w18401" w="it" l="~" p="N"/>
+     <dpg d="w18399" g="w18401" t="have" cr="have:w18401" w="has" l="have" p="have"/>
+     <dpg d="w18400" g="w18401" t="be" cr="be:w18401" w="been" l="be" p="be"/>
+     <dpg d="w18401" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="established" l="establish" p="V"/>
+     <dpg d="E4" g="w18401" t="obj" cr="" w="" l="it" p="N"/>
+     <dpg d="E4" g="w18398" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w18402" g="w18401" t="punc" cr="punc:w18401" w="," l="~" p="U"/>
+     <dpg d="w18403" g="w18401" t="mod" cr="" w="through" l="~" p="Prep"/>
+     <dpg d="w18404" g="w18407" t="det" cr="det:w18407" w="a" l="~" p="Det"/>
+     <dpg d="w18405" g="w18407" t="mod" cr="mod:w18407" w="detailed" l="~" p="A"/>
+     <dpg d="w18406" g="w18407" t="mod" cr="mod:w18407" w="biochemical" l="~" p="A"/>
+     <dpg d="w18407" g="w18403" t="pcomp-n" cr="mod*through*n:w18401" w="analysis" l="~" p="N"/>
+     <dpg d="w18408" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w18409" g="w18410" t="det" cr="det:w18410" w="that" l="~" p="Det"/>
+     <dpg d="w18410" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="recombinant" l="~" p="N"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18411" g="w18414" t="lex-mod" cr="lex-mod:w18414" w="Arabidopsis" l="~" p="U"/>
+     <dpg d="w18412" g="w18414" t="lex-mod" cr="lex-mod:w18414" w="thaliana" l="~" p="U"/>
+     <dpg d="w18413" g="w18414" t="lex-mod" cr="lex-mod:w18414" w="fimbrin" l="~" p="U"/>
+     <dpg d="w18414" g="w18418" t="s" cr="s:w18418||subj:w18420" w="1" l="Arabidopsis thaliana fimbrin 1" p="N"/>
+     <dpg d="w18415" g="w18416" t="punc" cr="punc:w18416" w="(" l="~" p="U"/>
+     <dpg d="w18416" g="w18414" t="abbrev" cr="abbrev:w18414" w="AtFim1" l="~" p="N"/>
+     <dpg d="w18417" g="w18416" t="punc" cr="punc:w18416" w=")" l="~" p="U"/>
+     <dpg d="w18418" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="is" l="be" p="VBE"/>
+     <dpg d="E5" g="w18420" t="subj" cr="" w="" l="Arabidopsis thaliana fimbrin 1" p="N"/>
+     <dpg d="E5" g="w18414" t="antecedent" cr="" w="" l="Arabidopsis thaliana fimbrin 1" p="N"/>
+     <dpg d="w18419" g="w18420" t="det" cr="det:w18420" w="a" l="~" p="Det"/>
+     <dpg d="w18420" g="w18418" t="pred" cr="pred:w18418" w="member" l="~" p="N"/>
+     <dpg d="w18421" g="w18420" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w18422" g="w18424" t="det" cr="det:w18424" w="the" l="~" p="Det"/>
+     <dpg d="w18423" g="w18424" t="nn" cr="nn:w18424" w="fimbrin/plastin" l="~" p="N"/>
+     <dpg d="w18424" g="w18421" t="pcomp-n" cr="mod*of*n:w18420" w="family" l="~" p="N"/>
+     <dpg d="w18425" g="w18424" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w18426" g="w18428" t="nn" cr="nn:w18428" w="actin" l="~" p="N"/>
+     <dpg d="w18427" g="w18428" t="nn" cr="nn:w18428" w="filament" l="~" p="N"/>
+     <dpg d="w18428" g="w18425" t="pcomp-n" cr="mod*of*n:w18424" w="bundling" l="~" p="N"/>
+     <dpg d="w18429" g="w18428" t="punc" cr="punc:w18428" w="or" l="~" p="U"/>
+     <dpg d="w18430" g="w18434" t="mod" cr="mod:w18434" w="cross-linking" l="cross-linking" p="A"/>
+     <dpg d="w18431" g="w18434" t="nn" cr="nn:w18434" w="proteins" l="protein" p="N"/>
+     <dpg d="w18432" g="w18434" t="punc" cr="punc:w18434" w="[" l="~" p="U"/>
+     <dpg d="w18433" g="w18434" t="lex-mod" cr="lex-mod:w18434" w="D.R." l="~" p="U"/>
+     <dpg d="w18434" g="w18428" t="conj" cr="conj:w18428" w="Kovar" l="D.R Kovar" p="N"/>
+     <dpg d="w18435" g="w18436" t="lex-mod" cr="lex-mod:w18436" w="et" l="~" p="U"/>
+     <dpg d="w18436" g="w18418" t="mod" cr="mod:w18418" w="al." l="et al." p="A"/>
+     <dpg d="w18437" g="E3" t="punc" cr="punc:E3" w="(" l="~" p="U"/>
+     <dpg d="w18438" g="w18442" t="num" cr="num:w18442" w="2000" l="~" p="N"/>
+     <dpg d="w18439" g="w18442" t="punc" cr="punc:w18442" w=")" l="~" p="U"/>
+     <dpg d="w18440" g="w18442" t="nn" cr="nn:w18442" w="Plant" l="~" p="N"/>
+     <dpg d="w18441" g="w18442" t="nn" cr="nn:w18442" w="J" l="~" p="N"/>
+     <dpg d="w18442" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="24:625-636" l="24:625-636" p="N"/>
+     <dpg d="w18443" g="" t="" cr="" w="]" l="~" p="U"/>
+     <dpg d="w18444" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

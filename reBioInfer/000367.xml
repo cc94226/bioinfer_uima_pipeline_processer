@@ -1,0 +1,173 @@
+<rexml>
+<doc id="367">
+  <text>
+<p><s id="s1"><w id="w5531">Death</w> <w id="w5532">receptors</w> <w id="w5533">belong</w> <w id="w5534">to</w> <w id="w5535">the</w> <w id="w5536">TNF</w> <w id="w5537">receptor</w> <w id="w5538">family</w> <w id="w5539">and</w> <w id="w5540">are</w> <w id="w5541">characterised</w> <w id="w5542">by</w> <w id="w5543">an</w> <w id="w5544">intracellular</w> <w id="w5545">death</w> <w id="w5546">domain</w> <w id="w5547">that</w> <w id="w5548">serves</w> <w id="w5549">to</w> <w id="w5550">recruit</w> <w id="w5551">adapter</w> <w id="w5552">proteins</w> <w id="w5553">such</w> <w id="w5554">as</w> <w id="w5555">TRADD</w> <w id="w5556">and</w> <w id="w5557">FADD</w> <w id="w5558">and</w> <w id="w5559">cysteine</w> <w id="w5560">proteases</w> <w id="w5561">such</w> <w id="w5562">as</w> <w id="w5563">Caspase-8</w> <w id="w5564">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1327" gid="g1265" t="RELATIONSHIP_TEXTBINDING" fr="w5550" to="w5550">
+     <textspan type="extent">recruit</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.367.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1328" gid="g1266" t="Individual_protein" fr="w5555" to="w5555" nam="yes">
+     <textspan type="extent">TRADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.367.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1329" gid="g1267" t="Individual_protein" fr="w5563" to="w5563" nam="yes">
+     <textspan type="extent">Caspase-8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.367.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1330" gid="g1268" t="Individual_protein" fr="w5557" to="w5557" nam="yes">
+     <textspan type="extent">FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.367.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1331" gid="g1269" t="Individual_protein" fr="w5559" to="w5560" nam="yes">
+     <textspan type="extent">cysteine proteases</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.367.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1332" gid="g1270" t="RELATIONSHIP_TEXTBINDING" fr="w5561" to="w5562">
+     <textspan type="extent">such as</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.367.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1333" gid="g1271" t="RELATIONSHIP_TEXTBINDING" fr="w5533" to="w5534">
+     <textspan type="extent">belong to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.367.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1334" gid="g1272" t="Individual_protein" fr="w5531" to="w5532" nam="yes">
+     <textspan type="extent">Death receptors</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.367.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1335" gid="g1273" t="Protein_family_or_group" fr="w5536" to="w5538" nam="yes">
+     <textspan type="extent">TNF receptor family</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.367.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e1336" gid="g1274" t="Protein_family_or_group" fr="w5536" to="w5537" nam="yes">
+     <textspan type="extent">TNF receptor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.367.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r524" t="MEMBER" e1="e1335" e2="e1334" re="e1333">
+     <textspan type="extent">Death receptors belong to the TNF receptor family</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.367.6"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r525" t="MEMBER" e1="e1331" e2="e1329" re="e1332">
+     <textspan type="extent">cysteine proteases such as Caspase-8</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.367.5"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r526" t="LOCALIZE" e1="e1334" e2="e1328" re="e1327">
+     <textspan type="extent">Death receptors belong to the TNF receptor family and are characterised by an intracellular death domain that serves to recruit adapter proteins such as TRADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.367.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r527" t="LOCALIZE" e1="e1334" e2="e1330" re="e1327">
+     <textspan type="extent">Death receptors belong to the TNF receptor family and are characterised by an intracellular death domain that serves to recruit adapter proteins such as TRADD and FADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.367.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r528" t="LOCALIZE" e1="e1334" e2="e1331" re="e1327">
+     <textspan type="extent">Death receptors belong to the TNF receptor family and are characterised by an intracellular death domain that serves to recruit adapter proteins such as TRADD and FADD and cysteine proteases</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.367.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

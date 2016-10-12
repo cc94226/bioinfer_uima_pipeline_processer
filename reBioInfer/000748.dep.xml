@@ -1,0 +1,54 @@
+<rexml>
+<doc id="748">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11627" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w11628" g="w11627" t="pcomp-n" cr="mod*in*n:w11645" w="contrast" l="~" p="N"/>
+     <dpg d="w11629" g="w11628" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w11630" g="w11631" t="det" cr="det:w11631" w="the" l="~" p="Det"/>
+     <dpg d="w11631" g="w11629" t="pcomp-n" cr="mod*to*n:w11628" w="model" l="~" p="N"/>
+     <dpg d="w11632" g="w11631" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11633" g="w11634" t="nn" cr="nn:w11634" w="actin" l="~" p="N"/>
+     <dpg d="w11634" g="w11632" t="pcomp-n" cr="mod*of*n:w11631" w="binding" l="~" p="N"/>
+     <dpg d="w11635" g="w11634" t="pnmod" cr="pnmod:w11634" w="proposed" l="~" p="A"/>
+     <dpg d="w11636" g="w11635" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w11637" g="w11636" t="pcomp-n" cr="mod*for*n:w11635" w="fimbrin" l="~" p="N"/>
+     <dpg d="w11638" g="E1" t="punc" cr="punc:w11645" w="," l="~" p="U"/>
+     <dpg d="w11639" g="w11644" t="det" cr="det:w11644" w="the" l="~" p="Det"/>
+     <dpg d="w11640" g="w11644" t="nn" cr="nn:w11644" w="utrophin" l="~" p="N"/>
+     <dpg d="w11641" g="w11643" t="lex-mod" cr="lex-mod:w11643" w="actin" l="~" p="U"/>
+     <dpg d="w11642" g="w11643" t="lex-mod" cr="lex-mod:w11643" w="-" l="~" p="U"/>
+     <dpg d="w11643" g="w11644" t="mod" cr="mod:w11644" w="binding" l="actin - binding" p="A"/>
+     <dpg d="w11644" g="w11645" t="s" cr="s+subj:w11645||s+subj:w11647" w="domain" l="~" p="N"/>
+     <dpg d="w11645" g="E1" t="i" cr="" w="appears" l="appear" p="V"/>
+     <dpg d="E4" g="w11645" t="subj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E4" g="w11644" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="E0" g="w11645" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w11644" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w11646" g="w11647" t="aux" cr="aux:w11647" w="to" l="~" p="Aux"/>
+     <dpg d="w11647" g="E0" t="i" cr="mod:w11645" w="associate" l="associate with" p="V"/>
+     <dpg d="w11648" g="w11647" t="lex-mod" cr="lex-mod:w11647" w="with" l="~" p="U"/>
+     <dpg d="E5" g="w11647" t="subj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="w11649" g="w11647" t="obj" cr="obj:w11647" w="actin" l="~" p="N"/>
+     <dpg d="w11650" g="w11649" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w11651" g="w11653" t="det" cr="det:w11653" w="an" l="~" p="Det"/>
+     <dpg d="w11652" g="w11653" t="mod" cr="mod:w11653" w="extended" l="~" p="A"/>
+     <dpg d="w11653" g="w11650" t="pcomp-n" cr="mod*in*n:w11649" w="conformation" l="~" p="N"/>
+     <dpg d="w11654" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

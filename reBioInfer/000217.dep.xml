@@ -1,0 +1,74 @@
+<rexml>
+<doc id="217">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w3289" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="Because" l="~" p="SentAdjunct"/>
+     <dpg d="E3" g="w3289" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3290" g="w3291" t="mod" cr="mod:w3291" w="other" l="~" p="A"/>
+     <dpg d="w3291" g="w3293" t="s" cr="s+subj:w3293" w="researchers" l="researcher" p="N"/>
+     <dpg d="w3292" g="w3293" t="have" cr="have:w3293" w="have" l="~" p="have"/>
+     <dpg d="w3293" g="E3" t="i" cr="comp1:w3289" w="shown" l="show" p="V"/>
+     <dpg d="E7" g="w3293" t="subj" cr="" w="" l="researcher" p="N"/>
+     <dpg d="E7" g="w3291" t="antecedent" cr="" w="" l="researcher" p="N"/>
+     <dpg d="E2" g="w3293" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3294" g="E2" t="c" cr="c:w3300" w="that" l="~" p="COMP"/>
+     <dpg d="w3295" g="w3296" t="det" cr="det:w3296" w="the" l="~" p="Det"/>
+     <dpg d="w3296" g="w3300" t="s" cr="s+subj:w3300" w="RAD51" l="~" p="N"/>
+     <dpg d="w3297" g="w3296" t="punc" cr="punc:w3296" w="and" l="~" p="U"/>
+     <dpg d="w3298" g="w3299" t="nn" cr="nn:w3299" w="RAD52" l="~" p="N"/>
+     <dpg d="w3299" g="w3296" t="conj" cr="conj:w3296" w="proteins" l="protein" p="N"/>
+     <dpg d="w3300" g="E2" t="i" cr="fc:w3293" w="interact" l="~" p="V"/>
+     <dpg d="E8" g="w3300" t="subj" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="E8" g="w3296" t="antecedent" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="w3301" g="E6" t="punc" cr="punc:E6" w="," l="~" p="U"/>
+     <dpg d="E1" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3302" g="w3310" t="s" cr="s+obj:w3310||s+subj:w3314" w="RAD51" l="~" p="N"/>
+     <dpg d="w3303" g="w3302" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w3304" g="w3308" t="det" cr="det:w3308" w="a" l="~" p="Det"/>
+     <dpg d="w3305" g="w3308" t="mod" cr="mod:w3308" w="high" l="~" p="A"/>
+     <dpg d="w3306" g="w3308" t="nn" cr="nn:w3308" w="copy" l="~" p="N"/>
+     <dpg d="w3307" g="w3308" t="mod" cr="mod:w3308" w="number" l="numb" p="A"/>
+     <dpg d="w3308" g="w3303" t="pcomp-n" cr="mod*on*n:w3302" w="plasmid" l="~" p="N"/>
+     <dpg d="w3309" g="w3310" t="be" cr="be:w3310" w="was" l="be" p="be"/>
+     <dpg d="w3310" g="E1" t="i" cr="UNSPECRELTYPE:E6" w="tested" l="test" p="V"/>
+     <dpg d="E9" g="w3310" t="obj" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="E9" g="w3302" t="antecedent" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="w3311" g="w3310" t="lex-mod" cr="lex-mod:w3310" w="and" l="~" p="U"/>
+     <dpg d="w3312" g="w3310" t="lex-dep" cr="lex-dep:w3310" w="found" l="find" p="V"/>
+     <dpg d="E0" g="w3310" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w3302" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w3313" g="w3314" t="aux" cr="aux:w3314" w="to" l="~" p="Aux"/>
+     <dpg d="w3314" g="E0" t="i" cr="mod:w3310" w="suppress" l="~" p="V"/>
+     <dpg d="E10" g="w3314" t="subj" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="E10" g="E4" t="antecedent" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="w3315" g="w3317" t="det" cr="det:w3317" w="the" l="~" p="Det"/>
+     <dpg d="w3316" g="w3317" t="nn" cr="nn:w3317" w="rad52-20" l="rad52-20" p="N"/>
+     <dpg d="w3317" g="w3314" t="obj" cr="obj:w3314" w="allele" l="~" p="N"/>
+     <dpg d="w3318" g="w3317" t="punc" cr="punc:w3317" w="," l="~" p="U"/>
+     <dpg d="w3319" g="w3317" t="punc" cr="punc:w3317" w="but" l="~" p="U"/>
+     <dpg d="w3320" g="w3321" t="lex-mod" cr="lex-mod:w3321" w="RAD" l="~" p="U"/>
+     <dpg d="w3321" g="w3317" t="conj" cr="conj:w3317" w="54" l="RAD 54" p="N"/>
+     <dpg d="w3322" g="E6" t="punc" cr="punc:E6" w="," l="~" p="U"/>
+     <dpg d="w3323" g="w3325" t="lex-mod" cr="lex-mod:w3325" w="55" l="~" p="U"/>
+     <dpg d="w3324" g="w3325" t="lex-mod" cr="lex-mod:w3325" w="and" l="~" p="U"/>
+     <dpg d="w3325" g="E6" t="subcat" cr="subcat:E6" w="57" l="55 and 57" p="N"/>
+     <dpg d="w3326" g="" t="" cr="" w="did" l="~" p="U"/>
+     <dpg d="w3327" g="" t="" cr="" w="not" l="~" p="U"/>
+     <dpg d="w3328" g="" t="" cr="" w="suppress" l="~" p="U"/>
+     <dpg d="w3329" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

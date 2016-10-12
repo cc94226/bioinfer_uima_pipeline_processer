@@ -1,0 +1,70 @@
+<rexml>
+<doc id="1805">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29010" g="w29011" t="det" cr="det:w29011" w="This" l="~" p="Det"/>
+     <dpg d="w29011" g="w29013" t="s" cr="s+obj:w29013" w="approach" l="~" p="N"/>
+     <dpg d="w29012" g="w29013" t="be" cr="be:w29013" w="is" l="be" p="be"/>
+     <dpg d="w29013" g="E3" t="i" cr="" w="based" l="base" p="V"/>
+     <dpg d="E5" g="w29013" t="obj" cr="" w="" l="approach" p="N"/>
+     <dpg d="E5" g="w29011" t="antecedent" cr="" w="" l="approach" p="N"/>
+     <dpg d="w29014" g="w29013" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w29015" g="w29016" t="det" cr="det:w29016" w="the" l="~" p="Det"/>
+     <dpg d="w29016" g="w29014" t="pcomp-n" cr="mod*on*n:w29013" w="assumption" l="~" p="N"/>
+     <dpg d="E2" g="w29016" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29017" g="E2" t="c" cr="c:w29031" w="that" l="~" p="COMP"/>
+     <dpg d="w29018" g="w29020" t="det" cr="det:w29020" w="an" l="~" p="Det"/>
+     <dpg d="w29019" g="w29020" t="nn" cr="nn:w29020" w="actin" l="~" p="N"/>
+     <dpg d="w29020" g="w29031" t="s" cr="subj:w29023||s+subj:w29031" w="mutation" l="~" p="N"/>
+     <dpg d="E1" g="w29020" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29021" g="E1" t="whn" cr="whn:w29023" w="that" l="~" p="THAT"/>
+     <dpg d="w29021" g="w29020" t="antecedent" cr="antecedent:w29020" w="that" l="~" p="THAT"/>
+     <dpg d="w29022" g="E1" t="mod" cr="mod:w29023" w="specifically" l="~" p="A"/>
+     <dpg d="w29023" g="E1" t="i" cr="rel:w29020" w="impairs" l="impair" p="V"/>
+     <dpg d="E6" g="w29023" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E6" g="w29020" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w29024" g="w29025" t="det" cr="det:w29025" w="the" l="~" p="Det"/>
+     <dpg d="w29025" g="w29023" t="obj" cr="obj:w29023" w="interaction" l="~" p="N"/>
+     <dpg d="w29026" g="w29025" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w29027" g="w29029" t="det" cr="det:w29029" w="an" l="~" p="Det"/>
+     <dpg d="w29028" g="w29029" t="mod" cr="mod:w29029" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w29029" g="w29026" t="pcomp-n" cr="mod*with*n:w29025" w="protein" l="~" p="N"/>
+     <dpg d="w29030" g="w29031" t="aux" cr="aux:w29031" w="will" l="~" p="Aux"/>
+     <dpg d="w29031" g="E2" t="i" cr="comp1:w29016" w="cause" l="~" p="V"/>
+     <dpg d="E7" g="w29031" t="subj" cr="" w="" l="mutation" p="N"/>
+     <dpg d="E7" g="w29020" t="antecedent" cr="" w="" l="mutation" p="N"/>
+     <dpg d="w29032" g="w29033" t="det" cr="det:w29033" w="a" l="~" p="Det"/>
+     <dpg d="w29033" g="w29031" t="obj" cr="obj:w29031" w="phenotype" l="~" p="N"/>
+     <dpg d="w29034" g="w29033" t="pnmod" cr="pnmod:w29033" w="similar" l="~" p="A"/>
+     <dpg d="w29035" g="w29034" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w29036" g="w29038" t="det" cr="det:w29038" w="a" l="~" p="Det"/>
+     <dpg d="w29037" g="w29038" t="mod" cr="mod:w29038" w="null" l="~" p="A"/>
+     <dpg d="w29038" g="w29035" t="pcomp-n" cr="mod*to*n:w29034" w="mutation" l="~" p="N"/>
+     <dpg d="w29039" g="w29038" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w29040" g="w29041" t="det" cr="det:w29041" w="the" l="~" p="Det"/>
+     <dpg d="w29041" g="w29039" t="pcomp-n" cr="mod*in*n:w29038||subj:w29043" w="gene" l="~" p="N"/>
+     <dpg d="E0" g="w29041" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29042" g="E0" t="whn" cr="whn:w29043" w="that" l="~" p="THAT"/>
+     <dpg d="w29042" g="w29041" t="antecedent" cr="antecedent:w29041" w="that" l="~" p="THAT"/>
+     <dpg d="w29043" g="E0" t="i" cr="rel:w29041" w="encodes" l="encode" p="V"/>
+     <dpg d="E8" g="w29043" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E8" g="w29041" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w29044" g="w29046" t="det" cr="det:w29046" w="the" l="~" p="Det"/>
+     <dpg d="w29045" g="w29046" t="mod" cr="mod:w29046" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w29046" g="w29043" t="obj" cr="obj:w29043" w="protein" l="~" p="N"/>
+     <dpg d="w29047" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

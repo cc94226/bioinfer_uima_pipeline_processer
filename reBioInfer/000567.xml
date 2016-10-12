@@ -1,0 +1,225 @@
+<rexml>
+<doc id="567">
+  <text>
+<p><s id="s1"><w id="w8099">Here</w> <w id="w8100">we</w> <w id="w8101">describe</w> <w id="w8102">the</w> <w id="w8103">TNF</w><w id="w8104">-</w><w id="w8105">dependent</w> <w id="w8106">activation</w> <w id="w8107">of</w> <w id="w8108">acid</w> <w id="w8109">SMase</w> <w id="w8110">(</w> <w id="w8111">A-SMase</w> <w id="w8112">)</w> <w id="w8113">through</w> <w id="w8114">the</w> <w id="w8115">p55</w> <w id="w8116">TNF</w> <w id="w8117">receptor</w><w id="w8118">-</w><w id="w8119">associated</w> <w id="w8120">proteins</w> <w id="w8121">TRADD</w> <w id="w8122">and</w> <w id="w8123">FADD</w> <w id="w8124">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1906" gid="g1825" t="Individual_protein" fr="w8103" to="w8103" nam="yes">
+     <textspan type="extent">TNF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.567.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1907" gid="g1826" t="RELATIONSHIP_TEXTBINDING" fr="w8105" to="w8105">
+     <textspan type="extent">dependent</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.567.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1908" gid="g1827" t="RELATIONSHIP_TEXTBINDING" fr="w8113" to="w8113">
+     <textspan type="extent">through</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.567.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1909" gid="g1828" t="ACTIVATION" fr="w8106" to="w8109">
+     <textspan type="extent">activation of acid SMase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="ACTIVATION"/>
+      <exattr n="bd" v="e.567.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1910" gid="g1829" t="Individual_protein" fr="w8120" to="w8123" nam="yes">
+     <textspan type="extent">proteins [..] FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.567.4"/>
+      <exattr n="nst" v="st.567.17.0"/>
+      <exattr n="nst" v="st.567.20.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1911" gid="g1830" t="Individual_protein" fr="w8120" to="w8121" nam="yes">
+     <textspan type="extent">proteins TRADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.567.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1912" gid="g1831" t="Individual_protein" fr="w8111" to="w8111" nam="yes">
+     <textspan type="extent">A-SMase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.567.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1913" gid="g1831" t="Individual_protein" fr="w8108" to="w8109" nam="yes">
+     <textspan type="extent">acid SMase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.567.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1914" gid="g1832" t="Protein_family_or_group" fr="w8116" to="w8117" nam="yes">
+     <textspan type="extent">TNF receptor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.567.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e1915" gid="g1833" t="Individual_protein" fr="w8115" to="w8115" nam="yes">
+     <textspan type="extent">p55</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.567.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e1916" gid="g1834" t="RELATIONSHIP_TEXTBINDING" fr="w8119" to="w8119">
+     <textspan type="extent">associated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.567.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e1917" gid="g1835" t="Individual_protein" fr="w8123" to="w8123" nam="yes">
+     <textspan type="extent">FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.567.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e1918" gid="g1836" t="Individual_protein" fr="w8121" to="w8121" nam="yes">
+     <textspan type="extent">TRADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.567.12"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r752" t="CONDITION" e1="e1906" e2="e1909" re="e1907">
+     <textspan type="extent">TNF - dependent activation of acid SMase</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.567.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r754" t="MEMBER" e1="e1914" e2="e1915" re="">
+     <textspan type="extent">p55 TNF receptor</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r755" t="BIND" e1="e1911" e2="e1915" re="e1916">
+     <textspan type="extent">p55 TNF receptor - associated proteins TRADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.567.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r756" t="BIND" e1="e1910" e2="e1915" re="e1916">
+     <textspan type="extent">p55 TNF receptor - associated proteins TRADD and FADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.567.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r757" t="MEDIATE" e1="e1911" e2="e1909" re="e1908">
+     <textspan type="extent">activation of acid SMase ( A-SMase ) through the p55 TNF receptor - associated proteins TRADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.567.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r758" t="MEDIATE" e1="e1910" e2="e1909" re="e1908">
+     <textspan type="extent">activation of acid SMase ( A-SMase ) through the p55 TNF receptor - associated proteins TRADD and FADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.567.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

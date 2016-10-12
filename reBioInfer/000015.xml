@@ -1,0 +1,82 @@
+<rexml>
+<doc id="15">
+  <text>
+<p><s id="s1"><w id="w209">Accordingly</w> <w id="w210">,</w> <w id="w211">beta-catenin</w> <w id="w212">is</w> <w id="w213">also</w> <w id="w214">found</w> <w id="w215">in</w> <w id="w216">these</w> <w id="w217">structures</w> <w id="w218">,</w> <w id="w219">again</w> <w id="w220">in</w> <w id="w221">the</w> <w id="w222">absence</w> <w id="w223">of</w> <w id="w224">alpha-catenin</w> <w id="w225">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e75" gid="g75" t="Individual_protein" fr="w211" to="w211" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.15.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e76" gid="g76" t="RELATIONSHIP_TEXTBINDING" fr="w220" to="w223">
+     <textspan type="extent">in the absence of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.15.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e77" gid="g77" t="Cell_component" fr="w217" to="w217" nam="yes">
+     <textspan type="extent">structures</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.15.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e78" gid="g78" t="RELATIONSHIP_TEXTBINDING" fr="w214" to="w215">
+     <textspan type="extent">found in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.15.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e79" gid="g79" t="Individual_protein" fr="w224" to="w224" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.15.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r31" t="ABSENCE" e1="e79" e2="e78" re="e76">
+     <textspan type="extent">beta-catenin is also found in these structures , again in the absence of alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.15.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="ABSENCE"/>
+     </exattrs>
+    </rel>
+    <rel id="r32" t="LOCALIZE-TO" e1="e75" e2="e77" re="e78">
+     <textspan type="extent">beta-catenin is also found in these structures</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.15.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

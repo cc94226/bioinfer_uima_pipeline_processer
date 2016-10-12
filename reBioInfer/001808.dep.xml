@@ -1,0 +1,41 @@
+<rexml>
+<doc id="1808">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29110" g="w29114" t="det" cr="det:w29114" w="This" l="~" p="Det"/>
+     <dpg d="w29111" g="w29113" t="lex-mod" cr="lex-mod:w29113" w="cadherin" l="~" p="U"/>
+     <dpg d="w29112" g="w29113" t="lex-mod" cr="lex-mod:w29113" w="-" l="~" p="U"/>
+     <dpg d="w29113" g="w29114" t="mod" cr="mod:w29114" w="catenin" l="cadherin - catenin" p="A"/>
+     <dpg d="w29114" g="w29115" t="s" cr="s+subj:w29115" w="complex" l="~" p="N"/>
+     <dpg d="w29115" g="E0" t="i" cr="" w="plays" l="play" p="V"/>
+     <dpg d="E2" g="w29115" t="subj" cr="" w="" l="complex" p="N"/>
+     <dpg d="E2" g="w29114" t="antecedent" cr="" w="" l="complex" p="N"/>
+     <dpg d="w29116" g="w29118" t="det" cr="det:w29118" w="an" l="~" p="Det"/>
+     <dpg d="w29117" g="w29118" t="mod" cr="mod:w29118" w="indispensable" l="~" p="A"/>
+     <dpg d="w29118" g="w29115" t="obj" cr="obj:w29115" w="role" l="~" p="N"/>
+     <dpg d="w29119" g="w29118" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w29120" g="w29119" t="pcomp-n" cr="mod*in*n:w29118" w="construction" l="~" p="N"/>
+     <dpg d="w29121" g="w29120" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29122" g="w29124" t="mod" cr="mod:w29124" w="ordered" l="~" p="A"/>
+     <dpg d="w29123" g="w29124" t="mod" cr="mod:w29124" w="multicellular" l="~" p="A"/>
+     <dpg d="w29124" g="w29121" t="pcomp-n" cr="mod*of*n:w29120" w="structures" l="structure" p="N"/>
+     <dpg d="w29125" g="w29124" t="mod" cr="" w="such" l="such as" p="Prep"/>
+     <dpg d="w29126" g="w29125" t="lex-mod" cr="lex-mod:w29125" w="as" l="~" p="U"/>
+     <dpg d="w29127" g="w29128" t="mod" cr="mod:w29128" w="polarized" l="~" p="A"/>
+     <dpg d="w29128" g="w29125" t="pcomp-n" cr="mod*such*n:w29124" w="epithelium" l="~" p="N"/>
+     <dpg d="w29129" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

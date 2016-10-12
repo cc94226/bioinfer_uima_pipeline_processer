@@ -1,0 +1,67 @@
+<rexml>
+<doc id="441">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6305" g="E3" t="mod" cr="mod:w6316" w="Even" l="~" p="A"/>
+     <dpg d="w6306" g="w6308" t="det" cr="det:w6308" w="the" l="~" p="Det"/>
+     <dpg d="w6307" g="w6308" t="nn" cr="nn:w6308" w="Munc18-2" l="Munc18-2" p="N"/>
+     <dpg d="w6308" g="w6316" t="s" cr="s:w6316||subj:w6313||subj:w6317||s+subj:w6323" w="mutants" l="mutant" p="N"/>
+     <dpg d="E2" g="w6308" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6309" g="E2" t="whn" cr="whn:w6313" w="that" l="~" p="THAT"/>
+     <dpg d="w6309" g="w6308" t="antecedent" cr="antecedent:w6308" w="that" l="~" p="THAT"/>
+     <dpg d="w6310" g="w6313" t="aux" cr="aux:w6313" w="do" l="~" p="Aux"/>
+     <dpg d="w6311" g="w6310" t="neg" cr="neg:w6310" w="not" l="~" p="A"/>
+     <dpg d="w6312" g="w6313" t="amod" cr="amod:w6313" w="detectably" l="~" p="A"/>
+     <dpg d="w6313" g="E2" t="i" cr="rel:w6308" w="bind" l="~" p="V"/>
+     <dpg d="E6" g="w6313" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E6" g="w6308" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w6314" g="w6313" t="obj" cr="obj:w6313" w="syntaxin" l="~" p="N"/>
+     <dpg d="w6315" g="w6314" t="num" cr="num:w6314" w="3" l="~" p="N"/>
+     <dpg d="w6316" g="E3" t="i" cr="" w="were" l="be" p="VBE"/>
+     <dpg d="w6317" g="w6316" t="pred" cr="pred:w6316" w="membrane" l="~" p="N"/>
+     <dpg d="E7" g="w6317" t="subj" cr="" w="" l="mutant" p="N"/>
+     <dpg d="E7" g="w6308" t="antecedent" cr="" w="" l="mutant" p="N"/>
+     <dpg d="w6318" g="w6317" t="pnmod" cr="pnmod:w6317" w="associated" l="~" p="A"/>
+     <dpg d="w6319" g="w6318" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w6320" g="w6321" t="nn" cr="nn:w6321" w="Caco-2" l="Caco-2" p="N"/>
+     <dpg d="w6321" g="w6319" t="pcomp-n" cr="mod*in*n:w6318" w="cells" l="cell" p="N"/>
+     <dpg d="w6322" g="w6316" t="punc" cr="punc:w6316" w="," l="~" p="U"/>
+     <dpg d="E1" g="w6316" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w6308" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6323" g="E1" t="i" cr="mod:w6316" w="suggesting" l="suggest" p="V"/>
+     <dpg d="E8" g="w6323" t="subj" cr="" w="" l="mutant" p="N"/>
+     <dpg d="E8" g="E4" t="antecedent" cr="" w="" l="mutant" p="N"/>
+     <dpg d="E0" g="w6323" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6324" g="E0" t="c" cr="c:w6328" w="that" l="~" p="COMP"/>
+     <dpg d="w6325" g="w6327" t="det" cr="det:w6327" w="the" l="~" p="Det"/>
+     <dpg d="w6326" g="w6327" t="nn" cr="nn:w6327" w="syntaxin" l="~" p="N"/>
+     <dpg d="w6327" g="w6328" t="s" cr="s:w6328||subj:w6332" w="interaction" l="~" p="N"/>
+     <dpg d="w6328" g="E0" t="i" cr="fc:w6323" w="is" l="be" p="VBE"/>
+     <dpg d="w6329" g="w6328" t="neg" cr="neg:w6328" w="not" l="~" p="A"/>
+     <dpg d="E9" g="w6332" t="subj" cr="" w="" l="interaction" p="N"/>
+     <dpg d="E9" g="w6327" t="antecedent" cr="" w="" l="interaction" p="N"/>
+     <dpg d="w6330" g="w6332" t="det" cr="det:w6332" w="the" l="~" p="Det"/>
+     <dpg d="w6331" g="w6332" t="mod" cr="mod:w6332" w="sole" l="~" p="A"/>
+     <dpg d="w6332" g="w6328" t="pred" cr="pred:w6328" w="determinant" l="~" p="N"/>
+     <dpg d="w6333" g="w6332" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6334" g="w6337" t="nn" cr="nn:w6337" w="Sec1" l="~" p="N"/>
+     <dpg d="w6335" g="w6337" t="nn" cr="nn:w6337" w="protein" l="~" p="N"/>
+     <dpg d="w6336" g="w6337" t="nn" cr="nn:w6337" w="membrane" l="~" p="N"/>
+     <dpg d="w6337" g="w6333" t="pcomp-n" cr="mod*of*n:w6332" w="attachment" l="~" p="N"/>
+     <dpg d="w6338" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

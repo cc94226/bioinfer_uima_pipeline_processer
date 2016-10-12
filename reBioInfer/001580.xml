@@ -1,0 +1,273 @@
+<rexml>
+<doc id="1580">
+  <text>
+<p><s id="s1"><w id="w25110">The</w> <w id="w25111">p120cas</w> <w id="w25112">gene</w> <w id="w25113">encodes</w> <w id="w25114">a</w> <w id="w25115">protein</w> <w id="w25116">tyrosine</w> <w id="w25117">kinase</w> <w id="w25118">substrate</w> <w id="w25119">that</w> <w id="w25120">associates</w> <w id="w25121">with</w> <w id="w25122">the</w> <w id="w25123">cell-cell</w> <w id="w25124">adhesion</w> <w id="w25125">protein</w> <w id="w25126">complex</w> <w id="w25127">containing</w> <w id="w25128">E-cadherin</w> <w id="w25129">and</w> <w id="w25130">its</w> <w id="w25131">cytoplasmic</w> <w id="w25132">cofactors</w> <w id="w25133">alpha-catenin</w> <w id="w25134">,</w> <w id="w25135">beta-catenin</w> <w id="w25136">,</w> <w id="w25137">and</w> <w id="w25138">plakoglobin</w> <w id="w25139">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5802" gid="g5535" t="Gene" fr="w25111" to="w25112" nam="yes">
+     <textspan type="extent">p120cas gene</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1580.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5803" gid="g5536" t="RELATIONSHIP_TEXTBINDING" fr="w25126" to="w25126">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1580.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5804" gid="g5537" t="RELATIONSHIP_TEXTBINDING" fr="w25113" to="w25113">
+     <textspan type="extent">encodes</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1580.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5805" gid="g5538" t="RELATIONSHIP_TEXTBINDING" fr="w25118" to="w25118">
+     <textspan type="extent">substrate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1580.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5806" gid="g5539" t="RELATIONSHIP_TEXTBINDING" fr="w25132" to="w25132">
+     <textspan type="extent">cofactors</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1580.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5807" gid="g5540" t="RELATIONSHIP_TEXTBINDING" fr="w25120" to="w25121">
+     <textspan type="extent">associates with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1580.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5808" gid="g5541" t="Other" fr="w25115" to="w25118" nam="yes">
+     <textspan type="extent">protein tyrosine kinase substrate</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Other"/>
+      <exattr n="bd" v="e.1580.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5809" gid="g5542" t="Individual_protein" fr="w25115" to="w25117" nam="yes">
+     <textspan type="extent">protein tyrosine kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1580.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5810" gid="g5543" t="Individual_protein" fr="w25130" to="w25130" nam="yes">
+     <textspan type="extent">its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1580.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e5811" gid="g5544" t="Protein_complex" fr="w25126" to="w25138" nam="yes">
+     <textspan type="extent">complex containing E-cadherin and [..] alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1580.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e5812" gid="g5545" t="Individual_protein" fr="w25133" to="w25133" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1580.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e5813" gid="g5546" t="Individual_protein" fr="w25111" to="w25111" nam="yes">
+     <textspan type="extent">p120cas</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1580.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e5814" gid="g5543" t="Individual_protein" fr="w25128" to="w25128" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1580.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e5815" gid="g5547" t="Individual_protein" fr="w25138" to="w25138" nam="yes">
+     <textspan type="extent">plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1580.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e5816" gid="g5548" t="Individual_protein" fr="w25135" to="w25135" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1580.14"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2216" t="ENCODE" e1="e5802" e2="e5808" re="e5804">
+     <textspan type="extent">p120cas gene encodes a protein tyrosine kinase substrate</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1580.2"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2217" t="AFFECT" e1="e5809" e2="e5808" re="e5805">
+     <textspan type="extent">protein tyrosine kinase substrate</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1580.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2218" t="BIND" e1="e5808" e2="e5811" re="e5807">
+     <textspan type="extent">protein tyrosine kinase substrate that associates with the cell-cell adhesion protein complex containing E-cadherin and its cytoplasmic cofactors alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1580.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2219" t="CONTAIN" e1="e5811" e2="e5814" re="e5803">
+     <textspan type="extent">complex containing E-cadherin and its cytoplasmic cofactors alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1580.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2220" t="CONTAIN" e1="e5811" e2="e5812" re="e5803">
+     <textspan type="extent">complex containing E-cadherin and its cytoplasmic cofactors alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1580.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2221" t="CONTAIN" e1="e5811" e2="e5816" re="e5803">
+     <textspan type="extent">complex containing E-cadherin and its cytoplasmic cofactors alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1580.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2222" t="CONTAIN" e1="e5811" e2="e5815" re="e5803">
+     <textspan type="extent">complex containing E-cadherin and its cytoplasmic cofactors alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1580.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2224" t="BIND" e1="e5810" e2="e5812" re="e5806">
+     <textspan type="extent">its cytoplasmic cofactors alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1580.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2225" t="BIND" e1="e5810" e2="e5816" re="e5806">
+     <textspan type="extent">its cytoplasmic cofactors alpha-catenin , beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1580.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2226" t="BIND" e1="e5810" e2="e5815" re="e5806">
+     <textspan type="extent">its cytoplasmic cofactors alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1580.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

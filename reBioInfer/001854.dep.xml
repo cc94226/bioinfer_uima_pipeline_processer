@@ -1,0 +1,72 @@
+<rexml>
+<doc id="1854">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29719" g="w29721" t="mod" cr="mod:w29721" w="Three-dimensional" l="three-dimensional" p="A"/>
+     <dpg d="w29720" g="w29721" t="lex-mod" cr="lex-mod:w29721" w="fluorescence" l="~" p="U"/>
+     <dpg d="w29721" g="w29734" t="s" cr="s+subj:w29734" w="microscopy" l="fluorescence microscopy" p="N"/>
+     <dpg d="w29722" g="w29721" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29723" g="w29725" t="det" cr="det:w29725" w="the" l="~" p="Det"/>
+     <dpg d="w29724" g="w29725" t="mod" cr="mod:w29725" w="fluorescent" l="~" p="A"/>
+     <dpg d="w29725" g="w29722" t="pcomp-n" cr="mod*of*n:w29721" w="analog" l="~" p="N"/>
+     <dpg d="w29726" g="w29725" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29727" g="w29726" t="pcomp-n" cr="mod*of*n:w29725" w="actin" l="~" p="N"/>
+     <dpg d="w29728" g="w29727" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w29729" g="w29731" t="det" cr="det:w29731" w="a" l="~" p="Det"/>
+     <dpg d="w29730" g="w29731" t="mod" cr="mod:w29731" w="high" l="~" p="A"/>
+     <dpg d="w29731" g="w29728" t="pcomp-n" cr="mod*with*n:w29727" w="affinity" l="~" p="N"/>
+     <dpg d="w29732" g="w29731" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w29733" g="w29732" t="pcomp-n" cr="mod*for*n:w29731" w="profilin" l="~" p="N"/>
+     <dpg d="w29734" g="E1" t="i" cr="" w="revealed" l="reveal" p="V"/>
+     <dpg d="E3" g="w29734" t="subj" cr="" w="" l="fluorescence microscopy" p="N"/>
+     <dpg d="E3" g="w29721" t="antecedent" cr="" w="" l="fluorescence microscopy" p="N"/>
+     <dpg d="E0" g="w29734" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29735" g="E0" t="c" cr="c:w29737" w="that" l="~" p="COMP"/>
+     <dpg d="w29736" g="w29737" t="s" cr="s+subj:w29737||obj:w29745" w="it" l="~" p="N"/>
+     <dpg d="w29737" g="E0" t="i" cr="fc:w29734" w="incorporated" l="incorporate" p="V"/>
+     <dpg d="E4" g="w29737" t="subj" cr="" w="" l="it" p="N"/>
+     <dpg d="E4" g="w29736" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w29738" g="w29737" t="mod" cr="" w="into" l="~" p="Prep"/>
+     <dpg d="w29739" g="w29741" t="mod" cr="mod:w29741" w="cortical" l="~" p="A"/>
+     <dpg d="w29740" g="w29741" t="mod" cr="mod:w29741" w="cytoplasmic" l="~" p="A"/>
+     <dpg d="w29741" g="w29738" t="pcomp-n" cr="mod*into*n:w29737" w="fibers" l="fiber" p="N"/>
+     <dpg d="w29742" g="w29737" t="punc" cr="punc:w29737" w="and" l="~" p="U"/>
+     <dpg d="w29743" g="w29745" t="be" cr="be:w29745" w="was" l="be" p="be"/>
+     <dpg d="w29744" g="w29745" t="amod" cr="amod:w29745" w="also" l="~" p="A"/>
+     <dpg d="w29745" g="w29737" t="conj" cr="conj:w29737" w="distributed" l="distribute" p="V"/>
+     <dpg d="E5" g="w29745" t="obj" cr="" w="" l="it" p="N"/>
+     <dpg d="E5" g="w29736" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w29746" g="w29745" t="mod" cr="mod:w29745" w="diffusely" l="~" p="A"/>
+     <dpg d="w29747" g="w29746" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w29748" g="w29750" t="det" cr="det:w29750" w="the" l="~" p="Det"/>
+     <dpg d="w29749" g="w29750" t="mod" cr="mod:w29750" w="non-cortical" l="non-cortical" p="A"/>
+     <dpg d="w29750" g="w29747" t="pcomp-n" cr="mod*in*n:w29746" w="cytoplasm" l="~" p="N"/>
+     <dpg d="w29751" g="w29750" t="pnmod" cr="pnmod:w29750" w="consistent" l="~" p="A"/>
+     <dpg d="w29752" g="w29751" t="comp1" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w29753" g="w29754" t="det" cr="det:w29754" w="a" l="~" p="Det"/>
+     <dpg d="w29754" g="w29752" t="pcomp-n" cr="comp1*with*n:w29751" w="bias" l="~" p="N"/>
+     <dpg d="w29755" g="w29754" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29756" g="w29757" t="nn" cr="nn:w29757" w="actin" l="~" p="N"/>
+     <dpg d="w29757" g="w29755" t="pcomp-n" cr="mod*of*n:w29754" w="assembly" l="~" p="N"/>
+     <dpg d="w29758" g="w29757" t="mod" cr="" w="near" l="~" p="Prep"/>
+     <dpg d="w29759" g="w29760" t="det" cr="det:w29760" w="the" l="~" p="Det"/>
+     <dpg d="w29760" g="w29758" t="pcomp-n" cr="mod*near*n:w29757" w="surface" l="~" p="N"/>
+     <dpg d="w29761" g="w29760" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29762" g="w29763" t="det" cr="det:w29763" w="the" l="~" p="Det"/>
+     <dpg d="w29763" g="w29761" t="pcomp-n" cr="mod*of*n:w29760" w="cell" l="~" p="N"/>
+     <dpg d="w29764" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

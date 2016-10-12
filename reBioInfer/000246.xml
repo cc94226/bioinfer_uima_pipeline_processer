@@ -1,0 +1,234 @@
+<rexml>
+<doc id="246">
+  <text>
+<p><s id="s1"><w id="w3781">A</w> <w id="w3782">2.2-kb</w> <w id="w3783">truncated</w> <w id="w3784">NRP1</w> <w id="w3785">cDNA</w> <w id="w3786">was</w> <w id="w3787">cloned</w> <w id="w3788">that</w> <w id="w3789">encodes</w> <w id="w3790">a</w> <w id="w3791">644-aa</w> <w id="w3792">soluble</w> <w id="w3793">NRP1</w> <w id="w3794">(</w> <w id="w3795">sNRP1</w> <w id="w3796">)</w> <w id="w3797">isoform</w> <w id="w3798">containing</w> <w id="w3799">just</w> <w id="w3800">the</w> <w id="w3801">a/</w><w id="w3802">CUB</w> <w id="w3803">and</w> <w id="w3804">b/</w><w id="w3805">coagulation</w> <w id="w3806">factor</w> <w id="w3807">homology</w> <w id="w3808">extracellular</w> <w id="w3809">domains</w> <w id="w3810">of</w> <w id="w3811">NRP1</w> <w id="w3812">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e920" gid="g881" t="Individual_DNA_molecule" fr="w3784" to="w3785" nam="yes">
+     <textspan type="extent">NRP1 cDNA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Individual_DNA_molecule"/>
+      <exattr n="bd" v="e.246.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e921" gid="g882" t="RELATIONSHIP_TEXTBINDING" fr="w3789" to="w3789">
+     <textspan type="extent">encodes</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.246.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e922" gid="g883" t="Individual_protein" fr="w3792" to="w3797" nam="yes">
+     <textspan type="extent">soluble NRP1 [..] isoform</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.246.2"/>
+      <exattr n="nst" v="st.246.11.0"/>
+      <exattr n="nst" v="st.246.12.0"/>
+      <exattr n="nst" v="st.246.16.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e923" gid="g884" t="Mutant" fr="w3783" to="w3785" nam="yes">
+     <textspan type="extent">truncated NRP1 cDNA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.246.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e924" gid="g885" t="Individual_protein" fr="w3792" to="w3793" nam="yes">
+     <textspan type="extent">soluble NRP1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.246.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e925" gid="g885" t="Individual_protein" fr="w3795" to="w3795" nam="yes">
+     <textspan type="extent">sNRP1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.246.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e926" gid="g886" t="Protein_family_or_group" fr="w3805" to="w3806" nam="yes">
+     <textspan type="extent">coagulation factor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.246.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e927" gid="g887" t="Protein_family_or_group" fr="w3802" to="w3802" nam="yes">
+     <textspan type="extent">CUB</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.246.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e928" gid="g888" t="Substructure_of_protein" fr="w3809" to="w3811" nam="yes">
+     <textspan type="extent">domains of NRP1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.246.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e929" gid="g889" t="Substructure_of_protein" fr="w3809" to="w3811" nam="yes">
+     <textspan type="extent">domains of NRP1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.246.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e930" gid="g890" t="Individual_protein" fr="w3811" to="w3811" nam="yes">
+     <textspan type="extent">NRP1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.246.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e931" gid="g891" t="RELATIONSHIP_TEXTBINDING" fr="w3807" to="w3807">
+     <textspan type="extent">homology</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.246.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e932" gid="g892" t="Gene" fr="w3784" to="w3784" nam="yes">
+     <textspan type="extent">NRP1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.246.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e933" gid="g893" t="Individual_protein" fr="w3811" to="w3811" nam="yes">
+     <textspan type="extent">NRP1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.246.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e934" gid="g894" t="RELATIONSHIP_TEXTBINDING" fr="w3798" to="w3798">
+     <textspan type="extent">containing</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.246.14"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r350" t="ENCODE" e1="e923" e2="e922" re="e921">
+     <textspan type="extent">truncated NRP1 cDNA was cloned that encodes a 644-aa soluble NRP1 ( sNRP1 ) isoform</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.246.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+    <rel id="r351" t="SUBSTRUCTURE" e1="e922" e2="e929" re="e934">
+     <textspan type="extent">soluble NRP1 ( sNRP1 ) isoform containing just the a/ CUB and b/ coagulation factor homology extracellular domains of NRP1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.246.14"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="SUBSTRUCTURE"/>
+     </exattrs>
+    </rel>
+    <rel id="r352" t="SUBSTRUCTURE" e1="e922" e2="e928" re="e934">
+     <textspan type="extent">soluble NRP1 ( sNRP1 ) isoform containing just the a/ CUB and b/ coagulation factor homology extracellular domains of NRP1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.246.14"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="SUBSTRUCTURE"/>
+     </exattrs>
+    </rel>
+    <rel id="r353" t="SIMILAR" e1="e929" e2="e927" re="e931">
+     <textspan type="extent">CUB and b/ coagulation factor homology extracellular domains of NRP1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.246.11"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r354" t="SIMILAR" e1="e928" e2="e926" re="e931">
+     <textspan type="extent">coagulation factor homology extracellular domains of NRP1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.246.11"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

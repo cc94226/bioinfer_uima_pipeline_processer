@@ -1,0 +1,75 @@
+<rexml>
+<doc id="292">
+  
+  <markup>
+   <nes>
+    <ne id="e1092" gid="g1040" t="Individual_protein" fr="w4509" to="w4509" nam="yes" sid="s1">
+     <textspan>CD26</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.292.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1097" gid="g1040" t="Individual_protein" fr="w4520" to="w4522" nam="yes" sid="s1">
+     <textspan>dipeptidyl peptidase IV</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.292.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1094" gid="g1042" t="Individual_protein" fr="w4528" to="w4529" nam="yes" sid="s1">
+     <textspan>adenosine deaminase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.292.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1096" gid="g1042" t="Individual_protein" fr="w4531" to="w4531" nam="yes" sid="s1">
+     <textspan>ADA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.292.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r437" t="BIND" e1="e1092" e2="e1094" re="e1093">
+     <textspan>CD26 , a T cell activation Ag , also known as dipeptidyl peptidase IV , is directly associated with adenosine deaminase</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.292.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

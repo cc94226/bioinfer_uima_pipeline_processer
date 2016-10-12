@@ -1,0 +1,60 @@
+<rexml>
+<doc id="566">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8074" g="E2" t="mod" cr="mod:w8077" w="Here" l="~" p="N"/>
+     <dpg d="w8075" g="E2" t="punc" cr="punc:w8077" w="," l="~" p="U"/>
+     <dpg d="w8076" g="w8077" t="s" cr="s+subj:w8077||s+subj:w8082||subj:w8086||s+subj:w8093" w="we" l="~" p="N"/>
+     <dpg d="w8077" g="E2" t="i" cr="" w="describe" l="~" p="V"/>
+     <dpg d="E6" g="w8077" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E6" g="w8076" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w8078" g="w8079" t="mod" cr="mod:w8079" w="proline-rich" l="proline-rich" p="A"/>
+     <dpg d="w8079" g="w8077" t="obj" cr="obj:w8077||obj:w8080" w="proteins" l="protein" p="N"/>
+     <dpg d="w8080" g="w8079" t="vrel" cr="vrel:w8079" w="involved" l="involve" p="V"/>
+     <dpg d="E7" g="w8080" t="obj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E7" g="w8079" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w8081" g="w8080" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="E1" g="w8081" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w8076" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w8082" g="E1" t="i" cr="mod*in*c:w8080" w="regulating" l="regulate" p="V"/>
+     <dpg d="E8" g="w8082" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E8" g="E4" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w8083" g="w8084" t="nn" cr="nn:w8084" w="actin" l="~" p="N"/>
+     <dpg d="w8084" g="w8082" t="obj" cr="obj:w8082" w="polymerization" l="~" p="N"/>
+     <dpg d="w8085" g="w8082" t="punc" cr="punc:w8082" w="and" l="~" p="U"/>
+     <dpg d="w8086" g="w8082" t="conj" cr="conj:w8082" w="classify" l="~" p="V"/>
+     <dpg d="E9" g="w8086" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E9" g="E4" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w8087" g="w8086" t="obj" cr="obj:w8086" w="them" l="~" p="N"/>
+     <dpg d="w8088" g="w8086" t="mod" cr="" w="according" l="according to" p="Prep"/>
+     <dpg d="w8089" g="w8088" t="lex-mod" cr="lex-mod:w8088" w="to" l="~" p="U"/>
+     <dpg d="w8090" g="w8091" t="gen" cr="gen:w8091" w="their" l="~" p="N"/>
+     <dpg d="w8091" g="w8088" t="pcomp-n" cr="mod*according*n:w8086" w="role" l="~" p="N"/>
+     <dpg d="w8092" g="w8091" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="E0" g="w8092" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w8093" g="E0" t="i" cr="mod*in*c:w8091" w="recruiting" l="recruit" p="V"/>
+     <dpg d="E10" g="w8093" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E10" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w8094" g="w8093" t="obj" cr="obj:w8093" w="profilin" l="~" p="N"/>
+     <dpg d="w8095" g="w8094" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w8096" g="w8097" t="det" cr="det:w8097" w="the" l="~" p="Det"/>
+     <dpg d="w8097" g="w8095" t="pcomp-n" cr="mod*to*n:w8094" w="membrane" l="~" p="N"/>
+     <dpg d="w8098" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

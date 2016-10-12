@@ -1,0 +1,77 @@
+<rexml>
+<doc id="70">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w1103" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="AIMS" l="aim" p="N"/>
+     <dpg d="w1104" g="E4" t="punc" cr="punc:E4" w=":" l="~" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="E0" g="E1" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="s+subj:w1106" w="" l="~" p="N"/>
+     <dpg d="w1105" g="w1106" t="aux" cr="aux:w1106" w="To" l="~" p="Aux"/>
+     <dpg d="w1106" g="E0" t="i" cr="mod:w1121" w="investigate" l="~" p="V"/>
+     <dpg d="E5" g="w1106" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w1107" g="w1108" t="det" cr="det:w1108" w="the" l="~" p="Det"/>
+     <dpg d="w1108" g="w1106" t="obj" cr="obj:w1106" w="disturbance" l="~" p="N"/>
+     <dpg d="w1109" g="w1108" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w1110" g="w1111" t="mod" cr="mod:w1111" w="intercellular" l="~" p="A"/>
+     <dpg d="w1111" g="w1109" t="pcomp-n" cr="mod*of*n:w1108" w="adhesion" l="~" p="N"/>
+     <dpg d="w1112" g="w1111" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w1113" g="w1115" t="lex-mod" cr="lex-mod:w1115" w="adenoid" l="~" p="U"/>
+     <dpg d="w1114" g="w1115" t="lex-mod" cr="lex-mod:w1115" w="cystic" l="~" p="U"/>
+     <dpg d="w1115" g="w1112" t="pcomp-n" cr="mod*in*n:w1111" w="carcinoma" l="adenoid cystic carcinoma" p="N"/>
+     <dpg d="w1116" g="w1117" t="punc" cr="punc:w1117" w="(" l="~" p="U"/>
+     <dpg d="w1117" g="w1115" t="abbrev" cr="abbrev:w1115" w="ACC" l="~" p="N"/>
+     <dpg d="w1118" g="w1117" t="punc" cr="punc:w1117" w=")" l="~" p="U"/>
+     <dpg d="w1119" g="E1" t="punc" cr="punc:w1121" w="," l="~" p="U"/>
+     <dpg d="w1120" g="w1121" t="s" cr="s+subj:w1121" w="we" l="~" p="N"/>
+     <dpg d="w1121" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="examined" l="examine" p="V"/>
+     <dpg d="E6" g="w1121" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E6" g="w1120" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w1122" g="w1124" t="det" cr="det:w1124" w="the" l="~" p="Det"/>
+     <dpg d="w1123" g="w1124" t="mod" cr="mod:w1124" w="ultrastructural" l="~" p="A"/>
+     <dpg d="w1124" g="w1121" t="obj" cr="obj:w1121" w="localization" l="~" p="N"/>
+     <dpg d="w1125" g="w1124" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w1126" g="w1128" t="nn" cr="nn:w1128" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w1127" g="w1128" t="punc" cr="punc:w1128" w="(" l="~" p="U"/>
+     <dpg d="w1128" g="w1125" t="pcomp-n" cr="mod*of*n:w1124" w="E-cad" l="E-cad" p="N"/>
+     <dpg d="w1129" g="w1128" t="punc" cr="punc:w1128" w=")" l="~" p="U"/>
+     <dpg d="w1130" g="w1128" t="punc" cr="punc:w1128" w="," l="~" p="U"/>
+     <dpg d="w1131" g="w1128" t="conj" cr="conj:w1128" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w1132" g="w1133" t="punc" cr="punc:w1133" w="(" l="~" p="U"/>
+     <dpg d="w1133" g="w1131" t="abbrev" cr="abbrev:w1131" w="alpha-cat" l="alpha-cat" p="N"/>
+     <dpg d="w1134" g="w1133" t="punc" cr="punc:w1133" w=")" l="~" p="U"/>
+     <dpg d="w1135" g="w1131" t="punc" cr="punc:w1131" w="and" l="~" p="U"/>
+     <dpg d="w1136" g="w1131" t="conj" cr="conj:w1131" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w1137" g="w1138" t="punc" cr="punc:w1138" w="(" l="~" p="U"/>
+     <dpg d="w1138" g="w1136" t="abbrev" cr="abbrev:w1136" w="beta-cat" l="beta-cat" p="N"/>
+     <dpg d="w1139" g="w1138" t="punc" cr="punc:w1138" w=")" l="~" p="U"/>
+     <dpg d="w1140" g="E4" t="p" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w1141" g="w1140" t="pcomp-n" cr="p*in*n:E4" w="ACC" l="~" p="N"/>
+     <dpg d="w1142" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="w1143" g="E4" t="punc" cr="punc:E4" w="and" l="~" p="U"/>
+     <dpg d="w1144" g="E4" t="punc" cr="punc:E4" w="compared" l="~" p="U"/>
+     <dpg d="w1145" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="it" l="~" p="N"/>
+     <dpg d="w1146" g="E4" t="p" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w1147" g="w1146" t="pcomp-n" cr="p*with*n:E4" w="that" l="~" p="N"/>
+     <dpg d="w1148" g="E4" t="p" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w1149" g="w1152" t="det" cr="det:w1152" w="the" l="~" p="Det"/>
+     <dpg d="w1150" g="w1152" t="mod" cr="mod:w1152" w="normal" l="~" p="A"/>
+     <dpg d="w1151" g="w1152" t="mod" cr="mod:w1152" w="labial" l="~" p="A"/>
+     <dpg d="w1152" g="w1148" t="pcomp-n" cr="p*in*n:E4" w="gland" l="~" p="N"/>
+     <dpg d="w1153" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

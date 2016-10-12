@@ -1,0 +1,69 @@
+<rexml>
+<doc id="2222">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w34266" g="E3" t="p" cr="" w="Within" l="~" p="Prep"/>
+     <dpg d="w34267" g="w34268" t="amount-value" cr="amount-value:w34268" w="1" l="~" p="N"/>
+     <dpg d="w34268" g="w34266" t="pcomp-n" cr="p*within*n:E3" w="hour" l="~" p="N"/>
+     <dpg d="w34269" g="w34268" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="E0" g="w34269" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="s+subj:w34270" w="" l="~" p="N"/>
+     <dpg d="w34270" g="E0" t="i" cr="mod*of*c:w34268" w="raising" l="raise" p="V"/>
+     <dpg d="E4" g="w34270" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="E1" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w34271" g="w34272" t="det" cr="det:w34272" w="the" l="~" p="Det"/>
+     <dpg d="w34272" g="w34270" t="obj" cr="obj:w34270" w="concentration" l="~" p="N"/>
+     <dpg d="w34273" g="w34272" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34274" g="w34275" t="nn" cr="nn:w34275" w="calcium" l="~" p="N"/>
+     <dpg d="w34275" g="w34273" t="pcomp-n" cr="mod*of*n:w34272" w="ions" l="ion" p="N"/>
+     <dpg d="w34276" g="w34275" t="punc" cr="punc:w34275" w="," l="~" p="U"/>
+     <dpg d="w34277" g="w34275" t="conj" cr="conj:w34275" w="integrins" l="~" p="N"/>
+     <dpg d="w34278" g="w34277" t="punc" cr="punc:w34277" w="," l="~" p="U"/>
+     <dpg d="w34279" g="w34277" t="conj" cr="conj:w34277" w="cadherins" l="~" p="N"/>
+     <dpg d="w34280" g="w34279" t="punc" cr="punc:w34279" w="," l="~" p="U"/>
+     <dpg d="w34281" g="w34279" t="conj" cr="conj:w34279" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w34282" g="w34281" t="punc" cr="punc:w34281" w="," l="~" p="U"/>
+     <dpg d="w34283" g="w34281" t="conj" cr="conj:w34281" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w34284" g="w34283" t="punc" cr="punc:w34283" w="," l="~" p="U"/>
+     <dpg d="w34285" g="w34283" t="conj" cr="conj:w34283" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w34286" g="w34285" t="punc" cr="punc:w34285" w="," l="~" p="U"/>
+     <dpg d="w34287" g="w34285" t="conj" cr="conj:w34285" w="vinculin" l="~" p="N"/>
+     <dpg d="w34288" g="w34287" t="punc" cr="punc:w34287" w="and" l="~" p="U"/>
+     <dpg d="w34289" g="w34287" t="conj" cr="conj:w34287||subj:w34292" w="alpha-actinin" l="alpha-actinin" p="N"/>
+     <dpg d="w34290" g="w34289" t="vrel" cr="vrel:w34289" w="appeared" l="appear" p="V"/>
+     <dpg d="w34291" g="w34292" t="aux" cr="aux:w34292" w="to" l="~" p="Aux"/>
+     <dpg d="w34292" g="w34290" t="sc" cr="sc:w34290" w="accumulate" l="~" p="V"/>
+     <dpg d="E5" g="w34292" t="subj" cr="" w="" l="alpha-actinin" p="N"/>
+     <dpg d="E5" g="w34289" t="antecedent" cr="" w="" l="alpha-actinin" p="N"/>
+     <dpg d="w34293" g="w34292" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w34294" g="w34295" t="mod" cr="mod:w34295" w="cell-cell" l="cell-cell" p="A"/>
+     <dpg d="w34295" g="w34293" t="pcomp-n" cr="mod*at*n:w34292" w="borders" l="border" p="N"/>
+     <dpg d="w34296" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w34297" g="E3" t="punc" cr="punc:E3" w="whereas" l="~" p="U"/>
+     <dpg d="w34298" g="w34301" t="det" cr="det:w34301" w="the" l="~" p="Det"/>
+     <dpg d="w34299" g="w34301" t="mod" cr="mod:w34301" w="focal" l="~" p="A"/>
+     <dpg d="w34300" g="w34301" t="nn" cr="nn:w34301" w="contact" l="~" p="N"/>
+     <dpg d="w34301" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="proteins" l="protein" p="N"/>
+     <dpg d="w34302" g="w34301" t="punc" cr="punc:w34301" w="," l="~" p="U"/>
+     <dpg d="w34303" g="w34301" t="conj" cr="conj:w34301" w="paxillin" l="~" p="N"/>
+     <dpg d="w34304" g="w34303" t="punc" cr="punc:w34303" w="and" l="~" p="U"/>
+     <dpg d="w34305" g="w34303" t="conj" cr="conj:w34303" w="talin" l="~" p="N"/>
+     <dpg d="w34306" g="" t="" cr="" w="," l="~" p="U"/>
+     <dpg d="w34307" g="" t="" cr="" w="did" l="~" p="U"/>
+     <dpg d="w34308" g="" t="" cr="" w="not" l="~" p="U"/>
+     <dpg d="w34309" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,84 @@
+<rexml>
+<doc id="119">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1857" g="w1867" t="s" cr="s+subj:w1867" w="Analyses" l="analysis" p="N"/>
+     <dpg d="w1858" g="w1857" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w1859" g="w1860" t="mod" cr="mod:w1860" w="dynamic" l="~" p="A"/>
+     <dpg d="w1860" g="w1858" t="pcomp-n" cr="mod*of*n:w1857||s+subj:w1861" w="light" l="~" p="N"/>
+     <dpg d="E3" g="w1860" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E6" g="E3" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w1860" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w1861" g="E3" t="i" cr="rel:w1860" w="scattering" l="scatter" p="V"/>
+     <dpg d="E8" g="w1861" t="subj" cr="" w="" l="light" p="N"/>
+     <dpg d="E8" g="E6" t="antecedent" cr="" w="" l="light" p="N"/>
+     <dpg d="w1862" g="w1861" t="obj" cr="obj:w1861" w="data" l="~" p="N"/>
+     <dpg d="w1863" g="w1862" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w1864" g="w1866" t="mod" cr="mod:w1866" w="stretched" l="~" p="A"/>
+     <dpg d="w1865" g="w1866" t="mod" cr="mod:w1866" w="exponential" l="~" p="A"/>
+     <dpg d="w1866" g="w1863" t="pcomp-n" cr="mod*by*n:w1862" w="fit" l="~" p="N"/>
+     <dpg d="w1867" g="E4" t="i" cr="" w="show" l="~" p="V"/>
+     <dpg d="E9" g="w1867" t="subj" cr="" w="" l="analysis" p="N"/>
+     <dpg d="E9" g="w1857" t="antecedent" cr="" w="" l="analysis" p="N"/>
+     <dpg d="E2" g="w1867" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1868" g="E2" t="c" cr="c:w1870" w="that" l="~" p="COMP"/>
+     <dpg d="w1869" g="w1870" t="s" cr="s+subj:w1870" w="vinculin" l="~" p="N"/>
+     <dpg d="w1870" g="E2" t="i" cr="fc:w1867" w="has" l="have" p="V"/>
+     <dpg d="E10" g="w1870" t="subj" cr="" w="" l="vinculin" p="N"/>
+     <dpg d="E10" g="w1869" t="antecedent" cr="" w="" l="vinculin" p="N"/>
+     <dpg d="w1871" g="w1873" t="det" cr="det:w1873" w="a" l="~" p="Det"/>
+     <dpg d="w1872" g="w1873" t="mod" cr="mod:w1873" w="negligible" l="~" p="A"/>
+     <dpg d="w1873" g="w1870" t="obj" cr="obj:w1870" w="influence" l="~" p="N"/>
+     <dpg d="w1874" g="w1873" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w1875" g="w1878" t="mod" cr="mod:w1878" w="internal" l="~" p="A"/>
+     <dpg d="w1876" g="w1878" t="nn" cr="nn:w1878" w="actin" l="~" p="N"/>
+     <dpg d="w1877" g="w1878" t="nn" cr="nn:w1878" w="filament" l="~" p="N"/>
+     <dpg d="w1878" g="w1874" t="pcomp-n" cr="mod*on*n:w1873" w="dynamics" l="~" p="N"/>
+     <dpg d="w1879" g="w1878" t="punc" cr="punc:w1878" w="and" l="~" p="U"/>
+     <dpg d="w1880" g="w1878" t="conj" cr="conj:w1878||s+subj:w1881||subj:w1884" w="actin" l="~" p="N"/>
+     <dpg d="E0" g="w1880" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w1880" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w1881" g="E0" t="i" cr="rel:w1880" w="bending" l="bend" p="V"/>
+     <dpg d="E11" g="w1881" t="subj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E11" g="E5" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w1882" g="w1881" t="obj" cr="obj:w1881" w="stiffness" l="~" p="N"/>
+     <dpg d="E1" g="w1880" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1883" g="E1" t="whn" cr="whn:w1884" w="which" l="~" p="N"/>
+     <dpg d="w1883" g="w1880" t="antecedent" cr="antecedent:w1880" w="which" l="~" p="N"/>
+     <dpg d="w1884" g="E1" t="i" cr="rel:w1880" w="contrasts" l="contrast" p="V"/>
+     <dpg d="E12" g="w1884" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E12" g="w1880" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w1885" g="w1884" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w1886" g="w1888" t="gen" cr="gen:w1888" w="our" l="~" p="N"/>
+     <dpg d="w1887" g="w1888" t="mod" cr="mod:w1888" w="previous" l="~" p="A"/>
+     <dpg d="w1888" g="w1885" t="pcomp-n" cr="mod*with*n:w1884" w="observations" l="observation" p="N"/>
+     <dpg d="w1889" g="w1888" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w1890" g="w1889" t="pcomp-n" cr="mod*with*n:w1888" w="talin" l="~" p="N"/>
+     <dpg d="w1891" g="w1890" t="punc" cr="punc:w1890" w="," l="~" p="U"/>
+     <dpg d="w1892" g="w1893" t="det" cr="det:w1893" w="another" l="~" p="Det"/>
+     <dpg d="w1893" g="w1890" t="conj" cr="conj:w1890" w="actin" l="~" p="N"/>
+     <dpg d="w1894" g="w1893" t="punc" cr="punc:w1893" w="and" l="~" p="U"/>
+     <dpg d="w1895" g="w1897" t="lex-mod" cr="lex-mod:w1897" w="vinculin" l="~" p="U"/>
+     <dpg d="w1896" g="w1897" t="lex-mod" cr="lex-mod:w1897" w="-" l="~" p="U"/>
+     <dpg d="w1897" g="w1898" t="mod" cr="mod:w1898" w="binding" l="vinculin - binding" p="A"/>
+     <dpg d="w1898" g="w1893" t="conj" cr="conj:w1893" w="protein" l="~" p="N"/>
+     <dpg d="w1899" g="w1898" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w1900" g="w1901" t="mod" cr="mod:w1901" w="focal" l="~" p="A"/>
+     <dpg d="w1901" g="w1899" t="pcomp-n" cr="mod*from*n:w1898" w="adhesions" l="adhesion" p="N"/>
+     <dpg d="w1902" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

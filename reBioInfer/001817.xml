@@ -1,0 +1,75 @@
+<rexml>
+<doc id="1817">
+  <text>
+<p><s id="s1"><w id="w29215">This</w> <w id="w29216">is</w> <w id="w29217">consistent</w> <w id="w29218">with</w> <w id="w29219">cofilin</w> <w id="w29220">activation</w> <w id="w29221">being</w> <w id="w29222">required</w> <w id="w29223">for</w> <w id="w29224">actin</w> <w id="w29225">reorganization</w> <w id="w29226">during</w> <w id="w29227">exocytosis</w> <w id="w29228">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6757" gid="g6445" t="ACTIVATION" fr="w29219" to="w29220">
+     <textspan type="extent">cofilin activation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="ACTIVATION"/>
+      <exattr n="bd" v="e.1817.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6758" gid="g6446" t="RELATIONSHIP_TEXTBINDING" fr="w29222" to="w29223">
+     <textspan type="extent">required for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1817.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6759" gid="g6447" t="MODIFICATION" fr="w29224" to="w29225">
+     <textspan type="extent">actin reorganization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1817.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6760" gid="g6448" t="Individual_protein" fr="w29219" to="w29219" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1817.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6761" gid="g6449" t="Individual_protein" fr="w29224" to="w29224" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1817.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2591" t="CONDITION" e1="e6757" e2="e6759" re="e6758">
+     <textspan type="extent">cofilin activation being required for actin reorganization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1817.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

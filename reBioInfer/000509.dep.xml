@@ -1,0 +1,60 @@
+<rexml>
+<doc id="509">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7034" g="E0" t="mod" cr="" w="For" l="~" p="Prep"/>
+     <dpg d="w7035" g="w7034" t="pcomp-n" cr="mod*for*n:w7039" w="example" l="~" p="N"/>
+     <dpg d="w7036" g="E0" t="punc" cr="punc:w7039" w="," l="~" p="U"/>
+     <dpg d="w7037" g="w7039" t="s" cr="s+obj:w7039||obj:w7049" w="it" l="~" p="N"/>
+     <dpg d="w7038" g="w7039" t="be" cr="be:w7039" w="is" l="be" p="be"/>
+     <dpg d="w7039" g="E0" t="i" cr="UNSPECRELTYPE:w7061" w="associated" l="associate" p="V"/>
+     <dpg d="E3" g="w7039" t="obj" cr="" w="" l="it" p="N"/>
+     <dpg d="E3" g="w7037" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w7040" g="w7039" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w7041" g="w7040" t="pcomp-n" cr="mod*with*n:w7039" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w7042" g="w7041" t="punc" cr="punc:w7041" w="and" l="~" p="U"/>
+     <dpg d="w7043" g="w7045" t="nn" cr="nn:w7045" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w7044" g="w7045" t="punc" cr="punc:w7045" w="(" l="~" p="U"/>
+     <dpg d="w7045" g="w7041" t="conj" cr="conj:w7041" w="Armadillo" l="~" p="N"/>
+     <dpg d="w7046" g="w7039" t="punc" cr="punc:w7039" w=")" l="~" p="U"/>
+     <dpg d="w7047" g="w7039" t="punc" cr="punc:w7039" w="," l="~" p="U"/>
+     <dpg d="w7048" g="w7039" t="punc" cr="punc:w7039" w="and" l="~" p="U"/>
+     <dpg d="w7049" g="w7039" t="conj" cr="conj:w7039" w="protected" l="protect" p="V"/>
+     <dpg d="E4" g="w7049" t="obj" cr="" w="" l="it" p="N"/>
+     <dpg d="E4" g="w7037" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w7050" g="w7049" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w7051" g="w7052" t="nn" cr="nn:w7052" w="trypsin" l="~" p="N"/>
+     <dpg d="w7052" g="w7050" t="pcomp-n" cr="mod*from*n:w7049" w="digestion" l="~" p="N"/>
+     <dpg d="w7053" g="w7052" t="pnmod" cr="pnmod:w7052" w="only" l="~" p="A"/>
+     <dpg d="w7054" g="w7053" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w7055" g="w7056" t="det" cr="det:w7056" w="the" l="~" p="Det"/>
+     <dpg d="w7056" g="w7054" t="pcomp-n" cr="mod*in*n:w7053" w="presence" l="~" p="N"/>
+     <dpg d="w7057" g="w7056" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w7058" g="w7057" t="pcomp-n" cr="mod*of*n:w7056" w="Ca2+" l="~" p="N"/>
+     <dpg d="w7059" g="E2" t="punc" cr="punc:w7061" w="," l="~" p="U"/>
+     <dpg d="w7060" g="E2" t="subclass" cr="subclass:w7061" w="as" l="~" p="Prep"/>
+     <dpg d="w7061" g="E2" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="w7062" g="w7063" t="det" cr="det:w7063" w="the" l="~" p="Det"/>
+     <dpg d="w7063" g="w7061" t="pred" cr="pred:w7061" w="case" l="~" p="N"/>
+     <dpg d="w7064" g="w7063" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w7065" g="w7064" t="pcomp-n" cr="mod*for*n:w7063" w="many" l="~" p="N"/>
+     <dpg d="w7066" g="w7065" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w7067" g="w7068" t="mod" cr="mod:w7068" w="classic" l="~" p="A"/>
+     <dpg d="w7068" g="w7066" t="pcomp-n" cr="mod*of*n:w7065" w="cadherins" l="~" p="N"/>
+     <dpg d="w7069" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

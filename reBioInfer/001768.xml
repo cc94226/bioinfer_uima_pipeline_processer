@@ -1,0 +1,90 @@
+<rexml>
+<doc id="1768">
+  <text>
+<p><s id="s1"><w id="w28188">The</w> <w id="w28189">sites</w> <w id="w28190">on</w> <w id="w28191">the</w> <w id="w28192">myosin</w> <w id="w28193">heavy</w> <w id="w28194">chain</w> <w id="w28195">that</w> <w id="w28196">interact</w> <w id="w28197">with</w> <w id="w28198">actin</w> <w id="w28199">and</w> <w id="w28200">are</w> <w id="w28201">responsible</w> <w id="w28202">for</w> <w id="w28203">force</w> <w id="w28204">generation</w> <w id="w28205">are</w> <w id="w28206">ill-defined</w> <w id="w28207">:</w> <w id="w28208">crosslinking</w> <w id="w28209">and</w> <w id="w28210">experiments</w> <w id="w28211">with</w> <w id="w28212">isolated</w> <w id="w28213">domains</w> <w id="w28214">of</w> <w id="w28215">the</w> <w id="w28216">myosin</w> <w id="w28217">head</w> <w id="w28218">implicate</w> <w id="w28219">regions</w> <w id="w28220">in</w> <w id="w28221">both</w> <w id="w28222">the</w> <w id="w28223">50K</w> <w id="w28224">and</w> <w id="w28225">20K</w> <w id="w28226">(</w> <w id="w28227">molecular</w> <w id="w28228">weights</w> <w id="w28229">in</w> <w id="w28230">thousands</w> <w id="w28231">)</w> <w id="w28232">domains</w> <w id="w28233">of</w> <w id="w28234">the</w> <w id="w28235">myosin</w> <w id="w28236">head</w> <w id="w28237">(</w> <w id="w28238">subfragment</w> <w id="w28239">1</w> <w id="w28240">,</w> <w id="w28241">S1</w> <w id="w28242">)</w> <w id="w28243">in</w> <w id="w28244">this</w> <w id="w28245">process</w> <w id="w28246">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6518" gid="g6220" t="Substructure_of_protein" fr="w28189" to="w28194" nam="yes">
+     <textspan type="extent">sites on the myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1768.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6519" gid="g6221" t="RELATIONSHIP_TEXTBINDING" fr="w28196" to="w28197">
+     <textspan type="extent">interact with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1768.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6520" gid="g6222" t="Gene/protein/RNA" fr="w28216" to="w28216" nam="yes">
+     <textspan type="extent">myosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1768.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6521" gid="g6223" t="Individual_protein" fr="w28198" to="w28198" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1768.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6522" gid="g6224" t="Gene/protein/RNA" fr="w28235" to="w28235" nam="yes">
+     <textspan type="extent">myosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1768.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6523" gid="g6225" t="Individual_protein" fr="w28192" to="w28194" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1768.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2511" t="INTERACT" e1="e6518" e2="e6521" re="e6519">
+     <textspan type="extent">sites on the myosin heavy chain that interact with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1768.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

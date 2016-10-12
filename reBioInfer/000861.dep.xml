@@ -1,0 +1,67 @@
+<rexml>
+<doc id="861">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E9" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w13361" g="E9" t="p" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w13362" g="w13363" t="det" cr="det:w13363" w="this" l="~" p="Det"/>
+     <dpg d="w13363" g="w13361" t="pcomp-n" cr="p*in*n:E9" w="actin" l="~" p="N"/>
+     <dpg d="E4" g="E9" t="UNSPECRELTYPE" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E7" g="E4" t="s" cr="s+subj:w13364" w="" l="~" p="N"/>
+     <dpg d="w13364" g="E4" t="i" cr="UNSPECRELTYPE:E9" w="clustering" l="cluster" p="V"/>
+     <dpg d="E10" g="w13364" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E10" g="E7" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w13365" g="E9" t="punc" cr="punc:E9" w="," l="~" p="U"/>
+     <dpg d="E3" g="E9" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13366" g="w13384" t="s" cr="s+obj:w13384||s:w13386||subj:w13387" w="profilin" l="~" p="N"/>
+     <dpg d="w13367" g="w13366" t="punc" cr="punc:w13366" w="," l="~" p="U"/>
+     <dpg d="w13368" g="w13371" t="det" cr="det:w13371" w="a" l="~" p="Det"/>
+     <dpg d="w13369" g="w13371" t="mod" cr="mod:w13371" w="monomeric" l="~" p="A"/>
+     <dpg d="w13370" g="w13371" t="mod" cr="mod:w13371" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w13371" g="w13366" t="appo" cr="appo:w13366||obj:w13375" w="protein" l="~" p="N"/>
+     <dpg d="E2" g="w13371" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13372" g="E2" t="whn" cr="whn:w13375" w="that" l="~" p="THAT"/>
+     <dpg d="w13372" g="w13371" t="antecedent" cr="antecedent:w13371" w="that" l="~" p="THAT"/>
+     <dpg d="w13373" g="w13375" t="have" cr="have:w13375" w="has" l="have" p="have"/>
+     <dpg d="w13374" g="w13375" t="be" cr="be:w13375" w="been" l="be" p="be"/>
+     <dpg d="w13375" g="E2" t="i" cr="rel:w13371" w="suggested" l="suggest" p="V"/>
+     <dpg d="E11" g="w13375" t="obj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E11" g="w13371" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E1" g="w13375" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E6" g="E1" t="s" cr="s+obj:w13378" w="" l="~" p="N"/>
+     <dpg d="w13376" g="w13378" t="aux" cr="aux:w13378" w="to" l="~" p="Aux"/>
+     <dpg d="w13377" g="w13378" t="be" cr="be:w13378" w="be" l="~" p="be"/>
+     <dpg d="w13378" g="E1" t="i" cr="mod:w13375" w="involved" l="involve" p="V"/>
+     <dpg d="E12" g="w13378" t="obj" cr="" w="" l="~" p="N"/>
+     <dpg d="E12" g="E6" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w13379" g="w13378" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w13380" g="w13381" t="nn" cr="nn:w13381" w="actin" l="~" p="N"/>
+     <dpg d="w13381" g="w13379" t="pcomp-n" cr="mod*in*n:w13378" w="polymerization" l="~" p="N"/>
+     <dpg d="w13382" g="w13384" t="punc" cr="punc:w13384" w="," l="~" p="U"/>
+     <dpg d="w13383" g="w13384" t="be" cr="be:w13384" w="was" l="be" p="be"/>
+     <dpg d="w13384" g="E3" t="i" cr="UNSPECRELTYPE:E9" w="shown" l="show" p="V"/>
+     <dpg d="E13" g="w13384" t="obj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E13" g="w13366" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E0" g="w13384" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E5" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w13366" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w13385" g="w13386" t="aux" cr="aux:w13386" w="to" l="~" p="Aux"/>
+     <dpg d="w13386" g="E0" t="i" cr="mod:w13384" w="be" l="~" p="VBE"/>
+     <dpg d="w13387" g="w13386" t="pred" cr="pred:w13386" w="essential" l="~" p="N"/>
+     <dpg d="E14" g="w13387" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E14" g="E5" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w13388" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

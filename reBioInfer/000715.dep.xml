@@ -1,0 +1,55 @@
+<rexml>
+<doc id="715">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11064" g="E0" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w11065" g="w11064" t="pcomp-n" cr="mod*in*n:w11068" w="addition" l="~" p="N"/>
+     <dpg d="w11066" g="E0" t="punc" cr="punc:w11068" w="," l="~" p="U"/>
+     <dpg d="w11067" g="w11068" t="s" cr="s+subj:w11068" w="we" l="~" p="N"/>
+     <dpg d="w11068" g="E0" t="i" cr="" w="performed" l="perform" p="V"/>
+     <dpg d="E2" g="w11068" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E2" g="w11067" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w11069" g="w11068" t="obj" cr="obj:w11068" w="immunohistochemistry" l="~" p="N"/>
+     <dpg d="w11070" g="w11069" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w11071" g="w11072" t="mod" cr="mod:w11072" w="sectioned" l="~" p="A"/>
+     <dpg d="w11072" g="w11070" t="pcomp-n" cr="mod*on*n:w11069" w="Myf-5" l="Myf-5" p="N"/>
+     <dpg d="w11073" g="w11072" t="punc" cr="punc:w11072" w="and" l="~" p="U"/>
+     <dpg d="w11074" g="w11076" t="nn" cr="nn:w11076" w="MyoD" l="~" p="N"/>
+     <dpg d="w11075" g="w11076" t="mod" cr="mod:w11076" w="mutant" l="~" p="A"/>
+     <dpg d="w11076" g="w11072" t="conj" cr="conj:w11072" w="embryos" l="embryo" p="N"/>
+     <dpg d="w11077" g="w11076" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w11078" g="w11077" t="pcomp-n" cr="mod*with*n:w11076" w="antibodies" l="antibody" p="N"/>
+     <dpg d="w11079" g="w11078" t="pnmod" cr="pnmod:w11078" w="reactive" l="~" p="A"/>
+     <dpg d="w11080" g="w11079" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w11081" g="w11080" t="pcomp-n" cr="mod*with*n:w11079" w="desmin" l="~" p="N"/>
+     <dpg d="w11082" g="w11081" t="punc" cr="punc:w11081" w="," l="~" p="U"/>
+     <dpg d="w11083" g="w11081" t="conj" cr="conj:w11081" w="nestin" l="~" p="N"/>
+     <dpg d="w11084" g="w11083" t="punc" cr="punc:w11083" w="," l="~" p="U"/>
+     <dpg d="w11085" g="w11087" t="nn" cr="nn:w11087" w="myosin" l="~" p="N"/>
+     <dpg d="w11086" g="w11087" t="mod" cr="mod:w11087" w="heavy" l="~" p="A"/>
+     <dpg d="w11087" g="w11083" t="conj" cr="conj:w11083" w="chain" l="~" p="N"/>
+     <dpg d="w11088" g="w11087" t="punc" cr="punc:w11087" w="," l="~" p="U"/>
+     <dpg d="w11089" g="w11090" t="mod" cr="mod:w11090" w="sarcomeric" l="~" p="A"/>
+     <dpg d="w11090" g="w11087" t="conj" cr="conj:w11087" w="actin" l="~" p="N"/>
+     <dpg d="w11091" g="w11090" t="punc" cr="punc:w11090" w="," l="~" p="U"/>
+     <dpg d="w11092" g="w11090" t="conj" cr="conj:w11090" w="Myf-5" l="Myf-5" p="N"/>
+     <dpg d="w11093" g="w11092" t="punc" cr="punc:w11092" w="," l="~" p="U"/>
+     <dpg d="w11094" g="w11092" t="conj" cr="conj:w11092" w="MyoD" l="~" p="N"/>
+     <dpg d="w11095" g="w11094" t="punc" cr="punc:w11094" w="and" l="~" p="U"/>
+     <dpg d="w11096" g="w11094" t="conj" cr="conj:w11094" w="myogenin" l="~" p="N"/>
+     <dpg d="w11097" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

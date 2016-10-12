@@ -1,0 +1,106 @@
+<rexml>
+<doc id="968">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w15079" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w15146" w="METHODS" l="method" p="N"/>
+     <dpg d="w15080" g="w15079" t="punc" cr="punc:w15079" w="AND" l="~" p="U"/>
+     <dpg d="w15081" g="w15079" t="conj" cr="conj:w15079" w="RESULTS" l="~" p="N"/>
+     <dpg d="w15082" g="E3" t="punc" cr="punc:w15146" w=":" l="~" p="U"/>
+     <dpg d="w15083" g="w15085" t="det" cr="det:w15085" w="The" l="~" p="Det"/>
+     <dpg d="w15084" g="w15085" t="mod" cr="mod:w15085" w="frequency-dependent" l="frequency-dependent" p="A"/>
+     <dpg d="w15085" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w15146" w="effects" l="effect" p="N"/>
+     <dpg d="w15086" g="w15085" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15087" g="w15089" t="nn" cr="nn:w15089" w="iodotubercidin" l="~" p="N"/>
+     <dpg d="w15088" g="w15089" t="punc" cr="punc:w15089" w="(" l="~" p="U"/>
+     <dpg d="w15089" g="w15086" t="pcomp-n" cr="mod*of*n:w15085" w="ITU" l="~" p="N"/>
+     <dpg d="w15090" g="w15089" t="punc" cr="punc:w15089" w="," l="~" p="U"/>
+     <dpg d="w15091" g="w15092" t="det" cr="det:w15092" w="an" l="~" p="Det"/>
+     <dpg d="w15092" g="w15089" t="appo" cr="appo:w15089" w="inhibitor" l="~" p="N"/>
+     <dpg d="w15093" g="w15092" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15094" g="w15095" t="nn" cr="nn:w15095" w="adenosine" l="~" p="N"/>
+     <dpg d="w15095" g="w15093" t="pcomp-n" cr="mod*of*n:w15092" w="kinase" l="~" p="N"/>
+     <dpg d="w15096" g="E3" t="punc" cr="punc:w15146" w=")" l="~" p="U"/>
+     <dpg d="w15097" g="E3" t="punc" cr="punc:w15146" w="," l="~" p="U"/>
+     <dpg d="w15098" g="w15100" t="nn" cr="nn:w15100" w="erythro-9-(2-hydroxy-3-nonyl)adenine" l="~" p="N"/>
+     <dpg d="w15099" g="w15100" t="punc" cr="punc:w15100" w="(" l="~" p="U"/>
+     <dpg d="w15100" g="E3" t="subclass" cr="subclass:w15146" w="EHNA" l="~" p="N"/>
+     <dpg d="w15101" g="w15100" t="punc" cr="punc:w15100" w="," l="~" p="U"/>
+     <dpg d="w15102" g="w15103" t="det" cr="det:w15103" w="an" l="~" p="Det"/>
+     <dpg d="w15103" g="w15100" t="appo" cr="appo:w15100" w="inhibitor" l="~" p="N"/>
+     <dpg d="w15104" g="w15103" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15105" g="w15109" t="nn" cr="nn:w15109" w="adenosine" l="~" p="N"/>
+     <dpg d="w15106" g="w15109" t="nn" cr="nn:w15109" w="deaminase" l="~" p="N"/>
+     <dpg d="w15107" g="w15109" t="punc" cr="punc:w15109" w=")" l="~" p="U"/>
+     <dpg d="w15108" g="w15109" t="punc" cr="punc:w15109" w="," l="~" p="U"/>
+     <dpg d="w15109" g="w15104" t="pcomp-n" cr="mod*of*n:w15103" w="draflazine" l="~" p="N"/>
+     <dpg d="w15110" g="w15109" t="punc" cr="punc:w15109" w="(" l="~" p="U"/>
+     <dpg d="w15111" g="w15114" t="det" cr="det:w15114" w="a" l="~" p="Det"/>
+     <dpg d="w15112" g="w15114" t="nn" cr="nn:w15114" w="nucleoside" l="~" p="N"/>
+     <dpg d="w15113" g="w15114" t="nn" cr="nn:w15114" w="transport" l="~" p="N"/>
+     <dpg d="w15114" g="w15109" t="appo" cr="appo:w15109" w="blocker" l="~" p="N"/>
+     <dpg d="w15115" g="w15114" t="punc" cr="punc:w15114" w=")" l="~" p="U"/>
+     <dpg d="w15116" g="w15114" t="punc" cr="punc:w15114" w="," l="~" p="U"/>
+     <dpg d="w15117" g="w15114" t="punc" cr="punc:w15114" w="and" l="~" p="U"/>
+     <dpg d="w15118" g="w15114" t="conj" cr="conj:w15114" w="PD81,723" l="~" p="N"/>
+     <dpg d="w15119" g="w15114" t="punc" cr="punc:w15114" w="(" l="~" p="U"/>
+     <dpg d="w15120" g="w15122" t="det" cr="det:w15122" w="an" l="~" p="Det"/>
+     <dpg d="w15121" g="w15122" t="mod" cr="mod:w15122" w="allosteric" l="~" p="A"/>
+     <dpg d="w15122" g="w15114" t="appo" cr="appo:w15114" w="enhancer" l="~" p="N"/>
+     <dpg d="w15123" g="w15122" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15124" g="w15127" t="det" cr="det:w15127" w="the" l="~" p="Det"/>
+     <dpg d="w15125" g="w15127" t="nn" cr="nn:w15127" w="A1" l="~" p="N"/>
+     <dpg d="w15126" g="w15127" t="nn" cr="nn:w15127" w="adenosine" l="~" p="N"/>
+     <dpg d="w15127" g="w15123" t="pcomp-n" cr="mod*of*n:w15122||s+subj:w15128" w="receptor" l="~" p="N"/>
+     <dpg d="E0" g="w15127" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E1" g="w15127" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w15128" g="E0" t="i" cr="rel:w15127" w="binding" l="bind" p="V"/>
+     <dpg d="E4" g="w15128" t="subj" cr="" w="" l="receptor" p="N"/>
+     <dpg d="E4" g="E1" t="antecedent" cr="" w="" l="receptor" p="N"/>
+     <dpg d="w15129" g="w15128" t="punc" cr="punc:w15128" w=")" l="~" p="U"/>
+     <dpg d="w15130" g="w15128" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w15131" g="w15137" t="det" cr="det:w15137" w="the" l="~" p="Det"/>
+     <dpg d="w15132" g="w15137" t="nn" cr="nn:w15137" w="stimulus-to-His" l="stimulus-to-His" p="N"/>
+     <dpg d="w15133" g="w15137" t="nn" cr="nn:w15137" w="bundle" l="~" p="N"/>
+     <dpg d="w15134" g="w15137" t="punc" cr="punc:w15137" w="(" l="~" p="U"/>
+     <dpg d="w15135" g="w15137" t="nn" cr="nn:w15137" w="SH" l="~" p="N"/>
+     <dpg d="w15136" g="w15137" t="punc" cr="punc:w15137" w=")" l="~" p="U"/>
+     <dpg d="w15137" g="w15130" t="pcomp-n" cr="mod*on*n:w15128" w="interval" l="~" p="N"/>
+     <dpg d="w15138" g="w15137" t="punc" cr="punc:w15137" w="," l="~" p="U"/>
+     <dpg d="w15139" g="w15140" t="det" cr="det:w15140" w="a" l="~" p="Det"/>
+     <dpg d="w15140" g="w15137" t="appo" cr="appo:w15137" w="measure" l="~" p="N"/>
+     <dpg d="w15141" g="w15140" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15142" g="w15144" t="nn" cr="nn:w15144" w="AV" l="~" p="N"/>
+     <dpg d="w15143" g="w15144" t="mod" cr="mod:w15144" w="nodal" l="~" p="A"/>
+     <dpg d="w15144" g="w15141" t="pcomp-n" cr="mod*of*n:w15140" w="conduction" l="~" p="N"/>
+     <dpg d="w15145" g="E3" t="punc" cr="punc:w15146" w="," l="~" p="U"/>
+     <dpg d="w15146" g="E3" t="i" cr="" w="were" l="be" p="VBE"/>
+     <dpg d="w15147" g="w15146" t="pred" cr="pred:w15146" w="determined" l="~" p="A"/>
+     <dpg d="w15148" g="w15147" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w15149" g="w15150" t="lex-mod" cr="lex-mod:w15150" w="guinea" l="~" p="U"/>
+     <dpg d="w15150" g="w15151" t="nn" cr="nn:w15151" w="pig" l="guinea pig" p="N"/>
+     <dpg d="w15151" g="w15148" t="pcomp-n" cr="mod*in*n:w15147" w="hearts" l="heart" p="N"/>
+     <dpg d="w15152" g="w15146" t="punc" cr="punc:w15146" w="and" l="~" p="U"/>
+     <dpg d="w15153" g="w15146" t="conj" cr="conj:w15146" w="compared" l="compare" p="V"/>
+     <dpg d="w15154" g="w15153" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w15155" g="w15154" t="pcomp-n" cr="mod*with*n:w15153" w="those" l="~" p="N"/>
+     <dpg d="w15156" g="w15155" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15157" g="w15156" t="pcomp-n" cr="mod*of*n:w15155" w="adenosine" l="~" p="N"/>
+     <dpg d="w15158" g="w15157" t="punc" cr="punc:w15157" w="and" l="~" p="U"/>
+     <dpg d="w15159" g="w15157" t="conj" cr="conj:w15157" w="diltiazem" l="~" p="N"/>
+     <dpg d="w15160" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

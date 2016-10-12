@@ -1,0 +1,125 @@
+<rexml>
+<doc id="590">
+  
+  <markup>
+   <nes>
+    <ne id="e1995" gid="g1912" t="Individual_protein" fr="w8476" to="w8476" nam="yes" sid="s1">
+     <textspan>EID-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.590.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1999" gid="g1912" t="Individual_protein" fr="w8488" to="w8488" nam="yes" sid="s1">
+     <textspan>its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.590.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1998" gid="g1915" t="Individual_protein" fr="w8492" to="w8492" nam="yes" sid="s1">
+     <textspan>p300</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.590.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2002" gid="g1916" t="Individual_protein" fr="w8500" to="w8501" nam="yes" sid="s1">
+     <textspan>CREB-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.590.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2000" gid="g1916" t="Individual_protein" fr="w8504" to="w8504" nam="yes" sid="s1">
+     <textspan>CBP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.590.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2001" gid="g1917" t="Protein_family_or_group" fr="w8506" to="w8506" nam="yes" sid="s1">
+     <textspan>histone</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.590.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r788" t="SIMILAR" e1="e1998" e2="e2002" re="e1997">
+     <textspan>p300 ( and the highly related molecule , CREB-binding protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.590.2"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r790" t="ACETYLATE" e1="e1998" e2="e2001" re="e2003">
+     <textspan>p300 ( and the highly related molecule , CREB-binding protein , or CBP ) histone acetylation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.590.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r792" t="ACETYLATE" e1="e2002" e2="e2001" re="e2003">
+     <textspan>CREB-binding protein , or CBP ) histone acetylation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.590.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

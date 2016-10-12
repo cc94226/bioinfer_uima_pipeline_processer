@@ -1,0 +1,166 @@
+<rexml>
+<doc id="534">
+  <text>
+<p><s id="s1"><w id="w7414">Furthermore</w> <w id="w7415">,</w> <w id="w7416">the</w> <w id="w7417">deletion</w> <w id="w7418">of</w> <w id="w7419">SJL1</w> <w id="w7420">suppresses</w> <w id="w7421">the</w> <w id="w7422">temperature-sensitive</w> <w id="w7423">growth</w> <w id="w7424">defect</w> <w id="w7425">of</w> <w id="w7426">sac6</w> <w id="w7427">,</w> <w id="w7428">a</w> <w id="w7429">mutant</w> <w id="w7430">in</w> <w id="w7431">yeast</w> <w id="w7432">fimbrin</w> <w id="w7433">,</w> <w id="w7434">supporting</w> <w id="w7435">a</w> <w id="w7436">role</w> <w id="w7437">for</w> <w id="w7438">synaptojanin</w> <w id="w7439">family</w> <w id="w7440">members</w> <w id="w7441">in</w> <w id="w7442">actin</w> <w id="w7443">function</w> <w id="w7444">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1758" gid="g1686" t="INACTIVATION" fr="w7417" to="w7419">
+     <textspan type="extent">deletion of SJL1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Full-stop"/>
+      <exattr n="t4" v="INACTIVATION"/>
+      <exattr n="bd" v="e.534.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1759" gid="g1687" t="RELATIONSHIP_TEXTBINDING" fr="w7420" to="w7420">
+     <textspan type="extent">suppresses</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.534.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1760" gid="g1688" t="Gene/protein/RNA" fr="w7432" to="w7432" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.534.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1761" gid="g1689" t="Function_property" fr="w7424" to="w7426">
+     <textspan type="extent">defect of sac6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.534.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1762" gid="g1690" t="Function_property" fr="w7442" to="w7443">
+     <textspan type="extent">actin function</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.534.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1763" gid="g1691" t="Individual_protein" fr="w7438" to="w7440" nam="yes">
+     <textspan type="extent">synaptojanin family members</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.534.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1764" gid="g1692" t="Protein_family_or_group" fr="w7438" to="w7439" nam="yes">
+     <textspan type="extent">synaptojanin family</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.534.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1765" gid="g1693" t="Gene" fr="w7419" to="w7419" nam="yes">
+     <textspan type="extent">SJL1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.534.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1766" gid="g1694" t="RELATIONSHIP_TEXTBINDING" fr="w7436" to="w7441">
+     <textspan type="extent">role for [..] in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.534.8"/>
+      <exattr n="nst" v="st.534.22.0"/>
+      <exattr n="nst" v="st.534.23.0"/>
+      <exattr n="nst" v="st.534.27.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1767" gid="g1695" t="Gene" fr="w7426" to="w7426" nam="yes">
+     <textspan type="extent">sac6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.534.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e1768" gid="g1696" t="Individual_protein" fr="w7442" to="w7442" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.534.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e1769" gid="g1697" t="Protein_family_or_group" fr="w7438" to="w7438" nam="yes">
+     <textspan type="extent">synaptojanin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.534.11"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r692" t="SUPPRESS" e1="e1758" e2="e1761" re="e1759">
+     <textspan type="extent">deletion of SJL1 suppresses the temperature-sensitive growth defect of sac6</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.534.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r693" t="PARTICIPATE" e1="e1763" e2="e1762" re="e1766">
+     <textspan type="extent">role for synaptojanin family members in actin function</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.534.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

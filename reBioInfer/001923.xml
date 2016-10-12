@@ -1,0 +1,173 @@
+<rexml>
+<doc id="1923">
+  <text>
+<p><s id="s1"><w id="w31021">To</w> <w id="w31022">test</w> <w id="w31023">these</w> <w id="w31024">models</w> <w id="w31025">in</w> <w id="w31026">living</w> <w id="w31027">cells</w> <w id="w31028">using</w> <w id="w31029">imaging</w> <w id="w31030">techniques</w> <w id="w31031">,</w> <w id="w31032">we</w> <w id="w31033">prepared</w> <w id="w31034">a</w> <w id="w31035">new</w> <w id="w31036">fluorescent</w> <w id="w31037">analog</w> <w id="w31038">of</w> <w id="w31039">actin</w> <w id="w31040">that</w> <w id="w31041">bound</w> <w id="w31042">profilin</w> <w id="w31043">,</w> <w id="w31044">a</w> <w id="w31045">protein</w> <w id="w31046">that</w> <w id="w31047">interacts</w> <w id="w31048">with</w> <w id="w31049">phosphoinositides</w> <w id="w31050">and</w> <w id="w31051">actin</w><w id="w31052">-monomers</w> <w id="w31053">in</w> <w id="w31054">a</w> <w id="w31055">mutually</w> <w id="w31056">exclusive</w> <w id="w31057">manner</w> <w id="w31058">,</w> <w id="w31059">with</w> <w id="w31060">an</w> <w id="w31061">order</w> <w id="w31062">of</w> <w id="w31063">magnitude</w> <w id="w31064">greater</w> <w id="w31065">affinity</w> <w id="w31066">(</w> <w id="w31067">Kd</w> <w id="w31068">=</w> <w id="w31069">3.6</w> <w id="w31070">microM</w> <w id="w31071">)</w> <w id="w31072">than</w> <w id="w31073">cys-374-labeled</w> <w id="w31074">actin</w> <w id="w31075">(</w> <w id="w31076">Kd</w> <w id="w31077">&gt;</w> <w id="w31078">30</w> <w id="w31079">microM</w> <w id="w31080">)</w> <w id="w31081">,</w> <w id="w31082">yet</w> <w id="w31083">retained</w> <w id="w31084">the</w> <w id="w31085">ability</w> <w id="w31086">to</w> <w id="w31087">inhibit</w> <w id="w31088">DNase</w> <w id="w31089">I</w> <w id="w31090">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7126" gid="g6803" t="Analog" fr="w31037" to="w31039" nam="yes">
+     <textspan type="extent">analog of actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Analog"/>
+      <exattr n="bd" v="e.1923.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7127" gid="g6804" t="RELATIONSHIP_TEXTBINDING" fr="w31041" to="w31072">
+     <textspan type="extent">bound [..] than</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1923.1"/>
+      <exattr n="nst" v="st.1923.20.0"/>
+      <exattr n="nst" v="st.1923.50.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7128" gid="g6805" t="RELATIONSHIP_TEXTBINDING" fr="w31041" to="w31041">
+     <textspan type="extent">bound</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1923.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7129" gid="g6806" t="Individual_protein" fr="w31042" to="w31042" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1923.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7130" gid="g6807" t="Individual_protein" fr="w31088" to="w31089" nam="yes">
+     <textspan type="extent">DNase I</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1923.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7131" gid="g6808" t="Individual_protein" fr="w31074" to="w31074" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1923.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7132" gid="g6809" t="Individual_protein" fr="w31051" to="w31052" nam="yes">
+     <textspan type="extent">actin-monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1923.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7133" gid="g6810" t="Individual_protein" fr="w31039" to="w31039" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1923.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7134" gid="g6811" t="RELATIONSHIP_TEXTBINDING" fr="w31047" to="w31048">
+     <textspan type="extent">interacts with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1923.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e7135" gid="g6812" t="Individual_protein" fr="w31051" to="w31051" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1923.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e7136" gid="g6813" t="RELATIONSHIP_TEXTBINDING" fr="w31087" to="w31087">
+     <textspan type="extent">inhibit</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1923.10"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2723" t="BIND" e1="e7129" e2="e7132" re="e7134">
+     <textspan type="extent">profilin , a protein that interacts with phosphoinositides and actin -monomers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1923.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2724" t="BIND" e1="e7131" e2="e7129" re="e7127">
+     <textspan type="extent">bound profilin , a protein that interacts with phosphoinositides and actin -monomers in a mutually exclusive manner , with an order of magnitude greater affinity ( Kd = 3.6 microM ) than cys-374-labeled actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1923.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2725" t="BIND" e1="e7126" e2="e7129" re="e7128">
+     <textspan type="extent">analog of actin that bound profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1923.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2726" t="INHIBIT" e1="e7126" e2="e7130" re="e7136">
+     <textspan type="extent">analog of actin that bound profilin , a protein that interacts with phosphoinositides and actin -monomers in a mutually exclusive manner , with an order of magnitude greater affinity ( Kd = 3.6 microM ) than cys-374-labeled actin ( Kd &gt; 30 microM ) , yet retained the ability to inhibit DNase I</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1923.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="INHIBIT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

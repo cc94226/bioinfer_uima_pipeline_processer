@@ -1,0 +1,151 @@
+<rexml>
+<doc id="614">
+  <text>
+<p><s id="s1"><w id="w9037">HGF</w><w id="w9038">/</w><w id="w9039">SF</w> <w id="w9040">treatment</w> <w id="w9041">of</w> <w id="w9042">LoVo</w> <w id="w9043">reduced</w> <w id="w9044">the</w> <w id="w9045">amount</w> <w id="w9046">of</w> <w id="w9047">alpha-catenin</w> <w id="w9048">complexed</w> <w id="w9049">with</w> <w id="w9050">E-cadherin</w> <w id="w9051">more</w> <w id="w9052">markedly</w> <w id="w9053">than</w> <w id="w9054">in</w> <w id="w9055">L-10</w> <w id="w9056">,</w> <w id="w9057">but</w> <w id="w9058">in</w> <w id="w9059">both</w> <w id="w9060">cell</w> <w id="w9061">lines</w> <w id="w9062">this</w> <w id="w9063">reduction</w> <w id="w9064">was</w> <w id="w9065">not</w> <w id="w9066">accompanied</w> <w id="w9067">by</w> <w id="w9068">increased</w> <w id="w9069">tyrosine</w> <w id="w9070">phosphorylation</w> <w id="w9071">of</w> <w id="w9072">beta-catenin</w> <w id="w9073">,</w> <w id="w9074">suggesting</w> <w id="w9075">the</w> <w id="w9076">presence</w> <w id="w9077">of</w> <w id="w9078">a</w> <w id="w9079">mechanism</w> <w id="w9080">other</w> <w id="w9081">than</w> <w id="w9082">phosphorylation</w> <w id="w9083">for</w> <w id="w9084">release</w> <w id="w9085">from</w> <w id="w9086">cell-cell</w> <w id="w9087">adhesion</w> <w id="w9088">during</w> <w id="w9089">cell</w> <w id="w9090">motility</w> <w id="w9091">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2154" gid="g2063" t="Individual_protein" fr="w9037" to="w9037" nam="yes">
+     <textspan type="extent">HGF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.614.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2155" gid="g2064" t="RELATIONSHIP_TEXTBINDING" fr="w9043" to="w9043">
+     <textspan type="extent">reduced</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.614.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2156" gid="g2065" t="Individual_protein" fr="w9050" to="w9050" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.614.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2157" gid="g2066" t="Individual_protein" fr="w9047" to="w9047" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.614.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2158" gid="g2063" t="Individual_protein" fr="w9039" to="w9039" nam="yes">
+     <textspan type="extent">SF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.614.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2159" gid="g2067" t="Gene/protein/RNA" fr="w9072" to="w9072" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.614.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2160" gid="g2068" t="Protein_complex" fr="w9047" to="w9050" nam="yes">
+     <textspan type="extent">alpha-catenin complexed with E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.614.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2161" gid="g2069" t="RELATIONSHIP_TEXTBINDING" fr="w9048" to="w9049">
+     <textspan type="extent">complexed with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.614.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2162" gid="g2070" t="Amount_property" fr="w9045" to="w9050">
+     <textspan type="extent">amount of alpha-catenin complexed with E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.614.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e2163" gid="g2071" t="Artificial" fr="w9037" to="w9040" nam="yes">
+     <textspan type="extent">HGF [..] treatment</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Artificial"/>
+      <exattr n="bd" v="e.614.9"/>
+      <exattr n="nst" v="st.614.0.0"/>
+      <exattr n="nst" v="st.614.1.0"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r847" t="DECREASE" e1="e2163" e2="e2162" re="e2155">
+     <textspan type="extent">HGF / SF treatment of LoVo reduced the amount of alpha-catenin complexed with E-cadherin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.614.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Amount"/>
+      <exattr n="t4" v="DECREASE"/>
+     </exattrs>
+    </rel>
+    <rel id="r848" t="CONTAIN" e1="e2160" e2="e2157" re="e2161">
+     <textspan type="extent">alpha-catenin complexed with E-cadherin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.614.7"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r849" t="CONTAIN" e1="e2160" e2="e2156" re="e2161">
+     <textspan type="extent">alpha-catenin complexed with E-cadherin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.614.7"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

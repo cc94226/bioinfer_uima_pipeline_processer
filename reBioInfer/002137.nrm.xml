@@ -1,0 +1,190 @@
+<rexml>
+<doc id="2137">
+  
+  <markup>
+   <nes>
+    <ne id="e7597" gid="g7240" t="Individual_protein" fr="w33339" to="w33339" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2137.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7601" gid="g7240" t="Individual_protein" fr="w33347" to="w33347" nam="yes" sid="s1">
+     <textspan>its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2137.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7602" gid="g7244" t="Individual_protein" fr="w33349" to="w33357" nam="yes" sid="s1">
+     <textspan>proteins [..] profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2137.5"/>
+      <exattr n="nst" v="st.2137.14.0"/>
+      <exattr n="nst" v="st.2137.22.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7599" gid="g7242" t="Individual_protein" fr="w33349" to="w33354" nam="yes" sid="s1">
+     <textspan>proteins [..] cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2137.2"/>
+      <exattr n="nst" v="st.2137.14.0"/>
+      <exattr n="nst" v="st.2137.19.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7600" gid="g7243" t="Individual_protein" fr="w33349" to="w33352" nam="yes" sid="s1">
+     <textspan>proteins actin depolymerizing factor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2137.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7604" gid="g7246" t="Individual_protein" fr="w33350" to="w33352" nam="yes" sid="s1">
+     <textspan>actin depolymerizing factor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2137.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7605" gid="g7247" t="Individual_protein" fr="w33354" to="w33354" nam="yes" sid="s1">
+     <textspan>cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2137.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e7606" gid="g7248" t="Individual_protein" fr="w33357" to="w33357" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2137.9"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2922" t="BIND" e1="e7601" e2="e7600" re="e7603">
+     <textspan>its associated proteins actin depolymerizing factor</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2137.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2923" t="BIND" e1="e7601" e2="e7599" re="e7603">
+     <textspan>its associated proteins actin depolymerizing factor , cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2137.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2924" t="BIND" e1="e7601" e2="e7602" re="e7603">
+     <textspan>its associated proteins actin depolymerizing factor , cofilin , and profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2137.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2925" t="COLOCALIZE" e1="e7597" e2="e7600" re="e7598">
+     <textspan>actin is transported in an unassembled form with its associated proteins actin depolymerizing factor</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2137.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2926" t="COLOCALIZE" e1="e7597" e2="e7599" re="e7598">
+     <textspan>actin is transported in an unassembled form with its associated proteins actin depolymerizing factor , cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2137.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2927" t="COLOCALIZE" e1="e7597" e2="e7602" re="e7598">
+     <textspan>actin is transported in an unassembled form with its associated proteins actin depolymerizing factor , cofilin , and profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2137.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

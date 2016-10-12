@@ -1,0 +1,47 @@
+<rexml>
+<doc id="363">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5426" g="w5427" t="nn" cr="nn:w5427" w="Cytoplasmic" l="~" p="N"/>
+     <dpg d="w5427" g="w5428" t="s" cr="s+subj:w5428" w="staining" l="~" p="N"/>
+     <dpg d="w5428" g="E0" t="i" cr="UNSPECRELTYPE:w5444" w="included" l="include" p="V"/>
+     <dpg d="E3" g="w5428" t="subj" cr="" w="" l="staining" p="N"/>
+     <dpg d="E3" g="w5427" t="antecedent" cr="" w="" l="staining" p="N"/>
+     <dpg d="w5429" g="w5430" t="nn" cr="nn:w5430" w="stress" l="~" p="N"/>
+     <dpg d="w5430" g="w5428" t="obj" cr="obj:w5428" w="fibers" l="fiber" p="N"/>
+     <dpg d="w5431" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w5444" w="that" l="~" p="N"/>
+     <dpg d="w5432" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w5444" w="colocalized" l="~" p="A"/>
+     <dpg d="w5433" g="w5432" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w5434" g="w5433" t="pcomp-n" cr="mod*with*n:w5432" w="actin" l="~" p="N"/>
+     <dpg d="w5435" g="E2" t="punc" cr="punc:w5444" w="," l="~" p="U"/>
+     <dpg d="w5436" g="w5444" t="mod-before" cr="mod-before:w5444" w="probably" l="~" p="A"/>
+     <dpg d="w5437" g="w5436" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w5438" g="w5439" t="det" cr="det:w5439" w="a" l="~" p="Det"/>
+     <dpg d="w5439" g="w5437" t="pcomp-n" cr="mod*as*n:w5436" w="consequence" l="~" p="N"/>
+     <dpg d="w5440" g="w5439" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5441" g="w5442" t="det" cr="det:w5442" w="the" l="~" p="Det"/>
+     <dpg d="w5442" g="w5440" t="pcomp-n" cr="mod*of*n:w5439" w="myosin" l="~" p="N"/>
+     <dpg d="w5443" g="w5444" t="amod" cr="amod:w5444" w="heavy" l="~" p="A"/>
+     <dpg d="w5444" g="E2" t="i" cr="" w="chain" l="~" p="V"/>
+     <dpg d="w5445" g="w5444" t="obj" cr="obj:w5444" w="component" l="~" p="N"/>
+     <dpg d="w5446" g="w5445" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5447" g="w5449" t="det" cr="det:w5449" w="the" l="~" p="Det"/>
+     <dpg d="w5448" g="w5449" t="nn" cr="nn:w5449" w="fusion" l="~" p="N"/>
+     <dpg d="w5449" g="w5446" t="pcomp-n" cr="mod*of*n:w5445" w="protein" l="~" p="N"/>
+     <dpg d="w5450" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

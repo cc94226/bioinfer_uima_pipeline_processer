@@ -1,0 +1,35 @@
+<rexml>
+<doc id="254">
+  <text>
+<p><s id="s1"><w id="w3851">Both</w> <w id="w3852">pathway</w> <w id="w3853">cells</w> <w id="w3854">and</w> <w id="w3855">superior</w> <w id="w3856">tarsal</w> <w id="w3857">smooth</w> <w id="w3858">muscle</w> <w id="w3859">cells</w> <w id="w3860">expressed</w> <w id="w3861">alpha-smooth</w> <w id="w3862">muscle</w> <w id="w3863">actin</w> <w id="w3864">and</w> <w id="w3865">smooth</w> <w id="w3866">muscle</w> <w id="w3867">myosin</w> <w id="w3868">heavy</w> <w id="w3869">chain</w> <w id="w3870">throughout</w> <w id="w3871">development</w> <w id="w3872">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e948" gid="g908" t="Gene/protein/RNA" fr="w3861" to="w3863" nam="yes">
+     <textspan type="extent">alpha-smooth muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.254.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e949" gid="g909" t="Gene/protein/RNA" fr="w3865" to="w3869" nam="yes">
+     <textspan type="extent">smooth muscle myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.254.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

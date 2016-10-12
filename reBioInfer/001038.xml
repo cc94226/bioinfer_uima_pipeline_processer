@@ -1,0 +1,202 @@
+<rexml>
+<doc id="1038">
+  <text>
+<p><s id="s1"><w id="w16411">N-formyl</w> <w id="w16412">peptide</w> <w id="w16413">chemoattractants</w> <w id="w16414">in</w> <w id="w16415">neutrophils</w> <w id="w16416">stimulate</w> <w id="w16417">the</w> <w id="w16418">formation</w> <w id="w16419">of</w> <w id="w16420">phosphatidylinositol-4,5-bisphosphate</w> <w id="w16421">(</w> <w id="w16422">PIP2</w> <w id="w16423">)</w> <w id="w16424">,</w> <w id="w16425">a</w> <w id="w16426">reservoir</w> <w id="w16427">for</w> <w id="w16428">second</w> <w id="w16429">messenger</w> <w id="w16430">molecules</w> <w id="w16431">and</w> <w id="w16432">regulator</w> <w id="w16433">of</w> <w id="w16434">actin</w> <w id="w16435">assembly</w> <w id="w16436">through</w> <w id="w16437">its</w> <w id="w16438">association</w> <w id="w16439">with</w> <w id="w16440">the</w> <w id="w16441">actin-binding</w> <w id="w16442">proteins</w> <w id="w16443">,</w> <w id="w16444">profilin</w> <w id="w16445">,</w> <w id="w16446">and</w> <w id="w16447">gelsolin</w> <w id="w16448">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3739" gid="g3585" t="RELATIONSHIP_TEXTBINDING" fr="w16432" to="w16433">
+     <textspan type="extent">regulator of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1038.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3740" gid="g3586" t="Individual_protein" fr="w16434" to="w16434" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1038.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3741" gid="g3587" t="RELATIONSHIP_TEXTBINDING" fr="w16438" to="w16439">
+     <textspan type="extent">association with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1038.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3742" gid="g3588" t="RELATIONSHIP_TEXTBINDING" fr="w16436" to="w16436">
+     <textspan type="extent">through</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1038.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3743" gid="g3589" t="Other_organic_compounds" fr="w16420" to="w16420" nam="yes">
+     <textspan type="extent">phosphatidylinositol-4,5-bisphosphate</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Other_organic_compounds"/>
+      <exattr n="bd" v="e.1038.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3744" gid="g3590" t="Individual_protein" fr="w16447" to="w16447" nam="yes">
+     <textspan type="extent">gelsolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1038.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3745" gid="g3589" t="Other_organic_compounds" fr="w16437" to="w16437" nam="yes">
+     <textspan type="extent">its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Other_organic_compounds"/>
+      <exattr n="bd" v="e.1038.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3746" gid="g3591" t="ASSEMBLY" fr="w16434" to="w16435">
+     <textspan type="extent">actin assembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1038.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e3747" gid="g3592" t="Individual_protein" fr="w16444" to="w16444" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1038.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e3748" gid="g3593" t="Protein_family_or_group" fr="w16441" to="w16442" nam="yes">
+     <textspan type="extent">actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1038.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1413" t="MEMBER" e1="e3748" e2="e3747" re="">
+     <textspan type="extent">actin-binding proteins , profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1414" t="MEMBER" e1="e3748" e2="e3744" re="">
+     <textspan type="extent">actin-binding proteins , profilin , and gelsolin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1416" t="MEDIATE" e1="e3741" e2="e3739" re="e3742">
+     <textspan type="extent">phosphatidylinositol-4,5-bisphosphate ( PIP2 ) , a reservoir for second messenger molecules and regulator of actin assembly through its association with the actin-binding proteins , profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1038.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1417" t="BIND" e1="e3745" e2="e3747" re="e3741">
+     <textspan type="extent">its association with the actin-binding proteins , profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1038.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1418" t="CONTROL" e1="e3743" e2="e3746" re="e3739">
+     <textspan type="extent">phosphatidylinositol-4,5-bisphosphate ( PIP2 ) , a reservoir for second messenger molecules and regulator of actin assembly</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1038.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r1419" t="MEDIATE" e1="e3741" e2="e3739" re="e3742">
+     <textspan type="extent">phosphatidylinositol-4,5-bisphosphate ( PIP2 ) , a reservoir for second messenger molecules and regulator of actin assembly through its association with the actin-binding proteins , profilin , and gelsolin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1038.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1420" t="BIND" e1="e3745" e2="e3744" re="e3741">
+     <textspan type="extent">its association with the actin-binding proteins , profilin , and gelsolin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1038.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1421" t="CONTROL" e1="e3743" e2="e3746" re="e3739">
+     <textspan type="extent">phosphatidylinositol-4,5-bisphosphate ( PIP2 ) , a reservoir for second messenger molecules and regulator of actin assembly</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1038.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

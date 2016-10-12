@@ -1,0 +1,89 @@
+<rexml>
+<doc id="573">
+  <text>
+<p><s id="s1"><w id="w8229">Here</w> <w id="w8230">,</w> <w id="w8231">we</w> <w id="w8232">have</w> <w id="w8233">detected</w> <w id="w8234">a</w> <w id="w8235">polypeptide</w> <w id="w8236">in</w> <w id="w8237">rat</w> <w id="w8238">rod</w> <w id="w8239">outer</w> <w id="w8240">segments</w> <w id="w8241">that</w> <w id="w8242">is</w> <w id="w8243">recognized</w> <w id="w8244">by</w> <w id="w8245">myosin</w> <w id="w8246">heavy</w> <w id="w8247">chain</w> <w id="w8248">antibodies</w> <w id="w8249">and</w> <w id="w8250">was</w> <w id="w8251">found</w> <w id="w8252">to</w> <w id="w8253">possess</w> <w id="w8254">other</w> <w id="w8255">characteristics</w> <w id="w8256">of</w> <w id="w8257">conventional</w> <w id="w8258">non-muscle</w> <w id="w8259">myosin</w> <w id="w8260">heavy</w> <w id="w8261">chain</w> <w id="w8262">:</w> <w id="w8263">it</w> <w id="w8264">comigrates</w> <w id="w8265">in</w> <w id="w8266">SDS-PAGE</w> <w id="w8267">with</w> <w id="w8268">non-muscle</w> <w id="w8269">myosin</w> <w id="w8270">heavy</w> <w id="w8271">chain</w> <w id="w8272">;</w> <w id="w8273">it</w> <w id="w8274">associates</w> <w id="w8275">with</w> <w id="w8276">the</w> <w id="w8277">cytoskeleton</w> <w id="w8278">of</w> <w id="w8279">rod</w> <w id="w8280">outer</w> <w id="w8281">segments</w> <w id="w8282">in</w> <w id="w8283">an</w> <w id="w8284">ATP-sensitive</w> <w id="w8285">manner</w> <w id="w8286">;</w> <w id="w8287">and</w> <w id="w8288">it</w> <w id="w8289">binds</w> <w id="w8290">to</w> <w id="w8291">purified</w> <w id="w8292">actin</w> <w id="w8293">filaments</w> <w id="w8294">in</w> <w id="w8295">the</w> <w id="w8296">absence</w> <w id="w8297">of</w> <w id="w8298">ATP</w> <w id="w8299">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1937" gid="g1855" t="Gene/protein/RNA" fr="w8245" to="w8247" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.573.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1938" gid="g1856" t="RELATIONSHIP_TEXTBINDING" fr="w8255" to="w8290">
+     <textspan type="extent">characteristics of [..] binds to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.573.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1939" gid="g1857" t="Gene/protein/RNA" fr="w8268" to="w8271" nam="yes">
+     <textspan type="extent">non-muscle myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.573.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1940" gid="g1858" t="Individual_protein" fr="w8258" to="w8261" nam="yes">
+     <textspan type="extent">non-muscle myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.573.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1941" gid="g1859" t="Cell_component" fr="w8292" to="w8293" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.573.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1942" gid="g1860" t="Individual_protein" fr="w8292" to="w8292" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.573.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r759" t="BIND" e1="e1940" e2="e1941" re="e1938">
+     <textspan type="extent">characteristics of conventional non-muscle myosin heavy chain : it comigrates in SDS-PAGE with non-muscle myosin heavy chain ; it associates with the cytoskeleton of rod outer segments in an ATP-sensitive manner ; and it binds to purified actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.573.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

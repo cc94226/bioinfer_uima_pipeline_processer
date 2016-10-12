@@ -1,0 +1,187 @@
+<rexml>
+<doc id="1748">
+  <text>
+<p><s id="s1"><w id="w27816">These</w> <w id="w27817">results</w> <w id="w27818">suggest</w> <w id="w27819">that</w> <w id="w27820">LIMK2</w> <w id="w27821">functions</w> <w id="w27822">downstream</w> <w id="w27823">of</w> <w id="w27824">the</w> <w id="w27825">Rho</w><w id="w27826">-</w><w id="w27827">ROCK</w> <w id="w27828">signalling</w> <w id="w27829">pathway</w> <w id="w27830">and</w> <w id="w27831">plays</w> <w id="w27832">a</w> <w id="w27833">role</w> <w id="w27834">in</w> <w id="w27835">reorganization</w> <w id="w27836">of</w> <w id="w27837">actin</w> <w id="w27838">filaments</w> <w id="w27839">and</w> <w id="w27840">membrane</w> <w id="w27841">structures</w> <w id="w27842">,</w> <w id="w27843">by</w> <w id="w27844">phosphorylating</w> <w id="w27845">cofilin/ADF</w> <w id="w27846">proteins</w> <w id="w27847">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6412" gid="g6118" t="Individual_protein" fr="w27820" to="w27820" nam="yes">
+     <textspan type="extent">LIMK2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1748.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6413" gid="g6119" t="RELATIONSHIP_TEXTBINDING" fr="w27833" to="w27834">
+     <textspan type="extent">role in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1748.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6414" gid="g6120" t="RELATIONSHIP_TEXTBINDING" fr="w27833" to="w27843">
+     <textspan type="extent">role in [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1748.2"/>
+      <exattr n="nst" v="st.1748.15.0"/>
+      <exattr n="nst" v="st.1748.16.0"/>
+      <exattr n="nst" v="st.1748.25.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6415" gid="g6121" t="Process_entity" fr="w27825" to="w27829">
+     <textspan type="extent">Rho-ROCK [..] pathway</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.1748.3"/>
+      <exattr n="nst" v="st.1748.9.0"/>
+      <exattr n="nst" v="st.1748.9.1"/>
+      <exattr n="nst" v="st.1748.9.2"/>
+      <exattr n="nst" v="st.1748.11.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6416" gid="g6122" t="Cell_component" fr="w27837" to="w27838" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1748.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6417" gid="g6123" t="Individual_protein" fr="w27845" to="w27846" nam="yes">
+     <textspan type="extent">cofilin/ADF proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1748.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6418" gid="g6124" t="MODIFICATION" fr="w27835" to="w27838">
+     <textspan type="extent">reorganization of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1748.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6419" gid="g6125" t="RELATIONSHIP_TEXTBINDING" fr="w27843" to="w27844">
+     <textspan type="extent">by phosphorylating</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1748.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6420" gid="g6126" t="Individual_protein" fr="w27827" to="w27827" nam="yes">
+     <textspan type="extent">ROCK</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1748.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6421" gid="g6127" t="Individual_protein" fr="w27825" to="w27825" nam="yes">
+     <textspan type="extent">Rho</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1748.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6422" gid="g6128" t="RELATIONSHIP_TEXTBINDING" fr="w27822" to="w27823">
+     <textspan type="extent">downstream of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1748.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e6423" gid="g6129" t="Individual_protein" fr="w27837" to="w27837" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1748.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e6424" gid="g6130" t="Protein_family_or_group" fr="w27845" to="w27845" nam="yes">
+     <textspan type="extent">cofilin/ADF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1748.12"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2455" t="RELATE" e1="e6412" e2="e6415" re="e6422">
+     <textspan type="extent">LIMK2 functions downstream of the Rho - ROCK signalling pathway</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1748.10"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2456" t="PARTICIPATE" e1="e6419" e2="e6418" re="e6414">
+     <textspan type="extent">LIMK2 functions downstream of the Rho - ROCK signalling pathway and plays a role in reorganization of actin filaments and membrane structures , by phosphorylating cofilin/ADF proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1748.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2457" t="PHOSPHORYLATE" e1="e6412" e2="e6417" re="e6419">
+     <textspan type="extent">LIMK2 functions downstream of the Rho - ROCK signalling pathway and plays a role in reorganization of actin filaments and membrane structures , by phosphorylating cofilin/ADF proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1748.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+     </exattrs>
+    </rel>
+    <rel id="r2458" t="PARTICIPATE" e1="e6412" e2="e6418" re="e6413">
+     <textspan type="extent">LIMK2 functions downstream of the Rho - ROCK signalling pathway and plays a role in reorganization of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1748.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

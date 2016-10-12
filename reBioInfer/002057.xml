@@ -1,0 +1,107 @@
+<rexml>
+<doc id="2057">
+  <text>
+<p><s id="s1"><w id="w32589">We</w> <w id="w32590">find</w> <w id="w32591">that</w> <w id="w32592">profilin</w> <w id="w32593">contributes</w> <w id="w32594">in</w> <w id="w32595">several</w> <w id="w32596">ways</w> <w id="w32597">to</w> <w id="w32598">Cdc42</w><w id="w32599">-</w><w id="w32600">induced</w> <w id="w32601">nucleation</w> <w id="w32602">of</w> <w id="w32603">actin</w> <w id="w32604">filaments</w> <w id="w32605">in</w> <w id="w32606">high</w> <w id="w32607">speed</w> <w id="w32608">supernatant</w> <w id="w32609">of</w> <w id="w32610">lysed</w> <w id="w32611">neutrophils</w> <w id="w32612">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7434" gid="g7093" t="Individual_protein" fr="w32592" to="w32592" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2057.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7435" gid="g7094" t="RELATIONSHIP_TEXTBINDING" fr="w32593" to="w32597">
+     <textspan type="extent">contributes [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2057.1"/>
+      <exattr n="nst" v="st.2057.4.0"/>
+      <exattr n="nst" v="st.2057.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7436" gid="g7095" t="ASSEMBLY" fr="w32601" to="w32604">
+     <textspan type="extent">nucleation of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.2057.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7437" gid="g7096" t="RELATIONSHIP_TEXTBINDING" fr="w32600" to="w32600">
+     <textspan type="extent">induced</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2057.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7438" gid="g7097" t="Cell_component" fr="w32603" to="w32604" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.2057.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7439" gid="g7098" t="Individual_protein" fr="w32598" to="w32598" nam="yes">
+     <textspan type="extent">Cdc42</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2057.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7440" gid="g7099" t="Individual_protein" fr="w32603" to="w32603" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2057.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2841" t="INITIATE" e1="e7439" e2="e7436" re="e7437">
+     <textspan type="extent">Cdc42 - induced nucleation of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2057.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2842" t="PARTICIPATE" e1="e7434" e2="e7436" re="e7435">
+     <textspan type="extent">profilin contributes in several ways to Cdc42 - induced nucleation of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2057.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

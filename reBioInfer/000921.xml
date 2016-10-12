@@ -1,0 +1,94 @@
+<rexml>
+<doc id="921">
+  <text>
+<p><s id="s1"><w id="w14314">It</w> <w id="w14315">therefore</w> <w id="w14316">appears</w> <w id="w14317">that</w> <w id="w14318">myosin</w> <w id="w14319">heavy</w> <w id="w14320">chain</w> <w id="w14321">and</w> <w id="w14322">actin</w> <w id="w14323">multigene</w> <w id="w14324">families</w> <w id="w14325">are</w> <w id="w14326">both</w> <w id="w14327">expressed</w> <w id="w14328">in</w> <w id="w14329">a</w> <w id="w14330">species</w> <w id="w14331">specific</w> <w id="w14332">fashion</w> <w id="w14333">but</w> <w id="w14334">are</w> <w id="w14335">independently</w> <w id="w14336">regulated</w> <w id="w14337">within</w> <w id="w14338">a</w> <w id="w14339">species</w> <w id="w14340">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3262" gid="g3129" t="Individual_protein" fr="w14318" to="w14320" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.921.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3263" gid="g3130" t="RELATIONSHIP_TEXTBINDING" fr="w14335" to="w14335">
+     <textspan type="extent">independently</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.921.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3264" gid="g3131" t="Protein_family_or_group" fr="w14318" to="w14324" nam="yes">
+     <textspan type="extent">myosin heavy chain [..] families</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.921.2"/>
+      <exattr n="nst" v="st.921.4.0"/>
+      <exattr n="nst" v="st.921.5.0"/>
+      <exattr n="nst" v="st.921.6.0"/>
+      <exattr n="nst" v="st.921.10.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3265" gid="g3132" t="Individual_protein" fr="w14322" to="w14322" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.921.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3266" gid="g3133" t="Protein_family_or_group" fr="w14322" to="w14324" nam="yes">
+     <textspan type="extent">actin [..] families</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.921.4"/>
+      <exattr n="nst" v="st.921.8.0"/>
+      <exattr n="nst" v="st.921.10.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3267" gid="g3134" t="RELATIONSHIP_TEXTBINDING" fr="w14336" to="w14336">
+     <textspan type="extent">regulated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.921.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1257" t="COREGULATE" e1="e3264" e2="e3266" re="e3267">
+     <textspan type="extent">myosin heavy chain and actin multigene families are both expressed in a species specific fashion but are independently regulated</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.921.5"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="COREGULATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

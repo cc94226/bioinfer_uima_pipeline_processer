@@ -1,0 +1,35 @@
+<rexml>
+<doc id="222">
+  <text>
+<p><s id="s1"><w id="w3330">Between</w> <w id="w3331">day</w> <w id="w3332">1</w> <w id="w3333">and</w> <w id="w3334">day</w> <w id="w3335">3</w> <w id="w3336">in</w> <w id="w3337">culture</w> <w id="w3338">,</w> <w id="w3339">the</w> <w id="w3340">specific</w> <w id="w3341">synthetic</w> <w id="w3342">activities</w> <w id="w3343">of</w> <w id="w3344">total</w> <w id="w3345">proteins</w> <w id="w3346">and</w> <w id="w3347">of</w> <w id="w3348">electrophoretically</w> <w id="w3349">purified</w> <w id="w3350">myosin</w> <w id="w3351">heavy</w> <w id="w3352">chain</w> <w id="w3353">and</w> <w id="w3354">actin</w> <w id="w3355">(</w> <w id="w3356">[</w> <w id="w3357">14C</w> <w id="w3358">]</w> <w id="w3359">phenylalanine</w> <w id="w3360">incorporation</w> <w id="w3361">into</w> <w id="w3362">protein</w> <w id="w3363">,</w> <w id="w3364">in</w> <w id="w3365">disintegrations</w> <w id="w3366">per</w> <w id="w3367">minute</w> <w id="w3368">per</w> <w id="w3369">microgram</w> <w id="w3370">protein</w> <w id="w3371">)</w> <w id="w3372">decreased</w> <w id="w3373">(</w> <w id="w3374">-19%,-32</w> <w id="w3375">%</w> <w id="w3376">,</w> <w id="w3377">and</w> <w id="w3378">-73</w> <w id="w3379">%</w> <w id="w3380">,</w> <w id="w3381">respectively</w> <w id="w3382">)</w> <w id="w3383">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e814" gid="g786" t="Gene/protein/RNA" fr="w3350" to="w3352" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.222.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e815" gid="g787" t="Gene/protein/RNA" fr="w3354" to="w3354" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.222.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

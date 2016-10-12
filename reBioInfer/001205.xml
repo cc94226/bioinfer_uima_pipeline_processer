@@ -1,0 +1,125 @@
+<rexml>
+<doc id="1205">
+  <text>
+<p><s id="s1"><w id="w19011">Requirement</w> <w id="w19012">of</w> <w id="w19013">the</w> <w id="w19014">yeast</w> <w id="w19015">MSH3</w> <w id="w19016">and</w> <w id="w19017">MSH6</w> <w id="w19018">genes</w> <w id="w19019">for</w> <w id="w19020">MSH2</w><w id="w19021">-dependent</w> <w id="w19022">genomic</w> <w id="w19023">stability</w> <w id="w19024">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4403" gid="g4210" t="RELATIONSHIP_TEXTBINDING" fr="w19011" to="w19019">
+     <textspan type="extent">Requirement of [..] for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1205.0"/>
+      <exattr n="nst" v="st.1205.0.0"/>
+      <exattr n="nst" v="st.1205.1.0"/>
+      <exattr n="nst" v="st.1205.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4404" gid="g4211" t="Gene" fr="w19014" to="w19018" nam="yes">
+     <textspan type="extent">yeast MSH3 [..] genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1205.1"/>
+      <exattr n="nst" v="st.1205.3.0"/>
+      <exattr n="nst" v="st.1205.4.0"/>
+      <exattr n="nst" v="st.1205.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4405" gid="g4212" t="Physical_property" fr="w19020" to="w19023">
+     <textspan type="extent">MSH2-dependent [..] stability</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Physical_property"/>
+      <exattr n="bd" v="e.1205.2"/>
+      <exattr n="nst" v="st.1205.9.0"/>
+      <exattr n="nst" v="st.1205.9.1"/>
+      <exattr n="nst" v="st.1205.11.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4406" gid="g4213" t="Gene" fr="w19014" to="w19018" nam="yes">
+     <textspan type="extent">yeast [..] MSH6 genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1205.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4407" gid="g4214" t="Gene" fr="w19015" to="w19015" nam="yes">
+     <textspan type="extent">MSH3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1205.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4408" gid="g4215" t="Gene" fr="w19017" to="w19017" nam="yes">
+     <textspan type="extent">MSH6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1205.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4409" gid="g4216" t="Gene" fr="w19020" to="w19020" nam="yes">
+     <textspan type="extent">MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1205.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1682" t="CONDITION" e1="e4404" e2="e4405" re="e4403">
+     <textspan type="extent">Requirement of the yeast MSH3 and MSH6 genes for MSH2 -dependent genomic stability</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1205.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r1683" t="CONDITION" e1="e4406" e2="e4405" re="e4403">
+     <textspan type="extent">Requirement of the yeast MSH3 and MSH6 genes for MSH2 -dependent genomic stability</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1205.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

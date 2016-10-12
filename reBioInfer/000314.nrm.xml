@@ -1,0 +1,73 @@
+<rexml>
+<doc id="314">
+  
+  <markup>
+   <nes>
+    <ne id="e1178" gid="g1122" t="Individual_protein" fr="w4860" to="w4862" nam="yes" sid="s1">
+     <textspan>Class II profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.314.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1180" gid="g1124" t="Individual_protein" fr="w4872" to="w4872" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.314.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1182" gid="g1126" t="Individual_protein" fr="w4875" to="w4877" nam="yes" sid="s1">
+     <textspan>class I profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.314.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r467" t="LOCALIZE" e1="e1178" e2="e1180" re="e1181">
+     <textspan>Class II profilins had higher affinity for poly-l-proline and sequestered more monomeric actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.314.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r468" t="LOCALIZE" e1="e1182" e2="e1180" re="e1179">
+     <textspan>sequestered more monomeric actin than did class I profilins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.314.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

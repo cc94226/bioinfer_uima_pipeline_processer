@@ -1,0 +1,85 @@
+<rexml>
+<doc id="798">
+  <text>
+<p><s id="s1"><w id="w12532">In</w> <w id="w12533">reconstitution</w> <w id="w12534">experiments</w> <w id="w12535">,</w> <w id="w12536">actin</w> <w id="w12537">filaments</w> <w id="w12538">incubated</w> <w id="w12539">in</w> <w id="w12540">EGTA</w> <w id="w12541">with</w> <w id="w12542">purified</w> <w id="w12543">fimbrin</w> <w id="w12544">and</w> <w id="w12545">villin</w> <w id="w12546">form</w> <w id="w12547">smooth-sided</w> <w id="w12548">bundles</w> <w id="w12549">containing</w> <w id="w12550">an</w> <w id="w12551">apparently</w> <w id="w12552">random</w> <w id="w12553">number</w> <w id="w12554">of</w> <w id="w12555">filaments</w> <w id="w12556">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2892" gid="g2773" t="Cell_component" fr="w12536" to="w12537" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.798.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2893" gid="g2774" t="RELATIONSHIP_TEXTBINDING" fr="w12538" to="w12541">
+     <textspan type="extent">incubated [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.798.1"/>
+      <exattr n="nst" v="st.798.6.0"/>
+      <exattr n="nst" v="st.798.9.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2894" gid="g2775" t="Individual_protein" fr="w12545" to="w12545" nam="yes">
+     <textspan type="extent">villin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.798.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2895" gid="g2776" t="Individual_protein" fr="w12543" to="w12543" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.798.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2896" gid="g2777" t="Individual_protein" fr="w12536" to="w12536" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.798.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1125" t="HUMANMADE" e1="e2892" e2="e2895" re="e2893">
+     <textspan type="extent">actin filaments incubated in EGTA with purified fimbrin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.798.1"/>
+      <exattr n="t1" v="HUMANMADE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1126" t="HUMANMADE" e1="e2892" e2="e2894" re="e2893">
+     <textspan type="extent">actin filaments incubated in EGTA with purified fimbrin and villin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.798.1"/>
+      <exattr n="t1" v="HUMANMADE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

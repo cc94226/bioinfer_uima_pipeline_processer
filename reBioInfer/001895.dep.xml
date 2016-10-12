@@ -1,0 +1,76 @@
+<rexml>
+<doc id="1895">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E1" t="s" cr="s+subj:w30359" w="" l="~" p="N"/>
+     <dpg d="w30358" g="w30359" t="aux" cr="aux:w30359" w="To" l="~" p="Aux"/>
+     <dpg d="w30359" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="clarify" l="~" p="V"/>
+     <dpg d="E5" g="w30359" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w30360" g="w30361" t="det" cr="det:w30361" w="the" l="~" p="Det"/>
+     <dpg d="w30361" g="w30359" t="obj" cr="obj:w30359" w="relation" l="~" p="N"/>
+     <dpg d="w30362" g="w30361" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w30363" g="w30362" t="pcomp-n" cr="mod*between*n:w30361" w="alteration" l="~" p="N"/>
+     <dpg d="w30364" g="w30363" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w30365" g="w30364" t="pcomp-n" cr="mod*of*n:w30363" w="expression" l="~" p="N"/>
+     <dpg d="w30366" g="w30365" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w30367" g="w30369" t="nn" cr="nn:w30369" w="cell" l="~" p="N"/>
+     <dpg d="w30368" g="w30369" t="nn" cr="nn:w30369" w="adhesion" l="~" p="N"/>
+     <dpg d="w30369" g="w30366" t="pcomp-n" cr="mod*of*n:w30365" w="molecules" l="molecule" p="N"/>
+     <dpg d="w30370" g="w30369" t="punc" cr="punc:w30369" w="and" l="~" p="U"/>
+     <dpg d="w30371" g="w30369" t="conj" cr="conj:w30369" w="progression" l="~" p="N"/>
+     <dpg d="w30372" g="w30371" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w30373" g="w30376" t="mod" cr="mod:w30376" w="extrahepatic" l="~" p="A"/>
+     <dpg d="w30374" g="w30375" t="lex-mod" cr="lex-mod:w30375" w="bile" l="~" p="U"/>
+     <dpg d="w30375" g="w30376" t="nn" cr="nn:w30376" w="duct" l="bile duct" p="N"/>
+     <dpg d="w30376" g="w30372" t="pcomp-n" cr="mod*of*n:w30371" w="carcinomas" l="carcinoma" p="N"/>
+     <dpg d="E0" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w30377" g="w30378" t="num" cr="num:w30378" w="55" l="~" p="N"/>
+     <dpg d="w30378" g="w30381" t="s" cr="s+obj:w30381" w="cases" l="case" p="N"/>
+     <dpg d="w30379" g="w30381" t="be" cr="be:w30381" w="were" l="be" p="be"/>
+     <dpg d="w30380" g="w30381" t="amod" cr="amod:w30381" w="immunohistochemically" l="~" p="A"/>
+     <dpg d="w30381" g="E0" t="i" cr="UNSPECRELTYPE:E4" w="examined" l="examine" p="V"/>
+     <dpg d="E6" g="w30381" t="obj" cr="" w="" l="case" p="N"/>
+     <dpg d="E6" g="w30378" t="antecedent" cr="" w="" l="case" p="N"/>
+     <dpg d="w30382" g="w30381" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w30383" g="w30382" t="pcomp-n" cr="mod*for*n:w30381" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w30384" g="w30383" t="punc" cr="punc:w30383" w="," l="~" p="U"/>
+     <dpg d="w30385" g="w30383" t="conj" cr="conj:w30383" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w30386" g="w30385" t="punc" cr="punc:w30385" w="," l="~" p="U"/>
+     <dpg d="w30387" g="w30385" t="conj" cr="conj:w30385" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w30388" g="w30387" t="punc" cr="punc:w30387" w="," l="~" p="U"/>
+     <dpg d="w30389" g="w30387" t="punc" cr="punc:w30387" w="and" l="~" p="U"/>
+     <dpg d="w30390" g="w30387" t="conj" cr="conj:w30387" w="CD44" l="~" p="N"/>
+     <dpg d="w30391" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="w30392" g="E4" t="p" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w30393" g="w30406" t="mod" cr="mod:w30406" w="additional" l="~" p="A"/>
+     <dpg d="w30394" g="w30402" t="lex-mod" cr="lex-mod:w30402" w="reverse" l="~" p="U"/>
+     <dpg d="w30395" g="w30402" t="lex-mod" cr="lex-mod:w30402" w="transcription-" l="~" p="U"/>
+     <dpg d="w30396" g="w30402" t="lex-mod" cr="lex-mod:w30402" w="polymerase" l="~" p="U"/>
+     <dpg d="w30397" g="w30402" t="lex-mod" cr="lex-mod:w30402" w="chain" l="~" p="U"/>
+     <dpg d="w30398" g="w30402" t="lex-mod" cr="lex-mod:w30402" w="reaction" l="~" p="U"/>
+     <dpg d="w30399" g="w30402" t="lex-mod" cr="lex-mod:w30402" w="and" l="~" p="U"/>
+     <dpg d="w30400" g="w30402" t="lex-mod" cr="lex-mod:w30402" w="Southern" l="~" p="U"/>
+     <dpg d="w30401" g="w30402" t="lex-mod" cr="lex-mod:w30402" w="blotting" l="~" p="U"/>
+     <dpg d="w30402" g="w30406" t="nn" cr="nn:w30406" w="hybridization" l="reverse transcription- polymerase chain reaction and Southern blotting hybridization" p="N"/>
+     <dpg d="w30403" g="w30404" t="punc" cr="punc:w30404" w="(" l="~" p="U"/>
+     <dpg d="w30404" g="w30402" t="abbrev" cr="abbrev:w30402" w="RT-PCR/SBH" l="RT-PCR/SBH" p="N"/>
+     <dpg d="w30405" g="w30404" t="punc" cr="punc:w30404" w=")" l="~" p="U"/>
+     <dpg d="w30406" g="w30392" t="pcomp-n" cr="p*with*n:E4" w="assays" l="assay" p="N"/>
+     <dpg d="w30407" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

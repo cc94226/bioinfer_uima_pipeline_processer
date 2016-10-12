@@ -1,0 +1,40 @@
+<rexml>
+<doc id="2230">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w34356" g="w34357" t="nn" cr="nn:w34357" w="X-ray" l="x-ray" p="N"/>
+     <dpg d="w34357" g="" t="" cr="" w="structures" l="structure" p="N"/>
+     <dpg d="w34358" g="w34357" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34359" g="w34358" t="pcomp-n" cr="mod*of*n:w34357" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w34360" g="w34359" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34361" g="w34364" t="det" cr="det:w34364" w="the" l="~" p="Det"/>
+     <dpg d="w34362" g="w34364" t="mod" cr="mod:w34364" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w34363" g="w34364" t="nn" cr="nn:w34364" w="protein" l="~" p="N"/>
+     <dpg d="w34364" g="w34360" t="pcomp-n" cr="mod*of*n:w34359||subj:w34366" w="profilin" l="~" p="N"/>
+     <dpg d="E0" g="w34364" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w34365" g="E0" t="whn" cr="whn:w34366" w="that" l="~" p="THAT"/>
+     <dpg d="w34365" g="w34364" t="antecedent" cr="antecedent:w34364" w="that" l="~" p="THAT"/>
+     <dpg d="w34366" g="E0" t="i" cr="rel:w34364" w="differ" l="~" p="V"/>
+     <dpg d="E2" g="w34366" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E2" g="w34364" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w34367" g="w34366" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w34368" g="w34369" t="gen" cr="gen:w34369" w="their" l="~" p="N"/>
+     <dpg d="w34369" g="w34367" t="pcomp-n" cr="mod*in*n:w34366" w="affinity" l="~" p="N"/>
+     <dpg d="w34370" g="w34369" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w34371" g="w34372" t="nn" cr="nn:w34372" w="phosphatidylinositol" l="~" p="N"/>
+     <dpg d="w34372" g="w34370" t="pcomp-n" cr="mod*for*n:w34369" w="phosphates" l="phosphate" p="N"/>
+     <dpg d="w34373" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

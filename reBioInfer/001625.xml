@@ -1,0 +1,108 @@
+<rexml>
+<doc id="1625">
+  <text>
+<p><s id="s1"><w id="w25888">The</w> <w id="w25889">proximity</w> <w id="w25890">of</w> <w id="w25891">these</w> <w id="w25892">sites</w> <w id="w25893">to</w> <w id="w25894">the</w> <w id="w25895">actin</w> <w id="w25896">binding</w> <w id="w25897">site</w> <w id="w25898">provides</w> <w id="w25899">an</w> <w id="w25900">explanation</w> <w id="w25901">for</w> <w id="w25902">the</w> <w id="w25903">competition</w> <w id="w25904">between</w> <w id="w25905">actin</w> <w id="w25906">and</w> <w id="w25907">lipids</w> <w id="w25908">for</w> <w id="w25909">binding</w> <w id="w25910">profilin</w> <w id="w25911">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5981" gid="g5702" t="Individual_protein" fr="w25895" to="w25895" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1625.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5982" gid="g5703" t="RELATIONSHIP_TEXTBINDING" fr="w25909" to="w25909">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1625.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5983" gid="g5704" t="Individual_protein" fr="w25910" to="w25910" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1625.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5984" gid="g5705" t="RELATIONSHIP_TEXTBINDING" fr="w25896" to="w25896">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1625.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5985" gid="g5706" t="Substructure_of_protein" fr="w25897" to="w25897" nam="yes">
+     <textspan type="extent">site</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1625.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5986" gid="g5707" t="Individual_protein" fr="w25905" to="w25905" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1625.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2283" t="BIND" e1="e5986" e2="e5983" re="e5982">
+     <textspan type="extent">actin and lipids for binding profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1625.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2284" t="REL-ENT" e1="e5985" e2="e5983" re="">
+     <textspan type="extent">site provides an explanation for the competition between actin and lipids for binding profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="REL-ENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2285" t="BIND" e1="e5985" e2="e5981" re="e5984">
+     <textspan type="extent">actin binding site</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1625.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

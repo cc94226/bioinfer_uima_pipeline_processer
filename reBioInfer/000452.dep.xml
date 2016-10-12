@@ -1,0 +1,60 @@
+<rexml>
+<doc id="452">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w6524" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="Exposure" l="~" p="N"/>
+     <dpg d="w6525" g="w6524" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6526" g="w6528" t="det" cr="det:w6528" w="the" l="~" p="Det"/>
+     <dpg d="w6527" g="w6528" t="nn" cr="nn:w6528" w="rabbit" l="~" p="N"/>
+     <dpg d="w6528" g="w6525" t="pcomp-n" cr="mod*of*n:w6524" w="retina" l="~" p="N"/>
+     <dpg d="w6529" g="w6528" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w6530" g="w6531" t="det" cr="det:w6531" w="a" l="~" p="Det"/>
+     <dpg d="w6531" g="w6529" t="pcomp-n" cr="mod*to*n:w6528" w="combination" l="~" p="N"/>
+     <dpg d="w6532" g="w6531" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6533" g="w6536" t="det" cr="det:w6536" w="an" l="~" p="Det"/>
+     <dpg d="w6534" g="w6536" t="mod" cr="mod:w6536" w="A1-adenosine" l="A1-adenosine" p="A"/>
+     <dpg d="w6535" g="w6536" t="nn" cr="nn:w6536" w="receptor" l="~" p="N"/>
+     <dpg d="w6536" g="w6532" t="pcomp-n" cr="mod*of*n:w6531" w="antagonist" l="~" p="N"/>
+     <dpg d="w6537" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6538" g="w6541" t="nn" cr="nn:w6541" w="8-cyclopentyl-1,3" l="8-cyclopentyl-1,3" p="N"/>
+     <dpg d="w6539" g="w6541" t="nn" cr="nn:w6541" w="dipropylxanthine" l="~" p="N"/>
+     <dpg d="w6540" g="w6541" t="punc" cr="punc:w6541" w="(" l="~" p="U"/>
+     <dpg d="w6541" g="w6549" t="s" cr="s+subj:w6549" w="DPCPX" l="~" p="N"/>
+     <dpg d="w6542" g="w6541" t="punc" cr="punc:w6541" w=")" l="~" p="U"/>
+     <dpg d="w6543" g="w6541" t="punc" cr="punc:w6541" w="," l="~" p="U"/>
+     <dpg d="w6544" g="w6541" t="punc" cr="punc:w6541" w="and" l="~" p="U"/>
+     <dpg d="w6545" g="w6546" t="nn" cr="nn:w6546" w="adenosine" l="~" p="N"/>
+     <dpg d="w6546" g="w6541" t="conj" cr="conj:w6541" w="deaminase" l="~" p="N"/>
+     <dpg d="w6547" g="w6549" t="aux" cr="aux:w6549" w="did" l="do" p="Aux"/>
+     <dpg d="w6548" g="w6547" t="neg" cr="neg:w6547" w="not" l="~" p="A"/>
+     <dpg d="w6549" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="affect" l="~" p="V"/>
+     <dpg d="E3" g="w6549" t="subj" cr="" w="" l="DPCPX" p="N"/>
+     <dpg d="E3" g="w6541" t="antecedent" cr="" w="" l="DPCPX" p="N"/>
+     <dpg d="w6550" g="w6552" t="det" cr="det:w6552" w="the" l="~" p="Det"/>
+     <dpg d="w6551" g="w6552" t="mod" cr="mod:w6552" w="enhancing" l="~" p="A"/>
+     <dpg d="w6552" g="w6549" t="obj" cr="obj:w6549" w="action" l="~" p="N"/>
+     <dpg d="w6553" g="w6552" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6554" g="w6553" t="pcomp-n" cr="mod*of*n:w6552" w="DAMGO" l="~" p="N"/>
+     <dpg d="w6555" g="w6554" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w6556" g="w6558" t="det" cr="det:w6558" w="the" l="~" p="Det"/>
+     <dpg d="w6557" g="w6558" t="mod" cr="mod:w6558" w="light-evoked" l="light-evoked" p="A"/>
+     <dpg d="w6558" g="w6555" t="pcomp-n" cr="mod*on*n:w6554" w="release" l="~" p="N"/>
+     <dpg d="w6559" g="w6558" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6560" g="w6559" t="pcomp-n" cr="mod*of*n:w6558" w="ACh" l="~" p="N"/>
+     <dpg d="w6561" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

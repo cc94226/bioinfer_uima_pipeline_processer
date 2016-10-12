@@ -1,0 +1,69 @@
+<rexml>
+<doc id="1989">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="E1" g="E2" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="s+subj:w31845" w="" l="~" p="N"/>
+     <dpg d="w31845" g="E1" t="i" cr="mod:w31863" w="Using" l="use" p="V"/>
+     <dpg d="E6" g="w31845" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31846" g="w31849" t="det" cr="det:w31849" w="the" l="~" p="Det"/>
+     <dpg d="w31847" g="w31849" t="mod" cr="mod:w31849" w="known" l="~" p="A"/>
+     <dpg d="w31848" g="w31849" t="mod" cr="mod:w31849" w="three-dimensional" l="three-dimensional" p="A"/>
+     <dpg d="w31849" g="w31845" t="obj" cr="obj:w31845" w="structure" l="~" p="N"/>
+     <dpg d="w31850" g="w31849" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31851" g="w31856" t="det" cr="det:w31856" w="the" l="~" p="Det"/>
+     <dpg d="w31852" g="w31856" t="mod" cr="mod:w31856" w="homologous" l="~" p="A"/>
+     <dpg d="w31853" g="w31855" t="lex-mod" cr="lex-mod:w31855" w="actin" l="~" p="U"/>
+     <dpg d="w31854" g="w31855" t="lex-mod" cr="lex-mod:w31855" w="-" l="~" p="U"/>
+     <dpg d="w31855" g="w31856" t="mod" cr="mod:w31856" w="binding" l="actin - binding" p="A"/>
+     <dpg d="w31856" g="w31850" t="pcomp-n" cr="mod*of*n:w31849" w="domain" l="~" p="N"/>
+     <dpg d="w31857" g="w31856" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31858" g="w31857" t="pcomp-n" cr="mod*of*n:w31856" w="fimbrin" l="~" p="N"/>
+     <dpg d="w31859" g="E2" t="punc" cr="punc:w31863" w="," l="~" p="U"/>
+     <dpg d="w31860" g="w31861" t="det" cr="det:w31861" w="these" l="~" p="Det"/>
+     <dpg d="w31861" g="w31863" t="s" cr="s+subj:w31863||s+subj:w31866" w="results" l="result" p="N"/>
+     <dpg d="w31862" g="w31863" t="have" cr="have:w31863" w="have" l="~" p="have"/>
+     <dpg d="w31863" g="E2" t="i" cr="" w="enabled" l="enable" p="V"/>
+     <dpg d="E7" g="w31863" t="subj" cr="" w="" l="result" p="N"/>
+     <dpg d="E7" g="w31861" t="antecedent" cr="" w="" l="result" p="N"/>
+     <dpg d="w31864" g="w31863" t="obj" cr="obj:w31863" w="us" l="~" p="N"/>
+     <dpg d="E0" g="w31863" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w31861" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31865" g="w31866" t="aux" cr="aux:w31866" w="to" l="~" p="Aux"/>
+     <dpg d="w31866" g="E0" t="i" cr="mod:w31863" w="determine" l="~" p="V"/>
+     <dpg d="E8" g="w31866" t="subj" cr="" w="" l="result" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="result" p="N"/>
+     <dpg d="w31867" g="w31869" t="det" cr="det:w31869" w="the" l="~" p="Det"/>
+     <dpg d="w31868" g="w31869" t="mod" cr="mod:w31869" w="likely" l="~" p="A"/>
+     <dpg d="w31869" g="w31866" t="obj" cr="obj:w31866" w="orientation" l="~" p="N"/>
+     <dpg d="w31870" g="w31869" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31871" g="w31876" t="det" cr="det:w31876" w="the" l="~" p="Det"/>
+     <dpg d="w31872" g="w31876" t="nn" cr="nn:w31876" w="utrophin" l="~" p="N"/>
+     <dpg d="w31873" g="w31875" t="lex-mod" cr="lex-mod:w31875" w="actin" l="~" p="U"/>
+     <dpg d="w31874" g="w31875" t="lex-mod" cr="lex-mod:w31875" w="-" l="~" p="U"/>
+     <dpg d="w31875" g="w31876" t="mod" cr="mod:w31876" w="binding" l="actin - binding" p="A"/>
+     <dpg d="w31876" g="w31870" t="pcomp-n" cr="mod*of*n:w31869" w="domain" l="~" p="N"/>
+     <dpg d="w31877" g="w31876" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w31878" g="w31877" t="pcomp-n" cr="mod*with*n:w31876" w="respect" l="~" p="N"/>
+     <dpg d="w31879" g="w31878" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w31880" g="w31882" t="det" cr="det:w31882" w="the" l="~" p="Det"/>
+     <dpg d="w31881" g="w31882" t="nn" cr="nn:w31882" w="actin" l="~" p="N"/>
+     <dpg d="w31882" g="w31879" t="pcomp-n" cr="mod*to*n:w31878" w="filament" l="~" p="N"/>
+     <dpg d="w31883" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

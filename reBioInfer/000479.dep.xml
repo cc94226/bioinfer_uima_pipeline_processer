@@ -1,0 +1,43 @@
+<rexml>
+<doc id="479">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w6724" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="Expressions" l="expression" p="N"/>
+     <dpg d="w6725" g="w6724" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6726" g="w6727" t="nn" cr="nn:w6727" w="cyclin" l="~" p="N"/>
+     <dpg d="w6727" g="w6725" t="pcomp-n" cr="mod*of*n:w6724" w="E" l="~" p="N"/>
+     <dpg d="w6728" g="E1" t="punc" cr="punc:E1" w="," l="~" p="U"/>
+     <dpg d="w6729" g="E1" t="punc" cr="punc:E1" w="A" l="~" p="U"/>
+     <dpg d="w6730" g="E1" t="punc" cr="punc:E1" w="," l="~" p="U"/>
+     <dpg d="w6731" g="E1" t="punc" cr="punc:E1" w="and" l="~" p="U"/>
+     <dpg d="w6732" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="B1" l="~" p="N"/>
+     <dpg d="w6733" g="w6732" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w6734" g="w6733" t="pcomp-n" cr="mod*in*n:w6732" w="Hodgkin" l="~" p="N"/>
+     <dpg d="w6735" g="w6734" t="punc" cr="punc:w6734" w="and" l="~" p="U"/>
+     <dpg d="w6736" g="w6737" t="nn" cr="nn:w6737" w="Reed-Sternberg" l="Reed-Sternberg" p="N"/>
+     <dpg d="w6737" g="w6734" t="conj" cr="conj:w6734" w="cells" l="cell" p="N"/>
+     <dpg d="w6738" g="E1" t="punc" cr="punc:E1" w=":" l="~" p="U"/>
+     <dpg d="w6739" g="w6740" t="mod" cr="mod:w6740" w="not" l="~" p="A"/>
+     <dpg d="w6740" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="suppressed" l="~" p="A"/>
+     <dpg d="w6741" g="w6740" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w6742" g="w6746" t="mod" cr="mod:w6746" w="cyclin-dependent" l="cyclin-dependent" p="A"/>
+     <dpg d="w6743" g="w6746" t="nn" cr="nn:w6746" w="kinase" l="~" p="N"/>
+     <dpg d="w6744" g="w6746" t="nn" cr="nn:w6746" w="inhibitor" l="~" p="N"/>
+     <dpg d="w6745" g="w6746" t="nn" cr="nn:w6746" w="p21" l="~" p="N"/>
+     <dpg d="w6746" g="w6741" t="pcomp-n" cr="mod*by*n:w6740" w="expression" l="~" p="N"/>
+     <dpg d="w6747" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

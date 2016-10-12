@@ -1,0 +1,54 @@
+<rexml>
+<doc id="1533">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24190" g="w24196" t="det" cr="det:w24196" w="The" l="~" p="Det"/>
+     <dpg d="w24191" g="w24192" t="lex-mod" cr="lex-mod:w24192" w="in" l="~" p="U"/>
+     <dpg d="w24192" g="w24196" t="mod" cr="mod:w24196" w="vivo" l="in vivo" p="A"/>
+     <dpg d="w24193" g="w24192" t="punc" cr="punc:w24192" w="and" l="~" p="U"/>
+     <dpg d="w24194" g="w24195" t="lex-mod" cr="lex-mod:w24195" w="in" l="~" p="U"/>
+     <dpg d="w24195" g="w24192" t="conj" cr="conj:w24192" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w24196" g="w24209" t="s" cr="s+obj:w24209" w="properties" l="property" p="N"/>
+     <dpg d="w24197" g="w24196" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w24198" g="w24200" t="nn" cr="nn:w24200" w="yeast" l="~" p="N"/>
+     <dpg d="w24199" g="w24200" t="nn" cr="nn:w24200" w="profilin" l="~" p="N"/>
+     <dpg d="w24200" g="w24197" t="pcomp-n" cr="mod*of*n:w24196" w="mutants" l="mutant" p="N"/>
+     <dpg d="w24201" g="w24200" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w24202" g="w24203" t="mod" cr="mod:w24203" w="altered" l="~" p="A"/>
+     <dpg d="w24203" g="w24201" t="pcomp-n" cr="mod*with*n:w24200" w="poly-L-proline" l="poly-L-proline" p="N"/>
+     <dpg d="w24204" g="w24203" t="punc" cr="punc:w24203" w="and" l="~" p="U"/>
+     <dpg d="w24205" g="w24203" t="conj" cr="conj:w24203||s+subj:w24206" w="actin" l="~" p="N"/>
+     <dpg d="E0" g="w24205" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w24205" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w24206" g="E0" t="i" cr="rel:w24205" w="binding" l="bind" p="V"/>
+     <dpg d="E4" g="w24206" t="subj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E4" g="E2" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w24207" g="w24206" t="obj" cr="obj:w24206" w="sites" l="site" p="N"/>
+     <dpg d="w24208" g="w24209" t="be" cr="be:w24209" w="are" l="be" p="be"/>
+     <dpg d="w24209" g="E1" t="i" cr="" w="discussed" l="discuss" p="V"/>
+     <dpg d="E5" g="w24209" t="obj" cr="" w="" l="property" p="N"/>
+     <dpg d="E5" g="w24196" t="antecedent" cr="" w="" l="property" p="N"/>
+     <dpg d="w24210" g="w24209" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w24211" g="w24212" t="det" cr="det:w24212" w="the" l="~" p="Det"/>
+     <dpg d="w24212" g="w24210" t="pcomp-n" cr="mod*in*n:w24209" w="context" l="~" p="N"/>
+     <dpg d="w24213" g="w24212" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w24214" g="w24216" t="det" cr="det:w24216" w="the" l="~" p="Det"/>
+     <dpg d="w24215" g="w24216" t="nn" cr="nn:w24216" w="crystal" l="~" p="N"/>
+     <dpg d="w24216" g="w24213" t="pcomp-n" cr="mod*of*n:w24212" w="structure" l="~" p="N"/>
+     <dpg d="w24217" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

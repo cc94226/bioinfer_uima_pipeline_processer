@@ -1,0 +1,84 @@
+<rexml>
+<doc id="1692">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E3" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26950" g="w26952" t="det" cr="det:w26952" w="These" l="~" p="Det"/>
+     <dpg d="w26951" g="w26952" t="nn" cr="nn:w26952" w="dissociation" l="~" p="N"/>
+     <dpg d="w26952" g="w26953" t="s" cr="s:w26953||subj:w26955" w="constants" l="constant" p="N"/>
+     <dpg d="w26953" g="E3" t="i" cr="UNSPECRELTYPE:E6" w="are" l="be" p="VBE"/>
+     <dpg d="E7" g="w26955" t="subj" cr="" w="" l="constant" p="N"/>
+     <dpg d="E7" g="w26952" t="antecedent" cr="" w="" l="constant" p="N"/>
+     <dpg d="w26954" g="w26955" t="det" cr="det:w26955" w="the" l="~" p="Det"/>
+     <dpg d="w26955" g="w26953" t="pred" cr="pred:w26953||s+obj:w26958" w="first" l="~" p="N"/>
+     <dpg d="E2" g="w26955" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w26955" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w26956" g="w26958" t="aux" cr="aux:w26958" w="to" l="~" p="Aux"/>
+     <dpg d="w26957" g="w26958" t="be" cr="be:w26958" w="be" l="~" p="be"/>
+     <dpg d="w26958" g="E2" t="i" cr="rel:w26955" w="determined" l="determine" p="V"/>
+     <dpg d="E8" g="w26958" t="obj" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w26959" g="w26958" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w26960" g="w26962" t="mod" cr="mod:w26962" w="direct" l="~" p="A"/>
+     <dpg d="w26961" g="w26962" t="mod" cr="mod:w26962" w="physical" l="~" p="A"/>
+     <dpg d="w26962" g="w26959" t="pcomp-n" cr="mod*from*n:w26958" w="measurement" l="~" p="N"/>
+     <dpg d="w26963" g="E6" t="punc" cr="punc:E6" w=";" l="~" p="U"/>
+     <dpg d="E1" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26964" g="w26965" t="s" cr="s:w26965||subj-in:w26967" w="they" l="~" p="N"/>
+     <dpg d="w26965" g="E1" t="i" cr="UNSPECRELTYPE:E6" w="are" l="be" p="VBE"/>
+     <dpg d="w26966" g="w26965" t="pred" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="E9" g="w26967" t="subj-in" cr="" w="" l="they" p="N"/>
+     <dpg d="E9" g="w26964" t="antecedent" cr="" w="" l="they" p="N"/>
+     <dpg d="w26967" g="w26966" t="pcomp-n" cr="pred*in*n:w26965" w="agreement" l="~" p="N"/>
+     <dpg d="w26968" g="w26967" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w26969" g="w26968" t="pcomp-n" cr="mod*with*n:w26967||obj:w26970" w="values" l="value" p="N"/>
+     <dpg d="w26970" g="w26969" t="vrel" cr="vrel:w26969" w="inferred" l="infer" p="V"/>
+     <dpg d="E10" g="w26970" t="obj" cr="" w="" l="value" p="N"/>
+     <dpg d="E10" g="w26969" t="antecedent" cr="" w="" l="value" p="N"/>
+     <dpg d="w26971" g="w26970" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w26972" g="w26973" t="mod" cr="mod:w26973" w="earlier" l="~" p="A"/>
+     <dpg d="w26973" g="w26971" t="pcomp-n" cr="mod*from*n:w26970" w="studies" l="study" p="N"/>
+     <dpg d="w26974" g="w26973" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w26975" g="w26976" t="det" cr="det:w26976" w="the" l="~" p="Det"/>
+     <dpg d="w26976" g="w26974" t="pcomp-n" cr="mod*on*n:w26973" w="effect" l="~" p="N"/>
+     <dpg d="w26977" g="w26976" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26978" g="w26977" t="pcomp-n" cr="mod*of*n:w26976" w="profilin" l="~" p="N"/>
+     <dpg d="w26979" g="w26978" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w26980" g="w26981" t="det" cr="det:w26981" w="the" l="~" p="Det"/>
+     <dpg d="w26981" g="w26979" t="pcomp-n" cr="mod*on*n:w26978" w="assembly" l="~" p="N"/>
+     <dpg d="w26982" g="w26981" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26983" g="w26982" t="pcomp-n" cr="mod*of*n:w26981||obj:w26988||subj:w26991" w="actin" l="~" p="N"/>
+     <dpg d="E0" g="w26983" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26984" g="E0" t="whn" cr="whn:w26988" w="that" l="~" p="THAT"/>
+     <dpg d="w26984" g="w26983" t="antecedent" cr="antecedent:w26983" w="that" l="~" p="THAT"/>
+     <dpg d="w26985" g="w26988" t="have" cr="have:w26988" w="had" l="have" p="have"/>
+     <dpg d="w26986" g="w26988" t="be" cr="be:w26988" w="been" l="be" p="be"/>
+     <dpg d="w26987" g="w26988" t="amod" cr="amod:w26988" w="fluorescently" l="~" p="A"/>
+     <dpg d="w26988" g="E0" t="i" cr="rel:w26983" w="labeled" l="label" p="V"/>
+     <dpg d="E11" g="w26988" t="obj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E11" g="w26983" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w26989" g="w26988" t="punc" cr="punc:w26988" w="or" l="~" p="U"/>
+     <dpg d="w26990" g="w26991" t="amod" cr="amod:w26991" w="otherwise" l="~" p="A"/>
+     <dpg d="w26991" g="w26988" t="conj" cr="conj:w26988" w="modified" l="modify" p="V"/>
+     <dpg d="E12" g="w26991" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E12" g="w26983" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w26992" g="w26991" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w26993" g="w26994" t="lex-mod" cr="lex-mod:w26994" w="Cys" l="~" p="U"/>
+     <dpg d="w26994" g="w26992" t="pcomp-n" cr="mod*at*n:w26991" w="374" l="Cys 374" p="N"/>
+     <dpg d="w26995" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

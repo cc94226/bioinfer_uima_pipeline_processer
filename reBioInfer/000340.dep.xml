@@ -1,0 +1,66 @@
+<rexml>
+<doc id="340">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w5128" g="E4" t="subcat" cr="subcat:E4" w="CONCLUSION" l="~" p="N"/>
+     <dpg d="w5129" g="E4" t="punc" cr="punc:E4" w=":" l="~" p="U"/>
+     <dpg d="E2" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5130" g="w5131" t="det" cr="det:w5131" w="The" l="~" p="Det"/>
+     <dpg d="w5131" g="w5132" t="s" cr="s+subj:w5132" w="results" l="result" p="N"/>
+     <dpg d="w5132" g="E2" t="i" cr="UNSPECRELTYPE:E4" w="show" l="~" p="V"/>
+     <dpg d="E5" g="w5132" t="subj" cr="" w="" l="result" p="N"/>
+     <dpg d="E5" g="w5131" t="antecedent" cr="" w="" l="result" p="N"/>
+     <dpg d="E1" g="w5132" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5133" g="E1" t="c" cr="c:w5138" w="that" l="~" p="COMP"/>
+     <dpg d="w5134" g="w5138" t="s" cr="s+subj:w5138||subj:w5144" w="Munc-18-2" l="Munc-18-2" p="N"/>
+     <dpg d="w5135" g="w5134" t="punc" cr="punc:w5134" w="and" l="~" p="U"/>
+     <dpg d="w5136" g="w5134" t="conj" cr="conj:w5134" w="syntaxin" l="~" p="N"/>
+     <dpg d="w5137" g="w5136" t="num" cr="num:w5136" w="3" l="~" p="N"/>
+     <dpg d="w5138" g="E1" t="i" cr="fc:w5132" w="form" l="~" p="V"/>
+     <dpg d="E6" g="w5138" t="subj" cr="" w="" l="Munc-18-2" p="N"/>
+     <dpg d="E6" g="w5134" t="antecedent" cr="" w="" l="Munc-18-2" p="N"/>
+     <dpg d="w5139" g="w5140" t="det" cr="det:w5140" w="a" l="~" p="Det"/>
+     <dpg d="w5140" g="w5138" t="obj" cr="obj:w5138" w="complex" l="~" p="N"/>
+     <dpg d="w5141" g="w5142" t="lex-mod" cr="lex-mod:w5142" w="in" l="~" p="U"/>
+     <dpg d="w5142" g="w5138" t="mod" cr="mod:w5138" w="vivo" l="in vivo" p="A"/>
+     <dpg d="w5143" g="w5138" t="punc" cr="punc:w5138" w="and" l="~" p="U"/>
+     <dpg d="w5144" g="w5138" t="conj" cr="conj:w5138" w="suggest" l="~" p="V"/>
+     <dpg d="E7" g="w5144" t="subj" cr="" w="" l="Munc-18-2" p="N"/>
+     <dpg d="E7" g="w5134" t="antecedent" cr="" w="" l="Munc-18-2" p="N"/>
+     <dpg d="E0" g="w5144" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5145" g="E0" t="c" cr="c:w5147" w="that" l="~" p="COMP"/>
+     <dpg d="w5146" g="w5147" t="s" cr="s+subj:w5147||subj:w5153" w="they" l="~" p="N"/>
+     <dpg d="w5147" g="E0" t="i" cr="fc:w5144" w="participate" l="~" p="V"/>
+     <dpg d="E8" g="w5147" t="subj" cr="" w="" l="they" p="N"/>
+     <dpg d="E8" g="w5146" t="antecedent" cr="" w="" l="they" p="N"/>
+     <dpg d="w5148" g="w5147" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w5149" g="w5150" t="lex-mod" cr="lex-mod:w5150" w="epithelial" l="~" p="U"/>
+     <dpg d="w5150" g="w5151" t="nn" cr="nn:w5151" w="cell" l="epithelial cell" p="N"/>
+     <dpg d="w5151" g="w5148" t="pcomp-n" cr="mod*in*n:w5147" w="differentiation" l="~" p="N"/>
+     <dpg d="w5152" g="w5147" t="punc" cr="punc:w5147" w="and" l="~" p="U"/>
+     <dpg d="w5153" g="w5147" t="conj" cr="conj:w5147" w="targeted" l="target" p="V"/>
+     <dpg d="E9" g="w5153" t="subj" cr="" w="" l="they" p="N"/>
+     <dpg d="E9" g="w5146" t="antecedent" cr="" w="" l="they" p="N"/>
+     <dpg d="w5154" g="w5156" t="nn" cr="nn:w5156" w="vesicle" l="~" p="N"/>
+     <dpg d="w5155" g="w5156" t="nn" cr="nn:w5156" w="transport" l="~" p="N"/>
+     <dpg d="w5156" g="w5153" t="obj" cr="obj:w5153" w="processes" l="process" p="N"/>
+     <dpg d="w5157" g="w5156" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w5158" g="w5160" t="det" cr="det:w5160" w="the" l="~" p="Det"/>
+     <dpg d="w5159" g="w5160" t="mod" cr="mod:w5160" w="developing" l="~" p="A"/>
+     <dpg d="w5160" g="w5157" t="pcomp-n" cr="mod*in*n:w5156" w="kidney" l="~" p="N"/>
+     <dpg d="w5161" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

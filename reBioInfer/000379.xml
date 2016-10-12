@@ -1,0 +1,137 @@
+<rexml>
+<doc id="379">
+  <text>
+<p><s id="s1"><w id="w5699">Depending</w> <w id="w5700">on</w> <w id="w5701">the</w> <w id="w5702">nature</w> <w id="w5703">of</w> <w id="w5704">the</w> <w id="w5705">divalent</w> <w id="w5706">cation</w> <w id="w5707">,</w> <w id="w5708">recombinant</w> <w id="w5709">plant</w> <w id="w5710">(</w> <w id="w5711">birch</w> <w id="w5712">)</w> <w id="w5713">profilin</w> <w id="w5714">exhibited</w> <w id="w5715">two</w> <w id="w5716">different</w> <w id="w5717">modes</w> <w id="w5718">of</w> <w id="w5719">interaction</w> <w id="w5720">with</w> <w id="w5721">actin</w> <w id="w5722">,</w> <w id="w5723">like</w> <w id="w5724">mammalian</w> <w id="w5725">profilin</w> <w id="w5726">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1374" gid="g1311" t="Individual_protein" fr="w5709" to="w5713" nam="yes">
+     <textspan type="extent">plant [..] profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.379.0"/>
+      <exattr n="nst" v="st.379.10.0"/>
+      <exattr n="nst" v="st.379.14.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1375" gid="g1312" t="RELATIONSHIP_TEXTBINDING" fr="w5719" to="w5720">
+     <textspan type="extent">interaction with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.379.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1376" gid="g1313" t="Individual_protein" fr="w5724" to="w5725" nam="yes">
+     <textspan type="extent">mammalian profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.379.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1377" gid="g1314" t="Individual_protein" fr="w5721" to="w5721" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.379.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1378" gid="g1315" t="Multi-cell_organism" fr="w5709" to="w5709" nam="yes">
+     <textspan type="extent">plant</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Organism"/>
+      <exattr n="t5" v="Multi-cell_organism"/>
+      <exattr n="bd" v="e.379.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1379" gid="g1315" t="Multi-cell_organism" fr="w5711" to="w5711" nam="yes">
+     <textspan type="extent">birch</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Organism"/>
+      <exattr n="t5" v="Multi-cell_organism"/>
+      <exattr n="bd" v="e.379.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1380" gid="g1316" t="Individual_protein" fr="w5713" to="w5713" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.379.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1381" gid="g1317" t="RELATIONSHIP_TEXTBINDING" fr="w5719" to="w5723">
+     <textspan type="extent">interaction with [..] like</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.379.7"/>
+      <exattr n="nst" v="st.379.20.0"/>
+      <exattr n="nst" v="st.379.21.0"/>
+      <exattr n="nst" v="st.379.24.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1382" gid="g1318" t="Individual_protein" fr="w5725" to="w5725" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.379.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r543" t="INTERACT" e1="e1374" e2="e1377" re="e1375">
+     <textspan type="extent">plant ( birch ) profilin exhibited two different modes of interaction with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.379.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r544" t="INTERACT" e1="e1376" e2="e1377" re="e1381">
+     <textspan type="extent">interaction with actin , like mammalian profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.379.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

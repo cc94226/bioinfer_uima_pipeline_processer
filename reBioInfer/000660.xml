@@ -1,0 +1,61 @@
+<rexml>
+<doc id="660">
+  <text>
+<p><s id="s1"><w id="w9932">Immunoblot</w> <w id="w9933">and</w> <w id="w9934">Northern</w> <w id="w9935">blot</w> <w id="w9936">analyses</w> <w id="w9937">also</w> <w id="w9938">revealed</w> <w id="w9939">the</w> <w id="w9940">presence</w> <w id="w9941">of</w> <w id="w9942">alpha-catenin</w> <w id="w9943">,</w> <w id="w9944">beta-catenin</w> <w id="w9945">,</w> <w id="w9946">and</w> <w id="w9947">gamma-catenin</w> <w id="w9948">(</w> <w id="w9949">plakoglobin</w> <w id="w9950">)</w> <w id="w9951">in</w> <w id="w9952">these</w> <w id="w9953">cell</w> <w id="w9954">lines</w> <w id="w9955">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2352" gid="g2253" t="Gene/protein/RNA" fr="w9942" to="w9942" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.660.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2353" gid="g2254" t="Individual_protein" fr="w9947" to="w9947" nam="yes">
+     <textspan type="extent">gamma-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.660.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2354" gid="g2255" t="Gene/protein/RNA" fr="w9944" to="w9944" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.660.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2355" gid="g2254" t="Individual_protein" fr="w9949" to="w9949" nam="yes">
+     <textspan type="extent">plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.660.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

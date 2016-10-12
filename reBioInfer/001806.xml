@@ -1,0 +1,147 @@
+<rexml>
+<doc id="1806">
+  <text>
+<p><s id="s1"><w id="w29048">21</w> <w id="w29049">actin</w> <w id="w29050">mutations</w> <w id="w29051">were</w> <w id="w29052">analyzed</w> <w id="w29053">in</w> <w id="w29054">budding</w> <w id="w29055">yeast</w> <w id="w29056">,</w> <w id="w29057">and</w> <w id="w29058">specific</w> <w id="w29059">regions</w> <w id="w29060">of</w> <w id="w29061">actin</w> <w id="w29062">subdomain</w> <w id="w29063">1</w> <w id="w29064">were</w> <w id="w29065">implicated</w> <w id="w29066">in</w> <w id="w29067">the</w> <w id="w29068">interaction</w> <w id="w29069">with</w> <w id="w29070">fimbrin</w> <w id="w29071">,</w> <w id="w29072">an</w> <w id="w29073">actin</w> <w id="w29074">filament</w><w id="w29075">-</w><w id="w29076">bundling</w> <w id="w29077">protein</w> <w id="w29078">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6717" gid="g6406" t="Gene/protein/RNA" fr="w29049" to="w29049" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1806.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6718" gid="g6407" t="RELATIONSHIP_TEXTBINDING" fr="w29068" to="w29069">
+     <textspan type="extent">interaction with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1806.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6719" gid="g6408" t="RELATIONSHIP_TEXTBINDING" fr="w29065" to="w29066">
+     <textspan type="extent">implicated in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1806.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6720" gid="g6409" t="Substructure_of_protein" fr="w29059" to="w29062" nam="yes">
+     <textspan type="extent">regions of actin subdomain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1806.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6721" gid="g6410" t="Individual_protein" fr="w29061" to="w29061" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1806.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6722" gid="g6411" t="Cell_component" fr="w29073" to="w29074" nam="yes">
+     <textspan type="extent">actin filament</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1806.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6723" gid="g6412" t="Substructure_of_protein" fr="w29061" to="w29062" nam="yes">
+     <textspan type="extent">actin subdomain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1806.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6724" gid="g6413" t="Individual_protein" fr="w29070" to="w29070" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1806.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6725" gid="g6414" t="RELATIONSHIP_TEXTBINDING" fr="w29076" to="w29076">
+     <textspan type="extent">bundling</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1806.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6726" gid="g6415" t="Individual_protein" fr="w29073" to="w29073" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1806.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2577" t="PARTICIPATE" e1="e6720" e2="e6718" re="e6719">
+     <textspan type="extent">regions of actin subdomain 1 were implicated in the interaction with fimbrin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1806.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2578" t="INTERACT" e1="e6721" e2="e6724" re="e6718">
+     <textspan type="extent">actin subdomain 1 were implicated in the interaction with fimbrin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1806.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2579" t="LOCALIZE" e1="e6724" e2="e6722" re="e6725">
+     <textspan type="extent">fimbrin , an actin filament - bundling</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1806.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

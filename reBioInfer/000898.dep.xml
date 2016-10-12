@@ -1,0 +1,31 @@
+<rexml>
+<doc id="898">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w14060" g="w14061" t="lex-mod" cr="lex-mod:w14061" w="In" l="~" p="U"/>
+     <dpg d="w14061" g="w14062" t="mod" cr="mod:w14062" w="vivo" l="in vivo" p="A"/>
+     <dpg d="w14062" g="" t="" cr="" w="importance" l="~" p="N"/>
+     <dpg d="w14063" g="w14062" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w14064" g="w14066" t="nn" cr="nn:w14066" w="actin" l="~" p="N"/>
+     <dpg d="w14065" g="w14066" t="nn" cr="nn:w14066" w="nucleotide" l="~" p="N"/>
+     <dpg d="w14066" g="w14063" t="pcomp-n" cr="mod*of*n:w14062||obj:w14067" w="exchange" l="~" p="N"/>
+     <dpg d="w14067" g="w14066" t="vrel" cr="vrel:w14066" w="catalyzed" l="catalyze" p="V"/>
+     <dpg d="E1" g="w14067" t="obj" cr="" w="" l="exchange" p="N"/>
+     <dpg d="E1" g="w14066" t="antecedent" cr="" w="" l="exchange" p="N"/>
+     <dpg d="w14068" g="w14067" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w14069" g="w14068" t="pcomp-n" cr="by-subj*by*n:w14067" w="profilin" l="~" p="N"/>
+     <dpg d="w14070" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

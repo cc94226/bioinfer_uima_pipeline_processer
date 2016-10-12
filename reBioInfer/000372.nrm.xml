@@ -1,0 +1,120 @@
+<rexml>
+<doc id="372">
+  
+  <markup>
+   <nes>
+    <ne id="e1341" gid="g1279" t="Mutant" fr="w5590" to="w5599" nam="yes" sid="s1">
+     <textspan>mutants of the herpes simplex virus type 1 UL8 protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.372.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1347" gid="g1285" t="Individual_protein" fr="w5592" to="w5599" nam="yes" sid="s1">
+     <textspan>the herpes simplex virus type 1 UL8 protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.372.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1348" gid="g1286" t="Individual_protein" fr="w5598" to="w5598" nam="yes" sid="s1">
+     <textspan>UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.372.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1349" gid="g1287" t="Individual_protein" fr="w5617" to="w5620" nam="yes" sid="s1">
+     <textspan>UL5 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.372.8"/>
+      <exattr n="nst" v="st.372.28.0"/>
+      <exattr n="nst" v="st.372.31.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1350" gid="g1288" t="Individual_protein" fr="w5617" to="w5617" nam="yes" sid="s1">
+     <textspan>UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.372.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e1343" gid="g1281" t="Individual_protein" fr="w5619" to="w5620" nam="yes" sid="s1">
+     <textspan>UL52 proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.372.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1351" gid="g1289" t="Individual_protein" fr="w5619" to="w5619" nam="yes" sid="s1">
+     <textspan>UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.372.10"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r529" t="INTERACT" e1="e1341" e2="e1349" re="e1342">
+     <textspan>mutants of the herpes simplex virus type 1 UL8 protein : effect on DNA synthesis and ability to interact with and influence the intracellular localization of the UL5 and UL52 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.372.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r530" t="INTERACT" e1="e1341" e2="e1343" re="e1342">
+     <textspan>mutants of the herpes simplex virus type 1 UL8 protein : effect on DNA synthesis and ability to interact with and influence the intracellular localization of the UL5 and UL52 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.372.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

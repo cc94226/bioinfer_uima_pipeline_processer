@@ -1,0 +1,146 @@
+<rexml>
+<doc id="1771">
+  
+  <markup>
+   <nes>
+    <ne id="e6544" gid="g6239" t="Individual_protein" fr="w28328" to="w28328" nam="yes" sid="s1">
+     <textspan>Src</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1771.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6542" gid="g6237" t="Substructure_of_protein" fr="w28330" to="w28342" nam="yes" sid="s1">
+     <textspan>domain [..] of [..] Myo5p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1771.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6543" gid="g6238" t="Individual_protein" fr="w28337" to="w28340" nam="yes" sid="s1">
+     <textspan>yeast type I myosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1771.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6550" gid="g6245" t="Individual_protein" fr="w28338" to="w28340" nam="yes" sid="s1">
+     <textspan>type I myosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1771.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e6538" gid="g6233" t="Individual_protein" fr="w28342" to="w28342" nam="yes" sid="s1">
+     <textspan>Myo5p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1771.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6541" gid="g6236" t="Individual_protein" fr="w28346" to="w28346" nam="yes" sid="s1">
+     <textspan>verprolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1771.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6546" gid="g6241" t="Cell_component" fr="w28353" to="w28356" nam="yes" sid="s1">
+     <textspan>sites of actin polarization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1771.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6548" gid="g6243" t="Individual_protein" fr="w28355" to="w28355" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1771.10"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2519" t="MEMBER" e1="e6543" e2="e6538" re="">
+     <textspan>yeast type I myosin , Myo5p</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2520" t="SIMILAR" e1="e6542" e2="e6544" re="e6540">
+     <textspan>Src homology domain 3 ( SH3 ) of a yeast type I myosin , Myo5p</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1771.2"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2521" t="BIND" e1="e6542" e2="e6541" re="e6539">
+     <textspan>domain 3 ( SH3 ) of a yeast type I myosin , Myo5p , binds to verprolin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1771.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

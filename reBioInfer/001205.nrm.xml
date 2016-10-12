@@ -1,0 +1,116 @@
+<rexml>
+<doc id="1205">
+  
+  <markup>
+   <nes>
+    <ne id="e4404" gid="g4211" t="Gene" fr="w19014" to="w19018" nam="yes" sid="s1">
+     <textspan>yeast MSH3 [..] genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1205.1"/>
+      <exattr n="nst" v="st.1205.3.0"/>
+      <exattr n="nst" v="st.1205.4.0"/>
+      <exattr n="nst" v="st.1205.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4406" gid="g4213" t="Gene" fr="w19014" to="w19018" nam="yes" sid="s1">
+     <textspan>yeast [..] MSH6 genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1205.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4407" gid="g4214" t="Gene" fr="w19015" to="w19015" nam="yes" sid="s1">
+     <textspan>MSH3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1205.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4408" gid="g4215" t="Gene" fr="w19017" to="w19017" nam="yes" sid="s1">
+     <textspan>MSH6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1205.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4405" gid="g4212" t="Physical_property" fr="w19020" to="w19023" sid="s1">
+     <textspan>MSH2-dependent [..] stability</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Physical_property"/>
+      <exattr n="bd" v="e.1205.2"/>
+      <exattr n="nst" v="st.1205.9.0"/>
+      <exattr n="nst" v="st.1205.9.1"/>
+      <exattr n="nst" v="st.1205.11.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4409" gid="g4216" t="Gene" fr="w19020" to="w19020" nam="yes" sid="s1">
+     <textspan>MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1205.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1682" t="CONDITION" e1="e4404" e2="e4405" re="e4403">
+     <textspan>Requirement of the yeast MSH3 and MSH6 genes for MSH2 -dependent genomic stability</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1205.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1683" t="CONDITION" e1="e4406" e2="e4405" re="e4403">
+     <textspan>Requirement of the yeast MSH3 and MSH6 genes for MSH2 -dependent genomic stability</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1205.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

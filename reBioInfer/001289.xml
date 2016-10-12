@@ -1,0 +1,107 @@
+<rexml>
+<doc id="1289">
+  <text>
+<p><s id="s1"><w id="w20297">Specific</w> <w id="w20298">interactions</w> <w id="w20299">between</w> <w id="w20300">the</w> <w id="w20301">nucleocapsid</w> <w id="w20302">protein</w> <w id="w20303">(</w> <w id="w20304">N</w> <w id="w20305">)</w> <w id="w20306">and</w> <w id="w20307">the</w> <w id="w20308">phosphoprotein</w> <w id="w20309">(</w> <w id="w20310">P</w> <w id="w20311">)</w> <w id="w20312">of</w> <w id="w20313">bovine</w> <w id="w20314">respiratory</w> <w id="w20315">syncytial</w> <w id="w20316">virus</w> <w id="w20317">(</w> <w id="w20318">BRSV</w> <w id="w20319">)</w> <w id="w20320">have</w> <w id="w20321">been</w> <w id="w20322">investigated</w> <w id="w20323">using</w> <w id="w20324">a</w> <w id="w20325">yeast-based</w> <w id="w20326">two-hybrid</w> <w id="w20327">system</w> <w id="w20328">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4667" gid="g4462" t="RELATIONSHIP_TEXTBINDING" fr="w20298" to="w20299">
+     <textspan type="extent">interactions between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1289.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4668" gid="g4463" t="Individual_protein" fr="w20301" to="w20302" nam="yes">
+     <textspan type="extent">nucleocapsid protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1289.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4669" gid="g4463" t="Individual_protein" fr="w20304" to="w20304" nam="yes">
+     <textspan type="extent">N</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1289.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4670" gid="g4464" t="Individual_protein" fr="w20308" to="w20308" nam="yes">
+     <textspan type="extent">phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1289.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4671" gid="g4465" t="Individual_protein" fr="w20301" to="w20316" nam="yes">
+     <textspan type="extent">nucleocapsid protein [..] of bovine respiratory syncytial virus</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1289.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4672" gid="g4464" t="Individual_protein" fr="w20310" to="w20310" nam="yes">
+     <textspan type="extent">P</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1289.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4673" gid="g4466" t="Individual_protein" fr="w20308" to="w20316" nam="yes">
+     <textspan type="extent">phosphoprotein [..] of bovine respiratory syncytial virus</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1289.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1777" t="INTERACT" e1="e4671" e2="e4673" re="e4667">
+     <textspan type="extent">interactions between the nucleocapsid protein ( N ) and the phosphoprotein ( P ) of bovine respiratory syncytial virus</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1289.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

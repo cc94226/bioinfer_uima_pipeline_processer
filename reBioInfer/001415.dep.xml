@@ -1,0 +1,66 @@
+<rexml>
+<doc id="1415">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22122" g="w22124" t="det" cr="det:w22124" w="The" l="~" p="Det"/>
+     <dpg d="w22123" g="w22124" t="mod" cr="mod:w22124" w="cellular" l="~" p="A"/>
+     <dpg d="w22124" g="w22131" t="s" cr="s:w22131||subj:w22132" w="concentrations" l="concentration" p="N"/>
+     <dpg d="w22125" g="w22124" t="punc" cr="punc:w22124" w="and" l="~" p="U"/>
+     <dpg d="w22126" g="w22127" t="mod" cr="mod:w22127" w="binding" l="~" p="A"/>
+     <dpg d="w22127" g="w22124" t="conj" cr="conj:w22124" w="characteristics" l="characteristic" p="N"/>
+     <dpg d="w22128" g="w22127" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w22129" g="w22130" t="det" cr="det:w22130" w="these" l="~" p="Det"/>
+     <dpg d="w22130" g="w22128" t="pcomp-n" cr="mod*of*n:w22127" w="molecules" l="molecule" p="N"/>
+     <dpg d="w22131" g="E2" t="i" cr="" w="are" l="be" p="VBE"/>
+     <dpg d="w22132" g="w22131" t="pred" cr="pred:w22131" w="consistent" l="~" p="A"/>
+     <dpg d="E6" g="w22132" t="subj" cr="" w="" l="concentration" p="N"/>
+     <dpg d="E6" g="w22124" t="antecedent" cr="" w="" l="concentration" p="N"/>
+     <dpg d="w22133" g="w22132" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w22134" g="w22133" t="pcomp-n" cr="mod*with*n:w22132||s:w22135||subj:w22138" w="profilin" l="~" p="N"/>
+     <dpg d="E1" g="w22134" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w22134" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w22135" g="E1" t="i" cr="rel:w22134" w="being" l="be" p="VBE"/>
+     <dpg d="E7" g="w22138" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w22136" g="w22138" t="det" cr="det:w22138" w="a" l="~" p="Det"/>
+     <dpg d="w22137" g="w22138" t="mod" cr="mod:w22138" w="negative" l="~" p="A"/>
+     <dpg d="w22138" g="w22135" t="pred" cr="pred:w22135" w="regulator" l="~" p="N"/>
+     <dpg d="w22139" g="w22138" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w22140" g="w22141" t="det" cr="det:w22141" w="the" l="~" p="Det"/>
+     <dpg d="w22141" g="w22139" t="pcomp-n" cr="mod*of*n:w22138||s+subj:w22142" w="phosphoinositide" l="~" p="N"/>
+     <dpg d="E0" g="w22141" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w22141" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w22142" g="E0" t="i" cr="rel:w22141" w="signaling" l="signal" p="V"/>
+     <dpg d="E8" g="w22142" t="subj" cr="" w="" l="phosphoinositide" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="phosphoinositide" p="N"/>
+     <dpg d="w22143" g="w22142" t="obj" cr="obj:w22142" w="pathway" l="~" p="N"/>
+     <dpg d="w22144" g="w22143" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w22145" g="w22144" t="pcomp-n" cr="mod*in*n:w22143" w="addition" l="~" p="N"/>
+     <dpg d="w22146" g="w22145" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w22147" g="w22149" t="gen" cr="gen:w22149" w="its" l="~" p="N"/>
+     <dpg d="w22148" g="w22149" t="mod" cr="mod:w22149" w="established" l="~" p="A"/>
+     <dpg d="w22149" g="w22146" t="pcomp-n" cr="mod*to*n:w22145" w="function" l="~" p="N"/>
+     <dpg d="w22150" g="w22149" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w22151" g="w22152" t="det" cr="det:w22152" w="an" l="~" p="Det"/>
+     <dpg d="w22152" g="w22150" t="pcomp-n" cr="mod*as*n:w22149" w="inhibitor" l="~" p="N"/>
+     <dpg d="w22153" g="w22152" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w22154" g="w22155" t="nn" cr="nn:w22155" w="actin" l="~" p="N"/>
+     <dpg d="w22155" g="w22153" t="pcomp-n" cr="mod*of*n:w22152" w="polymerization" l="~" p="N"/>
+     <dpg d="w22156" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

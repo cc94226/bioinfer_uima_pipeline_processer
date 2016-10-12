@@ -1,0 +1,53 @@
+<rexml>
+<doc id="1531">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24127" g="w24130" t="det" cr="det:w24130" w="The" l="~" p="Det"/>
+     <dpg d="w24128" g="w24130" t="mod" cr="mod:w24130" w="intracellular" l="~" p="A"/>
+     <dpg d="w24129" g="w24130" t="nn" cr="nn:w24130" w="molecules" l="molecule" p="N"/>
+     <dpg d="w24130" g="w24134" t="s" cr="s+subj:w24134||subj:w24139||s+subj:w24146" w="calmodulin" l="~" p="N"/>
+     <dpg d="w24131" g="w24130" t="punc" cr="punc:w24130" w="and" l="~" p="U"/>
+     <dpg d="w24132" g="w24130" t="conj" cr="conj:w24130" w="profilin" l="~" p="N"/>
+     <dpg d="w24133" g="w24134" t="mod-before" cr="mod-before:w24134" w="actively" l="~" p="A"/>
+     <dpg d="w24134" g="E1" t="i" cr="" w="regulate" l="~" p="V"/>
+     <dpg d="E4" g="w24134" t="subj" cr="" w="" l="calmodulin" p="N"/>
+     <dpg d="E4" g="w24130" t="antecedent" cr="" w="" l="calmodulin" p="N"/>
+     <dpg d="w24135" g="w24136" t="lex-mod" cr="lex-mod:w24136" w="actin" l="~" p="U"/>
+     <dpg d="w24136" g="w24137" t="mod" cr="mod:w24137" w="-based" l="actin -based" p="A"/>
+     <dpg d="w24137" g="w24134" t="obj" cr="obj:w24134" w="motility" l="~" p="N"/>
+     <dpg d="w24138" g="w24134" t="punc" cr="punc:w24134" w="and" l="~" p="U"/>
+     <dpg d="w24139" g="w24134" t="conj" cr="conj:w24134" w="participate" l="~" p="V"/>
+     <dpg d="E5" g="w24139" t="subj" cr="" w="" l="calmodulin" p="N"/>
+     <dpg d="E5" g="w24130" t="antecedent" cr="" w="" l="calmodulin" p="N"/>
+     <dpg d="w24140" g="w24139" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w24141" g="w24143" t="det" cr="det:w24143" w="the" l="~" p="Det"/>
+     <dpg d="w24142" g="w24143" t="nn" cr="nn:w24143" w="signaling" l="~" p="N"/>
+     <dpg d="w24143" g="w24140" t="pcomp-n" cr="mod*in*n:w24139||obj:w24144" w="pathways" l="pathway" p="N"/>
+     <dpg d="w24144" g="w24143" t="vrel" cr="vrel:w24143" w="used" l="use" p="V"/>
+     <dpg d="E6" g="w24144" t="obj" cr="" w="" l="pathway" p="N"/>
+     <dpg d="E6" g="w24143" t="antecedent" cr="" w="" l="pathway" p="N"/>
+     <dpg d="E0" g="w24144" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w24130" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w24145" g="w24146" t="aux" cr="aux:w24146" w="to" l="~" p="Aux"/>
+     <dpg d="w24146" g="E0" t="i" cr="mod:w24144" w="steer" l="~" p="V"/>
+     <dpg d="E7" g="w24146" t="subj" cr="" w="" l="calmodulin" p="N"/>
+     <dpg d="E7" g="E2" t="antecedent" cr="" w="" l="calmodulin" p="N"/>
+     <dpg d="w24147" g="w24148" t="nn" cr="nn:w24148" w="growth" l="~" p="N"/>
+     <dpg d="w24148" g="w24146" t="obj" cr="obj:w24146" w="cones" l="cone" p="N"/>
+     <dpg d="w24149" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

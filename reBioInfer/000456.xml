@@ -1,0 +1,117 @@
+<rexml>
+<doc id="456">
+  <text>
+<p><s id="s1"><w id="w6583">Expression</w> <w id="w6584">of</w> <w id="w6585">alpha-catenin</w> <w id="w6586">was</w> <w id="w6587">generally</w> <w id="w6588">weak</w> <w id="w6589">and</w> <w id="w6590">did</w> <w id="w6591">not</w> <w id="w6592">correlate</w> <w id="w6593">with</w> <w id="w6594">the</w> <w id="w6595">expression</w> <w id="w6596">of</w> <w id="w6597">either</w> <w id="w6598">beta-catenin</w> <w id="w6599">or</w> <w id="w6600">E-cadherin</w> <w id="w6601">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1585" gid="g1516" t="Expression" fr="w6583" to="w6585">
+     <textspan type="extent">Expression of alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.456.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1586" gid="g1517" t="RELATIONSHIP_TEXTBINDING" fr="w6591" to="w6591">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.456.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1587" gid="g1518" t="Expression" fr="w6595" to="w6600">
+     <textspan type="extent">expression of [..] E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.456.2"/>
+      <exattr n="nst" v="st.456.12.0"/>
+      <exattr n="nst" v="st.456.13.0"/>
+      <exattr n="nst" v="st.456.17.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1588" gid="g1519" t="RELATIONSHIP_TEXTBINDING" fr="w6592" to="w6593">
+     <textspan type="extent">correlate with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.456.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1589" gid="g1520" t="Individual_protein" fr="w6585" to="w6585" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.456.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1590" gid="g1521" t="Expression" fr="w6595" to="w6598">
+     <textspan type="extent">expression of [..] beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.456.5"/>
+      <exattr n="nst" v="st.456.12.0"/>
+      <exattr n="nst" v="st.456.13.0"/>
+      <exattr n="nst" v="st.456.15.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1591" gid="g1522" t="Individual_protein" fr="w6598" to="w6598" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.456.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1592" gid="g1523" t="Individual_protein" fr="w6600" to="w6600" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.456.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r622" t="CORELATE" e1="e1585" e2="e1590" re="e1588">
+     <textspan type="extent">Expression of alpha-catenin was generally weak and did not correlate with the expression of either beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.456.3"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r624" t="CORELATE" e1="e1585" e2="e1587" re="e1588">
+     <textspan type="extent">Expression of alpha-catenin was generally weak and did not correlate with the expression of either beta-catenin or E-cadherin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.456.3"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

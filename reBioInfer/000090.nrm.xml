@@ -1,0 +1,68 @@
+<rexml>
+<doc id="90">
+  
+  <markup>
+   <nes>
+    <ne id="e380" gid="g368" t="Individual_protein" fr="w1484" to="w1484" nam="yes" sid="s1">
+     <textspan>glucokinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.90.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e382" gid="g370" t="Cell_component" fr="w1486" to="w1487" nam="yes" sid="s1">
+     <textspan>actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.90.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e383" gid="g371" t="Individual_protein" fr="w1486" to="w1486" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.90.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e381" gid="g369" t="Gene/protein/RNA" fr="w1499" to="w1500" nam="yes" sid="s1">
+     <textspan>islet glucokinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.90.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r137" t="COLOCALIZE" e1="e380" e2="e382" re="e379">
+     <textspan>co-localization of glucokinase with actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.90.0"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

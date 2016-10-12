@@ -1,0 +1,184 @@
+<rexml>
+<doc id="1684">
+  <text>
+<p><s id="s1"><w id="w26791">These</w> <w id="w26792">data</w> <w id="w26793">indicate</w> <w id="w26794">that</w> <w id="w26795">the</w> <w id="w26796">actin</w><w id="w26797">-</w><w id="w26798">binding</w> <w id="w26799">domains</w> <w id="w26800">in</w> <w id="w26801">plant</w> <w id="w26802">and</w> <w id="w26803">animal</w> <w id="w26804">profilins</w> <w id="w26805">are</w> <w id="w26806">functionally</w> <w id="w26807">highly</w> <w id="w26808">conserved</w> <w id="w26809">,</w> <w id="w26810">although</w> <w id="w26811">the</w> <w id="w26812">overall</w> <w id="w26813">sequence</w> <w id="w26814">similarity</w> <w id="w26815">is</w> <w id="w26816">less</w> <w id="w26817">than</w> <w id="w26818">25</w> <w id="w26819">%</w> <w id="w26820">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6188" gid="g5906" t="Individual_protein" fr="w26796" to="w26796" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1684.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6189" gid="g5907" t="RELATIONSHIP_TEXTBINDING" fr="w26798" to="w26798">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1684.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6190" gid="g5908" t="Substructure_of_protein" fr="w26799" to="w26804" nam="yes">
+     <textspan type="extent">domains in [..] animal profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1684.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6191" gid="g5909" t="Substructure_of_protein" fr="w26799" to="w26804" nam="yes">
+     <textspan type="extent">domains in plant [..] profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1684.3"/>
+      <exattr n="nst" v="st.1684.6.0"/>
+      <exattr n="nst" v="st.1684.7.0"/>
+      <exattr n="nst" v="st.1684.8.0"/>
+      <exattr n="nst" v="st.1684.11.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6192" gid="g5910" t="Protein_family_or_group" fr="w26803" to="w26804" nam="yes">
+     <textspan type="extent">animal profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1684.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6193" gid="g5911" t="Protein_family_or_group" fr="w26801" to="w26804" nam="yes">
+     <textspan type="extent">plant [..] profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1684.5"/>
+      <exattr n="nst" v="st.1684.8.0"/>
+      <exattr n="nst" v="st.1684.11.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6194" gid="g5912" t="RELATIONSHIP_TEXTBINDING" fr="w26806" to="w26808">
+     <textspan type="extent">functionally [..] conserved</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1684.6"/>
+      <exattr n="nst" v="st.1684.13.0"/>
+      <exattr n="nst" v="st.1684.15.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6195" gid="g5913" t="Protein_family_or_group" fr="w26804" to="w26804" nam="yes">
+     <textspan type="extent">profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1684.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6196" gid="g5914" t="Protein_family_or_group" fr="w26804" to="w26804" nam="yes">
+     <textspan type="extent">profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1684.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6197" gid="g5915" t="Protein_family_or_group" fr="w26804" to="w26804" nam="yes">
+     <textspan type="extent">profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1684.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6198" gid="g5916" t="Protein_family_or_group" fr="w26804" to="w26804" nam="yes">
+     <textspan type="extent">profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1684.10"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2374" t="BIND" e1="e6191" e2="e6188" re="e6189">
+     <textspan type="extent">actin - binding domains in plant and animal profilins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1684.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2375" t="BIND" e1="e6190" e2="e6188" re="e6189">
+     <textspan type="extent">actin - binding domains in plant and animal profilins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1684.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2376" t="FNSIMILAR" e1="e6191" e2="e6190" re="e6194">
+     <textspan type="extent">domains in plant and animal profilins are functionally highly conserved</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1684.6"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Functional-Similarity"/>
+      <exattr n="t4" v="FNSIMILAR"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

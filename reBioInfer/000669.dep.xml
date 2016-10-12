@@ -1,0 +1,54 @@
+<rexml>
+<doc id="669">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10022" g="w10023" t="nn" cr="nn:w10023" w="Immunofluorescence" l="~" p="N"/>
+     <dpg d="w10023" g="w10029" t="s" cr="s+subj:w10029" w="microscopy" l="~" p="N"/>
+     <dpg d="w10024" g="w10023" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10025" g="w10024" t="pcomp-n" cr="mod*of*n:w10023||obj:w10026" w="cells" l="cell" p="N"/>
+     <dpg d="w10026" g="w10025" t="vrel" cr="vrel:w10025" w="grown" l="grow" p="V"/>
+     <dpg d="E2" g="w10026" t="obj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E2" g="w10025" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w10027" g="w10026" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w10028" g="w10027" t="pcomp-n" cr="mod*on*n:w10026" w="fibronectin" l="~" p="N"/>
+     <dpg d="w10029" g="E0" t="i" cr="" w="confirmed" l="confirm" p="V"/>
+     <dpg d="E3" g="w10029" t="subj" cr="" w="" l="microscopy" p="N"/>
+     <dpg d="E3" g="w10023" t="antecedent" cr="" w="" l="microscopy" p="N"/>
+     <dpg d="w10030" g="w10031" t="det" cr="det:w10031" w="the" l="~" p="Det"/>
+     <dpg d="w10031" g="w10029" t="obj" cr="obj:w10029" w="presence" l="~" p="N"/>
+     <dpg d="w10032" g="w10031" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10033" g="w10032" t="pcomp-n" cr="mod*of*n:w10031" w="paxillin" l="~" p="N"/>
+     <dpg d="w10034" g="w10033" t="punc" cr="punc:w10033" w="," l="~" p="U"/>
+     <dpg d="w10035" g="w10033" t="conj" cr="conj:w10033" w="talin" l="~" p="N"/>
+     <dpg d="w10036" g="w10035" t="punc" cr="punc:w10035" w="," l="~" p="U"/>
+     <dpg d="w10037" g="w10035" t="punc" cr="punc:w10035" w="and" l="~" p="U"/>
+     <dpg d="w10038" g="w10035" t="conj" cr="conj:w10035" w="vinculin" l="~" p="N"/>
+     <dpg d="w10039" g="w10038" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w10040" g="w10041" t="det" cr="det:w10041" w="the" l="~" p="Det"/>
+     <dpg d="w10041" g="w10039" t="pcomp-n" cr="mod*at*n:w10038" w="ends" l="end" p="N"/>
+     <dpg d="w10042" g="w10041" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10043" g="w10045" t="nn" cr="nn:w10045" w="actin" l="~" p="N"/>
+     <dpg d="w10044" g="w10045" t="nn" cr="nn:w10045" w="stress" l="~" p="N"/>
+     <dpg d="w10045" g="w10042" t="pcomp-n" cr="mod*of*n:w10041" w="fibers" l="fiber" p="N"/>
+     <dpg d="w10046" g="w10045" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w10047" g="w10049" t="mod" cr="mod:w10049" w="presumptive" l="~" p="A"/>
+     <dpg d="w10048" g="w10049" t="mod" cr="mod:w10049" w="focal" l="~" p="A"/>
+     <dpg d="w10049" g="w10046" t="pcomp-n" cr="mod*at*n:w10045" w="contacts" l="contact" p="N"/>
+     <dpg d="w10050" g="w10049" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w10051" g="w10050" t="pcomp-n" cr="mod*in*n:w10049" w="melanocytes" l="~" p="N"/>
+     <dpg d="w10052" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

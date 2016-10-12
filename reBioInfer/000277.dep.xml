@@ -1,0 +1,68 @@
+<rexml>
+<doc id="277">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4169" g="E1" t="mod" cr="" w="By" l="~" p="Prep"/>
+     <dpg d="w4170" g="w4171" t="det" cr="det:w4171" w="the" l="~" p="Det"/>
+     <dpg d="w4171" g="w4169" t="pcomp-n" cr="mod*by*n:w4180" w="use" l="~" p="N"/>
+     <dpg d="w4172" g="w4171" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4173" g="w4174" t="nn" cr="nn:w4174" w="HSV" l="~" p="N"/>
+     <dpg d="w4174" g="w4172" t="pcomp-n" cr="mod*of*n:w4171" w="mutants" l="mutant" p="N"/>
+     <dpg d="w4175" g="w4174" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w4176" g="w4178" t="det" cr="det:w4178" w="the" l="~" p="Det"/>
+     <dpg d="w4177" g="w4178" t="nn" cr="nn:w4178" w="UL9" l="~" p="N"/>
+     <dpg d="w4178" g="w4175" t="pcomp-n" cr="mod*for*n:w4174" w="gene" l="~" p="N"/>
+     <dpg d="w4179" g="w4180" t="s" cr="s+subj:w4180" w="we" l="~" p="N"/>
+     <dpg d="w4180" g="E1" t="i" cr="" w="show" l="~" p="V"/>
+     <dpg d="E3" g="w4180" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E3" g="w4179" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w4181" g="w4180" t="guest" cr="guest:w4180" w="here" l="~" p="N"/>
+     <dpg d="E0" g="w4180" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4182" g="E0" t="c" cr="c:w4185" w="that" l="~" p="COMP"/>
+     <dpg d="w4183" g="w4185" t="s" cr="s+subj:w4185" w="HSV" l="~" p="N"/>
+     <dpg d="w4184" g="w4185" t="aux" cr="aux:w4185" w="can" l="~" p="Aux"/>
+     <dpg d="w4185" g="E0" t="i" cr="fc:w4180" w="induce" l="~" p="V"/>
+     <dpg d="E4" g="w4185" t="subj" cr="" w="" l="HSV" p="N"/>
+     <dpg d="E4" g="w4183" t="antecedent" cr="" w="" l="HSV" p="N"/>
+     <dpg d="w4186" g="w4187" t="nn" cr="nn:w4187" w="DNA" l="~" p="N"/>
+     <dpg d="w4187" g="w4185" t="obj" cr="obj:w4185" w="amplification" l="~" p="N"/>
+     <dpg d="w4188" g="w4187" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w4189" g="w4190" t="det" cr="det:w4190" w="the" l="~" p="Det"/>
+     <dpg d="w4190" g="w4188" t="pcomp-n" cr="mod*in*n:w4187" w="absence" l="~" p="N"/>
+     <dpg d="w4191" g="w4190" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4192" g="w4194" t="mod" cr="mod:w4194" w="lytic" l="~" p="A"/>
+     <dpg d="w4193" g="w4194" t="mod" cr="mod:w4194" w="viral" l="~" p="A"/>
+     <dpg d="w4194" g="w4191" t="pcomp-n" cr="mod*of*n:w4190" w="growth" l="~" p="N"/>
+     <dpg d="w4195" g="w4194" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w4196" g="w4195" t="pcomp-n" cr="mod*in*n:w4194" w="contrast" l="~" p="N"/>
+     <dpg d="w4197" g="w4196" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w4198" g="w4199" t="mod" cr="mod:w4199" w="replication-negative" l="replication-negative" p="A"/>
+     <dpg d="w4199" g="w4197" t="pcomp-n" cr="mod*to*n:w4196" w="mutants" l="mutant" p="N"/>
+     <dpg d="w4200" g="w4199" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w4201" g="w4200" t="punc" cr="punc:w4200" w="either" l="~" p="U"/>
+     <dpg d="w4202" g="w4203" t="det" cr="det:w4203" w="the" l="~" p="Det"/>
+     <dpg d="w4203" g="w4200" t="pcomp-n" cr="mod*for*n:w4199" w="UL8" l="~" p="N"/>
+     <dpg d="w4204" g="w4203" t="punc" cr="punc:w4203" w="or" l="~" p="U"/>
+     <dpg d="w4205" g="w4206" t="nn" cr="nn:w4206" w="UL52" l="~" p="N"/>
+     <dpg d="w4206" g="w4203" t="conj" cr="conj:w4203||obj:w4207" w="gene" l="~" p="N"/>
+     <dpg d="w4207" g="w4206" t="vrel" cr="vrel:w4206" w="used" l="use" p="V"/>
+     <dpg d="E5" g="w4207" t="obj" cr="" w="" l="gene" p="N"/>
+     <dpg d="E5" g="w4206" t="antecedent" cr="" w="" l="gene" p="N"/>
+     <dpg d="w4208" g="w4207" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w4209" g="w4208" t="pcomp-n" cr="mod*as*n:w4207" w="control" l="~" p="N"/>
+     <dpg d="w4210" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

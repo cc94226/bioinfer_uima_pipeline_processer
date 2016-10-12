@@ -1,0 +1,50 @@
+<rexml>
+<doc id="110">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1778" g="w1779" t="s" cr="s+subj:w1779" w="MSH2" l="~" p="N"/>
+     <dpg d="w1779" g="E2" t="i" cr="" w="plays" l="play" p="V"/>
+     <dpg d="E5" g="w1779" t="subj" cr="" w="" l="MSH2" p="N"/>
+     <dpg d="E5" g="w1778" t="antecedent" cr="" w="" l="MSH2" p="N"/>
+     <dpg d="w1780" g="w1782" t="det" cr="det:w1782" w="a" l="~" p="Det"/>
+     <dpg d="w1781" g="w1782" t="mod" cr="mod:w1782" w="fundamental" l="~" p="A"/>
+     <dpg d="w1782" g="w1779" t="obj" cr="obj:w1779" w="role" l="~" p="N"/>
+     <dpg d="w1783" g="w1782" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w1784" g="w1785" t="nn" cr="nn:w1785" w="mispair" l="~" p="N"/>
+     <dpg d="w1785" g="w1783" t="pcomp-n" cr="mod*in*n:w1782" w="recognition" l="~" p="N"/>
+     <dpg d="w1786" g="w1779" t="mod" cr="mod:w1779" w="whereas" l="~" p="SentAdjunct"/>
+     <dpg d="E1" g="w1786" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1787" g="w1790" t="s" cr="s+subj:w1790||s+subj:w1792" w="MSH3" l="~" p="N"/>
+     <dpg d="w1788" g="w1787" t="punc" cr="punc:w1787" w="and" l="~" p="U"/>
+     <dpg d="w1789" g="w1787" t="conj" cr="conj:w1787" w="MSH6" l="~" p="N"/>
+     <dpg d="w1790" g="E1" t="i" cr="comp1:w1786" w="appear" l="~" p="V"/>
+     <dpg d="E6" g="w1790" t="subj" cr="" w="" l="MSH3" p="N"/>
+     <dpg d="E6" g="w1787" t="antecedent" cr="" w="" l="MSH3" p="N"/>
+     <dpg d="E0" g="w1790" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w1787" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w1791" g="w1792" t="aux" cr="aux:w1792" w="to" l="~" p="Aux"/>
+     <dpg d="w1792" g="E0" t="i" cr="mod:w1790" w="modify" l="~" p="V"/>
+     <dpg d="E7" g="w1792" t="subj" cr="" w="" l="MSH3" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="MSH3" p="N"/>
+     <dpg d="w1793" g="w1794" t="det" cr="det:w1794" w="the" l="~" p="Det"/>
+     <dpg d="w1794" g="w1792" t="obj" cr="obj:w1792" w="specificity" l="~" p="N"/>
+     <dpg d="w1795" g="w1794" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w1796" g="w1797" t="det" cr="det:w1797" w="this" l="~" p="Det"/>
+     <dpg d="w1797" g="w1795" t="pcomp-n" cr="mod*of*n:w1794" w="recognition" l="~" p="N"/>
+     <dpg d="w1798" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

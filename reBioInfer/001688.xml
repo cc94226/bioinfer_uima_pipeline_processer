@@ -1,0 +1,74 @@
+<rexml>
+<doc id="1688">
+  <text>
+<p><s id="s1"><w id="w26891">These</w> <w id="w26892">data</w> <w id="w26893">suggest</w> <w id="w26894">that</w> <w id="w26895">nuclear</w> <w id="w26896">profilin</w> <w id="w26897">can</w> <w id="w26898">mediate</w> <w id="w26899">a</w> <w id="w26900">stimulus-response</w> <w id="w26901">action</w> <w id="w26902">on</w> <w id="w26903">the</w> <w id="w26904">actin</w> <w id="w26905">cytoskeleton</w> <w id="w26906">which</w> <w id="w26907">is</w> <w id="w26908">somehow</w> <w id="w26909">linked</w> <w id="w26910">to</w> <w id="w26911">a</w> <w id="w26912">phosphoinositide-signaling</w> <w id="w26913">cascade</w> <w id="w26914">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6216" gid="g5931" t="Individual_protein" fr="w26896" to="w26896" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1688.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6217" gid="g5932" t="RELATIONSHIP_TEXTBINDING" fr="w26898" to="w26898">
+     <textspan type="extent">mediate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1688.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6218" gid="g5933" t="Cell_component" fr="w26903" to="w26905" nam="yes">
+     <textspan type="extent">the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1688.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6219" gid="g5934" t="Process_entity" fr="w26901" to="w26905">
+     <textspan type="extent">action on the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.1688.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6220" gid="g5935" t="Individual_protein" fr="w26904" to="w26904" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1688.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2385" t="MEDIATE" e1="e6216" e2="e6219" re="e6217">
+     <textspan type="extent">profilin can mediate a stimulus-response action on the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1688.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,66 @@
+<rexml>
+<doc id="841">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13013" g="E3" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w13014" g="w13015" t="det" cr="det:w13015" w="the" l="~" p="Det"/>
+     <dpg d="w13015" g="w13013" t="pcomp-n" cr="mod*in*n:w13019" w="cytoplasm" l="~" p="N"/>
+     <dpg d="w13016" g="E3" t="punc" cr="punc:w13019" w="," l="~" p="U"/>
+     <dpg d="w13017" g="w13019" t="s" cr="s+obj:w13019||s+subj:w13021" w="HBx" l="~" p="N"/>
+     <dpg d="w13018" g="w13019" t="be" cr="be:w13019" w="was" l="be" p="be"/>
+     <dpg d="w13019" g="E3" t="i" cr="" w="shown" l="show" p="V"/>
+     <dpg d="E6" g="w13019" t="obj" cr="" w="" l="HBx" p="N"/>
+     <dpg d="E6" g="w13017" t="antecedent" cr="" w="" l="HBx" p="N"/>
+     <dpg d="E2" g="w13019" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="E1" g="E2" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w13017" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w13020" g="w13021" t="aux" cr="aux:w13021" w="to" l="~" p="Aux"/>
+     <dpg d="w13021" g="E1" t="i" cr="mod:w13031" w="stimulate" l="~" p="V"/>
+     <dpg d="E7" g="w13021" t="subj" cr="" w="" l="HBx" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="HBx" p="N"/>
+     <dpg d="w13022" g="w13028" t="det" cr="det:w13028" w="the" l="~" p="Det"/>
+     <dpg d="w13023" g="w13027" t="lex-mod" cr="lex-mod:w13027" w="Ras" l="~" p="U"/>
+     <dpg d="w13024" g="w13027" t="lex-mod" cr="lex-mod:w13027" w="-" l="~" p="U"/>
+     <dpg d="w13025" g="w13027" t="lex-mod" cr="lex-mod:w13027" w="Raf" l="~" p="U"/>
+     <dpg d="w13026" g="w13027" t="lex-mod" cr="lex-mod:w13027" w="-" l="~" p="U"/>
+     <dpg d="w13027" g="w13028" t="mod" cr="mod:w13028" w="mitogen-activated" l="Ras - Raf - mitogen-activated" p="A"/>
+     <dpg d="w13028" g="w13021" t="obj" cr="obj:w13021" w="protein" l="~" p="N"/>
+     <dpg d="w13029" g="w13031" t="s" cr="s+subj:w13031" w="kinase" l="~" p="N"/>
+     <dpg d="w13030" g="w13031" t="punc" cr="punc:w13031" w="(" l="~" p="U"/>
+     <dpg d="w13031" g="E2" t="i" cr="fc:w13019" w="MAP" l="~" p="V"/>
+     <dpg d="E8" g="w13031" t="subj" cr="" w="" l="kinase" p="N"/>
+     <dpg d="E8" g="w13029" t="antecedent" cr="" w="" l="kinase" p="N"/>
+     <dpg d="w13032" g="w13034" t="nn" cr="nn:w13034" w="kinase" l="~" p="N"/>
+     <dpg d="w13033" g="w13034" t="punc" cr="punc:w13034" w=")" l="~" p="U"/>
+     <dpg d="w13034" g="w13031" t="obj" cr="obj:w13031||subj:w13038" w="cascade" l="~" p="N"/>
+     <dpg d="w13035" g="w13034" t="punc" cr="punc:w13034" w="," l="~" p="U"/>
+     <dpg d="E0" g="w13034" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13036" g="E0" t="whn" cr="whn:w13037" w="which" l="~" p="N"/>
+     <dpg d="w13036" g="w13034" t="antecedent" cr="antecedent:w13034" w="which" l="~" p="N"/>
+     <dpg d="w13037" g="E0" t="i" cr="rel:w13034" w="is" l="be" p="VBE"/>
+     <dpg d="w13038" g="w13037" t="pred" cr="pred:w13037" w="essential" l="~" p="N"/>
+     <dpg d="E9" g="w13038" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E9" g="w13034" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w13039" g="w13038" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w13040" g="w13039" t="pcomp-n" cr="mod*for*n:w13038" w="activation" l="~" p="N"/>
+     <dpg d="w13041" g="w13040" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w13042" g="w13044" t="nn" cr="nn:w13044" w="transcription" l="~" p="N"/>
+     <dpg d="w13043" g="w13044" t="nn" cr="nn:w13044" w="factor" l="~" p="N"/>
+     <dpg d="w13044" g="w13041" t="pcomp-n" cr="mod*of*n:w13040" w="AP-1" l="AP-1" p="N"/>
+     <dpg d="w13045" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

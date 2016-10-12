@@ -1,0 +1,119 @@
+<rexml>
+<doc id="40">
+  <text>
+<p><s id="s1"><w id="w610">Actophorin</w> <w id="w611">and</w> <w id="w612">profilin</w> <w id="w613">have</w> <w id="w614">opposite</w> <w id="w615">effects</w> <w id="w616">on</w> <w id="w617">the</w> <w id="w618">rate</w> <w id="w619">of</w> <w id="w620">exchange</w> <w id="w621">of</w> <w id="w622">nucleotide</w> <w id="w623">bound</w> <w id="w624">to</w> <w id="w625">actin</w> <w id="w626">monomers</w> <w id="w627">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e177" gid="g173" t="Individual_protein" fr="w610" to="w610" nam="yes">
+     <textspan type="extent">Actophorin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.40.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e178" gid="g174" t="RELATIONSHIP_TEXTBINDING" fr="w615" to="w616">
+     <textspan type="extent">effects on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.40.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e179" gid="g175" t="Dynamics_property" fr="w618" to="w626">
+     <textspan type="extent">rate of exchange of nucleotide bound to actin monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.40.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e180" gid="g176" t="Individual_protein" fr="w612" to="w612" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.40.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e181" gid="g177" t="Nucleotide" fr="w622" to="w626" nam="yes">
+     <textspan type="extent">nucleotide bound to actin monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="Nucleotide"/>
+      <exattr n="bd" v="e.40.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e182" gid="g178" t="Individual_protein" fr="w625" to="w626" nam="yes">
+     <textspan type="extent">actin monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.40.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e183" gid="g179" t="LOCALIZATION" fr="w620" to="w626">
+     <textspan type="extent">exchange of nucleotide bound to actin monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.40.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e184" gid="g180" t="Individual_protein" fr="w625" to="w625" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.40.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r66" t="AFFECT" e1="e177" e2="e179" re="e178">
+     <textspan type="extent">Actophorin and profilin have opposite effects on the rate of exchange of nucleotide bound to actin monomers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.40.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r67" t="AFFECT" e1="e180" e2="e179" re="e178">
+     <textspan type="extent">profilin have opposite effects on the rate of exchange of nucleotide bound to actin monomers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.40.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,85 @@
+<rexml>
+<doc id="793">
+  <text>
+<p><s id="s1"><w id="w12507">In</w> <w id="w12508">particular</w> <w id="w12509">,</w> <w id="w12510">both</w> <w id="w12511">profilin</w> <w id="w12512">and</w> <w id="w12513">free</w> <w id="w12514">filament</w> <w id="w12515">barbed</w> <w id="w12516">ends</w> <w id="w12517">have</w> <w id="w12518">been</w> <w id="w12519">shown</w> <w id="w12520">to</w> <w id="w12521">play</w> <w id="w12522">major</w> <w id="w12523">roles</w> <w id="w12524">in</w> <w id="w12525">the</w> <w id="w12526">processing</w> <w id="w12527">of</w> <w id="w12528">ATP</w> <w id="w12529">by</w> <w id="w12530">actin</w> <w id="w12531">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2887" gid="g2768" t="Individual_protein" fr="w12511" to="w12511" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.793.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2888" gid="g2769" t="RELATIONSHIP_TEXTBINDING" fr="w12523" to="w12524">
+     <textspan type="extent">roles in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.793.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2889" gid="g2770" t="Nucleotide" fr="w12528" to="w12528" nam="yes">
+     <textspan type="extent">ATP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="Nucleotide"/>
+      <exattr n="bd" v="e.793.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2890" gid="g2771" t="RELATIONSHIP_TEXTBINDING" fr="w12526" to="w12529">
+     <textspan type="extent">processing of [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.793.3"/>
+      <exattr n="nst" v="st.793.19.0"/>
+      <exattr n="nst" v="st.793.20.0"/>
+      <exattr n="nst" v="st.793.22.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2891" gid="g2772" t="Individual_protein" fr="w12530" to="w12530" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.793.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1123" t="PARTICIPATE" e1="e2887" e2="e2890" re="e2888">
+     <textspan type="extent">profilin and free filament barbed ends have been shown to play major roles in the processing of ATP by actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.793.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1124" t="AFFECT" e1="e2891" e2="e2889" re="e2890">
+     <textspan type="extent">processing of ATP by actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.793.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

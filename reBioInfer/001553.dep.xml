@@ -1,0 +1,79 @@
+<rexml>
+<doc id="1553">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24579" g="w24581" t="det" cr="det:w24581" w="The" l="~" p="Det"/>
+     <dpg d="w24580" g="w24581" t="nn" cr="nn:w24581" w="microvillus" l="~" p="N"/>
+     <dpg d="w24581" g="w24593" t="s" cr="obj:w24583||s+obj:w24593||s+subj:w24595" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w24582" g="w24581" t="punc" cr="punc:w24581" w="," l="~" p="U"/>
+     <dpg d="w24583" g="w24581" t="vrel" cr="vrel:w24581" w="isolated" l="isolate" p="V"/>
+     <dpg d="E4" g="w24583" t="obj" cr="" w="" l="cytoskeleton" p="N"/>
+     <dpg d="E4" g="w24581" t="antecedent" cr="" w="" l="cytoskeleton" p="N"/>
+     <dpg d="w24584" g="w24583" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w24585" g="w24590" t="mod" cr="mod:w24590" w="chicken" l="~" p="A"/>
+     <dpg d="w24586" g="w24590" t="mod" cr="mod:w24590" w="intestinal" l="~" p="A"/>
+     <dpg d="w24587" g="w24588" t="lex-mod" cr="lex-mod:w24588" w="epithelial" l="~" p="U"/>
+     <dpg d="w24588" g="w24590" t="nn" cr="nn:w24590" w="cell" l="epithelial cell" p="N"/>
+     <dpg d="w24589" g="w24590" t="nn" cr="nn:w24590" w="brush" l="~" p="N"/>
+     <dpg d="w24590" g="w24584" t="pcomp-n" cr="mod*from*n:w24583" w="borders" l="border" p="N"/>
+     <dpg d="w24591" g="w24593" t="punc" cr="punc:w24593" w="," l="~" p="U"/>
+     <dpg d="w24592" g="w24593" t="be" cr="be:w24593" w="is" l="be" p="be"/>
+     <dpg d="w24593" g="E1" t="i" cr="" w="known" l="know" p="V"/>
+     <dpg d="E5" g="w24593" t="obj" cr="" w="" l="cytoskeleton" p="N"/>
+     <dpg d="E5" g="w24581" t="antecedent" cr="" w="" l="cytoskeleton" p="N"/>
+     <dpg d="E0" g="w24593" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w24581" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w24594" g="w24595" t="aux" cr="aux:w24595" w="to" l="~" p="Aux"/>
+     <dpg d="w24595" g="E0" t="i" cr="mod:w24593" w="contain" l="~" p="V"/>
+     <dpg d="E6" g="w24595" t="subj" cr="" w="" l="cytoskeleton" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="cytoskeleton" p="N"/>
+     <dpg d="w24596" g="w24599" t="nn" cr="nn:w24599" w="five" l="~" p="N"/>
+     <dpg d="w24597" g="w24599" t="mod" cr="mod:w24599" w="major" l="~" p="A"/>
+     <dpg d="w24598" g="w24599" t="nn" cr="nn:w24599" w="protein" l="~" p="N"/>
+     <dpg d="w24599" g="w24595" t="obj" cr="obj:w24595" w="components" l="component" p="N"/>
+     <dpg d="w24600" g="w24599" t="punc" cr="punc:w24599" w="," l="~" p="U"/>
+     <dpg d="w24601" g="w24603" t="det" cr="det:w24603" w="the" l="~" p="Det"/>
+     <dpg d="w24602" g="w24603" t="mod" cr="mod:w24603" w="110,000-dalton" l="110,000-dalton" p="A"/>
+     <dpg d="w24603" g="w24599" t="appo" cr="appo:w24599" w="polypeptide" l="~" p="N"/>
+     <dpg d="w24604" g="w24603" t="punc" cr="punc:w24603" w="," l="~" p="U"/>
+     <dpg d="w24605" g="w24603" t="appo" cr="appo:w24603" w="villin" l="~" p="N"/>
+     <dpg d="w24606" g="w24605" t="punc" cr="punc:w24605" w="(" l="~" p="U"/>
+     <dpg d="w24607" g="w24611" t="num" cr="num:w24611" w="95,000" l="~" p="N"/>
+     <dpg d="w24608" g="w24611" t="nn" cr="nn:w24611" w="daltons" l="Dalton" p="N"/>
+     <dpg d="w24609" g="w24611" t="punc" cr="punc:w24611" w=")" l="~" p="U"/>
+     <dpg d="w24610" g="w24611" t="punc" cr="punc:w24611" w="," l="~" p="U"/>
+     <dpg d="w24611" g="w24605" t="appo" cr="appo:w24605" w="fimbrin" l="~" p="N"/>
+     <dpg d="w24612" g="w24611" t="punc" cr="punc:w24611" w="(" l="~" p="U"/>
+     <dpg d="w24613" g="w24617" t="num" cr="num:w24617" w="68,000" l="~" p="N"/>
+     <dpg d="w24614" g="w24617" t="nn" cr="nn:w24617" w="daltons" l="Dalton" p="N"/>
+     <dpg d="w24615" g="w24617" t="punc" cr="punc:w24617" w=")" l="~" p="U"/>
+     <dpg d="w24616" g="w24617" t="punc" cr="punc:w24617" w="," l="~" p="U"/>
+     <dpg d="w24617" g="w24611" t="appo" cr="appo:w24611" w="actin" l="~" p="N"/>
+     <dpg d="w24618" g="w24617" t="punc" cr="punc:w24617" w="(" l="~" p="U"/>
+     <dpg d="w24619" g="w24620" t="num" cr="num:w24620" w="43,000" l="~" p="N"/>
+     <dpg d="w24620" g="w24617" t="appo" cr="appo:w24617" w="daltons" l="Dalton" p="N"/>
+     <dpg d="w24621" g="w24620" t="punc" cr="punc:w24620" w=")" l="~" p="U"/>
+     <dpg d="w24622" g="w24620" t="punc" cr="punc:w24620" w="," l="~" p="U"/>
+     <dpg d="w24623" g="w24620" t="punc" cr="punc:w24620" w="and" l="~" p="U"/>
+     <dpg d="w24624" g="w24620" t="conj" cr="conj:w24620" w="calmodulin" l="~" p="N"/>
+     <dpg d="w24625" g="w24620" t="punc" cr="punc:w24620" w="(" l="~" p="U"/>
+     <dpg d="w24626" g="w24627" t="num" cr="num:w24627" w="17,000" l="~" p="N"/>
+     <dpg d="w24627" g="w24620" t="appo" cr="appo:w24620" w="daltons" l="Dalton" p="N"/>
+     <dpg d="w24628" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w24629" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

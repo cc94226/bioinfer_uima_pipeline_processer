@@ -1,0 +1,79 @@
+<rexml>
+<doc id="1843">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29545" g="w29546" t="det" cr="det:w29546" w="This" l="~" p="Det"/>
+     <dpg d="w29546" g="w29548" t="s" cr="s+obj:w29548||s+subj:w29550" w="technique" l="~" p="N"/>
+     <dpg d="w29547" g="w29548" t="be" cr="be:w29548" w="was" l="be" p="be"/>
+     <dpg d="w29548" g="E1" t="i" cr="UNSPECRELTYPE:E5" w="employed" l="employ" p="V"/>
+     <dpg d="E6" g="w29548" t="obj" cr="" w="" l="technique" p="N"/>
+     <dpg d="E6" g="w29546" t="antecedent" cr="" w="" l="technique" p="N"/>
+     <dpg d="E0" g="w29548" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w29546" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w29549" g="w29550" t="aux" cr="aux:w29550" w="to" l="~" p="Aux"/>
+     <dpg d="w29550" g="E0" t="i" cr="mod:w29548" w="quantify" l="~" p="V"/>
+     <dpg d="E7" g="w29550" t="subj" cr="" w="" l="technique" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="technique" p="N"/>
+     <dpg d="w29551" g="w29550" t="obj" cr="obj:w29550||obj:w29552" w="changes" l="change" p="N"/>
+     <dpg d="w29552" g="w29551" t="vrel" cr="vrel:w29551" w="caused" l="cause" p="V"/>
+     <dpg d="E8" g="w29552" t="obj" cr="" w="" l="change" p="N"/>
+     <dpg d="E8" g="w29551" t="antecedent" cr="" w="" l="change" p="N"/>
+     <dpg d="w29553" g="w29552" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w29554" g="w29555" t="det" cr="det:w29555" w="the" l="~" p="Det"/>
+     <dpg d="w29555" g="w29553" t="pcomp-n" cr="by-subj*by*n:w29552" w="lack" l="~" p="N"/>
+     <dpg d="w29556" g="w29555" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29557" g="w29556" t="pcomp-n" cr="mod*of*n:w29555" w="talin" l="~" p="N"/>
+     <dpg d="w29558" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="w29559" g="w29560" t="det" cr="det:w29560" w="a" l="~" p="Det"/>
+     <dpg d="w29560" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5||subj:w29562" w="protein" l="~" p="N"/>
+     <dpg d="E2" g="w29560" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29561" g="E2" t="whn" cr="whn:w29562" w="that" l="~" p="THAT"/>
+     <dpg d="w29561" g="w29560" t="antecedent" cr="antecedent:w29560" w="that" l="~" p="THAT"/>
+     <dpg d="w29562" g="E2" t="i" cr="rel:w29560" w="couples" l="couple" p="V"/>
+     <dpg d="E9" g="w29562" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E9" g="w29560" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w29563" g="w29565" t="det" cr="det:w29565" w="the" l="~" p="Det"/>
+     <dpg d="w29564" g="w29565" t="nn" cr="nn:w29565" w="actin" l="~" p="N"/>
+     <dpg d="w29565" g="w29562" t="obj" cr="obj:w29562" w="network" l="~" p="N"/>
+     <dpg d="w29566" g="w29565" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w29567" g="w29569" t="det" cr="det:w29569" w="the" l="~" p="Det"/>
+     <dpg d="w29568" g="w29569" t="lex-mod" cr="lex-mod:w29569" w="plasma" l="~" p="U"/>
+     <dpg d="w29569" g="w29566" t="pcomp-n" cr="mod*to*n:w29565" w="membrane" l="plasma membrane" p="N"/>
+     <dpg d="w29570" g="w29566" t="punc" cr="punc:w29566" w="," l="~" p="U"/>
+     <dpg d="w29571" g="w29566" t="punc" cr="punc:w29566" w="or" l="~" p="U"/>
+     <dpg d="w29572" g="w29566" t="conj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w29573" g="w29574" t="det" cr="det:w29574" w="the" l="~" p="Det"/>
+     <dpg d="w29574" g="w29572" t="pcomp-n" cr="mod*by*n:w29565" w="lack" l="~" p="N"/>
+     <dpg d="w29575" g="w29574" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29576" g="w29575" t="pcomp-n" cr="mod*of*n:w29574" w="cortexillin" l="~" p="N"/>
+     <dpg d="w29577" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="I" l="~" p="N"/>
+     <dpg d="w29578" g="w29577" t="punc" cr="punc:w29577" w="or" l="~" p="U"/>
+     <dpg d="w29579" g="w29582" t="mod" cr="mod:w29582" w="II" l="~" p="A"/>
+     <dpg d="w29580" g="w29582" t="punc" cr="punc:w29582" w="," l="~" p="U"/>
+     <dpg d="w29581" g="w29582" t="nn" cr="nn:w29582" w="two" l="~" p="N"/>
+     <dpg d="w29582" g="w29577" t="conj" cr="conj:w29577" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w29583" g="w29582" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w29584" g="w29589" t="det" cr="det:w29589" w="the" l="~" p="Det"/>
+     <dpg d="w29585" g="w29587" t="lex-mod" cr="lex-mod:w29587" w="actin" l="~" p="U"/>
+     <dpg d="w29586" g="w29587" t="lex-mod" cr="lex-mod:w29587" w="-" l="~" p="U"/>
+     <dpg d="w29587" g="w29589" t="mod" cr="mod:w29589" w="bundling" l="actin - bundling" p="A"/>
+     <dpg d="w29588" g="w29589" t="nn" cr="nn:w29589" w="protein" l="~" p="N"/>
+     <dpg d="w29589" g="w29583" t="pcomp-n" cr="mod*of*n:w29582" w="cortexillin" l="~" p="N"/>
+     <dpg d="w29590" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

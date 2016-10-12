@@ -1,0 +1,116 @@
+<rexml>
+<doc id="98">
+  <text>
+<p><s id="s1"><w id="w1676">Although</w> <w id="w1677">the</w> <w id="w1678">chemical</w> <w id="w1679">basis</w> <w id="w1680">of</w> <w id="w1681">these</w> <w id="w1682">results</w> <w id="w1683">is</w> <w id="w1684">not</w> <w id="w1685">known</w> <w id="w1686">,</w> <w id="w1687">they</w> <w id="w1688">indicate</w> <w id="w1689">that</w> <w id="w1690">profilin</w> <w id="w1691">can</w> <w id="w1692">tightly</w> <w id="w1693">sequester</w> <w id="w1694">actin</w> <w id="w1695">monomers</w> <w id="w1696">and</w> <w id="w1697">support</w> <w id="w1698">the</w> <w id="w1699">earlier</w> <w id="w1700">suggestion</w> <w id="w1701">that</w> <w id="w1702">the</w> <w id="w1703">affinity</w> <w id="w1704">of</w> <w id="w1705">profilin</w> <w id="w1706">for</w> <w id="w1707">actin</w> <w id="w1708">may</w> <w id="w1709">be</w> <w id="w1710">under</w> <w id="w1711">metabolic</w> <w id="w1712">control</w> <w id="w1713">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e419" gid="g405" t="Individual_protein" fr="w1690" to="w1690" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.98.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e420" gid="g406" t="RELATIONSHIP_TEXTBINDING" fr="w1693" to="w1693">
+     <textspan type="extent">sequester</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.98.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e421" gid="g407" t="Individual_protein" fr="w1705" to="w1705" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.98.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e422" gid="g408" t="RELATIONSHIP_TEXTBINDING" fr="w1703" to="w1706">
+     <textspan type="extent">affinity of [..] for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.98.3"/>
+      <exattr n="nst" v="st.98.27.0"/>
+      <exattr n="nst" v="st.98.28.0"/>
+      <exattr n="nst" v="st.98.30.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e423" gid="g409" t="Individual_protein" fr="w1707" to="w1707" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.98.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e424" gid="g410" t="Individual_protein" fr="w1694" to="w1695" nam="yes">
+     <textspan type="extent">actin monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.98.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e425" gid="g411" t="Individual_protein" fr="w1694" to="w1694" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.98.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r160" t="LOCALIZE" e1="e419" e2="e424" re="e420">
+     <textspan type="extent">profilin can tightly sequester actin monomers</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.98.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r161" t="BIND" e1="e421" e2="e423" re="e422">
+     <textspan type="extent">affinity of profilin for actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.98.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

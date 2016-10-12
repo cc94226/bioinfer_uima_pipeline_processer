@@ -1,0 +1,95 @@
+<rexml>
+<doc id="976">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w15304" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="METHODS" l="method" p="N"/>
+     <dpg d="w15305" g="E2" t="punc" cr="punc:E2" w=":" l="~" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w15306" g="w15308" t="s" cr="s+subj:w15308" w="We" l="~" p="N"/>
+     <dpg d="w15307" g="w15308" t="have" cr="have:w15308" w="have" l="~" p="have"/>
+     <dpg d="w15308" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="performed" l="perform" p="V"/>
+     <dpg d="E3" g="w15308" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E3" g="w15306" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w15309" g="w15311" t="det" cr="det:w15311" w="a" l="~" p="Det"/>
+     <dpg d="w15310" g="w15311" t="mod" cr="mod:w15311" w="detailed" l="~" p="A"/>
+     <dpg d="w15311" g="w15308" t="obj" cr="obj:w15308" w="study" l="~" p="N"/>
+     <dpg d="w15312" g="w15311" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15313" g="w15314" t="det" cr="det:w15314" w="the" l="~" p="Det"/>
+     <dpg d="w15314" g="w15312" t="pcomp-n" cr="mod*of*n:w15311" w="pattern" l="~" p="N"/>
+     <dpg d="w15315" g="w15314" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15316" g="w15315" t="pcomp-n" cr="mod*of*n:w15314" w="expression" l="~" p="N"/>
+     <dpg d="w15317" g="w15316" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15318" g="w15320" t="lex-mod" cr="lex-mod:w15320" w="myosin" l="~" p="U"/>
+     <dpg d="w15319" g="w15320" t="lex-mod" cr="lex-mod:w15320" w="heavy" l="~" p="U"/>
+     <dpg d="w15320" g="w15317" t="pcomp-n" cr="mod*of*n:w15316" w="chain" l="myosin heavy chain" p="N"/>
+     <dpg d="w15321" g="w15322" t="punc" cr="punc:w15322" w="(" l="~" p="U"/>
+     <dpg d="w15322" g="w15320" t="abbrev" cr="abbrev:w15320" w="MHC" l="~" p="N"/>
+     <dpg d="w15323" g="w15322" t="punc" cr="punc:w15322" w=")" l="~" p="U"/>
+     <dpg d="w15324" g="w15320" t="punc" cr="punc:w15320" w="," l="~" p="U"/>
+     <dpg d="w15325" g="w15327" t="lex-mod" cr="lex-mod:w15327" w="myosin" l="~" p="U"/>
+     <dpg d="w15326" g="w15327" t="lex-mod" cr="lex-mod:w15327" w="light" l="~" p="U"/>
+     <dpg d="w15327" g="w15320" t="conj" cr="conj:w15320" w="chain" l="myosin light chain" p="N"/>
+     <dpg d="w15328" g="w15329" t="punc" cr="punc:w15329" w="(" l="~" p="U"/>
+     <dpg d="w15329" g="w15327" t="abbrev" cr="abbrev:w15327" w="MLC" l="~" p="N"/>
+     <dpg d="w15330" g="w15329" t="punc" cr="punc:w15329" w=")" l="~" p="U"/>
+     <dpg d="w15331" g="w15327" t="punc" cr="punc:w15327" w="," l="~" p="U"/>
+     <dpg d="w15332" g="w15333" t="lex-mod" cr="lex-mod:w15333" w="troponin" l="~" p="U"/>
+     <dpg d="w15333" g="w15337" t="nn" cr="nn:w15337" w="I" l="troponin I" p="N"/>
+     <dpg d="w15334" g="w15335" t="punc" cr="punc:w15335" w="(" l="~" p="U"/>
+     <dpg d="w15335" g="w15333" t="abbrev" cr="abbrev:w15333" w="TnI" l="~" p="N"/>
+     <dpg d="w15336" g="w15335" t="punc" cr="punc:w15335" w=")" l="~" p="U"/>
+     <dpg d="w15337" g="w15327" t="conj" cr="conj:w15327" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w15338" g="w15337" t="punc" cr="punc:w15337" w="," l="~" p="U"/>
+     <dpg d="w15339" g="w15340" t="lex-mod" cr="lex-mod:w15340" w="connexin" l="~" p="U"/>
+     <dpg d="w15340" g="w15337" t="conj" cr="conj:w15337" w="43" l="connexin 43" p="N"/>
+     <dpg d="w15341" g="w15342" t="punc" cr="punc:w15342" w="(" l="~" p="U"/>
+     <dpg d="w15342" g="w15340" t="abbrev" cr="abbrev:w15340" w="Cx43" l="~" p="N"/>
+     <dpg d="w15343" g="w15342" t="punc" cr="punc:w15342" w=")" l="~" p="U"/>
+     <dpg d="w15344" g="w15340" t="punc" cr="punc:w15340" w="," l="~" p="U"/>
+     <dpg d="w15345" g="w15340" t="conj" cr="conj:w15340" w="desmin" l="~" p="N"/>
+     <dpg d="w15346" g="w15345" t="punc" cr="punc:w15345" w="and" l="~" p="U"/>
+     <dpg d="w15347" g="w15349" t="lex-mod" cr="lex-mod:w15349" w="alpha-smooth" l="~" p="U"/>
+     <dpg d="w15348" g="w15349" t="lex-mod" cr="lex-mod:w15349" w="muscle" l="~" p="U"/>
+     <dpg d="w15349" g="w15345" t="conj" cr="conj:w15345" w="actin" l="alpha-smooth muscle actin" p="N"/>
+     <dpg d="w15350" g="w15351" t="punc" cr="punc:w15351" w="(" l="~" p="U"/>
+     <dpg d="w15351" g="w15349" t="abbrev" cr="abbrev:w15349" w="alpha-SMA" l="alpha-SMA" p="N"/>
+     <dpg d="w15352" g="w15351" t="punc" cr="punc:w15351" w=")" l="~" p="U"/>
+     <dpg d="w15353" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w15354" g="E2" t="p" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w15355" g="w15358" t="det" cr="det:w15358" w="the" l="~" p="Det"/>
+     <dpg d="w15356" g="w15358" t="mod" cr="mod:w15358" w="ventricular" l="~" p="A"/>
+     <dpg d="w15357" g="w15358" t="nn" cr="nn:w15358" w="conduction" l="~" p="N"/>
+     <dpg d="w15358" g="w15354" t="pcomp-n" cr="p*in*n:E2" w="system" l="~" p="N"/>
+     <dpg d="w15359" g="w15358" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15360" g="w15359" t="pcomp-n" cr="mod*of*n:w15358" w="normal" l="~" p="N"/>
+     <dpg d="w15361" g="w15360" t="punc" cr="punc:w15360" w="and" l="~" p="U"/>
+     <dpg d="w15362" g="w15363" t="mod" cr="mod:w15363" w="congenitally" l="~" p="A"/>
+     <dpg d="w15363" g="w15368" t="mod" cr="mod:w15368" w="malformed" l="~" p="A"/>
+     <dpg d="w15364" g="w15368" t="nn" cr="nn:w15368" w="mouse" l="~" p="N"/>
+     <dpg d="w15365" g="w15368" t="nn" cr="nn:w15368" w="hearts" l="heart" p="N"/>
+     <dpg d="w15366" g="w15368" t="punc" cr="punc:w15368" w="(" l="~" p="U"/>
+     <dpg d="w15367" g="w15368" t="mod" cr="mod:w15368" w="iv" l="~" p="A"/>
+     <dpg d="w15368" g="w15360" t="conj" cr="conj:w15360" w="background" l="~" p="N"/>
+     <dpg d="w15369" g="w15368" t="punc" cr="punc:w15368" w=")" l="~" p="U"/>
+     <dpg d="w15370" g="w15368" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w15371" g="w15375" t="mod" cr="mod:w15375" w="embryonic" l="~" p="A"/>
+     <dpg d="w15372" g="w15375" t="nn" cr="nn:w15375" w="day" l="~" p="N"/>
+     <dpg d="w15373" g="w15375" t="lex-mod" cr="lex-mod:w15375" w="14.5" l="~" p="U"/>
+     <dpg d="w15374" g="w15375" t="lex-mod" cr="lex-mod:w15375" w="to" l="~" p="U"/>
+     <dpg d="w15375" g="w15370" t="pcomp-n" cr="mod*from*n:w15368" w="19.5" l="14.5 to 19.5" p="N"/>
+     <dpg d="w15376" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

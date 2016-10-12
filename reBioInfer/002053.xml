@@ -1,0 +1,130 @@
+<rexml>
+<doc id="2053">
+  <text>
+<p><s id="s1"><w id="w32485">We</w> <w id="w32486">examined</w> <w id="w32487">the</w> <w id="w32488">role</w> <w id="w32489">of</w> <w id="w32490">the</w> <w id="w32491">actin</w> <w id="w32492">monomer</w> <w id="w32493">sequestering</w> <w id="w32494">protein</w> <w id="w32495">,</w> <w id="w32496">profilin</w> <w id="w32497">,</w> <w id="w32498">in</w> <w id="w32499">the</w> <w id="w32500">regulation</w> <w id="w32501">of</w> <w id="w32502">PMN</w> <w id="w32503">actin</w> <w id="w32504">filament</w> <w id="w32505">assembly</w> <w id="w32506">during</w> <w id="w32507">chemoattractant</w> <w id="w32508">stimulation</w> <w id="w32509">using</w> <w id="w32510">a</w> <w id="w32511">Triton</w> <w id="w32512">extraction</w> <w id="w32513">method</w> <w id="w32514">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7404" gid="g7064" t="RELATIONSHIP_TEXTBINDING" fr="w32488" to="w32498">
+     <textspan type="extent">role of [..] in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2053.0"/>
+      <exattr n="nst" v="st.2053.3.0"/>
+      <exattr n="nst" v="st.2053.4.0"/>
+      <exattr n="nst" v="st.2053.13.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7405" gid="g7065" t="Individual_protein" fr="w32496" to="w32496" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2053.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7406" gid="g7066" t="Individual_protein" fr="w32491" to="w32492" nam="yes">
+     <textspan type="extent">actin monomer</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2053.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7407" gid="g7067" t="RELATIONSHIP_TEXTBINDING" fr="w32493" to="w32493">
+     <textspan type="extent">sequestering</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2053.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7408" gid="g7068" t="ASSEMBLY" fr="w32502" to="w32505">
+     <textspan type="extent">PMN actin filament assembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.2053.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7409" gid="g7069" t="Cell_component" fr="w32502" to="w32504" nam="yes">
+     <textspan type="extent">PMN actin filament</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.2053.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7410" gid="g7070" t="CONTROL" fr="w32500" to="w32505">
+     <textspan type="extent">regulation of PMN actin filament assembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Unspecified"/>
+      <exattr n="t4" v="CONTROL"/>
+      <exattr n="bd" v="e.2053.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7411" gid="g7071" t="Individual_protein" fr="w32491" to="w32491" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2053.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7412" gid="g7072" t="Individual_protein" fr="w32502" to="w32503" nam="yes">
+     <textspan type="extent">PMN actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2053.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2833" t="LOCALIZE" e1="e7405" e2="e7406" re="e7407">
+     <textspan type="extent">actin monomer sequestering protein , profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2053.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2834" t="PARTICIPATE" e1="e7405" e2="e7410" re="e7404">
+     <textspan type="extent">role of the actin monomer sequestering protein , profilin , in the regulation of PMN actin filament assembly</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2053.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

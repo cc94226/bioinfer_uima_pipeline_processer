@@ -1,0 +1,98 @@
+<rexml>
+<doc id="1137">
+  <text>
+<p><s id="s1"><w id="w17958">Previous</w> <w id="w17959">studies</w> <w id="w17960">have</w> <w id="w17961">yielded</w> <w id="w17962">conflicting</w> <w id="w17963">results</w> <w id="w17964">concerning</w> <w id="w17965">the</w> <w id="w17966">physiological</w> <w id="w17967">role</w> <w id="w17968">of</w> <w id="w17969">profilin</w> <w id="w17970">,</w> <w id="w17971">a</w> <w id="w17972">12-15-kD</w> <w id="w17973">actin</w><w id="w17974">-</w> <w id="w17975">and</w> <w id="w17976">phosphoinositide-</w><w id="w17977">binding</w> <w id="w17978">protein</w> <w id="w17979">,</w> <w id="w17980">as</w> <w id="w17981">a</w> <w id="w17982">regulator</w> <w id="w17983">of</w> <w id="w17984">actin</w> <w id="w17985">polymerization</w> <w id="w17986">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4162" gid="g3979" t="Individual_protein" fr="w17969" to="w17969" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1137.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4163" gid="g3980" t="RELATIONSHIP_TEXTBINDING" fr="w17977" to="w17977">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1137.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4164" gid="g3981" t="POLYMERIZATION" fr="w17984" to="w17985">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.1137.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4165" gid="g3982" t="RELATIONSHIP_TEXTBINDING" fr="w17982" to="w17983">
+     <textspan type="extent">regulator of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1137.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4166" gid="g3983" t="Individual_protein" fr="w17973" to="w17973" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1137.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4167" gid="g3984" t="Individual_protein" fr="w17984" to="w17984" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1137.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1604" t="BIND" e1="e4162" e2="e4166" re="e4163">
+     <textspan type="extent">profilin , a 12-15-kD actin - and phosphoinositide- binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1137.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1605" t="CONTROL" e1="e4162" e2="e4164" re="e4165">
+     <textspan type="extent">profilin , a 12-15-kD actin - and phosphoinositide- binding protein , as a regulator of actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1137.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

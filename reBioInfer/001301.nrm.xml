@@ -1,0 +1,79 @@
+<rexml>
+<doc id="1301">
+  
+  <markup>
+   <nes>
+    <ne id="e4705" gid="g4498" t="Individual_protein" fr="w20431" to="w20431" nam="yes" sid="s1">
+     <textspan>alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1301.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4708" gid="g4501" t="Individual_protein" fr="w20433" to="w20433" nam="yes" sid="s1">
+     <textspan>plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1301.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4707" gid="g4500" t="Function_property" fr="w20439" to="w20441" sid="s1">
+     <textspan>function of cadherins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.1301.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4709" gid="g4502" t="Protein_family_or_group" fr="w20441" to="w20441" nam="yes" sid="s1">
+     <textspan>cadherins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1301.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1789" t="CONDITION" e1="e4705" e2="e4707" re="e4706">
+     <textspan>alpha-catenin and plakoglobin are important for the adhesive function of cadherins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1301.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1790" t="CONDITION" e1="e4708" e2="e4707" re="e4706">
+     <textspan>plakoglobin are important for the adhesive function of cadherins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1301.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

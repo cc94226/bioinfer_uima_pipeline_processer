@@ -1,0 +1,64 @@
+<rexml>
+<doc id="2000">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31998" g="w32000" t="lex-mod" cr="lex-mod:w32000" w="Vascular" l="~" p="U"/>
+     <dpg d="w31999" g="w32000" t="lex-mod" cr="lex-mod:w32000" w="endothelial" l="~" p="U"/>
+     <dpg d="w32000" g="w32004" t="nn" cr="nn:w32004" w="cadherin" l="Vascular endothelial cadherin" p="N"/>
+     <dpg d="w32001" g="w32002" t="punc" cr="punc:w32002" w="(" l="~" p="U"/>
+     <dpg d="w32002" g="w32000" t="abbrev" cr="abbrev:w32000" w="VE-cadherin" l="VE-cadherin" p="N"/>
+     <dpg d="w32003" g="w32002" t="punc" cr="punc:w32002" w=")" l="~" p="U"/>
+     <dpg d="w32004" g="w32005" t="s" cr="s:w32005||subj:w32006" w="clusters" l="cluster" p="N"/>
+     <dpg d="w32005" g="E2" t="i" cr="" w="were" l="be" p="VBE"/>
+     <dpg d="E5" g="w32006" t="subj" cr="" w="" l="cluster" p="N"/>
+     <dpg d="E5" g="w32004" t="antecedent" cr="" w="" l="cluster" p="N"/>
+     <dpg d="w32006" g="w32005" t="pred" cr="pred:w32005" w="co-localized" l="co-localized" p="N"/>
+     <dpg d="w32007" g="w32006" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w32008" g="w32007" t="pcomp-n" cr="mod*with*n:w32006" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w32009" g="w32008" t="punc" cr="punc:w32008" w="," l="~" p="U"/>
+     <dpg d="w32010" g="w32014" t="det" cr="det:w32014" w="an" l="~" p="Det"/>
+     <dpg d="w32011" g="w32014" t="mod" cr="mod:w32014" w="important" l="~" p="A"/>
+     <dpg d="w32012" g="w32014" t="nn" cr="nn:w32014" w="signal" l="~" p="N"/>
+     <dpg d="w32013" g="w32014" t="nn" cr="nn:w32014" w="transduction" l="~" p="N"/>
+     <dpg d="w32014" g="w32008" t="appo" cr="appo:w32008" w="ligand" l="~" p="N"/>
+     <dpg d="w32015" g="w32007" t="punc" cr="punc:w32007" w="," l="~" p="U"/>
+     <dpg d="w32016" g="w32007" t="punc" cr="punc:w32007" w="and" l="~" p="U"/>
+     <dpg d="w32017" g="w32007" t="conj" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w32018" g="w32017" t="pcomp-n" cr="mod*with*n:w32006||subj:w32022" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w32019" g="w32018" t="punc" cr="punc:w32018" w="," l="~" p="U"/>
+     <dpg d="E1" g="w32018" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32020" g="E1" t="whn" cr="whn:w32021" w="which" l="~" p="N"/>
+     <dpg d="w32020" g="w32018" t="antecedent" cr="antecedent:w32018" w="which" l="~" p="N"/>
+     <dpg d="w32021" g="E1" t="i" cr="rel:w32018" w="is" l="be" p="VBE"/>
+     <dpg d="w32022" g="w32021" t="pred" cr="pred:w32021||s+subj:w32024" w="thought" l="~" p="N"/>
+     <dpg d="E6" g="w32022" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E6" g="w32018" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="E0" g="w32022" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w32022" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w32023" g="w32024" t="aux" cr="aux:w32024" w="to" l="~" p="Aux"/>
+     <dpg d="w32024" g="E0" t="i" cr="rel:w32022" w="link" l="~" p="V"/>
+     <dpg d="E7" g="w32024" t="subj" cr="" w="" l="thought" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="thought" p="N"/>
+     <dpg d="w32025" g="w32026" t="det" cr="det:w32026" w="the" l="~" p="Det"/>
+     <dpg d="w32026" g="w32024" t="obj" cr="obj:w32024" w="complex" l="~" p="N"/>
+     <dpg d="w32027" g="w32026" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w32028" g="w32030" t="det" cr="det:w32030" w="the" l="~" p="Det"/>
+     <dpg d="w32029" g="w32030" t="mod" cr="mod:w32030" w="peri-junctional" l="peri-junctional" p="A"/>
+     <dpg d="w32030" g="w32027" t="pcomp-n" cr="mod*to*n:w32026" w="actin" l="~" p="N"/>
+     <dpg d="w32031" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

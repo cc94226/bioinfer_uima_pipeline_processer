@@ -1,0 +1,72 @@
+<rexml>
+<doc id="522">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w7275" g="w7276" t="mod" cr="mod:w7276" w="Full-length" l="full-length" p="A"/>
+     <dpg d="w7276" g="E2" t="subclass" cr="subclass:E2" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w7277" g="w7276" t="punc" cr="punc:w7276" w="," l="~" p="U"/>
+     <dpg d="w7278" g="w7280" t="mod" cr="mod:w7280" w="beta-catenin" l="beta-catenin" p="A"/>
+     <dpg d="w7279" g="w7280" t="mod" cr="mod:w7280" w="mutant" l="~" p="A"/>
+     <dpg d="w7280" g="w7276" t="appo" cr="appo:w7276" w="proteins" l="protein" p="N"/>
+     <dpg d="w7281" g="w7280" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w7282" g="w7283" t="mod" cr="mod:w7283" w="NH2-terminal" l="NH2-terminal" p="A"/>
+     <dpg d="w7283" g="w7281" t="pcomp-n" cr="mod*with*n:w7280" w="deletions" l="deletion" p="N"/>
+     <dpg d="w7284" g="w7283" t="mod" cr="" w="before" l="~" p="Prep"/>
+     <dpg d="w7285" g="w7284" t="punc" cr="punc:w7284" w="(" l="~" p="U"/>
+     <dpg d="w7286" g="w7284" t="pcomp-n" cr="mod*before*n:w7283" w="deltaN90" l="~" p="N"/>
+     <dpg d="w7287" g="w7284" t="punc" cr="punc:w7284" w=")" l="~" p="U"/>
+     <dpg d="w7288" g="w7284" t="punc" cr="punc:w7284" w="or" l="~" p="U"/>
+     <dpg d="w7289" g="w7284" t="conj" cr="" w="after" l="~" p="Prep"/>
+     <dpg d="w7290" g="w7289" t="punc" cr="punc:w7289" w="(" l="~" p="U"/>
+     <dpg d="w7291" g="w7289" t="pcomp-n" cr="mod*after*n:w7283" w="deltaN131" l="~" p="N"/>
+     <dpg d="w7292" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w7293" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="deltaN151" l="~" p="N"/>
+     <dpg d="w7294" g="E2" t="punc" cr="punc:E2" w=")" l="~" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7295" g="w7298" t="det" cr="det:w7298" w="the" l="~" p="Det"/>
+     <dpg d="w7296" g="w7298" t="mod" cr="mod:w7298" w="alpha-catenin" l="alpha-catenin" p="A"/>
+     <dpg d="w7297" g="w7298" t="mod" cr="mod:w7298" w="binding" l="~" p="A"/>
+     <dpg d="w7298" g="w7313" t="s" cr="s+obj:w7313" w="site" l="~" p="N"/>
+     <dpg d="w7299" g="w7298" t="punc" cr="punc:w7298" w="," l="~" p="U"/>
+     <dpg d="w7300" g="w7298" t="punc" cr="punc:w7298" w="or" l="~" p="U"/>
+     <dpg d="w7301" g="w7303" t="det" cr="det:w7303" w="a" l="~" p="Det"/>
+     <dpg d="w7302" g="w7303" t="mod" cr="mod:w7303" w="mutant" l="~" p="A"/>
+     <dpg d="w7303" g="w7298" t="conj" cr="conj:w7298" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w7304" g="w7303" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w7305" g="w7310" t="det" cr="det:w7310" w="a" l="~" p="Det"/>
+     <dpg d="w7306" g="w7310" t="mod" cr="mod:w7310" w="COOH-terminal" l="COOH-terminal" p="A"/>
+     <dpg d="w7307" g="w7310" t="nn" cr="nn:w7310" w="deletion" l="~" p="N"/>
+     <dpg d="w7308" g="w7310" t="punc" cr="punc:w7310" w="(" l="~" p="U"/>
+     <dpg d="w7309" g="w7310" t="nn" cr="nn:w7310" w="delta" l="~" p="N"/>
+     <dpg d="w7310" g="w7304" t="pcomp-n" cr="mod*with*n:w7303" w="C" l="~" p="N"/>
+     <dpg d="w7311" g="w7313" t="punc" cr="punc:w7313" w=")" l="~" p="U"/>
+     <dpg d="w7312" g="w7313" t="be" cr="be:w7313" w="were" l="be" p="be"/>
+     <dpg d="w7313" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="expressed" l="express" p="V"/>
+     <dpg d="E3" g="w7313" t="obj" cr="" w="" l="site" p="N"/>
+     <dpg d="E3" g="w7298" t="antecedent" cr="" w="" l="site" p="N"/>
+     <dpg d="w7314" g="w7313" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w7315" g="w7316" t="nn" cr="nn:w7316" w="MDCK" l="~" p="N"/>
+     <dpg d="w7316" g="w7314" t="pcomp-n" cr="mod*in*n:w7313" w="cells" l="cell" p="N"/>
+     <dpg d="w7317" g="w7316" t="mod" cr="" w="under" l="~" p="Prep"/>
+     <dpg d="w7318" g="w7319" t="det" cr="det:w7319" w="the" l="~" p="Det"/>
+     <dpg d="w7319" g="w7317" t="pcomp-n" cr="mod*under*n:w7316" w="control" l="~" p="N"/>
+     <dpg d="w7320" g="w7319" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w7321" g="w7323" t="det" cr="det:w7323" w="the" l="~" p="Det"/>
+     <dpg d="w7322" g="w7323" t="mod" cr="mod:w7323" w="tetracycline-repressible" l="tetracycline-repressible" p="A"/>
+     <dpg d="w7323" g="w7320" t="pcomp-n" cr="mod*of*n:w7319" w="transactivator" l="~" p="N"/>
+     <dpg d="w7324" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

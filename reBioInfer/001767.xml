@@ -1,0 +1,83 @@
+<rexml>
+<doc id="1767">
+  <text>
+<p><s id="s1"><w id="w28157">These</w> <w id="w28158">were</w> <w id="w28159">identified</w> <w id="w28160">as</w> <w id="w28161">myosin</w> <w id="w28162">light</w> <w id="w28163">chain</w> <w id="w28164">1</w> <w id="w28165">,</w> <w id="w28166">tropomyosin</w> <w id="w28167">,</w> <w id="w28168">actin</w> <w id="w28169">,</w> <w id="w28170">heat</w> <w id="w28171">shock</w> <w id="w28172">protein</w> <w id="w28173">(</w><w id="w28174">HSP</w><w id="w28175">)</w><w id="w28176">-60</w> <w id="w28177">,</w> <w id="w28178">an</w> <w id="w28179">unidentified</w> <w id="w28180">protein</w> <w id="w28181">and</w> <w id="w28182">myosin</w> <w id="w28183">heavy</w> <w id="w28184">chain</w> <w id="w28185">,</w> <w id="w28186">respectively</w> <w id="w28187">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6512" gid="g6214" t="Gene/protein/RNA" fr="w28161" to="w28164" nam="yes">
+     <textspan type="extent">myosin light chain 1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1767.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6513" gid="g6215" t="Gene/protein/RNA" fr="w28168" to="w28168" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1767.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6514" gid="g6216" t="Gene/protein/RNA" fr="w28166" to="w28166" nam="yes">
+     <textspan type="extent">tropomyosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1767.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6515" gid="g6217" t="Gene/protein/RNA" fr="w28182" to="w28184" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1767.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6516" gid="g6218" t="Gene/protein/RNA" fr="w28170" to="w28176" nam="yes">
+     <textspan type="extent">heat shock protein [..] -60</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1767.4"/>
+      <exattr n="nst" v="st.1767.13.0"/>
+      <exattr n="nst" v="st.1767.14.0"/>
+      <exattr n="nst" v="st.1767.15.0"/>
+      <exattr n="nst" v="st.1767.16.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6517" gid="g6219" t="Gene/protein/RNA" fr="w28174" to="w28174" nam="yes">
+     <textspan type="extent">HSP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1767.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

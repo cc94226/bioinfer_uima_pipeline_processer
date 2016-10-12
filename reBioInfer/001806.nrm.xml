@@ -1,0 +1,119 @@
+<rexml>
+<doc id="1806">
+  
+  <markup>
+   <nes>
+    <ne id="e6717" gid="g6406" t="Gene/protein/RNA" fr="w29049" to="w29049" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1806.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6720" gid="g6409" t="Substructure_of_protein" fr="w29059" to="w29062" nam="yes" sid="s1">
+     <textspan>regions of actin subdomain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1806.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6723" gid="g6412" t="Substructure_of_protein" fr="w29061" to="w29062" nam="yes" sid="s1">
+     <textspan>actin subdomain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1806.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6721" gid="g6410" t="Individual_protein" fr="w29061" to="w29061" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1806.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6724" gid="g6413" t="Individual_protein" fr="w29070" to="w29070" nam="yes" sid="s1">
+     <textspan>fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1806.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6722" gid="g6411" t="Cell_component" fr="w29073" to="w29074" nam="yes" sid="s1">
+     <textspan>actin filament</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1806.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6726" gid="g6415" t="Individual_protein" fr="w29073" to="w29073" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1806.9"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2578" t="INTERACT" e1="e6721" e2="e6724" re="e6718">
+     <textspan>actin subdomain 1 were implicated in the interaction with fimbrin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1806.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2579" t="LOCALIZE" e1="e6724" e2="e6722" re="e6725">
+     <textspan>fimbrin , an actin filament - bundling</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1806.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

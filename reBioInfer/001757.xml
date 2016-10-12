@@ -1,0 +1,172 @@
+<rexml>
+<doc id="1757">
+  <text>
+<p><s id="s1"><w id="w27943">These</w> <w id="w27944">results</w> <w id="w27945">suggest</w> <w id="w27946">that</w> <w id="w27947">the</w> <w id="w27948">subcellular</w> <w id="w27949">distribution</w> <w id="w27950">of</w> <w id="w27951">cofilin</w> <w id="w27952">as</w> <w id="w27953">well</w> <w id="w27954">as</w> <w id="w27955">its</w> <w id="w27956">interaction</w> <w id="w27957">with</w> <w id="w27958">actin</w> <w id="w27959">in</w> <w id="w27960">vivo</w> <w id="w27961">is</w> <w id="w27962">regulated</w> <w id="w27963">by</w> <w id="w27964">its</w> <w id="w27965">phosphorylation</w> <w id="w27966">and</w> <w id="w27967">dephosphorylation</w> <w id="w27968">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6456" gid="g6161" t="Individual_protein" fr="w27951" to="w27951" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1757.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6457" gid="g6162" t="RELATIONSHIP_TEXTBINDING" fr="w27956" to="w27957">
+     <textspan type="extent">interaction with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1757.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6458" gid="g6161" t="Individual_protein" fr="w27955" to="w27955" nam="yes">
+     <textspan type="extent">its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1757.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6459" gid="g6163" t="Individual_protein" fr="w27958" to="w27958" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1757.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6460" gid="g6164" t="PHOSPHORYLATION" fr="w27964" to="w27965">
+     <textspan type="extent">its phosphorylation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="PHOSPHORYLATION"/>
+      <exattr n="bd" v="e.1757.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6461" gid="g6161" t="Individual_protein" fr="w27964" to="w27964" nam="yes">
+     <textspan type="extent">its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1757.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6462" gid="g6165" t="LOCALIZATION" fr="w27949" to="w27951">
+     <textspan type="extent">distribution of cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.1757.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6463" gid="g6166" t="DEPHOSPHORYLATION" fr="w27964" to="w27967">
+     <textspan type="extent">its [..] dephosphorylation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="DEPHOSPHORYLATION"/>
+      <exattr n="bd" v="e.1757.7"/>
+      <exattr n="nst" v="st.1757.21.0"/>
+      <exattr n="nst" v="st.1757.24.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6464" gid="g6167" t="RELATIONSHIP_TEXTBINDING" fr="w27962" to="w27963">
+     <textspan type="extent">regulated by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1757.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2477" t="CONTROL" e1="e6460" e2="e6462" re="e6464">
+     <textspan type="extent">distribution of cofilin as well as its interaction with actin in vivo is regulated by its phosphorylation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1757.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r2478" t="CONTROL" e1="e6460" e2="e6457" re="e6464">
+     <textspan type="extent">its interaction with actin in vivo is regulated by its phosphorylation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1757.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r2479" t="INTERACT" e1="e6458" e2="e6459" re="e6457">
+     <textspan type="extent">its interaction with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1757.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2480" t="CONTROL" e1="e6463" e2="e6462" re="e6464">
+     <textspan type="extent">distribution of cofilin as well as its interaction with actin in vivo is regulated by its phosphorylation and dephosphorylation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1757.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r2481" t="CONTROL" e1="e6463" e2="e6457" re="e6464">
+     <textspan type="extent">its interaction with actin in vivo is regulated by its phosphorylation and dephosphorylation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1757.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r2482" t="INTERACT" e1="e6458" e2="e6459" re="e6457">
+     <textspan type="extent">its interaction with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1757.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

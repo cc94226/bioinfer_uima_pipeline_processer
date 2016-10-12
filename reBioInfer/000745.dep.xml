@@ -1,0 +1,49 @@
+<rexml>
+<doc id="745">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11560" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w11561" g="w11560" t="pcomp-n" cr="mod*in*n:w11576" w="contrast" l="~" p="N"/>
+     <dpg d="w11562" g="w11561" t="punc" cr="punc:w11561" w="," l="~" p="U"/>
+     <dpg d="w11563" g="w11561" t="appo" cr="appo:w11561" w="overexpression" l="~" p="N"/>
+     <dpg d="w11564" g="w11563" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11565" g="w11567" t="det" cr="det:w11567" w="the" l="~" p="Det"/>
+     <dpg d="w11566" g="w11567" t="nn" cr="nn:w11567" w="profilin" l="~" p="N"/>
+     <dpg d="w11567" g="w11564" t="pcomp-n" cr="mod*of*n:w11563" w="gene" l="~" p="N"/>
+     <dpg d="w11568" g="E1" t="punc" cr="punc:w11576" w="," l="~" p="U"/>
+     <dpg d="w11569" g="w11576" t="s" cr="s+subj:w11571||s+subj:w11576" w="PFY1" l="~" p="N"/>
+     <dpg d="w11570" g="w11576" t="punc" cr="punc:w11576" w="," l="~" p="U"/>
+     <dpg d="E0" g="w11576" t="mod-before" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w11569" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w11571" g="E0" t="i" cr="mod-before:w11576" w="encoding" l="encode" p="V"/>
+     <dpg d="E4" g="w11571" t="subj" cr="" w="" l="PFY1" p="N"/>
+     <dpg d="E4" g="E2" t="antecedent" cr="" w="" l="PFY1" p="N"/>
+     <dpg d="w11572" g="w11574" t="det" cr="det:w11574" w="an" l="~" p="Det"/>
+     <dpg d="w11573" g="w11574" t="mod" cr="mod:w11574" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w11574" g="w11571" t="obj" cr="obj:w11571" w="protein" l="~" p="N"/>
+     <dpg d="w11575" g="w11576" t="punc" cr="punc:w11576" w="," l="~" p="U"/>
+     <dpg d="w11576" g="E1" t="i" cr="" w="leads" l="lead to" p="V"/>
+     <dpg d="w11577" g="w11576" t="lex-mod" cr="lex-mod:w11576" w="to" l="~" p="U"/>
+     <dpg d="E5" g="w11576" t="subj" cr="" w="" l="PFY1" p="N"/>
+     <dpg d="E5" g="w11569" t="antecedent" cr="" w="" l="PFY1" p="N"/>
+     <dpg d="w11578" g="w11581" t="det" cr="det:w11581" w="no" l="~" p="Det"/>
+     <dpg d="w11579" g="w11580" t="mod" cr="mod:w11580" w="very" l="~" p="A"/>
+     <dpg d="w11580" g="w11581" t="mod" cr="mod:w11581" w="obvious" l="~" p="A"/>
+     <dpg d="w11581" g="w11576" t="obj" cr="obj:w11576" w="phenotype" l="~" p="N"/>
+     <dpg d="w11582" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

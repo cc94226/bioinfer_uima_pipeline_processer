@@ -1,0 +1,54 @@
+<rexml>
+<doc id="1637">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26125" g="w26127" t="det" cr="det:w26127" w="The" l="~" p="Det"/>
+     <dpg d="w26126" g="w26127" t="nn" cr="nn:w26127" w="recombinant" l="~" p="N"/>
+     <dpg d="w26127" g="w26128" t="s" cr="s:w26128||subj:w26129" w="material" l="~" p="N"/>
+     <dpg d="w26128" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="is" l="be" p="VBE"/>
+     <dpg d="w26129" g="w26128" t="pred" cr="pred:w26128" w="similar" l="~" p="A"/>
+     <dpg d="E3" g="w26129" t="subj" cr="" w="" l="material" p="N"/>
+     <dpg d="E3" g="w26127" t="antecedent" cr="" w="" l="material" p="N"/>
+     <dpg d="w26130" g="w26129" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w26131" g="w26132" t="mod" cr="mod:w26132" w="authentic" l="~" p="A"/>
+     <dpg d="w26132" g="w26130" t="pcomp-n" cr="mod*to*n:w26129" w="profilin" l="~" p="N"/>
+     <dpg d="w26133" g="w26132" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w26134" g="w26135" t="lex-mod" cr="lex-mod:w26135" w="Acanthamoeba" l="~" p="U"/>
+     <dpg d="w26135" g="w26133" t="pcomp-n" cr="mod*from*n:w26132" w="-based" l="Acanthamoeba -based" p="N"/>
+     <dpg d="w26136" g="w26135" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w26137" g="w26136" t="pcomp-n" cr="mod*on*n:w26135" w="fluorescence" l="~" p="N"/>
+     <dpg d="w26138" g="E2" t="punc" cr="punc:E2" w="monitored" l="~" p="U"/>
+     <dpg d="w26139" g="w26140" t="nn" cr="nn:w26140" w="urea" l="~" p="N"/>
+     <dpg d="w26140" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="denaturation" l="~" p="N"/>
+     <dpg d="w26141" g="w26140" t="punc" cr="punc:w26140" w="," l="~" p="U"/>
+     <dpg d="w26142" g="w26143" t="mod" cr="mod:w26143" w="circular" l="~" p="A"/>
+     <dpg d="w26143" g="w26140" t="conj" cr="conj:w26140" w="dichroism" l="~" p="N"/>
+     <dpg d="w26144" g="w26143" t="punc" cr="punc:w26143" w="," l="~" p="U"/>
+     <dpg d="w26145" g="w26146" t="lex-mod" cr="lex-mod:w26146" w="actin" l="~" p="U"/>
+     <dpg d="w26146" g="w26148" t="mod" cr="mod:w26148" w="-nucleotide" l="actin -nucleotide" p="A"/>
+     <dpg d="w26147" g="w26148" t="nn" cr="nn:w26148" w="exchange" l="~" p="N"/>
+     <dpg d="w26148" g="w26143" t="conj" cr="conj:w26143" w="rate" l="~" p="N"/>
+     <dpg d="w26149" g="w26148" t="punc" cr="punc:w26148" w="and" l="~" p="U"/>
+     <dpg d="w26150" g="w26151" t="det" cr="det:w26151" w="the" l="~" p="Det"/>
+     <dpg d="w26151" g="w26148" t="conj" cr="conj:w26148" w="Kd" l="~" p="N"/>
+     <dpg d="w26152" g="w26151" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w26153" g="w26155" t="nn" cr="nn:w26155" w="rabbit" l="~" p="N"/>
+     <dpg d="w26154" g="w26155" t="mod" cr="mod:w26155" w="skeletal" l="~" p="A"/>
+     <dpg d="w26155" g="w26152" t="pcomp-n" cr="mod*for*n:w26151" w="actin" l="~" p="N"/>
+     <dpg d="w26156" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

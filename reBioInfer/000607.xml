@@ -1,0 +1,174 @@
+<rexml>
+<doc id="607">
+  <text>
+<p><s id="s1"><w id="w8818">Herpes</w> <w id="w8819">simplex</w> <w id="w8820">virus</w> <w id="w8821">type</w> <w id="w8822">1</w> <w id="w8823">expresses</w> <w id="w8824">a</w> <w id="w8825">heterotrimeric</w> <w id="w8826">helicase-primase</w> <w id="w8827">,</w> <w id="w8828">the</w> <w id="w8829">subunits</w> <w id="w8830">of</w> <w id="w8831">which</w> <w id="w8832">are</w> <w id="w8833">encoded</w> <w id="w8834">by</w> <w id="w8835">the</w> <w id="w8836">viral</w> <w id="w8837">UL5</w> <w id="w8838">,</w> <w id="w8839">UL8</w> <w id="w8840">and</w> <w id="w8841">UL52</w> <w id="w8842">genes</w> <w id="w8843">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2108" gid="g2018" t="Protein_complex" fr="w8826" to="w8826" nam="yes">
+     <textspan type="extent">helicase-primase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.607.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2109" gid="g2019" t="Gene" fr="w8836" to="w8842" nam="yes">
+     <textspan type="extent">viral [..] UL8 [..] genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.607.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2110" gid="g2020" t="Gene" fr="w8836" to="w8842" nam="yes">
+     <textspan type="extent">viral UL5 [..] genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.607.2"/>
+      <exattr n="nst" v="st.607.18.0"/>
+      <exattr n="nst" v="st.607.19.0"/>
+      <exattr n="nst" v="st.607.24.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2111" gid="g2018" t="Individual_protein" fr="w8831" to="w8831" nam="yes">
+     <textspan type="extent">which</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.607.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2112" gid="g2021" t="Gene" fr="w8836" to="w8842" nam="yes">
+     <textspan type="extent">viral [..] UL52 genes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.607.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2113" gid="g2022" t="Gene" fr="w8837" to="w8837" nam="yes">
+     <textspan type="extent">UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.607.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2114" gid="g2023" t="Individual_protein" fr="w8829" to="w8831" nam="yes">
+     <textspan type="extent">subunits of which</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.607.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2115" gid="g2024" t="Gene" fr="w8839" to="w8839" nam="yes">
+     <textspan type="extent">UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.607.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2116" gid="g2025" t="RELATIONSHIP_TEXTBINDING" fr="w8833" to="w8834">
+     <textspan type="extent">encoded by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.607.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e2117" gid="g2026" t="Gene" fr="w8841" to="w8841" nam="yes">
+     <textspan type="extent">UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.607.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r833" t="ENCODE" e1="e2110" e2="e2114" re="e2116">
+     <textspan type="extent">subunits of which are encoded by the viral UL5 , UL8 and UL52 genes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.607.8"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+    <rel id="r834" t="ENCODE" e1="e2109" e2="e2114" re="e2116">
+     <textspan type="extent">subunits of which are encoded by the viral UL5 , UL8 and UL52 genes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.607.8"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+    <rel id="r835" t="ENCODE" e1="e2112" e2="e2114" re="e2116">
+     <textspan type="extent">subunits of which are encoded by the viral UL5 , UL8 and UL52 genes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.607.8"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

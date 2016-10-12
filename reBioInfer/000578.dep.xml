@@ -1,0 +1,58 @@
+<rexml>
+<doc id="578">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8346" g="E2" t="mod" cr="mod:w8349" w="Here" l="~" p="N"/>
+     <dpg d="w8347" g="E2" t="punc" cr="punc:w8349" w="," l="~" p="U"/>
+     <dpg d="w8348" g="w8349" t="s" cr="s+subj:w8349" w="we" l="~" p="N"/>
+     <dpg d="w8349" g="E2" t="i" cr="" w="prepared" l="prepare" p="V"/>
+     <dpg d="E6" g="w8349" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E6" g="w8348" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w8350" g="w8354" t="det" cr="det:w8354" w="a" l="~" p="Det"/>
+     <dpg d="w8351" g="w8354" t="nn" cr="nn:w8354" w="profilin" l="~" p="N"/>
+     <dpg d="w8352" g="w8354" t="mod" cr="mod:w8354" w="mutant" l="~" p="A"/>
+     <dpg d="w8353" g="w8354" t="punc" cr="punc:w8354" w="(" l="~" p="U"/>
+     <dpg d="w8354" g="w8349" t="obj" cr="obj:w8349" w="H119E" l="~" p="N"/>
+     <dpg d="w8355" g="w8354" t="punc" cr="punc:w8354" w=")" l="~" p="U"/>
+     <dpg d="w8356" g="w8354" t="pnmod" cr="pnmod:w8354" w="defective" l="~" p="A"/>
+     <dpg d="w8357" g="w8356" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w8358" g="w8357" t="pcomp-n" cr="mod*in*n:w8356||s+subj:w8359||subj:w8362||s+subj:w8366" w="actin" l="~" p="N"/>
+     <dpg d="E1" g="w8358" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w8358" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w8359" g="E1" t="i" cr="rel:w8358" w="binding" l="bind" p="V"/>
+     <dpg d="E7" g="w8359" t="subj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w8360" g="w8359" t="punc" cr="punc:w8359" w="," l="~" p="U"/>
+     <dpg d="w8361" g="w8359" t="punc" cr="punc:w8359" w="but" l="~" p="U"/>
+     <dpg d="w8362" g="w8359" t="conj" cr="conj:w8359" w="retaining" l="retain" p="V"/>
+     <dpg d="E8" g="w8362" t="subj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E8" g="E4" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w8363" g="w8364" t="det" cr="det:w8364" w="the" l="~" p="Det"/>
+     <dpg d="w8364" g="w8362" t="obj" cr="obj:w8362" w="ability" l="~" p="N"/>
+     <dpg d="E0" g="w8364" t="comp1" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w8365" g="w8366" t="aux" cr="aux:w8366" w="to" l="~" p="Aux"/>
+     <dpg d="w8366" g="E0" t="i" cr="comp1:w8364" w="bind" l="~" p="V"/>
+     <dpg d="E9" g="w8366" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E9" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w8367" g="w8366" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w8368" g="w8369" t="mod" cr="mod:w8369" w="other" l="~" p="A"/>
+     <dpg d="w8369" g="w8367" t="pcomp-n" cr="mod*to*n:w8366" w="proteins" l="protein" p="N"/>
+     <dpg d="w8370" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

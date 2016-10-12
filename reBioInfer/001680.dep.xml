@@ -1,0 +1,49 @@
+<rexml>
+<doc id="1680">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26750" g="w26751" t="det" cr="det:w26751" w="These" l="~" p="Det"/>
+     <dpg d="w26751" g="w26752" t="s" cr="s+subj:w26752||subj:w26758||subj:w26765" w="cells" l="cell" p="N"/>
+     <dpg d="w26752" g="E0" t="i" cr="" w="have" l="~" p="V"/>
+     <dpg d="E2" g="w26752" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E2" g="w26751" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w26753" g="w26752" t="punc" cr="punc:w26752" w="both" l="~" p="U"/>
+     <dpg d="w26754" g="w26752" t="obj" cr="obj:w26752" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w26755" g="w26754" t="punc" cr="punc:w26754" w="and" l="~" p="U"/>
+     <dpg d="w26756" g="w26754" t="conj" cr="conj:w26754" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w26757" g="w26752" t="punc" cr="punc:w26752" w="," l="~" p="U"/>
+     <dpg d="w26758" g="w26752" t="conj" cr="conj:w26752" w="display" l="~" p="V"/>
+     <dpg d="E3" g="w26758" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E3" g="w26751" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w26759" g="w26760" t="mod" cr="mod:w26760" w="unusual" l="~" p="A"/>
+     <dpg d="w26760" g="w26758" t="obj" cr="obj:w26758" w="expression" l="~" p="N"/>
+     <dpg d="w26761" g="w26760" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26762" g="w26761" t="pcomp-n" cr="mod*of*n:w26760" w="N-cadherin" l="N-cadherin" p="N"/>
+     <dpg d="w26763" g="w26758" t="punc" cr="punc:w26758" w="," l="~" p="U"/>
+     <dpg d="w26764" g="w26758" t="punc" cr="punc:w26758" w="and" l="~" p="U"/>
+     <dpg d="w26765" g="w26758" t="conj" cr="conj:w26758" w="have" l="~" p="V"/>
+     <dpg d="E4" g="w26765" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E4" g="w26751" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w26766" g="w26769" t="det" cr="det:w26769" w="the" l="~" p="Det"/>
+     <dpg d="w26767" g="w26769" t="mod" cr="mod:w26769" w="typical" l="~" p="A"/>
+     <dpg d="w26768" g="w26769" t="mod" cr="mod:w26769" w="fibroblastic" l="~" p="A"/>
+     <dpg d="w26769" g="w26765" t="obj" cr="obj:w26765" w="phenotype" l="~" p="N"/>
+     <dpg d="w26770" g="w26769" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26771" g="w26772" t="mod" cr="mod:w26772" w="transformed" l="~" p="A"/>
+     <dpg d="w26772" g="w26770" t="pcomp-n" cr="mod*of*n:w26769" w="cells" l="cell" p="N"/>
+     <dpg d="w26773" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

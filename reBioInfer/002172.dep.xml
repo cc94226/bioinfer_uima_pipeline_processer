@@ -1,0 +1,51 @@
+<rexml>
+<doc id="2172">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w33666" g="w33667" t="s" cr="s+subj:w33667" w="We" l="~" p="N"/>
+     <dpg d="w33667" g="E0" t="i" cr="" w="studied" l="study" p="V"/>
+     <dpg d="E2" g="w33667" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E2" g="w33666" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w33668" g="w33669" t="det" cr="det:w33669" w="the" l="~" p="Det"/>
+     <dpg d="w33669" g="w33667" t="obj" cr="obj:w33667" w="roles" l="role" p="N"/>
+     <dpg d="w33670" g="w33669" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33671" g="w33670" t="pcomp-n" cr="mod*of*n:w33669" w="cofilin" l="~" p="N"/>
+     <dpg d="w33672" g="w33671" t="punc" cr="punc:w33671" w="," l="~" p="U"/>
+     <dpg d="w33673" g="w33677" t="det" cr="det:w33677" w="an" l="~" p="Det"/>
+     <dpg d="w33674" g="w33676" t="lex-mod" cr="lex-mod:w33676" w="actin" l="~" p="U"/>
+     <dpg d="w33675" g="w33676" t="lex-mod" cr="lex-mod:w33676" w="-" l="~" p="U"/>
+     <dpg d="w33676" g="w33677" t="mod" cr="mod:w33677" w="binding" l="actin - binding" p="A"/>
+     <dpg d="w33677" g="w33671" t="appo" cr="appo:w33671" w="phosphoprotein" l="~" p="N"/>
+     <dpg d="w33678" g="w33669" t="punc" cr="punc:w33669" w="," l="~" p="U"/>
+     <dpg d="w33679" g="w33669" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w33680" g="w33681" t="nn" cr="nn:w33681" w="superoxide" l="~" p="N"/>
+     <dpg d="w33681" g="w33679" t="pcomp-n" cr="mod*in*n:w33669" w="production" l="~" p="N"/>
+     <dpg d="w33682" g="w33681" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33683" g="w33685" t="mod" cr="mod:w33685" w="neutrophil-like" l="neutrophil-like" p="A"/>
+     <dpg d="w33684" g="w33685" t="nn" cr="nn:w33685" w="HL-60" l="HL-60" p="N"/>
+     <dpg d="w33685" g="w33682" t="pcomp-n" cr="mod*of*n:w33681||obj:w33686" w="cells" l="cell" p="N"/>
+     <dpg d="w33686" g="w33685" t="vrel" cr="vrel:w33685" w="triggered" l="trigger" p="V"/>
+     <dpg d="E3" g="w33686" t="obj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E3" g="w33685" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w33687" g="w33686" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w33688" g="w33689" t="lex-mod" cr="lex-mod:w33689" w="opsonized" l="~" p="U"/>
+     <dpg d="w33689" g="w33687" t="pcomp-n" cr="by-subj*by*n:w33686" w="zymosan" l="opsonized zymosan" p="N"/>
+     <dpg d="w33690" g="w33691" t="punc" cr="punc:w33691" w="(" l="~" p="U"/>
+     <dpg d="w33691" g="w33689" t="abbrev" cr="abbrev:w33689" w="OZ" l="~" p="N"/>
+     <dpg d="w33692" g="w33691" t="punc" cr="punc:w33691" w=")" l="~" p="U"/>
+     <dpg d="w33693" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

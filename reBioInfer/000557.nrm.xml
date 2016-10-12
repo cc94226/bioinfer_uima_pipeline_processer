@@ -1,0 +1,69 @@
+<rexml>
+<doc id="557">
+  
+  <markup>
+   <nes>
+    <ne id="e1860" gid="g1780" t="Individual_protein" fr="w7860" to="w7862" nam="yes" sid="s1">
+     <textspan>Green fluorescent protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.557.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1858" gid="g1778" t="Individual_protein" fr="w7865" to="w7865" nam="yes" sid="s1">
+     <textspan>ORC1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.557.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1862" gid="g1782" t="Individual_protein" fr="w7877" to="w7877" nam="yes" sid="s1">
+     <textspan>ORC4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.557.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r733" t="HUMANMADE" e1="e1858" e2="e1860" re="e1861">
+     <textspan>Green fluorescent protein - tagged ORC1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.557.3"/>
+      <exattr n="t1" v="HUMANMADE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r734" t="COLOCALIZE" e1="e1858" e2="e1862" re="e1859">
+     <textspan>ORC1 associated with chromatin throughout mitosis in living cells and co-localized with ORC4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.557.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

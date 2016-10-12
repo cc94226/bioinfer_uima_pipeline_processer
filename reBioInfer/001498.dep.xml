@@ -1,0 +1,52 @@
+<rexml>
+<doc id="1498">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23425" g="w23427" t="det" cr="det:w23427" w="The" l="~" p="Det"/>
+     <dpg d="w23426" g="w23427" t="mod" cr="mod:w23427" w="head" l="~" p="A"/>
+     <dpg d="w23427" g="w23431" t="s" cr="s+subj:w23431||subj:w23445" w="domain" l="~" p="N"/>
+     <dpg d="w23428" g="w23427" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w23429" g="w23428" t="pcomp-n" cr="mod*of*n:w23427" w="talin" l="~" p="N"/>
+     <dpg d="w23430" g="w23431" t="mod-before" cr="mod-before:w23431" w="thus" l="~" p="A"/>
+     <dpg d="w23431" g="E1" t="i" cr="" w="binds" l="bind" p="V"/>
+     <dpg d="E4" g="w23431" t="subj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E4" g="w23427" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="w23432" g="w23431" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w23433" g="w23432" t="pcomp-n" cr="mod*to*n:w23431||s+subj:w23435" w="integrins" l="~" p="N"/>
+     <dpg d="E0" g="w23433" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w23433" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w23434" g="w23435" t="aux" cr="aux:w23435" w="to" l="~" p="Aux"/>
+     <dpg d="w23435" g="E0" t="i" cr="rel:w23433" w="form" l="~" p="V"/>
+     <dpg d="E5" g="w23435" t="subj" cr="" w="" l="integrins" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="integrins" p="N"/>
+     <dpg d="w23436" g="w23437" t="det" cr="det:w23437" w="a" l="~" p="Det"/>
+     <dpg d="w23437" g="w23435" t="obj" cr="obj:w23435" w="link" l="~" p="N"/>
+     <dpg d="w23438" g="w23437" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w23439" g="w23441" t="det" cr="det:w23441" w="the" l="~" p="Det"/>
+     <dpg d="w23440" g="w23441" t="nn" cr="nn:w23441" w="actin" l="~" p="N"/>
+     <dpg d="w23441" g="w23438" t="pcomp-n" cr="mod*to*n:w23437" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w23442" g="w23431" t="punc" cr="punc:w23431" w="and" l="~" p="U"/>
+     <dpg d="w23443" g="w23445" t="aux" cr="aux:w23445" w="can" l="~" p="Aux"/>
+     <dpg d="w23444" g="w23445" t="amod" cr="amod:w23445" w="thus" l="~" p="A"/>
+     <dpg d="w23445" g="w23431" t="conj" cr="conj:w23431" w="regulate" l="~" p="V"/>
+     <dpg d="E6" g="w23445" t="subj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E6" g="w23427" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="w23446" g="w23447" t="nn" cr="nn:w23447" w="integrin" l="~" p="N"/>
+     <dpg d="w23447" g="w23445" t="obj" cr="obj:w23445" w="function" l="~" p="N"/>
+     <dpg d="w23448" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

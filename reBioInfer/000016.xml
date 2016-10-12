@@ -1,0 +1,182 @@
+<rexml>
+<doc id="16">
+  <text>
+<p><s id="s1"><w id="w226">A</w> <w id="w227">chimera</w> <w id="w228">consisting</w> <w id="w229">of</w> <w id="w230">the</w> <w id="w231">alpha-catenin</w><w id="w232">-</w><w id="w233">binding</w> <w id="w234">region</w> <w id="w235">of</w> <w id="w236">beta-catenin</w> <w id="w237">linked</w> <w id="w238">to</w> <w id="w239">the</w> <w id="w240">amino</w> <w id="w241">terminus</w> <w id="w242">of</w> <w id="w243">alpha-catenin</w> <w id="w244">57-264</w> <w id="w245">behaves</w> <w id="w246">as</w> <w id="w247">a</w> <w id="w248">monomer</w> <w id="w249">in</w> <w id="w250">solution</w> <w id="w251">,</w> <w id="w252">as</w> <w id="w253">expected</w> <w id="w254">,</w> <w id="w255">since</w> <w id="w256">beta-catenin</w> <w id="w257">binding</w> <w id="w258">disrupts</w> <w id="w259">the</w> <w id="w260">alpha-catenin</w> <w id="w261">dimer</w> <w id="w262">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e80" gid="g80" t="Individual_protein" fr="w231" to="w231" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.16.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e81" gid="g81" t="RELATIONSHIP_TEXTBINDING" fr="w233" to="w233">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.16.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e82" gid="g82" t="RELATIONSHIP_TEXTBINDING" fr="w237" to="w238">
+     <textspan type="extent">linked to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.16.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e83" gid="g83" t="Individual_protein" fr="w236" to="w236" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.16.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e84" gid="g84" t="Substructure_of_protein" fr="w241" to="w244" nam="yes">
+     <textspan type="extent">terminus of alpha-catenin 57-264</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.16.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e85" gid="g85" t="Protein_complex" fr="w260" to="w261" nam="yes">
+     <textspan type="extent">alpha-catenin dimer</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.16.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e86" gid="g86" t="Substructure_of_protein" fr="w234" to="w236" nam="yes">
+     <textspan type="extent">region of beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.16.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e87" gid="g87" t="BINDING" fr="w256" to="w257">
+     <textspan type="extent">beta-catenin binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="BINDING"/>
+      <exattr n="bd" v="e.16.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e88" gid="g88" t="RELATIONSHIP_TEXTBINDING" fr="w258" to="w258">
+     <textspan type="extent">disrupts</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.16.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e89" gid="g89" t="Individual_protein" fr="w256" to="w256" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.16.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e90" gid="g90" t="Individual_protein" fr="w243" to="w244" nam="yes">
+     <textspan type="extent">alpha-catenin 57-264</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.16.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e91" gid="g91" t="Individual_protein" fr="w260" to="w260" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.16.11"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r33" t="BIND" e1="e86" e2="e80" re="e81">
+     <textspan type="extent">alpha-catenin - binding region of beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.16.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r34" t="CROSS-LINK" e1="e86" e2="e84" re="e82">
+     <textspan type="extent">region of beta-catenin linked to the amino terminus of alpha-catenin 57-264</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.16.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="CROSS-LINK"/>
+     </exattrs>
+    </rel>
+    <rel id="r35" t="DISRUPT" e1="e87" e2="e85" re="e88">
+     <textspan type="extent">beta-catenin binding disrupts the alpha-catenin dimer</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.16.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="DISRUPT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

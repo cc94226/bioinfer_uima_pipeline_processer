@@ -1,0 +1,83 @@
+<rexml>
+<doc id="60">
+  <text>
+<p><s id="s1"><w id="w894">After</w> <w id="w895">digestion</w> <w id="w896">of</w> <w id="w897">the</w> <w id="w898">60</w> <w id="w899">kDa</w> <w id="w900">fragment</w> <w id="w901">with</w> <w id="w902">cyanogen</w> <w id="w903">bromide</w> <w id="w904">,</w> <w id="w905">the</w> <w id="w906">N-terminal</w> <w id="w907">21-amino</w> <w id="w908">acid</w> <w id="w909">sequence</w> <w id="w910">of</w> <w id="w911">one</w> <w id="w912">of</w> <w id="w913">the</w> <w id="w914">resulting</w> <w id="w915">peptides</w> <w id="w916">was</w> <w id="w917">found</w> <w id="w918">to</w> <w id="w919">show</w> <w id="w920">sequence</w> <w id="w921">similarity</w> <w id="w922">to</w> <w id="w923">a</w> <w id="w924">region</w> <w id="w925">near</w> <w id="w926">the</w> <w id="w927">actin</w><w id="w928">-</w><w id="w929">binding</w> <w id="w930">site</w> <w id="w931">(</w> <w id="w932">amino</w> <w id="w933">acid</w> <w id="w934">residues</w> <w id="w935">260-281</w> <w id="w936">)</w> <w id="w937">of</w> <w id="w938">yeast</w> <w id="w939">fimbrin</w> <w id="w940">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e237" gid="g231" t="Individual_protein" fr="w927" to="w927" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.60.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e238" gid="g232" t="RELATIONSHIP_TEXTBINDING" fr="w929" to="w929">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.60.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e239" gid="g233" t="Individual_protein" fr="w938" to="w939" nam="yes">
+     <textspan type="extent">yeast fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.60.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e240" gid="g234" t="Substructure_of_protein" fr="w930" to="w939" nam="yes">
+     <textspan type="extent">site [..] of yeast fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.60.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e241" gid="g235" t="Individual_protein" fr="w939" to="w939" nam="yes">
+     <textspan type="extent">fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.60.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r78" t="BIND" e1="e240" e2="e237" re="e238">
+     <textspan type="extent">actin - binding site ( amino acid residues 260-281 ) of yeast fimbrin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.60.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

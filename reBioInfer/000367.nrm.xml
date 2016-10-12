@@ -1,0 +1,159 @@
+<rexml>
+<doc id="367">
+  
+  <markup>
+   <nes>
+    <ne id="e1334" gid="g1272" t="Individual_protein" fr="w5531" to="w5532" nam="yes" sid="s1">
+     <textspan>Death receptors</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.367.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1335" gid="g1273" t="Protein_family_or_group" fr="w5536" to="w5538" nam="yes" sid="s1">
+     <textspan>TNF receptor family</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.367.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e1336" gid="g1274" t="Protein_family_or_group" fr="w5536" to="w5537" nam="yes" sid="s1">
+     <textspan>TNF receptor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.367.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e1328" gid="g1266" t="Individual_protein" fr="w5555" to="w5555" nam="yes" sid="s1">
+     <textspan>TRADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.367.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1330" gid="g1268" t="Individual_protein" fr="w5557" to="w5557" nam="yes" sid="s1">
+     <textspan>FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.367.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1331" gid="g1269" t="Individual_protein" fr="w5559" to="w5560" nam="yes" sid="s1">
+     <textspan>cysteine proteases</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.367.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1329" gid="g1267" t="Individual_protein" fr="w5563" to="w5563" nam="yes" sid="s1">
+     <textspan>Caspase-8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.367.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r524" t="MEMBER" e1="e1335" e2="e1334" re="e1333">
+     <textspan>Death receptors belong to the TNF receptor family</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.367.6"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r525" t="MEMBER" e1="e1331" e2="e1329" re="e1332">
+     <textspan>cysteine proteases such as Caspase-8</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.367.5"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r526" t="LOCALIZE" e1="e1334" e2="e1328" re="e1327">
+     <textspan>Death receptors belong to the TNF receptor family and are characterised by an intracellular death domain that serves to recruit adapter proteins such as TRADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.367.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r527" t="LOCALIZE" e1="e1334" e2="e1330" re="e1327">
+     <textspan>Death receptors belong to the TNF receptor family and are characterised by an intracellular death domain that serves to recruit adapter proteins such as TRADD and FADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.367.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r528" t="LOCALIZE" e1="e1334" e2="e1331" re="e1327">
+     <textspan>Death receptors belong to the TNF receptor family and are characterised by an intracellular death domain that serves to recruit adapter proteins such as TRADD and FADD and cysteine proteases</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.367.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

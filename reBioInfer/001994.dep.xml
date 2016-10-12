@@ -1,0 +1,40 @@
+<rexml>
+<doc id="1994">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="E1" g="E2" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="s+subj:w31952" w="" l="~" p="N"/>
+     <dpg d="w31952" g="E1" t="i" cr="mod:w31958" w="Using" l="use" p="V"/>
+     <dpg d="E5" g="w31952" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31953" g="w31955" t="det" cr="det:w31955" w="the" l="~" p="Det"/>
+     <dpg d="w31954" g="w31955" t="mod" cr="mod:w31955" w="two-hybrid" l="two-hybrid" p="A"/>
+     <dpg d="w31955" g="w31952" t="obj" cr="obj:w31952" w="system" l="~" p="N"/>
+     <dpg d="w31956" g="E2" t="punc" cr="punc:w31958" w="," l="~" p="U"/>
+     <dpg d="w31957" g="w31958" t="s" cr="s+subj:w31958" w="we" l="~" p="N"/>
+     <dpg d="w31958" g="E2" t="i" cr="" w="show" l="~" p="V"/>
+     <dpg d="E6" g="w31958" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E6" g="w31957" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="E0" g="w31958" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31959" g="E0" t="c" cr="c:w31961" w="that" l="~" p="COMP"/>
+     <dpg d="w31960" g="w31961" t="s" cr="s+subj:w31961" w="verprolin" l="~" p="N"/>
+     <dpg d="w31961" g="E0" t="i" cr="fc:w31958" w="binds" l="bind" p="V"/>
+     <dpg d="E7" g="w31961" t="subj" cr="" w="" l="verprolin" p="N"/>
+     <dpg d="E7" g="w31960" t="antecedent" cr="" w="" l="verprolin" p="N"/>
+     <dpg d="w31962" g="w31961" t="obj" cr="obj:w31961" w="actin" l="~" p="N"/>
+     <dpg d="w31963" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,297 @@
+<rexml>
+<doc id="1534">
+  <text>
+<p><s id="s1"><w id="w24218">The</w> <w id="w24219">involvement</w> <w id="w24220">of</w> <w id="w24221">the</w> <w id="w24222">death</w> <w id="w24223">adaptor</w> <w id="w24224">proteins</w> <w id="w24225">FADD</w><w id="w24226">/</w><w id="w24227">MORT1</w> <w id="w24228">,</w> <w id="w24229">TRADD</w> <w id="w24230">,</w> <w id="w24231">and</w> <w id="w24232">RIP</w> <w id="w24233">and</w> <w id="w24234">the</w> <w id="w24235">apoptosis-initiating</w> <w id="w24236">caspases</w><w id="w24237">-8</w> <w id="w24238">and</w> <w id="w24239">-10</w> <w id="w24240">in</w> <w id="w24241">death</w> <w id="w24242">signaling</w> <w id="w24243">by</w> <w id="w24244">the</w> <w id="w24245">two</w> <w id="w24246">death-inducing</w> <w id="w24247">TRAIL</w> <w id="w24248">receptors</w> <w id="w24249">1</w> <w id="w24250">and</w> <w id="w24251">2</w> <w id="w24252">(</w> <w id="w24253">TRAIL-R1</w> <w id="w24254">and</w> <w id="w24255">TRAIL-R2</w> <w id="w24256">)</w> <w id="w24257">are</w> <w id="w24258">controversial</w> <w id="w24259">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5627" gid="g5373" t="RELATIONSHIP_TEXTBINDING" fr="w24219" to="w24240">
+     <textspan type="extent">involvement of [..] in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1534.0"/>
+      <exattr n="nst" v="st.1534.1.0"/>
+      <exattr n="nst" v="st.1534.2.0"/>
+      <exattr n="nst" v="st.1534.19.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5628" gid="g5374" t="Individual_protein" fr="w24224" to="w24225" nam="yes">
+     <textspan type="extent">proteins FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1534.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5629" gid="g5375" t="Individual_protein" fr="w24224" to="w24232" nam="yes">
+     <textspan type="extent">proteins [..] RIP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1534.2"/>
+      <exattr n="nst" v="st.1534.6.0"/>
+      <exattr n="nst" v="st.1534.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5630" gid="g5376" t="Individual_protein" fr="w24224" to="w24229" nam="yes">
+     <textspan type="extent">proteins [..] TRADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1534.3"/>
+      <exattr n="nst" v="st.1534.6.0"/>
+      <exattr n="nst" v="st.1534.9.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5631" gid="g5377" t="Individual_protein" fr="w24236" to="w24239" nam="yes">
+     <textspan type="extent">caspases [..] -10</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1534.4"/>
+      <exattr n="nst" v="st.1534.16.0"/>
+      <exattr n="nst" v="st.1534.18.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5632" gid="g5378" t="Individual_protein" fr="w24236" to="w24237" nam="yes">
+     <textspan type="extent">caspases-8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1534.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5633" gid="g5379" t="Individual_protein" fr="w24247" to="w24251" nam="yes">
+     <textspan type="extent">TRAIL receptors [..] 2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1534.6"/>
+      <exattr n="nst" v="st.1534.26.0"/>
+      <exattr n="nst" v="st.1534.27.0"/>
+      <exattr n="nst" v="st.1534.30.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5634" gid="g5380" t="Individual_protein" fr="w24247" to="w24249" nam="yes">
+     <textspan type="extent">TRAIL receptors 1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1534.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5635" gid="g5379" t="Individual_protein" fr="w24255" to="w24255" nam="yes">
+     <textspan type="extent">TRAIL-R2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1534.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e5636" gid="g5381" t="Individual_protein" fr="w24227" to="w24227" nam="yes">
+     <textspan type="extent">MORT1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1534.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e5637" gid="g5380" t="Individual_protein" fr="w24253" to="w24253" nam="yes">
+     <textspan type="extent">TRAIL-R1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1534.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e5638" gid="g5382" t="Function_property" fr="w24242" to="w24249">
+     <textspan type="extent">signaling by [..] TRAIL receptors 1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.1534.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e5639" gid="g5381" t="Individual_protein" fr="w24225" to="w24225" nam="yes">
+     <textspan type="extent">FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1534.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e5640" gid="g5383" t="Function_property" fr="w24242" to="w24251">
+     <textspan type="extent">signaling by [..] TRAIL receptors [..] 2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.1534.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e5641" gid="g5384" t="Individual_protein" fr="w24229" to="w24229" nam="yes">
+     <textspan type="extent">TRADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1534.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e5642" gid="g5385" t="Individual_protein" fr="w24232" to="w24232" nam="yes">
+     <textspan type="extent">RIP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1534.15"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2156" t="PARTICIPATE" e1="e5628" e2="e5638" re="e5627">
+     <textspan type="extent">involvement of the death adaptor proteins FADD / MORT1 , TRADD , and RIP and the apoptosis-initiating caspases -8 and -10 in death signaling by the two death-inducing TRAIL receptors 1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1534.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2157" t="PARTICIPATE" e1="e5630" e2="e5638" re="e5627">
+     <textspan type="extent">involvement of the death adaptor proteins FADD / MORT1 , TRADD , and RIP and the apoptosis-initiating caspases -8 and -10 in death signaling by the two death-inducing TRAIL receptors 1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1534.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2158" t="PARTICIPATE" e1="e5629" e2="e5638" re="e5627">
+     <textspan type="extent">involvement of the death adaptor proteins FADD / MORT1 , TRADD , and RIP and the apoptosis-initiating caspases -8 and -10 in death signaling by the two death-inducing TRAIL receptors 1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1534.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2159" t="PARTICIPATE" e1="e5632" e2="e5638" re="e5627">
+     <textspan type="extent">involvement of the death adaptor proteins FADD / MORT1 , TRADD , and RIP and the apoptosis-initiating caspases -8 and -10 in death signaling by the two death-inducing TRAIL receptors 1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1534.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2160" t="PARTICIPATE" e1="e5631" e2="e5638" re="e5627">
+     <textspan type="extent">involvement of the death adaptor proteins FADD / MORT1 , TRADD , and RIP and the apoptosis-initiating caspases -8 and -10 in death signaling by the two death-inducing TRAIL receptors 1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1534.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2161" t="PARTICIPATE" e1="e5628" e2="e5640" re="e5627">
+     <textspan type="extent">involvement of the death adaptor proteins FADD / MORT1 , TRADD , and RIP and the apoptosis-initiating caspases -8 and -10 in death signaling by the two death-inducing TRAIL receptors 1 and 2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1534.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2162" t="PARTICIPATE" e1="e5630" e2="e5640" re="e5627">
+     <textspan type="extent">involvement of the death adaptor proteins FADD / MORT1 , TRADD , and RIP and the apoptosis-initiating caspases -8 and -10 in death signaling by the two death-inducing TRAIL receptors 1 and 2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1534.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2163" t="PARTICIPATE" e1="e5629" e2="e5640" re="e5627">
+     <textspan type="extent">involvement of the death adaptor proteins FADD / MORT1 , TRADD , and RIP and the apoptosis-initiating caspases -8 and -10 in death signaling by the two death-inducing TRAIL receptors 1 and 2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1534.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2164" t="PARTICIPATE" e1="e5632" e2="e5640" re="e5627">
+     <textspan type="extent">involvement of the death adaptor proteins FADD / MORT1 , TRADD , and RIP and the apoptosis-initiating caspases -8 and -10 in death signaling by the two death-inducing TRAIL receptors 1 and 2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1534.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2165" t="PARTICIPATE" e1="e5631" e2="e5640" re="e5627">
+     <textspan type="extent">involvement of the death adaptor proteins FADD / MORT1 , TRADD , and RIP and the apoptosis-initiating caspases -8 and -10 in death signaling by the two death-inducing TRAIL receptors 1 and 2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1534.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

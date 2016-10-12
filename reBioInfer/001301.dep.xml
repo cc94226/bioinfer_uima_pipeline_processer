@@ -1,0 +1,44 @@
+<rexml>
+<doc id="1301">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20423" g="w20428" t="s" cr="s+subj:w20428" w="Studies" l="study" p="N"/>
+     <dpg d="w20424" g="w20423" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w20425" g="w20426" t="mod" cr="mod:w20426" w="cultured" l="~" p="A"/>
+     <dpg d="w20426" g="w20424" t="pcomp-n" cr="mod*on*n:w20423" w="cells" l="cell" p="N"/>
+     <dpg d="w20427" g="w20428" t="have" cr="have:w20428" w="have" l="~" p="have"/>
+     <dpg d="w20428" g="E1" t="i" cr="" w="suggested" l="suggest" p="V"/>
+     <dpg d="E3" g="w20428" t="subj" cr="" w="" l="study" p="N"/>
+     <dpg d="E3" g="w20423" t="antecedent" cr="" w="" l="study" p="N"/>
+     <dpg d="E0" g="w20428" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20429" g="E0" t="c" cr="c:w20434" w="that" l="~" p="COMP"/>
+     <dpg d="w20430" g="E0" t="punc" cr="punc:w20434" w="both" l="~" p="U"/>
+     <dpg d="w20431" g="w20434" t="s" cr="s:w20434||subj:w20435" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w20432" g="w20431" t="punc" cr="punc:w20431" w="and" l="~" p="U"/>
+     <dpg d="w20433" g="w20431" t="conj" cr="conj:w20431" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w20434" g="E0" t="i" cr="fc:w20428" w="are" l="be" p="VBE"/>
+     <dpg d="w20435" g="w20434" t="pred" cr="pred:w20434" w="important" l="~" p="A"/>
+     <dpg d="E4" g="w20435" t="subj" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="E4" g="w20431" t="antecedent" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="w20436" g="w20435" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w20437" g="w20439" t="det" cr="det:w20439" w="the" l="~" p="Det"/>
+     <dpg d="w20438" g="w20439" t="mod" cr="mod:w20439" w="adhesive" l="~" p="A"/>
+     <dpg d="w20439" g="w20436" t="pcomp-n" cr="mod*for*n:w20435" w="function" l="~" p="N"/>
+     <dpg d="w20440" g="w20439" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w20441" g="w20440" t="pcomp-n" cr="mod*of*n:w20439" w="cadherins" l="~" p="N"/>
+     <dpg d="w20442" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

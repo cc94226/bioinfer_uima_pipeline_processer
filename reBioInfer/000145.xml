@@ -1,0 +1,74 @@
+<rexml>
+<doc id="145">
+  <text>
+<p><s id="s1"><w id="w2329">ORC1</w> <w id="w2330">,</w> <w id="w2331">ORC4</w> <w id="w2332">and</w> <w id="w2333">Cdc6</w> <w id="w2334">were</w> <w id="w2335">stable</w> <w id="w2336">(</w> <w id="w2337">T1/2</w> <w id="w2338">&gt;</w> <w id="w2339">2</w> <w id="w2340">h</w> <w id="w2341">)</w> <w id="w2342">and</w> <w id="w2343">associated</w> <w id="w2344">with</w> <w id="w2345">a</w> <w id="w2346">chromatin-containing</w> <w id="w2347">fraction</w> <w id="w2348">throughout</w> <w id="w2349">the</w> <w id="w2350">cell</w> <w id="w2351">cycle</w> <w id="w2352">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e566" gid="g547" t="Individual_protein" fr="w2329" to="w2329" nam="yes">
+     <textspan type="extent">ORC1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.145.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e567" gid="g548" t="RELATIONSHIP_TEXTBINDING" fr="w2343" to="w2347">
+     <textspan type="extent">associated with [..] fraction</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.145.1"/>
+      <exattr n="nst" v="st.145.14.0"/>
+      <exattr n="nst" v="st.145.15.0"/>
+      <exattr n="nst" v="st.145.18.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e568" gid="g549" t="Individual_protein" fr="w2333" to="w2333" nam="yes">
+     <textspan type="extent">Cdc6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.145.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e569" gid="g550" t="Individual_protein" fr="w2331" to="w2331" nam="yes">
+     <textspan type="extent">ORC4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.145.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r216" t="COLOCALIZE" e1="e566" e2="e569,e568" re="e567">
+     <textspan type="extent">ORC1 , ORC4 and Cdc6 were stable ( T1/2 &gt; 2 h ) and associated with a chromatin-containing fraction</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.145.1"/>
+      <exattr n="arg" v="e566"/>
+      <exattr n="arg" v="e569"/>
+      <exattr n="arg" v="e568"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

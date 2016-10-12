@@ -1,0 +1,106 @@
+<rexml>
+<doc id="740">
+  <text>
+<p><s id="s1"><w id="w11492">In</w> <w id="w11493">contrast</w> <w id="w11494">,</w> <w id="w11495">talin</w> <w id="w11496">,</w> <w id="w11497">another</w> <w id="w11498">putative</w> <w id="w11499">actin</w><w id="w11500">-</w><w id="w11501">membrane</w> <w id="w11502">linker</w> <w id="w11503">protein</w> <w id="w11504">,</w> <w id="w11505">could</w> <w id="w11506">not</w> <w id="w11507">be</w> <w id="w11508">detected</w> <w id="w11509">in</w> <w id="w11510">significant</w> <w id="w11511">amounts</w> <w id="w11512">in</w> <w id="w11513">human</w> <w id="w11514">neutrophils</w> <w id="w11515">using</w> <w id="w11516">a</w> <w id="w11517">polyclonal</w> <w id="w11518">antibody</w> <w id="w11519">raised</w> <w id="w11520">against</w> <w id="w11521">chicken</w> <w id="w11522">gizzard</w> <w id="w11523">talin</w> <w id="w11524">,</w> <w id="w11525">which</w> <w id="w11526">reacted</w> <w id="w11527">with</w> <w id="w11528">human</w> <w id="w11529">platelet</w> <w id="w11530">and</w> <w id="w11531">lymphocyte</w> <w id="w11532">talin</w> <w id="w11533">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2686" gid="g2573" t="Individual_protein" fr="w11495" to="w11495" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.740.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2687" gid="g2574" t="RELATIONSHIP_TEXTBINDING" fr="w11502" to="w11502">
+     <textspan type="extent">linker</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.740.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2688" gid="g2575" t="Gene/protein/RNA" fr="w11522" to="w11523" nam="yes">
+     <textspan type="extent">gizzard talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.740.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2689" gid="g2576" t="Individual_protein" fr="w11499" to="w11499" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.740.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2690" gid="g2577" t="Cell_component" fr="w11501" to="w11501" nam="yes">
+     <textspan type="extent">membrane</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.740.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2691" gid="g2578" t="Gene/protein/RNA" fr="w11529" to="w11532" nam="yes">
+     <textspan type="extent">platelet [..] talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.740.5"/>
+      <exattr n="nst" v="st.740.35.0"/>
+      <exattr n="nst" v="st.740.38.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2692" gid="g2579" t="Gene/protein/RNA" fr="w11531" to="w11532" nam="yes">
+     <textspan type="extent">lymphocyte talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.740.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1029" t="CAUSE" e1="e2686" e2="e2687" re="e2687">
+     <textspan type="extent">talin , another putative actin - membrane linker</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.740.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1030" t="RELATE" e1="e2689" e2="e2690" re="e2687">
+     <textspan type="extent">actin - membrane linker</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.740.1"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

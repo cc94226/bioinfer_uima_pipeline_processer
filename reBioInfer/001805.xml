@@ -1,0 +1,92 @@
+<rexml>
+<doc id="1805">
+  <text>
+<p><s id="s1"><w id="w29010">This</w> <w id="w29011">approach</w> <w id="w29012">is</w> <w id="w29013">based</w> <w id="w29014">on</w> <w id="w29015">the</w> <w id="w29016">assumption</w> <w id="w29017">that</w> <w id="w29018">an</w> <w id="w29019">actin</w> <w id="w29020">mutation</w> <w id="w29021">that</w> <w id="w29022">specifically</w> <w id="w29023">impairs</w> <w id="w29024">the</w> <w id="w29025">interaction</w> <w id="w29026">with</w> <w id="w29027">an</w> <w id="w29028">actin-binding</w> <w id="w29029">protein</w> <w id="w29030">will</w> <w id="w29031">cause</w> <w id="w29032">a</w> <w id="w29033">phenotype</w> <w id="w29034">similar</w> <w id="w29035">to</w> <w id="w29036">a</w> <w id="w29037">null</w> <w id="w29038">mutation</w> <w id="w29039">in</w> <w id="w29040">the</w> <w id="w29041">gene</w> <w id="w29042">that</w> <w id="w29043">encodes</w> <w id="w29044">the</w> <w id="w29045">actin-binding</w> <w id="w29046">protein</w> <w id="w29047">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6711" gid="g6400" t="Individual_protein" fr="w29019" to="w29019" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1805.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6712" gid="g6401" t="RELATIONSHIP_TEXTBINDING" fr="w29025" to="w29026">
+     <textspan type="extent">interaction with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1805.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6713" gid="g6402" t="Gene/protein/RNA" fr="w29045" to="w29046" nam="yes">
+     <textspan type="extent">actin-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1805.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6714" gid="g6403" t="RELATIONSHIP_TEXTBINDING" fr="w29023" to="w29023">
+     <textspan type="extent">impairs</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1805.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6715" gid="g6404" t="MODIFICATION" fr="w29019" to="w29020">
+     <textspan type="extent">actin mutation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1805.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6716" gid="g6405" t="Individual_protein" fr="w29028" to="w29029" nam="yes">
+     <textspan type="extent">actin-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1805.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2575" t="PREVENT" e1="e6715" e2="e6712" re="e6714">
+     <textspan type="extent">actin mutation that specifically impairs the interaction with an actin-binding protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1805.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="PREVENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2576" t="INTERACT" e1="e6711" e2="e6716" re="e6712">
+     <textspan type="extent">actin mutation that specifically impairs the interaction with an actin-binding protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1805.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

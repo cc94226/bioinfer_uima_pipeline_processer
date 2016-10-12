@@ -1,0 +1,64 @@
+<rexml>
+<doc id="2013">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32108" g="w32109" t="s" cr="s+subj:w32109" w="WASp" l="~" p="N"/>
+     <dpg d="w32109" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="contains" l="contain" p="V"/>
+     <dpg d="E4" g="w32109" t="subj" cr="" w="" l="WASP" p="N"/>
+     <dpg d="E4" g="w32108" t="antecedent" cr="" w="" l="WASP" p="N"/>
+     <dpg d="w32110" g="w32112" t="det" cr="det:w32112" w="a" l="~" p="Det"/>
+     <dpg d="w32111" g="w32112" t="mod" cr="mod:w32112" w="binding" l="~" p="A"/>
+     <dpg d="w32112" g="w32109" t="obj" cr="obj:w32109" w="motif" l="~" p="N"/>
+     <dpg d="w32113" g="w32112" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w32114" g="w32117" t="det" cr="det:w32117" w="the" l="~" p="Det"/>
+     <dpg d="w32115" g="w32117" t="lex-mod" cr="lex-mod:w32117" w="Rho" l="~" p="U"/>
+     <dpg d="w32116" g="w32117" t="lex-mod" cr="lex-mod:w32117" w="GTPase" l="~" p="U"/>
+     <dpg d="w32117" g="w32113" t="pcomp-n" cr="mod*for*n:w32112" w="CDC42Hs" l="Rho GTPase CDC42Hs" p="N"/>
+     <dpg d="w32118" g="w32117" t="punc" cr="punc:w32117" w="as" l="~" p="U"/>
+     <dpg d="w32119" g="w32117" t="punc" cr="punc:w32117" w="well" l="~" p="U"/>
+     <dpg d="w32120" g="w32117" t="punc" cr="punc:w32117" w="as" l="~" p="U"/>
+     <dpg d="w32121" g="w32122" t="nn" cr="nn:w32122" w="verprolin" l="~" p="N"/>
+     <dpg d="w32122" g="w32117" t="conj" cr="conj:w32117" w="/" l="~" p="N"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32123" g="w32125" t="lex-mod" cr="lex-mod:w32125" w="cofilin" l="~" p="U"/>
+     <dpg d="w32124" g="w32125" t="lex-mod" cr="lex-mod:w32125" w="-" l="~" p="U"/>
+     <dpg d="w32125" g="w32129" t="mod" cr="mod:w32129" w="like" l="cofilin - like" p="A"/>
+     <dpg d="w32126" g="w32128" t="lex-mod" cr="lex-mod:w32128" w="actin" l="~" p="U"/>
+     <dpg d="w32127" g="w32128" t="lex-mod" cr="lex-mod:w32128" w="-" l="~" p="U"/>
+     <dpg d="w32128" g="w32129" t="mod" cr="mod:w32129" w="regulatory" l="actin - regulatory" p="A"/>
+     <dpg d="w32129" g="w32143" t="s" cr="s+obj:w32143" w="domains" l="domain" p="N"/>
+     <dpg d="w32130" g="w32129" t="punc" cr="punc:w32129" w="," l="~" p="U"/>
+     <dpg d="w32131" g="w32129" t="punc" cr="punc:w32129" w="but" l="~" p="U"/>
+     <dpg d="w32132" g="w32135" t="det" cr="det:w32135" w="no" l="~" p="Det"/>
+     <dpg d="w32133" g="w32135" t="mod" cr="mod:w32135" w="specific" l="~" p="A"/>
+     <dpg d="w32134" g="w32135" t="nn" cr="nn:w32135" w="actin" l="~" p="N"/>
+     <dpg d="w32135" g="w32129" t="conj" cr="conj:w32129||obj:w32136" w="structure" l="~" p="N"/>
+     <dpg d="w32136" g="w32135" t="vrel" cr="vrel:w32135" w="regulated" l="regulate" p="V"/>
+     <dpg d="E5" g="w32136" t="obj" cr="" w="" l="structure" p="N"/>
+     <dpg d="E5" g="w32135" t="antecedent" cr="" w="" l="structure" p="N"/>
+     <dpg d="w32137" g="w32136" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w32138" g="w32140" t="lex-mod" cr="lex-mod:w32140" w="CDC42Hs" l="~" p="U"/>
+     <dpg d="w32139" g="w32140" t="lex-mod" cr="lex-mod:w32140" w="-" l="~" p="U"/>
+     <dpg d="w32140" g="w32137" t="pcomp-n" cr="by-subj*by*n:w32136" w="WASp" l="CDC42Hs - WASp" p="N"/>
+     <dpg d="w32141" g="w32143" t="have" cr="have:w32143" w="has" l="have" p="have"/>
+     <dpg d="w32142" g="w32143" t="be" cr="be:w32143" w="been" l="be" p="be"/>
+     <dpg d="w32143" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="identified" l="identify" p="V"/>
+     <dpg d="E6" g="w32143" t="obj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E6" g="w32129" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="w32144" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

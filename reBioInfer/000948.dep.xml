@@ -1,0 +1,63 @@
+<rexml>
+<doc id="948">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w14701" g="w14703" t="s" cr="s+obj:w14703" w="LOH" l="~" p="N"/>
+     <dpg d="w14702" g="w14703" t="be" cr="be:w14703" w="was" l="be" p="be"/>
+     <dpg d="w14703" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="found" l="find" p="V"/>
+     <dpg d="E3" g="w14703" t="obj" cr="" w="" l="Loh" p="N"/>
+     <dpg d="E3" g="w14701" t="antecedent" cr="" w="" l="Loh" p="N"/>
+     <dpg d="w14704" g="w14703" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w14705" g="w14707" t="det" cr="det:w14707" w="the" l="~" p="Det"/>
+     <dpg d="w14706" g="w14707" t="nn" cr="nn:w14707" w="RAD51" l="~" p="N"/>
+     <dpg d="w14707" g="w14704" t="pcomp-n" cr="mod*in*n:w14703" w="region" l="~" p="N"/>
+     <dpg d="w14708" g="w14707" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w14709" g="w14710" t="lex-mod" cr="lex-mod:w14710" w="32" l="~" p="U"/>
+     <dpg d="w14710" g="w14708" t="pcomp-n" cr="mod*in*n:w14707" w="%" l="32 %" p="N"/>
+     <dpg d="w14711" g="w14710" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w14712" g="w14711" t="pcomp-n" cr="mod*of*n:w14710" w="tumours" l="tumour" p="N"/>
+     <dpg d="w14713" g="w14703" t="punc" cr="punc:w14703" w="," l="~" p="U"/>
+     <dpg d="w14714" g="w14703" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w14715" g="w14717" t="det" cr="det:w14717" w="the" l="~" p="Det"/>
+     <dpg d="w14716" g="w14717" t="nn" cr="nn:w14717" w="RAD52" l="~" p="N"/>
+     <dpg d="w14717" g="w14714" t="pcomp-n" cr="mod*in*n:w14703" w="region" l="~" p="N"/>
+     <dpg d="w14718" g="w14717" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w14719" g="w14720" t="lex-mod" cr="lex-mod:w14720" w="16" l="~" p="U"/>
+     <dpg d="w14720" g="w14718" t="pcomp-n" cr="mod*in*n:w14717" w="%" l="16 %" p="N"/>
+     <dpg d="w14721" g="w14718" t="punc" cr="punc:w14718" w="," l="~" p="U"/>
+     <dpg d="w14722" g="w14718" t="conj" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w14723" g="w14722" t="pcomp-n" cr="mod*in*n:w14717" w="RAD54" l="~" p="N"/>
+     <dpg d="w14724" g="w14723" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w14725" g="w14726" t="lex-mod" cr="lex-mod:w14726" w="20" l="~" p="U"/>
+     <dpg d="w14726" g="w14724" t="pcomp-n" cr="mod*in*n:w14723" w="%" l="20 %" p="N"/>
+     <dpg d="w14727" g="w14724" t="punc" cr="punc:w14724" w="and" l="~" p="U"/>
+     <dpg d="w14728" g="w14724" t="conj" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w14729" g="w14730" t="det" cr="det:w14730" w="the" l="~" p="Det"/>
+     <dpg d="w14730" g="w14728" t="pcomp-n" cr="mod*in*n:w14723" w="BRCA1" l="~" p="N"/>
+     <dpg d="w14731" g="w14717" t="punc" cr="punc:w14717" w="and" l="~" p="U"/>
+     <dpg d="w14732" g="w14733" t="nn" cr="nn:w14733" w="BRCA2" l="~" p="N"/>
+     <dpg d="w14733" g="w14717" t="conj" cr="conj:w14717" w="regions" l="region" p="N"/>
+     <dpg d="w14734" g="w14733" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w14735" g="w14736" t="lex-mod" cr="lex-mod:w14736" w="49" l="~" p="U"/>
+     <dpg d="w14736" g="w14734" t="pcomp-n" cr="mod*in*n:w14733" w="%" l="49 %" p="N"/>
+     <dpg d="w14737" g="w14736" t="punc" cr="punc:w14736" w="and" l="~" p="U"/>
+     <dpg d="w14738" g="w14739" t="lex-mod" cr="lex-mod:w14739" w="44" l="~" p="U"/>
+     <dpg d="w14739" g="w14736" t="conj" cr="conj:w14736" w="%" l="44 %" p="N"/>
+     <dpg d="w14740" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="respectively" l="~" p="A"/>
+     <dpg d="w14741" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

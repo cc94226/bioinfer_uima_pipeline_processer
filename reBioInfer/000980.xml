@@ -1,0 +1,199 @@
+<rexml>
+<doc id="980">
+  <text>
+<p><s id="s1"><w id="w15437">Microinjection</w> <w id="w15438">or</w> <w id="w15439">stable</w> <w id="w15440">expression</w> <w id="w15441">of</w> <w id="w15442">V12Ras</w> <w id="w15443">into</w> <w id="w15444">keratinocytes</w> <w id="w15445">promotes</w> <w id="w15446">the</w> <w id="w15447">loss</w> <w id="w15448">of</w> <w id="w15449">E-cadherin</w> <w id="w15450">and</w> <w id="w15451">alpha-catenin</w> <w id="w15452">and</w> <w id="w15453">relocalization</w> <w id="w15454">of</w> <w id="w15455">beta-catenin</w> <w id="w15456">to</w> <w id="w15457">the</w> <w id="w15458">cytoplasm</w> <w id="w15459">and</w> <w id="w15460">nucleus</w> <w id="w15461">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3488" gid="g3341" t="Artificial" fr="w15437" to="w15442" nam="yes">
+     <textspan type="extent">Microinjection [..] of V12Ras</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Artificial"/>
+      <exattr n="bd" v="e.980.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3489" gid="g3342" t="RELATIONSHIP_TEXTBINDING" fr="w15445" to="w15445">
+     <textspan type="extent">promotes</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.980.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3490" gid="g3343" t="DECREASE" fr="w15447" to="w15449">
+     <textspan type="extent">loss of E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="DECREASE"/>
+      <exattr n="bd" v="e.980.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3491" gid="g3344" t="Expression" fr="w15440" to="w15442">
+     <textspan type="extent">expression of V12Ras</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.980.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3492" gid="g3345" t="LOCALIZATION" fr="w15453" to="w15455">
+     <textspan type="extent">relocalization of beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.980.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3493" gid="g3346" t="DECREASE" fr="w15447" to="w15451">
+     <textspan type="extent">loss of [..] alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="DECREASE"/>
+      <exattr n="bd" v="e.980.5"/>
+      <exattr n="nst" v="st.980.10.0"/>
+      <exattr n="nst" v="st.980.11.0"/>
+      <exattr n="nst" v="st.980.14.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3494" gid="g3347" t="Individual_protein" fr="w15442" to="w15442" nam="yes">
+     <textspan type="extent">V12Ras</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.980.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3495" gid="g3348" t="Individual_protein" fr="w15449" to="w15449" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.980.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e3496" gid="g3349" t="Individual_protein" fr="w15451" to="w15451" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.980.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e3497" gid="g3350" t="Individual_protein" fr="w15442" to="w15442" nam="yes">
+     <textspan type="extent">V12Ras</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.980.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e3498" gid="g3351" t="Individual_protein" fr="w15455" to="w15455" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.980.10"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1313" t="STIMULATE" e1="e3488" e2="e3490" re="e3489">
+     <textspan type="extent">Microinjection or stable expression of V12Ras into keratinocytes promotes the loss of E-cadherin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.980.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1314" t="STIMULATE" e1="e3488" e2="e3493" re="e3489">
+     <textspan type="extent">Microinjection or stable expression of V12Ras into keratinocytes promotes the loss of E-cadherin and alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.980.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1315" t="STIMULATE" e1="e3488" e2="e3492" re="e3489">
+     <textspan type="extent">Microinjection or stable expression of V12Ras into keratinocytes promotes the loss of E-cadherin and alpha-catenin and relocalization of beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.980.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1316" t="STIMULATE" e1="e3491" e2="e3490" re="e3489">
+     <textspan type="extent">expression of V12Ras into keratinocytes promotes the loss of E-cadherin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.980.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1317" t="STIMULATE" e1="e3491" e2="e3493" re="e3489">
+     <textspan type="extent">expression of V12Ras into keratinocytes promotes the loss of E-cadherin and alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.980.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1318" t="STIMULATE" e1="e3491" e2="e3492" re="e3489">
+     <textspan type="extent">expression of V12Ras into keratinocytes promotes the loss of E-cadherin and alpha-catenin and relocalization of beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.980.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

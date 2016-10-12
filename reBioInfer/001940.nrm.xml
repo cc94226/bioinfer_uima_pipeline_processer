@@ -1,0 +1,115 @@
+<rexml>
+<doc id="1940">
+  
+  <markup>
+   <nes>
+    <ne id="e7173" gid="g6846" t="Protein_family_or_group" fr="w31295" to="w31298" nam="yes" sid="s1">
+     <textspan>extracellular signal-regulated protein kinases</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1940.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7176" gid="g6849" t="Individual_protein" fr="w31299" to="w31299" nam="yes" sid="s1">
+     <textspan>ERK1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1940.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7175" gid="g6848" t="Individual_protein" fr="w31301" to="w31301" nam="yes" sid="s1">
+     <textspan>ERK2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1940.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7172" gid="g6845" t="Gene/protein/RNA" fr="w31305" to="w31305" nam="yes" sid="s1">
+     <textspan>c-fos</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1940.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7171" gid="g6844" t="Gene/protein/RNA" fr="w31307" to="w31307" nam="yes" sid="s1">
+     <textspan>c-jun</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1940.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7174" gid="g6847" t="Gene/protein/RNA" fr="w31317" to="w31317" nam="yes" sid="s1">
+     <textspan>AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1940.3"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2741" t="COOF-MEMBER" e1="e7176" e2="e7175" re="">
+     <textspan>extracellular signal-regulated protein kinases ERK1 and ERK2</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2741" t="MEMBER" e1="e7173" e2="e7176" re="">
+     <textspan>extracellular signal-regulated protein kinases ERK1</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2742" t="MEMBER" e1="e7173" e2="e7175" re="">
+     <textspan>extracellular signal-regulated protein kinases ERK1 and ERK2</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

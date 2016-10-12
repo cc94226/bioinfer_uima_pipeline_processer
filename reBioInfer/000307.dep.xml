@@ -1,0 +1,42 @@
+<rexml>
+<doc id="307">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4729" g="w4732" t="s" cr="s+subj:w4732" w="Characterization" l="~" p="N"/>
+     <dpg d="w4730" g="w4729" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4731" g="w4730" t="pcomp-n" cr="mod*of*n:w4729" w="gelsolin" l="~" p="N"/>
+     <dpg d="w4732" g="E0" t="i" cr="UNSPECRELTYPE:w4734" w="truncates" l="truncate" p="V"/>
+     <dpg d="E5" g="w4732" t="subj" cr="" w="" l="characterization" p="N"/>
+     <dpg d="E5" g="w4729" t="antecedent" cr="" w="" l="characterization" p="N"/>
+     <dpg d="w4733" g="w4732" t="obj" cr="obj:w4732" w="that" l="~" p="N"/>
+     <dpg d="w4734" g="E4" t="i" cr="" w="inhibit" l="~" p="V"/>
+     <dpg d="w4735" g="w4736" t="nn" cr="nn:w4736" w="actin" l="~" p="N"/>
+     <dpg d="w4736" g="w4734" t="obj" cr="obj:w4734" w="depolymerization" l="~" p="N"/>
+     <dpg d="w4737" g="w4736" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E1" g="w4737" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E1" t="s" cr="s+subj:w4738" w="" l="~" p="N"/>
+     <dpg d="w4738" g="E1" t="i" cr="mod*by*c:w4736" w="severing" l="sever" p="V"/>
+     <dpg d="E6" g="w4738" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w4739" g="w4738" t="obj" cr="obj:w4738" w="activity" l="~" p="N"/>
+     <dpg d="w4740" g="w4739" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4741" g="w4740" t="pcomp-n" cr="mod*of*n:w4739" w="gelsolin" l="~" p="N"/>
+     <dpg d="w4742" g="w4741" t="punc" cr="punc:w4741" w="and" l="~" p="U"/>
+     <dpg d="w4743" g="w4741" t="conj" cr="conj:w4741" w="cofilin" l="~" p="N"/>
+     <dpg d="w4744" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

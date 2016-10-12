@@ -1,0 +1,51 @@
+<rexml>
+<doc id="985">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E1" t="s" cr="s+subj:w15537" w="" l="~" p="N"/>
+     <dpg d="w15537" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="Modifying" l="modify" p="V"/>
+     <dpg d="E5" g="w15537" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w15538" g="w15539" t="mod" cr="mod:w15539" w="preselected" l="~" p="A"/>
+     <dpg d="w15539" g="w15537" t="obj" cr="obj:w15537" w="sites" l="site" p="N"/>
+     <dpg d="w15540" g="w15539" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w15541" g="w15540" t="pcomp-n" cr="mod*on*n:w15539" w="proteins" l="protein" p="N"/>
+     <dpg d="w15542" g="E4" t="punc" cr="punc:E4" w=":" l="~" p="U"/>
+     <dpg d="E0" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w15543" g="w15544" t="det" cr="det:w15544" w="the" l="~" p="Det"/>
+     <dpg d="w15544" g="w15553" t="s" cr="s:w15553||subj:w15554" w="stretch" l="~" p="N"/>
+     <dpg d="w15545" g="w15544" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15546" g="w15547" t="nn" cr="nn:w15547" w="residues" l="residue" p="N"/>
+     <dpg d="w15547" g="w15545" t="pcomp-n" cr="mod*of*n:w15544" w="633-642" l="633-642" p="N"/>
+     <dpg d="w15548" g="w15547" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15549" g="w15552" t="det" cr="det:w15552" w="the" l="~" p="Det"/>
+     <dpg d="w15550" g="w15552" t="nn" cr="nn:w15552" w="myosin" l="~" p="N"/>
+     <dpg d="w15551" g="w15552" t="mod" cr="mod:w15552" w="heavy" l="~" p="A"/>
+     <dpg d="w15552" g="w15548" t="pcomp-n" cr="mod*of*n:w15547" w="chain" l="~" p="N"/>
+     <dpg d="w15553" g="E0" t="i" cr="UNSPECRELTYPE:E4" w="is" l="be" p="VBE"/>
+     <dpg d="w15554" g="w15553" t="pred" cr="pred:w15553" w="part" l="~" p="N"/>
+     <dpg d="E6" g="w15554" t="subj" cr="" w="" l="stretch" p="N"/>
+     <dpg d="E6" g="w15544" t="antecedent" cr="" w="" l="stretch" p="N"/>
+     <dpg d="w15555" g="w15554" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15556" g="w15560" t="det" cr="det:w15560" w="the" l="~" p="Det"/>
+     <dpg d="w15557" g="w15559" t="lex-mod" cr="lex-mod:w15559" w="actin" l="~" p="U"/>
+     <dpg d="w15558" g="w15559" t="lex-mod" cr="lex-mod:w15559" w="-" l="~" p="U"/>
+     <dpg d="w15559" g="w15560" t="mod" cr="mod:w15560" w="binding" l="actin - binding" p="A"/>
+     <dpg d="w15560" g="w15555" t="pcomp-n" cr="mod*of*n:w15554" w="site" l="~" p="N"/>
+     <dpg d="w15561" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

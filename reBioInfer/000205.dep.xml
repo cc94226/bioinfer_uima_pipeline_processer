@@ -1,0 +1,61 @@
+<rexml>
+<doc id="205">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w3163" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="BACKGROUND" l="~" p="N"/>
+     <dpg d="w3164" g="E4" t="punc" cr="punc:E4" w=":" l="~" p="U"/>
+     <dpg d="w3165" g="E4" t="subclass" cr="subclass:E4" w="p27" l="~" p="N"/>
+     <dpg d="w3166" g="w3165" t="punc" cr="punc:w3165" w="(" l="~" p="U"/>
+     <dpg d="w3167" g="w3165" t="appo" cr="appo:w3165" w="Kip1" l="~" p="N"/>
+     <dpg d="w3168" g="E4" t="punc" cr="punc:E4" w=")" l="~" p="U"/>
+     <dpg d="w3169" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3170" g="w3173" t="det" cr="det:w3173" w="a" l="~" p="Det"/>
+     <dpg d="w3171" g="w3173" t="mod" cr="mod:w3173" w="cyclin-dependent" l="cyclin-dependent" p="A"/>
+     <dpg d="w3172" g="w3173" t="nn" cr="nn:w3173" w="kinase" l="~" p="N"/>
+     <dpg d="w3173" g="w3176" t="s" cr="s+subj:w3176||s+subj:w3186" w="inhibitor" l="~" p="N"/>
+     <dpg d="w3174" g="w3176" t="punc" cr="punc:w3176" w="," l="~" p="U"/>
+     <dpg d="w3175" g="w3176" t="mod-before" cr="mod-before:w3176" w="negatively" l="~" p="A"/>
+     <dpg d="w3176" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="regulates" l="regulate" p="V"/>
+     <dpg d="E5" g="w3176" t="subj" cr="" w="" l="inhibitor" p="N"/>
+     <dpg d="E5" g="w3173" t="antecedent" cr="" w="" l="inhibitor" p="N"/>
+     <dpg d="w3177" g="w3180" t="det" cr="det:w3180" w="the" l="~" p="Det"/>
+     <dpg d="w3178" g="w3180" t="nn" cr="nn:w3180" w="G1" l="~" p="N"/>
+     <dpg d="w3179" g="w3180" t="nn" cr="nn:w3180" w="phase" l="~" p="N"/>
+     <dpg d="w3180" g="w3176" t="obj" cr="obj:w3176" w="progression" l="~" p="N"/>
+     <dpg d="w3181" g="w3180" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3182" g="w3184" t="det" cr="det:w3184" w="the" l="~" p="Det"/>
+     <dpg d="w3183" g="w3184" t="nn" cr="nn:w3184" w="cell" l="~" p="N"/>
+     <dpg d="w3184" g="w3181" t="pcomp-n" cr="mod*of*n:w3180" w="cycle" l="~" p="N"/>
+     <dpg d="w3185" g="w3184" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E0" g="w3185" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w3173" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w3186" g="E0" t="i" cr="mod*by*c:w3184" w="binding" l="bind" p="V"/>
+     <dpg d="E6" g="w3186" t="subj" cr="" w="" l="inhibitor" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="inhibitor" p="N"/>
+     <dpg d="w3187" g="w3186" t="guest" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w3188" g="w3191" t="det" cr="det:w3191" w="the" l="~" p="Det"/>
+     <dpg d="w3189" g="w3191" t="nn" cr="nn:w3191" w="cyclin" l="~" p="N"/>
+     <dpg d="w3190" g="w3191" t="nn" cr="nn:w3191" w="E" l="~" p="N"/>
+     <dpg d="w3191" g="w3187" t="pcomp-n" cr="guest*to*n:w3186" w="/" l="~" p="N"/>
+     <dpg d="w3192" g="w3195" t="mod" cr="mod:w3195" w="cyclin-dependent" l="cyclin-dependent" p="A"/>
+     <dpg d="w3193" g="w3194" t="lex-mod" cr="lex-mod:w3194" w="kinase" l="~" p="U"/>
+     <dpg d="w3194" g="w3195" t="nn" cr="nn:w3195" w="2" l="kinase 2" p="N"/>
+     <dpg d="w3195" g="w3186" t="obj" cr="obj:w3186" w="complex" l="~" p="N"/>
+     <dpg d="w3196" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

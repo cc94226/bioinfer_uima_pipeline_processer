@@ -1,0 +1,35 @@
+<rexml>
+<doc id="1611">
+  <text>
+<p><s id="s1"><w id="w25605">The</w> <w id="w25606">product</w> <w id="w25607">of</w> <w id="w25608">UL38</w> <w id="w25609">has</w> <w id="w25610">been</w> <w id="w25611">shown</w> <w id="w25612">to</w> <w id="w25613">be</w> <w id="w25614">essential</w> <w id="w25615">for</w> <w id="w25616">capsid</w> <w id="w25617">assembly</w> <w id="w25618">,</w> <w id="w25619">but</w> <w id="w25620">no</w> <w id="w25621">role</w> <w id="w25622">has</w> <w id="w25623">previously</w> <w id="w25624">been</w> <w id="w25625">assigned</w> <w id="w25626">to</w> <w id="w25627">the</w> <w id="w25628">product</w> <w id="w25629">of</w> <w id="w25630">UL18</w> <w id="w25631">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5919" gid="g5646" t="Gene/protein/RNA" fr="w25608" to="w25608" nam="yes">
+     <textspan type="extent">UL38</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1611.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5920" gid="g5647" t="Gene/protein/RNA" fr="w25630" to="w25630" nam="yes">
+     <textspan type="extent">UL18</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1611.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

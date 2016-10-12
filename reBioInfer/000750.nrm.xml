@@ -1,0 +1,96 @@
+<rexml>
+<doc id="750">
+  
+  <markup>
+   <nes>
+    <ne id="e2727" gid="g2613" t="Individual_protein" fr="w11688" to="w11689" nam="yes" sid="s1">
+     <textspan>beta1D integrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.750.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2729" gid="g2615" t="Cell_component" fr="w11692" to="w11693" nam="yes" sid="s1">
+     <textspan>actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.750.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2733" gid="g2618" t="Individual_protein" fr="w11692" to="w11692" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.750.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2731" gid="g2613" t="Individual_protein" fr="w11702" to="w11702" nam="yes" sid="s1">
+     <textspan>its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.750.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2730" gid="g2616" t="Individual_protein" fr="w11706" to="w11706" nam="yes" sid="s1">
+     <textspan>talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.750.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1041" t="BIND" e1="e2731" e2="e2730" re="e2732">
+     <textspan>its enhanced binding to talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.750.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1042" t="INTERACT" e1="e2727" e2="e2729" re="e2726">
+     <textspan>interaction of beta1D integrin with the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.750.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

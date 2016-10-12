@@ -1,0 +1,116 @@
+<rexml>
+<doc id="1812">
+  <text>
+<p><s id="s1"><w id="w29153">This</w> <w id="w29154">effect</w> <w id="w29155">is</w> <w id="w29156">specific</w> <w id="w29157">to</w> <w id="w29158">profilin</w> <w id="w29159">and</w> <w id="w29160">gelsolin</w> <w id="w29161">because</w> <w id="w29162">other</w> <w id="w29163">cytoskeletal</w> <w id="w29164">proteins</w> <w id="w29165">such</w> <w id="w29166">as</w> <w id="w29167">tau</w> <w id="w29168">or</w> <w id="w29169">actin</w> <w id="w29170">do</w> <w id="w29171">not</w> <w id="w29172">affect</w> <w id="w29173">PI</w> <w id="w29174">3-kinase</w> <w id="w29175">activity</w> <w id="w29176">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6743" gid="g6431" t="Gene/protein/RNA" fr="w29158" to="w29158" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1812.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6744" gid="g6432" t="RELATIONSHIP_TEXTBINDING" fr="w29172" to="w29172">
+     <textspan type="extent">affect</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1812.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6745" gid="g6433" t="Individual_protein" fr="w29167" to="w29167" nam="yes">
+     <textspan type="extent">tau</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1812.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6746" gid="g6434" t="Gene/protein/RNA" fr="w29160" to="w29160" nam="yes">
+     <textspan type="extent">gelsolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1812.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6747" gid="g6435" t="Dynamics_property" fr="w29173" to="w29175">
+     <textspan type="extent">PI 3-kinase activity</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.1812.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6748" gid="g6436" t="Individual_protein" fr="w29169" to="w29169" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1812.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6749" gid="g6437" t="RELATIONSHIP_TEXTBINDING" fr="w29171" to="w29171">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1812.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6750" gid="g6438" t="Individual_protein" fr="w29173" to="w29174" nam="yes">
+     <textspan type="extent">PI 3-kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1812.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2586" t="AFFECT" e1="e6745" e2="e6747" re="e6744">
+     <textspan type="extent">tau or actin do not affect PI 3-kinase activity</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1812.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2588" t="AFFECT" e1="e6748" e2="e6747" re="e6744">
+     <textspan type="extent">actin do not affect PI 3-kinase activity</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1812.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

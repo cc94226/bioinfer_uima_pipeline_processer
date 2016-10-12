@@ -1,0 +1,78 @@
+<rexml>
+<doc id="283">
+  <text>
+<p><s id="s1"><w id="w4394">Cadherins</w> <w id="w4395">are</w> <w id="w4396">essential</w> <w id="w4397">for</w> <w id="w4398">embryonic</w> <w id="w4399">morphogenesis</w> <w id="w4400">since</w> <w id="w4401">they</w> <w id="w4402">mediate</w> <w id="w4403">calcium-dependent</w> <w id="w4404">cell-cell</w> <w id="w4405">adhesion</w> <w id="w4406">and</w> <w id="w4407">can</w> <w id="w4408">modulate</w> <w id="w4409">beta-catenin</w> <w id="w4410">signaling</w> <w id="w4411">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1064" gid="g1015" t="Protein_family_or_group" fr="w4394" to="w4394" nam="yes">
+     <textspan type="extent">Cadherins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.283.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1065" gid="g1016" t="RELATIONSHIP_TEXTBINDING" fr="w4408" to="w4408">
+     <textspan type="extent">modulate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.283.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1066" gid="g1015" t="Protein_family_or_group" fr="w4401" to="w4401" nam="yes">
+     <textspan type="extent">they</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.283.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1067" gid="g1017" t="Function_property" fr="w4409" to="w4410">
+     <textspan type="extent">beta-catenin signaling</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.283.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1068" gid="g1018" t="Individual_protein" fr="w4409" to="w4409" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.283.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r425" t="CONTROL" e1="e1066" e2="e1067" re="e1065">
+     <textspan type="extent">they mediate calcium-dependent cell-cell adhesion and can modulate beta-catenin signaling</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.283.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

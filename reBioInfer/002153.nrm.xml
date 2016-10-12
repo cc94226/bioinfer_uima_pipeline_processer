@@ -1,0 +1,114 @@
+<rexml>
+<doc id="2153">
+  
+  <markup>
+   <nes>
+    <ne id="e7640" gid="g7281" t="Gene/protein/RNA" fr="w33526" to="w33526" nam="yes" sid="s1">
+     <textspan>cut2-364</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2153.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7643" gid="g7284" t="Gene/protein/RNA" fr="w33533" to="w33533" nam="yes" sid="s1">
+     <textspan>cut1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2153.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7645" gid="g7286" t="Function_property" fr="w33537" to="w33545" sid="s1">
+     <textspan>functions of [..] products of [..] cut2+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.2153.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7646" gid="g7287" t="Function_property" fr="w33537" to="w33543" sid="s1">
+     <textspan>functions of [..] products of cut1+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.2153.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7644" gid="g7285" t="Individual_protein" fr="w33541" to="w33545" nam="yes" sid="s1">
+     <textspan>products of [..] cut2+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2153.4"/>
+      <exattr n="nst" v="st.2153.23.0"/>
+      <exattr n="nst" v="st.2153.24.0"/>
+      <exattr n="nst" v="st.2153.27.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7642" gid="g7283" t="Individual_protein" fr="w33541" to="w33543" nam="yes" sid="s1">
+     <textspan>products of cut1+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2153.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7647" gid="g7288" t="Gene" fr="w33543" to="w33543" nam="yes" sid="s1">
+     <textspan>cut1+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.2153.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7649" gid="g7290" t="Gene" fr="w33545" to="w33545" nam="yes" sid="s1">
+     <textspan>cut2+</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.2153.9"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2944" t="RELATE" e1="e7646" e2="e7645" re="e7641">
+     <textspan>functions of the gene products of cut1+ and cut2+ are closely interrelated</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2153.1"/>
+      <exattr n="t1" v="RELATE"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

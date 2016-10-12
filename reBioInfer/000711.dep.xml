@@ -1,0 +1,58 @@
+<rexml>
+<doc id="711">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10943" g="E0" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w10944" g="w10943" t="pcomp-n" cr="mod*in*n:w10959" w="addition" l="~" p="N"/>
+     <dpg d="w10945" g="w10944" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w10946" g="w10949" t="det" cr="det:w10949" w="the" l="~" p="Det"/>
+     <dpg d="w10947" g="w10948" t="lex-mod" cr="lex-mod:w10948" w="TNF-alpha" l="~" p="U"/>
+     <dpg d="w10948" g="w10949" t="mod" cr="mod:w10949" w="-induced" l="TNF-alpha -induced" p="A"/>
+     <dpg d="w10949" g="w10945" t="pcomp-n" cr="mod*to*n:w10944" w="increase" l="~" p="N"/>
+     <dpg d="w10950" g="w10949" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w10951" g="w10954" t="det" cr="det:w10954" w="the" l="~" p="Det"/>
+     <dpg d="w10952" g="w10954" t="mod" cr="mod:w10954" w="general" l="~" p="A"/>
+     <dpg d="w10953" g="w10954" t="nn" cr="nn:w10954" w="protein" l="~" p="N"/>
+     <dpg d="w10954" g="w10950" t="pcomp-n" cr="mod*in*n:w10949" w="synthesis" l="~" p="N"/>
+     <dpg d="w10955" g="E0" t="punc" cr="punc:w10959" w="," l="~" p="U"/>
+     <dpg d="w10956" g="w10959" t="s" cr="s+subj:w10959" w="stimulation" l="~" p="N"/>
+     <dpg d="w10957" g="w10956" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w10958" g="w10957" t="pcomp-n" cr="mod*with*n:w10956" w="TNF-alpha" l="TNF-alpha" p="N"/>
+     <dpg d="w10959" g="E0" t="i" cr="" w="led" l="lead to" p="V"/>
+     <dpg d="w10960" g="w10959" t="lex-mod" cr="lex-mod:w10959" w="to" l="~" p="U"/>
+     <dpg d="E2" g="w10959" t="subj" cr="" w="" l="stimulation" p="N"/>
+     <dpg d="E2" g="w10956" t="antecedent" cr="" w="" l="stimulation" p="N"/>
+     <dpg d="w10961" g="w10963" t="det" cr="det:w10963" w="a" l="~" p="Det"/>
+     <dpg d="w10962" g="w10963" t="mod" cr="mod:w10963" w="2.4-fold" l="2.4-fold" p="A"/>
+     <dpg d="w10963" g="w10959" t="obj" cr="obj:w10959" w="increase" l="~" p="N"/>
+     <dpg d="w10964" g="w10963" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w10965" g="w10968" t="mod" cr="mod:w10968" w="net" l="~" p="A"/>
+     <dpg d="w10966" g="w10968" t="nn" cr="nn:w10968" w="actin" l="~" p="N"/>
+     <dpg d="w10967" g="w10968" t="nn" cr="nn:w10968" w="protein" l="~" p="N"/>
+     <dpg d="w10968" g="w10964" t="pcomp-n" cr="mod*in*n:w10963" w="synthesis" l="~" p="N"/>
+     <dpg d="w10969" g="w10968" t="punc" cr="punc:w10968" w="and" l="~" p="U"/>
+     <dpg d="w10970" g="w10972" t="det" cr="det:w10972" w="a" l="~" p="Det"/>
+     <dpg d="w10971" g="w10972" t="mod" cr="mod:w10972" w="3.3-fold" l="3.3-fold" p="A"/>
+     <dpg d="w10972" g="w10968" t="conj" cr="conj:w10968" w="increase" l="~" p="N"/>
+     <dpg d="w10973" g="w10972" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w10974" g="w10978" t="mod" cr="mod:w10978" w="net" l="~" p="A"/>
+     <dpg d="w10975" g="w10978" t="nn" cr="nn:w10978" w="myosin" l="~" p="N"/>
+     <dpg d="w10976" g="w10978" t="mod" cr="mod:w10978" w="heavy" l="~" p="A"/>
+     <dpg d="w10977" g="w10978" t="nn" cr="nn:w10978" w="chain" l="~" p="N"/>
+     <dpg d="w10978" g="w10973" t="pcomp-n" cr="mod*in*n:w10972" w="synthesis" l="~" p="N"/>
+     <dpg d="w10979" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

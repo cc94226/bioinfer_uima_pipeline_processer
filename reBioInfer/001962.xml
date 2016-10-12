@@ -1,0 +1,139 @@
+<rexml>
+<doc id="1962">
+  <text>
+<p><s id="s1"><w id="w31518">Unexpectedly</w> <w id="w31519">,</w> <w id="w31520">treatment</w> <w id="w31521">with</w> <w id="w31522">the</w> <w id="w31523">actin</w><w id="w31524">-depolymerizing</w> <w id="w31525">drug</w> <w id="w31526">latrunculin-A</w> <w id="w31527">disrupted</w> <w id="w31528">the</w> <w id="w31529">medial</w> <w id="w31530">region</w> <w id="w31531">targeting</w> <w id="w31532">pattern</w> <w id="w31533">,</w> <w id="w31534">and</w> <w id="w31535">cells</w> <w id="w31536">deficient</w> <w id="w31537">in</w> <w id="w31538">the</w> <w id="w31539">actin-binding</w> <w id="w31540">proteins</w> <w id="w31541">tropomyosin</w> <w id="w31542">and</w> <w id="w31543">profilin</w> <w id="w31544">also</w> <w id="w31545">did</w> <w id="w31546">not</w> <w id="w31547">exhibit</w> <w id="w31548">medial</w> <w id="w31549">GFP</w><w id="w31550">-</w><w id="w31551">Cdc42p</w> <w id="w31552">staining</w> <w id="w31553">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7217" gid="g6885" t="Gene/protein/RNA" fr="w31523" to="w31523" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1962.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7218" gid="g6886" t="Individual_protein" fr="w31541" to="w31541" nam="yes">
+     <textspan type="extent">tropomyosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1962.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7219" gid="g6887" t="Protein_family_or_group" fr="w31539" to="w31540" nam="yes">
+     <textspan type="extent">actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1962.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7220" gid="g6888" t="Individual_protein" fr="w31549" to="w31549" nam="yes">
+     <textspan type="extent">GFP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1962.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7221" gid="g6889" t="Individual_protein" fr="w31543" to="w31543" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1962.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7222" gid="g6890" t="Fusion_protein" fr="w31549" to="w31551" nam="yes">
+     <textspan type="extent">GFP-Cdc42p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Fusion_protein"/>
+      <exattr n="bd" v="e.1962.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7223" gid="g6891" t="Individual_protein" fr="w31551" to="w31551" nam="yes">
+     <textspan type="extent">Cdc42p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1962.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2763" t="MEMBER" e1="e7219" e2="e7218" re="">
+     <textspan type="extent">actin-binding proteins tropomyosin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2764" t="MEMBER" e1="e7219" e2="e7221" re="">
+     <textspan type="extent">actin-binding proteins tropomyosin and profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2765" t="F-CONTAIN" e1="e7222" e2="e7220" re="">
+     <textspan type="extent">GFP - Cdc42p</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="F-CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2766" t="F-CONTAIN" e1="e7222" e2="e7223" re="">
+     <textspan type="extent">GFP - Cdc42p</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="F-CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,65 @@
+<rexml>
+<doc id="1678">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26712" g="w26714" t="det" cr="det:w26714" w="These" l="~" p="Det"/>
+     <dpg d="w26713" g="w26714" t="nn" cr="nn:w26714" w="histone" l="~" p="N"/>
+     <dpg d="w26714" g="w26718" t="s" cr="s+subj:w26718" w="H3" l="~" p="N"/>
+     <dpg d="w26715" g="w26714" t="punc" cr="punc:w26714" w="and" l="~" p="U"/>
+     <dpg d="w26716" g="w26717" t="nn" cr="nn:w26717" w="H2a" l="~" p="N"/>
+     <dpg d="w26717" g="w26714" t="conj" cr="conj:w26714" w="genes" l="gene" p="N"/>
+     <dpg d="w26718" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="encode" l="~" p="V"/>
+     <dpg d="E4" g="w26718" t="subj" cr="" w="" l="H3" p="N"/>
+     <dpg d="E4" g="w26714" t="antecedent" cr="" w="" l="H3" p="N"/>
+     <dpg d="w26719" g="w26718" t="guest" cr="guest:w26718" w="approximately" l="~" p="A"/>
+     <dpg d="w26720" g="w26721" t="lex-mod" cr="lex-mod:w26721" w="40" l="~" p="U"/>
+     <dpg d="w26721" g="w26718" t="obj" cr="obj:w26718" w="%" l="40 %" p="N"/>
+     <dpg d="w26722" g="w26721" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26723" g="w26725" t="det" cr="det:w26725" w="the" l="~" p="Det"/>
+     <dpg d="w26724" g="w26725" t="mod" cr="mod:w26725" w="total" l="~" p="A"/>
+     <dpg d="w26725" g="w26722" t="pcomp-n" cr="mod*of*n:w26721" w="H3" l="~" p="N"/>
+     <dpg d="w26726" g="w26725" t="punc" cr="punc:w26725" w="and" l="~" p="U"/>
+     <dpg d="w26727" g="w26728" t="nn" cr="nn:w26728" w="H2a" l="~" p="N"/>
+     <dpg d="w26728" g="w26725" t="conj" cr="conj:w26725" w="mRNA" l="~" p="N"/>
+     <dpg d="w26729" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w26730" g="E3" t="punc" cr="punc:E3" w="whereas" l="~" p="U"/>
+     <dpg d="w26731" g="w26732" t="det" cr="det:w26732" w="the" l="~" p="Det"/>
+     <dpg d="w26732" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3||obj:w26738" w="histone" l="~" p="N"/>
+     <dpg d="E1" g="w26732" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26733" g="w26738" t="s" cr="s+subj:w26738" w="H4" l="~" p="N"/>
+     <dpg d="w26734" g="w26733" t="punc" cr="punc:w26733" w="and" l="~" p="U"/>
+     <dpg d="w26735" g="w26737" t="nn" cr="nn:w26737" w="histone" l="~" p="N"/>
+     <dpg d="w26736" g="w26737" t="nn" cr="nn:w26737" w="H2b" l="~" p="N"/>
+     <dpg d="w26737" g="w26733" t="conj" cr="conj:w26733" w="genes" l="gene" p="N"/>
+     <dpg d="w26738" g="E1" t="i" cr="rel:w26732" w="encode" l="~" p="V"/>
+     <dpg d="E5" g="w26738" t="obj" cr="" w="" l="histone" p="N"/>
+     <dpg d="E5" g="w26732" t="antecedent" cr="" w="" l="histone" p="N"/>
+     <dpg d="E6" g="w26738" t="subj" cr="" w="" l="H4" p="N"/>
+     <dpg d="E6" g="w26733" t="antecedent" cr="" w="" l="H4" p="N"/>
+     <dpg d="w26739" g="E3" t="punc" cr="punc:E3" w="&lt;" l="~" p="U"/>
+     <dpg d="w26740" g="w26741" t="lex-mod" cr="lex-mod:w26741" w="10" l="~" p="U"/>
+     <dpg d="w26741" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="%" l="10 %" p="N"/>
+     <dpg d="w26742" g="w26741" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26743" g="w26745" t="det" cr="det:w26745" w="the" l="~" p="Det"/>
+     <dpg d="w26744" g="w26745" t="mod" cr="mod:w26745" w="total" l="~" p="A"/>
+     <dpg d="w26745" g="w26742" t="pcomp-n" cr="mod*of*n:w26741" w="H4" l="~" p="N"/>
+     <dpg d="w26746" g="w26745" t="punc" cr="punc:w26745" w="and" l="~" p="U"/>
+     <dpg d="w26747" g="w26748" t="nn" cr="nn:w26748" w="H2b" l="~" p="N"/>
+     <dpg d="w26748" g="w26745" t="conj" cr="conj:w26745" w="mRNA" l="~" p="N"/>
+     <dpg d="w26749" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

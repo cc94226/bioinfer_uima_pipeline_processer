@@ -1,0 +1,83 @@
+<rexml>
+<doc id="963">
+  <text>
+<p><s id="s1"><w id="w15047">Mechanism</w> <w id="w15048">of</w> <w id="w15049">regulation</w> <w id="w15050">of</w> <w id="w15051">actin</w> <w id="w15052">polymerization</w> <w id="w15053">by</w> <w id="w15054">Physarum</w> <w id="w15055">profilin</w> <w id="w15056">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3428" gid="g3290" t="RELATIONSHIP_TEXTBINDING" fr="w15049" to="w15053">
+     <textspan type="extent">regulation of [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.963.0"/>
+      <exattr n="nst" v="st.963.2.0"/>
+      <exattr n="nst" v="st.963.3.0"/>
+      <exattr n="nst" v="st.963.6.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3429" gid="g3291" t="POLYMERIZATION" fr="w15051" to="w15052">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.963.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3430" gid="g3292" t="Individual_protein" fr="w15054" to="w15055" nam="yes">
+     <textspan type="extent">Physarum profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.963.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3431" gid="g3293" t="Individual_protein" fr="w15051" to="w15051" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.963.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3432" gid="g3294" t="Individual_protein" fr="w15055" to="w15055" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.963.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1298" t="CONTROL" e1="e3430" e2="e3429" re="e3428">
+     <textspan type="extent">regulation of actin polymerization by Physarum profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.963.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

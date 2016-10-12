@@ -1,0 +1,172 @@
+<rexml>
+<doc id="1169">
+  
+  <markup>
+   <nes>
+    <ne id="e4290" gid="g4101" t="Cell_component" fr="w18455" to="w18456" nam="yes" sid="s1">
+     <textspan>actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1169.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4298" gid="g4109" t="Individual_protein" fr="w18455" to="w18455" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1169.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e4299" gid="g4104" t="Individual_protein" fr="w18458" to="w18460" nam="yes" sid="s1">
+     <textspan>Wiskott-Aldrich Syndrome Protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1169.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e4293" gid="g4104" t="Individual_protein" fr="w18462" to="w18462" nam="yes" sid="s1">
+     <textspan>WASP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1169.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4296" gid="g4107" t="Individual_protein" fr="w18465" to="w18465" nam="yes" sid="s1">
+     <textspan>its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1169.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e4291" gid="g4102" t="Individual_protein" fr="w18471" to="w18471" nam="yes" sid="s1">
+     <textspan>N-WASP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1169.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4295" gid="g4106" t="Substructure_of_protein" fr="w18480" to="w18480" nam="yes" sid="s1">
+     <textspan>motifs</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1169.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4297" gid="g4108" t="Substructure_of_protein" fr="w18484" to="w18486" nam="yes" sid="s1">
+     <textspan>part of verprolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1169.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e4300" gid="g4110" t="Individual_protein" fr="w18486" to="w18486" nam="yes" sid="s1">
+     <textspan>verprolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1169.11"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1646" t="CONTROL" e1="e4299" e2="e4290" re="e4289">
+     <textspan>regulate the actin cytoskeleton , Wiskott-Aldrich Syndrome Protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1169.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1647" t="CONTROL" e1="e4291" e2="e4290" re="e4289">
+     <textspan>regulate the actin cytoskeleton , Wiskott-Aldrich Syndrome Protein ( WASP ) and its homolog expressed in neurons ( N-WASP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1169.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1649" t="SIMILAR" e1="e4296" e2="e4291" re="e4292">
+     <textspan>its homolog expressed in neurons ( N-WASP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1169.3"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1652" t="SIMILAR" e1="e4295" e2="e4297" re="e4294">
+     <textspan>motifs homologous to one part of verprolin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1169.5"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

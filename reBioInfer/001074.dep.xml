@@ -1,0 +1,44 @@
+<rexml>
+<doc id="1074">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w17033" g="w17037" t="mod" cr="mod:w17037" w="Other" l="~" p="A"/>
+     <dpg d="w17034" g="w17036" t="lex-mod" cr="lex-mod:w17036" w="actin" l="~" p="U"/>
+     <dpg d="w17035" g="w17036" t="lex-mod" cr="lex-mod:w17036" w="-" l="~" p="U"/>
+     <dpg d="w17036" g="w17037" t="mod" cr="mod:w17037" w="associated" l="actin - associated" p="A"/>
+     <dpg d="w17037" g="w17047" t="s" cr="s:w17047||s+subj:w17039||subj:w17049" w="proteins" l="protein" p="N"/>
+     <dpg d="w17038" g="w17047" t="punc" cr="punc:w17047" w="," l="~" p="U"/>
+     <dpg d="E0" g="w17047" t="mod-before" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w17037" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w17039" g="E0" t="i" cr="mod-before:w17047" w="including" l="include" p="V"/>
+     <dpg d="E4" g="w17039" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E4" g="E2" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w17040" g="w17039" t="obj" cr="obj:w17039" w="vinculin" l="~" p="N"/>
+     <dpg d="w17041" g="w17040" t="punc" cr="punc:w17040" w="," l="~" p="U"/>
+     <dpg d="w17042" g="w17040" t="conj" cr="conj:w17040" w="talin" l="~" p="N"/>
+     <dpg d="w17043" g="w17042" t="punc" cr="punc:w17042" w="," l="~" p="U"/>
+     <dpg d="w17044" g="w17042" t="punc" cr="punc:w17042" w="and" l="~" p="U"/>
+     <dpg d="w17045" g="w17042" t="conj" cr="conj:w17042" w="ezrin" l="~" p="N"/>
+     <dpg d="w17046" g="w17047" t="punc" cr="punc:w17047" w="," l="~" p="U"/>
+     <dpg d="w17047" g="E1" t="i" cr="" w="are" l="be" p="VBE"/>
+     <dpg d="w17048" g="w17047" t="neg" cr="neg:w17047" w="not" l="~" p="A"/>
+     <dpg d="E5" g="w17049" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E5" g="w17037" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w17049" g="w17047" t="pred" cr="pred:w17047" w="present" l="~" p="N"/>
+     <dpg d="w17050" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

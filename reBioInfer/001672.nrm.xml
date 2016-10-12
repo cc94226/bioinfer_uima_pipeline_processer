@@ -1,0 +1,217 @@
+<rexml>
+<doc id="1672">
+  
+  <markup>
+   <nes>
+    <ne id="e6136" gid="g5854" t="Gene" fr="w26616" to="w26619" nam="yes" sid="s1">
+     <textspan>Saccharomyces cerevisiae DDC1 gene</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1672.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6143" gid="g5861" t="Gene" fr="w26618" to="w26618" nam="yes" sid="s1">
+     <textspan>DDC1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1672.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6141" gid="g5859" t="Protein_family_or_group" fr="w26623" to="w26629" nam="yes" sid="s1">
+     <textspan>RAD17 , MEC3 and RAD24 [..] group</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1672.5"/>
+      <exattr n="nst" v="st.1672.8.0"/>
+      <exattr n="nst" v="st.1672.9.0"/>
+      <exattr n="nst" v="st.1672.10.0"/>
+      <exattr n="nst" v="st.1672.11.0"/>
+      <exattr n="nst" v="st.1672.12.0"/>
+      <exattr n="nst" v="st.1672.14.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6144" gid="g5862" t="Individual_protein" fr="w26623" to="w26623" nam="yes" sid="s1">
+     <textspan>RAD17</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1672.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6137" gid="g5855" t="Individual_protein" fr="w26625" to="w26625" nam="yes" sid="s1">
+     <textspan>MEC3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1672.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6140" gid="g5858" t="Individual_protein" fr="w26627" to="w26627" nam="yes" sid="s1">
+     <textspan>RAD24</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1672.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6139" gid="g5857" t="Gene/protein/RNA" fr="w26634" to="w26634" nam="yes" sid="s1">
+     <textspan>RAD9</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1672.3"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2356" t="COOF-MEMBER" e1="e6136" e2="e6144" re="e6138">
+     <textspan>RAD17 , MEC3 and RAD24 epistasis group</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1672.6"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2356" t="COOF-MEMBER" e1="e6136" e2="e6137" re="e6138">
+     <textspan>RAD17 , MEC3 and RAD24 epistasis group</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1672.6"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2356" t="COOF-MEMBER" e1="e6136" e2="e6140" re="e6138">
+     <textspan>RAD17 , MEC3 and RAD24 epistasis group</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1672.6"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2356" t="COOF-MEMBER" e1="e6144" e2="e6137" re="e6138">
+     <textspan>RAD17 , MEC3 and RAD24 epistasis group</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1672.6"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2356" t="COOF-MEMBER" e1="e6144" e2="e6140" re="e6138">
+     <textspan>RAD17 , MEC3 and RAD24 epistasis group</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1672.6"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2356" t="COOF-MEMBER" e1="e6137" e2="e6140" re="e6138">
+     <textspan>RAD17 , MEC3 and RAD24 epistasis group</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1672.6"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2356" t="MEMBER" e1="e6141" e2="e6136" re="e6138">
+     <textspan>Saccharomyces cerevisiae DDC1 gene belongs to the RAD17 , MEC3 and RAD24 epistasis group</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1672.2"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2357" t="MEMBER" e1="e6141" e2="e6144" re="e6142">
+     <textspan>RAD17 , MEC3 and RAD24 epistasis group</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1672.6"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2358" t="MEMBER" e1="e6141" e2="e6137" re="e6142">
+     <textspan>RAD17 , MEC3 and RAD24 epistasis group</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1672.6"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2359" t="MEMBER" e1="e6141" e2="e6140" re="e6142">
+     <textspan>RAD17 , MEC3 and RAD24 epistasis group</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1672.6"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,66 @@
+<rexml>
+<doc id="1628">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25935" g="w25936" t="det" cr="det:w25936" w="The" l="~" p="Det"/>
+     <dpg d="w25936" g="w25941" t="s" cr="s+obj:w25941" w="quantity" l="~" p="N"/>
+     <dpg d="w25937" g="w25936" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25938" g="w25939" t="det" cr="det:w25939" w="the" l="~" p="Det"/>
+     <dpg d="w25939" g="w25937" t="pcomp-n" cr="mod*of*n:w25936" w="complex" l="~" p="N"/>
+     <dpg d="w25940" g="w25941" t="be" cr="be:w25941" w="is" l="be" p="be"/>
+     <dpg d="w25941" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="reduced" l="reduce" p="V"/>
+     <dpg d="E6" g="w25941" t="obj" cr="" w="" l="quantity" p="N"/>
+     <dpg d="E6" g="w25936" t="antecedent" cr="" w="" l="quantity" p="N"/>
+     <dpg d="w25942" g="w25941" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w25943" g="w25942" t="pcomp-n" cr="by-subj*by*n:w25941" w="treatment" l="~" p="N"/>
+     <dpg d="w25944" g="w25943" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25945" g="w25946" t="nn" cr="nn:w25946" w="Caco-2" l="Caco-2" p="N"/>
+     <dpg d="w25946" g="w25944" t="pcomp-n" cr="mod*of*n:w25943" w="cells" l="cell" p="N"/>
+     <dpg d="w25947" g="E5" t="punc" cr="punc:E5" w="with" l="~" p="U"/>
+     <dpg d="E1" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25948" g="w25952" t="det" cr="det:w25952" w="the" l="~" p="Det"/>
+     <dpg d="w25949" g="w25952" t="mod" cr="mod:w25952" w="alkylating" l="~" p="A"/>
+     <dpg d="w25950" g="w25951" t="lex-mod" cr="lex-mod:w25951" w="agent" l="~" p="U"/>
+     <dpg d="w25951" g="w25952" t="mod" cr="mod:w25952" w="N-ethylmaleimide" l="agent N-ethylmaleimide" p="A"/>
+     <dpg d="w25952" g="E1" t="whn" cr="whn+subj:w25954" w="which" l="~" p="N"/>
+     <dpg d="w25953" g="E1" t="mod" cr="mod:w25954" w="also" l="~" p="A"/>
+     <dpg d="w25954" g="E1" t="i" cr="UNSPECRELTYPE:E5" w="has" l="have" p="V"/>
+     <dpg d="E7" g="w25954" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E7" g="w25952" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w25955" g="w25957" t="det" cr="det:w25957" w="an" l="~" p="Det"/>
+     <dpg d="w25956" g="w25957" t="mod" cr="mod:w25957" w="inhibitory" l="~" p="A"/>
+     <dpg d="w25957" g="w25954" t="obj" cr="obj:w25954" w="effect" l="~" p="N"/>
+     <dpg d="w25958" g="w25957" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w25959" g="w25960" t="det" cr="det:w25960" w="the" l="~" p="Det"/>
+     <dpg d="w25960" g="w25958" t="pcomp-n" cr="mod*on*n:w25957" w="ability" l="~" p="N"/>
+     <dpg d="w25961" g="w25960" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25962" g="w25961" t="pcomp-n" cr="mod*of*n:w25960||s+subj:w25964" w="Munc-18-2" l="Munc-18-2" p="N"/>
+     <dpg d="E0" g="w25962" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w25962" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w25963" g="w25964" t="aux" cr="aux:w25964" w="to" l="~" p="Aux"/>
+     <dpg d="w25964" g="E0" t="i" cr="rel:w25962" w="associate" l="associate with" p="V"/>
+     <dpg d="w25965" g="w25964" t="lex-mod" cr="lex-mod:w25964" w="with" l="~" p="U"/>
+     <dpg d="E8" g="w25964" t="subj" cr="" w="" l="Munc-18-2" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="Munc-18-2" p="N"/>
+     <dpg d="w25966" g="w25964" t="obj" cr="obj:w25964" w="syntaxin" l="~" p="N"/>
+     <dpg d="w25967" g="w25966" t="num" cr="num:w25966" w="3" l="~" p="N"/>
+     <dpg d="w25968" g="w25969" t="lex-mod" cr="lex-mod:w25969" w="in" l="~" p="U"/>
+     <dpg d="w25969" g="w25964" t="mod" cr="mod:w25964" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w25970" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

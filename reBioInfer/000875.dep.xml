@@ -1,0 +1,76 @@
+<rexml>
+<doc id="875">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13727" g="E2" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w13728" g="w13729" t="det" cr="det:w13729" w="this" l="~" p="Det"/>
+     <dpg d="w13729" g="w13727" t="pcomp-n" cr="mod*in*n:w13732" w="study" l="~" p="N"/>
+     <dpg d="w13730" g="E2" t="punc" cr="punc:w13732" w="," l="~" p="U"/>
+     <dpg d="w13731" g="w13732" t="s" cr="s+subj:w13732" w="we" l="~" p="N"/>
+     <dpg d="w13732" g="E2" t="i" cr="UNSPECRELTYPE:E4" w="demonstrate" l="~" p="V"/>
+     <dpg d="E5" g="w13732" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E5" g="w13731" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="E1" g="w13732" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13733" g="E1" t="c" cr="c:w13742" w="that" l="~" p="COMP"/>
+     <dpg d="w13734" g="w13735" t="nn" cr="nn:w13735" w="profilin" l="~" p="N"/>
+     <dpg d="w13735" g="w13742" t="s" cr="obj:w13736||s+subj:w13742" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w13736" g="w13735" t="vrel" cr="vrel:w13735" w="expressed" l="express" p="V"/>
+     <dpg d="E6" g="w13736" t="obj" cr="" w="" l="isoform" p="N"/>
+     <dpg d="E6" g="w13735" t="antecedent" cr="" w="" l="isoform" p="N"/>
+     <dpg d="w13737" g="w13736" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w13738" g="w13740" t="det" cr="det:w13740" w="a" l="~" p="Det"/>
+     <dpg d="w13739" g="w13740" t="mod" cr="mod:w13740" w="single" l="~" p="A"/>
+     <dpg d="w13740" g="w13737" t="pcomp-n" cr="mod*in*n:w13736" w="cell" l="~" p="N"/>
+     <dpg d="w13741" g="w13742" t="aux" cr="aux:w13742" w="can" l="~" p="Aux"/>
+     <dpg d="w13742" g="E1" t="i" cr="fc:w13732" w="have" l="~" p="V"/>
+     <dpg d="E7" g="w13742" t="subj" cr="" w="" l="isoform" p="N"/>
+     <dpg d="E7" g="w13735" t="antecedent" cr="" w="" l="isoform" p="N"/>
+     <dpg d="w13743" g="w13744" t="mod" cr="mod:w13744" w="different" l="~" p="A"/>
+     <dpg d="w13744" g="w13742" t="obj" cr="obj:w13742" w="effects" l="effect" p="N"/>
+     <dpg d="w13745" g="w13744" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w13746" g="w13745" t="pcomp-n" cr="mod*on*n:w13744" w="actin" l="~" p="N"/>
+     <dpg d="E0" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w13747" g="E0" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w13748" g="w13749" t="mod" cr="mod:w13749" w="living" l="~" p="A"/>
+     <dpg d="w13749" g="w13747" t="pcomp-n" cr="mod*in*n:w13759" w="cells" l="cell" p="N"/>
+     <dpg d="w13750" g="w13749" t="punc" cr="punc:w13749" w="and" l="~" p="U"/>
+     <dpg d="w13751" g="w13749" t="conj" cr="conj:w13749" w="that" l="~" p="N"/>
+     <dpg d="w13752" g="w13755" t="det" cr="det:w13755" w="the" l="~" p="Det"/>
+     <dpg d="w13753" g="w13755" t="mod" cr="mod:w13755" w="poly-L-proline" l="poly-L-proline" p="A"/>
+     <dpg d="w13754" g="w13755" t="mod" cr="mod:w13755" w="binding" l="~" p="A"/>
+     <dpg d="w13755" g="w13759" t="s" cr="s+subj:w13759" w="function" l="~" p="N"/>
+     <dpg d="w13756" g="w13755" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w13757" g="w13756" t="pcomp-n" cr="mod*of*n:w13755" w="profilin" l="~" p="N"/>
+     <dpg d="w13758" g="w13759" t="aux" cr="aux:w13759" w="may" l="~" p="Aux"/>
+     <dpg d="w13759" g="E0" t="i" cr="UNSPECRELTYPE:E4" w="have" l="~" p="V"/>
+     <dpg d="E8" g="w13759" t="subj" cr="" w="" l="function" p="N"/>
+     <dpg d="E8" g="w13755" t="antecedent" cr="" w="" l="function" p="N"/>
+     <dpg d="w13760" g="w13761" t="mod" cr="mod:w13761" w="important" l="~" p="A"/>
+     <dpg d="w13761" g="w13759" t="obj" cr="obj:w13759" w="consequences" l="consequence" p="N"/>
+     <dpg d="w13762" g="w13761" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w13763" g="w13764" t="det" cr="det:w13764" w="the" l="~" p="Det"/>
+     <dpg d="w13764" g="w13762" t="pcomp-n" cr="mod*for*n:w13761" w="regulation" l="~" p="N"/>
+     <dpg d="w13765" g="w13764" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w13766" g="w13768" t="nn" cr="nn:w13768" w="actin" l="~" p="N"/>
+     <dpg d="w13767" g="w13768" t="mod" cr="mod:w13768" w="cytoskeletal" l="~" p="A"/>
+     <dpg d="w13768" g="w13765" t="pcomp-n" cr="mod*of*n:w13764" w="dynamics" l="~" p="N"/>
+     <dpg d="w13769" g="w13768" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w13770" g="w13771" t="nn" cr="nn:w13771" w="plant" l="~" p="N"/>
+     <dpg d="w13771" g="w13769" t="pcomp-n" cr="mod*in*n:w13768" w="cells" l="cell" p="N"/>
+     <dpg d="w13772" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

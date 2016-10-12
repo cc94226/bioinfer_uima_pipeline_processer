@@ -1,0 +1,41 @@
+<rexml>
+<doc id="137">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w2238" g="w2240" t="det" cr="det:w2240" w="An" l="~" p="Det"/>
+     <dpg d="w2239" g="w2240" t="mod" cr="mod:w2240" w="oligomeric" l="~" p="A"/>
+     <dpg d="w2240" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="form" l="~" p="N"/>
+     <dpg d="w2241" g="w2240" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2242" g="w2243" t="mod" cr="mod:w2243" w="simian" l="~" p="A"/>
+     <dpg d="w2243" g="w2241" t="pcomp-n" cr="mod*of*n:w2240" w="virus" l="~" p="N"/>
+     <dpg d="w2244" g="w2243" t="num" cr="num:w2243" w="40" l="~" p="N"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2245" g="E0" t="mod" cr="mod:w2247" w="large" l="~" p="A"/>
+     <dpg d="w2246" g="w2247" t="s" cr="s:w2247||subj:w2249" w="T-antigen" l="T-antigen" p="N"/>
+     <dpg d="w2247" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="is" l="be" p="VBE"/>
+     <dpg d="E3" g="w2249" t="subj" cr="" w="" l="T-antigen" p="N"/>
+     <dpg d="E3" g="w2246" t="antecedent" cr="" w="" l="T-antigen" p="N"/>
+     <dpg d="w2248" g="w2249" t="mod" cr="mod:w2249" w="immunologically" l="~" p="A"/>
+     <dpg d="w2249" g="w2247" t="pred" cr="pred:w2247" w="related" l="~" p="A"/>
+     <dpg d="w2250" g="w2249" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w2251" g="w2255" t="det" cr="det:w2255" w="the" l="~" p="Det"/>
+     <dpg d="w2252" g="w2255" t="mod" cr="mod:w2255" w="cellular" l="~" p="A"/>
+     <dpg d="w2253" g="w2255" t="nn" cr="nn:w2255" w="tumor" l="~" p="N"/>
+     <dpg d="w2254" g="w2255" t="nn" cr="nn:w2255" w="antigen" l="~" p="N"/>
+     <dpg d="w2255" g="w2250" t="pcomp-n" cr="mod*to*n:w2249" w="p53" l="~" p="N"/>
+     <dpg d="w2256" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

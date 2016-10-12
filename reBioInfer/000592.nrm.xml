@@ -1,0 +1,113 @@
+<rexml>
+<doc id="592">
+  
+  <markup>
+   <nes>
+    <ne id="e2004" gid="g1919" t="Individual_protein" fr="w8515" to="w8515" nam="yes" sid="s1">
+     <textspan>PRP5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.592.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2012" gid="g1927" t="Individual_protein" fr="w8518" to="w8520" nam="yes" sid="s1">
+     <textspan>DEAD box helicase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.592.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e2007" gid="g1922" t="Individual_protein" fr="w8526" to="w8526" nam="yes" sid="s1">
+     <textspan>PRP9</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.592.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2006" gid="g1921" t="Individual_protein" fr="w8529" to="w8529" nam="yes" sid="s1">
+     <textspan>PRP11</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.592.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2009" gid="g1924" t="Individual_protein" fr="w8535" to="w8536" nam="yes" sid="s1">
+     <textspan>U2 snRNP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.592.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2008" gid="g1923" t="Protein_complex" fr="w8541" to="w8541" nam="yes" sid="s1">
+     <textspan>pre-spliceosome</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.592.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r793" t="SIMILAR" e1="e2004" e2="e2012" re="e2010">
+     <textspan>PRP5 ( a DEAD box helicase - like</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.592.6"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r795" t="BIND" e1="e2009" e2="e2008" re="e2011">
+     <textspan>U2 snRNP to bind to the pre-spliceosome</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.592.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

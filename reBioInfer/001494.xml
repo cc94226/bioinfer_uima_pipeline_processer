@@ -1,0 +1,50 @@
+<rexml>
+<doc id="1494">
+  <text>
+<p><s id="s1"><w id="w23357">The</w> <w id="w23358">gene</w> <w id="w23359">for</w> <w id="w23360">the</w> <w id="w23361">human</w> <w id="w23362">CREB</w> <w id="w23363">binding</w> <w id="w23364">protein</w> <w id="w23365">,</w> <w id="w23366">the</w> <w id="w23367">transcriptional</w> <w id="w23368">coactivator</w> <w id="w23369">CBP</w> <w id="w23370">,</w> <w id="w23371">is</w> <w id="w23372">included</w> <w id="w23373">in</w> <w id="w23374">the</w> <w id="w23375">RT1</w> <w id="w23376">cosmid</w> <w id="w23377">,</w> <w id="w23378">and</w> <w id="w23379">mutations</w> <w id="w23380">in</w> <w id="w23381">CBP</w> <w id="w23382">have</w> <w id="w23383">recently</w> <w id="w23384">been</w> <w id="w23385">identified</w> <w id="w23386">in</w> <w id="w23387">nondeleted</w> <w id="w23388">RTS</w> <w id="w23389">patients</w> <w id="w23390">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5407" gid="g5161" t="Individual_protein" fr="w23362" to="w23364" nam="yes">
+     <textspan type="extent">CREB binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1494.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5408" gid="g5162" t="Gene/protein/RNA" fr="w23381" to="w23381" nam="yes">
+     <textspan type="extent">CBP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1494.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5409" gid="g5161" t="Individual_protein" fr="w23369" to="w23369" nam="yes">
+     <textspan type="extent">CBP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1494.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

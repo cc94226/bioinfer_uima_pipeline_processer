@@ -1,0 +1,68 @@
+<rexml>
+<doc id="1405">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w21948" g="w21950" t="det" cr="det:w21950" w="The" l="~" p="Det"/>
+     <dpg d="w21949" g="w21950" t="nn" cr="nn:w21950" w="talin" l="~" p="N"/>
+     <dpg d="w21950" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w21961" w="dimer" l="~" p="N"/>
+     <dpg d="w21951" g="E4" t="punc" cr="punc:w21961" w="," l="~" p="U"/>
+     <dpg d="w21952" g="E4" t="subcat" cr="subcat:w21961" w="which" l="~" p="N"/>
+     <dpg d="w21953" g="E4" t="punc" cr="punc:w21961" w="is" l="~" p="U"/>
+     <dpg d="w21954" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:w21961" w="crucial" l="~" p="A"/>
+     <dpg d="w21955" g="w21954" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w21956" g="w21955" t="pcomp-n" cr="mod*for*n:w21954" w="actin" l="~" p="N"/>
+     <dpg d="w21957" g="w21956" t="punc" cr="punc:w21956" w="and" l="~" p="U"/>
+     <dpg d="w21958" g="w21959" t="nn" cr="nn:w21959" w="lipid" l="~" p="N"/>
+     <dpg d="w21959" g="w21956" t="conj" cr="conj:w21956" w="binding" l="~" p="N"/>
+     <dpg d="w21960" g="E4" t="punc" cr="punc:w21961" w="," l="~" p="U"/>
+     <dpg d="w21961" g="E4" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="w21962" g="w21961" t="pred" cr="pred:w21961" w="built" l="~" p="N"/>
+     <dpg d="w21963" g="w21962" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21964" g="w21965" t="det" cr="det:w21965" w="a" l="~" p="Det"/>
+     <dpg d="w21965" g="w21963" t="pcomp-n" cr="mod*of*n:w21962||s+subj:w21966" w="backbone" l="~" p="N"/>
+     <dpg d="E1" g="w21965" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w21965" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w21966" g="E1" t="i" cr="rel:w21965" w="containing" l="contain" p="V"/>
+     <dpg d="E5" g="w21966" t="subj" cr="" w="" l="backbone" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="backbone" p="N"/>
+     <dpg d="w21967" g="w21971" t="det" cr="det:w21971" w="the" l="~" p="Det"/>
+     <dpg d="w21968" g="w21971" t="num" cr="num:w21971" w="200" l="~" p="N"/>
+     <dpg d="w21969" g="w21971" t="nn" cr="nn:w21971" w="kDa" l="~" p="N"/>
+     <dpg d="w21970" g="w21971" t="nn" cr="nn:w21971" w="rod" l="~" p="N"/>
+     <dpg d="w21971" g="w21966" t="obj" cr="obj:w21966" w="portions" l="portion" p="N"/>
+     <dpg d="w21972" g="w21966" t="punc" cr="punc:w21966" w="," l="~" p="U"/>
+     <dpg d="w21973" g="w21966" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w21974" g="w21973" t="pcomp-n" cr="mod*at*n:w21966" w="both" l="~" p="N"/>
+     <dpg d="E0" g="w21974" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21975" g="E0" t="whn" cr="whn+pred:w21983" w="ends" l="end" p="N"/>
+     <dpg d="w21976" g="w21975" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21977" g="w21976" t="pcomp-n" cr="mod*of*n:w21975" w="which" l="~" p="N"/>
+     <dpg d="w21977" g="w21974" t="antecedent" cr="antecedent:w21974" w="which" l="~" p="N"/>
+     <dpg d="w21978" g="w21982" t="det" cr="det:w21982" w="a" l="~" p="Det"/>
+     <dpg d="w21979" g="w21982" t="num" cr="num:w21982" w="47" l="~" p="N"/>
+     <dpg d="w21980" g="w21982" t="nn" cr="nn:w21982" w="kDa" l="~" p="N"/>
+     <dpg d="w21981" g="w21982" t="mod" cr="mod:w21982" w="globular" l="~" p="A"/>
+     <dpg d="w21982" g="w21983" t="s" cr="s:w21983||subj:E6" w="domain" l="~" p="N"/>
+     <dpg d="w21983" g="E0" t="i" cr="rel:w21974" w="is" l="be" p="VBE"/>
+     <dpg d="E6" g="w21983" t="pred" cr="" w="" l="end" p="N"/>
+     <dpg d="E6" g="w21975" t="antecedent" cr="" w="" l="end" p="N"/>
+     <dpg d="E7" g="E6" t="subj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E7" g="w21982" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="w21984" g="" t="" cr="" w="attached" l="~" p="U"/>
+     <dpg d="w21985" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

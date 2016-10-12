@@ -1,0 +1,40 @@
+<rexml>
+<doc id="2022">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32217" g="w32218" t="s" cr="s+subj:w32218" w="We" l="~" p="N"/>
+     <dpg d="w32218" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="attribute" l="~" p="V"/>
+     <dpg d="E3" g="w32218" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E3" g="w32217" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w32219" g="w32220" t="det" cr="det:w32220" w="these" l="~" p="Det"/>
+     <dpg d="w32220" g="w32218" t="obj" cr="obj:w32218" w="effects" l="effect" p="N"/>
+     <dpg d="w32221" g="w32220" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w32222" g="w32223" t="mod" cr="mod:w32223" w="potential" l="~" p="A"/>
+     <dpg d="w32223" g="w32221" t="pcomp-n" cr="mod*to*n:w32220" w="sequestration" l="~" p="N"/>
+     <dpg d="w32224" g="w32223" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32225" g="w32226" t="nn" cr="nn:w32226" w="actin" l="~" p="N"/>
+     <dpg d="w32226" g="w32224" t="pcomp-n" cr="mod*of*n:w32223" w="monomers" l="monomer" p="N"/>
+     <dpg d="w32227" g="w32226" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w32228" g="w32227" t="pcomp-n" cr="mod*by*n:w32226" w="profilin" l="~" p="N"/>
+     <dpg d="w32229" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w32230" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="when" l="~" p="A"/>
+     <dpg d="w32231" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="present" l="~" p="N"/>
+     <dpg d="w32232" g="w32231" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w32233" g="w32232" t="pcomp-n" cr="mod*in*n:w32231" w="excess" l="~" p="N"/>
+     <dpg d="w32234" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

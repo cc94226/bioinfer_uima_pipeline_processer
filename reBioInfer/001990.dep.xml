@@ -1,0 +1,80 @@
+<rexml>
+<doc id="1990">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E7" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E3" g="E7" t="UNSPECRELTYPE" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E3" t="s" cr="s+subj:w31884||s+subj:w31900" w="" l="~" p="N"/>
+     <dpg d="w31884" g="E3" t="i" cr="UNSPECRELTYPE:E7" w="Using" l="use" p="V"/>
+     <dpg d="E8" g="w31884" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31885" g="w31888" t="det" cr="det:w31888" w="the" l="~" p="Det"/>
+     <dpg d="w31886" g="w31888" t="mod" cr="mod:w31888" w="nuclear" l="~" p="A"/>
+     <dpg d="w31887" g="w31888" t="nn" cr="nn:w31888" w="displacement" l="~" p="N"/>
+     <dpg d="w31888" g="w31884" t="obj" cr="obj:w31884" w="assay" l="~" p="N"/>
+     <dpg d="w31889" g="w31888" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w31890" g="w31891" t="det" cr="det:w31891" w="a" l="~" p="Det"/>
+     <dpg d="w31891" g="w31889" t="pcomp-n" cr="mod*as*n:w31888" w="measure" l="~" p="N"/>
+     <dpg d="w31892" g="w31891" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31893" g="w31894" t="det" cr="det:w31894" w="the" l="~" p="Det"/>
+     <dpg d="w31894" g="w31892" t="pcomp-n" cr="mod*of*n:w31891" w="integrity" l="~" p="N"/>
+     <dpg d="w31895" g="w31894" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31896" g="w31898" t="det" cr="det:w31898" w="the" l="~" p="Det"/>
+     <dpg d="w31897" g="w31898" t="nn" cr="nn:w31898" w="actin" l="~" p="N"/>
+     <dpg d="w31898" g="w31895" t="pcomp-n" cr="mod*of*n:w31894" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w31899" g="w31898" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="E2" g="w31899" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31900" g="E2" t="i" cr="mod*in*c:w31898" w="living" l="live" p="V"/>
+     <dpg d="E9" g="w31900" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E9" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31901" g="w31903" t="nn" cr="nn:w31903" w="stamen" l="~" p="N"/>
+     <dpg d="w31902" g="w31903" t="nn" cr="nn:w31903" w="hair" l="~" p="N"/>
+     <dpg d="w31903" g="w31900" t="obj" cr="obj:w31900" w="cells" l="cell" p="N"/>
+     <dpg d="w31904" g="E7" t="punc" cr="punc:E7" w="," l="~" p="U"/>
+     <dpg d="E1" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31905" g="w31906" t="s" cr="s+subj:w31906" w="we" l="~" p="N"/>
+     <dpg d="w31906" g="E1" t="i" cr="UNSPECRELTYPE:E7" w="demonstrated" l="demonstrate" p="V"/>
+     <dpg d="E10" g="w31906" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E10" g="w31905" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="E0" g="w31906" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31907" g="E0" t="c" cr="c:w31909" w="that" l="~" p="COMP"/>
+     <dpg d="w31908" g="w31909" t="s" cr="s+subj:w31909" w="AtFim1" l="~" p="N"/>
+     <dpg d="w31909" g="E0" t="i" cr="fc:w31906" w="protects" l="protect" p="V"/>
+     <dpg d="E11" g="w31909" t="subj" cr="" w="" l="AtFim1" p="N"/>
+     <dpg d="E11" g="w31908" t="antecedent" cr="" w="" l="AtFim1" p="N"/>
+     <dpg d="w31910" g="w31911" t="nn" cr="nn:w31911" w="actin" l="~" p="N"/>
+     <dpg d="w31911" g="w31909" t="obj" cr="obj:w31909" w="filaments" l="filament" p="N"/>
+     <dpg d="w31912" g="w31911" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w31913" g="w31914" t="det" cr="det:w31914" w="these" l="~" p="Det"/>
+     <dpg d="w31914" g="w31912" t="pcomp-n" cr="mod*in*n:w31911" w="cells" l="cell" p="N"/>
+     <dpg d="w31915" g="w31914" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w31916" g="w31920" t="nn" cr="nn:w31920" w="Z." l="~" p="N"/>
+     <dpg d="w31917" g="w31920" t="nn" cr="nn:w31920" w="mays" l="~" p="N"/>
+     <dpg d="w31918" g="w31920" t="nn" cr="nn:w31920" w="profilin" l="~" p="N"/>
+     <dpg d="w31919" g="w31920" t="punc" cr="punc:w31920" w="(" l="~" p="U"/>
+     <dpg d="w31920" g="w31915" t="pcomp-n" cr="mod*from*n:w31914" w="ZmPRO5" l="~" p="N"/>
+     <dpg d="w31921" g="E7" t="punc" cr="punc:E7" w=")-" l="~" p="U"/>
+     <dpg d="w31922" g="w31923" t="mod" cr="mod:w31923" w="induced" l="~" p="A"/>
+     <dpg d="w31923" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="depolymerization" l="~" p="N"/>
+     <dpg d="w31924" g="E7" t="punc" cr="punc:E7" w="," l="~" p="U"/>
+     <dpg d="w31925" g="E7" t="p" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w31926" g="w31928" t="det" cr="det:w31928" w="a" l="~" p="Det"/>
+     <dpg d="w31927" g="w31928" t="mod" cr="mod:w31928" w="dose-dependent" l="dose-dependent" p="A"/>
+     <dpg d="w31928" g="w31925" t="pcomp-n" cr="p*in*n:E7" w="manner" l="~" p="N"/>
+     <dpg d="w31929" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

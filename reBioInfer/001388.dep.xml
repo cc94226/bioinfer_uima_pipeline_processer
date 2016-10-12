@@ -1,0 +1,47 @@
+<rexml>
+<doc id="1388">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21691" g="w21696" t="det" cr="det:w21696" w="The" l="~" p="Det"/>
+     <dpg d="w21692" g="w21696" t="nn" cr="nn:w21696" w="adenosine" l="~" p="N"/>
+     <dpg d="w21693" g="w21695" t="lex-mod" cr="lex-mod:w21695" w="deaminase" l="~" p="U"/>
+     <dpg d="w21694" g="w21695" t="lex-mod" cr="lex-mod:w21695" w="-" l="~" p="U"/>
+     <dpg d="w21695" g="w21696" t="mod" cr="mod:w21696" w="binding" l="deaminase - binding" p="A"/>
+     <dpg d="w21696" g="w21697" t="s" cr="s:w21697||subj:w21698" w="region" l="~" p="N"/>
+     <dpg d="w21697" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="is" l="be" p="VBE"/>
+     <dpg d="w21698" g="w21697" t="pred" cr="pred:w21697" w="distinct" l="~" p="A"/>
+     <dpg d="E3" g="w21698" t="subj" cr="" w="" l="region" p="N"/>
+     <dpg d="E3" g="w21696" t="antecedent" cr="" w="" l="region" p="N"/>
+     <dpg d="w21699" g="w21698" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w21700" g="w21704" t="mod" cr="mod:w21704" w="major" l="~" p="A"/>
+     <dpg d="w21701" g="w21702" t="lex-mod" cr="lex-mod:w21702" w="anti-" l="~" p="U"/>
+     <dpg d="w21702" g="w21704" t="mod" cr="mod:w21704" w="CD26" l="anti- CD26" p="A"/>
+     <dpg d="w21703" g="w21704" t="nn" cr="nn:w21704" w="mAb" l="~" p="N"/>
+     <dpg d="w21704" g="w21699" t="pcomp-n" cr="mod*from*n:w21698" w="epitopes" l="~" p="N"/>
+     <dpg d="w21705" g="w21704" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w21706" g="w21709" t="det" cr="det:w21709" w="the" l="~" p="Det"/>
+     <dpg d="w21707" g="w21709" t="mod" cr="mod:w21709" w="human" l="~" p="A"/>
+     <dpg d="w21708" g="w21709" t="nn" cr="nn:w21709" w="dipeptidyl" l="~" p="N"/>
+     <dpg d="w21709" g="w21705" t="pcomp-n" cr="mod*on*n:w21704" w="peptidase" l="~" p="N"/>
+     <dpg d="w21710" g="w21714" t="mod" cr="mod:w21714" w="IV" l="~" p="A"/>
+     <dpg d="w21711" g="w21714" t="punc" cr="punc:w21714" w="(" l="~" p="U"/>
+     <dpg d="w21712" g="w21714" t="nn" cr="nn:w21714" w="CD26" l="~" p="N"/>
+     <dpg d="w21713" g="w21714" t="punc" cr="punc:w21714" w=")" l="~" p="U"/>
+     <dpg d="w21714" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="molecule" l="~" p="N"/>
+     <dpg d="w21715" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

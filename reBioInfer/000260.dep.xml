@@ -1,0 +1,56 @@
+<rexml>
+<doc id="260">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3930" g="w3936" t="s" cr="s+subj:w3936" w="RAD52" l="~" p="N"/>
+     <dpg d="w3931" g="w3930" t="punc" cr="punc:w3930" w="or" l="~" p="U"/>
+     <dpg d="w3932" g="w3935" t="nn" cr="nn:w3935" w="RAD51" l="~" p="N"/>
+     <dpg d="w3933" g="w3935" t="mod" cr="mod:w3935" w="recombination-deficient" l="recombination-deficient" p="A"/>
+     <dpg d="w3934" g="w3935" t="nn" cr="nn:w3935" w="yeast" l="~" p="N"/>
+     <dpg d="w3935" g="w3930" t="conj" cr="conj:w3930" w="strains" l="strain" p="N"/>
+     <dpg d="w3936" g="E2" t="i" cr="" w="stabilize" l="~" p="V"/>
+     <dpg d="E5" g="w3936" t="subj" cr="" w="" l="RAD52" p="N"/>
+     <dpg d="E5" g="w3930" t="antecedent" cr="" w="" l="RAD52" p="N"/>
+     <dpg d="w3937" g="w3938" t="mod" cr="mod:w3938" w="otherwise" l="~" p="A"/>
+     <dpg d="w3938" g="w3939" t="mod" cr="mod:w3939" w="unstable" l="~" p="A"/>
+     <dpg d="w3939" g="w3936" t="obj" cr="obj:w3936||s+subj:w3940" w="YACs" l="~" p="N"/>
+     <dpg d="E0" g="w3939" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w3939" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w3940" g="E0" t="i" cr="rel:w3939" w="containing" l="contain" p="V"/>
+     <dpg d="E6" g="w3940" t="subj" cr="" w="" l="YACs" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="YACs" p="N"/>
+     <dpg d="w3941" g="w3942" t="mod" cr="mod:w3942" w="ribosomal" l="~" p="A"/>
+     <dpg d="w3942" g="w3940" t="obj" cr="obj:w3940" w="DNA" l="~" p="N"/>
+     <dpg d="w3943" g="E2" t="punc" cr="punc:w3936" w="or" l="~" p="U"/>
+     <dpg d="E1" g="E2" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3944" g="w3945" t="det" cr="det:w3945" w="the" l="~" p="Det"/>
+     <dpg d="w3945" g="w3946" t="s" cr="s+subj:w3946" w="human" l="~" p="N"/>
+     <dpg d="w3946" g="E1" t="i" cr="conj:w3936" w="color" l="~" p="V"/>
+     <dpg d="E7" g="w3946" t="subj" cr="" w="" l="human" p="N"/>
+     <dpg d="E7" g="w3945" t="antecedent" cr="" w="" l="human" p="N"/>
+     <dpg d="w3947" g="w3950" t="nn" cr="nn:w3950" w="vision" l="~" p="N"/>
+     <dpg d="w3948" g="w3950" t="nn" cr="nn:w3950" w="locus" l="~" p="N"/>
+     <dpg d="w3949" g="w3950" t="punc" cr="punc:w3950" w="(" l="~" p="U"/>
+     <dpg d="w3950" g="w3946" t="obj" cr="obj:w3946" w="Kohno" l="~" p="N"/>
+     <dpg d="w3951" g="w3952" t="lex-mod" cr="lex-mod:w3952" w="et" l="~" p="U"/>
+     <dpg d="w3952" g="w3946" t="mod" cr="mod:w3946" w="al." l="et al." p="A"/>
+     <dpg d="w3953" g="w3946" t="punc" cr="punc:w3946" w="," l="~" p="U"/>
+     <dpg d="w3954" g="w3946" t="mod" cr="mod:w3946" w="1994" l="~" p="N"/>
+     <dpg d="w3955" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w3956" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

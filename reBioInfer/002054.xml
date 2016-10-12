@@ -1,0 +1,99 @@
+<rexml>
+<doc id="2054">
+  <text>
+<p><s id="s1"><w id="w32515">We</w> <w id="w32516">examined</w> <w id="w32517">whether</w> <w id="w32518">levels</w> <w id="w32519">of</w> <w id="w32520">alpha-smooth-muscle</w> <w id="w32521">actin</w> <w id="w32522">or</w> <w id="w32523">proliferating</w> <w id="w32524">cell</w> <w id="w32525">nuclear</w> <w id="w32526">antigen</w> <w id="w32527">correlated</w> <w id="w32528">with</w> <w id="w32529">myosin</w> <w id="w32530">heavy-chain</w> <w id="w32531">levels</w> <w id="w32532">in</w> <w id="w32533">the</w> <w id="w32534">glomeruli</w> <w id="w32535">of</w> <w id="w32536">rats</w> <w id="w32537">with</w> <w id="w32538">puromycin</w> <w id="w32539">aminonucleoside</w> <w id="w32540">nephrosis</w> <w id="w32541">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7413" gid="g7073" t="Amount_property" fr="w32518" to="w32521">
+     <textspan type="extent">levels of alpha-smooth-muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.2054.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7414" gid="g7074" t="RELATIONSHIP_TEXTBINDING" fr="w32527" to="w32528">
+     <textspan type="extent">correlated with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2054.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7415" gid="g7075" t="Amount_property" fr="w32518" to="w32526">
+     <textspan type="extent">levels of [..] proliferating cell nuclear antigen</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.2054.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7416" gid="g7076" t="Amount_property" fr="w32529" to="w32531">
+     <textspan type="extent">myosin heavy-chain levels</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.2054.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7417" gid="g7077" t="Individual_protein" fr="w32520" to="w32521" nam="yes">
+     <textspan type="extent">alpha-smooth-muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2054.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7418" gid="g7078" t="Individual_protein" fr="w32529" to="w32530" nam="yes">
+     <textspan type="extent">myosin heavy-chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2054.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7419" gid="g7079" t="Individual_protein" fr="w32523" to="w32526" nam="yes">
+     <textspan type="extent">proliferating cell nuclear antigen</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2054.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2835" t="CORELATE" e1="e7413" e2="e7416" re="e7414">
+     <textspan type="extent">levels of alpha-smooth-muscle actin or proliferating cell nuclear antigen correlated with myosin heavy-chain levels</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2054.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2836" t="CORELATE" e1="e7415" e2="e7416" re="e7414">
+     <textspan type="extent">levels of alpha-smooth-muscle actin or proliferating cell nuclear antigen correlated with myosin heavy-chain levels</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2054.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

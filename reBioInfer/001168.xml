@@ -1,0 +1,152 @@
+<rexml>
+<doc id="1168">
+  <text>
+<p><s id="s1"><w id="w18397">Recently</w> <w id="w18398">it</w> <w id="w18399">has</w> <w id="w18400">been</w> <w id="w18401">established</w> <w id="w18402">,</w> <w id="w18403">through</w> <w id="w18404">a</w> <w id="w18405">detailed</w> <w id="w18406">biochemical</w> <w id="w18407">analysis</w> <w id="w18408">,</w> <w id="w18409">that</w> <w id="w18410">recombinant</w> <w id="w18411">Arabidopsis</w> <w id="w18412">thaliana</w> <w id="w18413">fimbrin</w> <w id="w18414">1</w> <w id="w18415">(</w> <w id="w18416">AtFim1</w> <w id="w18417">)</w> <w id="w18418">is</w> <w id="w18419">a</w> <w id="w18420">member</w> <w id="w18421">of</w> <w id="w18422">the</w> <w id="w18423">fimbrin/plastin</w> <w id="w18424">family</w> <w id="w18425">of</w> <w id="w18426">actin</w> <w id="w18427">filament</w> <w id="w18428">bundling</w> <w id="w18429">or</w> <w id="w18430">cross-linking</w> <w id="w18431">proteins</w> <w id="w18432">[</w> <w id="w18433">D.R.</w> <w id="w18434">Kovar</w> <w id="w18435">et</w> <w id="w18436">al.</w> <w id="w18437">(</w> <w id="w18438">2000</w> <w id="w18439">)</w> <w id="w18440">Plant</w> <w id="w18441">J</w> <w id="w18442">24:625-636</w> <w id="w18443">]</w> <w id="w18444">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4279" gid="g4091" t="Individual_protein" fr="w18411" to="w18414" nam="yes">
+     <textspan type="extent">Arabidopsis thaliana fimbrin 1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1168.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4280" gid="g4092" t="RELATIONSHIP_TEXTBINDING" fr="w18420" to="w18421">
+     <textspan type="extent">member of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1168.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4281" gid="g4093" t="Cell_component" fr="w18426" to="w18427" nam="yes">
+     <textspan type="extent">actin filament</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1168.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4282" gid="g4094" t="RELATIONSHIP_TEXTBINDING" fr="w18428" to="w18428">
+     <textspan type="extent">bundling</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1168.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4283" gid="g4091" t="Individual_protein" fr="w18416" to="w18416" nam="yes">
+     <textspan type="extent">AtFim1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1168.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4284" gid="g4095" t="Protein_family_or_group" fr="w18423" to="w18424" nam="yes">
+     <textspan type="extent">fimbrin/plastin family</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1168.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4285" gid="g4096" t="RELATIONSHIP_TEXTBINDING" fr="w18430" to="w18430">
+     <textspan type="extent">cross-linking</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1168.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4286" gid="g4097" t="Individual_protein" fr="w18413" to="w18414" nam="yes">
+     <textspan type="extent">fimbrin 1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1168.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e4287" gid="g4098" t="Individual_protein" fr="w18426" to="w18426" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1168.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e4288" gid="g4099" t="Protein_family_or_group" fr="w18423" to="w18423" nam="yes">
+     <textspan type="extent">fimbrin/plastin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1168.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1642" t="MEMBER" e1="e4284" e2="e4279" re="e4280">
+     <textspan type="extent">Arabidopsis thaliana fimbrin 1 ( AtFim1 ) is a member of the fimbrin/plastin family</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1168.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1643" t="LOCALIZE" e1="e4284" e2="e4281" re="e4282">
+     <textspan type="extent">fimbrin/plastin family of actin filament bundling</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1168.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1644" t="CROSS-LINK" e1="e4284" e2="e4281" re="e4285">
+     <textspan type="extent">fimbrin/plastin family of actin filament bundling or cross-linking</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1168.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="CROSS-LINK"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,84 @@
+<rexml>
+<doc id="812">
+  
+  <markup>
+   <nes>
+    <ne id="e2927" gid="g2808" t="Gene/protein/RNA" fr="w12684" to="w12684" nam="yes" sid="s1">
+     <textspan>Integrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.812.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2930" gid="g2811" t="Gene/protein/RNA" fr="w12701" to="w12701" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.812.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2929" gid="g2810" t="Individual_protein" fr="w12706" to="w12707" nam="yes" sid="s1">
+     <textspan>protein talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.812.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2932" gid="g2813" t="Individual_protein" fr="w12707" to="w12707" nam="yes" sid="s1">
+     <textspan>talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.812.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2931" gid="g2812" t="Individual_protein" fr="w12709" to="w12709" nam="yes" sid="s1">
+     <textspan>calpain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.812.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1136" t="CLEAVE" e1="e2931" e2="e2929" re="e2928">
+     <textspan>cleavage of linking protein talin by calpain</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.812.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="CLEAVE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,139 @@
+<rexml>
+<doc id="620">
+  <text>
+<p><s id="s1"><w id="w9213">However</w> <w id="w9214">,</w> <w id="w9215">a</w> <w id="w9216">number</w> <w id="w9217">of</w> <w id="w9218">mammalian</w> <w id="w9219">DNA</w> <w id="w9220">repair</w> <w id="w9221">proteins</w> <w id="w9222">lack</w> <w id="w9223">NLS</w> <w id="w9224">clusters</w> <w id="w9225">;</w> <w id="w9226">these</w> <w id="w9227">proteins</w> <w id="w9228">include</w> <w id="w9229">ERCC1</w> <w id="w9230">,</w> <w id="w9231">ERCC2</w> <w id="w9232">(</w> <w id="w9233">XPD</w> <w id="w9234">)</w> <w id="w9235">,</w> <w id="w9236">mouse</w> <w id="w9237">RAD51</w> <w id="w9238">,</w> <w id="w9239">and</w> <w id="w9240">the</w> <w id="w9241">HHR23B</w><w id="w9242">/</w><w id="w9243">p58</w> <w id="w9244">and</w> <w id="w9245">HHR23A</w> <w id="w9246">subunits</w> <w id="w9247">of</w> <w id="w9248">XPC</w> <w id="w9249">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2207" gid="g2114" t="Gene/protein/RNA" fr="w9229" to="w9229" nam="yes">
+     <textspan type="extent">ERCC1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.620.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2208" gid="g2115" t="RELATIONSHIP_TEXTBINDING" fr="w9246" to="w9247">
+     <textspan type="extent">subunits of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.620.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2209" gid="g2116" t="Gene/protein/RNA" fr="w9237" to="w9237" nam="yes">
+     <textspan type="extent">RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.620.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2210" gid="g2117" t="Individual_protein" fr="w9231" to="w9231" nam="yes">
+     <textspan type="extent">ERCC2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.620.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2211" gid="g2118" t="Individual_protein" fr="w9245" to="w9245" nam="yes">
+     <textspan type="extent">HHR23A</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.620.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2212" gid="g2119" t="Individual_protein" fr="w9241" to="w9241" nam="yes">
+     <textspan type="extent">HHR23B</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.620.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2213" gid="g2119" t="Individual_protein" fr="w9243" to="w9243" nam="yes">
+     <textspan type="extent">p58</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.620.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2214" gid="g2120" t="Protein_complex" fr="w9248" to="w9248" nam="yes">
+     <textspan type="extent">XPC</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.620.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2215" gid="g2117" t="Individual_protein" fr="w9233" to="w9233" nam="yes">
+     <textspan type="extent">XPD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.620.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r867" t="CONTAIN" e1="e2214" e2="e2211" re="e2208">
+     <textspan type="extent">HHR23A subunits of XPC</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.620.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r868" t="CONTAIN" e1="e2214" e2="e2212" re="e2208">
+     <textspan type="extent">HHR23B / p58 and HHR23A subunits of XPC</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.620.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

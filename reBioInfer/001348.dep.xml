@@ -1,0 +1,44 @@
+<rexml>
+<doc id="1348">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20974" g="w20978" t="det" cr="det:w20978" w="The" l="~" p="Det"/>
+     <dpg d="w20975" g="w20978" t="mod" cr="mod:w20978" w="cellular" l="~" p="A"/>
+     <dpg d="w20976" g="w20978" t="nn" cr="nn:w20978" w="tumor" l="~" p="N"/>
+     <dpg d="w20977" g="w20978" t="nn" cr="nn:w20978" w="antigen" l="~" p="N"/>
+     <dpg d="w20978" g="w20979" t="s" cr="s:w20979||subj:w20980" w="p53" l="~" p="N"/>
+     <dpg d="w20979" g="E0" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="w20980" g="w20979" t="pred" cr="pred:w20979" w="bound" l="~" p="A"/>
+     <dpg d="E2" g="w20980" t="subj" cr="" w="" l="p53" p="N"/>
+     <dpg d="E2" g="w20978" t="antecedent" cr="" w="" l="p53" p="N"/>
+     <dpg d="w20981" g="w20980" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w20982" g="w20990" t="det" cr="det:w20990" w="the" l="~" p="Det"/>
+     <dpg d="w20983" g="w20985" t="lex-mod" cr="lex-mod:w20985" w="simian" l="~" p="U"/>
+     <dpg d="w20984" g="w20985" t="lex-mod" cr="lex-mod:w20985" w="virus" l="~" p="U"/>
+     <dpg d="w20985" g="w20990" t="nn" cr="nn:w20990" w="40" l="simian virus 40" p="N"/>
+     <dpg d="w20986" g="w20987" t="punc" cr="punc:w20987" w="(" l="~" p="U"/>
+     <dpg d="w20987" g="w20985" t="abbrev" cr="abbrev:w20985" w="SV40" l="~" p="N"/>
+     <dpg d="w20988" g="w20987" t="punc" cr="punc:w20987" w=")" l="~" p="U"/>
+     <dpg d="w20989" g="w20990" t="mod" cr="mod:w20990" w="large" l="~" p="A"/>
+     <dpg d="w20990" g="w20981" t="pcomp-n" cr="mod*to*n:w20980" w="T-antigen" l="T-antigen" p="N"/>
+     <dpg d="w20991" g="w20990" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w20992" g="w20995" t="nn" cr="nn:w20995" w="SV40-infected" l="SV40-infected" p="N"/>
+     <dpg d="w20993" g="w20994" t="lex-mod" cr="lex-mod:w20994" w="and" l="~" p="U"/>
+     <dpg d="w20994" g="w20995" t="mod" cr="mod:w20995" w="-transformed" l="and -transformed" p="A"/>
+     <dpg d="w20995" g="w20991" t="pcomp-n" cr="mod*in*n:w20990" w="cells" l="cell" p="N"/>
+     <dpg d="w20996" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

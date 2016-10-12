@@ -1,0 +1,192 @@
+<rexml>
+<doc id="1350">
+  <text>
+<p><s id="s1"><w id="w21012">The</w> <w id="w21013">activation</w> <w id="w21014">of</w> <w id="w21015">the</w> <w id="w21016">c-Raf-1-BxB</w><w id="w21017">-</w><w id="w21018">ER</w> <w id="w21019">protein</w> <w id="w21020">leads</w> <w id="w21021">to</w> <w id="w21022">an</w> <w id="w21023">accumulation</w> <w id="w21024">of</w> <w id="w21025">high</w> <w id="w21026">levels</w> <w id="w21027">of</w> <w id="w21028">cyclin</w> <w id="w21029">D1</w> <w id="w21030">protein</w> <w id="w21031">and</w> <w id="w21032">a</w> <w id="w21033">repression</w> <w id="w21034">of</w> <w id="w21035">the</w> <w id="w21036">p27Kip1</w> <w id="w21037">cyclin-dependent</w> <w id="w21038">kinase</w> <w id="w21039">inhibitor</w> <w id="w21040">under</w> <w id="w21041">all</w> <w id="w21042">culture</w> <w id="w21043">conditions</w> <w id="w21044">tested</w> <w id="w21045">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4877" gid="g4657" t="ACTIVATION" fr="w21013" to="w21019">
+     <textspan type="extent">activation of the c-Raf-1-BxB-ER protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="ACTIVATION"/>
+      <exattr n="bd" v="e.1350.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4878" gid="g4658" t="RELATIONSHIP_TEXTBINDING" fr="w21020" to="w21021">
+     <textspan type="extent">leads to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1350.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4879" gid="g4659" t="INHIBITION" fr="w21033" to="w21036">
+     <textspan type="extent">repression of the p27Kip1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Negative"/>
+      <exattr n="t4" v="INHIBITION"/>
+      <exattr n="bd" v="e.1350.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4880" gid="g4660" t="INCREASE" fr="w21023" to="w21030">
+     <textspan type="extent">accumulation of [..] levels of cyclin D1 protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="INCREASE"/>
+      <exattr n="bd" v="e.1350.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4881" gid="g4661" t="Protein_family_or_group" fr="w21037" to="w21039" nam="yes">
+     <textspan type="extent">cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1350.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4882" gid="g4662" t="Individual_protein" fr="w21036" to="w21036" nam="yes">
+     <textspan type="extent">p27Kip1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1350.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4883" gid="g4663" t="Individual_protein" fr="w21028" to="w21030" nam="yes">
+     <textspan type="extent">cyclin D1 protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1350.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4884" gid="g4664" t="Fusion_protein" fr="w21016" to="w21019" nam="yes">
+     <textspan type="extent">c-Raf-1-BxB-ER protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Fusion_protein"/>
+      <exattr n="bd" v="e.1350.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e4885" gid="g4665" t="Individual_protein" fr="w21016" to="w21016" nam="yes">
+     <textspan type="extent">c-Raf-1-BxB</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1350.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e4886" gid="g4666" t="Amount_property" fr="w21026" to="w21030">
+     <textspan type="extent">levels of cyclin D1 protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.1350.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e4887" gid="g4667" t="Individual_protein" fr="w21018" to="w21018" nam="yes">
+     <textspan type="extent">ER</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1350.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e4888" gid="g4668" t="Individual_protein" fr="w21028" to="w21029" nam="yes">
+     <textspan type="extent">cyclin D1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1350.11"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1863" t="CAUSE" e1="e4877" e2="e4880" re="e4878">
+     <textspan type="extent">activation of the c-Raf-1-BxB - ER protein leads to an accumulation of high levels of cyclin D1 protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1350.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1864" t="CAUSE" e1="e4877" e2="e4879" re="e4878">
+     <textspan type="extent">activation of the c-Raf-1-BxB - ER protein leads to an accumulation of high levels of cyclin D1 protein and a repression of the p27Kip1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1350.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1865" t="MEMBER" e1="e4881" e2="e4882" re="">
+     <textspan type="extent">p27Kip1 cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1866" t="F-CONTAIN" e1="e4884" e2="e4885" re="">
+     <textspan type="extent">c-Raf-1-BxB - ER protein</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="F-CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r1867" t="F-CONTAIN" e1="e4884" e2="e4887" re="">
+     <textspan type="extent">c-Raf-1-BxB - ER protein</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="F-CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

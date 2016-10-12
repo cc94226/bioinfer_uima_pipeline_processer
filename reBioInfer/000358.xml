@@ -1,0 +1,140 @@
+<rexml>
+<doc id="358">
+  <text>
+<p><s id="s1"><w id="w5322">Cotransfections</w> <w id="w5323">with</w> <w id="w5324">different</w> <w id="w5325">combinations</w> <w id="w5326">of</w> <w id="w5327">these</w> <w id="w5328">genes</w> <w id="w5329">demonstrated</w> <w id="w5330">that</w> <w id="w5331">a</w> <w id="w5332">subset</w> <w id="w5333">of</w> <w id="w5334">four</w> <w id="w5335">of</w> <w id="w5336">them</w> <w id="w5337">,</w> <w id="w5338">coding</w> <w id="w5339">for</w> <w id="w5340">the</w> <w id="w5341">HSV</w> <w id="w5342">helicase-primase</w> <w id="w5343">complex</w> <w id="w5344">(</w> <w id="w5345">UL5</w> <w id="w5346">,</w> <w id="w5347">UL8</w> <w id="w5348">,</w> <w id="w5349">UL52</w> <w id="w5350">)</w> <w id="w5351">and</w> <w id="w5352">the</w> <w id="w5353">major</w> <w id="w5354">DNA-binding</w> <w id="w5355">protein</w> <w id="w5356">(</w> <w id="w5357">UL29</w> <w id="w5358">)</w> <w id="w5359">,</w> <w id="w5360">was</w> <w id="w5361">already</w> <w id="w5362">sufficient</w> <w id="w5363">to</w> <w id="w5364">mediate</w> <w id="w5365">the</w> <w id="w5366">helper</w> <w id="w5367">effect</w> <w id="w5368">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1286" gid="g1228" t="Protein_complex" fr="w5341" to="w5343" nam="yes">
+     <textspan type="extent">HSV helicase-primase complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.358.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1287" gid="g1229" t="RELATIONSHIP_TEXTBINDING" fr="w5343" to="w5343">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.358.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1288" gid="g1230" t="Individual_protein" fr="w5347" to="w5347" nam="yes">
+     <textspan type="extent">UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.358.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1289" gid="g1231" t="Individual_protein" fr="w5345" to="w5345" nam="yes">
+     <textspan type="extent">UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.358.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1290" gid="g1232" t="Individual_protein" fr="w5353" to="w5355" nam="yes">
+     <textspan type="extent">major DNA-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.358.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1291" gid="g1233" t="Individual_protein" fr="w5349" to="w5349" nam="yes">
+     <textspan type="extent">UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.358.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1292" gid="g1232" t="Individual_protein" fr="w5357" to="w5357" nam="yes">
+     <textspan type="extent">UL29</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.358.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1293" gid="g1234" t="Protein_complex" fr="w5342" to="w5342" nam="yes">
+     <textspan type="extent">helicase-primase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.358.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r509" t="CONTAIN" e1="e1286" e2="e1289" re="e1287">
+     <textspan type="extent">HSV helicase-primase complex ( UL5</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.358.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r510" t="CONTAIN" e1="e1286" e2="e1288" re="e1287">
+     <textspan type="extent">HSV helicase-primase complex ( UL5 , UL8</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.358.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r511" t="CONTAIN" e1="e1286" e2="e1291" re="e1287">
+     <textspan type="extent">HSV helicase-primase complex ( UL5 , UL8 , UL52</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.358.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

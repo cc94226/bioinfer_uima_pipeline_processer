@@ -1,0 +1,63 @@
+<rexml>
+<doc id="1423">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22292" g="w22293" t="det" cr="det:w22293" w="The" l="~" p="Det"/>
+     <dpg d="w22293" g="w22294" t="s" cr="s+subj:w22294" w="clone" l="~" p="N"/>
+     <dpg d="w22294" g="E1" t="i" cr="" w="contains" l="contain" p="V"/>
+     <dpg d="E3" g="w22294" t="subj" cr="" w="" l="clone" p="N"/>
+     <dpg d="E3" g="w22293" t="antecedent" cr="" w="" l="clone" p="N"/>
+     <dpg d="w22295" g="w22298" t="det" cr="det:w22298" w="an" l="~" p="Det"/>
+     <dpg d="w22296" g="w22298" t="mod" cr="mod:w22298" w="open" l="~" p="A"/>
+     <dpg d="w22297" g="w22298" t="nn" cr="nn:w22298" w="reading" l="~" p="N"/>
+     <dpg d="w22298" g="w22294" t="obj" cr="obj:w22294" w="frame" l="~" p="N"/>
+     <dpg d="w22299" g="w22298" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w22300" g="w22303" t="num" cr="num:w22303" w="139" l="~" p="N"/>
+     <dpg d="w22301" g="w22302" t="lex-mod" cr="lex-mod:w22302" w="amino" l="~" p="U"/>
+     <dpg d="w22302" g="w22303" t="nn" cr="nn:w22303" w="acid" l="amino acid" p="N"/>
+     <dpg d="w22303" g="w22299" t="pcomp-n" cr="mod*of*n:w22298" w="residues" l="residue" p="N"/>
+     <dpg d="E0" g="w22303" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22304" g="w22305" t="det" cr="det:w22305" w="which" l="~" p="Det"/>
+     <dpg d="w22304" g="w22303" t="antecedent" cr="antecedent:w22303" w="which" l="~" p="Det"/>
+     <dpg d="w22305" g="E0" t="whn" cr="whn+subj:w22317" w="shows" l="show" p="N"/>
+     <dpg d="w22306" g="w22305" t="pnmod" cr="pnmod:w22305" w="greater" l="great" p="A"/>
+     <dpg d="w22307" g="w22306" t="mod" cr="" w="than" l="~" p="Prep"/>
+     <dpg d="w22308" g="w22309" t="lex-mod" cr="lex-mod:w22309" w="40" l="~" p="U"/>
+     <dpg d="w22309" g="w22311" t="nn" cr="nn:w22311" w="%" l="40 %" p="N"/>
+     <dpg d="w22310" g="w22311" t="nn" cr="nn:w22311" w="sequence" l="~" p="N"/>
+     <dpg d="w22311" g="w22307" t="pcomp-n" cr="mod*than*n:w22306" w="identity" l="~" p="N"/>
+     <dpg d="w22312" g="w22311" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w22313" g="w22316" t="det" cr="det:w22316" w="a" l="~" p="Det"/>
+     <dpg d="w22314" g="w22316" t="num" cr="num:w22316" w="91" l="~" p="N"/>
+     <dpg d="w22315" g="w22316" t="lex-mod" cr="lex-mod:w22316" w="amino" l="~" p="U"/>
+     <dpg d="w22316" g="w22312" t="pcomp-n" cr="mod*in*n:w22311" w="acid" l="amino acid" p="N"/>
+     <dpg d="w22317" g="E0" t="i" cr="rel:w22303" w="overlap" l="~" p="V"/>
+     <dpg d="E4" g="w22317" t="subj" cr="" w="" l="show" p="N"/>
+     <dpg d="E4" g="w22305" t="antecedent" cr="" w="" l="show" p="N"/>
+     <dpg d="w22318" g="w22317" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w22319" g="w22321" t="mod" cr="mod:w22321" w="animal" l="~" p="A"/>
+     <dpg d="w22320" g="w22321" t="lex-mod" cr="lex-mod:w22321" w="actin-depolymerizing" l="~" p="U"/>
+     <dpg d="w22321" g="w22318" t="pcomp-n" cr="mod*to*n:w22317" w="factors" l="actin-depolymerizing factors" p="N"/>
+     <dpg d="w22322" g="w22323" t="punc" cr="punc:w22323" w="(" l="~" p="U"/>
+     <dpg d="w22323" g="w22321" t="abbrev" cr="abbrev:w22321" w="ADF" l="~" p="N"/>
+     <dpg d="w22324" g="w22323" t="punc" cr="punc:w22323" w=")" l="~" p="U"/>
+     <dpg d="w22325" g="w22321" t="punc" cr="punc:w22321" w="," l="~" p="U"/>
+     <dpg d="w22326" g="w22321" t="conj" cr="conj:w22321" w="cofilin" l="~" p="N"/>
+     <dpg d="w22327" g="w22326" t="punc" cr="punc:w22326" w="and" l="~" p="U"/>
+     <dpg d="w22328" g="w22326" t="conj" cr="conj:w22326" w="destrin" l="~" p="N"/>
+     <dpg d="w22329" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,131 @@
+<rexml>
+<doc id="1440">
+  <text>
+<p><s id="s1"><w id="w22649">The</w> <w id="w22650">C-terminal</w> <w id="w22651">region</w> <w id="w22652">of</w> <w id="w22653">ORC3</w> <w id="w22654">was</w> <w id="w22655">,</w> <w id="w22656">however</w> <w id="w22657">,</w> <w id="w22658">necessary</w> <w id="w22659">to</w> <w id="w22660">bring</w> <w id="w22661">ORC4</w> <w id="w22662">and</w> <w id="w22663">ORC5</w> <w id="w22664">into</w> <w id="w22665">the</w> <w id="w22666">core</w> <w id="w22667">complex</w> <w id="w22668">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5231" gid="g4992" t="Substructure_of_protein" fr="w22651" to="w22653" nam="yes">
+     <textspan type="extent">region of ORC3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1440.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5232" gid="g4993" t="RELATIONSHIP_TEXTBINDING" fr="w22660" to="w22664">
+     <textspan type="extent">bring [..] into</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1440.1"/>
+      <exattr n="nst" v="st.1440.11.0"/>
+      <exattr n="nst" v="st.1440.15.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5233" gid="g4994" t="Individual_protein" fr="w22663" to="w22663" nam="yes">
+     <textspan type="extent">ORC5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1440.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5234" gid="g4995" t="RELATIONSHIP_TEXTBINDING" fr="w22658" to="w22659">
+     <textspan type="extent">necessary to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1440.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5235" gid="g4996" t="Protein_complex" fr="w22667" to="w22667" nam="yes">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1440.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5236" gid="g4997" t="Individual_protein" fr="w22653" to="w22653" nam="yes">
+     <textspan type="extent">ORC3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1440.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5237" gid="g4998" t="Individual_protein" fr="w22661" to="w22661" nam="yes">
+     <textspan type="extent">ORC4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1440.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2008" t="CONDITION" e1="e5231" e2="e5232" re="e5234">
+     <textspan type="extent">region of ORC3 was , however , necessary to bring ORC4 and ORC5 into the core complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1440.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2009" t="CONTAIN" e1="e5235" e2="e5237" re="e5232">
+     <textspan type="extent">bring ORC4 and ORC5 into the core complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1440.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2010" t="CONDITION" e1="e5231" e2="e5232" re="e5234">
+     <textspan type="extent">region of ORC3 was , however , necessary to bring ORC4 and ORC5 into the core complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1440.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+    <rel id="r2011" t="CONTAIN" e1="e5235" e2="e5233" re="e5232">
+     <textspan type="extent">bring ORC4 and ORC5 into the core complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1440.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

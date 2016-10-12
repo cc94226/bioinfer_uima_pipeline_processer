@@ -1,0 +1,134 @@
+<rexml>
+<doc id="841">
+  
+  <markup>
+   <nes>
+    <ne id="e3011" gid="g2889" t="Individual_protein" fr="w13017" to="w13017" nam="yes" sid="s1">
+     <textspan>HBx</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.841.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3018" gid="g2896" t="Individual_protein" fr="w13023" to="w13023" nam="yes" sid="s1">
+     <textspan>Ras</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.841.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e3019" gid="g2897" t="Individual_protein" fr="w13025" to="w13025" nam="yes" sid="s1">
+     <textspan>Raf</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.841.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e3021" gid="g2890" t="Individual_protein" fr="w13027" to="w13029" nam="yes" sid="s1">
+     <textspan>mitogen-activated protein kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.841.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e3012" gid="g2890" t="Individual_protein" fr="w13031" to="w13032" nam="yes" sid="s1">
+     <textspan>MAP kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.841.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3014" gid="g2892" t="Individual_protein" fr="w13043" to="w13044" nam="yes" sid="s1">
+     <textspan>factor AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.841.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3017" gid="g2895" t="Individual_protein" fr="w13044" to="w13044" nam="yes" sid="s1">
+     <textspan>AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.841.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1159" t="COOF-MEMBER" e1="e3018" e2="e3019" re="">
+     <textspan>Ras - Raf - mitogen-activated protein kinase ( MAP kinase ) cascade</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1159" t="COOF-MEMBER" e1="e3018" e2="e3021" re="">
+     <textspan>Ras - Raf - mitogen-activated protein kinase ( MAP kinase ) cascade</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1159" t="COOF-MEMBER" e1="e3019" e2="e3021" re="">
+     <textspan>Ras - Raf - mitogen-activated protein kinase ( MAP kinase ) cascade</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1060">
+  <text>
+<p><s id="s1"><w id="w16672">One</w> <w id="w16673">involves</w> <w id="w16674">talin</w> <w id="w16675">,</w> <w id="w16676">which</w> <w id="w16677">has</w> <w id="w16678">recently</w> <w id="w16679">been</w> <w id="w16680">shown</w> <w id="w16681">to</w> <w id="w16682">bind</w> <w id="w16683">actin</w> <w id="w16684">directly</w> <w id="w16685">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3807" gid="g3644" t="Individual_protein" fr="w16674" to="w16674" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1060.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3808" gid="g3645" t="RELATIONSHIP_TEXTBINDING" fr="w16682" to="w16682">
+     <textspan type="extent">bind</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1060.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3809" gid="g3646" t="Individual_protein" fr="w16683" to="w16683" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1060.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1455" t="BIND" e1="e3807" e2="e3809" re="e3808">
+     <textspan type="extent">talin , which has recently been shown to bind actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1060.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

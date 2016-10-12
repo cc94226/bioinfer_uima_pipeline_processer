@@ -1,0 +1,167 @@
+<rexml>
+<doc id="1889">
+  <text>
+<p><s id="s1"><w id="w30161">TNF</w> <w id="w30162">receptor</w> <w id="w30163">death</w> <w id="w30164">domain</w><w id="w30165">-</w><w id="w30166">associated</w> <w id="w30167">proteins</w> <w id="w30168">TRADD</w> <w id="w30169">and</w> <w id="w30170">FADD</w> <w id="w30171">signal</w> <w id="w30172">activation</w> <w id="w30173">of</w> <w id="w30174">acid</w> <w id="w30175">sphingomyelinase</w> <w id="w30176">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6992" gid="g6676" t="RELATIONSHIP_TEXTBINDING" fr="w30166" to="w30166">
+     <textspan type="extent">associated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1889.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6993" gid="g6677" t="Individual_protein" fr="w30167" to="w30170" nam="yes">
+     <textspan type="extent">proteins [..] FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1889.1"/>
+      <exattr n="nst" v="st.1889.4.0"/>
+      <exattr n="nst" v="st.1889.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6994" gid="g6678" t="Individual_protein" fr="w30167" to="w30168" nam="yes">
+     <textspan type="extent">proteins TRADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1889.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6995" gid="g6679" t="Individual_protein" fr="w30174" to="w30175" nam="yes">
+     <textspan type="extent">acid sphingomyelinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1889.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6996" gid="g6680" t="RELATIONSHIP_TEXTBINDING" fr="w30172" to="w30173">
+     <textspan type="extent">activation of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1889.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6997" gid="g6681" t="Individual_protein" fr="w30168" to="w30168" nam="yes">
+     <textspan type="extent">TRADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1889.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6998" gid="g6682" t="Substructure_of_protein" fr="w30161" to="w30164" nam="yes">
+     <textspan type="extent">TNF receptor [..] domain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1889.6"/>
+      <exattr n="nst" v="st.1889.0.0"/>
+      <exattr n="nst" v="st.1889.1.0"/>
+      <exattr n="nst" v="st.1889.3.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6999" gid="g6683" t="Individual_protein" fr="w30170" to="w30170" nam="yes">
+     <textspan type="extent">FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1889.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7000" gid="g6684" t="Individual_protein" fr="w30161" to="w30162" nam="yes">
+     <textspan type="extent">TNF receptor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1889.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2689" t="BIND" e1="e6994" e2="e6998" re="e6992">
+     <textspan type="extent">TNF receptor death domain - associated proteins TRADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1889.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2690" t="BIND" e1="e6993" e2="e6998" re="e6992">
+     <textspan type="extent">TNF receptor death domain - associated proteins TRADD and FADD</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1889.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2691" t="ACTIVATE" e1="e6994" e2="e6995" re="e6996">
+     <textspan type="extent">proteins TRADD and FADD signal activation of acid sphingomyelinase</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1889.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="ACTIVATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2692" t="ACTIVATE" e1="e6993" e2="e6995" re="e6996">
+     <textspan type="extent">proteins TRADD and FADD signal activation of acid sphingomyelinase</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1889.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="ACTIVATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

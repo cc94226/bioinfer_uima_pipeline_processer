@@ -1,0 +1,69 @@
+<rexml>
+<doc id="1227">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w19268" g="w19269" t="lex-mod" cr="lex-mod:w19269" w="Saccharomyces" l="~" p="U"/>
+     <dpg d="w19269" g="w19270" t="nn" cr="nn:w19270" w="cerevisiae" l="Saccharomyces cerevisiae" p="N"/>
+     <dpg d="w19270" g="w19272" t="s" cr="s+obj:w19272" w="RAD14" l="~" p="N"/>
+     <dpg d="w19271" g="w19272" t="be" cr="be:w19272" w="was" l="be" p="be"/>
+     <dpg d="w19272" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="identified" l="identify" p="V"/>
+     <dpg d="E6" g="w19272" t="obj" cr="" w="" l="RAD14" p="N"/>
+     <dpg d="E6" g="w19270" t="antecedent" cr="" w="" l="RAD14" p="N"/>
+     <dpg d="w19273" g="w19272" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w19274" g="w19276" t="det" cr="det:w19276" w="a" l="~" p="Det"/>
+     <dpg d="w19275" g="w19276" t="mod" cr="mod:w19276" w="two-hybrid" l="two-hybrid" p="A"/>
+     <dpg d="w19276" g="w19273" t="pcomp-n" cr="mod*in*n:w19272||s+subj:w19277" w="screen" l="~" p="N"/>
+     <dpg d="E1" g="w19276" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w19276" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w19277" g="E1" t="i" cr="rel:w19276" w="using" l="use" p="V"/>
+     <dpg d="E7" g="w19277" t="subj" cr="" w="" l="screen" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="screen" p="N"/>
+     <dpg d="w19278" g="w19277" t="obj" cr="obj:w19277" w="MSH2" l="~" p="N"/>
+     <dpg d="w19279" g="w19278" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w19280" g="w19279" t="pcomp-n" cr="mod*as*n:w19278" w="bait" l="~" p="N"/>
+     <dpg d="w19281" g="w19280" t="punc" cr="punc:w19280" w="," l="~" p="U"/>
+     <dpg d="w19282" g="w19280" t="punc" cr="punc:w19280" w="and" l="~" p="U"/>
+     <dpg d="w19283" g="w19284" t="nn" cr="nn:w19284" w="pairwise" l="~" p="N"/>
+     <dpg d="w19284" g="w19280" t="conj" cr="conj:w19280" w="interactions" l="interaction" p="N"/>
+     <dpg d="w19285" g="w19284" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w19286" g="w19285" t="pcomp-n" cr="mod*between*n:w19284" w="MSH2" l="~" p="N"/>
+     <dpg d="w19287" g="w19286" t="punc" cr="punc:w19286" w="and" l="~" p="U"/>
+     <dpg d="w19288" g="w19286" t="conj" cr="conj:w19286" w="RAD1" l="~" p="N"/>
+     <dpg d="w19289" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="E0" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w19290" g="w19302" t="s" cr="s+obj:w19302" w="RAD2" l="~" p="N"/>
+     <dpg d="w19291" g="w19290" t="punc" cr="punc:w19290" w="," l="~" p="U"/>
+     <dpg d="w19292" g="w19290" t="conj" cr="conj:w19290" w="RAD3" l="~" p="N"/>
+     <dpg d="w19293" g="w19292" t="punc" cr="punc:w19292" w="," l="~" p="U"/>
+     <dpg d="w19294" g="w19292" t="conj" cr="conj:w19292" w="RAD10" l="~" p="N"/>
+     <dpg d="w19295" g="w19294" t="punc" cr="punc:w19294" w="," l="~" p="U"/>
+     <dpg d="w19296" g="w19294" t="conj" cr="conj:w19294" w="RAD14" l="~" p="N"/>
+     <dpg d="w19297" g="w19296" t="punc" cr="punc:w19296" w="," l="~" p="U"/>
+     <dpg d="w19298" g="w19296" t="punc" cr="punc:w19296" w="and" l="~" p="U"/>
+     <dpg d="w19299" g="w19296" t="conj" cr="conj:w19296" w="RAD25" l="~" p="N"/>
+     <dpg d="w19300" g="w19302" t="mod-before" cr="mod-before:w19302" w="subsequently" l="~" p="A"/>
+     <dpg d="w19301" g="w19302" t="be" cr="be:w19302" w="were" l="be" p="be"/>
+     <dpg d="w19302" g="E0" t="i" cr="UNSPECRELTYPE:E5" w="demonstrated" l="demonstrate" p="V"/>
+     <dpg d="E8" g="w19302" t="obj" cr="" w="" l="RAD2" p="N"/>
+     <dpg d="E8" g="w19290" t="antecedent" cr="" w="" l="RAD2" p="N"/>
+     <dpg d="w19303" g="w19302" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w19304" g="w19305" t="mod" cr="mod:w19305" w="two-hybrid" l="two-hybrid" p="A"/>
+     <dpg d="w19305" g="w19303" t="pcomp-n" cr="by-subj*by*n:w19302" w="analysis" l="~" p="N"/>
+     <dpg d="w19306" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

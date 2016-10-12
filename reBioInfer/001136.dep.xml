@@ -1,0 +1,83 @@
+<rexml>
+<doc id="1136">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E8" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E8" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w17914" g="E2" t="mod" cr="mod:w17918" w="Previously" l="~" p="A"/>
+     <dpg d="w17915" g="E2" t="punc" cr="punc:w17918" w="," l="~" p="U"/>
+     <dpg d="w17916" g="w17918" t="s" cr="s+subj:w17918" w="we" l="~" p="N"/>
+     <dpg d="w17917" g="w17918" t="have" cr="have:w17918" w="have" l="~" p="have"/>
+     <dpg d="w17918" g="E2" t="i" cr="UNSPECRELTYPE:E8" w="shown" l="show" p="V"/>
+     <dpg d="E9" g="w17918" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E9" g="w17916" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="E1" g="w17918" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w17919" g="E1" t="c" cr="c:w17927" w="that" l="~" p="COMP"/>
+     <dpg d="w17920" g="E1" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w17921" g="w17922" t="det" cr="det:w17922" w="the" l="~" p="Det"/>
+     <dpg d="w17922" g="w17920" t="pcomp-n" cr="mod*in*n:w17927" w="absence" l="~" p="N"/>
+     <dpg d="w17923" g="w17922" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w17924" g="w17923" t="pcomp-n" cr="mod*of*n:w17922" w="RAD52" l="~" p="N"/>
+     <dpg d="w17925" g="E1" t="punc" cr="punc:w17927" w="," l="~" p="U"/>
+     <dpg d="w17926" g="w17927" t="s" cr="s:w17927||subj:w17929" w="repair" l="~" p="N"/>
+     <dpg d="w17927" g="E1" t="i" cr="fc:w17918" w="is" l="be" p="VBE"/>
+     <dpg d="E10" g="w17929" t="subj" cr="" w="" l="repair" p="N"/>
+     <dpg d="E10" g="w17926" t="antecedent" cr="" w="" l="repair" p="N"/>
+     <dpg d="w17928" g="w17929" t="mod" cr="mod:w17929" w="nearly" l="~" p="A"/>
+     <dpg d="w17929" g="w17927" t="pred" cr="pred:w17927" w="absent" l="~" p="A"/>
+     <dpg d="w17930" g="E1" t="punc" cr="punc:w17927" w="and" l="~" p="U"/>
+     <dpg d="E0" g="E1" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w17931" g="w17932" t="mod" cr="mod:w17932" w="diploid" l="~" p="A"/>
+     <dpg d="w17932" g="w17933" t="s" cr="s+subj:w17933" w="cells" l="cell" p="N"/>
+     <dpg d="w17933" g="E0" t="i" cr="conj:w17927" w="lose" l="~" p="V"/>
+     <dpg d="E11" g="w17933" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E11" g="w17932" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w17934" g="w17936" t="det" cr="det:w17936" w="the" l="~" p="Det"/>
+     <dpg d="w17935" g="w17936" t="mod" cr="mod:w17936" w="broken" l="~" p="A"/>
+     <dpg d="w17936" g="w17933" t="obj" cr="obj:w17933" w="chromosome" l="~" p="N"/>
+     <dpg d="w17937" g="E8" t="punc" cr="punc:E8" w=";" l="~" p="U"/>
+     <dpg d="w17938" g="E8" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E8" w="however" l="~" p="SentAdjunct"/>
+     <dpg d="w17939" g="w17938" t="punc" cr="punc:w17938" w="," l="~" p="U"/>
+     <dpg d="E5" g="w17938" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w17940" g="E5" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w17941" g="w17940" t="pcomp-n" cr="mod*in*n:w17947||s+subj:w17942" w="cells" l="cell" p="N"/>
+     <dpg d="E4" g="w17941" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E6" g="E4" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w17941" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w17942" g="E4" t="i" cr="rel:w17941" w="lacking" l="lack" p="V"/>
+     <dpg d="E12" g="w17942" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E12" g="E6" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w17943" g="w17942" t="obj" cr="obj:w17942" w="RAD51" l="~" p="N"/>
+     <dpg d="w17944" g="E5" t="punc" cr="punc:w17947" w="," l="~" p="U"/>
+     <dpg d="w17945" g="w17946" t="nn" cr="nn:w17946" w="gene" l="~" p="N"/>
+     <dpg d="w17946" g="w17947" t="s" cr="s:w17947||subj:w17948" w="conversion" l="~" p="N"/>
+     <dpg d="w17947" g="E5" t="i" cr="comp1:w17938" w="is" l="be" p="VBE"/>
+     <dpg d="w17948" g="w17947" t="pred" cr="pred:w17947" w="absent" l="~" p="A"/>
+     <dpg d="E13" g="w17948" t="subj" cr="" w="" l="conversion" p="N"/>
+     <dpg d="E13" g="w17946" t="antecedent" cr="" w="" l="conversion" p="N"/>
+     <dpg d="w17949" g="E5" t="punc" cr="punc:w17947" w="but" l="~" p="U"/>
+     <dpg d="E3" g="E5" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w17950" g="w17952" t="s" cr="s+subj:w17952" w="cells" l="cell" p="N"/>
+     <dpg d="w17951" g="w17952" t="aux" cr="aux:w17952" w="can" l="~" p="Aux"/>
+     <dpg d="w17952" g="E3" t="i" cr="conj:w17947" w="repair" l="~" p="V"/>
+     <dpg d="E14" g="w17952" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E14" g="w17950" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w17953" g="w17954" t="det" cr="det:w17954" w="the" l="~" p="Det"/>
+     <dpg d="w17954" g="w17952" t="obj" cr="obj:w17952" w="DSB" l="~" p="N"/>
+     <dpg d="w17955" g="w17954" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w17956" g="w17955" t="pcomp-n" cr="mod*by*n:w17954" w="BIR" l="~" p="N"/>
+     <dpg d="w17957" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

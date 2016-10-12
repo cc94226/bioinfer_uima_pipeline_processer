@@ -1,0 +1,189 @@
+<rexml>
+<doc id="2">
+  <text>
+<p><s id="s1"><w id="w1">alpha-catenin</w> <w id="w2">inhibits</w> <w id="w3">beta-catenin</w> <w id="w4">signaling</w> <w id="w5">by</w> <w id="w6">preventing</w> <w id="w7">formation</w> <w id="w8">of</w> <w id="w9">a</w> <w id="w10">beta-catenin</w><w id="w11">*</w><w id="w12">T-cell</w> <w id="w13">factor</w><w id="w14">*DNA</w> <w id="w15">complex</w> <w id="w16">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1" gid="g1" t="Individual_protein" fr="w1" to="w1" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2" gid="g2" t="RELATIONSHIP_TEXTBINDING" fr="w2" to="w2">
+     <textspan type="extent">inhibits</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3" gid="g3" t="RELATIONSHIP_TEXTBINDING" fr="w2" to="w5">
+     <textspan type="extent">inhibits [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2.2"/>
+      <exattr n="nst" v="st.2.1.0"/>
+      <exattr n="nst" v="st.2.4.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4" gid="g4" t="Protein_complex" fr="w10" to="w15" nam="yes">
+     <textspan type="extent">beta-catenin*T-cell factor*DNA complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.2.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5" gid="g5" t="Individual_protein" fr="w12" to="w13" nam="yes">
+     <textspan type="extent">T-cell factor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6" gid="g6" t="Function_property" fr="w3" to="w4">
+     <textspan type="extent">beta-catenin signaling</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.2.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7" gid="g7" t="Individual_protein" fr="w3" to="w3" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e8" gid="g8" t="Individual_protein" fr="w10" to="w10" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e9" gid="g9" t="RELATIONSHIP_TEXTBINDING" fr="w6" to="w6">
+     <textspan type="extent">preventing</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e10" gid="g10" t="RELATIONSHIP_TEXTBINDING" fr="w7" to="w15">
+     <textspan type="extent">formation of [..] complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2.9"/>
+      <exattr n="nst" v="st.2.6.0"/>
+      <exattr n="nst" v="st.2.7.0"/>
+      <exattr n="nst" v="st.2.11.0"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1" t="SUPPRESS" e1="e1" e2="e6" re="e2">
+     <textspan type="extent">alpha-catenin inhibits beta-catenin signaling</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r2" t="SUPPRESS" e1="e9" e2="e6" re="e3">
+     <textspan type="extent">alpha-catenin inhibits beta-catenin signaling by preventing formation of a beta-catenin * T-cell factor *DNA complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r3" t="PREVENT" e1="e1" e2="e10" re="e9">
+     <textspan type="extent">alpha-catenin inhibits beta-catenin signaling by preventing formation of a beta-catenin * T-cell factor *DNA complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="PREVENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r4" t="CONTAIN" e1="e4" e2="e8" re="e10">
+     <textspan type="extent">formation of a beta-catenin * T-cell factor *DNA complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2.9"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r5" t="SUPPRESS" e1="e9" e2="e6" re="e3">
+     <textspan type="extent">alpha-catenin inhibits beta-catenin signaling by preventing formation of a beta-catenin * T-cell factor *DNA complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r6" t="PREVENT" e1="e1" e2="e10" re="e9">
+     <textspan type="extent">alpha-catenin inhibits beta-catenin signaling by preventing formation of a beta-catenin * T-cell factor *DNA complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="PREVENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r7" t="CONTAIN" e1="e4" e2="e5" re="e10">
+     <textspan type="extent">formation of a beta-catenin * T-cell factor *DNA complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2.9"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

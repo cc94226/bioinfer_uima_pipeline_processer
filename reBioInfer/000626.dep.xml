@@ -1,0 +1,86 @@
+<rexml>
+<doc id="626">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9329" g="E2" t="mod" cr="mod:w9332" w="However" l="~" p="A"/>
+     <dpg d="w9330" g="E2" t="punc" cr="punc:w9332" w="," l="~" p="U"/>
+     <dpg d="w9331" g="w9332" t="s" cr="s:w9332||subj:w9334||s+subj:w9345" w="increases" l="increase" p="N"/>
+     <dpg d="w9332" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="were" l="be" p="VBE"/>
+     <dpg d="E6" g="w9334" t="subj" cr="" w="" l="increase" p="N"/>
+     <dpg d="E6" g="w9331" t="antecedent" cr="" w="" l="increase" p="N"/>
+     <dpg d="w9333" g="w9334" t="mod" cr="mod:w9334" w="also" l="~" p="A"/>
+     <dpg d="w9334" g="w9332" t="pred" cr="pred:w9332" w="selective" l="~" p="A"/>
+     <dpg d="w9335" g="w9334" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w9336" g="w9335" t="pcomp-n" cr="mod*in*n:w9334" w="nature" l="~" p="N"/>
+     <dpg d="w9337" g="w9332" t="punc" cr="punc:w9332" w="," l="~" p="U"/>
+     <dpg d="w9338" g="w9332" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w9339" g="w9338" t="pcomp-n" cr="mod*with*n:w9332" w="increases" l="increase" p="N"/>
+     <dpg d="w9340" g="w9339" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w9341" g="w9343" t="mod" cr="mod:w9343" w="certain" l="~" p="A"/>
+     <dpg d="w9342" g="w9343" t="nn" cr="nn:w9343" w="individual" l="~" p="N"/>
+     <dpg d="w9343" g="w9340" t="pcomp-n" cr="mod*in*n:w9339" w="proteins" l="protein" p="N"/>
+     <dpg d="w9344" g="w9332" t="punc" cr="punc:w9332" w="," l="~" p="U"/>
+     <dpg d="E1" g="w9332" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w9331" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w9345" g="E1" t="i" cr="mod:w9332" w="including" l="include" p="V"/>
+     <dpg d="E7" g="w9345" t="subj" cr="" w="" l="increase" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="increase" p="N"/>
+     <dpg d="w9346" g="w9345" t="obj" cr="obj:w9345" w="actin" l="~" p="N"/>
+     <dpg d="w9347" g="w9346" t="punc" cr="punc:w9346" w="(" l="~" p="U"/>
+     <dpg d="w9348" g="w9346" t="pnmod" cr="pnmod:w9346" w="twofold" l="~" p="A"/>
+     <dpg d="w9349" g="w9348" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w9350" g="w9355" t="mod" cr="mod:w9355" w="threefold" l="~" p="A"/>
+     <dpg d="w9351" g="w9355" t="punc" cr="punc:w9355" w=")" l="~" p="U"/>
+     <dpg d="w9352" g="w9355" t="punc" cr="punc:w9355" w="," l="~" p="U"/>
+     <dpg d="w9353" g="w9355" t="nn" cr="nn:w9355" w="vimentin" l="~" p="N"/>
+     <dpg d="w9354" g="w9355" t="punc" cr="punc:w9355" w="(" l="~" p="U"/>
+     <dpg d="w9355" g="w9349" t="pcomp-n" cr="mod*to*n:w9348" w="2.5-fold" l="2.5-fold" p="N"/>
+     <dpg d="w9356" g="E5" t="punc" cr="punc:E5" w="to" l="~" p="U"/>
+     <dpg d="w9357" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="sevenfold" l="~" p="A"/>
+     <dpg d="w9358" g="E5" t="punc" cr="punc:E5" w=")" l="~" p="U"/>
+     <dpg d="w9359" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="w9360" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="tropomyosin" l="~" p="N"/>
+     <dpg d="w9361" g="E5" t="punc" cr="punc:E5" w="(" l="~" p="U"/>
+     <dpg d="w9362" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="threefold" l="~" p="A"/>
+     <dpg d="w9363" g="E5" t="punc" cr="punc:E5" w="to" l="~" p="U"/>
+     <dpg d="w9364" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="sixfold" l="~" p="A"/>
+     <dpg d="w9365" g="E5" t="punc" cr="punc:E5" w=")" l="~" p="U"/>
+     <dpg d="w9366" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="w9367" g="E5" t="punc" cr="punc:E5" w="and" l="~" p="U"/>
+     <dpg d="w9368" g="w9370" t="nn" cr="nn:w9370" w="myosin" l="~" p="N"/>
+     <dpg d="w9369" g="w9370" t="mod" cr="mod:w9370" w="heavy" l="~" p="A"/>
+     <dpg d="w9370" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="chain" l="~" p="N"/>
+     <dpg d="w9371" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="E0" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9372" g="w9373" t="mod" cr="mod:w9373" w="far" l="~" p="A"/>
+     <dpg d="w9373" g="w9375" t="mod" cr="mod:w9375" w="exceeding" l="~" p="A"/>
+     <dpg d="w9374" g="w9375" t="mod" cr="mod:w9375" w="overall" l="~" p="A"/>
+     <dpg d="w9375" g="w9379" t="s" cr="s+subj:w9379" w="increases" l="increase" p="N"/>
+     <dpg d="w9376" g="w9375" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w9377" g="w9378" t="mod" cr="mod:w9378" w="cellular" l="~" p="A"/>
+     <dpg d="w9378" g="w9376" t="pcomp-n" cr="mod*in*n:w9375" w="protein" l="~" p="N"/>
+     <dpg d="w9379" g="E0" t="i" cr="UNSPECRELTYPE:E5" w="content" l="~" p="V"/>
+     <dpg d="E8" g="w9379" t="subj" cr="" w="" l="increase" p="N"/>
+     <dpg d="E8" g="w9375" t="antecedent" cr="" w="" l="increase" p="N"/>
+     <dpg d="w9380" g="w9379" t="punc" cr="punc:w9379" w="(" l="~" p="U"/>
+     <dpg d="w9381" g="w9379" t="obj" cr="obj:w9379" w="20-40" l="20-40" p="N"/>
+     <dpg d="w9382" g="" t="" cr="" w="%" l="~" p="U"/>
+     <dpg d="w9383" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w9384" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

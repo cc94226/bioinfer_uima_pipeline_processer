@@ -1,0 +1,59 @@
+<rexml>
+<doc id="213">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w3230" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="Because" l="~" p="SentAdjunct"/>
+     <dpg d="E2" g="w3230" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3231" g="w3232" t="nn" cr="nn:w3232" w="histone" l="~" p="N"/>
+     <dpg d="w3232" g="w3233" t="s" cr="s+subj:w3233||obj:w3243" w="H3" l="~" p="N"/>
+     <dpg d="w3233" g="E2" t="i" cr="comp1:w3230" w="shares" l="share" p="V"/>
+     <dpg d="E5" g="w3233" t="subj" cr="" w="" l="H3" p="N"/>
+     <dpg d="E5" g="w3232" t="antecedent" cr="" w="" l="H3" p="N"/>
+     <dpg d="w3234" g="w3236" t="det" cr="det:w3236" w="many" l="~" p="Det"/>
+     <dpg d="w3235" g="w3236" t="mod" cr="mod:w3236" w="structural" l="~" p="A"/>
+     <dpg d="w3236" g="w3233" t="obj" cr="obj:w3233" w="features" l="feature" p="N"/>
+     <dpg d="w3237" g="w3236" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w3238" g="w3239" t="nn" cr="nn:w3239" w="histone" l="~" p="N"/>
+     <dpg d="w3239" g="w3237" t="pcomp-n" cr="mod*with*n:w3236" w="H4" l="~" p="N"/>
+     <dpg d="w3240" g="w3233" t="punc" cr="punc:w3233" w="and" l="~" p="U"/>
+     <dpg d="w3241" g="w3243" t="be" cr="be:w3243" w="is" l="be" p="be"/>
+     <dpg d="w3242" g="w3243" t="amod" cr="amod:w3243" w="intimately" l="~" p="A"/>
+     <dpg d="w3243" g="w3233" t="conj" cr="conj:w3233" w="associated" l="associate" p="V"/>
+     <dpg d="E6" g="w3243" t="obj" cr="" w="" l="H3" p="N"/>
+     <dpg d="E6" g="w3232" t="antecedent" cr="" w="" l="H3" p="N"/>
+     <dpg d="w3244" g="w3243" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w3245" g="w3244" t="pcomp-n" cr="mod*with*n:w3243" w="H4" l="~" p="N"/>
+     <dpg d="w3246" g="w3245" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w3247" g="w3249" t="det" cr="det:w3249" w="the" l="~" p="Det"/>
+     <dpg d="w3248" g="w3249" t="mod" cr="mod:w3249" w="assembled" l="~" p="A"/>
+     <dpg d="w3249" g="w3246" t="pcomp-n" cr="mod*in*n:w3245" w="nucleosome" l="~" p="N"/>
+     <dpg d="w3250" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3251" g="w3252" t="s" cr="s+subj:w3252" w="we" l="~" p="N"/>
+     <dpg d="w3252" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="asked" l="ask" p="V"/>
+     <dpg d="E7" g="w3252" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E7" g="w3251" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="E0" g="w3252" t="mod" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3253" g="E0" t="c" cr="c:w3255" w="whether" l="~" p="COMP"/>
+     <dpg d="w3254" g="w3255" t="s" cr="s+subj:w3255" w="H3" l="~" p="N"/>
+     <dpg d="w3255" g="E0" t="i" cr="mod:w3252" w="has" l="have" p="V"/>
+     <dpg d="E8" g="w3255" t="subj" cr="" w="" l="H3" p="N"/>
+     <dpg d="E8" g="w3254" t="antecedent" cr="" w="" l="H3" p="N"/>
+     <dpg d="w3256" g="w3257" t="mod" cr="mod:w3257" w="similar" l="~" p="A"/>
+     <dpg d="w3257" g="w3255" t="obj" cr="obj:w3255" w="functions" l="function" p="N"/>
+     <dpg d="w3258" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

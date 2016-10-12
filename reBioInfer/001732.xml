@@ -1,0 +1,81 @@
+<rexml>
+<doc id="1732">
+  <text>
+<p><s id="s1"><w id="w27596">These</w> <w id="w27597">results</w> <w id="w27598">show</w> <w id="w27599">that</w> <w id="w27600">cofilin</w><w id="w27601">/</w><w id="w27602">ADF</w> <w id="w27603">is</w> <w id="w27604">an</w> <w id="w27605">important</w> <w id="w27606">regulator</w> <w id="w27607">of</w> <w id="w27608">actin</w><w id="w27609">-based</w> <w id="w27610">cell</w> <w id="w27611">motility</w> <w id="w27612">during</w> <w id="w27613">Drosophila</w> <w id="w27614">development</w> <w id="w27615">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6351" gid="g6063" t="Individual_protein" fr="w27600" to="w27600" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1732.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6352" gid="g6063" t="Individual_protein" fr="w27602" to="w27602" nam="yes">
+     <textspan type="extent">ADF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1732.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6353" gid="g6064" t="Function_property" fr="w27608" to="w27611">
+     <textspan type="extent">actin-based [..] motility</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.1732.2"/>
+      <exattr n="nst" v="st.1732.10.0"/>
+      <exattr n="nst" v="st.1732.10.1"/>
+      <exattr n="nst" v="st.1732.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6354" gid="g6065" t="Individual_protein" fr="w27608" to="w27608" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1732.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6355" gid="g6066" t="RELATIONSHIP_TEXTBINDING" fr="w27606" to="w27607">
+     <textspan type="extent">regulator of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1732.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2428" t="CONTROL" e1="e6351" e2="e6353" re="e6355">
+     <textspan type="extent">cofilin / ADF is an important regulator of actin -based cell motility</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1732.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

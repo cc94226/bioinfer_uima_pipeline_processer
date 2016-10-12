@@ -1,0 +1,91 @@
+<rexml>
+<doc id="22">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E3" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w337" g="w338" t="s" cr="s+subj:w338||s+subj:w340" w="ActA" l="~" p="N"/>
+     <dpg d="w338" g="E3" t="i" cr="UNSPECRELTYPE:E6" w="appears" l="appear" p="V"/>
+     <dpg d="E7" g="w338" t="subj" cr="" w="" l="ActA" p="N"/>
+     <dpg d="E7" g="w337" t="antecedent" cr="" w="" l="ActA" p="N"/>
+     <dpg d="E2" g="w338" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w337" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w339" g="w340" t="aux" cr="aux:w340" w="to" l="~" p="Aux"/>
+     <dpg d="w340" g="E2" t="i" cr="mod:w338" w="control" l="~" p="V"/>
+     <dpg d="E8" g="w340" t="subj" cr="" w="" l="ActA" p="N"/>
+     <dpg d="E8" g="E4" t="antecedent" cr="" w="" l="ActA" p="N"/>
+     <dpg d="w341" g="w342" t="lex-mod" cr="lex-mod:w342" w="at" l="~" p="U"/>
+     <dpg d="w342" g="w343" t="num-mod" cr="num-mod:w343" w="least" l="at least" p="A"/>
+     <dpg d="w343" g="w344" t="nn" cr="nn:w344" w="four" l="~" p="N"/>
+     <dpg d="w344" g="w340" t="obj" cr="obj:w340||subj:w347" w="functions" l="function" p="N"/>
+     <dpg d="E1" g="w344" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w345" g="E1" t="whn" cr="whn:w347" w="that" l="~" p="THAT"/>
+     <dpg d="w345" g="w344" t="antecedent" cr="antecedent:w344" w="that" l="~" p="THAT"/>
+     <dpg d="w346" g="w347" t="mod-before" cr="mod-before:w347" w="collectively" l="~" p="A"/>
+     <dpg d="w347" g="E1" t="i" cr="rel:w344" w="lead" l="lead to" p="V"/>
+     <dpg d="w348" g="w347" t="lex-mod" cr="lex-mod:w347" w="to" l="~" p="U"/>
+     <dpg d="E9" g="w347" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E9" g="w344" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w349" g="w350" t="lex-mod" cr="lex-mod:w350" w="actin" l="~" p="U"/>
+     <dpg d="w350" g="w351" t="mod" cr="mod:w351" w="-based" l="actin -based" p="A"/>
+     <dpg d="w351" g="w347" t="obj" cr="obj:w347" w="motility" l="~" p="N"/>
+     <dpg d="w352" g="E6" t="punc" cr="punc:E6" w=":" l="~" p="U"/>
+     <dpg d="w353" g="E6" t="punc" cr="punc:E6" w="(" l="~" p="U"/>
+     <dpg d="w354" g="w356" t="num" cr="num:w356" w="1" l="~" p="N"/>
+     <dpg d="w355" g="w356" t="punc" cr="punc:w356" w=")" l="~" p="U"/>
+     <dpg d="w356" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="initiation" l="~" p="N"/>
+     <dpg d="w357" g="w356" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w358" g="w359" t="nn" cr="nn:w359" w="actin" l="~" p="N"/>
+     <dpg d="w359" g="w357" t="pcomp-n" cr="mod*of*n:w356" w="polymerization" l="~" p="N"/>
+     <dpg d="w360" g="w359" t="punc" cr="punc:w359" w="," l="~" p="U"/>
+     <dpg d="w361" g="w359" t="punc" cr="punc:w359" w="(" l="~" p="U"/>
+     <dpg d="w362" g="w364" t="num" cr="num:w364" w="2" l="~" p="N"/>
+     <dpg d="w363" g="w364" t="punc" cr="punc:w364" w=")" l="~" p="U"/>
+     <dpg d="w364" g="w359" t="conj" cr="conj:w359" w="polarization" l="~" p="N"/>
+     <dpg d="w365" g="w364" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w366" g="w367" t="nn" cr="nn:w367" w="ActA" l="~" p="N"/>
+     <dpg d="w367" g="w365" t="pcomp-n" cr="mod*of*n:w364" w="function" l="~" p="N"/>
+     <dpg d="w368" g="w367" t="punc" cr="punc:w367" w="," l="~" p="U"/>
+     <dpg d="w369" g="w367" t="punc" cr="punc:w367" w="(" l="~" p="U"/>
+     <dpg d="w370" g="w372" t="num" cr="num:w372" w="3" l="~" p="N"/>
+     <dpg d="w371" g="w372" t="punc" cr="punc:w372" w=")" l="~" p="U"/>
+     <dpg d="w372" g="w367" t="conj" cr="conj:w367" w="transformation" l="~" p="N"/>
+     <dpg d="w373" g="w372" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w374" g="w375" t="nn" cr="nn:w375" w="actin" l="~" p="N"/>
+     <dpg d="w375" g="w373" t="pcomp-n" cr="mod*of*n:w372" w="polymerization" l="~" p="N"/>
+     <dpg d="w376" g="w375" t="mod" cr="" w="into" l="~" p="Prep"/>
+     <dpg d="w377" g="w379" t="det" cr="det:w379" w="a" l="~" p="Det"/>
+     <dpg d="w378" g="w379" t="mod" cr="mod:w379" w="motile" l="~" p="A"/>
+     <dpg d="w379" g="w376" t="pcomp-n" cr="mod*into*n:w375" w="force" l="~" p="N"/>
+     <dpg d="w380" g="w379" t="punc" cr="punc:w379" w="and" l="~" p="U"/>
+     <dpg d="w381" g="w379" t="punc" cr="punc:w379" w="(" l="~" p="U"/>
+     <dpg d="w382" g="w379" t="conj" cr="conj:w379" w="4" l="~" p="N"/>
+     <dpg d="w383" g="E6" t="punc" cr="punc:E6" w=")" l="~" p="U"/>
+     <dpg d="E0" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w384" g="w387" t="s" cr="s+subj:w387" w="acceleration" l="~" p="N"/>
+     <dpg d="w385" g="w384" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w386" g="w385" t="pcomp-n" cr="mod*of*n:w384" w="movement" l="~" p="N"/>
+     <dpg d="w387" g="E0" t="i" cr="UNSPECRELTYPE:E6" w="mediated" l="mediate" p="V"/>
+     <dpg d="E10" g="w387" t="subj" cr="" w="" l="acceleration" p="N"/>
+     <dpg d="E10" g="w384" t="antecedent" cr="" w="" l="acceleration" p="N"/>
+     <dpg d="w388" g="w387" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w389" g="w392" t="det" cr="det:w392" w="the" l="~" p="Det"/>
+     <dpg d="w390" g="w392" t="nn" cr="nn:w392" w="host" l="~" p="N"/>
+     <dpg d="w391" g="w392" t="nn" cr="nn:w392" w="protein" l="~" p="N"/>
+     <dpg d="w392" g="w388" t="pcomp-n" cr="mod*by*n:w387" w="profilin" l="~" p="N"/>
+     <dpg d="w393" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

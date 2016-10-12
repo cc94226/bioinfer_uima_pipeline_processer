@@ -1,0 +1,93 @@
+<rexml>
+<doc id="1052">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E10" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w16519" g="E10" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E10" w="OBJECTIVE" l="~" p="N"/>
+     <dpg d="w16520" g="E10" t="punc" cr="punc:E10" w=":" l="~" p="U"/>
+     <dpg d="E4" g="E10" t="UNSPECRELTYPE" cr="" w="" l="inf" p="C"/>
+     <dpg d="E8" g="E4" t="s" cr="s+subj:w16522" w="" l="~" p="N"/>
+     <dpg d="w16521" g="w16522" t="aux" cr="aux:w16522" w="To" l="~" p="Aux"/>
+     <dpg d="w16522" g="E4" t="i" cr="UNSPECRELTYPE:E10" w="determine" l="~" p="V"/>
+     <dpg d="E11" g="w16522" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E11" g="E8" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w16522" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16523" g="E3" t="c" cr="c:w16533" w="whether" l="~" p="COMP"/>
+     <dpg d="w16524" g="w16526" t="mod" cr="mod:w16526" w="other" l="~" p="A"/>
+     <dpg d="w16525" g="w16526" t="lex-mod" cr="lex-mod:w16526" w="glycoprotein" l="~" p="U"/>
+     <dpg d="w16526" g="w16533" t="s" cr="s+subj:w16530||s+subj:w16533||s+subj:w16543" w="130" l="glycoprotein 130" p="N"/>
+     <dpg d="w16527" g="w16528" t="punc" cr="punc:w16528" w="(" l="~" p="U"/>
+     <dpg d="w16528" g="w16526" t="abbrev" cr="abbrev:w16526" w="gp130" l="~" p="N"/>
+     <dpg d="w16529" g="w16528" t="punc" cr="punc:w16528" w=")" l="~" p="U"/>
+     <dpg d="E2" g="w16526" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E7" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="w16526" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w16530" g="E2" t="i" cr="rel:w16526" w="binding" l="bind" p="V"/>
+     <dpg d="E12" g="w16530" t="subj" cr="" w="" l="glycoprotein 130" p="N"/>
+     <dpg d="E12" g="E7" t="antecedent" cr="" w="" l="glycoprotein 130" p="N"/>
+     <dpg d="w16531" g="w16530" t="obj" cr="obj:w16530" w="cytokines" l="~" p="N"/>
+     <dpg d="w16532" g="w16533" t="aux" cr="aux:w16533" w="can" l="~" p="Aux"/>
+     <dpg d="w16533" g="E3" t="i" cr="fc:w16522" w="mimic" l="~" p="V"/>
+     <dpg d="E13" g="w16533" t="subj" cr="" w="" l="glycoprotein 130" p="N"/>
+     <dpg d="E13" g="w16526" t="antecedent" cr="" w="" l="glycoprotein 130" p="N"/>
+     <dpg d="w16534" g="w16535" t="det" cr="det:w16535" w="the" l="~" p="Det"/>
+     <dpg d="w16535" g="w16533" t="obj" cr="obj:w16533" w="effects" l="effect" p="N"/>
+     <dpg d="w16536" g="w16535" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w16537" g="w16538" t="lex-mod" cr="lex-mod:w16538" w="oncostatin" l="~" p="U"/>
+     <dpg d="w16538" g="w16536" t="pcomp-n" cr="mod*of*n:w16535" w="M" l="oncostatin M" p="N"/>
+     <dpg d="w16539" g="w16540" t="punc" cr="punc:w16540" w="(" l="~" p="U"/>
+     <dpg d="w16540" g="w16538" t="abbrev" cr="abbrev:w16538" w="OSM" l="~" p="N"/>
+     <dpg d="w16541" g="w16540" t="punc" cr="punc:w16540" w=")" l="~" p="U"/>
+     <dpg d="w16542" g="w16538" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="E1" g="w16542" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E6" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w16526" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w16543" g="E1" t="i" cr="mod*in*c:w16538" w="acting" l="act" p="V"/>
+     <dpg d="E14" g="w16543" t="subj" cr="" w="" l="glycoprotein 130" p="N"/>
+     <dpg d="E14" g="E6" t="antecedent" cr="" w="" l="glycoprotein 130" p="N"/>
+     <dpg d="w16544" g="w16543" t="mod" cr="mod:w16543" w="synergistically" l="~" p="A"/>
+     <dpg d="w16545" g="w16544" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w16546" g="w16548" t="nn" cr="nn:w16548" w="interleukin-1alpha" l="interleukin-1alpha" p="N"/>
+     <dpg d="w16547" g="w16548" t="punc" cr="punc:w16548" w="(" l="~" p="U"/>
+     <dpg d="w16548" g="w16545" t="pcomp-n" cr="mod*with*n:w16544||s+subj:w16551||subj:w16561" w="IL-1alpha" l="IL-1alpha" p="N"/>
+     <dpg d="w16549" g="w16548" t="punc" cr="punc:w16548" w=")" l="~" p="U"/>
+     <dpg d="E0" g="w16548" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E5" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w16548" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w16550" g="w16551" t="aux" cr="aux:w16551" w="to" l="~" p="Aux"/>
+     <dpg d="w16551" g="E0" t="i" cr="rel:w16548" w="induce" l="~" p="V"/>
+     <dpg d="E15" g="w16551" t="subj" cr="" w="" l="IL-1alpha" p="N"/>
+     <dpg d="E15" g="E5" t="antecedent" cr="" w="" l="IL-1alpha" p="N"/>
+     <dpg d="w16552" g="w16554" t="nn" cr="nn:w16554" w="cartilage" l="~" p="N"/>
+     <dpg d="w16553" g="w16554" t="nn" cr="nn:w16554" w="collagen" l="~" p="N"/>
+     <dpg d="w16554" g="w16551" t="obj" cr="obj:w16551" w="breakdown" l="~" p="N"/>
+     <dpg d="w16555" g="w16554" t="punc" cr="punc:w16554" w="and" l="~" p="U"/>
+     <dpg d="w16556" g="w16557" t="nn" cr="nn:w16557" w="collagenase" l="~" p="N"/>
+     <dpg d="w16557" g="w16554" t="conj" cr="conj:w16554" w="expression" l="~" p="N"/>
+     <dpg d="w16558" g="w16551" t="punc" cr="punc:w16551" w="," l="~" p="U"/>
+     <dpg d="w16559" g="w16551" t="punc" cr="punc:w16551" w="and" l="~" p="U"/>
+     <dpg d="w16560" g="w16561" t="aux" cr="aux:w16561" w="to" l="~" p="Aux"/>
+     <dpg d="w16561" g="w16551" t="conj" cr="conj:w16551" w="determine" l="~" p="V"/>
+     <dpg d="E16" g="w16561" t="subj" cr="" w="" l="IL-1alpha" p="N"/>
+     <dpg d="E16" g="E5" t="antecedent" cr="" w="" l="IL-1alpha" p="N"/>
+     <dpg d="w16562" g="w16566" t="det" cr="det:w16566" w="which" l="~" p="Det"/>
+     <dpg d="w16562" g="w16548" t="antecedent" cr="antecedent:w16548" w="which" l="~" p="Det"/>
+     <dpg d="w16563" g="w16566" t="nn" cr="nn:w16566" w="receptors" l="receptor" p="N"/>
+     <dpg d="w16564" g="w16566" t="mod" cr="mod:w16566" w="mediate" l="~" p="A"/>
+     <dpg d="w16565" g="w16566" t="det" cr="det:w16566" w="these" l="~" p="Det"/>
+     <dpg d="w16566" g="w16561" t="obj" cr="obj:w16561" w="effects" l="effect" p="N"/>
+     <dpg d="w16567" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

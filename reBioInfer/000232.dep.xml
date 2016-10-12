@@ -1,0 +1,37 @@
+<rexml>
+<doc id="232">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3461" g="w3463" t="mod" cr="mod:w3463" w="Biochemical" l="~" p="A"/>
+     <dpg d="w3462" g="w3463" t="nn" cr="nn:w3463" w="complementation" l="~" p="N"/>
+     <dpg d="w3463" g="w3465" t="s" cr="s+subj:w3465" w="experiments" l="experiment" p="N"/>
+     <dpg d="w3464" g="w3465" t="amod" cr="amod:w3465" w="also" l="~" p="A"/>
+     <dpg d="w3465" g="E1" t="i" cr="" w="indicate" l="~" p="V"/>
+     <dpg d="E3" g="w3465" t="subj" cr="" w="" l="experiment" p="N"/>
+     <dpg d="E3" g="w3463" t="antecedent" cr="" w="" l="experiment" p="N"/>
+     <dpg d="E0" g="w3465" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3466" g="E0" t="c" cr="c:w3472" w="that" l="~" p="COMP"/>
+     <dpg d="w3467" g="w3468" t="det" cr="det:w3468" w="the" l="~" p="Det"/>
+     <dpg d="w3468" g="w3472" t="s" cr="s+subj:w3472" w="PRP9" l="~" p="N"/>
+     <dpg d="w3469" g="w3468" t="punc" cr="punc:w3468" w="and" l="~" p="U"/>
+     <dpg d="w3470" g="w3471" t="nn" cr="nn:w3471" w="PRP11" l="~" p="N"/>
+     <dpg d="w3471" g="w3468" t="conj" cr="conj:w3468" w="proteins" l="protein" p="N"/>
+     <dpg d="w3472" g="E0" t="i" cr="fc:w3465" w="interact" l="~" p="V"/>
+     <dpg d="E4" g="w3472" t="subj" cr="" w="" l="PRP9" p="N"/>
+     <dpg d="E4" g="w3468" t="antecedent" cr="" w="" l="PRP9" p="N"/>
+     <dpg d="w3473" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

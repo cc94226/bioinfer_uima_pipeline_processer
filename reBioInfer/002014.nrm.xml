@@ -1,0 +1,129 @@
+<rexml>
+<doc id="2014">
+  
+  <markup>
+   <nes>
+    <ne id="e7347" gid="g7009" t="Gene/protein/RNA" fr="w32161" to="w32161" nam="yes" sid="s1">
+     <textspan>rad3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2014.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7350" gid="g7012" t="Gene" fr="w32169" to="w32169" nam="yes" sid="s1">
+     <textspan>rhp51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.2014.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7349" gid="g7011" t="Gene" fr="w32171" to="w32171" nam="yes" sid="s1">
+     <textspan>rhp54</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.2014.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7351" gid="g7013" t="Gene" fr="w32175" to="w32178" nam="yes" sid="s1">
+     <textspan>S.cerevisiae [..] RAD54</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.2014.4"/>
+      <exattr n="nst" v="st.2014.29.0"/>
+      <exattr n="nst" v="st.2014.32.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7352" gid="g7014" t="Gene" fr="w32175" to="w32176" nam="yes" sid="s1">
+     <textspan>S.cerevisiae RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.2014.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7354" gid="g7016" t="Gene" fr="w32176" to="w32176" nam="yes" sid="s1">
+     <textspan>RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.2014.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7353" gid="g7015" t="Gene" fr="w32178" to="w32178" nam="yes" sid="s1">
+     <textspan>RAD54</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.2014.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2816" t="SIMILAR" e1="e7350" e2="e7352" re="e7348">
+     <textspan>rhp51 and rhp54 ( homologues of S.cerevisiae RAD51</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2014.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2817" t="SIMILAR" e1="e7349" e2="e7351" re="e7348">
+     <textspan>rhp54 ( homologues of S.cerevisiae RAD51 and RAD54</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2014.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+      <exattr n="el" v="t5"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,211 @@
+<rexml>
+<doc id="243">
+  <text>
+<p><s id="s1"><w id="w3710">Neuropilin</w> <w id="w3711">1</w> <w id="w3712">(</w> <w id="w3713">NP-1</w> <w id="w3714">)</w> <w id="w3715">is</w> <w id="w3716">a</w> <w id="w3717">receptor</w> <w id="w3718">for</w> <w id="w3719">vascular</w> <w id="w3720">endothelial</w> <w id="w3721">growth</w> <w id="w3722">factor</w> <w id="w3723">(</w> <w id="w3724">VEGF</w> <w id="w3725">)</w> <w id="w3726">165</w> <w id="w3727">(</w> <w id="w3728">VEGF165</w> <w id="w3729">)</w> <w id="w3730">and</w> <w id="w3731">acts</w> <w id="w3732">as</w> <w id="w3733">a</w> <w id="w3734">coreceptor</w> <w id="w3735">that</w> <w id="w3736">enhances</w> <w id="w3737">VEGF165</w> <w id="w3738">function</w> <w id="w3739">through</w> <w id="w3740">tyrosine</w> <w id="w3741">kinase</w> <w id="w3742">VEGF</w> <w id="w3743">receptor</w> <w id="w3744">2</w> <w id="w3745">(</w> <w id="w3746">VEGFR-2</w> <w id="w3747">)</w> <w id="w3748">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e900" gid="g866" t="Individual_protein" fr="w3710" to="w3711" nam="yes">
+     <textspan type="extent">Neuropilin 1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.243.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e901" gid="g867" t="RELATIONSHIP_TEXTBINDING" fr="w3717" to="w3718">
+     <textspan type="extent">receptor for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.243.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e902" gid="g868" t="Function_property" fr="w3737" to="w3738">
+     <textspan type="extent">VEGF165 function</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.243.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e903" gid="g869" t="Individual_protein" fr="w3719" to="w3726" nam="yes">
+     <textspan type="extent">vascular endothelial growth factor [..] 165</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.243.3"/>
+      <exattr n="nst" v="st.243.9.0"/>
+      <exattr n="nst" v="st.243.10.0"/>
+      <exattr n="nst" v="st.243.11.0"/>
+      <exattr n="nst" v="st.243.12.0"/>
+      <exattr n="nst" v="st.243.16.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e904" gid="g866" t="Individual_protein" fr="w3713" to="w3713" nam="yes">
+     <textspan type="extent">NP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.243.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e905" gid="g870" t="Individual_protein" fr="w3742" to="w3744" nam="yes">
+     <textspan type="extent">VEGF receptor 2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.243.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e906" gid="g869" t="Individual_protein" fr="w3728" to="w3728" nam="yes">
+     <textspan type="extent">VEGF165</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.243.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e907" gid="g871" t="Gene/protein/RNA" fr="w3724" to="w3724" nam="yes">
+     <textspan type="extent">VEGF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.243.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e908" gid="g870" t="Individual_protein" fr="w3746" to="w3746" nam="yes">
+     <textspan type="extent">VEGFR-2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.243.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e909" gid="g872" t="Protein_family_or_group" fr="w3740" to="w3741" nam="yes">
+     <textspan type="extent">tyrosine kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.243.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e910" gid="g873" t="RELATIONSHIP_TEXTBINDING" fr="w3739" to="w3739">
+     <textspan type="extent">through</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.243.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e911" gid="g874" t="RELATIONSHIP_TEXTBINDING" fr="w3736" to="w3736">
+     <textspan type="extent">enhances</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.243.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e912" gid="g875" t="Individual_protein" fr="w3737" to="w3737" nam="yes">
+     <textspan type="extent">VEGF165</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.243.12"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r340" t="BIND" e1="e900" e2="e903" re="e901">
+     <textspan type="extent">Neuropilin 1 ( NP-1 ) is a receptor for vascular endothelial growth factor ( VEGF ) 165</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.243.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r341" t="MEMBER" e1="e909" e2="e905" re="">
+     <textspan type="extent">tyrosine kinase VEGF receptor 2</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r342" t="MEDIATE" e1="e905" e2="e911" re="e910">
+     <textspan type="extent">Neuropilin 1 ( NP-1 ) is a receptor for vascular endothelial growth factor ( VEGF ) 165 ( VEGF165 ) and acts as a coreceptor that enhances VEGF165 function through tyrosine kinase VEGF receptor 2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.243.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r343" t="ACTIVATE" e1="e900" e2="e902" re="e911">
+     <textspan type="extent">Neuropilin 1 ( NP-1 ) is a receptor for vascular endothelial growth factor ( VEGF ) 165 ( VEGF165 ) and acts as a coreceptor that enhances VEGF165 function</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.243.11"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="ACTIVATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r344" t="RELATE" e1="e900" e2="e905" re="e910">
+     <textspan type="extent">Neuropilin 1 ( NP-1 ) is a receptor for vascular endothelial growth factor ( VEGF ) 165 ( VEGF165 ) and acts as a coreceptor that enhances VEGF165 function through tyrosine kinase VEGF receptor 2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.243.10"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

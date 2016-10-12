@@ -1,0 +1,54 @@
+<rexml>
+<doc id="621">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9250" g="w9252" t="nn" cr="nn:w9252" w="NLS-less" l="NLS-less" p="N"/>
+     <dpg d="w9251" g="w9252" t="nn" cr="nn:w9252" w="S.cerevisiae" l="~" p="N"/>
+     <dpg d="w9252" g="w9253" t="s" cr="s+subj:w9253" w="proteins" l="protein" p="N"/>
+     <dpg d="w9253" g="E1" t="i" cr="" w="include" l="~" p="V"/>
+     <dpg d="E3" g="w9253" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E3" g="w9252" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w9254" g="w9253" t="punc" cr="punc:w9253" w="both" l="~" p="U"/>
+     <dpg d="w9255" g="w9253" t="obj" cr="obj:w9253" w="RAD51" l="~" p="N"/>
+     <dpg d="w9256" g="w9255" t="punc" cr="punc:w9255" w="and" l="~" p="U"/>
+     <dpg d="w9257" g="w9255" t="conj" cr="conj:w9255||subj:w9259" w="RAD52" l="~" p="N"/>
+     <dpg d="E0" g="w9257" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9258" g="E0" t="whn" cr="whn:w9259" w="that" l="~" p="THAT"/>
+     <dpg d="w9258" g="w9257" t="antecedent" cr="antecedent:w9257" w="that" l="~" p="THAT"/>
+     <dpg d="w9259" g="E0" t="i" cr="rel:w9257" w="function" l="~" p="V"/>
+     <dpg d="E4" g="w9259" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E4" g="w9257" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w9260" g="w9259" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w9261" g="w9262" t="det" cr="det:w9262" w="the" l="~" p="Det"/>
+     <dpg d="w9262" g="w9260" t="pcomp-n" cr="mod*in*n:w9259" w="recombination" l="~" p="N"/>
+     <dpg d="w9263" g="w9260" t="punc" cr="punc:w9260" w="and" l="~" p="U"/>
+     <dpg d="w9264" g="w9260" t="conj" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w9265" g="w9266" t="det" cr="det:w9266" w="the" l="~" p="Det"/>
+     <dpg d="w9266" g="w9264" t="pcomp-n" cr="mod*in*n:w9259" w="repair" l="~" p="N"/>
+     <dpg d="w9267" g="w9266" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9268" g="w9269" t="mod" cr="mod:w9269" w="double-strand" l="double-strand" p="A"/>
+     <dpg d="w9269" g="w9267" t="pcomp-n" cr="mod*of*n:w9266" w="breaks" l="break" p="N"/>
+     <dpg d="w9270" g="w9269" t="punc" cr="punc:w9269" w="as" l="~" p="U"/>
+     <dpg d="w9271" g="w9269" t="punc" cr="punc:w9269" w="well" l="~" p="U"/>
+     <dpg d="w9272" g="w9269" t="punc" cr="punc:w9269" w="as" l="~" p="U"/>
+     <dpg d="w9273" g="w9274" t="det" cr="det:w9274" w="the" l="~" p="Det"/>
+     <dpg d="w9274" g="w9269" t="conj" cr="conj:w9269" w="RAD23" l="~" p="N"/>
+     <dpg d="w9275" g="w9274" t="punc" cr="punc:w9274" w="and" l="~" p="U"/>
+     <dpg d="w9276" g="w9277" t="nn" cr="nn:w9277" w="HRR25" l="~" p="N"/>
+     <dpg d="w9277" g="w9274" t="conj" cr="conj:w9274" w="molecules" l="molecule" p="N"/>
+     <dpg d="w9278" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

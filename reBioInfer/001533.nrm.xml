@@ -1,0 +1,70 @@
+<rexml>
+<doc id="1533">
+  
+  <markup>
+   <nes>
+    <ne id="e5622" gid="g5368" t="Mutant" fr="w24198" to="w24200" nam="yes" sid="s1">
+     <textspan>yeast profilin mutants</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.1533.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5625" gid="g5371" t="Individual_protein" fr="w24198" to="w24199" nam="yes" sid="s1">
+     <textspan>yeast profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1533.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5626" gid="g5372" t="Individual_protein" fr="w24199" to="w24199" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1533.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5624" gid="g5370" t="Individual_protein" fr="w24205" to="w24205" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1533.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2152" t="BIND" e1="e5622" e2="e5624" re="e5623">
+     <textspan>yeast profilin mutants with altered poly-L-proline and actin binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1533.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

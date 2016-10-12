@@ -1,0 +1,99 @@
+<rexml>
+<doc id="518">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E4" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7150" g="E4" t="mod" cr="" w="From" l="~" p="Prep"/>
+     <dpg d="w7151" g="w7152" t="det" cr="det:w7152" w="these" l="~" p="Det"/>
+     <dpg d="w7152" g="w7150" t="pcomp-n" cr="mod*from*n:w7162" w="observations" l="observation" p="N"/>
+     <dpg d="E3" g="w7152" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7153" g="w7155" t="s" cr="s+obj:w7155" w="it" l="~" p="N"/>
+     <dpg d="w7154" g="w7155" t="be" cr="be:w7155" w="is" l="be" p="be"/>
+     <dpg d="w7155" g="E3" t="i" cr="comp1:w7152" w="concluded" l="conclude" p="V"/>
+     <dpg d="E7" g="w7155" t="obj" cr="" w="" l="it" p="N"/>
+     <dpg d="E7" g="w7153" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w7156" g="w7160" t="det" cr="det:w7160" w="that" l="~" p="Det"/>
+     <dpg d="w7157" g="w7160" t="punc" cr="punc:w7160" w="(" l="~" p="U"/>
+     <dpg d="w7158" g="w7160" t="nn" cr="nn:w7160" w="i" l="~" p="N"/>
+     <dpg d="w7159" g="w7160" t="punc" cr="punc:w7160" w=")" l="~" p="U"/>
+     <dpg d="w7160" g="w7162" t="s" cr="s+obj:w7162" w="RAD52" l="~" p="N"/>
+     <dpg d="w7161" g="w7162" t="be" cr="be:w7162" w="is" l="be" p="be"/>
+     <dpg d="w7162" g="E4" t="i" cr="UNSPECRELTYPE:E6" w="required" l="require" p="V"/>
+     <dpg d="E8" g="w7162" t="obj" cr="" w="" l="RAD52" p="N"/>
+     <dpg d="E8" g="w7160" t="antecedent" cr="" w="" l="RAD52" p="N"/>
+     <dpg d="w7163" g="w7162" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w7164" g="w7165" t="mod" cr="mod:w7165" w="high" l="~" p="A"/>
+     <dpg d="w7165" g="w7163" t="pcomp-n" cr="mod*for*n:w7162" w="levels" l="level" p="N"/>
+     <dpg d="w7166" g="w7165" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w7167" g="w7166" t="punc" cr="punc:w7166" w="both" l="~" p="U"/>
+     <dpg d="w7168" g="w7169" t="nn" cr="nn:w7169" w="gene" l="~" p="N"/>
+     <dpg d="w7169" g="w7166" t="pcomp-n" cr="mod*of*n:w7165" w="conversions" l="conversion" p="N"/>
+     <dpg d="w7170" g="w7169" t="punc" cr="punc:w7169" w="and" l="~" p="U"/>
+     <dpg d="w7171" g="w7172" t="mod" cr="mod:w7172" w="reciprocal" l="~" p="A"/>
+     <dpg d="w7172" g="w7169" t="conj" cr="conj:w7169" w="crossovers" l="crossover" p="N"/>
+     <dpg d="w7173" g="E6" t="punc" cr="punc:E6" w="," l="~" p="U"/>
+     <dpg d="w7174" g="E6" t="punc" cr="punc:E6" w="(" l="~" p="U"/>
+     <dpg d="w7175" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="ii" l="~" p="N"/>
+     <dpg d="w7176" g="E6" t="punc" cr="punc:E6" w=")" l="~" p="U"/>
+     <dpg d="E2" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7177" g="E2" t="c" cr="c:w7181" w="that" l="~" p="COMP"/>
+     <dpg d="w7178" g="w7181" t="s" cr="s+obj:w7181" w="RAD51" l="~" p="N"/>
+     <dpg d="w7179" g="w7181" t="be" cr="be:w7181" w="is" l="be" p="be"/>
+     <dpg d="w7180" g="w7179" t="neg" cr="neg:w7179" w="not" l="~" p="A"/>
+     <dpg d="w7181" g="E2" t="i" cr="UNSPECRELTYPE:E6" w="required" l="require" p="V"/>
+     <dpg d="E9" g="w7181" t="obj" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="E9" g="w7178" t="antecedent" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="w7182" g="w7181" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w7183" g="w7184" t="mod" cr="mod:w7184" w="intrachromosomal" l="~" p="A"/>
+     <dpg d="w7184" g="w7182" t="pcomp-n" cr="mod*for*n:w7181" w="crossovers" l="crossover" p="N"/>
+     <dpg d="w7185" g="w7184" t="punc" cr="punc:w7184" w="," l="~" p="U"/>
+     <dpg d="w7186" g="w7184" t="punc" cr="punc:w7184" w="and" l="~" p="U"/>
+     <dpg d="w7187" g="w7184" t="punc" cr="punc:w7184" w="(" l="~" p="U"/>
+     <dpg d="w7188" g="w7184" t="conj" cr="conj:w7184" w="iii" l="~" p="N"/>
+     <dpg d="w7189" g="E6" t="punc" cr="punc:E6" w=")" l="~" p="U"/>
+     <dpg d="E1" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7190" g="E1" t="c" cr="c:w7194" w="that" l="~" p="COMP"/>
+     <dpg d="w7191" g="w7194" t="s" cr="s+subj:w7194" w="RAD51" l="~" p="N"/>
+     <dpg d="w7192" g="w7191" t="punc" cr="punc:w7191" w="and" l="~" p="U"/>
+     <dpg d="w7193" g="w7191" t="conj" cr="conj:w7191" w="RAD52" l="~" p="N"/>
+     <dpg d="w7194" g="E1" t="i" cr="UNSPECRELTYPE:E6" w="have" l="~" p="V"/>
+     <dpg d="E10" g="w7194" t="subj" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="E10" g="w7191" t="antecedent" cr="" w="" l="RAD51" p="N"/>
+     <dpg d="w7195" g="w7196" t="mod" cr="mod:w7196" w="different" l="~" p="A"/>
+     <dpg d="w7196" g="w7194" t="obj" cr="obj:w7194" w="functions" l="function" p="N"/>
+     <dpg d="w7197" g="E1" t="punc" cr="punc:w7194" w="," l="~" p="U"/>
+     <dpg d="w7198" g="E1" t="punc" cr="punc:w7194" w="or" l="~" p="U"/>
+     <dpg d="E0" g="E1" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7199" g="E0" t="c" cr="c:w7201" w="that" l="~" p="COMP"/>
+     <dpg d="w7200" g="w7201" t="s" cr="s+subj:w7201" w="RAD52" l="~" p="N"/>
+     <dpg d="w7201" g="E0" t="i" cr="conj:w7194" w="has" l="have" p="V"/>
+     <dpg d="E11" g="w7201" t="subj" cr="" w="" l="RAD52" p="N"/>
+     <dpg d="E11" g="w7200" t="antecedent" cr="" w="" l="RAD52" p="N"/>
+     <dpg d="w7202" g="w7201" t="obj" cr="obj:w7201" w="functions" l="function" p="N"/>
+     <dpg d="w7203" g="w7202" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w7204" g="w7203" t="pcomp-n" cr="mod*in*n:w7202" w="addition" l="~" p="N"/>
+     <dpg d="w7205" g="w7204" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w7206" g="w7205" t="pcomp-n" cr="mod*to*n:w7204" w="those" l="~" p="N"/>
+     <dpg d="w7207" g="w7206" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w7208" g="w7213" t="det" cr="det:w7213" w="the" l="~" p="Det"/>
+     <dpg d="w7209" g="w7213" t="nn" cr="nn:w7213" w="Rad51" l="~" p="N"/>
+     <dpg d="w7210" g="w7213" t="nn" cr="nn:w7213" w="/" l="~" p="N"/>
+     <dpg d="w7211" g="w7213" t="nn" cr="nn:w7213" w="Rad52" l="~" p="N"/>
+     <dpg d="w7212" g="w7213" t="nn" cr="nn:w7213" w="protein" l="~" p="N"/>
+     <dpg d="w7213" g="w7207" t="pcomp-n" cr="mod*of*n:w7206" w="complex" l="~" p="N"/>
+     <dpg d="w7214" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

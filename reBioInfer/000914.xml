@@ -1,0 +1,81 @@
+<rexml>
+<doc id="914">
+  <text>
+<p><s id="s1"><w id="w14225">It</w> <w id="w14226">is</w> <w id="w14227">estimated</w> <w id="w14228">that</w> <w id="w14229">at</w> <w id="w14230">optimal</w> <w id="w14231">levels</w> <w id="w14232">of</w> <w id="w14233">transcription</w> <w id="w14234">,</w> <w id="w14235">every</w> <w id="w14236">molecule</w> <w id="w14237">of</w> <w id="w14238">viral</w> <w id="w14239">genomic</w> <w id="w14240">RNA</w> <w id="w14241">associates</w> <w id="w14242">with</w> <w id="w14243">approximately</w> <w id="w14244">the</w> <w id="w14245">following</w> <w id="w14246">number</w> <w id="w14247">of</w> <w id="w14248">protein</w> <w id="w14249">molecules</w> <w id="w14250">:</w> <w id="w14251">30</w> <w id="w14252">molecules</w> <w id="w14253">of</w> <w id="w14254">L</w> <w id="w14255">,</w> <w id="w14256">120</w> <w id="w14257">molecules</w> <w id="w14258">of</w> <w id="w14259">phosphoprotein</w> <w id="w14260">P</w> <w id="w14261">,</w> <w id="w14262">and</w> <w id="w14263">60</w> <w id="w14264">molecules</w> <w id="w14265">each</w> <w id="w14266">of</w> <w id="w14267">actin</w> <w id="w14268">and</w> <w id="w14269">profilin</w> <w id="w14270">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3242" gid="g3111" t="Gene/protein/RNA" fr="w14254" to="w14254" nam="yes">
+     <textspan type="extent">L</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.914.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3243" gid="g3112" t="Gene/protein/RNA" fr="w14267" to="w14267" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.914.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3244" gid="g3113" t="Individual_protein" fr="w14259" to="w14259" nam="yes">
+     <textspan type="extent">phosphoprotein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.914.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3245" gid="g3114" t="Individual_protein" fr="w14260" to="w14260" nam="yes">
+     <textspan type="extent">P</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.914.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3246" gid="g3115" t="Gene/protein/RNA" fr="w14269" to="w14269" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.914.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1242" t="MEMBER" e1="e3244" e2="e3245" re="">
+     <textspan type="extent">phosphoprotein P</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

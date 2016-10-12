@@ -1,0 +1,85 @@
+<rexml>
+<doc id="399">
+  <text>
+<p><s id="s1"><w id="w5864">Dispersal</w> <w id="w5865">of</w> <w id="w5866">profilin</w> <w id="w5867">from</w> <w id="w5868">such</w> <w id="w5869">sites</w> <w id="w5870">by</w> <w id="w5871">oligoproline-rich</w> <w id="w5872">peptide</w> <w id="w5873">inhibitors</w> <w id="w5874">suggests</w> <w id="w5875">that</w> <w id="w5876">profilin</w> <w id="w5877">is</w> <w id="w5878">directly</w> <w id="w5879">involved</w> <w id="w5880">in</w> <w id="w5881">intracellular</w> <w id="w5882">pathogen</w> <w id="w5883">locomotion</w> <w id="w5884">and</w> <w id="w5885">reorganization</w> <w id="w5886">of</w> <w id="w5887">actin</w> <w id="w5888">cytoskeleton</w> <w id="w5889">of</w> <w id="w5890">the</w> <w id="w5891">host</w> <w id="w5892">cell</w> <w id="w5893">peripheral</w> <w id="w5894">membrane</w> <w id="w5895">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1423" gid="g1357" t="Gene/protein/RNA" fr="w5866" to="w5866" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.399.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1424" gid="g1358" t="RELATIONSHIP_TEXTBINDING" fr="w5879" to="w5880">
+     <textspan type="extent">involved in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.399.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1425" gid="g1359" t="MODIFICATION" fr="w5885" to="w5888">
+     <textspan type="extent">reorganization of actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.399.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1426" gid="g1360" t="Individual_protein" fr="w5876" to="w5876" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.399.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1427" gid="g1361" t="Cell_component" fr="w5887" to="w5888" nam="yes">
+     <textspan type="extent">actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.399.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1428" gid="g1362" t="Individual_protein" fr="w5887" to="w5887" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.399.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r559" t="PARTICIPATE" e1="e1426" e2="e1425" re="e1424">
+     <textspan type="extent">profilin is directly involved in intracellular pathogen locomotion and reorganization of actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.399.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

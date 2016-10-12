@@ -1,0 +1,48 @@
+<rexml>
+<doc id="1590">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25227" g="w25228" t="det" cr="det:w25228" w="The" l="~" p="Det"/>
+     <dpg d="w25228" g="w25229" t="s" cr="s+subj:w25229" w="polypeptide" l="~" p="N"/>
+     <dpg d="w25229" g="E1" t="i" cr="" w="folds" l="fold" p="V"/>
+     <dpg d="E3" g="w25229" t="subj" cr="" w="" l="polypeptide" p="N"/>
+     <dpg d="E3" g="w25228" t="antecedent" cr="" w="" l="polypeptide" p="N"/>
+     <dpg d="w25230" g="E1" t="punc" cr="punc:w25229" w="and" l="~" p="U"/>
+     <dpg d="E0" g="E1" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25231" g="w25235" t="det" cr="det:w25235" w="the" l="~" p="Det"/>
+     <dpg d="w25232" g="w25234" t="lex-mod" cr="lex-mod:w25234" w="actin" l="~" p="U"/>
+     <dpg d="w25233" g="w25234" t="lex-mod" cr="lex-mod:w25234" w="-" l="~" p="U"/>
+     <dpg d="w25234" g="w25235" t="mod" cr="mod:w25235" w="binding" l="actin - binding" p="A"/>
+     <dpg d="w25235" g="w25240" t="s" cr="s:w25240||subj:w25242" w="surfaces" l="surface" p="N"/>
+     <dpg d="w25236" g="w25235" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25237" g="w25239" t="det" cr="det:w25239" w="the" l="~" p="Det"/>
+     <dpg d="w25238" g="w25239" t="nn" cr="nn:w25239" w="amoeba" l="~" p="N"/>
+     <dpg d="w25239" g="w25236" t="pcomp-n" cr="mod*of*n:w25235" w="profilins" l="~" p="N"/>
+     <dpg d="w25240" g="E0" t="i" cr="conj:w25229" w="are" l="be" p="VBE"/>
+     <dpg d="E4" g="w25242" t="subj" cr="" w="" l="surface" p="N"/>
+     <dpg d="E4" g="w25235" t="antecedent" cr="" w="" l="surface" p="N"/>
+     <dpg d="w25241" g="w25242" t="mod" cr="mod:w25242" w="very" l="~" p="A"/>
+     <dpg d="w25242" g="w25240" t="pred" cr="pred:w25240" w="similar" l="~" p="A"/>
+     <dpg d="w25243" g="w25242" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w25244" g="w25243" t="pcomp-n" cr="mod*to*n:w25242" w="those" l="~" p="N"/>
+     <dpg d="w25245" g="w25244" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25246" g="w25249" t="mod" cr="mod:w25249" w="bovine" l="~" p="A"/>
+     <dpg d="w25247" g="w25246" t="punc" cr="punc:w25246" w="and" l="~" p="U"/>
+     <dpg d="w25248" g="w25246" t="conj" cr="conj:w25246" w="human" l="~" p="A"/>
+     <dpg d="w25249" g="w25245" t="pcomp-n" cr="mod*of*n:w25244" w="profilins" l="~" p="N"/>
+     <dpg d="w25250" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

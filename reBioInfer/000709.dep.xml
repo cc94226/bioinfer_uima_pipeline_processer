@@ -1,0 +1,50 @@
+<rexml>
+<doc id="709">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10884" g="E0" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w10885" g="w10884" t="pcomp-n" cr="mod*in*n:w10896" w="addition" l="~" p="N"/>
+     <dpg d="w10886" g="w10885" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w10887" g="w10888" t="gen" cr="gen:w10888" w="its" l="~" p="N"/>
+     <dpg d="w10888" g="w10886" t="pcomp-n" cr="mod*to*n:w10885" w="presence" l="~" p="N"/>
+     <dpg d="w10889" g="w10888" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w10890" g="w10892" t="mod" cr="mod:w10892" w="cell-cell" l="cell-cell" p="A"/>
+     <dpg d="w10891" g="w10892" t="nn" cr="nn:w10892" w="adhesion" l="~" p="N"/>
+     <dpg d="w10892" g="w10889" t="pcomp-n" cr="mod*in*n:w10888" w="sites" l="site" p="N"/>
+     <dpg d="w10893" g="E0" t="punc" cr="punc:w10896" w="," l="~" p="U"/>
+     <dpg d="w10894" g="w10896" t="s" cr="s+subj:w10896" w="we" l="~" p="N"/>
+     <dpg d="w10895" g="w10896" t="have" cr="have:w10896" w="have" l="~" p="have"/>
+     <dpg d="w10896" g="E0" t="i" cr="" w="found" l="~" p="V"/>
+     <dpg d="E2" g="w10896" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E2" g="w10894" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w10897" g="w10896" t="obj" cr="obj:w10896" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w10898" g="w10897" t="punc" cr="punc:w10897" w="," l="~" p="U"/>
+     <dpg d="w10899" g="w10897" t="punc" cr="punc:w10897" w="but" l="~" p="U"/>
+     <dpg d="w10900" g="w10897" t="punc" cr="punc:w10897" w="not" l="~" p="U"/>
+     <dpg d="w10901" g="w10897" t="conj" cr="conj:w10897" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w10902" g="w10896" t="punc" cr="punc:w10896" w="," l="~" p="U"/>
+     <dpg d="w10903" g="w10896" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w10904" g="w10905" t="det" cr="det:w10905" w="the" l="~" p="Det"/>
+     <dpg d="w10905" g="w10903" t="pcomp-n" cr="mod*in*n:w10896" w="Z-discs" l="Z-discs" p="N"/>
+     <dpg d="w10906" g="w10905" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w10907" g="w10906" t="pcomp-n" cr="mod*of*n:w10905" w="heart" l="~" p="N"/>
+     <dpg d="w10908" g="w10907" t="punc" cr="punc:w10907" w="and" l="~" p="U"/>
+     <dpg d="w10909" g="w10911" t="mod" cr="mod:w10911" w="skeletal" l="~" p="A"/>
+     <dpg d="w10910" g="w10911" t="lex-mod" cr="lex-mod:w10911" w="striated" l="~" p="U"/>
+     <dpg d="w10911" g="w10907" t="conj" cr="conj:w10907" w="muscles" l="striated muscle" p="N"/>
+     <dpg d="w10912" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,270 @@
+<rexml>
+<doc id="1850">
+  <text>
+<p><s id="s1"><w id="w29656">beta-catenin</w> <w id="w29657">or</w> <w id="w29658">plakoglobin</w> <w id="w29659">is</w> <w id="w29660">associated</w> <w id="w29661">directly</w> <w id="w29662">with</w> <w id="w29663">the</w> <w id="w29664">cadherin</w> <w id="w29665">;</w> <w id="w29666">alpha-catenin</w> <w id="w29667">binds</w> <w id="w29668">to</w> <w id="w29669">beta-catenin</w><w id="w29670">/</w><w id="w29671">plakoglobin</w> <w id="w29672">and</w> <w id="w29673">serves</w> <w id="w29674">to</w> <w id="w29675">link</w> <w id="w29676">the</w> <w id="w29677">cadherin</w><w id="w29678">/</w><w id="w29679">catenin</w> <w id="w29680">complex</w> <w id="w29681">to</w> <w id="w29682">the</w> <w id="w29683">actin</w> <w id="w29684">cytoskeleton</w> <w id="w29685">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6862" gid="g6548" t="Individual_protein" fr="w29656" to="w29656" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1850.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6863" gid="g6549" t="RELATIONSHIP_TEXTBINDING" fr="w29660" to="w29662">
+     <textspan type="extent">associated [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1850.1"/>
+      <exattr n="nst" v="st.1850.4.0"/>
+      <exattr n="nst" v="st.1850.6.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6864" gid="g6550" t="Individual_protein" fr="w29664" to="w29664" nam="yes">
+     <textspan type="extent">cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1850.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6865" gid="g6551" t="Individual_protein" fr="w29658" to="w29658" nam="yes">
+     <textspan type="extent">plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1850.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6866" gid="g6552" t="Individual_protein" fr="w29669" to="w29669" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1850.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6867" gid="g6553" t="Individual_protein" fr="w29666" to="w29666" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1850.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6868" gid="g6554" t="Individual_protein" fr="w29679" to="w29679" nam="yes">
+     <textspan type="extent">catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1850.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e6869" gid="g6555" t="Individual_protein" fr="w29677" to="w29677" nam="yes">
+     <textspan type="extent">cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1850.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6870" gid="g6556" t="Individual_protein" fr="w29671" to="w29671" nam="yes">
+     <textspan type="extent">plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1850.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6871" gid="g6557" t="Cell_component" fr="w29683" to="w29684" nam="yes">
+     <textspan type="extent">actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1850.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6872" gid="g6558" t="Protein_complex" fr="w29677" to="w29680" nam="yes">
+     <textspan type="extent">cadherin/catenin complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1850.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e6873" gid="g6559" t="RELATIONSHIP_TEXTBINDING" fr="w29675" to="w29675">
+     <textspan type="extent">link</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1850.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e6874" gid="g6560" t="RELATIONSHIP_TEXTBINDING" fr="w29667" to="w29668">
+     <textspan type="extent">binds to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1850.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e6875" gid="g6561" t="Individual_protein" fr="w29683" to="w29683" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1850.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e6876" gid="g6562" t="RELATIONSHIP_TEXTBINDING" fr="w29675" to="w29681">
+     <textspan type="extent">link [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1850.14"/>
+      <exattr n="nst" v="st.1850.17.0"/>
+      <exattr n="nst" v="st.1850.21.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6877" gid="g6563" t="RELATIONSHIP_TEXTBINDING" fr="w29680" to="w29680">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1850.15"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2632" t="BIND" e1="e6862" e2="e6864" re="e6863">
+     <textspan type="extent">beta-catenin or plakoglobin is associated directly with the cadherin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1850.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2633" t="BIND" e1="e6865" e2="e6864" re="e6863">
+     <textspan type="extent">plakoglobin is associated directly with the cadherin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1850.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2634" t="BIND" e1="e6867" e2="e6866" re="e6874">
+     <textspan type="extent">alpha-catenin binds to beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1850.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2635" t="BIND" e1="e6867" e2="e6870" re="e6874">
+     <textspan type="extent">alpha-catenin binds to beta-catenin / plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1850.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2636" t="CONTAIN" e1="e6872" e2="e6869" re="e6877">
+     <textspan type="extent">cadherin / catenin complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1850.15"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2637" t="CONTAIN" e1="e6872" e2="e6868" re="e6877">
+     <textspan type="extent">cadherin / catenin complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1850.15"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2638" t="CAUSE" e1="e6867" e2="e6876" re="e6873">
+     <textspan type="extent">alpha-catenin binds to beta-catenin / plakoglobin and serves to link the cadherin / catenin complex to the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1850.11"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2639" t="RELATE" e1="e6872" e2="e6871" re="e6876">
+     <textspan type="extent">link the cadherin / catenin complex to the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1850.14"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

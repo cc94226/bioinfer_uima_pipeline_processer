@@ -1,0 +1,43 @@
+<rexml>
+<doc id="769">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w11997" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="Inhibition" l="~" p="N"/>
+     <dpg d="w11998" g="w11997" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11999" g="w12000" t="nn" cr="nn:w12000" w="actomyosin" l="~" p="N"/>
+     <dpg d="w12000" g="w11998" t="pcomp-n" cr="mod*of*n:w11997" w="subfragment" l="~" p="N"/>
+     <dpg d="w12001" g="w12000" t="num" cr="num:w12000" w="1" l="~" p="N"/>
+     <dpg d="w12002" g="w12003" t="nn" cr="nn:w12003" w="ATPase" l="~" p="N"/>
+     <dpg d="w12003" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="activity" l="~" p="N"/>
+     <dpg d="w12004" g="w12003" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w12005" g="w12006" t="nn" cr="nn:w12006" w="analog" l="~" p="N"/>
+     <dpg d="w12006" g="w12004" t="pcomp-n" cr="mod*by*n:w12003" w="peptides" l="peptide" p="N"/>
+     <dpg d="w12007" g="w12006" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12008" g="w12012" t="det" cr="det:w12012" w="the" l="~" p="Det"/>
+     <dpg d="w12009" g="w12011" t="lex-mod" cr="lex-mod:w12011" w="actin" l="~" p="U"/>
+     <dpg d="w12010" g="w12011" t="lex-mod" cr="lex-mod:w12011" w="-" l="~" p="U"/>
+     <dpg d="w12011" g="w12012" t="mod" cr="mod:w12012" w="binding" l="actin - binding" p="A"/>
+     <dpg d="w12012" g="w12007" t="pcomp-n" cr="mod*of*n:w12006" w="site" l="~" p="N"/>
+     <dpg d="w12013" g="w12012" t="mod" cr="" w="around" l="~" p="Prep"/>
+     <dpg d="w12014" g="w12015" t="det" cr="det:w12015" w="the" l="~" p="Det"/>
+     <dpg d="w12015" g="w12013" t="pcomp-n" cr="mod*around*n:w12012" w="Cys(SH1)" l="~" p="N"/>
+     <dpg d="w12016" g="w12015" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12017" g="w12019" t="nn" cr="nn:w12019" w="myosin" l="~" p="N"/>
+     <dpg d="w12018" g="w12019" t="mod" cr="mod:w12019" w="heavy" l="~" p="A"/>
+     <dpg d="w12019" g="w12016" t="pcomp-n" cr="mod*of*n:w12015" w="chain" l="~" p="N"/>
+     <dpg d="w12020" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

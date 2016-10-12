@@ -1,0 +1,110 @@
+<rexml>
+<doc id="1557">
+  <text>
+<p><s id="s1"><w id="w24630">The</w> <w id="w24631">monomeric</w> <w id="w24632">actin-binding</w> <w id="w24633">protein</w> <w id="w24634">,</w> <w id="w24635">profilin</w> <w id="w24636">,</w> <w id="w24637">is</w> <w id="w24638">a</w> <w id="w24639">key</w> <w id="w24640">regulator</w> <w id="w24641">of</w> <w id="w24642">actin</w><w id="w24643">-filament</w> <w id="w24644">dynamics</w> <w id="w24645">in</w> <w id="w24646">animal</w> <w id="w24647">cells</w> <w id="w24648">and</w> <w id="w24649">it</w> <w id="w24650">has</w> <w id="w24651">recently</w> <w id="w24652">been</w> <w id="w24653">identified</w> <w id="w24654">in</w> <w id="w24655">plants</w> <w id="w24656">as</w> <w id="w24657">a</w> <w id="w24658">pollen</w> <w id="w24659">allergen</w> <w id="w24660">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5706" gid="g5445" t="Protein_family_or_group" fr="w24632" to="w24633" nam="yes">
+     <textspan type="extent">actin-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1557.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5707" gid="g5446" t="Dynamics_property" fr="w24642" to="w24644">
+     <textspan type="extent">actin-filament dynamics</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.1557.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5708" gid="g5447" t="RELATIONSHIP_TEXTBINDING" fr="w24640" to="w24641">
+     <textspan type="extent">regulator of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1557.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5709" gid="g5448" t="Cell_component" fr="w24642" to="w24643" nam="yes">
+     <textspan type="extent">actin-filament</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1557.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5710" gid="g5449" t="Individual_protein" fr="w24635" to="w24635" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1557.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5711" gid="g5450" t="Individual_protein" fr="w24642" to="w24642" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1557.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5712" gid="g5451" t="Individual_protein" fr="w24642" to="w24642" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1557.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2190" t="MEMBER" e1="e5706" e2="e5710" re="">
+     <textspan type="extent">actin-binding protein , profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2191" t="CONTROL" e1="e5710" e2="e5707" re="e5708">
+     <textspan type="extent">profilin , is a key regulator of actin -filament dynamics</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1557.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

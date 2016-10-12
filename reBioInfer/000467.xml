@@ -1,0 +1,290 @@
+<rexml>
+<doc id="467">
+  <text>
+<p><s id="s1"><w id="w6628">Expression</w> <w id="w6629">of</w> <w id="w6630">c-Myc</w> <w id="w6631">or</w> <w id="w6632">cyclin</w> <w id="w6633">D1</w> <w id="w6634">was</w> <w id="w6635">sufficient</w> <w id="w6636">to</w> <w id="w6637">activate</w> <w id="w6638">cyclin</w> <w id="w6639">E</w><w id="w6640">-</w><w id="w6641">Cdk2</w> <w id="w6642">by</w> <w id="w6643">promoting</w> <w id="w6644">the</w> <w id="w6645">formation</w> <w id="w6646">of</w> <w id="w6647">high-molecular-weight</w> <w id="w6648">complexes</w> <w id="w6649">lacking</w> <w id="w6650">the</w> <w id="w6651">cyclin-dependent</w> <w id="w6652">kinase</w> <w id="w6653">inhibitor</w> <w id="w6654">p21</w> <w id="w6655">,</w> <w id="w6656">as</w> <w id="w6657">has</w> <w id="w6658">been</w> <w id="w6659">described</w> <w id="w6660">,</w> <w id="w6661">following</w> <w id="w6662">estrogen</w> <w id="w6663">treatment</w> <w id="w6664">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1597" gid="g1527" t="Expression" fr="w6628" to="w6630">
+     <textspan type="extent">Expression of c-Myc</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.467.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1598" gid="g1528" t="RELATIONSHIP_TEXTBINDING" fr="w6637" to="w6637">
+     <textspan type="extent">activate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.467.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1599" gid="g1529" t="Individual_protein" fr="w6638" to="w6639" nam="yes">
+     <textspan type="extent">cyclin E</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.467.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1600" gid="g1530" t="RELATIONSHIP_TEXTBINDING" fr="w6637" to="w6642">
+     <textspan type="extent">activate [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.467.3"/>
+      <exattr n="nst" v="st.467.9.0"/>
+      <exattr n="nst" v="st.467.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1601" gid="g1531" t="Individual_protein" fr="w6641" to="w6641" nam="yes">
+     <textspan type="extent">Cdk2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.467.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1602" gid="g1532" t="RELATIONSHIP_TEXTBINDING" fr="w6648" to="w6648">
+     <textspan type="extent">complexes</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.467.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1603" gid="g1533" t="Individual_protein" fr="w6654" to="w6654" nam="yes">
+     <textspan type="extent">p21</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.467.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1604" gid="g1534" t="Protein_complex" fr="w6638" to="w6641" nam="yes">
+     <textspan type="extent">cyclin E-Cdk2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.467.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1605" gid="g1535" t="ASSEMBLY" fr="w6645" to="w6648">
+     <textspan type="extent">formation of [..] complexes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.467.8"/>
+      <exattr n="nst" v="st.467.15.0"/>
+      <exattr n="nst" v="st.467.16.0"/>
+      <exattr n="nst" v="st.467.18.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1606" gid="g1536" t="Protein_complex" fr="w6648" to="w6648" nam="yes">
+     <textspan type="extent">complexes</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.467.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e1607" gid="g1537" t="RELATIONSHIP_TEXTBINDING" fr="w6642" to="w6643">
+     <textspan type="extent">by promoting</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.467.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e1608" gid="g1538" t="Individual_protein" fr="w6630" to="w6630" nam="yes">
+     <textspan type="extent">c-Myc</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.467.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e1609" gid="g1539" t="Expression" fr="w6628" to="w6633">
+     <textspan type="extent">Expression of [..] cyclin D1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.467.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e1610" gid="g1540" t="Individual_protein" fr="w6632" to="w6633" nam="yes">
+     <textspan type="extent">cyclin D1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.467.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e1611" gid="g1541" t="RELATIONSHIP_TEXTBINDING" fr="w6649" to="w6649">
+     <textspan type="extent">lacking</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.467.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e1612" gid="g1542" t="Protein_family_or_group" fr="w6651" to="w6653" nam="yes">
+     <textspan type="extent">cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.467.15"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r626" t="CONTAIN" e1="e1604" e2="e1599" re="">
+     <textspan type="extent">cyclin E - Cdk2</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r627" t="CONTAIN" e1="e1604" e2="e1601" re="">
+     <textspan type="extent">cyclin E - Cdk2</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r628" t="ACTIVATE" e1="e1597" e2="e1604" re="e1598">
+     <textspan type="extent">Expression of c-Myc or cyclin D1 was sufficient to activate cyclin E - Cdk2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.467.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="ACTIVATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r629" t="ACTIVATE" e1="e1609" e2="e1604" re="e1598">
+     <textspan type="extent">Expression of c-Myc or cyclin D1 was sufficient to activate cyclin E - Cdk2</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.467.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="ACTIVATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r630" t="ACTIVATE" e1="e1607" e2="e1604" re="e1600">
+     <textspan type="extent">Expression of c-Myc or cyclin D1 was sufficient to activate cyclin E - Cdk2 by promoting the formation of high-molecular-weight complexes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.467.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="ACTIVATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r631" t="STIMULATE" e1="e1597" e2="e1605" re="e1607">
+     <textspan type="extent">Expression of c-Myc or cyclin D1 was sufficient to activate cyclin E - Cdk2 by promoting the formation of high-molecular-weight complexes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.467.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r632" t="ACTIVATE" e1="e1607" e2="e1604" re="e1600">
+     <textspan type="extent">Expression of c-Myc or cyclin D1 was sufficient to activate cyclin E - Cdk2 by promoting the formation of high-molecular-weight complexes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.467.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="ACTIVATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r633" t="STIMULATE" e1="e1609" e2="e1605" re="e1607">
+     <textspan type="extent">Expression of c-Myc or cyclin D1 was sufficient to activate cyclin E - Cdk2 by promoting the formation of high-molecular-weight complexes</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.467.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r634" t="MEMBER" e1="e1612" e2="e1603" re="">
+     <textspan type="extent">cyclin-dependent kinase inhibitor p21</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r636" t="CONTAIN" e1="e1606" e2="e1603" re="e1602">
+     <textspan type="extent">complexes lacking the cyclin-dependent kinase inhibitor p21</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.467.5"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

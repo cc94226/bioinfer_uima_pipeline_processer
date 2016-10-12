@@ -1,0 +1,93 @@
+<rexml>
+<doc id="229">
+  <text>
+<p><s id="s1"><w id="w3432">Biochemical</w> <w id="w3433">analyses</w> <w id="w3434">revealed</w> <w id="w3435">a</w> <w id="w3436">strong</w> <w id="w3437">induction</w> <w id="w3438">of</w> <w id="w3439">VEGF-receptor-2</w> <w id="w3440">(</w> <w id="w3441">flk-1</w><w id="w3442">/</w><w id="w3443">KDR</w> <w id="w3444">)</w> <w id="w3445">tyrosine-autophosphorylation</w> <w id="w3446">by</w> <w id="w3447">VEGF</w> <w id="w3448">which</w> <w id="w3449">was</w> <w id="w3450">maximal</w> <w id="w3451">after</w> <w id="w3452">5</w> <w id="w3453">minutes</w> <w id="w3454">and</w> <w id="w3455">was</w> <w id="w3456">followed</w> <w id="w3457">by</w> <w id="w3458">receptor</w> <w id="w3459">downregulation</w> <w id="w3460">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e823" gid="g795" t="RELATIONSHIP_TEXTBINDING" fr="w3437" to="w3446">
+     <textspan type="extent">induction of [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.229.0"/>
+      <exattr n="nst" v="st.229.5.0"/>
+      <exattr n="nst" v="st.229.6.0"/>
+      <exattr n="nst" v="st.229.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e824" gid="g796" t="Individual_protein" fr="w3439" to="w3439" nam="yes">
+     <textspan type="extent">VEGF-receptor-2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.229.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e825" gid="g796" t="Individual_protein" fr="w3441" to="w3441" nam="yes">
+     <textspan type="extent">flk-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.229.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e826" gid="g797" t="RELATIONSHIP_TEXTBINDING" fr="w3445" to="w3445">
+     <textspan type="extent">tyrosine-autophosphorylation</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.229.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e827" gid="g796" t="Individual_protein" fr="w3443" to="w3443" nam="yes">
+     <textspan type="extent">KDR</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.229.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e828" gid="g798" t="Individual_protein" fr="w3447" to="w3447" nam="yes">
+     <textspan type="extent">VEGF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.229.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r311" t="INITIATE" e1="e828" e2="e826" re="e823">
+     <textspan type="extent">induction of VEGF-receptor-2 ( flk-1 / KDR ) tyrosine-autophosphorylation by VEGF</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.229.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

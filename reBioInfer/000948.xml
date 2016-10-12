@@ -1,0 +1,68 @@
+<rexml>
+<doc id="948">
+  <text>
+<p><s id="s1"><w id="w14701">LOH</w> <w id="w14702">was</w> <w id="w14703">found</w> <w id="w14704">in</w> <w id="w14705">the</w> <w id="w14706">RAD51</w> <w id="w14707">region</w> <w id="w14708">in</w> <w id="w14709">32</w> <w id="w14710">%</w> <w id="w14711">of</w> <w id="w14712">tumours</w> <w id="w14713">,</w> <w id="w14714">in</w> <w id="w14715">the</w> <w id="w14716">RAD52</w> <w id="w14717">region</w> <w id="w14718">in</w> <w id="w14719">16</w> <w id="w14720">%</w> <w id="w14721">,</w> <w id="w14722">in</w> <w id="w14723">RAD54</w> <w id="w14724">in</w> <w id="w14725">20</w> <w id="w14726">%</w> <w id="w14727">and</w> <w id="w14728">in</w> <w id="w14729">the</w> <w id="w14730">BRCA1</w> <w id="w14731">and</w> <w id="w14732">BRCA2</w> <w id="w14733">regions</w> <w id="w14734">in</w> <w id="w14735">49</w> <w id="w14736">%</w> <w id="w14737">and</w> <w id="w14738">44</w> <w id="w14739">%</w> <w id="w14740">respectively</w> <w id="w14741">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3351" gid="g3216" t="Gene/protein/RNA" fr="w14706" to="w14706" nam="yes">
+     <textspan type="extent">RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.948.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3352" gid="g3217" t="Gene/protein/RNA" fr="w14723" to="w14723" nam="yes">
+     <textspan type="extent">RAD54</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.948.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3353" gid="g3218" t="Gene/protein/RNA" fr="w14716" to="w14716" nam="yes">
+     <textspan type="extent">RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.948.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3354" gid="g3219" t="Gene/protein/RNA" fr="w14732" to="w14732" nam="yes">
+     <textspan type="extent">BRCA2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.948.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3355" gid="g3220" t="Gene/protein/RNA" fr="w14730" to="w14730" nam="yes">
+     <textspan type="extent">BRCA1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.948.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

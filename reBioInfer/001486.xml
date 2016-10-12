@@ -1,0 +1,370 @@
+<rexml>
+<doc id="1486">
+  <text>
+<p><s id="s1"><w id="w23238">The</w> <w id="w23239">findings</w> <w id="w23240">suggest</w> <w id="w23241">that</w> <w id="w23242">M1</w> <w id="w23243">muscarinic</w> <w id="w23244">receptors</w> <w id="w23245">are</w> <w id="w23246">involved</w> <w id="w23247">in</w> <w id="w23248">muscarinic</w> <w id="w23249">receptor</w><w id="w23250">-</w><w id="w23251">mediated</w> <w id="w23252">enhancement</w> <w id="w23253">of</w> <w id="w23254">IL-2</w> <w id="w23255">production</w> <w id="w23256">in</w> <w id="w23257">Jurkat</w> <w id="w23258">cells</w> <w id="w23259">and</w> <w id="w23260">that</w> <w id="w23261">the</w> <w id="w23262">transcription</w> <w id="w23263">factor</w> <w id="w23264">AP-1</w> <w id="w23265">and</w> <w id="w23266">pathways</w> <w id="w23267">via</w> <w id="w23268">mitogen-activated</w> <w id="w23269">protein</w> <w id="w23270">kinase</w> <w id="w23271">(</w><w id="w23272">MAPK</w><w id="w23273">)/</w><w id="w23274">extracellular</w> <w id="w23275">signal</w> <w id="w23276">regulated</w> <w id="w23277">protein</w> <w id="w23278">kinase</w> <w id="w23279">and</w> <w id="w23280">c-Jun</w> <w id="w23281">N-terminal</w> <w id="w23282">kinase</w> <w id="w23283">,</w> <w id="w23284">but</w> <w id="w23285">not</w> <w id="w23286">via</w> <w id="w23287">p38</w> <w id="w23288">MAPK</w> <w id="w23289">,</w> <w id="w23290">may</w> <w id="w23291">be</w> <w id="w23292">involved</w> <w id="w23293">in</w> <w id="w23294">the</w> <w id="w23295">muscarinic</w> <w id="w23296">receptor</w><w id="w23297">-</w><w id="w23298">mediated</w> <w id="w23299">enhancement</w> <w id="w23300">of</w> <w id="w23301">IL-2</w> <w id="w23302">production</w> <w id="w23303">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5372" gid="g5127" t="Individual_protein" fr="w23254" to="w23254" nam="yes">
+     <textspan type="extent">IL-2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1486.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5373" gid="g5128" t="Individual_protein" fr="w23301" to="w23301" nam="yes">
+     <textspan type="extent">IL-2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1486.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5374" gid="g5129" t="RELATIONSHIP_TEXTBINDING" fr="w23246" to="w23247">
+     <textspan type="extent">involved in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1486.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5375" gid="g5130" t="RELATIONSHIP_TEXTBINDING" fr="w23298" to="w23298">
+     <textspan type="extent">mediated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1486.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5376" gid="g5131" t="RELATIONSHIP_TEXTBINDING" fr="w23251" to="w23251">
+     <textspan type="extent">mediated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1486.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5377" gid="g5132" t="RELATIONSHIP_TEXTBINDING" fr="w23285" to="w23285">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1486.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5378" gid="g5133" t="Individual_protein" fr="w23264" to="w23264" nam="yes">
+     <textspan type="extent">AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1486.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5379" gid="g5134" t="RELATIONSHIP_TEXTBINDING" fr="w23292" to="w23293">
+     <textspan type="extent">involved in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1486.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5380" gid="g5135" t="Individual_protein" fr="w23280" to="w23282" nam="yes">
+     <textspan type="extent">c-Jun N-terminal kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1486.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e5381" gid="g5136" t="STIMULATION" fr="w23252" to="w23255">
+     <textspan type="extent">enhancement of IL-2 production</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="STIMULATION"/>
+      <exattr n="bd" v="e.1486.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e5382" gid="g5137" t="Process_entity" fr="w23266" to="w23270">
+     <textspan type="extent">pathways via mitogen-activated protein kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.1486.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e5383" gid="g5138" t="Protein_family_or_group" fr="w23243" to="w23244" nam="yes">
+     <textspan type="extent">muscarinic receptors</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1486.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e5384" gid="g5139" t="Process_entity" fr="w23266" to="w23287">
+     <textspan type="extent">pathways [..] via p38</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.1486.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e5385" gid="g5140" t="Individual_protein" fr="w23274" to="w23278" nam="yes">
+     <textspan type="extent">extracellular signal regulated protein kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1486.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e5386" gid="g5141" t="Individual_protein" fr="w23272" to="w23272" nam="yes">
+     <textspan type="extent">MAPK</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1486.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e5387" gid="g5142" t="STIMULATION" fr="w23299" to="w23302">
+     <textspan type="extent">enhancement of IL-2 production</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="STIMULATION"/>
+      <exattr n="bd" v="e.1486.15"/>
+     </exattrs>
+    </ne>
+    <ne id="e5388" gid="g5143" t="Expression" fr="w23301" to="w23302">
+     <textspan type="extent">IL-2 production</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.1486.16"/>
+     </exattrs>
+    </ne>
+    <ne id="e5389" gid="g5144" t="Expression" fr="w23254" to="w23255">
+     <textspan type="extent">IL-2 production</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.1486.17"/>
+     </exattrs>
+    </ne>
+    <ne id="e5390" gid="g5145" t="Individual_protein" fr="w23242" to="w23242" nam="yes">
+     <textspan type="extent">M1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1486.18"/>
+     </exattrs>
+    </ne>
+    <ne id="e5391" gid="g5146" t="Individual_protein" fr="w23295" to="w23296" nam="yes">
+     <textspan type="extent">muscarinic receptor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1486.19"/>
+     </exattrs>
+    </ne>
+    <ne id="e5392" gid="g5147" t="Individual_protein" fr="w23248" to="w23249" nam="yes">
+     <textspan type="extent">muscarinic receptor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1486.20"/>
+     </exattrs>
+    </ne>
+    <ne id="e5393" gid="g5148" t="Protein_family_or_group" fr="w23288" to="w23288" nam="yes">
+     <textspan type="extent">MAPK</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1486.21"/>
+     </exattrs>
+    </ne>
+    <ne id="e5394" gid="g5149" t="Individual_protein" fr="w23263" to="w23264" nam="yes">
+     <textspan type="extent">factor AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1486.22"/>
+     </exattrs>
+    </ne>
+    <ne id="e5395" gid="g5150" t="Individual_protein" fr="w23287" to="w23287" nam="yes">
+     <textspan type="extent">p38</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1486.23"/>
+     </exattrs>
+    </ne>
+    <ne id="e5396" gid="g5140" t="Individual_protein" fr="w23268" to="w23270" nam="yes">
+     <textspan type="extent">mitogen-activated protein kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1486.24"/>
+     </exattrs>
+    </ne>
+    <ne id="e5397" gid="g5151" t="Process_entity" fr="w23266" to="w23282">
+     <textspan type="extent">pathways via [..] c-Jun N-terminal kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.1486.25"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2071" t="MEMBER" e1="e5383" e2="e5390" re="">
+     <textspan type="extent">M1 muscarinic receptors</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2072" t="MEDIATE" e1="e5392" e2="e5381" re="e5376">
+     <textspan type="extent">muscarinic receptor - mediated enhancement of IL-2 production</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1486.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2073" t="PARTICIPATE" e1="e5390" e2="e5381" re="e5374">
+     <textspan type="extent">M1 muscarinic receptors are involved in muscarinic receptor - mediated enhancement of IL-2 production</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1486.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2076" t="MEMBER" e1="e5393" e2="e5395" re="">
+     <textspan type="extent">p38 MAPK</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2077" t="MEDIATE" e1="e5391" e2="e5387" re="e5375">
+     <textspan type="extent">muscarinic receptor - mediated enhancement of IL-2 production</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1486.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="MEDIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2078" t="PARTICIPATE" e1="e5394" e2="e5387" re="e5379">
+     <textspan type="extent">factor AP-1 and pathways via mitogen-activated protein kinase ( MAPK )/ extracellular signal regulated protein kinase and c-Jun N-terminal kinase , but not via p38 MAPK , may be involved in the muscarinic receptor - mediated enhancement of IL-2 production</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1486.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2079" t="PARTICIPATE" e1="e5382" e2="e5387" re="e5379">
+     <textspan type="extent">pathways via mitogen-activated protein kinase ( MAPK )/ extracellular signal regulated protein kinase and c-Jun N-terminal kinase , but not via p38 MAPK , may be involved in the muscarinic receptor - mediated enhancement of IL-2 production</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1486.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2080" t="PARTICIPATE" e1="e5397" e2="e5387" re="e5379">
+     <textspan type="extent">pathways via mitogen-activated protein kinase ( MAPK )/ extracellular signal regulated protein kinase and c-Jun N-terminal kinase , but not via p38 MAPK , may be involved in the muscarinic receptor - mediated enhancement of IL-2 production</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1486.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2082" t="PARTICIPATE" e1="e5384" e2="e5387" re="e5379">
+     <textspan type="extent">pathways via mitogen-activated protein kinase ( MAPK )/ extracellular signal regulated protein kinase and c-Jun N-terminal kinase , but not via p38 MAPK , may be involved in the muscarinic receptor - mediated enhancement of IL-2 production</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1486.7"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

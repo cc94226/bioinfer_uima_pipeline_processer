@@ -1,0 +1,49 @@
+<rexml>
+<doc id="652">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9846" g="w9847" t="s" cr="s+subj:w9847" w="Hypertonicity" l="~" p="N"/>
+     <dpg d="w9847" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="provoked" l="provoke" p="V"/>
+     <dpg d="E3" g="w9847" t="subj" cr="" w="" l="Hypertonicity" p="N"/>
+     <dpg d="E3" g="w9846" t="antecedent" cr="" w="" l="Hypertonicity" p="N"/>
+     <dpg d="w9848" g="w9850" t="lex-mod" cr="lex-mod:w9850" w="Fyn" l="~" p="U"/>
+     <dpg d="w9849" g="w9850" t="lex-mod" cr="lex-mod:w9850" w="-" l="~" p="U"/>
+     <dpg d="w9850" g="w9852" t="mod" cr="mod:w9852" w="dependent" l="Fyn - dependent" p="A"/>
+     <dpg d="w9851" g="w9852" t="nn" cr="nn:w9852" w="tyrosine" l="~" p="N"/>
+     <dpg d="w9852" g="w9847" t="obj" cr="obj:w9847" w="phosphorylation" l="~" p="N"/>
+     <dpg d="w9853" g="w9852" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w9854" g="w9853" t="pcomp-n" cr="mod*in*n:w9852" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w9855" g="w9854" t="punc" cr="punc:w9854" w="," l="~" p="U"/>
+     <dpg d="w9856" g="w9854" t="conj" cr="conj:w9854" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w9857" g="w9856" t="punc" cr="punc:w9856" w="," l="~" p="U"/>
+     <dpg d="w9858" g="w9856" t="punc" cr="punc:w9856" w="and" l="~" p="U"/>
+     <dpg d="w9859" g="w9861" t="nn" cr="nn:w9861" w="p120" l="~" p="N"/>
+     <dpg d="w9860" g="w9861" t="punc" cr="punc:w9861" w="(" l="~" p="U"/>
+     <dpg d="w9861" g="w9856" t="conj" cr="conj:w9856" w="Cas" l="~" p="N"/>
+     <dpg d="w9862" g="E2" t="punc" cr="punc:E2" w=")" l="~" p="U"/>
+     <dpg d="w9863" g="E2" t="punc" cr="punc:E2" w="and" l="~" p="U"/>
+     <dpg d="w9864" g="E2" t="punc" cr="punc:E2" w="caused" l="~" p="U"/>
+     <dpg d="w9865" g="w9866" t="det" cr="det:w9866" w="the" l="~" p="Det"/>
+     <dpg d="w9866" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="dissociation" l="~" p="N"/>
+     <dpg d="w9867" g="w9866" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9868" g="w9867" t="pcomp-n" cr="mod*of*n:w9866" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w9869" g="w9868" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w9870" g="w9871" t="det" cr="det:w9871" w="the" l="~" p="Det"/>
+     <dpg d="w9871" g="w9869" t="pcomp-n" cr="mod*from*n:w9868" w="contacts" l="contact" p="N"/>
+     <dpg d="w9872" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

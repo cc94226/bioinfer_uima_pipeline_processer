@@ -1,0 +1,64 @@
+<rexml>
+<doc id="1567">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w24852" g="w24854" t="det" cr="det:w24854" w="The" l="~" p="Det"/>
+     <dpg d="w24853" g="w24854" t="mod" cr="mod:w24854" w="neoplastic" l="~" p="A"/>
+     <dpg d="w24854" g="w24855" t="s" cr="s:w24855||subj:w24856" w="cells" l="cell" p="N"/>
+     <dpg d="w24855" g="E0" t="i" cr="" w="were" l="be" p="VBE"/>
+     <dpg d="w24856" g="w24855" t="pred" cr="pred:w24855" w="positive" l="~" p="A"/>
+     <dpg d="E2" g="w24856" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E2" g="w24854" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w24857" g="w24856" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w24858" g="w24857" t="pcomp-n" cr="mod*for*n:w24856" w="vimentin" l="~" p="N"/>
+     <dpg d="w24859" g="w24858" t="punc" cr="punc:w24858" w="," l="~" p="U"/>
+     <dpg d="w24860" g="w24858" t="conj" cr="conj:w24858" w="Factor-XIIIa" l="Factor-XIIIa" p="N"/>
+     <dpg d="w24861" g="w24860" t="punc" cr="punc:w24860" w="," l="~" p="U"/>
+     <dpg d="w24862" g="w24864" t="mod" cr="mod:w24864" w="alpha-smooth" l="alpha-smooth" p="A"/>
+     <dpg d="w24863" g="w24864" t="nn" cr="nn:w24864" w="muscle" l="~" p="N"/>
+     <dpg d="w24864" g="w24860" t="conj" cr="conj:w24860" w="actin" l="~" p="N"/>
+     <dpg d="w24865" g="w24864" t="punc" cr="punc:w24864" w="and" l="~" p="U"/>
+     <dpg d="w24866" g="w24864" t="conj" cr="conj:w24864" w="CD34" l="~" p="N"/>
+     <dpg d="w24867" g="w24866" t="punc" cr="punc:w24866" w="," l="~" p="U"/>
+     <dpg d="w24868" g="w24866" t="punc" cr="punc:w24866" w="but" l="~" p="U"/>
+     <dpg d="w24869" g="w24866" t="conj" cr="conj:w24866" w="negative" l="~" p="N"/>
+     <dpg d="w24870" g="w24869" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w24871" g="w24870" t="pcomp-n" cr="mod*for*n:w24869" w="desmin" l="~" p="N"/>
+     <dpg d="w24872" g="w24871" t="punc" cr="punc:w24871" w="," l="~" p="U"/>
+     <dpg d="w24873" g="w24871" t="conj" cr="conj:w24871" w="calponin" l="~" p="N"/>
+     <dpg d="w24874" g="w24873" t="punc" cr="punc:w24873" w="," l="~" p="U"/>
+     <dpg d="w24875" g="w24878" t="mod" cr="mod:w24878" w="high" l="~" p="A"/>
+     <dpg d="w24876" g="w24877" t="lex-mod" cr="lex-mod:w24877" w="molecular" l="~" p="U"/>
+     <dpg d="w24877" g="w24878" t="nn" cr="nn:w24878" w="weight" l="molecular weight" p="N"/>
+     <dpg d="w24878" g="w24873" t="conj" cr="conj:w24873" w="caldesmon" l="~" p="N"/>
+     <dpg d="w24879" g="w24878" t="punc" cr="punc:w24878" w="," l="~" p="U"/>
+     <dpg d="w24880" g="w24881" t="lex-mod" cr="lex-mod:w24881" w="smooth" l="~" p="U"/>
+     <dpg d="w24881" g="w24884" t="nn" cr="nn:w24884" w="muscle" l="smooth muscle" p="N"/>
+     <dpg d="w24882" g="w24884" t="nn" cr="nn:w24884" w="myosin" l="~" p="N"/>
+     <dpg d="w24883" g="w24884" t="mod" cr="mod:w24884" w="heavy" l="~" p="A"/>
+     <dpg d="w24884" g="w24878" t="conj" cr="conj:w24878" w="chain" l="~" p="N"/>
+     <dpg d="w24885" g="w24884" t="punc" cr="punc:w24884" w="," l="~" p="U"/>
+     <dpg d="w24886" g="w24888" t="nn" cr="nn:w24888" w="collagen" l="~" p="N"/>
+     <dpg d="w24887" g="w24888" t="lex-mod" cr="lex-mod:w24888" w="type" l="~" p="U"/>
+     <dpg d="w24888" g="w24884" t="conj" cr="conj:w24884" w="IV" l="type IV" p="N"/>
+     <dpg d="w24889" g="w24888" t="punc" cr="punc:w24888" w="," l="~" p="U"/>
+     <dpg d="w24890" g="w24888" t="conj" cr="conj:w24888" w="laminin" l="~" p="N"/>
+     <dpg d="w24891" g="w24890" t="punc" cr="punc:w24890" w="and" l="~" p="U"/>
+     <dpg d="w24892" g="w24893" t="nn" cr="nn:w24893" w="S-100" l="S-100" p="N"/>
+     <dpg d="w24893" g="w24890" t="conj" cr="conj:w24890" w="protein" l="~" p="N"/>
+     <dpg d="w24894" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

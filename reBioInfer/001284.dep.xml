@@ -1,0 +1,43 @@
+<rexml>
+<doc id="1284">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20207" g="w20208" t="mod" cr="mod:w20208" w="So" l="~" p="A"/>
+     <dpg d="w20208" g="w20211" t="mod" cr="mod:w20211" w="far" l="~" p="A"/>
+     <dpg d="w20209" g="w20211" t="punc" cr="punc:w20211" w="," l="~" p="U"/>
+     <dpg d="w20210" g="w20211" t="nn" cr="nn:w20211" w="three" l="~" p="N"/>
+     <dpg d="w20211" g="w20215" t="s" cr="s:w20215||subj:w20216" w="ligands" l="ligand" p="N"/>
+     <dpg d="w20212" g="w20211" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w20213" g="w20212" t="pcomp-n" cr="mod*for*n:w20211" w="profilin" l="~" p="N"/>
+     <dpg d="w20214" g="w20215" t="have" cr="have:w20215" w="have" l="~" p="have"/>
+     <dpg d="w20215" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="been" l="be" p="VBE"/>
+     <dpg d="E3" g="w20216" t="subj" cr="" w="" l="ligand" p="N"/>
+     <dpg d="E3" g="w20211" t="antecedent" cr="" w="" l="ligand" p="N"/>
+     <dpg d="w20216" g="w20215" t="pred" cr="pred:w20215" w="well-characterized" l="well-characterized" p="N"/>
+     <dpg d="w20217" g="w20218" t="lex-mod" cr="lex-mod:w20218" w="in" l="~" p="U"/>
+     <dpg d="w20218" g="w20215" t="mod" cr="mod:w20215" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w20219" g="E2" t="punc" cr="punc:E2" w=":" l="~" p="U"/>
+     <dpg d="w20220" g="w20221" t="nn" cr="nn:w20221" w="actin" l="~" p="N"/>
+     <dpg d="w20221" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="monomers" l="monomer" p="N"/>
+     <dpg d="w20222" g="w20221" t="punc" cr="punc:w20221" w="," l="~" p="U"/>
+     <dpg d="w20223" g="w20224" t="nn" cr="nn:w20224" w="membrane" l="~" p="N"/>
+     <dpg d="w20224" g="w20221" t="conj" cr="conj:w20221" w="polyphosphoinositides" l="~" p="N"/>
+     <dpg d="w20225" g="w20224" t="punc" cr="punc:w20224" w="and" l="~" p="U"/>
+     <dpg d="w20226" g="w20224" t="conj" cr="conj:w20224" w="poly-L-proline" l="poly-L-proline" p="N"/>
+     <dpg d="w20227" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

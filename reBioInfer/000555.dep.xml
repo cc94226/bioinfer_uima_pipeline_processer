@@ -1,0 +1,97 @@
+<rexml>
+<doc id="555">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E8" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w7773" g="E8" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E8" w="Glutathione" l="~" p="N"/>
+     <dpg d="E4" g="E8" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7774" g="w7775" t="mod" cr="mod:w7775" w="S-transferase" l="S-transferase" p="A"/>
+     <dpg d="w7775" g="w7776" t="s" cr="s+subj:w7776" w="pull-down" l="pull-down" p="N"/>
+     <dpg d="w7776" g="E4" t="i" cr="UNSPECRELTYPE:E8" w="performed" l="perform" p="V"/>
+     <dpg d="E9" g="w7776" t="subj" cr="" w="" l="pull-down" p="N"/>
+     <dpg d="E9" g="w7775" t="antecedent" cr="" w="" l="pull-down" p="N"/>
+     <dpg d="w7777" g="w7776" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w7778" g="w7780" t="nn" cr="nn:w7780" w="Tax" l="~" p="N"/>
+     <dpg d="w7779" g="w7780" t="nn" cr="nn:w7780" w="deletion" l="~" p="N"/>
+     <dpg d="w7780" g="w7777" t="pcomp-n" cr="mod*with*n:w7776" w="mutants" l="mutant" p="N"/>
+     <dpg d="w7781" g="E4" t="punc" cr="punc:w7776" w="and" l="~" p="U"/>
+     <dpg d="E3" g="E4" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7782" g="w7783" t="nn" cr="nn:w7783" w="peptide" l="~" p="N"/>
+     <dpg d="w7783" g="w7785" t="s" cr="s+subj:w7785||s+subj:w7792||s:w7819||subj:w7820" w="competition" l="~" p="N"/>
+     <dpg d="w7784" g="w7785" t="have" cr="have:w7785" w="have" l="~" p="have"/>
+     <dpg d="w7785" g="E3" t="i" cr="conj:w7776" w="localized" l="localize" p="V"/>
+     <dpg d="E10" g="w7785" t="subj" cr="" w="" l="competition" p="N"/>
+     <dpg d="E10" g="w7783" t="antecedent" cr="" w="" l="competition" p="N"/>
+     <dpg d="w7786" g="w7787" t="det" cr="det:w7787" w="the" l="~" p="Det"/>
+     <dpg d="w7787" g="w7785" t="obj" cr="obj:w7785" w="site" l="~" p="N"/>
+     <dpg d="w7788" g="w7787" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w7789" g="w7788" t="pcomp-n" cr="mod*in*n:w7787" w="Tax" l="~" p="N"/>
+     <dpg d="w7790" g="w7789" t="pnmod" cr="pnmod:w7789" w="critical" l="~" p="A"/>
+     <dpg d="w7791" g="w7790" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="E2" g="w7791" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E6" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w7783" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w7792" g="E2" t="i" cr="mod*for*c:w7790" w="binding" l="bind" p="V"/>
+     <dpg d="E11" g="w7792" t="subj" cr="" w="" l="competition" p="N"/>
+     <dpg d="E11" g="E6" t="antecedent" cr="" w="" l="competition" p="N"/>
+     <dpg d="w7793" g="w7795" t="nn" cr="nn:w7795" w="CBP" l="~" p="N"/>
+     <dpg d="w7794" g="w7795" t="nn" cr="nn:w7795" w="/" l="~" p="N"/>
+     <dpg d="w7795" g="w7792" t="obj" cr="obj:w7792" w="p300" l="~" p="N"/>
+     <dpg d="w7796" g="w7795" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w7797" g="w7800" t="det" cr="det:w7800" w="a" l="~" p="Det"/>
+     <dpg d="w7798" g="w7799" t="mod" cr="mod:w7799" w="highly" l="~" p="A"/>
+     <dpg d="w7799" g="w7800" t="mod" cr="mod:w7800" w="protease-sensitive" l="protease-sensitive" p="A"/>
+     <dpg d="w7800" g="w7796" t="pcomp-n" cr="mod*to*n:w7795||subj:w7812" w="region" l="~" p="N"/>
+     <dpg d="w7801" g="w7800" t="mod" cr="" w="around" l="~" p="Prep"/>
+     <dpg d="w7802" g="w7803" t="lex-mod" cr="lex-mod:w7803" w="amino" l="~" p="U"/>
+     <dpg d="w7803" g="w7807" t="nn" cr="nn:w7807" w="acid" l="amino acid" p="N"/>
+     <dpg d="w7804" g="w7807" t="nn" cr="nn:w7807" w="residues" l="residue" p="N"/>
+     <dpg d="w7805" g="w7807" t="lex-mod" cr="lex-mod:w7807" w="81" l="~" p="U"/>
+     <dpg d="w7806" g="w7807" t="lex-mod" cr="lex-mod:w7807" w="to" l="~" p="U"/>
+     <dpg d="w7807" g="w7801" t="pcomp-n" cr="mod*around*n:w7800" w="95" l="81 to 95" p="N"/>
+     <dpg d="w7808" g="w7807" t="punc" cr="punc:w7807" w="(" l="~" p="U"/>
+     <dpg d="w7809" g="w7807" t="appo" cr="appo:w7807" w="81QRTSKTLKVLTPPIT95" l="~" p="N"/>
+     <dpg d="w7810" g="w7800" t="punc" cr="punc:w7800" w=")" l="~" p="U"/>
+     <dpg d="E1" g="w7800" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7811" g="E1" t="whn" cr="whn:w7812" w="which" l="~" p="N"/>
+     <dpg d="w7811" g="w7800" t="antecedent" cr="antecedent:w7800" w="which" l="~" p="N"/>
+     <dpg d="w7812" g="E1" t="i" cr="rel:w7800" w="lies" l="lie" p="V"/>
+     <dpg d="E12" g="w7812" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E12" g="w7800" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w7813" g="w7812" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w7814" g="w7815" t="det" cr="det:w7815" w="the" l="~" p="Det"/>
+     <dpg d="w7815" g="w7813" t="pcomp-n" cr="mod*between*n:w7812||obj:w7817" w="domains" l="domain" p="N"/>
+     <dpg d="w7816" g="w7817" t="amod" cr="amod:w7817" w="previously" l="~" p="A"/>
+     <dpg d="w7817" g="w7815" t="vrel" cr="vrel:w7815" w="proposed" l="propose" p="V"/>
+     <dpg d="E13" g="w7817" t="obj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E13" g="w7815" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="E0" g="w7817" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E5" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E6" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w7818" g="w7819" t="aux" cr="aux:w7819" w="to" l="~" p="Aux"/>
+     <dpg d="w7819" g="E0" t="i" cr="mod:w7817" w="be" l="~" p="VBE"/>
+     <dpg d="w7820" g="w7819" t="pred" cr="pred:w7819" w="important" l="~" p="A"/>
+     <dpg d="E14" g="w7820" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E14" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w7821" g="w7820" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w7822" g="w7823" t="nn" cr="nn:w7823" w="CREB" l="~" p="N"/>
+     <dpg d="w7823" g="w7821" t="pcomp-n" cr="mod*for*n:w7820" w="binding" l="~" p="N"/>
+     <dpg d="w7824" g="w7823" t="punc" cr="punc:w7823" w="and" l="~" p="U"/>
+     <dpg d="w7825" g="w7827" t="nn" cr="nn:w7827" w="Tax" l="~" p="N"/>
+     <dpg d="w7826" g="w7827" t="nn" cr="nn:w7827" w="subunit" l="~" p="N"/>
+     <dpg d="w7827" g="w7823" t="conj" cr="conj:w7823" w="dimerization" l="~" p="N"/>
+     <dpg d="w7828" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

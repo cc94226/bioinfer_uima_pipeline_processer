@@ -1,0 +1,117 @@
+<rexml>
+<doc id="1790">
+  
+  <markup>
+   <nes>
+    <ne id="e6654" gid="g6346" t="Individual_protein" fr="w28767" to="w28771" nam="yes" sid="s1">
+     <textspan>vaccinia virus E3L [..] product</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1790.0"/>
+      <exattr n="nst" v="st.1790.1.0"/>
+      <exattr n="nst" v="st.1790.2.0"/>
+      <exattr n="nst" v="st.1790.3.0"/>
+      <exattr n="nst" v="st.1790.5.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6661" gid="g6352" t="Gene" fr="w28769" to="w28769" nam="yes" sid="s1">
+     <textspan>E3L</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1790.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6659" gid="g6346" t="Individual_protein" fr="w28773" to="w28773" nam="yes" sid="s1">
+     <textspan>pE3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1790.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6656" gid="g6348" t="Individual_protein" fr="w28785" to="w28785" nam="yes" sid="s1">
+     <textspan>interferon</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1790.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6662" gid="g6353" t="Protein_family_or_group" fr="w28790" to="w28791" nam="yes" sid="s1">
+     <textspan>protein kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1790.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6660" gid="g6351" t="Individual_protein" fr="w28793" to="w28793" nam="yes" sid="s1">
+     <textspan>PKR</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1790.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2558" t="ACTIVATE" e1="e6656" e2="e6660" re="e6657">
+     <textspan>interferon - induced , dsRNA-activated protein kinase , PKR</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1790.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="ACTIVATE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2559" t="MEMBER" e1="e6662" e2="e6660" re="">
+     <textspan>protein kinase , PKR</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

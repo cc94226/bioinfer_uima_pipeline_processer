@@ -1,0 +1,41 @@
+<rexml>
+<doc id="689">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w10612" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="Immunoreactivity" l="~" p="N"/>
+     <dpg d="w10613" g="w10612" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w10614" g="w10613" t="pcomp-n" cr="mod*for*n:w10612" w="pan-cadherin" l="pan-cadherin" p="N"/>
+     <dpg d="w10615" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10616" g="w10625" t="s" cr="s+obj:w10625" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w10617" g="w10616" t="punc" cr="punc:w10616" w="," l="~" p="U"/>
+     <dpg d="w10618" g="w10616" t="conj" cr="conj:w10616" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w10619" g="w10618" t="punc" cr="punc:w10618" w="," l="~" p="U"/>
+     <dpg d="w10620" g="w10618" t="conj" cr="conj:w10618" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w10621" g="w10620" t="punc" cr="punc:w10620" w="," l="~" p="U"/>
+     <dpg d="w10622" g="w10620" t="punc" cr="punc:w10620" w="and" l="~" p="U"/>
+     <dpg d="w10623" g="w10620" t="conj" cr="conj:w10620" w="p120" l="~" p="N"/>
+     <dpg d="w10624" g="w10625" t="be" cr="be:w10625" w="was" l="be" p="be"/>
+     <dpg d="w10625" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="observed" l="observe" p="V"/>
+     <dpg d="E3" g="w10625" t="obj" cr="" w="" l="E-cadherin" p="N"/>
+     <dpg d="E3" g="w10616" t="antecedent" cr="" w="" l="E-cadherin" p="N"/>
+     <dpg d="w10626" g="w10625" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w10627" g="w10629" t="pre" cr="pre:w10629" w="all" l="~" p="PreDet"/>
+     <dpg d="w10628" g="w10629" t="num" cr="num:w10629" w="15" l="~" p="N"/>
+     <dpg d="w10629" g="w10626" t="pcomp-n" cr="mod*in*n:w10625" w="specimens" l="specimen" p="N"/>
+     <dpg d="w10630" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

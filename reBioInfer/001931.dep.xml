@@ -1,0 +1,51 @@
+<rexml>
+<doc id="1931">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31175" g="w31182" t="s" cr="s+subj:w31182" w="Transfection" l="~" p="N"/>
+     <dpg d="w31176" g="w31175" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31177" g="w31178" t="lex-mod" cr="lex-mod:w31178" w="alpha-catenin" l="~" p="U"/>
+     <dpg d="w31178" g="w31181" t="mod" cr="mod:w31181" w="-deficient" l="alpha-catenin -deficient" p="A"/>
+     <dpg d="w31179" g="w31181" t="nn" cr="nn:w31181" w="colon" l="~" p="N"/>
+     <dpg d="w31180" g="w31181" t="nn" cr="nn:w31181" w="carcinoma" l="~" p="N"/>
+     <dpg d="w31181" g="w31176" t="pcomp-n" cr="mod*of*n:w31175" w="cells" l="cell" p="N"/>
+     <dpg d="w31182" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="recruited" l="recruit" p="V"/>
+     <dpg d="E4" g="w31182" t="subj" cr="" w="" l="Transfection" p="N"/>
+     <dpg d="E4" g="w31175" t="antecedent" cr="" w="" l="Transfection" p="N"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31183" g="w31196" t="s" cr="s+obj:w31196" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w31184" g="w31183" t="punc" cr="punc:w31183" w="and" l="~" p="U"/>
+     <dpg d="w31185" g="w31183" t="conj" cr="conj:w31183" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w31186" g="w31185" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w31187" g="w31188" t="mod" cr="mod:w31188" w="cell-cell" l="cell-cell" p="A"/>
+     <dpg d="w31188" g="w31186" t="pcomp-n" cr="mod*to*n:w31185" w="contacts" l="contact" p="N"/>
+     <dpg d="w31189" g="w31188" t="punc" cr="punc:w31188" w="and" l="~" p="U"/>
+     <dpg d="w31190" g="w31194" t="mod" cr="mod:w31194" w="functional" l="~" p="A"/>
+     <dpg d="w31191" g="w31192" t="lex-mod" cr="lex-mod:w31192" w="cadherin" l="~" p="U"/>
+     <dpg d="w31192" g="w31194" t="mod" cr="mod:w31194" w="-mediated" l="cadherin -mediated" p="A"/>
+     <dpg d="w31193" g="w31194" t="mod" cr="mod:w31194" w="cell-cell" l="cell-cell" p="A"/>
+     <dpg d="w31194" g="w31188" t="conj" cr="conj:w31188" w="adhesion" l="~" p="N"/>
+     <dpg d="w31195" g="w31196" t="be" cr="be:w31196" w="was" l="be" p="be"/>
+     <dpg d="w31196" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="restored" l="restore" p="V"/>
+     <dpg d="E5" g="w31196" t="obj" cr="" w="" l="E-cadherin" p="N"/>
+     <dpg d="E5" g="w31183" t="antecedent" cr="" w="" l="E-cadherin" p="N"/>
+     <dpg d="w31197" g="w31196" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w31198" g="w31199" t="det" cr="det:w31199" w="this" l="~" p="Det"/>
+     <dpg d="w31199" g="w31197" t="pcomp-n" cr="mod*in*n:w31196" w="way" l="~" p="N"/>
+     <dpg d="w31200" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

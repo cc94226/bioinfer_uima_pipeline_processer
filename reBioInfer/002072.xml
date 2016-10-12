@@ -1,0 +1,61 @@
+<rexml>
+<doc id="2072">
+  <text>
+<p><s id="s1"><w id="w32869">We</w> <w id="w32870">have</w> <w id="w32871">biochemically</w> <w id="w32872">identified</w> <w id="w32873">the</w> <w id="w32874">Saccharomyces</w> <w id="w32875">cerevisiae</w> <w id="w32876">homologue</w> <w id="w32877">of</w> <w id="w32878">the</w> <w id="w32879">mammalian</w> <w id="w32880">actin</w> <w id="w32881">binding</w> <w id="w32882">protein</w> <w id="w32883">cofilin</w> <w id="w32884">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7499" gid="g7151" t="Individual_protein" fr="w32883" to="w32883" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2072.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7500" gid="g7152" t="Protein_family_or_group" fr="w32879" to="w32882" nam="yes">
+     <textspan type="extent">mammalian actin binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.2072.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7501" gid="g7153" t="Protein_family_or_group" fr="w32880" to="w32882" nam="yes">
+     <textspan type="extent">actin binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.2072.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2874" t="MEMBER" e1="e7500" e2="e7499" re="">
+     <textspan type="extent">mammalian actin binding protein cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

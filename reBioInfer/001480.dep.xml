@@ -1,0 +1,49 @@
+<rexml>
+<doc id="1480">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w23175" g="w23177" t="det" cr="det:w23177" w="The" l="~" p="Det"/>
+     <dpg d="w23176" g="w23177" t="mod" cr="mod:w23177" w="exogeneous" l="~" p="A"/>
+     <dpg d="w23177" g="" t="" cr="" w="cofilin" l="~" p="N"/>
+     <dpg d="w23178" g="w23177" t="punc" cr="punc:w23177" w="," l="~" p="U"/>
+     <dpg d="w23179" g="w23177" t="punc" cr="punc:w23177" w="but" l="~" p="U"/>
+     <dpg d="w23180" g="w23177" t="punc" cr="punc:w23177" w="not" l="~" p="U"/>
+     <dpg d="w23181" g="w23177" t="conj" cr="conj:w23177||obj1:w23183||obj:w23190" w="ADF" l="~" p="N"/>
+     <dpg d="w23182" g="w23181" t="punc" cr="punc:w23181" w="," l="~" p="U"/>
+     <dpg d="w23183" g="w23181" t="vrel" cr="vrel:w23181" w="caused" l="cause" p="V"/>
+     <dpg d="E3" g="w23183" t="obj1" cr="" w="" l="ADF" p="N"/>
+     <dpg d="E3" g="w23181" t="antecedent" cr="" w="" l="ADF" p="N"/>
+     <dpg d="w23184" g="w23185" t="mod" cr="mod:w23185" w="quick" l="~" p="A"/>
+     <dpg d="w23185" g="w23183" t="obj2" cr="obj2:w23183" w="disassembly" l="~" p="N"/>
+     <dpg d="w23186" g="w23185" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w23187" g="w23188" t="nn" cr="nn:w23188" w="actin" l="~" p="N"/>
+     <dpg d="w23188" g="w23186" t="pcomp-n" cr="mod*of*n:w23185" w="filaments" l="filament" p="N"/>
+     <dpg d="w23189" g="w23183" t="punc" cr="punc:w23183" w="and" l="~" p="U"/>
+     <dpg d="w23190" g="w23183" t="conj" cr="conj:w23183" w="accumulated" l="accumulate" p="V"/>
+     <dpg d="E4" g="w23190" t="obj" cr="" w="" l="ADF" p="N"/>
+     <dpg d="E4" g="w23181" t="antecedent" cr="" w="" l="ADF" p="N"/>
+     <dpg d="w23191" g="w23190" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w23192" g="w23193" t="nn" cr="nn:w23193" w="furrow" l="~" p="N"/>
+     <dpg d="w23193" g="w23191" t="pcomp-n" cr="mod*in*n:w23190" w="region" l="~" p="N"/>
+     <dpg d="w23194" g="w23193" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="E0" g="w23194" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="s+subj:w23195" w="" l="~" p="N"/>
+     <dpg d="w23195" g="E0" t="i" cr="mod*of*c:w23193" w="dividing" l="divide" p="V"/>
+     <dpg d="E5" g="w23195" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E1" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w23196" g="w23195" t="obj" cr="obj:w23195" w="cells" l="cell" p="N"/>
+     <dpg d="w23197" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

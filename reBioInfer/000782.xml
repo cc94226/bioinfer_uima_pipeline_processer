@@ -1,0 +1,127 @@
+<rexml>
+<doc id="782">
+  <text>
+<p><s id="s1"><w id="w12289">In</w> <w id="w12290">most</w> <w id="w12291">cases</w> <w id="w12292">,</w> <w id="w12293">ADF</w> <w id="w12294">and</w> <w id="w12295">cofilin</w> <w id="w12296">colocalized</w> <w id="w12297">in</w> <w id="w12298">the</w> <w id="w12299">same</w> <w id="w12300">nuclear</w> <w id="w12301">actin</w> <w id="w12302">rods</w> <w id="w12303">,</w> <w id="w12304">but</w> <w id="w12305">ADF</w> <w id="w12306">appeared</w> <w id="w12307">to</w> <w id="w12308">predominate</w> <w id="w12309">in</w> <w id="w12310">mononucleated</w> <w id="w12311">cells</w> <w id="w12312">,</w> <w id="w12313">while</w> <w id="w12314">cofilin</w> <w id="w12315">was</w> <w id="w12316">present</w> <w id="w12317">in</w> <w id="w12318">multinucleated</w> <w id="w12319">myotubes</w> <w id="w12320">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2844" gid="g2725" t="Individual_protein" fr="w12293" to="w12293" nam="yes">
+     <textspan type="extent">ADF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.782.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2845" gid="g2726" t="RELATIONSHIP_TEXTBINDING" fr="w12296" to="w12297">
+     <textspan type="extent">colocalized in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.782.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2846" gid="g2727" t="Cell_component" fr="w12301" to="w12302" nam="yes">
+     <textspan type="extent">actin rods</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.782.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2847" gid="g2728" t="RELATIONSHIP_TEXTBINDING" fr="w12296" to="w12296">
+     <textspan type="extent">colocalized</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.782.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2848" gid="g2729" t="Gene/protein/RNA" fr="w12314" to="w12314" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.782.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2849" gid="g2730" t="Gene/protein/RNA" fr="w12305" to="w12305" nam="yes">
+     <textspan type="extent">ADF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.782.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2850" gid="g2731" t="Individual_protein" fr="w12295" to="w12295" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.782.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2851" gid="g2732" t="Individual_protein" fr="w12301" to="w12301" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.782.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1081" t="COLOCALIZE" e1="e2844" e2="e2850" re="e2847">
+     <textspan type="extent">ADF and cofilin colocalized</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.782.3"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1082" t="LOCALIZE-TO" e1="e2844" e2="e2846" re="e2845">
+     <textspan type="extent">ADF and cofilin colocalized in the same nuclear actin rods</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.782.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+    <rel id="r1083" t="LOCALIZE-TO" e1="e2850" e2="e2846" re="e2845">
+     <textspan type="extent">cofilin colocalized in the same nuclear actin rods</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.782.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

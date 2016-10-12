@@ -1,0 +1,260 @@
+<rexml>
+<doc id="2013">
+  <text>
+<p><s id="s1"><w id="w32108">WASp</w> <w id="w32109">contains</w> <w id="w32110">a</w> <w id="w32111">binding</w> <w id="w32112">motif</w> <w id="w32113">for</w> <w id="w32114">the</w> <w id="w32115">Rho</w> <w id="w32116">GTPase</w> <w id="w32117">CDC42Hs</w> <w id="w32118">as</w> <w id="w32119">well</w> <w id="w32120">as</w> <w id="w32121">verprolin</w><w id="w32122">/</w><w id="w32123">cofilin</w><w id="w32124">-</w><w id="w32125">like</w> <w id="w32126">actin</w><w id="w32127">-</w><w id="w32128">regulatory</w> <w id="w32129">domains</w> <w id="w32130">,</w> <w id="w32131">but</w> <w id="w32132">no</w> <w id="w32133">specific</w> <w id="w32134">actin</w> <w id="w32135">structure</w> <w id="w32136">regulated</w> <w id="w32137">by</w> <w id="w32138">CDC42Hs</w><w id="w32139">-</w><w id="w32140">WASp</w> <w id="w32141">has</w> <w id="w32142">been</w> <w id="w32143">identified</w> <w id="w32144">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7332" gid="g6994" t="Individual_protein" fr="w32108" to="w32108" nam="yes">
+     <textspan type="extent">WASp</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2013.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7333" gid="g6995" t="RELATIONSHIP_TEXTBINDING" fr="w32111" to="w32111">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2013.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7334" gid="g6996" t="Individual_protein" fr="w32121" to="w32121" nam="yes">
+     <textspan type="extent">verprolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2013.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7335" gid="g6997" t="Protein_family_or_group" fr="w32115" to="w32116" nam="yes">
+     <textspan type="extent">Rho GTPase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.2013.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7336" gid="g6998" t="Individual_protein" fr="w32126" to="w32126" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2013.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7337" gid="g6999" t="Individual_protein" fr="w32123" to="w32123" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2013.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7338" gid="g7000" t="Protein_complex" fr="w32138" to="w32140" nam="yes">
+     <textspan type="extent">CDC42Hs-WASp</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.2013.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7339" gid="g7001" t="Cell_component" fr="w32134" to="w32135" nam="yes">
+     <textspan type="extent">actin structure</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.2013.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7340" gid="g7002" t="Individual_protein" fr="w32117" to="w32117" nam="yes">
+     <textspan type="extent">CDC42Hs</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2013.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e7341" gid="g7003" t="Individual_protein" fr="w32140" to="w32140" nam="yes">
+     <textspan type="extent">WASp</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2013.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e7342" gid="g7004" t="Individual_protein" fr="w32138" to="w32138" nam="yes">
+     <textspan type="extent">CDC42Hs</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2013.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e7343" gid="g7005" t="RELATIONSHIP_TEXTBINDING" fr="w32125" to="w32125">
+     <textspan type="extent">like</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2013.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e7344" gid="g7006" t="Individual_protein" fr="w32134" to="w32134" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2013.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e7345" gid="g7007" t="RELATIONSHIP_TEXTBINDING" fr="w32136" to="w32137">
+     <textspan type="extent">regulated by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2013.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e7346" gid="g7008" t="RELATIONSHIP_TEXTBINDING" fr="w32128" to="w32128">
+     <textspan type="extent">regulatory</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2013.14"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2808" t="BIND" e1="e7332" e2="e7340" re="e7333">
+     <textspan type="extent">WASp contains a binding motif for the Rho GTPase CDC42Hs</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2013.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2809" t="MEMBER" e1="e7335" e2="e7340" re="">
+     <textspan type="extent">Rho GTPase CDC42Hs</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2810" t="MODULATE" e1="e7332" e2="e7336" re="e7346">
+     <textspan type="extent">WASp contains a binding motif for the Rho GTPase CDC42Hs as well as verprolin / cofilin - like actin - regulatory</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2013.14"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="MODULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2811" t="SIMILAR" e1="e7332" e2="e7334" re="e7343">
+     <textspan type="extent">WASp contains a binding motif for the Rho GTPase CDC42Hs as well as verprolin / cofilin - like</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2013.11"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r2812" t="SIMILAR" e1="e7332" e2="e7337" re="e7343">
+     <textspan type="extent">WASp contains a binding motif for the Rho GTPase CDC42Hs as well as verprolin / cofilin - like</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2013.11"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r2813" t="MODULATE" e1="e7338" e2="e7339" re="e7345">
+     <textspan type="extent">actin structure regulated by CDC42Hs - WASp</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2013.13"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="MODULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2814" t="CONTAIN" e1="e7338" e2="e7342" re="">
+     <textspan type="extent">CDC42Hs - WASp</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2815" t="CONTAIN" e1="e7338" e2="e7341" re="">
+     <textspan type="extent">CDC42Hs - WASp</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

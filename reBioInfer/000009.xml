@@ -1,0 +1,155 @@
+<rexml>
+<doc id="9">
+  <text>
+<p><s id="s1"><w id="w122">Acanthamoeba</w> <w id="w123">actin</w> <w id="w124">and</w> <w id="w125">profilin</w> <w id="w126">can</w> <w id="w127">be</w> <w id="w128">cross-linked</w> <w id="w129">between</w> <w id="w130">glutamic</w> <w id="w131">acid</w> <w id="w132">364</w> <w id="w133">of</w> <w id="w134">actin</w> <w id="w135">and</w> <w id="w136">lysine</w> <w id="w137">115</w> <w id="w138">of</w> <w id="w139">profilin</w> <w id="w140">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e42" gid="g42" t="Individual_protein" fr="w122" to="w123" nam="yes">
+     <textspan type="extent">Acanthamoeba actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.9.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e43" gid="g43" t="RELATIONSHIP_TEXTBINDING" fr="w128" to="w128">
+     <textspan type="extent">cross-linked</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.9.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e44" gid="g44" t="Individual_protein" fr="w134" to="w134" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.9.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e45" gid="g45" t="RELATIONSHIP_TEXTBINDING" fr="w128" to="w129">
+     <textspan type="extent">cross-linked between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.9.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e46" gid="g46" t="Substructure_of_protein" fr="w130" to="w134" nam="yes">
+     <textspan type="extent">glutamic acid [..] of actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.9.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e47" gid="g47" t="Individual_protein" fr="w139" to="w139" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.9.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e48" gid="g48" t="Substructure_of_protein" fr="w136" to="w139" nam="yes">
+     <textspan type="extent">lysine [..] of profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.9.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e49" gid="g49" t="Individual_protein" fr="w123" to="w123" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.9.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e50" gid="g50" t="Individual_protein" fr="w122" to="w125" nam="yes">
+     <textspan type="extent">Acanthamoeba [..] profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.9.8"/>
+      <exattr n="nst" v="st.9.0.0"/>
+      <exattr n="nst" v="st.9.3.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e51" gid="g51" t="Individual_protein" fr="w125" to="w125" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.9.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r24" t="CROSS-LINK" e1="e42" e2="e50" re="e43">
+     <textspan type="extent">Acanthamoeba actin and profilin can be cross-linked</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.9.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="CROSS-LINK"/>
+     </exattrs>
+    </rel>
+    <rel id="r25" t="CROSS-LINK" e1="e46" e2="e48" re="e45">
+     <textspan type="extent">cross-linked between glutamic acid 364 of actin and lysine 115 of profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.9.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="CROSS-LINK"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

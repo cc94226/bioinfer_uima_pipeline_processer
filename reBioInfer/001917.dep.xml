@@ -1,0 +1,53 @@
+<rexml>
+<doc id="1917">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="inf" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="s+subj:w30881" w="" l="~" p="N"/>
+     <dpg d="w30880" g="w30881" t="aux" cr="aux:w30881" w="To" l="~" p="Aux"/>
+     <dpg d="w30881" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="study" l="~" p="V"/>
+     <dpg d="E4" g="w30881" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="E1" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w30882" g="w30883" t="nn" cr="nn:w30883" w="profilin" l="~" p="N"/>
+     <dpg d="w30883" g="w30881" t="obj" cr="obj:w30881" w="function" l="~" p="N"/>
+     <dpg d="w30884" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w30885" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="we" l="~" p="N"/>
+     <dpg d="w30886" g="w30887" t="mod" cr="mod:w30887" w="extensively" l="~" p="A"/>
+     <dpg d="w30887" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="mutagenized" l="~" p="A"/>
+     <dpg d="w30888" g="w30894" t="det" cr="det:w30894" w="the" l="~" p="Det"/>
+     <dpg d="w30889" g="w30890" t="lex-mod" cr="lex-mod:w30890" w="Saccharomyces" l="~" p="U"/>
+     <dpg d="w30890" g="w30894" t="nn" cr="nn:w30894" w="cerevisiae" l="Saccharomyces cerevisiae" p="N"/>
+     <dpg d="w30891" g="w30894" t="nn" cr="nn:w30894" w="profilin" l="~" p="N"/>
+     <dpg d="w30892" g="w30894" t="nn" cr="nn:w30894" w="gene" l="~" p="N"/>
+     <dpg d="w30893" g="w30894" t="punc" cr="punc:w30894" w="(" l="~" p="U"/>
+     <dpg d="w30894" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="PFY1" l="~" p="N"/>
+     <dpg d="w30895" g="E3" t="punc" cr="punc:E3" w=")" l="~" p="U"/>
+     <dpg d="w30896" g="E3" t="punc" cr="punc:E3" w="and" l="~" p="U"/>
+     <dpg d="w30897" g="E3" t="punc" cr="punc:E3" w="examined" l="~" p="U"/>
+     <dpg d="w30898" g="w30899" t="det" cr="det:w30899" w="the" l="~" p="Det"/>
+     <dpg d="w30899" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="consequences" l="consequence" p="N"/>
+     <dpg d="w30900" g="w30899" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w30901" g="w30903" t="mod" cr="mod:w30903" w="specific" l="~" p="A"/>
+     <dpg d="w30902" g="w30903" t="nn" cr="nn:w30903" w="point" l="~" p="N"/>
+     <dpg d="w30903" g="w30900" t="pcomp-n" cr="mod*of*n:w30899" w="mutations" l="mutation" p="N"/>
+     <dpg d="w30904" g="w30903" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w30905" g="w30904" t="pcomp-n" cr="mod*on*n:w30903" w="growth" l="~" p="N"/>
+     <dpg d="w30906" g="w30905" t="punc" cr="punc:w30905" w="and" l="~" p="U"/>
+     <dpg d="w30907" g="w30908" t="nn" cr="nn:w30908" w="actin" l="~" p="N"/>
+     <dpg d="w30908" g="w30905" t="conj" cr="conj:w30905" w="organization" l="~" p="N"/>
+     <dpg d="w30909" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,111 @@
+<rexml>
+<doc id="1531">
+  
+  <markup>
+   <nes>
+    <ne id="e5607" gid="g5354" t="Individual_protein" fr="w24129" to="w24132" nam="yes" sid="s1">
+     <textspan>molecules [..] profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1531.3"/>
+      <exattr n="nst" v="st.1531.2.0"/>
+      <exattr n="nst" v="st.1531.5.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5604" gid="g5351" t="Individual_protein" fr="w24129" to="w24130" nam="yes" sid="s1">
+     <textspan>molecules calmodulin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1531.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5608" gid="g5355" t="Individual_protein" fr="w24130" to="w24130" nam="yes" sid="s1">
+     <textspan>calmodulin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1531.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5609" gid="g5356" t="Individual_protein" fr="w24132" to="w24132" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1531.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5606" gid="g5353" t="Function_property" fr="w24135" to="w24137" sid="s1">
+     <textspan>actin-based motility</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.1531.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5610" gid="g5357" t="Individual_protein" fr="w24135" to="w24135" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1531.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2145" t="CONTROL" e1="e5604" e2="e5606" re="e5605">
+     <textspan>molecules calmodulin and profilin actively regulate actin -based motility</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1531.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2146" t="CONTROL" e1="e5607" e2="e5606" re="e5605">
+     <textspan>molecules calmodulin and profilin actively regulate actin -based motility</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1531.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

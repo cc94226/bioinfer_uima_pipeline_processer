@@ -1,0 +1,53 @@
+<rexml>
+<doc id="1144">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18039" g="w18040" t="lex-mod" cr="lex-mod:w18040" w="Profilin" l="~" p="U"/>
+     <dpg d="w18040" g="w18041" t="s" cr="s+subj:w18041" w="II" l="Profilin II" p="N"/>
+     <dpg d="w18041" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="binds" l="bind" p="V"/>
+     <dpg d="E4" g="w18041" t="subj" cr="" w="" l="Profilin II" p="N"/>
+     <dpg d="E4" g="w18040" t="antecedent" cr="" w="" l="Profilin II" p="N"/>
+     <dpg d="w18042" g="w18041" t="obj" cr="obj:w18041" w="actin" l="~" p="N"/>
+     <dpg d="w18043" g="w18042" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w18044" g="w18046" t="det" cr="det:w18046" w="a" l="~" p="Det"/>
+     <dpg d="w18045" g="w18046" t="mod" cr="mod:w18046" w="similar" l="~" p="A"/>
+     <dpg d="w18046" g="w18043" t="pcomp-n" cr="mod*with*n:w18042" w="affinity" l="~" p="N"/>
+     <dpg d="w18047" g="w18046" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w18048" g="w18047" t="pcomp-n" cr="mod*to*n:w18046" w="that" l="~" p="N"/>
+     <dpg d="w18049" g="w18046" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w18050" g="w18049" t="pcomp-n" cr="mod*of*n:w18046" w="profilin" l="~" p="N"/>
+     <dpg d="w18051" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="I" l="~" p="N"/>
+     <dpg d="w18052" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w18053" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="although" l="~" p="SentAdjunct"/>
+     <dpg d="E1" g="w18053" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18054" g="w18055" t="s" cr="s+subj:w18055" w="it" l="~" p="N"/>
+     <dpg d="w18055" g="E1" t="i" cr="comp1:w18053" w="inhibits" l="inhibit" p="V"/>
+     <dpg d="E5" g="w18055" t="subj" cr="" w="" l="it" p="N"/>
+     <dpg d="E5" g="w18054" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w18056" g="w18057" t="nn" cr="nn:w18057" w="actin" l="~" p="N"/>
+     <dpg d="w18057" g="w18055" t="obj" cr="obj:w18055" w="polymerization" l="~" p="N"/>
+     <dpg d="w18058" g="w18059" t="mod" cr="mod:w18059" w="more" l="~" p="A"/>
+     <dpg d="w18059" g="w18055" t="mod" cr="mod:w18055" w="strongly" l="~" p="A"/>
+     <dpg d="w18060" g="w18059" t="mod" cr="" w="than" l="~" p="Prep"/>
+     <dpg d="w18061" g="w18060" t="pcomp-n" cr="mod*than*n:w18059" w="profilin" l="~" p="N"/>
+     <dpg d="w18062" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="I" l="~" p="N"/>
+     <dpg d="w18063" g="E3" t="p" cr="" w="under" l="~" p="Prep"/>
+     <dpg d="w18064" g="w18065" t="mod" cr="mod:w18065" w="non-equilibrium" l="non-equilibrium" p="A"/>
+     <dpg d="w18065" g="w18063" t="pcomp-n" cr="p*under*n:E3" w="conditions" l="condition" p="N"/>
+     <dpg d="w18066" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

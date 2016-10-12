@@ -1,0 +1,65 @@
+<rexml>
+<doc id="102">
+  <text>
+<p><s id="s1"><w id="w1755">A</w> <w id="w1756">model</w> <w id="w1757">is</w> <w id="w1758">proposed</w> <w id="w1759">for</w> <w id="w1760">the</w> <w id="w1761">function</w> <w id="w1762">of</w> <w id="w1763">profilin</w> <w id="w1764">in</w> <w id="w1765">actin</w><w id="w1766">-based</w> <w id="w1767">motility</w> <w id="w1768">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e435" gid="g421" t="Individual_protein" fr="w1763" to="w1763" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.102.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e436" gid="g422" t="RELATIONSHIP_TEXTBINDING" fr="w1761" to="w1764">
+     <textspan type="extent">function of [..] in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.102.1"/>
+      <exattr n="nst" v="st.102.6.0"/>
+      <exattr n="nst" v="st.102.7.0"/>
+      <exattr n="nst" v="st.102.9.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e437" gid="g423" t="Function_property" fr="w1765" to="w1767">
+     <textspan type="extent">actin-based motility</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.102.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e438" gid="g424" t="Individual_protein" fr="w1765" to="w1765" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.102.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r170" t="PARTICIPATE" e1="e435" e2="e437" re="e436">
+     <textspan type="extent">function of profilin in actin -based motility</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.102.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,88 @@
+<rexml>
+<doc id="1933">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w31201" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6" w="Transfection" l="~" p="N"/>
+     <dpg d="w31202" g="w31201" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31203" g="w31202" t="pcomp-n" cr="mod*of*n:w31201||s+subj:w31204" w="plasmids" l="~" p="N"/>
+     <dpg d="E2" g="w31203" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w31203" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31204" g="E2" t="i" cr="rel:w31203" w="encoding" l="encode" p="V"/>
+     <dpg d="E7" g="w31204" t="subj" cr="" w="" l="plasmids" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="plasmids" p="N"/>
+     <dpg d="w31205" g="w31207" t="det" cr="det:w31207" w="the" l="~" p="Det"/>
+     <dpg d="w31206" g="w31207" t="nn" cr="nn:w31207" w="BRSV" l="~" p="N"/>
+     <dpg d="w31207" g="w31204" t="obj" cr="obj:w31204" w="minigenome" l="~" p="N"/>
+     <dpg d="w31208" g="w31207" t="punc" cr="punc:w31207" w="," l="~" p="U"/>
+     <dpg d="w31209" g="w31212" t="nn" cr="nn:w31212" w="nucleocapsid" l="~" p="N"/>
+     <dpg d="w31210" g="w31212" t="nn" cr="nn:w31212" w="protein" l="~" p="N"/>
+     <dpg d="w31211" g="w31212" t="punc" cr="punc:w31212" w="(" l="~" p="U"/>
+     <dpg d="w31212" g="w31207" t="conj" cr="conj:w31207" w="N" l="~" p="N"/>
+     <dpg d="w31213" g="w31212" t="punc" cr="punc:w31212" w=")" l="~" p="U"/>
+     <dpg d="w31214" g="w31212" t="punc" cr="punc:w31212" w="," l="~" p="U"/>
+     <dpg d="w31215" g="w31217" t="nn" cr="nn:w31217" w="phosphoprotein" l="~" p="N"/>
+     <dpg d="w31216" g="w31217" t="punc" cr="punc:w31217" w="(" l="~" p="U"/>
+     <dpg d="w31217" g="w31212" t="conj" cr="conj:w31212" w="P" l="~" p="N"/>
+     <dpg d="w31218" g="w31217" t="punc" cr="punc:w31217" w=")" l="~" p="U"/>
+     <dpg d="w31219" g="w31217" t="punc" cr="punc:w31217" w="and" l="~" p="U"/>
+     <dpg d="w31220" g="w31221" t="mod" cr="mod:w31221" w="L" l="~" p="A"/>
+     <dpg d="w31221" g="w31217" t="conj" cr="conj:w31217" w="protein" l="~" p="N"/>
+     <dpg d="w31222" g="w31204" t="punc" cr="punc:w31204" w="," l="~" p="U"/>
+     <dpg d="w31223" g="w31204" t="mod" cr="mod:w31204" w="each" l="~" p="A"/>
+     <dpg d="w31224" g="w31223" t="mod" cr="" w="under" l="~" p="Prep"/>
+     <dpg d="w31225" g="w31226" t="det" cr="det:w31226" w="the" l="~" p="Det"/>
+     <dpg d="w31226" g="w31224" t="pcomp-n" cr="mod*under*n:w31223" w="control" l="~" p="N"/>
+     <dpg d="w31227" g="w31226" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31228" g="w31229" t="nn" cr="nn:w31229" w="T7" l="~" p="N"/>
+     <dpg d="w31229" g="w31227" t="pcomp-n" cr="mod*of*n:w31226" w="promoter" l="~" p="N"/>
+     <dpg d="w31230" g="E6" t="punc" cr="punc:E6" w="," l="~" p="U"/>
+     <dpg d="E1" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31231" g="E1" t="mod" cr="" w="into" l="~" p="Prep"/>
+     <dpg d="w31232" g="w31231" t="pcomp-n" cr="mod*into*n:w31244||obj:w31233" w="cells" l="cell" p="N"/>
+     <dpg d="w31233" g="w31232" t="vrel" cr="vrel:w31232" w="infected" l="infect" p="V"/>
+     <dpg d="E8" g="w31233" t="obj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E8" g="w31232" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w31234" g="w31233" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w31235" g="w31236" t="det" cr="det:w31236" w="a" l="~" p="Det"/>
+     <dpg d="w31236" g="w31234" t="pcomp-n" cr="mod*with*n:w31233" w="vaccinia" l="~" p="N"/>
+     <dpg d="w31237" g="w31238" t="nn" cr="nn:w31238" w="virus" l="~" p="N"/>
+     <dpg d="w31238" g="w31244" t="s" cr="s+subj:w31239||s+subj:w31244" w="recombinant" l="~" p="N"/>
+     <dpg d="E0" g="w31238" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w31238" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31239" g="E0" t="i" cr="rel:w31238" w="expressing" l="express" p="V"/>
+     <dpg d="E9" g="w31239" t="subj" cr="" w="" l="recombinant" p="N"/>
+     <dpg d="E9" g="E3" t="antecedent" cr="" w="" l="recombinant" p="N"/>
+     <dpg d="w31240" g="w31243" t="det" cr="det:w31243" w="the" l="~" p="Det"/>
+     <dpg d="w31241" g="w31242" t="lex-mod" cr="lex-mod:w31242" w="T7" l="~" p="U"/>
+     <dpg d="w31242" g="w31243" t="nn" cr="nn:w31243" w="RNA" l="T7 RNA" p="N"/>
+     <dpg d="w31243" g="w31239" t="obj" cr="obj:w31239" w="polymerase" l="~" p="N"/>
+     <dpg d="w31244" g="E1" t="i" cr="UNSPECRELTYPE:E6" w="gave" l="give" p="V"/>
+     <dpg d="E10" g="w31244" t="subj" cr="" w="" l="recombinant" p="N"/>
+     <dpg d="E10" g="w31238" t="antecedent" cr="" w="" l="recombinant" p="N"/>
+     <dpg d="w31245" g="w31244" t="obj" cr="obj:w31244" w="rise" l="~" p="N"/>
+     <dpg d="w31246" g="w31245" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w31247" g="w31248" t="nn" cr="nn:w31248" w="CAT" l="~" p="N"/>
+     <dpg d="w31248" g="w31246" t="pcomp-n" cr="mod*to*n:w31245" w="activity" l="~" p="N"/>
+     <dpg d="w31249" g="w31248" t="punc" cr="punc:w31248" w="and" l="~" p="U"/>
+     <dpg d="w31250" g="w31248" t="conj" cr="conj:w31248" w="progeny" l="~" p="N"/>
+     <dpg d="w31251" g="w31250" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w31252" g="w31253" t="det" cr="det:w31253" w="the" l="~" p="Det"/>
+     <dpg d="w31253" g="w31251" t="pcomp-n" cr="mod*with*n:w31250" w="minigenome" l="~" p="N"/>
+     <dpg d="w31254" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

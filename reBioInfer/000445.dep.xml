@@ -1,0 +1,56 @@
+<rexml>
+<doc id="445">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6385" g="w6386" t="s" cr="s+subj:w6386" w="Evidence" l="~" p="N"/>
+     <dpg d="w6386" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="suggests" l="suggest" p="V"/>
+     <dpg d="E6" g="w6386" t="subj" cr="" w="" l="evidence" p="N"/>
+     <dpg d="E6" g="w6385" t="antecedent" cr="" w="" l="evidence" p="N"/>
+     <dpg d="E1" g="w6386" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6387" g="E1" t="c" cr="c:w6391" w="that" l="~" p="COMP"/>
+     <dpg d="w6388" g="w6390" t="det" cr="det:w6390" w="this" l="~" p="Det"/>
+     <dpg d="w6389" g="w6390" t="mod" cr="mod:w6390" w="differential" l="~" p="A"/>
+     <dpg d="w6390" g="w6391" t="s" cr="s+subj:w6391||s+subj:w6404" w="recognition" l="~" p="N"/>
+     <dpg d="w6391" g="E1" t="i" cr="fc:w6386" w="bears" l="bear" p="V"/>
+     <dpg d="E7" g="w6391" t="subj" cr="" w="" l="recognition" p="N"/>
+     <dpg d="E7" g="w6390" t="antecedent" cr="" w="" l="recognition" p="N"/>
+     <dpg d="w6392" g="w6393" t="mod" cr="mod:w6393" w="functional" l="~" p="A"/>
+     <dpg d="w6393" g="w6391" t="obj" cr="obj:w6391" w="significance" l="~" p="N"/>
+     <dpg d="w6394" g="w6393" t="mod" cr="" w="concerning" l="~" p="Prep"/>
+     <dpg d="w6395" g="w6397" t="det" cr="det:w6397" w="the" l="~" p="Det"/>
+     <dpg d="w6396" g="w6397" t="mod" cr="mod:w6397" w="intricate" l="~" p="A"/>
+     <dpg d="w6397" g="w6394" t="pcomp-n" cr="mod*concerning*n:w6393" w="roles" l="role" p="N"/>
+     <dpg d="w6398" g="w6397" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6399" g="w6398" t="pcomp-n" cr="mod*of*n:w6397" w="profilin" l="~" p="N"/>
+     <dpg d="w6400" g="w6399" t="punc" cr="punc:w6399" w="and" l="~" p="U"/>
+     <dpg d="w6401" g="w6402" t="nn" cr="nn:w6402" w="inositol" l="~" p="N"/>
+     <dpg d="w6402" g="w6399" t="conj" cr="conj:w6399" w="lipids" l="lipid" p="N"/>
+     <dpg d="w6403" g="w6402" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="E0" g="w6403" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w6390" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6404" g="E0" t="i" cr="mod*in*c:w6402" w="modulating" l="modulate" p="V"/>
+     <dpg d="E8" g="w6404" t="subj" cr="" w="" l="recognition" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="recognition" p="N"/>
+     <dpg d="w6405" g="w6406" t="nn" cr="nn:w6406" w="actin" l="~" p="N"/>
+     <dpg d="w6406" g="w6404" t="obj" cr="obj:w6404" w="polymerization" l="~" p="N"/>
+     <dpg d="w6407" g="w6406" t="punc" cr="punc:w6406" w="and" l="~" p="U"/>
+     <dpg d="w6408" g="w6409" t="nn" cr="nn:w6409" w="PtdIns(4,5)P2" l="~" p="N"/>
+     <dpg d="w6409" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="turnover" l="~" p="N"/>
+     <dpg d="w6410" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

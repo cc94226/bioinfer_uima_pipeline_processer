@@ -1,0 +1,57 @@
+<rexml>
+<doc id="838">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12984" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w12985" g="w12989" t="det" cr="det:w12989" w="the" l="~" p="Det"/>
+     <dpg d="w12986" g="w12989" t="mod" cr="mod:w12989" w="budding" l="~" p="A"/>
+     <dpg d="w12987" g="w12989" t="nn" cr="nn:w12989" w="yeast" l="~" p="N"/>
+     <dpg d="w12988" g="w12989" t="lex-mod" cr="lex-mod:w12989" w="Saccharomyces" l="~" p="U"/>
+     <dpg d="w12989" g="w12984" t="pcomp-n" cr="mod*in*n:w12996" w="cerevisiae" l="Saccharomyces cerevisiae" p="N"/>
+     <dpg d="w12990" g="E1" t="punc" cr="punc:w12996" w="," l="~" p="U"/>
+     <dpg d="w12991" g="w12992" t="det" cr="det:w12992" w="the" l="~" p="Det"/>
+     <dpg d="w12992" g="w12996" t="s" cr="obj:w12995||s+subj:w12996" w="DNA" l="~" p="N"/>
+     <dpg d="E0" g="w12992" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12993" g="w12994" t="mod" cr="mod:w12994" w="damage-induced" l="damage-induced" p="A"/>
+     <dpg d="w12994" g="w12995" t="s" cr="s+subj:w12995" w="G2" l="~" p="N"/>
+     <dpg d="w12995" g="E0" t="i" cr="rel:w12992" w="arrest" l="~" p="V"/>
+     <dpg d="E3" g="w12995" t="obj" cr="" w="" l="DNA" p="N"/>
+     <dpg d="E3" g="w12992" t="antecedent" cr="" w="" l="DNA" p="N"/>
+     <dpg d="E4" g="w12995" t="subj" cr="" w="" l="G2" p="N"/>
+     <dpg d="E4" g="w12994" t="antecedent" cr="" w="" l="G2" p="N"/>
+     <dpg d="w12996" g="E1" t="i" cr="" w="requires" l="require" p="V"/>
+     <dpg d="E5" g="w12996" t="subj" cr="" w="" l="DNA" p="N"/>
+     <dpg d="E5" g="w12992" t="antecedent" cr="" w="" l="DNA" p="N"/>
+     <dpg d="w12997" g="w12998" t="det" cr="det:w12998" w="the" l="~" p="Det"/>
+     <dpg d="w12998" g="w12999" t="s" cr="s+subj:w12999" w="checkpoint" l="~" p="N"/>
+     <dpg d="w12999" g="w12996" t="sc" cr="sc:w12996" w="control" l="~" p="V"/>
+     <dpg d="E6" g="w12999" t="subj" cr="" w="" l="checkpoint" p="N"/>
+     <dpg d="E6" g="w12998" t="antecedent" cr="" w="" l="checkpoint" p="N"/>
+     <dpg d="w13000" g="w13001" t="nn" cr="nn:w13001" w="genes" l="gene" p="N"/>
+     <dpg d="w13001" g="w12999" t="obj" cr="obj:w12999" w="RAD9" l="~" p="N"/>
+     <dpg d="w13002" g="w13001" t="punc" cr="punc:w13001" w="," l="~" p="U"/>
+     <dpg d="w13003" g="w13001" t="conj" cr="conj:w13001" w="RAD17" l="~" p="N"/>
+     <dpg d="w13004" g="w13003" t="punc" cr="punc:w13003" w="," l="~" p="U"/>
+     <dpg d="w13005" g="w13003" t="conj" cr="conj:w13003" w="RAD24" l="~" p="N"/>
+     <dpg d="w13006" g="w13005" t="punc" cr="punc:w13005" w="," l="~" p="U"/>
+     <dpg d="w13007" g="w13005" t="conj" cr="conj:w13005" w="MEC1" l="~" p="N"/>
+     <dpg d="w13008" g="w13007" t="punc" cr="punc:w13007" w="," l="~" p="U"/>
+     <dpg d="w13009" g="w13007" t="conj" cr="conj:w13007" w="MEC2" l="~" p="N"/>
+     <dpg d="w13010" g="w13009" t="punc" cr="punc:w13009" w="and" l="~" p="U"/>
+     <dpg d="w13011" g="w13009" t="conj" cr="conj:w13009" w="MEC3" l="~" p="N"/>
+     <dpg d="w13012" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,137 @@
+<rexml>
+<doc id="53">
+  <text>
+<p><s id="s1"><w id="w792">A</w> <w id="w793">distinct</w> <w id="w794">modulating</w> <w id="w795">domain</w> <w id="w796">in</w> <w id="w797">glucocorticoid</w> <w id="w798">receptor</w> <w id="w799">monomers</w> <w id="w800">in</w> <w id="w801">the</w> <w id="w802">repression</w> <w id="w803">of</w> <w id="w804">activity</w> <w id="w805">of</w> <w id="w806">the</w> <w id="w807">transcription</w> <w id="w808">factor</w> <w id="w809">AP-1</w> <w id="w810">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e216" gid="g210" t="RELATIONSHIP_TEXTBINDING" fr="w800" to="w800">
+     <textspan type="extent">in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.53.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e217" gid="g211" t="INHIBITION" fr="w802" to="w809">
+     <textspan type="extent">repression of activity of [..] factor AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Negative"/>
+      <exattr n="t4" v="INHIBITION"/>
+      <exattr n="bd" v="e.53.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e218" gid="g212" t="Dynamics_property" fr="w804" to="w809">
+     <textspan type="extent">activity of [..] factor AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.53.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e219" gid="g213" t="Individual_protein" fr="w808" to="w809" nam="yes">
+     <textspan type="extent">factor AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.53.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e220" gid="g214" t="Individual_protein" fr="w797" to="w799" nam="yes">
+     <textspan type="extent">glucocorticoid receptor monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.53.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e221" gid="g215" t="Individual_protein" fr="w809" to="w809" nam="yes">
+     <textspan type="extent">AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.53.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e222" gid="g216" t="Individual_protein" fr="w809" to="w809" nam="yes">
+     <textspan type="extent">AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.53.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e223" gid="g217" t="Substructure_of_protein" fr="w795" to="w799" nam="yes">
+     <textspan type="extent">domain in glucocorticoid receptor monomers</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.53.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e224" gid="g218" t="Individual_protein" fr="w809" to="w809" nam="yes">
+     <textspan type="extent">AP-1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.53.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e225" gid="g219" t="Individual_protein" fr="w797" to="w798" nam="yes">
+     <textspan type="extent">glucocorticoid receptor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.53.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r74" t="PARTICIPATE" e1="e223" e2="e217" re="e216">
+     <textspan type="extent">domain in glucocorticoid receptor monomers in the repression of activity of the transcription factor AP-1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.53.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

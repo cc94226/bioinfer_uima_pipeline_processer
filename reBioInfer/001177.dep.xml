@@ -1,0 +1,41 @@
+<rexml>
+<doc id="1177">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18624" g="w18625" t="lex-mod" cr="lex-mod:w18625" w="Recombinant" l="~" p="U"/>
+     <dpg d="w18625" g="w18626" t="nn" cr="nn:w18626" w="HSH49" l="Recombinant HSH49" p="N"/>
+     <dpg d="w18626" g="w18627" t="s" cr="s+subj:w18627" w="protein" l="~" p="N"/>
+     <dpg d="w18627" g="E1" t="i" cr="" w="has" l="have" p="V"/>
+     <dpg d="E3" g="w18627" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E3" g="w18626" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w18628" g="w18633" t="det" cr="det:w18633" w="a" l="~" p="Det"/>
+     <dpg d="w18629" g="w18632" t="lex-mod" cr="lex-mod:w18632" w="general" l="~" p="U"/>
+     <dpg d="w18630" g="w18632" t="lex-mod" cr="lex-mod:w18632" w="RNA" l="~" p="U"/>
+     <dpg d="w18631" g="w18632" t="lex-mod" cr="lex-mod:w18632" w="-" l="~" p="U"/>
+     <dpg d="w18632" g="w18633" t="mod" cr="mod:w18633" w="binding" l="general RNA - binding" p="A"/>
+     <dpg d="w18633" g="w18627" t="obj" cr="obj:w18627||subj:w18637" w="activity" l="~" p="N"/>
+     <dpg d="E0" g="w18633" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18634" g="E0" t="whn" cr="whn:w18637" w="that" l="~" p="THAT"/>
+     <dpg d="w18634" g="w18633" t="antecedent" cr="antecedent:w18633" w="that" l="~" p="THAT"/>
+     <dpg d="w18635" g="w18637" t="aux" cr="aux:w18637" w="does" l="do" p="Aux"/>
+     <dpg d="w18636" g="w18635" t="neg" cr="neg:w18635" w="not" l="~" p="A"/>
+     <dpg d="w18637" g="E0" t="i" cr="rel:w18633" w="require" l="~" p="V"/>
+     <dpg d="E4" g="w18637" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E4" g="w18633" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w18638" g="w18637" t="obj" cr="obj:w18637" w="CUS1" l="~" p="N"/>
+     <dpg d="w18639" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

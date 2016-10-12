@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1070">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16882" g="E1" t="mod" cr="" w="On" l="~" p="Prep"/>
+     <dpg d="w16883" g="w16888" t="det" cr="det:w16888" w="the" l="~" p="Det"/>
+     <dpg d="w16884" g="w16888" t="mod" cr="mod:w16888" w="internal" l="~" p="A"/>
+     <dpg d="w16885" g="w16888" t="punc" cr="punc:w16888" w="(" l="~" p="U"/>
+     <dpg d="w16886" g="w16888" t="mod" cr="mod:w16888" w="cytoplasmic" l="~" p="A"/>
+     <dpg d="w16887" g="w16888" t="punc" cr="punc:w16888" w=")" l="~" p="U"/>
+     <dpg d="w16888" g="w16882" t="pcomp-n" cr="mod*on*n:w16901" w="side" l="~" p="N"/>
+     <dpg d="w16889" g="w16888" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w16890" g="w16891" t="mod" cr="mod:w16891" w="focal" l="~" p="A"/>
+     <dpg d="w16891" g="w16889" t="pcomp-n" cr="mod*of*n:w16888" w="contacts" l="contact" p="N"/>
+     <dpg d="w16892" g="E1" t="punc" cr="punc:w16901" w="," l="~" p="U"/>
+     <dpg d="w16893" g="w16894" t="det" cr="det:w16894" w="several" l="~" p="Det"/>
+     <dpg d="w16894" g="w16901" t="s" cr="s+subj:w16896||s+subj:w16901" w="proteins" l="protein" p="N"/>
+     <dpg d="w16895" g="w16901" t="punc" cr="punc:w16901" w="," l="~" p="U"/>
+     <dpg d="E0" g="w16901" t="mod-before" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w16894" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w16896" g="E0" t="i" cr="mod-before:w16901" w="including" l="include" p="V"/>
+     <dpg d="E5" g="w16896" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w16897" g="w16896" t="obj" cr="obj:w16896" w="talin" l="~" p="N"/>
+     <dpg d="w16898" g="w16897" t="punc" cr="punc:w16897" w="and" l="~" p="U"/>
+     <dpg d="w16899" g="w16897" t="conj" cr="conj:w16897" w="vinculin" l="~" p="N"/>
+     <dpg d="w16900" g="w16901" t="punc" cr="punc:w16901" w="," l="~" p="U"/>
+     <dpg d="w16901" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="mediate" l="~" p="V"/>
+     <dpg d="E6" g="w16901" t="subj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E6" g="w16894" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w16902" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="interactions" l="interaction" p="N"/>
+     <dpg d="w16903" g="w16902" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w16904" g="w16907" t="det" cr="det:w16907" w="the" l="~" p="Det"/>
+     <dpg d="w16905" g="w16907" t="nn" cr="nn:w16907" w="actin" l="~" p="N"/>
+     <dpg d="w16906" g="w16907" t="nn" cr="nn:w16907" w="filament" l="~" p="N"/>
+     <dpg d="w16907" g="w16903" t="pcomp-n" cr="mod*with*n:w16902" w="bundles" l="bundle" p="N"/>
+     <dpg d="w16908" g="w16907" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w16909" g="w16910" t="det" cr="det:w16910" w="the" l="~" p="Det"/>
+     <dpg d="w16910" g="w16908" t="pcomp-n" cr="mod*of*n:w16907" w="cytoskeleton" l="~" p="N"/>
+     <dpg d="w16911" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

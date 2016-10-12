@@ -1,0 +1,88 @@
+<rexml>
+<doc id="314">
+  <text>
+<p><s id="s1"><w id="w4860">Class</w> <w id="w4861">II</w> <w id="w4862">profilins</w> <w id="w4863">had</w> <w id="w4864">higher</w> <w id="w4865">affinity</w> <w id="w4866">for</w> <w id="w4867">poly-l-proline</w> <w id="w4868">and</w> <w id="w4869">sequestered</w> <w id="w4870">more</w> <w id="w4871">monomeric</w> <w id="w4872">actin</w> <w id="w4873">than</w> <w id="w4874">did</w> <w id="w4875">class</w> <w id="w4876">I</w> <w id="w4877">profilins</w> <w id="w4878">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1178" gid="g1122" t="Individual_protein" fr="w4860" to="w4862" nam="yes">
+     <textspan type="extent">Class II profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.314.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1179" gid="g1123" t="RELATIONSHIP_TEXTBINDING" fr="w4869" to="w4873">
+     <textspan type="extent">sequestered [..] than</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.314.1"/>
+      <exattr n="nst" v="st.314.9.0"/>
+      <exattr n="nst" v="st.314.13.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1180" gid="g1124" t="Individual_protein" fr="w4872" to="w4872" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.314.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1181" gid="g1125" t="RELATIONSHIP_TEXTBINDING" fr="w4869" to="w4869">
+     <textspan type="extent">sequestered</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.314.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1182" gid="g1126" t="Individual_protein" fr="w4875" to="w4877" nam="yes">
+     <textspan type="extent">class I profilins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.314.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r467" t="LOCALIZE" e1="e1178" e2="e1180" re="e1181">
+     <textspan type="extent">Class II profilins had higher affinity for poly-l-proline and sequestered more monomeric actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.314.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r468" t="LOCALIZE" e1="e1182" e2="e1180" re="e1179">
+     <textspan type="extent">sequestered more monomeric actin than did class I profilins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.314.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

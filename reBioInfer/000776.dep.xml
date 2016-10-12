@@ -1,0 +1,69 @@
+<rexml>
+<doc id="776">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12088" g="E2" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w12089" g="w12090" t="mod" cr="mod:w12090" w="infected" l="~" p="A"/>
+     <dpg d="w12090" g="w12088" t="pcomp-n" cr="mod*in*n:w12095" w="cells" l="cell" p="N"/>
+     <dpg d="w12091" g="E2" t="punc" cr="punc:w12095" w="," l="~" p="U"/>
+     <dpg d="w12092" g="w12093" t="mod" cr="mod:w12093" w="C" l="~" p="A"/>
+     <dpg d="w12093" g="w12095" t="s" cr="s+obj:w12095" w="protein" l="~" p="N"/>
+     <dpg d="w12094" g="w12095" t="be" cr="be:w12095" w="was" l="be" p="be"/>
+     <dpg d="w12095" g="E2" t="i" cr="UNSPECRELTYPE:E4" w="detected" l="detect" p="V"/>
+     <dpg d="E5" g="w12095" t="obj" cr="" w="" l="protein" p="N"/>
+     <dpg d="E5" g="w12093" t="antecedent" cr="" w="" l="protein" p="N"/>
+     <dpg d="w12096" g="w12095" t="mod" cr="mod:w12095" w="exclusively" l="~" p="A"/>
+     <dpg d="w12097" g="w12096" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w12098" g="w12099" t="det" cr="det:w12099" w="the" l="~" p="Det"/>
+     <dpg d="w12099" g="w12097" t="pcomp-n" cr="mod*in*n:w12096" w="cytoplasm" l="~" p="N"/>
+     <dpg d="w12100" g="w12099" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w12101" g="w12102" t="mod" cr="mod:w12102" w="granular" l="~" p="A"/>
+     <dpg d="w12102" g="w12100" t="pcomp-n" cr="mod*as*n:w12099||subj:w12105" w="fluorescence" l="~" p="N"/>
+     <dpg d="w12103" g="w12102" t="punc" cr="punc:w12102" w="," l="~" p="U"/>
+     <dpg d="E1" g="w12102" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12104" g="E1" t="whn" cr="whn:w12105" w="which" l="~" p="N"/>
+     <dpg d="w12104" g="w12102" t="antecedent" cr="antecedent:w12102" w="which" l="~" p="N"/>
+     <dpg d="w12105" g="E1" t="i" cr="rel:w12102" w="coincided" l="coincide" p="V"/>
+     <dpg d="E6" g="w12105" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E6" g="w12102" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w12106" g="w12107" t="lex-mod" cr="lex-mod:w12107" w="very" l="~" p="U"/>
+     <dpg d="w12107" g="w12105" t="mod" cr="mod:w12105" w="well" l="very well" p="A"/>
+     <dpg d="w12108" g="w12107" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w12109" g="w12110" t="det" cr="det:w12110" w="the" l="~" p="Det"/>
+     <dpg d="w12110" g="w12108" t="pcomp-n" cr="mod*with*n:w12107" w="distribution" l="~" p="N"/>
+     <dpg d="w12111" g="w12110" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12112" g="w12114" t="nn" cr="nn:w12114" w="nucleocapsid" l="~" p="N"/>
+     <dpg d="w12113" g="w12114" t="nn" cr="nn:w12114" w="protein" l="~" p="N"/>
+     <dpg d="w12114" g="w12111" t="pcomp-n" cr="mod*of*n:w12110" w="NP" l="~" p="N"/>
+     <dpg d="w12115" g="w12114" t="punc" cr="punc:w12114" w="and" l="~" p="U"/>
+     <dpg d="w12116" g="w12117" t="nn" cr="nn:w12117" w="phosphoprotein" l="~" p="N"/>
+     <dpg d="w12117" g="w12114" t="conj" cr="conj:w12114||obj:w12122" w="P" l="~" p="N"/>
+     <dpg d="w12118" g="w12117" t="punc" cr="punc:w12117" w="," l="~" p="U"/>
+     <dpg d="E0" g="w12117" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12119" g="E0" t="whn" cr="whn:w12122" w="which" l="~" p="N"/>
+     <dpg d="w12119" g="w12117" t="antecedent" cr="antecedent:w12117" w="which" l="~" p="N"/>
+     <dpg d="w12120" g="w12122" t="be" cr="be:w12122" w="were" l="be" p="be"/>
+     <dpg d="w12121" g="w12122" t="amod" cr="amod:w12122" w="also" l="~" p="A"/>
+     <dpg d="w12122" g="E0" t="i" cr="rel:w12117" w="detected" l="detect" p="V"/>
+     <dpg d="E7" g="w12122" t="obj" cr="" w="" l="which" p="N"/>
+     <dpg d="E7" g="w12117" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w12123" g="w12122" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w12124" g="w12123" t="pcomp-n" cr="mod*with*n:w12122" w="specific" l="~" p="N"/>
+     <dpg d="w12125" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="antisera" l="~" p="A"/>
+     <dpg d="w12126" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

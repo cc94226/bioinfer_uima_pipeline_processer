@@ -1,0 +1,98 @@
+<rexml>
+<doc id="601">
+  <text>
+<p><s id="s1"><w id="w8716">Here</w> <w id="w8717">,</w> <w id="w8718">we</w> <w id="w8719">sought</w> <w id="w8720">to</w> <w id="w8721">determine</w> <w id="w8722">the</w> <w id="w8723">spatial</w> <w id="w8724">distributions</w> <w id="w8725">of</w> <w id="w8726">E-cadherin</w> <w id="w8727">,</w> <w id="w8728">alpha-catenin</w> <w id="w8729">,</w> <w id="w8730">beta-catenin</w> <w id="w8731">,</w> <w id="w8732">and</w> <w id="w8733">plakoglobin</w> <w id="w8734">,</w> <w id="w8735">and</w> <w id="w8736">whether</w> <w id="w8737">different</w> <w id="w8738">complexes</w> <w id="w8739">of</w> <w id="w8740">these</w> <w id="w8741">proteins</w> <w id="w8742">accumulate</w> <w id="w8743">at</w> <w id="w8744">steady</w> <w id="w8745">state</w> <w id="w8746">in</w> <w id="w8747">polarized</w> <w id="w8748">Madin-Darby</w> <w id="w8749">canine</w> <w id="w8750">kidney</w> <w id="w8751">cells</w> <w id="w8752">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2081" gid="g1993" t="Individual_protein" fr="w8726" to="w8726" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.601.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2082" gid="g1994" t="RELATIONSHIP_TEXTBINDING" fr="w8738" to="w8739">
+     <textspan type="extent">complexes of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.601.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2083" gid="g1995" t="Individual_protein" fr="w8730" to="w8730" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.601.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2084" gid="g1996" t="Individual_protein" fr="w8728" to="w8728" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.601.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2085" gid="g1993" t="Individual_protein" fr="w8740" to="w8740" nam="yes">
+     <textspan type="extent">these</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.601.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2086" gid="g1993" t="Individual_protein" fr="w8733" to="w8733" nam="yes">
+     <textspan type="extent">plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.601.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2087" gid="g1997" t="Individual_protein" fr="w8740" to="w8741" nam="yes">
+     <textspan type="extent">these proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.601.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,205 @@
+<rexml>
+<doc id="1759">
+  <text>
+<p><s id="s1"><w id="w28007">These</w> <w id="w28008">results</w> <w id="w28009">support</w> <w id="w28010">a</w> <w id="w28011">model</w> <w id="w28012">in</w> <w id="w28013">which</w> <w id="w28014">EGF</w> <w id="w28015">stimulation</w> <w id="w28016">recruits</w> <w id="w28017">cofilin</w> <w id="w28018">to</w> <w id="w28019">the</w> <w id="w28020">leading</w> <w id="w28021">edge</w> <w id="w28022">where</w> <w id="w28023">its</w> <w id="w28024">severing</w> <w id="w28025">activity</w> <w id="w28026">is</w> <w id="w28027">activated</w> <w id="w28028">,</w> <w id="w28029">leading</w> <w id="w28030">to</w> <w id="w28031">the</w> <w id="w28032">generation</w> <w id="w28033">of</w> <w id="w28034">short</w> <w id="w28035">actin</w> <w id="w28036">filaments</w> <w id="w28037">with</w> <w id="w28038">free</w> <w id="w28039">barbed</w> <w id="w28040">ends</w> <w id="w28041">that</w> <w id="w28042">participate</w> <w id="w28043">in</w> <w id="w28044">the</w> <w id="w28045">nucleation</w> <w id="w28046">of</w> <w id="w28047">actin</w> <w id="w28048">polymerization</w> <w id="w28049">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6475" gid="g6178" t="STIMULATION" fr="w28014" to="w28015">
+     <textspan type="extent">EGF stimulation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="STIMULATION"/>
+      <exattr n="bd" v="e.1759.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6476" gid="g6179" t="RELATIONSHIP_TEXTBINDING" fr="w28016" to="w28016">
+     <textspan type="extent">recruits</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1759.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6477" gid="g6180" t="Cell_component" fr="w28035" to="w28036" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1759.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6478" gid="g6181" t="Individual_protein" fr="w28017" to="w28017" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1759.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6479" gid="g6182" t="ASSEMBLY" fr="w28032" to="w28036">
+     <textspan type="extent">generation of [..] actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1759.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6480" gid="g6183" t="RELATIONSHIP_TEXTBINDING" fr="w28027" to="w28027">
+     <textspan type="extent">activated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1759.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6481" gid="g6184" t="Dynamics_property" fr="w28023" to="w28025">
+     <textspan type="extent">its [..] activity</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.1759.6"/>
+      <exattr n="nst" v="st.1759.16.0"/>
+      <exattr n="nst" v="st.1759.18.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6482" gid="g6181" t="Individual_protein" fr="w28023" to="w28023" nam="yes">
+     <textspan type="extent">its</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1759.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e6483" gid="g6185" t="POLYMERIZATION" fr="w28047" to="w28048">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.1759.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e6484" gid="g6186" t="Individual_protein" fr="w28047" to="w28047" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1759.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e6485" gid="g6187" t="RELATIONSHIP_TEXTBINDING" fr="w28042" to="w28043">
+     <textspan type="extent">participate in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1759.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e6486" gid="g6188" t="Individual_protein" fr="w28014" to="w28014" nam="yes">
+     <textspan type="extent">EGF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1759.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e6487" gid="g6189" t="RELATIONSHIP_TEXTBINDING" fr="w28029" to="w28030">
+     <textspan type="extent">leading to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1759.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e6489" gid="g6191" t="Individual_protein" fr="w28035" to="w28035" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1759.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e6490" gid="g6192" t="Individual_protein" fr="w28035" to="w28035" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1759.15"/>
+     </exattrs>
+    </ne>
+    <ne id="e6491" gid="g6193" t="STIMULATION" fr="w28045" to="w28048">
+     <textspan type="extent">nucleation of actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="STIMULATION"/>
+      <exattr n="bd" v="e.1759.16"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2495" t="LOCALIZE" e1="e6475" e2="e6478" re="e6476">
+     <textspan type="extent">EGF stimulation recruits cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1759.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2497" t="CAUSE" e1="e6480" e2="e6479" re="e6487">
+     <textspan type="extent">its severing activity is activated , leading to the generation of short actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1759.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2499" t="PARTICIPATE" e1="e6477" e2="e6491" re="e6485">
+     <textspan type="extent">actin filaments with free barbed ends that participate in the nucleation of actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1759.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

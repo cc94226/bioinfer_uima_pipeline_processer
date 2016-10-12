@@ -1,0 +1,92 @@
+<rexml>
+<doc id="779">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E7" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w12159" g="E7" t="p" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="E4" g="w12159" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E4" t="s" cr="s+subj:w12160" w="" l="~" p="N"/>
+     <dpg d="w12160" g="E4" t="i" cr="p*in*c:E7" w="investigating" l="investigate" p="V"/>
+     <dpg d="E8" g="w12160" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w12161" g="w12162" t="det" cr="det:w12162" w="the" l="~" p="Det"/>
+     <dpg d="w12162" g="w12160" t="obj" cr="obj:w12160" w="mechanism" l="~" p="N"/>
+     <dpg d="w12163" g="E7" t="p" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w12164" g="w12163" t="pcomp-n" cr="p*by*n:E7" w="which" l="~" p="N"/>
+     <dpg d="E3" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12165" g="w12166" t="s" cr="s+subj:w12166" w="pRb" l="~" p="N"/>
+     <dpg d="w12166" g="E3" t="i" cr="UNSPECRELTYPE:E7" w="induces" l="induce" p="V"/>
+     <dpg d="E9" g="w12166" t="subj" cr="" w="" l="pRb" p="N"/>
+     <dpg d="E9" g="w12165" t="antecedent" cr="" w="" l="pRb" p="N"/>
+     <dpg d="w12167" g="w12166" t="obj" cr="obj:w12166" w="senescence" l="~" p="N"/>
+     <dpg d="w12168" g="E7" t="punc" cr="punc:E7" w="," l="~" p="U"/>
+     <dpg d="E2" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12169" g="w12171" t="s" cr="s+subj:w12171" w="we" l="~" p="N"/>
+     <dpg d="w12170" g="w12171" t="have" cr="have:w12171" w="have" l="~" p="have"/>
+     <dpg d="w12171" g="E2" t="i" cr="UNSPECRELTYPE:E7" w="found" l="find" p="V"/>
+     <dpg d="E10" g="w12171" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E10" g="w12169" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="E1" g="w12171" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12172" g="E1" t="c" cr="c:w12174" w="that" l="~" p="COMP"/>
+     <dpg d="w12173" g="w12174" t="s" cr="s+subj:w12174" w="pRb" l="~" p="N"/>
+     <dpg d="w12174" g="E1" t="i" cr="fc:w12171" w="causes" l="cause" p="V"/>
+     <dpg d="E11" g="w12174" t="subj" cr="" w="" l="pRb" p="N"/>
+     <dpg d="E11" g="w12173" t="antecedent" cr="" w="" l="pRb" p="N"/>
+     <dpg d="w12175" g="w12177" t="det" cr="det:w12177" w="a" l="~" p="Det"/>
+     <dpg d="w12176" g="w12177" t="mod" cr="mod:w12177" w="posttranscriptional" l="~" p="A"/>
+     <dpg d="w12177" g="w12174" t="obj" cr="obj:w12174" w="accumulation" l="~" p="N"/>
+     <dpg d="w12178" g="w12177" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12179" g="w12185" t="det" cr="det:w12185" w="the" l="~" p="Det"/>
+     <dpg d="w12180" g="w12185" t="mod" cr="mod:w12185" w="cyclin-dependent" l="cyclin-dependent" p="A"/>
+     <dpg d="w12181" g="w12185" t="nn" cr="nn:w12185" w="kinase" l="~" p="N"/>
+     <dpg d="w12182" g="w12185" t="nn" cr="nn:w12185" w="inhibitor" l="~" p="N"/>
+     <dpg d="w12183" g="w12185" t="nn" cr="nn:w12185" w="p27" l="~" p="N"/>
+     <dpg d="w12184" g="w12185" t="punc" cr="punc:w12185" w="(" l="~" p="U"/>
+     <dpg d="w12185" g="w12178" t="pcomp-n" cr="mod*of*n:w12177||obj:w12189" w="KIP1" l="~" p="N"/>
+     <dpg d="w12186" g="w12185" t="punc" cr="punc:w12185" w=")" l="~" p="U"/>
+     <dpg d="E0" g="w12185" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12187" g="E0" t="whn" cr="whn:w12189" w="that" l="~" p="THAT"/>
+     <dpg d="w12187" g="w12185" t="antecedent" cr="antecedent:w12185" w="that" l="~" p="THAT"/>
+     <dpg d="w12188" g="w12189" t="be" cr="be:w12189" w="is" l="be" p="be"/>
+     <dpg d="w12189" g="E0" t="i" cr="rel:w12185" w="accompanied" l="accompany" p="V"/>
+     <dpg d="E12" g="w12189" t="obj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E12" g="w12185" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w12190" g="w12189" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w12191" g="w12192" t="det" cr="det:w12192" w="an" l="~" p="Det"/>
+     <dpg d="w12192" g="w12190" t="pcomp-n" cr="by-subj*by*n:w12189" w="increase" l="~" p="N"/>
+     <dpg d="w12193" g="w12192" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w12194" g="w12196" t="nn" cr="nn:w12196" w="p27" l="~" p="N"/>
+     <dpg d="w12195" g="w12196" t="punc" cr="punc:w12196" w="(" l="~" p="U"/>
+     <dpg d="w12196" g="w12193" t="pcomp-n" cr="mod*in*n:w12192||obj:w12199" w="KIP1" l="~" p="N"/>
+     <dpg d="w12197" g="w12196" t="punc" cr="punc:w12196" w=")" l="~" p="U"/>
+     <dpg d="w12198" g="w12199" t="amod" cr="amod:w12199" w="specifically" l="~" p="A"/>
+     <dpg d="w12199" g="w12196" t="vrel" cr="vrel:w12196" w="bound" l="bind" p="V"/>
+     <dpg d="E13" g="w12199" t="obj" cr="" w="" l="KIP1" p="N"/>
+     <dpg d="E13" g="w12196" t="antecedent" cr="" w="" l="KIP1" p="N"/>
+     <dpg d="w12200" g="w12199" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w12201" g="w12202" t="nn" cr="nn:w12202" w="cyclin" l="~" p="N"/>
+     <dpg d="w12202" g="w12200" t="pcomp-n" cr="mod*to*n:w12199" w="E" l="~" p="N"/>
+     <dpg d="w12203" g="w12202" t="punc" cr="punc:w12202" w="and" l="~" p="U"/>
+     <dpg d="w12204" g="w12206" t="det" cr="det:w12206" w="a" l="~" p="Det"/>
+     <dpg d="w12205" g="w12206" t="mod" cr="mod:w12206" w="concomitant" l="~" p="A"/>
+     <dpg d="w12206" g="w12202" t="conj" cr="conj:w12202" w="decrease" l="~" p="N"/>
+     <dpg d="w12207" g="w12206" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w12208" g="w12211" t="nn" cr="nn:w12211" w="cyclin" l="~" p="N"/>
+     <dpg d="w12209" g="w12211" t="mod" cr="mod:w12211" w="E-associated" l="E-associated" p="A"/>
+     <dpg d="w12210" g="w12211" t="nn" cr="nn:w12211" w="kinase" l="~" p="N"/>
+     <dpg d="w12211" g="w12207" t="pcomp-n" cr="mod*in*n:w12206" w="activity" l="~" p="N"/>
+     <dpg d="w12212" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

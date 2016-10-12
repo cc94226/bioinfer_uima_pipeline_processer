@@ -1,0 +1,45 @@
+<rexml>
+<doc id="225">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3384" g="w3389" t="s" cr="s+subj:w3389" w="Binding" l="~" p="N"/>
+     <dpg d="w3385" g="w3384" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3386" g="w3385" t="pcomp-n" cr="mod*of*n:w3384" w="talin" l="~" p="N"/>
+     <dpg d="w3387" g="w3386" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w3388" g="w3387" t="pcomp-n" cr="mod*to*n:w3386" w="actin" l="~" p="N"/>
+     <dpg d="w3389" g="E0" t="i" cr="" w="occurs" l="occur" p="V"/>
+     <dpg d="E3" g="w3389" t="subj" cr="" w="" l="binding" p="N"/>
+     <dpg d="E3" g="w3384" t="antecedent" cr="" w="" l="binding" p="N"/>
+     <dpg d="w3390" g="w3389" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w3391" g="w3394" t="det" cr="det:w3394" w="a" l="~" p="Det"/>
+     <dpg d="w3392" g="w3394" t="mod" cr="mod:w3394" w="maximal" l="~" p="A"/>
+     <dpg d="w3393" g="w3394" t="mod" cr="mod:w3394" w="molar" l="~" p="A"/>
+     <dpg d="w3394" g="w3390" t="pcomp-n" cr="mod*at*n:w3389" w="ratio" l="~" p="N"/>
+     <dpg d="w3395" g="w3394" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3396" g="w3395" t="pcomp-n" cr="mod*of*n:w3394" w="1:3" l="~" p="N"/>
+     <dpg d="w3397" g="w3389" t="mod" cr="mod:w3389" w="as" l="~" p="A"/>
+     <dpg d="w3398" g="w3397" t="comp1" cr="comp1:w3397" w="determined" l="determine" p="V"/>
+     <dpg d="E1" g="w3398" t="ECR" cr="ECR+obj:w3398" w="" l="~" p="EC"/>
+     <dpg d="E4" g="w3398" t="obj" cr="" w="" l="~" p="EC"/>
+     <dpg d="E4" g="E1" t="antecedent" cr="" w="" l="~" p="EC"/>
+     <dpg d="w3399" g="w3398" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w3400" g="w3399" t="pcomp-n" cr="by-subj*by*n:w3398" w="fluorescencetitration" l="~" p="N"/>
+     <dpg d="w3401" g="w3400" t="mod" cr="" w="under" l="~" p="Prep"/>
+     <dpg d="w3402" g="w3403" t="mod" cr="mod:w3403" w="G-buffer" l="G-buffer" p="A"/>
+     <dpg d="w3403" g="w3401" t="pcomp-n" cr="mod*under*n:w3400" w="conditions" l="condition" p="N"/>
+     <dpg d="w3404" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

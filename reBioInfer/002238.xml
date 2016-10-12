@@ -1,0 +1,114 @@
+<rexml>
+<doc id="2238">
+  <text>
+<p><s id="s1"><w id="w34440">Yeast</w> <w id="w34441">profilin</w> <w id="w34442">was</w> <w id="w34443">shown</w> <w id="w34444">to</w> <w id="w34445">catalyze</w> <w id="w34446">adenine</w> <w id="w34447">nucleotide</w> <w id="w34448">exchange</w> <w id="w34449">from</w> <w id="w34450">yeast</w> <w id="w34451">actin</w> <w id="w34452">almost</w> <w id="w34453">2</w> <w id="w34454">orders</w> <w id="w34455">of</w> <w id="w34456">magnitude</w> <w id="w34457">less</w> <w id="w34458">efficiently</w> <w id="w34459">than</w> <w id="w34460">human</w> <w id="w34461">profilin</w> <w id="w34462">and</w> <w id="w34463">rabbit</w> <w id="w34464">skeletal</w> <w id="w34465">muscle</w> <w id="w34466">actin</w> <w id="w34467">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7811" gid="g7448" t="Individual_protein" fr="w34440" to="w34441" nam="yes">
+     <textspan type="extent">Yeast profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2238.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7812" gid="g7449" t="RELATIONSHIP_TEXTBINDING" fr="w34445" to="w34445">
+     <textspan type="extent">catalyze</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2238.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7813" gid="g7450" t="Gene/protein/RNA" fr="w34461" to="w34461" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2238.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7814" gid="g7451" t="LOCALIZATION" fr="w34448" to="w34451">
+     <textspan type="extent">exchange from yeast actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.2238.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7815" gid="g7452" t="Individual_protein" fr="w34450" to="w34451" nam="yes">
+     <textspan type="extent">yeast actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2238.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7816" gid="g7453" t="Gene/protein/RNA" fr="w34464" to="w34466" nam="yes">
+     <textspan type="extent">skeletal muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2238.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7817" gid="g7454" t="Individual_protein" fr="w34441" to="w34441" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2238.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7818" gid="g7455" t="Individual_protein" fr="w34451" to="w34451" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2238.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r3020" t="CATALYZE" e1="e7811" e2="e7814" re="e7812">
+     <textspan type="extent">Yeast profilin was shown to catalyze adenine nucleotide exchange from yeast actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2238.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="CATALYZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,61 @@
+<rexml>
+<doc id="434">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6234" g="w6236" t="mod" cr="mod:w6236" w="Equine" l="~" p="A"/>
+     <dpg d="w6235" g="w6236" t="mod" cr="mod:w6236" w="satellite" l="~" p="A"/>
+     <dpg d="w6236" g="w6237" t="s" cr="s+subj:w6237" w="cell" l="~" p="N"/>
+     <dpg d="w6237" g="E2" t="i" cr="UNSPECRELTYPE:E4" w="clone" l="~" p="V"/>
+     <dpg d="E5" g="w6237" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E5" g="w6236" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w6238" g="w6237" t="obj" cr="obj:w6237" w="SE-11" l="SE-11" p="N"/>
+     <dpg d="w6239" g="E2" t="punc" cr="punc:w6237" w="and" l="~" p="U"/>
+     <dpg d="E1" g="E2" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6240" g="w6242" t="nn" cr="nn:w6242" w="ovine" l="~" p="N"/>
+     <dpg d="w6241" g="w6242" t="mod" cr="mod:w6242" w="satellite" l="~" p="A"/>
+     <dpg d="w6242" g="w6243" t="s" cr="s+subj:w6243" w="cell" l="~" p="N"/>
+     <dpg d="w6243" g="E1" t="i" cr="conj:w6237" w="clone" l="~" p="V"/>
+     <dpg d="E6" g="w6243" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E6" g="w6242" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w6244" g="w6245" t="be" cr="be+obj:w6245" w="I(1)were" l="be" p="be"/>
+     <dpg d="w6245" g="E0" t="i" cr="i:E0" w="evaluated" l="evaluate" p="V"/>
+     <dpg d="E7" g="w6245" t="obj" cr="" w="" l="1" p="N"/>
+     <dpg d="E7" g="w6244" t="antecedent" cr="" w="" l="1" p="N"/>
+     <dpg d="w6246" g="w6245" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w6247" g="w6246" t="pcomp-n" cr="mod*for*n:w6245" w="expression" l="~" p="N"/>
+     <dpg d="w6248" g="w6247" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6249" g="w6251" t="nn" cr="nn:w6251" w="myosin" l="~" p="N"/>
+     <dpg d="w6250" g="w6251" t="mod" cr="mod:w6251" w="heavy" l="~" p="A"/>
+     <dpg d="w6251" g="w6248" t="pcomp-n" cr="mod*of*n:w6247" w="chain" l="~" p="N"/>
+     <dpg d="w6252" g="w6251" t="punc" cr="punc:w6251" w="," l="~" p="U"/>
+     <dpg d="w6253" g="w6251" t="conj" cr="conj:w6251" w="myogenin" l="~" p="N"/>
+     <dpg d="w6254" g="w6253" t="punc" cr="punc:w6253" w="," l="~" p="U"/>
+     <dpg d="w6255" g="w6253" t="conj" cr="conj:w6253" w="desmin" l="~" p="N"/>
+     <dpg d="w6256" g="w6255" t="punc" cr="punc:w6255" w="," l="~" p="U"/>
+     <dpg d="w6257" g="w6255" t="punc" cr="punc:w6255" w="and" l="~" p="U"/>
+     <dpg d="w6258" g="w6259" t="mod" cr="mod:w6259" w="muscle-specific" l="muscle-specific" p="A"/>
+     <dpg d="w6259" g="w6255" t="conj" cr="conj:w6255" w="actin" l="~" p="N"/>
+     <dpg d="w6260" g="w6253" t="mod" cr="" w="over" l="~" p="Prep"/>
+     <dpg d="w6261" g="w6264" t="det" cr="det:w6264" w="a" l="~" p="Det"/>
+     <dpg d="w6262" g="w6264" t="num" cr="num:w6264" w="240" l="~" p="N"/>
+     <dpg d="w6263" g="w6264" t="nn" cr="nn:w6264" w="h" l="~" p="N"/>
+     <dpg d="w6264" g="w6260" t="pcomp-n" cr="mod*over*n:w6253" w="period" l="~" p="N"/>
+     <dpg d="w6265" g="w6264" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w6266" g="w6265" t="pcomp-n" cr="mod*in*n:w6264" w="culture" l="~" p="N"/>
+     <dpg d="w6267" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

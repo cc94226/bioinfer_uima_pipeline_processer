@@ -1,0 +1,58 @@
+<rexml>
+<doc id="1114">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w17664" g="w17666" t="lex-mod" cr="lex-mod:w17666" w="PF4" l="~" p="U"/>
+     <dpg d="w17665" g="w17666" t="lex-mod" cr="lex-mod:w17666" w="-" l="~" p="U"/>
+     <dpg d="w17666" g="w17667" t="mod" cr="mod:w17667" w="dependent" l="PF4 - dependent" p="A"/>
+     <dpg d="w17667" g="w17675" t="s" cr="s+obj:w17675" w="downregulation" l="~" p="N"/>
+     <dpg d="w17668" g="w17667" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w17669" g="w17673" t="nn" cr="nn:w17673" w="cyclin" l="~" p="N"/>
+     <dpg d="w17670" g="w17672" t="lex-mod" cr="lex-mod:w17672" w="E" l="~" p="U"/>
+     <dpg d="w17671" g="w17672" t="lex-mod" cr="lex-mod:w17672" w="-" l="~" p="U"/>
+     <dpg d="w17672" g="w17673" t="mod" cr="mod:w17673" w="cdk2" l="E - cdk2" p="A"/>
+     <dpg d="w17673" g="w17668" t="pcomp-n" cr="mod*of*n:w17667" w="activity" l="~" p="N"/>
+     <dpg d="w17674" g="w17675" t="be" cr="be:w17675" w="was" l="be" p="be"/>
+     <dpg d="w17675" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="associated" l="associate" p="V"/>
+     <dpg d="E3" g="w17675" t="obj" cr="" w="" l="downregulation" p="N"/>
+     <dpg d="E3" g="w17667" t="antecedent" cr="" w="" l="downregulation" p="N"/>
+     <dpg d="w17676" g="w17675" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w17677" g="w17678" t="mod" cr="mod:w17678" w="increased" l="~" p="A"/>
+     <dpg d="w17678" g="w17676" t="pcomp-n" cr="mod*with*n:w17675" w="binding" l="~" p="N"/>
+     <dpg d="w17679" g="w17678" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w17680" g="w17683" t="det" cr="det:w17683" w="the" l="~" p="Det"/>
+     <dpg d="w17681" g="w17683" t="mod" cr="mod:w17683" w="cyclin-dependent" l="cyclin-dependent" p="A"/>
+     <dpg d="w17682" g="w17683" t="nn" cr="nn:w17683" w="kinase" l="~" p="N"/>
+     <dpg d="w17683" g="w17679" t="pcomp-n" cr="mod*of*n:w17678" w="inhibitor" l="~" p="N"/>
+     <dpg d="w17684" g="w17683" t="punc" cr="punc:w17683" w="," l="~" p="U"/>
+     <dpg d="w17685" g="w17689" t="nn" cr="nn:w17689" w="p21" l="~" p="N"/>
+     <dpg d="w17686" g="w17689" t="punc" cr="punc:w17689" w="(" l="~" p="U"/>
+     <dpg d="w17687" g="w17689" t="nn" cr="nn:w17689" w="Cip1" l="~" p="N"/>
+     <dpg d="w17688" g="w17689" t="nn" cr="nn:w17689" w="/" l="~" p="N"/>
+     <dpg d="w17689" g="w17683" t="appo" cr="appo:w17683" w="WAF1" l="~" p="N"/>
+     <dpg d="w17690" g="E2" t="punc" cr="punc:E2" w=")" l="~" p="U"/>
+     <dpg d="w17691" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w17692" g="E2" t="p" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w17693" g="w17698" t="det" cr="det:w17698" w="the" l="~" p="Det"/>
+     <dpg d="w17694" g="w17698" t="nn" cr="nn:w17698" w="cyclin" l="~" p="N"/>
+     <dpg d="w17695" g="w17697" t="lex-mod" cr="lex-mod:w17697" w="E" l="~" p="U"/>
+     <dpg d="w17696" g="w17697" t="lex-mod" cr="lex-mod:w17697" w="-" l="~" p="U"/>
+     <dpg d="w17697" g="w17698" t="mod" cr="mod:w17698" w="cdk2" l="E - cdk2" p="A"/>
+     <dpg d="w17698" g="w17692" t="pcomp-n" cr="p*to*n:E2" w="complex" l="~" p="N"/>
+     <dpg d="w17699" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

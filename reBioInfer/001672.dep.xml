@@ -1,0 +1,65 @@
+<rexml>
+<doc id="1672">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26615" g="w26619" t="det" cr="det:w26619" w="The" l="~" p="Det"/>
+     <dpg d="w26616" g="w26617" t="lex-mod" cr="lex-mod:w26617" w="Saccharomyces" l="~" p="U"/>
+     <dpg d="w26617" g="w26619" t="nn" cr="nn:w26619" w="cerevisiae" l="Saccharomyces cerevisiae" p="N"/>
+     <dpg d="w26618" g="w26619" t="nn" cr="nn:w26619" w="DDC1" l="~" p="N"/>
+     <dpg d="w26619" g="w26620" t="s" cr="s+subj:w26620||s+subj:w26639" w="gene" l="~" p="N"/>
+     <dpg d="w26620" g="E2" t="i" cr="" w="belongs" l="belong to" p="V"/>
+     <dpg d="w26621" g="w26620" t="lex-mod" cr="lex-mod:w26620" w="to" l="~" p="U"/>
+     <dpg d="E5" g="w26620" t="subj" cr="" w="" l="gene" p="N"/>
+     <dpg d="E5" g="w26619" t="antecedent" cr="" w="" l="gene" p="N"/>
+     <dpg d="w26622" g="w26623" t="det" cr="det:w26623" w="the" l="~" p="Det"/>
+     <dpg d="w26623" g="w26620" t="obj" cr="obj:w26620" w="RAD17" l="~" p="N"/>
+     <dpg d="w26624" g="w26623" t="punc" cr="punc:w26623" w="," l="~" p="U"/>
+     <dpg d="w26625" g="w26623" t="conj" cr="conj:w26623" w="MEC3" l="~" p="N"/>
+     <dpg d="w26626" g="w26625" t="punc" cr="punc:w26625" w="and" l="~" p="U"/>
+     <dpg d="w26627" g="w26629" t="nn" cr="nn:w26629" w="RAD24" l="~" p="N"/>
+     <dpg d="w26628" g="w26629" t="nn" cr="nn:w26629" w="epistasis" l="~" p="N"/>
+     <dpg d="w26629" g="w26625" t="conj" cr="conj:w26625||obj:w26637" w="group" l="~" p="N"/>
+     <dpg d="E1" g="w26629" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26630" g="E1" t="whn" cr="whn:w26637" w="which" l="~" p="N"/>
+     <dpg d="w26630" g="w26629" t="antecedent" cr="antecedent:w26629" w="which" l="~" p="N"/>
+     <dpg d="w26631" g="E1" t="punc" cr="punc:w26637" w="," l="~" p="U"/>
+     <dpg d="w26632" g="w26637" t="mod-before" cr="mod-before:w26637" w="together" l="~" p="A"/>
+     <dpg d="w26633" g="w26632" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w26634" g="w26633" t="pcomp-n" cr="mod*with*n:w26632" w="RAD9" l="~" p="N"/>
+     <dpg d="w26635" g="w26637" t="punc" cr="punc:w26637" w="," l="~" p="U"/>
+     <dpg d="w26636" g="w26637" t="be" cr="be:w26637" w="is" l="be" p="be"/>
+     <dpg d="w26637" g="E1" t="i" cr="rel:w26629" w="proposed" l="propose" p="V"/>
+     <dpg d="E6" g="w26637" t="obj" cr="" w="" l="which" p="N"/>
+     <dpg d="E6" g="w26629" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="E0" g="w26637" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w26619" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w26638" g="w26639" t="aux" cr="aux:w26639" w="to" l="~" p="Aux"/>
+     <dpg d="w26639" g="E0" t="i" cr="mod:w26637" w="act" l="~" p="V"/>
+     <dpg d="E7" g="w26639" t="subj" cr="" w="" l="gene" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="gene" p="N"/>
+     <dpg d="w26640" g="w26639" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w26641" g="w26642" t="det" cr="det:w26642" w="the" l="~" p="Det"/>
+     <dpg d="w26642" g="w26640" t="pcomp-n" cr="mod*at*n:w26639" w="beginning" l="~" p="N"/>
+     <dpg d="w26643" g="w26642" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26644" g="w26648" t="det" cr="det:w26648" w="the" l="~" p="Det"/>
+     <dpg d="w26645" g="w26648" t="nn" cr="nn:w26648" w="DNA" l="~" p="N"/>
+     <dpg d="w26646" g="w26648" t="nn" cr="nn:w26648" w="damage" l="~" p="N"/>
+     <dpg d="w26647" g="w26648" t="nn" cr="nn:w26648" w="checkpoint" l="~" p="N"/>
+     <dpg d="w26648" g="w26643" t="pcomp-n" cr="mod*of*n:w26642" w="pathway" l="~" p="N"/>
+     <dpg d="w26649" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

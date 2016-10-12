@@ -1,0 +1,184 @@
+<rexml>
+<doc id="600">
+  <text>
+<p><s id="s1"><w id="w8694">alpha-SNAP</w> <w id="w8695">binds</w> <w id="w8696">to</w> <w id="w8697">predicted</w> <w id="w8698">alpha-helical</w> <w id="w8699">coiled-coil</w> <w id="w8700">regions</w> <w id="w8701">of</w> <w id="w8702">syntaxin</w> <w id="w8703">and</w> <w id="w8704">SNAP-25</w> <w id="w8705">,</w> <w id="w8706">shown</w> <w id="w8707">previously</w> <w id="w8708">to</w> <w id="w8709">be</w> <w id="w8710">engaged</w> <w id="w8711">in</w> <w id="w8712">their</w> <w id="w8713">direct</w> <w id="w8714">interaction</w> <w id="w8715">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2071" gid="g1985" t="Individual_protein" fr="w8694" to="w8694" nam="yes">
+     <textspan type="extent">alpha-SNAP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.600.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2072" gid="g1986" t="RELATIONSHIP_TEXTBINDING" fr="w8695" to="w8696">
+     <textspan type="extent">binds to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.600.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2073" gid="g1987" t="Substructure_of_protein" fr="w8700" to="w8704" nam="yes">
+     <textspan type="extent">regions of [..] SNAP-25</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.600.2"/>
+      <exattr n="nst" v="st.600.6.0"/>
+      <exattr n="nst" v="st.600.7.0"/>
+      <exattr n="nst" v="st.600.10.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2074" gid="g1988" t="Substructure_of_protein" fr="w8700" to="w8702" nam="yes">
+     <textspan type="extent">regions of syntaxin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.600.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2075" gid="g1989" t="Individual_protein" fr="w8704" to="w8704" nam="yes">
+     <textspan type="extent">SNAP-25</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.600.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2076" gid="g1990" t="Individual_protein" fr="w8702" to="w8702" nam="yes">
+     <textspan type="extent">syntaxin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.600.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2077" gid="g1991" t="RELATIONSHIP_TEXTBINDING" fr="w8710" to="w8711">
+     <textspan type="extent">engaged in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.600.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2078" gid="g1988" t="Individual_protein" fr="w8712" to="w8712" nam="yes">
+     <textspan type="extent">their</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.600.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2079" gid="g1987" t="Individual_protein" fr="w8712" to="w8712" nam="yes">
+     <textspan type="extent">their</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.600.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e2080" gid="g1992" t="RELATIONSHIP_TEXTBINDING" fr="w8714" to="w8714">
+     <textspan type="extent">interaction</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.600.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r817" t="BIND" e1="e2071" e2="e2074" re="e2072">
+     <textspan type="extent">alpha-SNAP binds to predicted alpha-helical coiled-coil regions of syntaxin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.600.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r818" t="BIND" e1="e2071" e2="e2073" re="e2072">
+     <textspan type="extent">alpha-SNAP binds to predicted alpha-helical coiled-coil regions of syntaxin and SNAP-25</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.600.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r821" t="PARTICIPATE" e1="e2074" e2="e2080" re="e2077">
+     <textspan type="extent">regions of syntaxin and SNAP-25 , shown previously to be engaged in their direct interaction</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.600.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r822" t="INTERACT" e1="e2078" e2="e2079" re="e2080">
+     <textspan type="extent">their direct interaction</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.600.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r823" t="PARTICIPATE" e1="e2073" e2="e2080" re="e2077">
+     <textspan type="extent">regions of syntaxin and SNAP-25 , shown previously to be engaged in their direct interaction</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.600.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r824" t="INTERACT" e1="e2078" e2="e2079" re="e2080">
+     <textspan type="extent">their direct interaction</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.600.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

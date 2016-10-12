@@ -1,0 +1,74 @@
+<rexml>
+<doc id="1890">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="E2" g="E3" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E6" g="E2" t="s" cr="s+subj:w30178" w="" l="~" p="N"/>
+     <dpg d="w30177" g="w30178" t="aux" cr="aux:w30178" w="To" l="~" p="Aux"/>
+     <dpg d="w30178" g="E2" t="i" cr="mod:w30184" w="approach" l="~" p="V"/>
+     <dpg d="E8" g="w30178" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="E6" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w30179" g="w30180" t="det" cr="det:w30180" w="the" l="~" p="Det"/>
+     <dpg d="w30180" g="w30178" t="obj" cr="obj:w30178" w="problem" l="~" p="N"/>
+     <dpg d="w30181" g="E3" t="punc" cr="punc:w30184" w="," l="~" p="U"/>
+     <dpg d="w30182" g="w30184" t="s" cr="s+subj:w30184||subj:w30190" w="we" l="~" p="N"/>
+     <dpg d="w30183" g="w30184" t="have" cr="have:w30184" w="have" l="~" p="have"/>
+     <dpg d="w30184" g="E3" t="i" cr="" w="constructed" l="construct" p="V"/>
+     <dpg d="E9" g="w30184" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E9" g="w30182" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w30185" g="w30188" t="det" cr="det:w30188" w="a" l="~" p="Det"/>
+     <dpg d="w30186" g="w30188" t="nn" cr="nn:w30188" w="carp" l="~" p="N"/>
+     <dpg d="w30187" g="w30188" t="mod" cr="mod:w30188" w="genomic" l="~" p="A"/>
+     <dpg d="w30188" g="w30184" t="obj" cr="obj:w30184" w="library" l="~" p="N"/>
+     <dpg d="w30189" g="w30184" t="punc" cr="punc:w30184" w="and" l="~" p="U"/>
+     <dpg d="w30190" g="w30184" t="conj" cr="conj:w30184" w="isolated" l="isolate" p="V"/>
+     <dpg d="E10" g="w30190" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E10" g="w30182" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w30191" g="w30193" t="num" cr="num:w30193" w="28" l="~" p="N"/>
+     <dpg d="w30192" g="w30193" t="mod" cr="mod:w30193" w="nonoverlapping" l="~" p="A"/>
+     <dpg d="w30193" g="w30190" t="obj" cr="obj:w30190||s+subj:w30194" w="clones" l="clone" p="N"/>
+     <dpg d="E1" g="w30193" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w30193" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w30194" g="E1" t="i" cr="rel:w30193" w="containing" l="contain" p="V"/>
+     <dpg d="E11" g="w30194" t="subj" cr="" w="" l="clone" p="N"/>
+     <dpg d="E11" g="E5" t="antecedent" cr="" w="" l="clone" p="N"/>
+     <dpg d="w30195" g="w30194" t="obj" cr="obj:w30194" w="sequences" l="sequence" p="N"/>
+     <dpg d="w30196" g="w30195" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w30197" g="w30204" t="mod" cr="mod:w30204" w="different" l="~" p="A"/>
+     <dpg d="w30198" g="w30200" t="lex-mod" cr="lex-mod:w30200" w="myosin" l="~" p="U"/>
+     <dpg d="w30199" g="w30200" t="lex-mod" cr="lex-mod:w30200" w="heavy" l="~" p="U"/>
+     <dpg d="w30200" g="w30204" t="nn" cr="nn:w30204" w="chain" l="myosin heavy chain" p="N"/>
+     <dpg d="w30201" g="w30202" t="punc" cr="punc:w30202" w="(" l="~" p="U"/>
+     <dpg d="w30202" g="w30200" t="abbrev" cr="abbrev:w30200" w="MHC" l="~" p="N"/>
+     <dpg d="w30203" g="w30202" t="punc" cr="punc:w30202" w=")" l="~" p="U"/>
+     <dpg d="w30204" g="w30196" t="pcomp-n" cr="mod*of*n:w30195" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w30205" g="w30204" t="mod" cr="" w="along" l="along with" p="Prep"/>
+     <dpg d="w30206" g="w30205" t="lex-mod" cr="lex-mod:w30205" w="with" l="~" p="U"/>
+     <dpg d="w30207" g="w30208" t="det" cr="det:w30208" w="a" l="~" p="Det"/>
+     <dpg d="w30208" g="w30205" t="pcomp-n" cr="mod*along*n:w30204||s+subj:w30209" w="clone" l="~" p="N"/>
+     <dpg d="E0" g="w30208" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w30208" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w30209" g="E0" t="i" cr="rel:w30208" w="containing" l="contain" p="V"/>
+     <dpg d="E12" g="w30209" t="subj" cr="" w="" l="clone" p="N"/>
+     <dpg d="E12" g="E4" t="antecedent" cr="" w="" l="clone" p="N"/>
+     <dpg d="w30210" g="w30212" t="nn" cr="nn:w30212" w="carp" l="~" p="N"/>
+     <dpg d="w30211" g="w30212" t="nn" cr="nn:w30212" w="actin" l="~" p="N"/>
+     <dpg d="w30212" g="w30209" t="obj" cr="obj:w30209" w="sequences" l="sequence" p="N"/>
+     <dpg d="w30213" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,51 @@
+<rexml>
+<doc id="1098">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w17389" g="w17401" t="s" cr="s+subj:w17401" w="Overexpression" l="~" p="N"/>
+     <dpg d="w17390" g="w17389" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w17391" g="w17393" t="det" cr="det:w17393" w="a" l="~" p="Det"/>
+     <dpg d="w17392" g="w17393" t="nn" cr="nn:w17393" w="gene" l="~" p="N"/>
+     <dpg d="w17393" g="w17390" t="pcomp-n" cr="mod*of*n:w17389||s+subj:w17394" w="fragment" l="~" p="N"/>
+     <dpg d="E1" g="w17393" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w17393" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w17394" g="E1" t="i" cr="rel:w17393" w="encoding" l="encode" p="V"/>
+     <dpg d="E6" g="w17394" t="subj" cr="" w="" l="fragment" p="N"/>
+     <dpg d="E6" g="E4" t="antecedent" cr="" w="" l="fragment" p="N"/>
+     <dpg d="w17395" g="w17396" t="det" cr="det:w17396" w="the" l="~" p="Det"/>
+     <dpg d="w17396" g="w17394" t="obj" cr="obj:w17394||s+subj:w17397" w="CREB" l="~" p="N"/>
+     <dpg d="E0" g="w17396" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w17396" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w17397" g="E0" t="i" cr="rel:w17396" w="binding" l="bind" p="V"/>
+     <dpg d="E7" g="w17397" t="subj" cr="" w="" l="CREB" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="CREB" p="N"/>
+     <dpg d="w17398" g="w17397" t="obj" cr="obj:w17397" w="domain" l="~" p="N"/>
+     <dpg d="w17399" g="w17396" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w17400" g="w17399" t="pcomp-n" cr="mod*of*n:w17396" w="CBP" l="~" p="N"/>
+     <dpg d="w17401" g="E2" t="i" cr="" w="stimulates" l="stimulate" p="V"/>
+     <dpg d="E8" g="w17401" t="subj" cr="" w="" l="Overexpression" p="N"/>
+     <dpg d="E8" g="w17389" t="antecedent" cr="" w="" l="Overexpression" p="N"/>
+     <dpg d="w17402" g="w17401" t="obj" cr="obj:w17401" w="transcription" l="~" p="N"/>
+     <dpg d="w17403" g="w17402" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w17404" g="w17407" t="det" cr="det:w17407" w="the" l="~" p="Det"/>
+     <dpg d="w17405" g="w17407" t="nn" cr="nn:w17407" w="PEPCK" l="~" p="N"/>
+     <dpg d="w17406" g="w17407" t="nn" cr="nn:w17407" w="gene" l="~" p="N"/>
+     <dpg d="w17407" g="w17403" t="pcomp-n" cr="mod*from*n:w17402" w="promoter" l="~" p="N"/>
+     <dpg d="w17408" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

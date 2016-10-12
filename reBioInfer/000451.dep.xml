@@ -1,0 +1,58 @@
+<rexml>
+<doc id="451">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6494" g="w6501" t="s" cr="s+subj:w6501" w="Exposure" l="~" p="N"/>
+     <dpg d="w6495" g="w6494" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6496" g="w6497" t="det" cr="det:w6497" w="the" l="~" p="Det"/>
+     <dpg d="w6497" g="w6495" t="pcomp-n" cr="mod*of*n:w6494" w="cells" l="cell" p="N"/>
+     <dpg d="w6498" g="w6497" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w6499" g="w6500" t="nn" cr="nn:w6500" w="tumor" l="~" p="N"/>
+     <dpg d="w6500" g="w6498" t="pcomp-n" cr="mod*to*n:w6497" w="promoter" l="~" p="N"/>
+     <dpg d="w6501" g="E2" t="i" cr="" w="did" l="do" p="V"/>
+     <dpg d="E4" g="w6501" t="subj" cr="" w="" l="exposure" p="N"/>
+     <dpg d="E4" g="w6494" t="antecedent" cr="" w="" l="exposure" p="N"/>
+     <dpg d="w6502" g="w6501" t="punc" cr="punc:w6501" w="," l="~" p="U"/>
+     <dpg d="w6503" g="w6501" t="guest" cr="guest:w6501" w="however" l="~" p="A"/>
+     <dpg d="w6504" g="w6501" t="punc" cr="punc:w6501" w="," l="~" p="U"/>
+     <dpg d="w6505" g="w6501" t="obj" cr="obj:w6501" w="result" l="~" p="N"/>
+     <dpg d="w6506" g="w6505" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w6507" g="w6508" t="det" cr="det:w6508" w="a" l="~" p="Det"/>
+     <dpg d="w6508" g="w6506" t="pcomp-n" cr="mod*in*n:w6505" w="loss" l="~" p="N"/>
+     <dpg d="w6509" g="w6508" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6510" g="w6509" t="pcomp-n" cr="mod*of*n:w6508" w="actin" l="~" p="N"/>
+     <dpg d="w6511" g="E2" t="punc" cr="punc:w6501" w="and" l="~" p="U"/>
+     <dpg d="E1" g="E2" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6512" g="w6513" t="lex-mod" cr="lex-mod:w6513" w="talin" l="~" p="U"/>
+     <dpg d="w6513" g="w6514" t="mod" cr="mod:w6514" w="-rich" l="talin -rich" p="A"/>
+     <dpg d="w6514" g="w6515" t="s" cr="s+subj:w6515" w="cell" l="~" p="N"/>
+     <dpg d="w6515" g="E1" t="i" cr="conj:w6501" w="surface" l="~" p="V"/>
+     <dpg d="E5" g="w6515" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E5" g="w6514" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w6516" g="w6515" t="obj" cr="obj:w6515||subj:w6518" w="elaborations" l="elaboration" p="N"/>
+     <dpg d="E0" g="w6516" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6517" g="E0" t="whn" cr="whn:w6518" w="that" l="~" p="THAT"/>
+     <dpg d="w6517" g="w6516" t="antecedent" cr="antecedent:w6516" w="that" l="~" p="THAT"/>
+     <dpg d="w6518" g="E0" t="i" cr="rel:w6516" w="resemble" l="~" p="V"/>
+     <dpg d="E6" g="w6518" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E6" g="w6516" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w6519" g="w6522" t="mod" cr="mod:w6522" w="focal" l="~" p="A"/>
+     <dpg d="w6520" g="w6522" t="nn" cr="nn:w6522" w="contact" l="~" p="N"/>
+     <dpg d="w6521" g="w6522" t="nn" cr="nn:w6522" w="precursor" l="~" p="N"/>
+     <dpg d="w6522" g="w6518" t="obj" cr="obj:w6518" w="structures" l="structure" p="N"/>
+     <dpg d="w6523" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

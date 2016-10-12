@@ -1,0 +1,62 @@
+<rexml>
+<doc id="1491">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23304" g="w23305" t="det" cr="det:w23305" w="The" l="~" p="Det"/>
+     <dpg d="w23305" g="w23306" t="s" cr="s+subj:w23306" w="gel" l="~" p="N"/>
+     <dpg d="w23306" g="E3" t="i" cr="" w="point" l="~" p="V"/>
+     <dpg d="E6" g="w23306" t="subj" cr="" w="" l="gel" p="N"/>
+     <dpg d="E6" g="w23305" t="antecedent" cr="" w="" l="gel" p="N"/>
+     <dpg d="w23307" g="w23306" t="obj1" cr="obj1:w23306||s+subj:w23308" w="assay" l="~" p="N"/>
+     <dpg d="E0" g="w23307" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w23307" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w23308" g="E0" t="i" cr="rel:w23307" w="using" l="use" p="V"/>
+     <dpg d="E7" g="w23308" t="subj" cr="" w="" l="assay" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="assay" p="N"/>
+     <dpg d="w23309" g="w23310" t="det" cr="det:w23310" w="an" l="~" p="Det"/>
+     <dpg d="w23310" g="w23308" t="obj" cr="obj:w23308" w="actin" l="~" p="N"/>
+     <dpg d="w23311" g="w23312" t="mod" cr="mod:w23312" w="cross-linking" l="cross-linking" p="A"/>
+     <dpg d="w23312" g="w23306" t="obj2" cr="obj2:w23306" w="protein" l="~" p="N"/>
+     <dpg d="w23313" g="E3" t="punc" cr="punc:w23306" w="and" l="~" p="U"/>
+     <dpg d="E2" g="E3" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23314" g="w23316" t="det" cr="det:w23316" w="the" l="~" p="Det"/>
+     <dpg d="w23315" g="w23316" t="nn" cr="nn:w23316" w="nucleation" l="~" p="N"/>
+     <dpg d="w23316" g="w23318" t="s" cr="s+subj:w23318" w="assay" l="~" p="N"/>
+     <dpg d="w23317" g="w23318" t="amod" cr="amod:w23318" w="also" l="~" p="A"/>
+     <dpg d="w23318" g="E2" t="i" cr="conj:w23306" w="suggested" l="suggest" p="V"/>
+     <dpg d="E8" g="w23318" t="subj" cr="" w="" l="assay" p="N"/>
+     <dpg d="E8" g="w23316" t="antecedent" cr="" w="" l="assay" p="N"/>
+     <dpg d="E1" g="w23318" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23319" g="E1" t="c" cr="c:w23321" w="that" l="~" p="COMP"/>
+     <dpg d="w23320" g="w23321" t="s" cr="s+subj:w23321||subj:w23327" w="cofilin" l="~" p="N"/>
+     <dpg d="w23321" g="E1" t="i" cr="fc:w23318" w="shortens" l="shorten" p="V"/>
+     <dpg d="E9" g="w23321" t="subj" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="E9" g="w23320" t="antecedent" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="w23322" g="w23324" t="det" cr="det:w23324" w="the" l="~" p="Det"/>
+     <dpg d="w23323" g="w23324" t="nn" cr="nn:w23324" w="actin" l="~" p="N"/>
+     <dpg d="w23324" g="w23321" t="obj" cr="obj:w23321" w="filaments" l="filament" p="N"/>
+     <dpg d="w23325" g="w23321" t="punc" cr="punc:w23321" w="and" l="~" p="U"/>
+     <dpg d="w23326" g="w23327" t="mod-before" cr="mod-before:w23327" w="hence" l="~" p="A"/>
+     <dpg d="w23327" g="w23321" t="conj" cr="conj:w23321" w="increases" l="increase" p="V"/>
+     <dpg d="E10" g="w23327" t="subj" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="E10" g="w23320" t="antecedent" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="w23328" g="w23330" t="det" cr="det:w23330" w="the" l="~" p="Det"/>
+     <dpg d="w23329" g="w23330" t="nn" cr="nn:w23330" w="filament" l="~" p="N"/>
+     <dpg d="w23330" g="w23327" t="obj" cr="obj:w23327" w="number" l="~" p="N"/>
+     <dpg d="w23331" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

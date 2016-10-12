@@ -1,0 +1,64 @@
+<rexml>
+<doc id="1950">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w31406" g="w31407" t="nn" cr="nn:w31407" w="Two" l="~" p="N"/>
+     <dpg d="w31407" g="E5" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E5" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w31408" g="w31407" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31409" g="w31408" t="pcomp-n" cr="mod*of*n:w31407" w="nonmuscle" l="~" p="N"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31410" g="w31413" t="lex-mod" cr="lex-mod:w31413" w="myosin" l="~" p="U"/>
+     <dpg d="w31411" g="w31413" t="lex-mod" cr="lex-mod:w31413" w="heavy" l="~" p="U"/>
+     <dpg d="w31412" g="w31413" t="lex-mod" cr="lex-mod:w31413" w="chain" l="~" p="U"/>
+     <dpg d="w31413" g="w31418" t="s" cr="s+obj:w31418" w="IIB" l="myosin heavy chain IIB" p="N"/>
+     <dpg d="w31414" g="w31415" t="punc" cr="punc:w31415" w="(" l="~" p="U"/>
+     <dpg d="w31415" g="w31413" t="abbrev" cr="abbrev:w31413" w="MHC-IIB" l="MHC-IIB" p="N"/>
+     <dpg d="w31416" g="w31415" t="punc" cr="punc:w31415" w=")" l="~" p="U"/>
+     <dpg d="w31417" g="w31418" t="be" cr="be:w31418" w="are" l="be" p="be"/>
+     <dpg d="w31418" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="generated" l="generate" p="V"/>
+     <dpg d="E6" g="w31418" t="obj" cr="" w="" l="myosin heavy chain IIB" p="N"/>
+     <dpg d="E6" g="w31413" t="antecedent" cr="" w="" l="myosin heavy chain IIB" p="N"/>
+     <dpg d="w31419" g="w31418" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w31420" g="w31421" t="mod" cr="mod:w31421" w="alternative" l="~" p="A"/>
+     <dpg d="w31421" g="w31419" t="pcomp-n" cr="by-subj*by*n:w31418" w="splicing" l="~" p="N"/>
+     <dpg d="w31422" g="E5" t="punc" cr="punc:E5" w=";" l="~" p="U"/>
+     <dpg d="E1" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31423" g="w31424" t="punc" cr="punc+subj:w31424" w="MHC-IIB(B2)" l="~" p="U"/>
+     <dpg d="w31424" g="E1" t="i" cr="UNSPECRELTYPE:E5" w="differs" l="differ" p="V"/>
+     <dpg d="E7" g="w31424" t="subj" cr="" w="" l="B2" p="N"/>
+     <dpg d="E7" g="w31423" t="antecedent" cr="" w="" l="B2" p="N"/>
+     <dpg d="w31425" g="w31424" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w31426" g="w31425" t="pcomp-n" cr="mod*from*n:w31424" w="MHC-IIB(DeltaB2)" l="~" p="N"/>
+     <dpg d="w31427" g="w31426" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w31428" g="w31429" t="det" cr="det:w31429" w="the" l="~" p="Det"/>
+     <dpg d="w31429" g="w31427" t="pcomp-n" cr="mod*by*n:w31426" w="insertion" l="~" p="N"/>
+     <dpg d="w31430" g="w31429" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31431" g="w31433" t="nn" cr="nn:w31433" w="B2" l="~" p="N"/>
+     <dpg d="w31432" g="w31433" t="nn" cr="nn:w31433" w="exon" l="~" p="N"/>
+     <dpg d="w31433" g="w31430" t="pcomp-n" cr="mod*of*n:w31429" w="cassette" l="~" p="N"/>
+     <dpg d="w31434" g="w31433" t="mod" cr="" w="near" l="~" p="Prep"/>
+     <dpg d="w31435" g="w31436" t="det" cr="det:w31436" w="the" l="~" p="Det"/>
+     <dpg d="w31436" g="w31434" t="pcomp-n" cr="mod*near*n:w31433||s+subj:w31437" w="actin" l="~" p="N"/>
+     <dpg d="E0" g="w31436" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w31436" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31437" g="E0" t="i" cr="rel:w31436" w="binding" l="bind" p="V"/>
+     <dpg d="E8" g="w31437" t="subj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w31438" g="w31437" t="obj" cr="obj:w31437" w="region" l="~" p="N"/>
+     <dpg d="w31439" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

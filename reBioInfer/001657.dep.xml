@@ -1,0 +1,49 @@
+<rexml>
+<doc id="1657">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26488" g="w26489" t="det" cr="det:w26489" w="The" l="~" p="Det"/>
+     <dpg d="w26489" g="w26490" t="s" cr="s+subj:w26490" w="results" l="result" p="N"/>
+     <dpg d="w26490" g="E2" t="i" cr="" w="suggest" l="~" p="V"/>
+     <dpg d="E5" g="w26490" t="subj" cr="" w="" l="result" p="N"/>
+     <dpg d="E5" g="w26489" t="antecedent" cr="" w="" l="result" p="N"/>
+     <dpg d="w26491" g="w26492" t="det" cr="det:w26492" w="some" l="~" p="Det"/>
+     <dpg d="w26492" g="w26490" t="obj" cr="obj:w26490" w="cooperativity" l="~" p="N"/>
+     <dpg d="w26493" g="w26492" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w26494" g="w26493" t="pcomp-n" cr="mod*with*n:w26492" w="respect" l="~" p="N"/>
+     <dpg d="w26495" g="w26494" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w26496" g="w26495" t="pcomp-n" cr="mod*to*n:w26494||s+subj:w26497" w="cofilin" l="~" p="N"/>
+     <dpg d="E1" g="w26496" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w26496" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w26497" g="E1" t="i" cr="rel:w26496" w="binding" l="bind" p="V"/>
+     <dpg d="E6" g="w26497" t="subj" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="cofilin" p="N"/>
+     <dpg d="w26498" g="w26497" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w26499" g="w26500" t="mod" cr="mod:w26500" w="filamentous" l="~" p="A"/>
+     <dpg d="w26500" g="w26498" t="pcomp-n" cr="mod*to*n:w26497||subj:w26505" w="actin" l="~" p="N"/>
+     <dpg d="E0" g="w26500" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26501" g="E0" t="whn" cr="whn:w26503" w="which" l="~" p="N"/>
+     <dpg d="w26501" g="w26500" t="antecedent" cr="antecedent:w26500" w="which" l="~" p="N"/>
+     <dpg d="w26502" g="w26503" t="aux" cr="aux:w26503" w="may" l="~" p="Aux"/>
+     <dpg d="w26503" g="E0" t="i" cr="rel:w26500" w="be" l="~" p="VBE"/>
+     <dpg d="E7" g="w26505" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E7" g="w26500" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w26504" g="w26505" t="nn" cr="nn:w26505" w="pH" l="~" p="N"/>
+     <dpg d="w26505" g="w26503" t="pred" cr="pred:w26503" w="dependent" l="~" p="N"/>
+     <dpg d="w26506" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

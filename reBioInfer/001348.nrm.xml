@@ -1,0 +1,75 @@
+<rexml>
+<doc id="1348">
+  
+  <markup>
+   <nes>
+    <ne id="e4866" gid="g4646" t="Individual_protein" fr="w20977" to="w20978" nam="yes" sid="s1">
+     <textspan>antigen p53</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1348.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4869" gid="g4649" t="Individual_protein" fr="w20978" to="w20978" nam="yes" sid="s1">
+     <textspan>p53</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1348.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4870" gid="g4650" t="Individual_protein" fr="w20983" to="w20990" nam="yes" sid="s1">
+     <textspan>simian virus 40 [..] large T-antigen</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1348.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4868" gid="g4648" t="Individual_protein" fr="w20989" to="w20990" nam="yes" sid="s1">
+     <textspan>large T-antigen</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1348.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1860" t="BIND" e1="e4870" e2="e4866" re="e4867">
+     <textspan>antigen p53 is bound to the simian virus 40 ( SV40 ) large T-antigen</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1348.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

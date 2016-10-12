@@ -1,0 +1,310 @@
+<rexml>
+<doc id="1061">
+  <text>
+<p><s id="s1"><w id="w16686">One</w> <w id="w16687">,</w> <w id="w16688">MORT1</w> <w id="w16689">(</w> <w id="w16690">also</w> <w id="w16691">called</w> <w id="w16692">FADD</w> <w id="w16693">)</w> <w id="w16694">,</w> <w id="w16695">binds</w> <w id="w16696">to</w> <w id="w16697">Fas</w><w id="w16698">/</w><w id="w16699">APO1</w> <w id="w16700">but</w> <w id="w16701">not</w> <w id="w16702">to</w> <w id="w16703">p55-R</w> <w id="w16704">;</w> <w id="w16705">another</w> <w id="w16706">,</w> <w id="w16707">TRADD</w> <w id="w16708">,</w> <w id="w16709">binds</w> <w id="w16710">to</w> <w id="w16711">the</w> <w id="w16712">p55</w> <w id="w16713">TNF</w> <w id="w16714">receptor</w> <w id="w16715">but</w> <w id="w16716">not</w> <w id="w16717">to</w> <w id="w16718">Fas</w><w id="w16719">/</w><w id="w16720">APO1</w> <w id="w16721">;</w> <w id="w16722">and</w> <w id="w16723">the</w> <w id="w16724">third</w> <w id="w16725">,</w> <w id="w16726">RIP</w> <w id="w16727">,</w> <w id="w16728">binds</w> <w id="w16729">weakly</w> <w id="w16730">to</w> <w id="w16731">both</w> <w id="w16732">receptors</w> <w id="w16733">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3810" gid="g3647" t="Individual_protein" fr="w16688" to="w16688" nam="yes">
+     <textspan type="extent">MORT1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1061.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3811" gid="g3648" t="RELATIONSHIP_TEXTBINDING" fr="w16695" to="w16696">
+     <textspan type="extent">binds to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1061.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3812" gid="g3649" t="Individual_protein" fr="w16703" to="w16703" nam="yes">
+     <textspan type="extent">p55-R</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1061.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3813" gid="g3650" t="RELATIONSHIP_TEXTBINDING" fr="w16695" to="w16702">
+     <textspan type="extent">binds [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1061.3"/>
+      <exattr n="nst" v="st.1061.9.0"/>
+      <exattr n="nst" v="st.1061.14.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3814" gid="g3651" t="RELATIONSHIP_TEXTBINDING" fr="w16701" to="w16701">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1061.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3815" gid="g3652" t="Individual_protein" fr="w16707" to="w16707" nam="yes">
+     <textspan type="extent">TRADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1061.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3816" gid="g3653" t="Individual_protein" fr="w16718" to="w16718" nam="yes">
+     <textspan type="extent">Fas</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1061.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3817" gid="g3654" t="RELATIONSHIP_TEXTBINDING" fr="w16716" to="w16716">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1061.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e3818" gid="g3653" t="Individual_protein" fr="w16720" to="w16720" nam="yes">
+     <textspan type="extent">APO1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1061.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e3819" gid="g3655" t="RELATIONSHIP_TEXTBINDING" fr="w16690" to="w16691">
+     <textspan type="extent">also called</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1061.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e3820" gid="g3656" t="Protein_family_or_group" fr="w16713" to="w16714" nam="yes">
+     <textspan type="extent">TNF receptor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1061.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e3821" gid="g3647" t="Individual_protein" fr="w16692" to="w16692" nam="yes">
+     <textspan type="extent">FADD</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1061.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e3822" gid="g3649" t="Individual_protein" fr="w16731" to="w16731" nam="yes">
+     <textspan type="extent">both</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1061.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e3823" gid="g3657" t="RELATIONSHIP_TEXTBINDING" fr="w16709" to="w16710">
+     <textspan type="extent">binds to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1061.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e3824" gid="g3658" t="Individual_protein" fr="w16731" to="w16732" nam="yes">
+     <textspan type="extent">both receptors</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1061.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e3825" gid="g3659" t="RELATIONSHIP_TEXTBINDING" fr="w16728" to="w16730">
+     <textspan type="extent">binds [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1061.15"/>
+      <exattr n="nst" v="st.1061.38.0"/>
+      <exattr n="nst" v="st.1061.40.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3826" gid="g3660" t="Individual_protein" fr="w16726" to="w16726" nam="yes">
+     <textspan type="extent">RIP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1061.16"/>
+     </exattrs>
+    </ne>
+    <ne id="e3827" gid="g3649" t="Individual_protein" fr="w16697" to="w16697" nam="yes">
+     <textspan type="extent">Fas</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1061.17"/>
+     </exattrs>
+    </ne>
+    <ne id="e3828" gid="g3649" t="Individual_protein" fr="w16699" to="w16699" nam="yes">
+     <textspan type="extent">APO1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1061.18"/>
+     </exattrs>
+    </ne>
+    <ne id="e3829" gid="g3661" t="Individual_protein" fr="w16712" to="w16712" nam="yes">
+     <textspan type="extent">p55</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1061.19"/>
+     </exattrs>
+    </ne>
+    <ne id="e3830" gid="g3662" t="RELATIONSHIP_TEXTBINDING" fr="w16709" to="w16717">
+     <textspan type="extent">binds [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1061.20"/>
+      <exattr n="nst" v="st.1061.21.0"/>
+      <exattr n="nst" v="st.1061.29.0"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1459" t="MEMBER" e1="e3820" e2="e3829" re="">
+     <textspan type="extent">p55 TNF receptor</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1460" t="BIND" e1="e3810" e2="e3827" re="e3811">
+     <textspan type="extent">MORT1 ( also called FADD ) , binds to Fas</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1061.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1462" t="BIND" e1="e3810" e2="e3812" re="e3813">
+     <textspan type="extent">MORT1 ( also called FADD ) , binds to Fas / APO1 but not to p55-R</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1061.3"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1463" t="BIND" e1="e3815" e2="e3829" re="e3823">
+     <textspan type="extent">TRADD , binds to the p55</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1061.13"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1465" t="BIND" e1="e3815" e2="e3816" re="e3830">
+     <textspan type="extent">TRADD , binds to the p55 TNF receptor but not to Fas</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1061.20"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1468" t="BIND" e1="e3826" e2="e3824" re="e3825">
+     <textspan type="extent">RIP , binds weakly to both receptors</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1061.15"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

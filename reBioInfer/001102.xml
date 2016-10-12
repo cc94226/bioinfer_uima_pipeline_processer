@@ -1,0 +1,86 @@
+<rexml>
+<doc id="1102">
+  <text>
+<p><s id="s1"><w id="w17409">Overexpression</w> <w id="w17410">of</w> <w id="w17411">cofilin</w> <w id="w17412">stimulates</w> <w id="w17413">bundling</w> <w id="w17414">of</w> <w id="w17415">actin</w> <w id="w17416">filaments</w> <w id="w17417">,</w> <w id="w17418">membrane</w> <w id="w17419">ruffling</w> <w id="w17420">,</w> <w id="w17421">and</w> <w id="w17422">cell</w> <w id="w17423">movement</w> <w id="w17424">in</w> <w id="w17425">Dictyostelium</w> <w id="w17426">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4017" gid="g3846" t="Expression" fr="w17409" to="w17411">
+     <textspan type="extent">Overexpression of cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.1102.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4018" gid="g3847" t="RELATIONSHIP_TEXTBINDING" fr="w17412" to="w17412">
+     <textspan type="extent">stimulates</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1102.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4019" gid="g3848" t="Cell_component" fr="w17415" to="w17416" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1102.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4020" gid="g3849" t="ASSEMBLY" fr="w17413" to="w17416">
+     <textspan type="extent">bundling of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1102.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4021" gid="g3850" t="Individual_protein" fr="w17411" to="w17411" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1102.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4022" gid="g3851" t="Individual_protein" fr="w17415" to="w17415" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1102.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1542" t="STIMULATE" e1="e4017" e2="e4020" re="e4018">
+     <textspan type="extent">Overexpression of cofilin stimulates bundling of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1102.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

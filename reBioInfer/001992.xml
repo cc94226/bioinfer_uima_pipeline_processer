@@ -1,0 +1,98 @@
+<rexml>
+<doc id="1992">
+  <text>
+<p><s id="s1"><w id="w31930">Using</w> <w id="w31931">these</w> <w id="w31932">methods</w> <w id="w31933">,</w> <w id="w31934">we</w> <w id="w31935">confirm</w> <w id="w31936">previous</w> <w id="w31937">reports</w> <w id="w31938">that</w> <w id="w31939">intact</w> <w id="w31940">talin</w> <w id="w31941">induces</w> <w id="w31942">cross-linking</w> <w id="w31943">as</w> <w id="w31944">well</w> <w id="w31945">as</w> <w id="w31946">filament</w> <w id="w31947">shortening</w> <w id="w31948">on</w> <w id="w31949">actin</w> <w id="w31950">networks</w> <w id="w31951">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7289" gid="g6952" t="Individual_protein" fr="w31940" to="w31940" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1992.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7290" gid="g6953" t="RELATIONSHIP_TEXTBINDING" fr="w31941" to="w31941">
+     <textspan type="extent">induces</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1992.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7291" gid="g6954" t="DISASSEMBLY" fr="w31947" to="w31950">
+     <textspan type="extent">shortening on actin networks</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Break-down"/>
+      <exattr n="t4" v="DISASSEMBLY"/>
+      <exattr n="bd" v="e.1992.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7292" gid="g6955" t="CROSS-LINKING" fr="w31942" to="w31950">
+     <textspan type="extent">cross-linking [..] on actin networks</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="CROSS-LINKING"/>
+      <exattr n="bd" v="e.1992.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7293" gid="g6956" t="Cell_component" fr="w31949" to="w31950" nam="yes">
+     <textspan type="extent">actin networks</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1992.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7294" gid="g6957" t="Individual_protein" fr="w31949" to="w31949" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1992.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2793" t="INITIATE" e1="e7289" e2="e7292" re="e7290">
+     <textspan type="extent">talin induces cross-linking as well as filament shortening on actin networks</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1992.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2794" t="INITIATE" e1="e7289" e2="e7291" re="e7290">
+     <textspan type="extent">talin induces cross-linking as well as filament shortening on actin networks</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1992.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

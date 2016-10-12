@@ -1,0 +1,93 @@
+<rexml>
+<doc id="1156">
+  <text>
+<p><s id="s1"><w id="w18160">PS1</w> <w id="w18161">fragments</w> <w id="w18162">form</w> <w id="w18163">complexes</w> <w id="w18164">with</w> <w id="w18165">E-cadherin</w> <w id="w18166">,</w> <w id="w18167">beta-catenin</w> <w id="w18168">,</w> <w id="w18169">and</w> <w id="w18170">alpha-catenin</w> <w id="w18171">,</w> <w id="w18172">all</w> <w id="w18173">components</w> <w id="w18174">of</w> <w id="w18175">adherens</w> <w id="w18176">junctions</w> <w id="w18177">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4224" gid="g4037" t="Mutant" fr="w18160" to="w18161" nam="yes">
+     <textspan type="extent">PS1 fragments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.1156.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4225" gid="g4038" t="RELATIONSHIP_TEXTBINDING" fr="w18162" to="w18164">
+     <textspan type="extent">form complexes with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1156.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4226" gid="g4039" t="Individual_protein" fr="w18167" to="w18167" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1156.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4227" gid="g4040" t="Individual_protein" fr="w18165" to="w18165" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1156.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4228" gid="g4041" t="Individual_protein" fr="w18170" to="w18170" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1156.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4229" gid="g4042" t="Individual_protein" fr="w18160" to="w18160" nam="yes">
+     <textspan type="extent">PS1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1156.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1629" t="MUTUALCOMPLEX" e1="e4224" e2="e4227,e4226,e4228" re="e4225">
+     <textspan type="extent">PS1 fragments form complexes with E-cadherin , beta-catenin , and alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1156.1"/>
+      <exattr n="arg" v="e4224"/>
+      <exattr n="arg" v="e4227"/>
+      <exattr n="arg" v="e4226"/>
+      <exattr n="arg" v="e4228"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="MUTUALCOMPLEX"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

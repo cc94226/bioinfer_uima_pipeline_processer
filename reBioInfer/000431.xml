@@ -1,0 +1,108 @@
+<rexml>
+<doc id="431">
+  <text>
+<p><s id="s1"><w id="w6211">END5</w> <w id="w6212">encodes</w> <w id="w6213">a</w> <w id="w6214">proline-rich</w> <w id="w6215">protein</w> <w id="w6216">(</w> <w id="w6217">End5p</w> <w id="w6218">or</w> <w id="w6219">verprolin</w> <w id="w6220">)</w> <w id="w6221">required</w> <w id="w6222">for</w> <w id="w6223">a</w> <w id="w6224">polarised</w> <w id="w6225">cortical</w> <w id="w6226">actin</w> <w id="w6227">cytoskeleton</w> <w id="w6228">and</w> <w id="w6229">endocytosis</w> <w id="w6230">[</w> <w id="w6231">2,3</w> <w id="w6232">]</w> <w id="w6233">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1512" gid="g1444" t="Gene" fr="w6211" to="w6211" nam="yes">
+     <textspan type="extent">END5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.431.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1513" gid="g1445" t="RELATIONSHIP_TEXTBINDING" fr="w6212" to="w6212">
+     <textspan type="extent">encodes</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.431.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1514" gid="g1446" t="Cell_component" fr="w6226" to="w6227" nam="yes">
+     <textspan type="extent">actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.431.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1515" gid="g1447" t="RELATIONSHIP_TEXTBINDING" fr="w6221" to="w6222">
+     <textspan type="extent">required for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.431.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1516" gid="g1448" t="Individual_protein" fr="w6217" to="w6217" nam="yes">
+     <textspan type="extent">End5p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.431.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1517" gid="g1448" t="Individual_protein" fr="w6219" to="w6219" nam="yes">
+     <textspan type="extent">verprolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.431.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1518" gid="g1449" t="Individual_protein" fr="w6226" to="w6226" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.431.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r598" t="ENCODE" e1="e1512" e2="e1516" re="e1513">
+     <textspan type="extent">END5 encodes a proline-rich protein ( End5p</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.431.1"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Equality"/>
+      <exattr n="t3" v="ENCODE"/>
+     </exattrs>
+    </rel>
+    <rel id="r600" t="CONDITION" e1="e1516" e2="e1514" re="e1515">
+     <textspan type="extent">End5p or verprolin ) required for a polarised cortical actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.431.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

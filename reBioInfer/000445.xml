@@ -1,0 +1,77 @@
+<rexml>
+<doc id="445">
+  <text>
+<p><s id="s1"><w id="w6385">Evidence</w> <w id="w6386">suggests</w> <w id="w6387">that</w> <w id="w6388">this</w> <w id="w6389">differential</w> <w id="w6390">recognition</w> <w id="w6391">bears</w> <w id="w6392">functional</w> <w id="w6393">significance</w> <w id="w6394">concerning</w> <w id="w6395">the</w> <w id="w6396">intricate</w> <w id="w6397">roles</w> <w id="w6398">of</w> <w id="w6399">profilin</w> <w id="w6400">and</w> <w id="w6401">inositol</w> <w id="w6402">lipids</w> <w id="w6403">in</w> <w id="w6404">modulating</w> <w id="w6405">actin</w> <w id="w6406">polymerization</w> <w id="w6407">and</w> <w id="w6408">PtdIns(4,5)P2</w> <w id="w6409">turnover</w> <w id="w6410">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1556" gid="g1487" t="Individual_protein" fr="w6399" to="w6399" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.445.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1557" gid="g1488" t="POLYMERIZATION" fr="w6405" to="w6406">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.445.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1558" gid="g1489" t="RELATIONSHIP_TEXTBINDING" fr="w6397" to="w6403">
+     <textspan type="extent">roles of [..] in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.445.2"/>
+      <exattr n="nst" v="st.445.12.0"/>
+      <exattr n="nst" v="st.445.13.0"/>
+      <exattr n="nst" v="st.445.18.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1559" gid="g1490" t="MODULATION" fr="w6404" to="w6406">
+     <textspan type="extent">modulating actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Unspecified"/>
+      <exattr n="t4" v="MODULATION"/>
+      <exattr n="bd" v="e.445.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1560" gid="g1491" t="Individual_protein" fr="w6405" to="w6405" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.445.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r611" t="PARTICIPATE" e1="e1556" e2="e1559" re="e1558">
+     <textspan type="extent">roles of profilin and inositol lipids in modulating actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.445.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

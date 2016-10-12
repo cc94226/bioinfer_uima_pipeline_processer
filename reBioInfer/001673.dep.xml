@@ -1,0 +1,53 @@
+<rexml>
+<doc id="1673">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26650" g="w26654" t="det" cr="det:w26654" w="The" l="~" p="Det"/>
+     <dpg d="w26651" g="w26654" t="post" cr="post:w26654" w="same" l="~" p="PostDet"/>
+     <dpg d="w26652" g="w26654" t="mod" cr="mod:w26654" w="steady" l="~" p="A"/>
+     <dpg d="w26653" g="w26654" t="nn" cr="nn:w26654" w="state" l="~" p="N"/>
+     <dpg d="w26654" g="w26661" t="s" cr="s+obj:w26661" w="concentrations" l="concentration" p="N"/>
+     <dpg d="w26655" g="w26654" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26656" g="w26659" t="mod" cr="mod:w26659" w="polymerized" l="~" p="A"/>
+     <dpg d="w26657" g="w26656" t="punc" cr="punc:w26656" w="and" l="~" p="U"/>
+     <dpg d="w26658" g="w26656" t="conj" cr="conj:w26656" w="nonpolymerized" l="~" p="A"/>
+     <dpg d="w26659" g="w26655" t="pcomp-n" cr="mod*of*n:w26654" w="actin" l="~" p="N"/>
+     <dpg d="w26660" g="w26661" t="be" cr="be:w26661" w="are" l="be" p="be"/>
+     <dpg d="w26661" g="E2" t="i" cr="" w="reached" l="reach" p="V"/>
+     <dpg d="E4" g="w26661" t="obj" cr="" w="" l="concentration" p="N"/>
+     <dpg d="E4" g="w26654" t="antecedent" cr="" w="" l="concentration" p="N"/>
+     <dpg d="E1" g="w26661" t="mod" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26662" g="E1" t="c" cr="c:w26665" w="whether" l="~" p="COMP"/>
+     <dpg d="w26663" g="w26665" t="s" cr="s+obj:w26665" w="profilin" l="~" p="N"/>
+     <dpg d="w26664" g="w26665" t="be" cr="be:w26665" w="is" l="be" p="be"/>
+     <dpg d="w26665" g="E1" t="i" cr="mod:w26661" w="added" l="add" p="V"/>
+     <dpg d="E5" g="w26665" t="obj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E5" g="w26663" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w26666" g="w26665" t="mod" cr="mod:w26665" w="before" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w26666" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w26667" g="w26673" t="s" cr="s:w26673||subj:w26674" w="initiation" l="~" p="N"/>
+     <dpg d="w26668" g="w26667" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w26669" g="w26668" t="pcomp-n" cr="mod*of*n:w26667" w="polymerization" l="~" p="N"/>
+     <dpg d="w26670" g="w26668" t="punc" cr="punc:w26668" w="or" l="~" p="U"/>
+     <dpg d="w26671" g="w26668" t="conj" cr="" w="after" l="~" p="Prep"/>
+     <dpg d="w26672" g="w26671" t="pcomp-n" cr="mod*after*n:w26667" w="polymerization" l="~" p="N"/>
+     <dpg d="w26673" g="E0" t="i" cr="comp1:w26666" w="is" l="be" p="VBE"/>
+     <dpg d="w26674" g="w26673" t="pred" cr="pred:w26673" w="complete" l="~" p="A"/>
+     <dpg d="E6" g="w26674" t="subj" cr="" w="" l="initiation" p="N"/>
+     <dpg d="E6" g="w26667" t="antecedent" cr="" w="" l="initiation" p="N"/>
+     <dpg d="w26675" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

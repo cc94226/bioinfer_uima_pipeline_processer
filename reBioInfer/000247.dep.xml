@@ -1,0 +1,42 @@
+<rexml>
+<doc id="247">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3813" g="w3815" t="s" cr="s+obj:w3815" w="sNRP1" l="~" p="N"/>
+     <dpg d="w3814" g="w3815" t="be" cr="be:w3815" w="is" l="be" p="be"/>
+     <dpg d="w3815" g="E1" t="i" cr="" w="secreted" l="secrete" p="V"/>
+     <dpg d="E3" g="w3815" t="obj" cr="" w="" l="sNRP1" p="N"/>
+     <dpg d="E3" g="w3813" t="antecedent" cr="" w="" l="sNRP1" p="N"/>
+     <dpg d="w3816" g="w3815" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w3817" g="w3816" t="pcomp-n" cr="by-subj*by*n:w3815" w="cells" l="cell" p="N"/>
+     <dpg d="w3818" g="w3817" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w3819" g="w3821" t="det" cr="det:w3821" w="a" l="~" p="Det"/>
+     <dpg d="w3820" g="w3821" t="mod" cr="mod:w3821" w="90-kDa" l="90-kDa" p="A"/>
+     <dpg d="w3821" g="w3818" t="pcomp-n" cr="mod*as*n:w3817||subj:w3823" w="protein" l="~" p="N"/>
+     <dpg d="E0" g="w3821" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3822" g="E0" t="whn" cr="whn:w3823" w="that" l="~" p="THAT"/>
+     <dpg d="w3822" g="w3821" t="antecedent" cr="antecedent:w3821" w="that" l="~" p="THAT"/>
+     <dpg d="w3823" g="E0" t="i" cr="rel:w3821" w="binds" l="bind" p="V"/>
+     <dpg d="E4" g="w3823" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E4" g="w3821" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w3824" g="w3823" t="obj" cr="obj:w3823" w="VEGF(165)" l="~" p="N"/>
+     <dpg d="w3825" g="w3824" t="punc" cr="punc:w3824" w="," l="~" p="U"/>
+     <dpg d="w3826" g="w3824" t="punc" cr="punc:w3824" w="but" l="~" p="U"/>
+     <dpg d="w3827" g="w3824" t="punc" cr="punc:w3824" w="not" l="~" p="U"/>
+     <dpg d="w3828" g="w3824" t="conj" cr="conj:w3824" w="VEGF(121)" l="~" p="N"/>
+     <dpg d="w3829" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,69 @@
+<rexml>
+<doc id="1478">
+  <text>
+<p><s id="s1"><w id="w23137">The</w> <w id="w23138">essential</w> <w id="w23139">role</w> <w id="w23140">of</w> <w id="w23141">profilin</w> <w id="w23142">in</w> <w id="w23143">the</w> <w id="w23144">assembly</w> <w id="w23145">of</w> <w id="w23146">actin</w> <w id="w23147">for</w> <w id="w23148">microspike</w> <w id="w23149">formation</w> <w id="w23150">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5349" gid="g5104" t="Individual_protein" fr="w23141" to="w23141" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1478.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5350" gid="g5105" t="RELATIONSHIP_TEXTBINDING" fr="w23138" to="w23142">
+     <textspan type="extent">essential role of [..] in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1478.1"/>
+      <exattr n="nst" v="st.1478.1.0"/>
+      <exattr n="nst" v="st.1478.2.0"/>
+      <exattr n="nst" v="st.1478.3.0"/>
+      <exattr n="nst" v="st.1478.5.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5351" gid="g5106" t="ASSEMBLY" fr="w23144" to="w23146">
+     <textspan type="extent">assembly of actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1478.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5352" gid="g5107" t="Individual_protein" fr="w23146" to="w23146" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1478.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2065" t="CONDITION" e1="e5349" e2="e5351" re="e5350">
+     <textspan type="extent">essential role of profilin in the assembly of actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1478.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,82 @@
+<rexml>
+<doc id="358">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E7" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E3" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5322" g="w5329" t="s" cr="s+subj:w5329||s+subj:w5338" w="Cotransfections" l="~" p="N"/>
+     <dpg d="w5323" g="w5322" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w5324" g="w5325" t="mod" cr="mod:w5325" w="different" l="~" p="A"/>
+     <dpg d="w5325" g="w5323" t="pcomp-n" cr="mod*with*n:w5322" w="combinations" l="combination" p="N"/>
+     <dpg d="w5326" g="w5325" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5327" g="w5328" t="det" cr="det:w5328" w="these" l="~" p="Det"/>
+     <dpg d="w5328" g="w5326" t="pcomp-n" cr="mod*of*n:w5325" w="genes" l="gene" p="N"/>
+     <dpg d="w5329" g="E3" t="i" cr="UNSPECRELTYPE:E7" w="demonstrated" l="demonstrate" p="V"/>
+     <dpg d="E8" g="w5329" t="subj" cr="" w="" l="Cotransfections" p="N"/>
+     <dpg d="E8" g="w5322" t="antecedent" cr="" w="" l="Cotransfections" p="N"/>
+     <dpg d="w5330" g="w5329" t="obj1" cr="obj1:w5329" w="that" l="~" p="N"/>
+     <dpg d="w5331" g="w5332" t="det" cr="det:w5332" w="a" l="~" p="Det"/>
+     <dpg d="w5332" g="w5329" t="obj2" cr="obj2:w5329" w="subset" l="~" p="N"/>
+     <dpg d="w5333" g="w5332" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5334" g="w5333" t="pcomp-n" cr="mod*of*n:w5332" w="four" l="~" p="N"/>
+     <dpg d="w5335" g="w5334" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5336" g="w5335" t="pcomp-n" cr="mod*of*n:w5334" w="them" l="~" p="N"/>
+     <dpg d="w5337" g="w5329" t="punc" cr="punc:w5329" w="," l="~" p="U"/>
+     <dpg d="E2" g="w5329" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w5322" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w5338" g="E2" t="i" cr="mod:w5329" w="coding" l="cod" p="V"/>
+     <dpg d="E9" g="w5338" t="subj" cr="" w="" l="Cotransfections" p="N"/>
+     <dpg d="E9" g="E5" t="antecedent" cr="" w="" l="Cotransfections" p="N"/>
+     <dpg d="w5339" g="w5338" t="guest" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w5340" g="w5341" t="det" cr="det:w5341" w="the" l="~" p="Det"/>
+     <dpg d="w5341" g="w5339" t="pcomp-n" cr="guest*for*n:w5338" w="HSV" l="~" p="N"/>
+     <dpg d="w5342" g="w5345" t="mod" cr="mod:w5345" w="helicase-primase" l="helicase-primase" p="A"/>
+     <dpg d="w5343" g="w5345" t="mod" cr="mod:w5345" w="complex" l="~" p="A"/>
+     <dpg d="w5344" g="w5345" t="punc" cr="punc:w5345" w="(" l="~" p="U"/>
+     <dpg d="w5345" g="w5338" t="obj" cr="obj:w5338" w="UL5" l="~" p="N"/>
+     <dpg d="w5346" g="w5345" t="punc" cr="punc:w5345" w="," l="~" p="U"/>
+     <dpg d="w5347" g="w5345" t="appo" cr="appo:w5345" w="UL8" l="~" p="N"/>
+     <dpg d="w5348" g="E7" t="punc" cr="punc:E7" w="," l="~" p="U"/>
+     <dpg d="E1" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w5349" g="w5360" t="s" cr="s:w5360||subj:w5362||s+subj:w5364" w="UL52" l="~" p="N"/>
+     <dpg d="w5350" g="w5349" t="punc" cr="punc:w5349" w=")" l="~" p="U"/>
+     <dpg d="w5351" g="w5349" t="punc" cr="punc:w5349" w="and" l="~" p="U"/>
+     <dpg d="w5352" g="w5355" t="det" cr="det:w5355" w="the" l="~" p="Det"/>
+     <dpg d="w5353" g="w5355" t="mod" cr="mod:w5355" w="major" l="~" p="A"/>
+     <dpg d="w5354" g="w5355" t="mod" cr="mod:w5355" w="DNA-binding" l="DNA-binding" p="A"/>
+     <dpg d="w5355" g="w5349" t="conj" cr="conj:w5349" w="protein" l="~" p="N"/>
+     <dpg d="w5356" g="w5349" t="punc" cr="punc:w5349" w="(" l="~" p="U"/>
+     <dpg d="w5357" g="w5349" t="appo" cr="appo:w5349" w="UL29" l="~" p="N"/>
+     <dpg d="w5358" g="w5360" t="punc" cr="punc:w5360" w=")" l="~" p="U"/>
+     <dpg d="w5359" g="w5360" t="punc" cr="punc:w5360" w="," l="~" p="U"/>
+     <dpg d="w5360" g="E1" t="i" cr="UNSPECRELTYPE:E7" w="was" l="be" p="VBE"/>
+     <dpg d="E10" g="w5362" t="subj" cr="" w="" l="UL52" p="N"/>
+     <dpg d="E10" g="w5349" t="antecedent" cr="" w="" l="UL52" p="N"/>
+     <dpg d="w5361" g="w5362" t="mod" cr="mod:w5362" w="already" l="~" p="A"/>
+     <dpg d="w5362" g="w5360" t="pred" cr="pred:w5360" w="sufficient" l="~" p="A"/>
+     <dpg d="E0" g="w5362" t="fc" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w5349" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w5363" g="w5364" t="aux" cr="aux:w5364" w="to" l="~" p="Aux"/>
+     <dpg d="w5364" g="E0" t="i" cr="fc:w5362" w="mediate" l="~" p="V"/>
+     <dpg d="E11" g="w5364" t="subj" cr="" w="" l="UL52" p="N"/>
+     <dpg d="E11" g="E4" t="antecedent" cr="" w="" l="UL52" p="N"/>
+     <dpg d="w5365" g="w5367" t="det" cr="det:w5367" w="the" l="~" p="Det"/>
+     <dpg d="w5366" g="w5367" t="nn" cr="nn:w5367" w="helper" l="~" p="N"/>
+     <dpg d="w5367" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="effect" l="~" p="N"/>
+     <dpg d="w5368" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,78 @@
+<rexml>
+<doc id="1786">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E7" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E3" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28586" g="w28589" t="det" cr="det:w28589" w="The" l="~" p="Det"/>
+     <dpg d="w28587" g="w28589" t="nn" cr="nn:w28589" w="two" l="~" p="N"/>
+     <dpg d="w28588" g="w28589" t="mod" cr="mod:w28589" w="cardiac" l="~" p="A"/>
+     <dpg d="w28589" g="w28591" t="s" cr="s+subj:w28591" w="myosin" l="~" p="N"/>
+     <dpg d="w28590" g="w28591" t="mod-before" cr="mod-before:w28591" w="heavy" l="~" p="A"/>
+     <dpg d="w28591" g="E3" t="i" cr="UNSPECRELTYPE:w28598" w="chain" l="~" p="V"/>
+     <dpg d="E8" g="w28591" t="subj" cr="" w="" l="myosin" p="N"/>
+     <dpg d="E8" g="w28589" t="antecedent" cr="" w="" l="myosin" p="N"/>
+     <dpg d="w28592" g="w28591" t="obj" cr="obj:w28591" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w28593" g="w28592" t="punc" cr="punc:w28592" w="," l="~" p="U"/>
+     <dpg d="w28594" g="w28592" t="conj" cr="conj:w28592" w="alpha" l="~" p="N"/>
+     <dpg d="w28595" g="w28594" t="punc" cr="punc:w28594" w="and" l="~" p="U"/>
+     <dpg d="w28596" g="w28594" t="conj" cr="conj:w28594" w="beta" l="~" p="N"/>
+     <dpg d="w28597" g="E7" t="punc" cr="punc:w28598" w="," l="~" p="U"/>
+     <dpg d="w28598" g="E7" t="i" cr="" w="differ" l="~" p="V"/>
+     <dpg d="w28599" g="w28598" t="mod" cr="mod:w28598" w="functionally" l="~" p="A"/>
+     <dpg d="w28600" g="E7" t="punc" cr="punc:w28598" w="," l="~" p="U"/>
+     <dpg d="E2" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28601" g="w28602" t="mod" cr="mod:w28602" w="alpha" l="~" p="A"/>
+     <dpg d="w28602" g="w28603" t="s" cr="s+subj:w28603" w="Myosin" l="~" p="N"/>
+     <dpg d="w28603" g="E2" t="i" cr="UNSPECRELTYPE:w28598" w="exhibits" l="exhibit" p="V"/>
+     <dpg d="E9" g="w28603" t="subj" cr="" w="" l="myosin" p="N"/>
+     <dpg d="E9" g="w28602" t="antecedent" cr="" w="" l="myosin" p="N"/>
+     <dpg d="w28604" g="w28603" t="guest" cr="guest:w28603" w="higher" l="high" p="A"/>
+     <dpg d="w28605" g="w28607" t="lex-mod" cr="lex-mod:w28607" w="actin" l="~" p="U"/>
+     <dpg d="w28606" g="w28607" t="lex-mod" cr="lex-mod:w28607" w="-" l="~" p="U"/>
+     <dpg d="w28607" g="w28608" t="mod" cr="mod:w28608" w="activated" l="actin - activated" p="A"/>
+     <dpg d="w28608" g="w28603" t="obj1" cr="obj1:w28603" w="ATPase" l="~" p="N"/>
+     <dpg d="w28609" g="w28608" t="mod" cr="" w="than" l="~" p="Prep"/>
+     <dpg d="w28610" g="w28612" t="nn" cr="nn:w28612" w="does" l="doe" p="N"/>
+     <dpg d="w28611" g="w28612" t="nn" cr="nn:w28612" w="beta" l="~" p="N"/>
+     <dpg d="w28612" g="w28609" t="pcomp-n" cr="mod*than*n:w28608" w="myosin" l="~" p="N"/>
+     <dpg d="w28613" g="w28612" t="punc" cr="punc:w28612" w="," l="~" p="U"/>
+     <dpg d="w28614" g="w28612" t="punc" cr="punc:w28612" w="and" l="~" p="U"/>
+     <dpg d="w28615" g="w28612" t="conj" cr="conj:w28612||s+subj:w28616" w="hearts" l="heart" p="N"/>
+     <dpg d="E0" g="w28615" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w28615" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w28616" g="E0" t="i" cr="rel:w28615" w="expressing" l="express" p="V"/>
+     <dpg d="E10" g="w28616" t="subj" cr="" w="" l="heart" p="N"/>
+     <dpg d="E10" g="E5" t="antecedent" cr="" w="" l="heart" p="N"/>
+     <dpg d="w28617" g="w28616" t="obj" cr="obj:w28616" w="alpha" l="~" p="N"/>
+     <dpg d="w28618" g="w28622" t="nn" cr="nn:w28622" w="myosin" l="~" p="N"/>
+     <dpg d="w28619" g="w28622" t="nn" cr="nn:w28622" w="exhibit" l="~" p="N"/>
+     <dpg d="w28620" g="w28622" t="mod" cr="mod:w28622" w="increased" l="~" p="A"/>
+     <dpg d="w28621" g="w28622" t="nn" cr="nn:w28622" w="contractility" l="~" p="N"/>
+     <dpg d="w28622" g="w28603" t="obj2" cr="obj2:w28603" w="relative" l="~" p="N"/>
+     <dpg d="w28623" g="w28622" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w28624" g="w28623" t="pcomp-n" cr="mod*to*n:w28622||s+subj:w28625" w="hearts" l="heart" p="N"/>
+     <dpg d="E1" g="w28624" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w28624" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w28625" g="E1" t="i" cr="rel:w28624" w="expressing" l="express" p="V"/>
+     <dpg d="E11" g="w28625" t="subj" cr="" w="" l="heart" p="N"/>
+     <dpg d="E11" g="E4" t="antecedent" cr="" w="" l="heart" p="N"/>
+     <dpg d="w28626" g="w28627" t="nn" cr="nn:w28627" w="beta" l="~" p="N"/>
+     <dpg d="w28627" g="w28625" t="obj" cr="obj:w28625" w="myosin" l="~" p="N"/>
+     <dpg d="w28628" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

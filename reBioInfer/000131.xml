@@ -1,0 +1,85 @@
+<rexml>
+<doc id="131">
+  <text>
+<p><s id="s1"><w id="w2189">An</w> <w id="w2190">association</w> <w id="w2191">was</w> <w id="w2192">seen</w> <w id="w2193">between</w> <w id="w2194">E-cadherin</w> <w id="w2195">and</w> <w id="w2196">alpha-catenin</w> <w id="w2197">expression</w> <w id="w2198">,</w> <w id="w2199">in</w> <w id="w2200">both</w> <w id="w2201">effusions</w> <w id="w2202">and</w> <w id="w2203">solid</w> <w id="w2204">tumours</w> <w id="w2205">,</w> <w id="w2206">and</w> <w id="w2207">for</w> <w id="w2208">beta-catenin</w> <w id="w2209">in</w> <w id="w2210">solid</w> <w id="w2211">tumours</w> <w id="w2212">(</w> <w id="w2213">range</w> <w id="w2214">p&lt;0.</w> <w id="w2215">001</w> <w id="w2216">to</w> <w id="w2217">p=0.014</w> <w id="w2218">)</w> <w id="w2219">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e529" gid="g514" t="RELATIONSHIP_TEXTBINDING" fr="w2190" to="w2190">
+     <textspan type="extent">association</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.131.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e530" gid="g515" t="Expression" fr="w2194" to="w2197">
+     <textspan type="extent">E-cadherin [..] expression</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.131.1"/>
+      <exattr n="nst" v="st.131.5.0"/>
+      <exattr n="nst" v="st.131.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e531" gid="g516" t="Gene/protein/RNA" fr="w2208" to="w2208" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.131.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e532" gid="g517" t="Expression" fr="w2196" to="w2197">
+     <textspan type="extent">alpha-catenin expression</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.131.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e533" gid="g518" t="Individual_protein" fr="w2194" to="w2194" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.131.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e534" gid="g519" t="Individual_protein" fr="w2196" to="w2196" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.131.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r206" t="CORELATE" e1="e530" e2="e532" re="e529">
+     <textspan type="extent">association was seen between E-cadherin and alpha-catenin expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.131.0"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="CORELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

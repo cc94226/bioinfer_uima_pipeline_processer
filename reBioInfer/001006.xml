@@ -1,0 +1,70 @@
+<rexml>
+<doc id="1006">
+  <text>
+<p><s id="s1"><w id="w15981">Motile</w> <w id="w15982">areas</w> <w id="w15983">of</w> <w id="w15984">leech</w> <w id="w15985">neurites</w> <w id="w15986">are</w> <w id="w15987">rich</w> <w id="w15988">in</w> <w id="w15989">microfilaments</w> <w id="w15990">and</w> <w id="w15991">two</w> <w id="w15992">actin-binding</w> <w id="w15993">proteins</w> <w id="w15994">:</w> <w id="w15995">gelsolin</w> <w id="w15996">and</w> <w id="w15997">profilin</w> <w id="w15998">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3644" gid="g3491" t="Protein_family_or_group" fr="w15992" to="w15993" nam="yes">
+     <textspan type="extent">actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1006.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3645" gid="g3492" t="Individual_protein" fr="w15997" to="w15997" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1006.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3646" gid="g3493" t="Individual_protein" fr="w15995" to="w15995" nam="yes">
+     <textspan type="extent">gelsolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1006.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1386" t="MEMBER" e1="e3644" e2="e3646" re="">
+     <textspan type="extent">actin-binding proteins : gelsolin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1387" t="MEMBER" e1="e3644" e2="e3645" re="">
+     <textspan type="extent">actin-binding proteins : gelsolin and profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

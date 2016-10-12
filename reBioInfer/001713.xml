@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1713">
+  <text>
+<p><s id="s1"><w id="w27374">These</w> <w id="w27375">regions</w> <w id="w27376">also</w> <w id="w27377">interact</w> <w id="w27378">with</w> <w id="w27379">the</w> <w id="w27380">physiologically</w> <w id="w27381">relevant</w> <w id="w27382">ligands</w> <w id="w27383">of</w> <w id="w27384">profilin</w> <w id="w27385">,</w> <w id="w27386">actin</w> <w id="w27387">and</w> <w id="w27388">proline-rich</w> <w id="w27389">peptides</w> <w id="w27390">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6311" gid="g6025" t="RELATIONSHIP_TEXTBINDING" fr="w27382" to="w27383">
+     <textspan type="extent">ligands of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1713.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6312" gid="g6026" t="Individual_protein" fr="w27384" to="w27384" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1713.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6313" gid="g6027" t="Individual_protein" fr="w27386" to="w27386" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1713.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2412" t="BIND" e1="e6312" e2="e6313" re="e6311">
+     <textspan type="extent">ligands of profilin , actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1713.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

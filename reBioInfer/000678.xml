@@ -1,0 +1,57 @@
+<rexml>
+<doc id="678">
+  <text>
+<p><s id="s1"><w id="w10267">Immunohistochemical</w> <w id="w10268">studies</w> <w id="w10269">showed</w> <w id="w10270">a</w> <w id="w10271">strong</w> <w id="w10272">reactivity</w> <w id="w10273">of</w> <w id="w10274">most</w> <w id="w10275">LAM</w> <w id="w10276">cells</w> <w id="w10277">for</w> <w id="w10278">alpha-smooth</w> <w id="w10279">muscle</w> <w id="w10280">actin</w> <w id="w10281">and</w> <w id="w10282">smooth</w> <w id="w10283">muscle</w> <w id="w10284">myosin</w> <w id="w10285">heavy</w> <w id="w10286">chain</w> <w id="w10287">and</w> <w id="w10288">a</w> <w id="w10289">weak</w> <w id="w10290">to</w> <w id="w10291">moderate</w> <w id="w10292">reactivity</w> <w id="w10293">of</w> <w id="w10294">a</w> <w id="w10295">lesser</w> <w id="w10296">number</w> <w id="w10297">of</w> <w id="w10298">cells</w> <w id="w10299">for</w> <w id="w10300">desmin</w> <w id="w10301">and</w> <w id="w10302">nonmuscle</w> <w id="w10303">myosin</w> <w id="w10304">heavy</w> <w id="w10305">chain</w> <w id="w10306">II-B</w> <w id="w10307">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2408" gid="g2308" t="Gene/protein/RNA" fr="w10278" to="w10280" nam="yes">
+     <textspan type="extent">alpha-smooth muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.678.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2409" gid="g2309" t="Gene/protein/RNA" fr="w10300" to="w10300" nam="yes">
+     <textspan type="extent">desmin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.678.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2410" gid="g2310" t="Gene/protein/RNA" fr="w10282" to="w10286" nam="yes">
+     <textspan type="extent">smooth muscle myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.678.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2411" gid="g2311" t="Gene/protein/RNA" fr="w10302" to="w10306" nam="yes">
+     <textspan type="extent">nonmuscle myosin heavy chain II-B</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.678.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

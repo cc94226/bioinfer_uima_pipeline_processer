@@ -1,0 +1,111 @@
+<rexml>
+<doc id="1617">
+  <text>
+<p><s id="s1"><w id="w25770">The</w> <w id="w25771">protein</w> <w id="w25772">profilin</w> <w id="w25773">binds</w> <w id="w25774">to</w> <w id="w25775">both</w> <w id="w25776">actin</w> <w id="w25777">and</w> <w id="w25778">the</w> <w id="w25779">head</w> <w id="w25780">groups</w> <w id="w25781">of</w> <w id="w25782">poly)phosphoinositide)s</w> <w id="w25783">and</w> <w id="w25784">may</w> <w id="w25785">regulate</w> <w id="w25786">both</w> <w id="w25787">actin</w> <w id="w25788">assembly</w> <w id="w25789">and</w> <w id="w25790">the</w> <w id="w25791">phosphoinositide</w> <w id="w25792">signaling</w> <w id="w25793">pathway</w> <w id="w25794">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5955" gid="g5676" t="Individual_protein" fr="w25771" to="w25772" nam="yes">
+     <textspan type="extent">protein profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1617.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5956" gid="g5677" t="RELATIONSHIP_TEXTBINDING" fr="w25773" to="w25774">
+     <textspan type="extent">binds to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1617.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5957" gid="g5678" t="ASSEMBLY" fr="w25787" to="w25788">
+     <textspan type="extent">actin assembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1617.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5958" gid="g5679" t="RELATIONSHIP_TEXTBINDING" fr="w25785" to="w25785">
+     <textspan type="extent">regulate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1617.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5959" gid="g5680" t="Individual_protein" fr="w25772" to="w25772" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1617.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5960" gid="g5681" t="Individual_protein" fr="w25776" to="w25776" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1617.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5961" gid="g5682" t="Individual_protein" fr="w25787" to="w25787" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1617.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2277" t="BIND" e1="e5955" e2="e5960" re="e5956">
+     <textspan type="extent">protein profilin binds to both actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1617.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2278" t="CONTROL" e1="e5955" e2="e5957" re="e5958">
+     <textspan type="extent">protein profilin binds to both actin and the head groups of poly)phosphoinositide)s and may regulate both actin assembly</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1617.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

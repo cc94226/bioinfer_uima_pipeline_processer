@@ -1,0 +1,95 @@
+<rexml>
+<doc id="1527">
+  
+  <markup>
+   <nes>
+    <ne id="e5586" gid="g5333" t="Individual_protein" fr="w24067" to="w24067" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1527.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5588" gid="g5335" t="Individual_protein" fr="w24069" to="w24071" nam="yes" sid="s1">
+     <textspan>thymosin beta 4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1527.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5587" gid="g5334" t="Individual_protein" fr="w24073" to="w24073" nam="yes" sid="s1">
+     <textspan>actobindin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1527.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5589" gid="g5336" t="Individual_protein" fr="w24075" to="w24075" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1527.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2138" t="INTERACT" e1="e5586" e2="e5588" re="e5585">
+     <textspan>interactions of actin with thymosin beta 4</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1527.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2139" t="INTERACT" e1="e5586" e2="e5587" re="e5585">
+     <textspan>interactions of actin with thymosin beta 4 , actobindin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1527.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2140" t="INTERACT" e1="e5586" e2="e5589" re="e5585">
+     <textspan>interactions of actin with thymosin beta 4 , actobindin and profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1527.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

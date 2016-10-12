@@ -1,0 +1,79 @@
+<rexml>
+<doc id="1229">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w19307" g="w19308" t="nn" cr="nn:w19308" w="SDS-PAGE" l="SDS-PAGE" p="N"/>
+     <dpg d="w19308" g="w19313" t="s" cr="s+subj:w19313" w="analysis" l="~" p="N"/>
+     <dpg d="w19309" g="w19308" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w19310" g="w19312" t="nn" cr="nn:w19312" w="growth" l="~" p="N"/>
+     <dpg d="w19311" g="w19312" t="nn" cr="nn:w19312" w="cone" l="~" p="N"/>
+     <dpg d="w19312" g="w19309" t="pcomp-n" cr="mod*of*n:w19308" w="cytoskeletons" l="~" p="N"/>
+     <dpg d="w19313" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="revealed" l="reveal" p="V"/>
+     <dpg d="E4" g="w19313" t="subj" cr="" w="" l="analysis" p="N"/>
+     <dpg d="E4" g="w19308" t="antecedent" cr="" w="" l="analysis" p="N"/>
+     <dpg d="w19314" g="w19315" t="det" cr="det:w19315" w="the" l="~" p="Det"/>
+     <dpg d="w19315" g="w19313" t="obj" cr="obj:w19313" w="presence" l="~" p="N"/>
+     <dpg d="w19316" g="w19315" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w19317" g="w19319" t="det" cr="det:w19319" w="several" l="~" p="Det"/>
+     <dpg d="w19318" g="w19319" t="mod" cr="mod:w19319" w="major" l="~" p="A"/>
+     <dpg d="w19319" g="w19316" t="pcomp-n" cr="mod*of*n:w19315||obj:w19321" w="bands" l="band" p="N"/>
+     <dpg d="w19320" g="w19319" t="punc" cr="punc:w19319" w="," l="~" p="U"/>
+     <dpg d="w19321" g="w19319" t="vrel" cr="vrel:w19319" w="identified" l="identify" p="V"/>
+     <dpg d="E5" g="w19321" t="obj" cr="" w="" l="band" p="N"/>
+     <dpg d="E5" g="w19319" t="antecedent" cr="" w="" l="band" p="N"/>
+     <dpg d="w19322" g="w19321" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w19323" g="w19324" t="gen" cr="gen:w19324" w="their" l="~" p="N"/>
+     <dpg d="w19324" g="w19322" t="pcomp-n" cr="by-subj*by*n:w19321" w="mobility" l="~" p="N"/>
+     <dpg d="w19325" g="w19324" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w19326" g="w19325" t="pcomp-n" cr="mod*as*n:w19324" w="actin" l="~" p="N"/>
+     <dpg d="w19327" g="w19326" t="punc" cr="punc:w19326" w="(" l="~" p="U"/>
+     <dpg d="w19328" g="w19326" t="num" cr="num:w19326" w="43" l="~" p="N"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w19329" g="w19333" t="nn" cr="nn:w19333" w="kDa" l="~" p="N"/>
+     <dpg d="w19330" g="w19333" t="nn" cr="nn:w19333" w="Mr" l="~" p="N"/>
+     <dpg d="w19331" g="w19333" t="punc" cr="punc:w19333" w=")" l="~" p="U"/>
+     <dpg d="w19332" g="w19333" t="punc" cr="punc:w19333" w="," l="~" p="U"/>
+     <dpg d="w19333" g="w19335" t="s" cr="s+subj:w19335" w="myosin" l="~" p="N"/>
+     <dpg d="w19334" g="w19335" t="mod-before" cr="mod-before:w19335" w="heavy" l="~" p="A"/>
+     <dpg d="w19335" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="chain" l="~" p="V"/>
+     <dpg d="E6" g="w19335" t="subj" cr="" w="" l="myosin" p="N"/>
+     <dpg d="E6" g="w19333" t="antecedent" cr="" w="" l="myosin" p="N"/>
+     <dpg d="w19336" g="w19335" t="punc" cr="punc:w19335" w="(" l="~" p="U"/>
+     <dpg d="w19337" g="w19342" t="num" cr="num:w19342" w="195" l="~" p="N"/>
+     <dpg d="w19338" g="w19342" t="nn" cr="nn:w19342" w="kDa" l="~" p="N"/>
+     <dpg d="w19339" g="w19342" t="nn" cr="nn:w19342" w="Mr" l="~" p="N"/>
+     <dpg d="w19340" g="w19342" t="punc" cr="punc:w19342" w=")" l="~" p="U"/>
+     <dpg d="w19341" g="w19342" t="punc" cr="punc:w19342" w="," l="~" p="U"/>
+     <dpg d="w19342" g="w19335" t="obj" cr="obj:w19335" w="spectrin" l="~" p="N"/>
+     <dpg d="w19343" g="E3" t="punc" cr="punc:E3" w="(" l="~" p="U"/>
+     <dpg d="w19344" g="w19346" t="lex-mod" cr="lex-mod:w19346" w="235" l="~" p="U"/>
+     <dpg d="w19345" g="w19346" t="lex-mod" cr="lex-mod:w19346" w="and" l="~" p="U"/>
+     <dpg d="w19346" g="w19347" t="nn" cr="nn:w19347" w="240" l="235 and 240" p="N"/>
+     <dpg d="w19347" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="kDa" l="~" p="N"/>
+     <dpg d="w19348" g="E3" t="punc" cr="punc:E3" w="Mr" l="~" p="U"/>
+     <dpg d="w19349" g="E3" t="punc" cr="punc:E3" w=")" l="~" p="U"/>
+     <dpg d="w19350" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w19351" g="E3" t="punc" cr="punc:E3" w="and" l="~" p="U"/>
+     <dpg d="w19352" g="w19355" t="nn" cr="nn:w19355" w="tubulin" l="~" p="N"/>
+     <dpg d="w19353" g="w19355" t="punc" cr="punc:w19355" w="(" l="~" p="U"/>
+     <dpg d="w19354" g="w19355" t="nn" cr="nn:w19355" w="51-54" l="51-54" p="N"/>
+     <dpg d="w19355" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="kDa" l="~" p="N"/>
+     <dpg d="w19356" g="" t="" cr="" w="Mr" l="~" p="U"/>
+     <dpg d="w19357" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w19358" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

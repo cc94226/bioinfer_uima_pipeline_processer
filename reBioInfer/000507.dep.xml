@@ -1,0 +1,55 @@
+<rexml>
+<doc id="507">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7004" g="E1" t="mod" cr="" w="For" l="~" p="Prep"/>
+     <dpg d="w7005" g="w7004" t="pcomp-n" cr="mod*for*n:w7016" w="example" l="~" p="N"/>
+     <dpg d="w7006" g="E1" t="punc" cr="punc:w7016" w="," l="~" p="U"/>
+     <dpg d="w7007" g="w7016" t="s" cr="s+subj:w7016" w="profilin" l="~" p="N"/>
+     <dpg d="w7008" g="w7007" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w7009" g="w7010" t="det" cr="det:w7010" w="a" l="~" p="Det"/>
+     <dpg d="w7010" g="w7008" t="pcomp-n" cr="mod*with*n:w7007" w="deletion" l="~" p="N"/>
+     <dpg d="w7011" g="w7010" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w7012" g="w7015" t="det" cr="det:w7015" w="the" l="~" p="Det"/>
+     <dpg d="w7013" g="w7015" t="nn" cr="nn:w7015" w="eight" l="~" p="N"/>
+     <dpg d="w7014" g="w7015" t="mod" cr="mod:w7015" w="C-terminal" l="C-terminal" p="A"/>
+     <dpg d="w7015" g="w7011" t="pcomp-n" cr="mod*of*n:w7010" w="residues" l="residue" p="N"/>
+     <dpg d="w7016" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="has" l="have" p="V"/>
+     <dpg d="E4" g="w7016" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E4" g="w7007" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w7017" g="w7016" t="obj" cr="obj:w7016" w="many" l="~" p="N"/>
+     <dpg d="w7018" g="w7017" t="comp1" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w7019" g="w7021" t="det" cr="det:w7021" w="the" l="~" p="Det"/>
+     <dpg d="w7020" g="w7021" t="lex-mod" cr="lex-mod:w7021" w="physical" l="~" p="U"/>
+     <dpg d="w7021" g="w7018" t="pcomp-n" cr="comp1*of*n:w7017" w="properties" l="physical property" p="N"/>
+     <dpg d="w7022" g="w7021" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w7023" g="w7024" t="det" cr="det:w7024" w="a" l="~" p="Det"/>
+     <dpg d="w7024" g="w7022" t="pcomp-n" cr="mod*of*n:w7021" w="molten" l="~" p="N"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w7025" g="w7030" t="s" cr="s+subj:w7030" w="globule" l="~" p="N"/>
+     <dpg d="w7026" g="w7030" t="punc" cr="punc:w7030" w="," l="~" p="U"/>
+     <dpg d="w7027" g="w7028" t="mod" cr="mod:w7028" w="yet" l="~" p="A"/>
+     <dpg d="w7028" g="w7029" t="mod" cr="mod:w7029" w="remarkably" l="~" p="A"/>
+     <dpg d="w7029" g="w7030" t="mod-before" cr="mod-before:w7030" w="still" l="~" p="A"/>
+     <dpg d="w7030" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="binds" l="bind" p="V"/>
+     <dpg d="E5" g="w7030" t="subj" cr="" w="" l="globule" p="N"/>
+     <dpg d="E5" g="w7025" t="antecedent" cr="" w="" l="globule" p="N"/>
+     <dpg d="w7031" g="w7030" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w7032" g="w7031" t="pcomp-n" cr="mod*to*n:w7030" w="actin" l="~" p="N"/>
+     <dpg d="w7033" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

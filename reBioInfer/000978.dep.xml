@@ -1,0 +1,48 @@
+<rexml>
+<doc id="978">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w15415" g="w15417" t="s" cr="s+subj:w15417||s+subj:w15426" w="MgCl2" l="~" p="N"/>
+     <dpg d="w15416" g="w15417" t="amod" cr="amod:w15417" w="strongly" l="~" p="A"/>
+     <dpg d="w15417" g="E1" t="i" cr="" w="inhibits" l="inhibit" p="V"/>
+     <dpg d="E4" g="w15417" t="subj" cr="" w="" l="MgCl2" p="N"/>
+     <dpg d="E4" g="w15415" t="antecedent" cr="" w="" l="MgCl2" p="N"/>
+     <dpg d="w15418" g="w15419" t="det" cr="det:w15419" w="these" l="~" p="Det"/>
+     <dpg d="w15419" g="w15417" t="obj" cr="obj:w15417" w="effects" l="effect" p="N"/>
+     <dpg d="w15420" g="w15419" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15421" g="w15420" t="pcomp-n" cr="mod*of*n:w15419" w="profilin" l="~" p="N"/>
+     <dpg d="w15422" g="w15421" t="punc" cr="punc:w15421" w="," l="~" p="U"/>
+     <dpg d="w15423" g="w15424" t="mod" cr="mod:w15424" w="most" l="~" p="A"/>
+     <dpg d="w15424" g="w15421" t="pnmod" cr="pnmod:w15421" w="likely" l="~" p="A"/>
+     <dpg d="w15425" g="w15424" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E0" g="w15425" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w15415" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w15426" g="E0" t="i" cr="mod*by*c:w15424" w="binding" l="bind" p="V"/>
+     <dpg d="E5" g="w15426" t="subj" cr="" w="" l="MgCl2" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="MgCl2" p="N"/>
+     <dpg d="w15427" g="w15426" t="guest" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w15428" g="w15429" t="det" cr="det:w15429" w="the" l="~" p="Det"/>
+     <dpg d="w15429" g="w15427" t="pcomp-n" cr="guest*to*n:w15426" w="high-affinity" l="high-affinity" p="N"/>
+     <dpg d="w15430" g="w15432" t="mod" cr="mod:w15432" w="divalent" l="~" p="A"/>
+     <dpg d="w15431" g="w15432" t="nn" cr="nn:w15432" w="cation" l="~" p="N"/>
+     <dpg d="w15432" g="w15426" t="obj" cr="obj:w15426" w="site" l="~" p="N"/>
+     <dpg d="w15433" g="w15432" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w15434" g="w15435" t="det" cr="det:w15435" w="the" l="~" p="Det"/>
+     <dpg d="w15435" g="w15433" t="pcomp-n" cr="mod*on*n:w15432" w="actin" l="~" p="N"/>
+     <dpg d="w15436" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

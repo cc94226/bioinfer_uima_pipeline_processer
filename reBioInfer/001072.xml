@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1072">
+  <text>
+<p><s id="s1"><w id="w16981">On</w> <w id="w16982">the</w> <w id="w16983">other</w> <w id="w16984">hand</w> <w id="w16985">,</w> <w id="w16986">we</w> <w id="w16987">have</w> <w id="w16988">recently</w> <w id="w16989">proposed</w> <w id="w16990">the</w> <w id="w16991">importance</w> <w id="w16992">of</w> <w id="w16993">cofilin</w> <w id="w16994">,</w> <w id="w16995">an</w> <w id="w16996">actin</w><w id="w16997">-</w><w id="w16998">binding</w> <w id="w16999">phosphoprotein</w> <w id="w17000">,</w> <w id="w17001">in</w> <w id="w17002">phagocyte</w> <w id="w17003">functions</w> <w id="w17004">through</w> <w id="w17005">dephosphorylation</w> <w id="w17006">and</w> <w id="w17007">translocation</w> <w id="w17008">to</w> <w id="w17009">the</w> <w id="w17010">plasma</w> <w id="w17011">membrane</w> <w id="w17012">regions</w> <w id="w17013">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3881" gid="g3711" t="Individual_protein" fr="w16993" to="w16993" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1072.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3882" gid="g3712" t="RELATIONSHIP_TEXTBINDING" fr="w16998" to="w16998">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1072.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3883" gid="g3713" t="Individual_protein" fr="w16996" to="w16996" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1072.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1486" t="BIND" e1="e3881" e2="e3883" re="e3882">
+     <textspan type="extent">cofilin , an actin - binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1072.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

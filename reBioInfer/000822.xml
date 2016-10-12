@@ -1,0 +1,84 @@
+<rexml>
+<doc id="822">
+  <text>
+<p><s id="s1"><w id="w12782">Interaction</w> <w id="w12783">of</w> <w id="w12784">the</w> <w id="w12785">yeast</w> <w id="w12786">RAD51</w> <w id="w12787">and</w> <w id="w12788">RAD52</w> <w id="w12789">proteins</w> <w id="w12790">plays</w> <w id="w12791">a</w> <w id="w12792">crucial</w> <w id="w12793">role</w> <w id="w12794">in</w> <w id="w12795">yeast</w> <w id="w12796">DNA</w> <w id="w12797">homologous</w> <w id="w12798">recombination</w> <w id="w12799">and</w> <w id="w12800">DNA</w> <w id="w12801">double-strand</w> <w id="w12802">break</w> <w id="w12803">repair</w> <w id="w12804">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2958" gid="g2837" t="RELATIONSHIP_TEXTBINDING" fr="w12782" to="w12783">
+     <textspan type="extent">Interaction of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.822.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2959" gid="g2838" t="Individual_protein" fr="w12785" to="w12789" nam="yes">
+     <textspan type="extent">yeast RAD51 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.822.1"/>
+      <exattr n="nst" v="st.822.3.0"/>
+      <exattr n="nst" v="st.822.4.0"/>
+      <exattr n="nst" v="st.822.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2960" gid="g2839" t="Individual_protein" fr="w12785" to="w12789" nam="yes">
+     <textspan type="extent">yeast [..] RAD52 proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.822.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2961" gid="g2840" t="Individual_protein" fr="w12786" to="w12786" nam="yes">
+     <textspan type="extent">RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.822.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2962" gid="g2841" t="Individual_protein" fr="w12788" to="w12788" nam="yes">
+     <textspan type="extent">RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.822.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1145" t="INTERACT" e1="e2959" e2="e2960" re="e2958">
+     <textspan type="extent">Interaction of the yeast RAD51 and RAD52 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.822.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

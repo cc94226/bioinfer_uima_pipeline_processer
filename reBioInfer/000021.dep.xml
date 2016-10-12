@@ -1,0 +1,46 @@
+<rexml>
+<doc id="21">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w312" g="w314" t="det" cr="det:w314" w="A" l="~" p="Det"/>
+     <dpg d="w313" g="w314" t="nn" cr="nn:w314" w="core" l="~" p="N"/>
+     <dpg d="w314" g="w326" t="s" cr="s+obj:w326" w="activity" l="~" p="N"/>
+     <dpg d="w315" g="w314" t="pnmod" cr="pnmod:w314" w="associated" l="~" p="A"/>
+     <dpg d="w316" g="w315" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w317" g="w319" t="det" cr="det:w319" w="the" l="~" p="Det"/>
+     <dpg d="w318" g="w319" t="nn" cr="nn:w319" w="N" l="~" p="N"/>
+     <dpg d="w319" g="w316" t="pcomp-n" cr="mod*with*n:w315" w="terminus" l="~" p="N"/>
+     <dpg d="w320" g="w319" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w321" g="w324" t="det" cr="det:w324" w="the" l="~" p="Det"/>
+     <dpg d="w322" g="w324" t="nn" cr="nn:w324" w="yeast" l="~" p="N"/>
+     <dpg d="w323" g="w324" t="nn" cr="nn:w324" w="RAD52" l="~" p="N"/>
+     <dpg d="w324" g="w320" t="pcomp-n" cr="mod*of*n:w319" w="protein" l="~" p="N"/>
+     <dpg d="w325" g="w326" t="be" cr="be:w326" w="is" l="be" p="be"/>
+     <dpg d="w326" g="E0" t="i" cr="" w="revealed" l="reveal" p="V"/>
+     <dpg d="E2" g="w326" t="obj" cr="" w="" l="activity" p="N"/>
+     <dpg d="E2" g="w314" t="antecedent" cr="" w="" l="activity" p="N"/>
+     <dpg d="w327" g="w326" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w328" g="w330" t="nn" cr="nn:w330" w="RAD51" l="~" p="N"/>
+     <dpg d="w329" g="w330" t="nn" cr="nn:w330" w="overexpression" l="~" p="N"/>
+     <dpg d="w330" g="w327" t="pcomp-n" cr="by-subj*by*n:w326" w="suppression" l="~" p="N"/>
+     <dpg d="w331" g="w330" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w332" g="w335" t="mod" cr="mod:w335" w="C-terminal" l="C-terminal" p="A"/>
+     <dpg d="w333" g="w335" t="nn" cr="nn:w335" w="rad52" l="~" p="N"/>
+     <dpg d="w334" g="w335" t="nn" cr="nn:w335" w="truncation" l="~" p="N"/>
+     <dpg d="w335" g="w331" t="pcomp-n" cr="mod*of*n:w330" w="alleles" l="allele" p="N"/>
+     <dpg d="w336" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

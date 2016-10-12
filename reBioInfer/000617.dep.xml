@@ -1,0 +1,40 @@
+<rexml>
+<doc id="617">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9130" g="E0" t="wha" cr="wha:w9135" w="How" l="~" p="A"/>
+     <dpg d="w9131" g="w9134" t="nn" cr="nn:w9134" w="profilin" l="~" p="N"/>
+     <dpg d="w9132" g="w9134" t="nn" cr="nn:w9134" w="/" l="~" p="N"/>
+     <dpg d="w9133" g="w9134" t="mod" cr="mod:w9134" w="barbed-end" l="barbed-end" p="A"/>
+     <dpg d="w9134" g="w9135" t="s" cr="s+subj:w9135" w="synergy" l="~" p="N"/>
+     <dpg d="w9135" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="controls" l="control" p="V"/>
+     <dpg d="E3" g="w9135" t="subj" cr="" w="" l="synergy" p="N"/>
+     <dpg d="E3" g="w9134" t="antecedent" cr="" w="" l="synergy" p="N"/>
+     <dpg d="w9136" g="w9137" t="nn" cr="nn:w9137" w="actin" l="~" p="N"/>
+     <dpg d="w9137" g="w9135" t="obj" cr="obj:w9135" w="polymerization" l="~" p="N"/>
+     <dpg d="w9138" g="E2" t="punc" cr="punc:E2" w=":" l="~" p="U"/>
+     <dpg d="w9139" g="w9141" t="det" cr="det:w9141" w="a" l="~" p="Det"/>
+     <dpg d="w9140" g="w9141" t="mod" cr="mod:w9141" w="kinetic" l="~" p="A"/>
+     <dpg d="w9141" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="model" l="~" p="N"/>
+     <dpg d="w9142" g="w9141" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9143" g="w9146" t="det" cr="det:w9146" w="the" l="~" p="Det"/>
+     <dpg d="w9144" g="w9146" t="nn" cr="nn:w9146" w="ATP" l="~" p="N"/>
+     <dpg d="w9145" g="w9146" t="nn" cr="nn:w9146" w="hydrolysis" l="~" p="N"/>
+     <dpg d="w9146" g="w9142" t="pcomp-n" cr="mod*of*n:w9141" w="circuit" l="~" p="N"/>
+     <dpg d="w9147" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

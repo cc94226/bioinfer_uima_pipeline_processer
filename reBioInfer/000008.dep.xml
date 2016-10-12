@@ -1,0 +1,51 @@
+<rexml>
+<doc id="8">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w93" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="Abundance" l="~" p="N"/>
+     <dpg d="w94" g="w93" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w95" g="w94" t="pcomp-n" cr="mod*of*n:w93" w="actin" l="~" p="N"/>
+     <dpg d="w96" g="w95" t="punc" cr="punc:w95" w="," l="~" p="U"/>
+     <dpg d="w97" g="w95" t="conj" cr="conj:w95" w="talin" l="~" p="N"/>
+     <dpg d="w98" g="w97" t="punc" cr="punc:w97" w="," l="~" p="U"/>
+     <dpg d="w99" g="w100" t="lex-mod" cr="lex-mod:w100" w="alpha" l="~" p="U"/>
+     <dpg d="w100" g="w97" t="conj" cr="conj:w97" w="5" l="alpha 5" p="N"/>
+     <dpg d="w101" g="w100" t="punc" cr="punc:w100" w="and" l="~" p="U"/>
+     <dpg d="w102" g="w103" t="lex-mod" cr="lex-mod:w103" w="beta" l="~" p="U"/>
+     <dpg d="w103" g="w104" t="nn" cr="nn:w104" w="1" l="beta 1" p="N"/>
+     <dpg d="w104" g="w100" t="conj" cr="conj:w100" w="integrins" l="~" p="N"/>
+     <dpg d="w105" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w106" g="w109" t="nn" cr="nn:w109" w="pp125" l="~" p="N"/>
+     <dpg d="w107" g="w109" t="mod" cr="mod:w109" w="focal" l="~" p="A"/>
+     <dpg d="w108" g="w109" t="nn" cr="nn:w109" w="adhesion" l="~" p="N"/>
+     <dpg d="w109" g="w113" t="s" cr="s:w113||subj:w115" w="kinase" l="~" p="N"/>
+     <dpg d="w110" g="w109" t="punc" cr="punc:w109" w="," l="~" p="U"/>
+     <dpg d="w111" g="w109" t="punc" cr="punc:w109" w="and" l="~" p="U"/>
+     <dpg d="w112" g="w109" t="conj" cr="conj:w109" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w113" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="is" l="be" p="VBE"/>
+     <dpg d="w114" g="w113" t="neg" cr="neg:w113" w="not" l="~" p="A"/>
+     <dpg d="E3" g="w115" t="subj" cr="" w="" l="kinase" p="N"/>
+     <dpg d="E3" g="w109" t="antecedent" cr="" w="" l="kinase" p="N"/>
+     <dpg d="w115" g="w113" t="pred" cr="pred:w113" w="affected" l="~" p="A"/>
+     <dpg d="w116" g="w115" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w117" g="w120" t="det" cr="det:w120" w="the" l="~" p="Det"/>
+     <dpg d="w118" g="w120" t="mod" cr="mod:w120" w="differential" l="~" p="A"/>
+     <dpg d="w119" g="w120" t="nn" cr="nn:w120" w="calreticulin" l="~" p="N"/>
+     <dpg d="w120" g="w116" t="pcomp-n" cr="mod*by*n:w115" w="expression" l="~" p="N"/>
+     <dpg d="w121" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

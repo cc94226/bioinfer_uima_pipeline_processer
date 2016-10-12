@@ -1,0 +1,74 @@
+<rexml>
+<doc id="1607">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w25503" g="w25505" t="det" cr="det:w25505" w="The" l="~" p="Det"/>
+     <dpg d="w25504" g="w25505" t="mod" cr="mod:w25505" w="primary" l="~" p="A"/>
+     <dpg d="w25505" g="w25509" t="s" cr="s:w25509||subj:w25511" w="purpose" l="~" p="N"/>
+     <dpg d="w25506" g="w25505" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w25507" g="w25508" t="det" cr="det:w25508" w="this" l="~" p="Det"/>
+     <dpg d="w25508" g="w25506" t="pcomp-n" cr="mod*of*n:w25505" w="study" l="~" p="N"/>
+     <dpg d="w25509" g="E1" t="i" cr="UNSPECRELTYPE:E6" w="was" l="be" p="VBE"/>
+     <dpg d="E0" g="w25509" t="pred" cr="" w="" l="inf" p="C"/>
+     <dpg d="E7" g="E0" t="subj" cr="" w="" l="purpose" p="N"/>
+     <dpg d="E7" g="w25505" t="antecedent" cr="" w="" l="purpose" p="N"/>
+     <dpg d="E4" g="E0" t="s" cr="s+subj:w25511" w="" l="~" p="N"/>
+     <dpg d="w25510" g="w25511" t="aux" cr="aux:w25511" w="to" l="~" p="Aux"/>
+     <dpg d="w25511" g="E0" t="i" cr="pred:w25509" w="determine" l="~" p="V"/>
+     <dpg d="E8" g="w25511" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w25512" g="w25513" t="det" cr="det:w25513" w="the" l="~" p="Det"/>
+     <dpg d="w25513" g="w25511" t="obj" cr="obj:w25511" w="relationship" l="~" p="N"/>
+     <dpg d="w25514" g="w25513" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w25515" g="w25517" t="lex-mod" cr="lex-mod:w25517" w="myosin" l="~" p="U"/>
+     <dpg d="w25516" g="w25517" t="lex-mod" cr="lex-mod:w25517" w="heavy" l="~" p="U"/>
+     <dpg d="w25517" g="w25514" t="pcomp-n" cr="mod*between*n:w25513" w="chain" l="myosin heavy chain" p="N"/>
+     <dpg d="w25518" g="w25519" t="punc" cr="punc:w25519" w="(" l="~" p="U"/>
+     <dpg d="w25519" g="w25517" t="abbrev" cr="abbrev:w25517" w="MHC" l="~" p="N"/>
+     <dpg d="w25520" g="w25519" t="punc" cr="punc:w25519" w=")" l="~" p="U"/>
+     <dpg d="w25521" g="w25517" t="punc" cr="punc:w25517" w="and" l="~" p="U"/>
+     <dpg d="w25522" g="w25523" t="nn" cr="nn:w25523" w="actin" l="~" p="N"/>
+     <dpg d="w25523" g="w25517" t="conj" cr="conj:w25517" w="contents" l="content" p="N"/>
+     <dpg d="w25524" g="w25523" t="punc" cr="punc:w25523" w="and" l="~" p="U"/>
+     <dpg d="w25525" g="w25530" t="mod" cr="mod:w25530" w="maximum" l="~" p="A"/>
+     <dpg d="w25526" g="w25530" t="mod" cr="mod:w25530" w="isometric" l="~" p="A"/>
+     <dpg d="w25527" g="w25530" t="mod" cr="mod:w25530" w="tetanic" l="~" p="A"/>
+     <dpg d="w25528" g="w25530" t="nn" cr="nn:w25530" w="force" l="~" p="N"/>
+     <dpg d="w25529" g="w25530" t="punc" cr="punc:w25530" w="(" l="~" p="U"/>
+     <dpg d="w25530" g="w25523" t="conj" cr="conj:w25523" w="Po" l="~" p="N"/>
+     <dpg d="w25531" g="w25530" t="punc" cr="punc:w25530" w=")" l="~" p="U"/>
+     <dpg d="w25532" g="w25530" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w25533" g="w25532" t="pcomp-n" cr="mod*in*n:w25530" w="mouse" l="~" p="N"/>
+     <dpg d="w25534" g="w25536" t="lex-mod" cr="lex-mod:w25536" w="extensor" l="~" p="U"/>
+     <dpg d="w25535" g="w25536" t="lex-mod" cr="lex-mod:w25536" w="digitorum" l="~" p="U"/>
+     <dpg d="w25536" g="w25540" t="nn" cr="nn:w25540" w="longus" l="extensor digitorum longus" p="N"/>
+     <dpg d="w25537" g="w25538" t="punc" cr="punc:w25538" w="(" l="~" p="U"/>
+     <dpg d="w25538" g="w25536" t="abbrev" cr="abbrev:w25536" w="EDL" l="~" p="N"/>
+     <dpg d="w25539" g="w25538" t="punc" cr="punc:w25538" w=")" l="~" p="U"/>
+     <dpg d="w25540" g="E6" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E6||s+subj:w25541" w="muscles" l="muscle" p="N"/>
+     <dpg d="E2" g="w25540" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w25540" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w25541" g="E2" t="i" cr="rel:w25540" w="following" l="follow" p="V"/>
+     <dpg d="E9" g="w25541" t="subj" cr="" w="" l="muscle" p="N"/>
+     <dpg d="E9" g="E3" t="antecedent" cr="" w="" l="muscle" p="N"/>
+     <dpg d="w25542" g="w25544" t="mod" cr="mod:w25544" w="eccentric" l="~" p="A"/>
+     <dpg d="w25543" g="w25544" t="mod" cr="mod:w25544" w="contraction-induced" l="contraction-induced" p="A"/>
+     <dpg d="w25544" g="w25541" t="obj" cr="obj:w25541" w="injury" l="~" p="N"/>
+     <dpg d="w25545" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

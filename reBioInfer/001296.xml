@@ -1,0 +1,86 @@
+<rexml>
+<doc id="1296">
+  <text>
+<p><s id="s1"><w id="w20397">Stimulus-dependent</w> <w id="w20398">disorganization</w> <w id="w20399">of</w> <w id="w20400">actin</w> <w id="w20401">filaments</w> <w id="w20402">induced</w> <w id="w20403">by</w> <w id="w20404">overexpression</w> <w id="w20405">of</w> <w id="w20406">cofilin</w> <w id="w20407">in</w> <w id="w20408">C2</w> <w id="w20409">myoblasts</w> <w id="w20410">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4695" gid="g4488" t="MODIFICATION" fr="w20398" to="w20401">
+     <textspan type="extent">disorganization of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1296.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4696" gid="g4489" t="RELATIONSHIP_TEXTBINDING" fr="w20402" to="w20403">
+     <textspan type="extent">induced by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1296.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4697" gid="g4490" t="Cell_component" fr="w20400" to="w20401" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1296.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4698" gid="g4491" t="Expression" fr="w20404" to="w20406">
+     <textspan type="extent">overexpression of cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.1296.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4699" gid="g4492" t="Individual_protein" fr="w20406" to="w20406" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1296.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4700" gid="g4493" t="Individual_protein" fr="w20400" to="w20400" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1296.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1786" t="INITIATE" e1="e4698" e2="e4695" re="e4696">
+     <textspan type="extent">disorganization of actin filaments induced by overexpression of cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1296.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

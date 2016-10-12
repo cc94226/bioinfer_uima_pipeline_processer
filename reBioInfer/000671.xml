@@ -1,0 +1,114 @@
+<rexml>
+<doc id="671">
+  <text>
+<p><s id="s1"><w id="w10094">Immunofluorescence</w> <w id="w10095">microscopy</w> <w id="w10096">revealed</w> <w id="w10097">that</w> <w id="w10098">two</w> <w id="w10099">actin-binding</w> <w id="w10100">proteins</w> <w id="w10101">of</w> <w id="w10102">low</w> <w id="w10103">molecular</w> <w id="w10104">weight</w> <w id="w10105">with</w> <w id="w10106">different</w> <w id="w10107">functional</w> <w id="w10108">activity</w> <w id="w10109">,</w> <w id="w10110">ADF</w> <w id="w10111">and</w> <w id="w10112">cofilin</w> <w id="w10113">,</w> <w id="w10114">are</w> <w id="w10115">transported</w> <w id="w10116">into</w> <w id="w10117">nuclei</w> <w id="w10118">of</w> <w id="w10119">cultured</w> <w id="w10120">myogenic</w> <w id="w10121">cells</w> <w id="w10122">to</w> <w id="w10123">form</w> <w id="w10124">rod</w> <w id="w10125">structures</w> <w id="w10126">there</w> <w id="w10127">together</w> <w id="w10128">with</w> <w id="w10129">actin</w> <w id="w10130">,</w> <w id="w10131">when</w> <w id="w10132">the</w> <w id="w10133">cells</w> <w id="w10134">were</w> <w id="w10135">incubated</w> <w id="w10136">in</w> <w id="w10137">medium</w> <w id="w10138">containing</w> <w id="w10139">dimethylsulfoxide</w> <w id="w10140">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2382" gid="g2282" t="Protein_family_or_group" fr="w10099" to="w10100" nam="yes">
+     <textspan type="extent">actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.671.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2383" gid="g2283" t="Individual_protein" fr="w10112" to="w10112" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.671.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2384" gid="g2284" t="Individual_protein" fr="w10110" to="w10110" nam="yes">
+     <textspan type="extent">ADF</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.671.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2385" gid="g2285" t="RELATIONSHIP_TEXTBINDING" fr="w10123" to="w10128">
+     <textspan type="extent">form [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.671.3"/>
+      <exattr n="nst" v="st.671.29.0"/>
+      <exattr n="nst" v="st.671.34.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2386" gid="g2286" t="Individual_protein" fr="w10129" to="w10129" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.671.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r919" t="MEMBER" e1="e2382" e2="e2384" re="">
+     <textspan type="extent">actin-binding proteins of low molecular weight with different functional activity , ADF</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r920" t="MEMBER" e1="e2382" e2="e2383" re="">
+     <textspan type="extent">actin-binding proteins of low molecular weight with different functional activity , ADF and cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r921" t="ATTACH" e1="e2384" e2="e2386" re="e2385">
+     <textspan type="extent">ADF and cofilin , are transported into nuclei of cultured myogenic cells to form rod structures there together with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.671.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="ATTACH"/>
+     </exattrs>
+    </rel>
+    <rel id="r922" t="ATTACH" e1="e2383" e2="e2386" re="e2385">
+     <textspan type="extent">cofilin , are transported into nuclei of cultured myogenic cells to form rod structures there together with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.671.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="ATTACH"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

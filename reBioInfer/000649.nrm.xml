@@ -1,0 +1,57 @@
+<rexml>
+<doc id="649">
+  
+  <markup>
+   <nes>
+    <ne id="e2321" gid="g2223" t="Individual_protein" fr="w9837" to="w9837" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.649.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2323" gid="g2225" t="Physical_property" fr="w9843" to="w9844" sid="s1">
+     <textspan>actin polymerisability</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Physical_property"/>
+      <exattr n="bd" v="e.649.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2324" gid="g2226" t="Individual_protein" fr="w9843" to="w9843" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.649.3"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r899" t="CONTROL" e1="e2321" e2="e2323" re="e2322">
+     <textspan>profilin , a potential regulator of actin polymerisability</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.649.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

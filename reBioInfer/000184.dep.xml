@@ -1,0 +1,59 @@
+<rexml>
+<doc id="184">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w2938" g="E3" t="subcat" cr="subcat:E3" w="As" l="~" p="A"/>
+     <dpg d="w2939" g="w2938" t="comp1" cr="comp1:w2938" w="shown" l="show" p="V"/>
+     <dpg d="E1" g="w2939" t="ECR" cr="ECR+obj:w2939" w="" l="~" p="EC"/>
+     <dpg d="E4" g="w2939" t="obj" cr="" w="" l="~" p="EC"/>
+     <dpg d="E4" g="E1" t="antecedent" cr="" w="" l="~" p="EC"/>
+     <dpg d="w2940" g="w2939" t="by-subj" cr="by-subj:w2939" w="by" l="~" p="A"/>
+     <dpg d="w2941" g="w2940" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w2942" g="w2943" t="nn" cr="nn:w2943" w="situ" l="~" p="N"/>
+     <dpg d="w2943" g="w2941" t="pcomp-n" cr="mod*in*n:w2940" w="hybridization" l="~" p="N"/>
+     <dpg d="w2944" g="w2943" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w2945" g="w2946" t="mod" cr="mod:w2946" w="cloned" l="~" p="A"/>
+     <dpg d="w2946" g="w2944" t="pcomp-n" cr="mod*with*n:w2943" w="probes" l="probe" p="N"/>
+     <dpg d="w2947" g="w2946" t="punc" cr="punc:w2946" w="and" l="~" p="U"/>
+     <dpg d="w2948" g="w2946" t="conj" cr="conj:w2946" w="analysis" l="~" p="N"/>
+     <dpg d="w2949" g="w2948" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2950" g="w2951" t="lex-mod" cr="lex-mod:w2951" w="in" l="~" p="U"/>
+     <dpg d="w2951" g="w2953" t="mod" cr="mod:w2953" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w2952" g="w2953" t="nn" cr="nn:w2953" w="translation" l="~" p="N"/>
+     <dpg d="w2953" g="w2949" t="pcomp-n" cr="mod*of*n:w2948" w="products" l="product" p="N"/>
+     <dpg d="w2954" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2955" g="w2957" t="nn" cr="nn:w2957" w="M." l="~" p="N"/>
+     <dpg d="w2956" g="w2957" t="nn" cr="nn:w2957" w="occulta" l="~" p="N"/>
+     <dpg d="w2957" g="w2960" t="s" cr="s+subj:w2960" w="embryos" l="embryo" p="N"/>
+     <dpg d="w2958" g="w2960" t="aux" cr="aux:w2960" w="do" l="~" p="Aux"/>
+     <dpg d="w2959" g="w2958" t="neg" cr="neg:w2958" w="not" l="~" p="A"/>
+     <dpg d="w2960" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="accumulate" l="~" p="V"/>
+     <dpg d="E5" g="w2960" t="subj" cr="" w="" l="embryo" p="N"/>
+     <dpg d="E5" g="w2957" t="antecedent" cr="" w="" l="embryo" p="N"/>
+     <dpg d="w2961" g="w2962" t="mod" cr="mod:w2962" w="high" l="~" p="A"/>
+     <dpg d="w2962" g="w2960" t="obj" cr="obj:w2960" w="levels" l="level" p="N"/>
+     <dpg d="w2963" g="w2962" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w2964" g="w2965" t="mod" cr="mod:w2965" w="alpha" l="~" p="A"/>
+     <dpg d="w2965" g="w2963" t="pcomp-n" cr="mod*of*n:w2962" w="actin" l="~" p="N"/>
+     <dpg d="w2966" g="w2965" t="punc" cr="punc:w2965" w="or" l="~" p="U"/>
+     <dpg d="w2967" g="w2970" t="nn" cr="nn:w2970" w="myosin" l="~" p="N"/>
+     <dpg d="w2968" g="w2970" t="mod" cr="mod:w2970" w="heavy" l="~" p="A"/>
+     <dpg d="w2969" g="w2970" t="nn" cr="nn:w2970" w="chain" l="~" p="N"/>
+     <dpg d="w2970" g="w2965" t="conj" cr="conj:w2965" w="mRNA" l="~" p="N"/>
+     <dpg d="w2971" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

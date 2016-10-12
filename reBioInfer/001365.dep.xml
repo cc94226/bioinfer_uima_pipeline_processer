@@ -1,0 +1,51 @@
+<rexml>
+<doc id="1365">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21211" g="w21214" t="det" cr="det:w21214" w="The" l="~" p="Det"/>
+     <dpg d="w21212" g="w21213" t="lex-mod" cr="lex-mod:w21213" w="amino" l="~" p="U"/>
+     <dpg d="w21213" g="w21214" t="nn" cr="nn:w21214" w="acid" l="amino acid" p="N"/>
+     <dpg d="w21214" g="w21219" t="s" cr="s:w21219||subj:w21220" w="composition" l="~" p="N"/>
+     <dpg d="w21215" g="w21214" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21216" g="w21218" t="det" cr="det:w21218" w="the" l="~" p="Det"/>
+     <dpg d="w21217" g="w21218" t="mod" cr="mod:w21218" w="15-kDa" l="15-kDa" p="A"/>
+     <dpg d="w21218" g="w21215" t="pcomp-n" cr="mod*of*n:w21214" w="protein" l="~" p="N"/>
+     <dpg d="w21219" g="E1" t="i" cr="" w="was" l="be" p="VBE"/>
+     <dpg d="w21220" g="w21219" t="pred" cr="pred:w21219" w="similar" l="~" p="A"/>
+     <dpg d="E3" g="w21220" t="subj" cr="" w="" l="composition" p="N"/>
+     <dpg d="E3" g="w21214" t="antecedent" cr="" w="" l="composition" p="N"/>
+     <dpg d="w21221" g="w21220" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w21222" g="w21221" t="pcomp-n" cr="mod*to*n:w21220" w="that" l="~" p="N"/>
+     <dpg d="w21223" g="w21219" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21224" g="w21225" t="mod" cr="mod:w21225" w="mammalian" l="~" p="A"/>
+     <dpg d="w21225" g="w21223" t="pcomp-n" cr="mod*of*n:w21219" w="profilin" l="~" p="N"/>
+     <dpg d="w21226" g="E1" t="punc" cr="punc:w21219" w="and" l="~" p="U"/>
+     <dpg d="E0" g="E1" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21227" g="w21228" t="s" cr="s+subj:w21228" w="it" l="~" p="N"/>
+     <dpg d="w21228" g="E0" t="i" cr="conj:w21219" w="inhibited" l="inhibit" p="V"/>
+     <dpg d="E4" g="w21228" t="subj" cr="" w="" l="it" p="N"/>
+     <dpg d="E4" g="w21227" t="antecedent" cr="" w="" l="it" p="N"/>
+     <dpg d="w21229" g="w21231" t="det" cr="det:w21231" w="the" l="~" p="Det"/>
+     <dpg d="w21230" g="w21231" t="mod" cr="mod:w21231" w="salt-induced" l="salt-induced" p="A"/>
+     <dpg d="w21231" g="w21228" t="obj" cr="obj:w21228" w="polymerization" l="~" p="N"/>
+     <dpg d="w21232" g="w21231" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21233" g="w21236" t="nn" cr="nn:w21236" w="rabbit" l="~" p="N"/>
+     <dpg d="w21234" g="w21235" t="lex-mod" cr="lex-mod:w21235" w="skeletal" l="~" p="U"/>
+     <dpg d="w21235" g="w21236" t="nn" cr="nn:w21236" w="muscle" l="skeletal muscle" p="N"/>
+     <dpg d="w21236" g="w21232" t="pcomp-n" cr="mod*of*n:w21231" w="actin" l="~" p="N"/>
+     <dpg d="w21237" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

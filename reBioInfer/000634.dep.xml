@@ -1,0 +1,78 @@
+<rexml>
+<doc id="634">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w9500" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="However" l="~" p="A"/>
+     <dpg d="w9501" g="E4" t="punc" cr="punc:E4" w="," l="~" p="U"/>
+     <dpg d="w9502" g="w9503" t="lex-mod" cr="lex-mod:w9503" w="smooth" l="~" p="U"/>
+     <dpg d="w9503" g="w9504" t="nn" cr="nn:w9504" w="muscle" l="smooth muscle" p="N"/>
+     <dpg d="w9504" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="contents" l="content" p="N"/>
+     <dpg d="w9505" g="w9504" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9506" g="w9505" t="pcomp-n" cr="mod*of*n:w9504" w="actin" l="~" p="N"/>
+     <dpg d="w9507" g="w9506" t="punc" cr="punc:w9506" w="(" l="~" p="U"/>
+     <dpg d="w9508" g="w9506" t="num" cr="num:w9506" w="26.0" l="~" p="N"/>
+     <dpg d="w9509" g="E4" t="punc" cr="punc:E4" w="+/-" l="~" p="U"/>
+     <dpg d="E2" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9510" g="w9512" t="lex-mod" cr="lex-mod:w9512" w="1.8" l="~" p="U"/>
+     <dpg d="w9511" g="w9512" t="lex-mod" cr="lex-mod:w9512" w="vs." l="~" p="U"/>
+     <dpg d="w9512" g="w9515" t="nn" cr="nn:w9515" w="19.1" l="1.8 vs 19.1" p="N"/>
+     <dpg d="w9513" g="w9514" t="lex-mod" cr="lex-mod:w9514" w="+/-" l="~" p="U"/>
+     <dpg d="w9514" g="w9515" t="nn" cr="nn:w9515" w="2.2" l="+/- 2.2" p="N"/>
+     <dpg d="w9515" g="w9516" t="s" cr="s+subj:w9516" w="micrograms/mg" l="~" p="N"/>
+     <dpg d="w9516" g="E2" t="i" cr="UNSPECRELTYPE:E4" w="wet" l="~" p="V"/>
+     <dpg d="E5" g="w9516" t="subj" cr="" w="" l="micrograms/mg" p="N"/>
+     <dpg d="E5" g="w9515" t="antecedent" cr="" w="" l="micrograms/mg" p="N"/>
+     <dpg d="w9517" g="w9516" t="obj" cr="obj:w9516" w="wt" l="~" p="N"/>
+     <dpg d="w9518" g="E2" t="punc" cr="punc:w9516" w=")" l="~" p="U"/>
+     <dpg d="w9519" g="E2" t="punc" cr="punc:w9516" w="and" l="~" p="U"/>
+     <dpg d="E1" g="E2" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9520" g="w9521" t="nn" cr="nn:w9521" w="myosin" l="~" p="N"/>
+     <dpg d="w9521" g="w9522" t="s" cr="s+subj:w9522" w="heavy" l="~" p="N"/>
+     <dpg d="w9522" g="E1" t="i" cr="conj:w9516" w="chain" l="~" p="V"/>
+     <dpg d="E6" g="w9522" t="subj" cr="" w="" l="heavy" p="N"/>
+     <dpg d="E6" g="w9521" t="antecedent" cr="" w="" l="heavy" p="N"/>
+     <dpg d="w9523" g="w9522" t="punc" cr="punc:w9522" w="(" l="~" p="U"/>
+     <dpg d="w9524" g="w9525" t="num" cr="num:w9525" w="5.5" l="~" p="N"/>
+     <dpg d="w9525" g="E4" t="punc" cr="punc:E4" w="+/-" l="~" p="U"/>
+     <dpg d="w9526" g="w9528" t="lex-mod" cr="lex-mod:w9528" w="0.4" l="~" p="U"/>
+     <dpg d="w9527" g="w9528" t="lex-mod" cr="lex-mod:w9528" w="vs." l="~" p="U"/>
+     <dpg d="w9528" g="w9531" t="nn" cr="nn:w9531" w="2.0" l="0.4 vs 2.0" p="N"/>
+     <dpg d="w9529" g="w9530" t="lex-mod" cr="lex-mod:w9530" w="+/-" l="~" p="U"/>
+     <dpg d="w9530" g="w9531" t="nn" cr="nn:w9531" w="0.3" l="+/- 0.3" p="N"/>
+     <dpg d="w9531" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="microgram/mg" l="~" p="N"/>
+     <dpg d="E0" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9532" g="w9533" t="mod" cr="mod:w9533" w="wet" l="~" p="A"/>
+     <dpg d="w9533" g="w9535" t="s" cr="s:w9535||subj:w9538" w="wt" l="~" p="N"/>
+     <dpg d="w9534" g="w9535" t="punc" cr="punc:w9535" w=")" l="~" p="U"/>
+     <dpg d="w9535" g="E0" t="i" cr="UNSPECRELTYPE:E4" w="were" l="be" p="VBE"/>
+     <dpg d="E7" g="w9538" t="subj" cr="" w="" l="wt" p="N"/>
+     <dpg d="E7" g="w9533" t="antecedent" cr="" w="" l="wt" p="N"/>
+     <dpg d="w9536" g="w9538" t="mod" cr="mod:w9538" w="greater" l="great" p="A"/>
+     <dpg d="w9537" g="w9538" t="punc" cr="punc:w9538" w="(" l="~" p="U"/>
+     <dpg d="w9538" g="w9535" t="pred" cr="pred:w9535" w="P" l="~" p="N"/>
+     <dpg d="w9539" g="E4" t="punc" cr="punc:E4" w="&lt;" l="~" p="U"/>
+     <dpg d="w9540" g="E4" t="subcat" cr="subcat:E4" w="0.04" l="~" p="N"/>
+     <dpg d="w9541" g="w9540" t="punc" cr="punc:w9540" w=")" l="~" p="U"/>
+     <dpg d="w9542" g="w9540" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w9543" g="w9542" t="pcomp-n" cr="mod*in*n:w9540" w="myometrium" l="~" p="N"/>
+     <dpg d="w9544" g="w9543" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w9545" g="w9548" t="mod" cr="mod:w9548" w="late-pregnant" l="late-pregnant" p="A"/>
+     <dpg d="w9546" g="w9548" t="nn" cr="nn:w9548" w="vs." l="v" p="N"/>
+     <dpg d="w9547" g="w9548" t="mod" cr="mod:w9548" w="nonpregnant" l="~" p="A"/>
+     <dpg d="w9548" g="w9544" t="pcomp-n" cr="mod*from*n:w9543" w="ewes" l="ewe" p="N"/>
+     <dpg d="w9549" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

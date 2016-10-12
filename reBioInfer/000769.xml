@@ -1,0 +1,196 @@
+<rexml>
+<doc id="769">
+  <text>
+<p><s id="s1"><w id="w11997">Inhibition</w> <w id="w11998">of</w> <w id="w11999">actomyosin</w> <w id="w12000">subfragment</w> <w id="w12001">1</w> <w id="w12002">ATPase</w> <w id="w12003">activity</w> <w id="w12004">by</w> <w id="w12005">analog</w> <w id="w12006">peptides</w> <w id="w12007">of</w> <w id="w12008">the</w> <w id="w12009">actin</w><w id="w12010">-</w><w id="w12011">binding</w> <w id="w12012">site</w> <w id="w12013">around</w> <w id="w12014">the</w> <w id="w12015">Cys(SH1)</w> <w id="w12016">of</w> <w id="w12017">myosin</w> <w id="w12018">heavy</w> <w id="w12019">chain</w> <w id="w12020">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2785" gid="g2668" t="Mutant" fr="w11999" to="w12000" nam="yes">
+     <textspan type="extent">actomyosin subfragment</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.769.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2786" gid="g2669" t="RELATIONSHIP_TEXTBINDING" fr="w12011" to="w12011">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.769.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2787" gid="g2670" t="RELATIONSHIP_TEXTBINDING" fr="w11997" to="w11998">
+     <textspan type="extent">Inhibition of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.769.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2788" gid="g2671" t="RELATIONSHIP_TEXTBINDING" fr="w12003" to="w12003">
+     <textspan type="extent">activity</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.769.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2789" gid="g2672" t="Analog" fr="w12005" to="w12019" nam="yes">
+     <textspan type="extent">analog peptides of [..] site around the Cys(SH1) of myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Analog"/>
+      <exattr n="bd" v="e.769.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2790" gid="g2673" t="Protein_family_or_group" fr="w12002" to="w12002" nam="yes">
+     <textspan type="extent">ATPase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.769.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2791" gid="g2674" t="Substructure_of_protein" fr="w12014" to="w12019" nam="yes">
+     <textspan type="extent">the Cys(SH1) of myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.769.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2792" gid="g2675" t="Dynamics_property" fr="w11999" to="w12003">
+     <textspan type="extent">actomyosin subfragment [..] activity</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.769.7"/>
+      <exattr n="nst" v="st.769.2.0"/>
+      <exattr n="nst" v="st.769.3.0"/>
+      <exattr n="nst" v="st.769.6.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2793" gid="g2676" t="Peptide" fr="w12006" to="w12019" nam="yes">
+     <textspan type="extent">peptides of [..] site around the Cys(SH1) of myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Peptide"/>
+      <exattr n="bd" v="e.769.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e2794" gid="g2677" t="Substructure_of_protein" fr="w12012" to="w12019" nam="yes">
+     <textspan type="extent">site around the Cys(SH1) of myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.769.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e2795" gid="g2678" t="Individual_protein" fr="w11999" to="w11999" nam="yes">
+     <textspan type="extent">actomyosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.769.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e2796" gid="g2679" t="Individual_protein" fr="w12009" to="w12009" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.769.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e2797" gid="g2680" t="Individual_protein" fr="w12017" to="w12019" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.769.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e2798" gid="g2681" t="Individual_protein" fr="w11999" to="w11999" nam="yes">
+     <textspan type="extent">actomyosin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.769.13"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1061" t="BIND" e1="e2794" e2="e2796" re="e2786">
+     <textspan type="extent">actin - binding site around the Cys(SH1) of myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.769.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1062" t="FNSIMILAR" e1="e2785" e2="e2790" re="e2788">
+     <textspan type="extent">actomyosin subfragment 1 ATPase activity</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.769.3"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="Functional-Similarity"/>
+      <exattr n="t4" v="FNSIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r1063" t="INHIBIT" e1="e2789" e2="e2792" re="e2787">
+     <textspan type="extent">Inhibition of actomyosin subfragment 1 ATPase activity by analog peptides of the actin - binding site around the Cys(SH1) of myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.769.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="INHIBIT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

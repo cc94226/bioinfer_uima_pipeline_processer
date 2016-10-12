@@ -1,0 +1,62 @@
+<rexml>
+<doc id="1892">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E4" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E4" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="E0" g="E1" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="s+subj:w30294" w="" l="~" p="N"/>
+     <dpg d="w30293" g="w30294" t="aux" cr="aux:w30294" w="To" l="~" p="Aux"/>
+     <dpg d="w30294" g="E0" t="i" cr="mod:w30306" w="characterize" l="~" p="V"/>
+     <dpg d="E5" g="w30294" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w30295" g="w30297" t="det" cr="det:w30297" w="the" l="~" p="Det"/>
+     <dpg d="w30296" g="w30297" t="mod" cr="mod:w30297" w="phenotypic" l="~" p="A"/>
+     <dpg d="w30297" g="w30294" t="obj" cr="obj:w30294" w="alteration" l="~" p="N"/>
+     <dpg d="w30298" g="w30297" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w30299" g="w30300" t="mod" cr="mod:w30300" w="mesangial" l="~" p="A"/>
+     <dpg d="w30300" g="w30298" t="pcomp-n" cr="mod*in*n:w30297" w="cells" l="cell" p="N"/>
+     <dpg d="w30301" g="w30300" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w30302" g="w30303" t="mod" cr="mod:w30303" w="human" l="~" p="A"/>
+     <dpg d="w30303" g="w30301" t="pcomp-n" cr="mod*in*n:w30300" w="glomerulonephritis" l="~" p="N"/>
+     <dpg d="w30304" g="E1" t="punc" cr="punc:w30306" w="," l="~" p="U"/>
+     <dpg d="w30305" g="w30306" t="s" cr="s+subj:w30306" w="we" l="~" p="N"/>
+     <dpg d="w30306" g="E1" t="i" cr="UNSPECRELTYPE:E4" w="investigated" l="investigate" p="V"/>
+     <dpg d="E6" g="w30306" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E6" g="w30305" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w30307" g="w30308" t="det" cr="det:w30308" w="the" l="~" p="Det"/>
+     <dpg d="w30308" g="w30306" t="obj" cr="obj:w30306" w="expression" l="~" p="N"/>
+     <dpg d="w30309" g="w30308" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w30310" g="w30313" t="mod" cr="mod:w30313" w="nonmuscle-type" l="nonmuscle-type" p="A"/>
+     <dpg d="w30311" g="w30313" t="nn" cr="nn:w30313" w="myosin" l="~" p="N"/>
+     <dpg d="w30312" g="w30313" t="mod" cr="mod:w30313" w="heavy" l="~" p="A"/>
+     <dpg d="w30313" g="w30309" t="pcomp-n" cr="mod*of*n:w30308" w="chain" l="~" p="N"/>
+     <dpg d="w30314" g="w30313" t="punc" cr="punc:w30313" w="," l="~" p="U"/>
+     <dpg d="w30315" g="w30313" t="conj" cr="conj:w30313" w="SMemb" l="~" p="N"/>
+     <dpg d="w30316" g="w30315" t="punc" cr="punc:w30315" w="," l="~" p="U"/>
+     <dpg d="w30317" g="w30315" t="punc" cr="punc:w30315" w="and" l="~" p="U"/>
+     <dpg d="w30318" g="w30319" t="mod" cr="mod:w30319" w="alpha-smooth" l="alpha-smooth" p="A"/>
+     <dpg d="w30319" g="w30315" t="conj" cr="conj:w30315" w="muscle" l="~" p="N"/>
+     <dpg d="w30320" g="w30323" t="nn" cr="nn:w30323" w="actin" l="~" p="N"/>
+     <dpg d="w30321" g="w30323" t="punc" cr="punc:w30323" w="(" l="~" p="U"/>
+     <dpg d="w30322" g="w30323" t="nn" cr="nn:w30323" w="alpha-SM" l="alpha-SM" p="N"/>
+     <dpg d="w30323" g="E4" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E4" w="actin" l="~" p="N"/>
+     <dpg d="w30324" g="w30323" t="punc" cr="punc:w30323" w=")" l="~" p="U"/>
+     <dpg d="w30325" g="w30323" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w30326" g="w30327" t="nn" cr="nn:w30327" w="IgA" l="~" p="N"/>
+     <dpg d="w30327" g="w30325" t="pcomp-n" cr="mod*in*n:w30323" w="nephropathy" l="~" p="N"/>
+     <dpg d="w30328" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

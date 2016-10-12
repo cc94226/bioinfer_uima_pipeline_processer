@@ -1,0 +1,84 @@
+<rexml>
+<doc id="1290">
+  <text>
+<p><s id="s1"><w id="w20329">Specific</w> <w id="w20330">interactions</w> <w id="w20331">between</w> <w id="w20332">the</w> <w id="w20333">human</w> <w id="w20334">RAD51</w> <w id="w20335">and</w> <w id="w20336">RAD52</w> <w id="w20337">proteins</w> <w id="w20338">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4674" gid="g4467" t="RELATIONSHIP_TEXTBINDING" fr="w20330" to="w20331">
+     <textspan type="extent">interactions between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1290.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4675" gid="g4468" t="Individual_protein" fr="w20333" to="w20337" nam="yes">
+     <textspan type="extent">human RAD51 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1290.1"/>
+      <exattr n="nst" v="st.1290.4.0"/>
+      <exattr n="nst" v="st.1290.5.0"/>
+      <exattr n="nst" v="st.1290.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4676" gid="g4469" t="Individual_protein" fr="w20333" to="w20337" nam="yes">
+     <textspan type="extent">human [..] RAD52 proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1290.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4677" gid="g4470" t="Individual_protein" fr="w20334" to="w20334" nam="yes">
+     <textspan type="extent">RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1290.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4678" gid="g4471" t="Individual_protein" fr="w20336" to="w20336" nam="yes">
+     <textspan type="extent">RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1290.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1778" t="INTERACT" e1="e4675" e2="e4676" re="e4674">
+     <textspan type="extent">interactions between the human RAD51 and RAD52 proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1290.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

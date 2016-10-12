@@ -1,0 +1,107 @@
+<rexml>
+<doc id="1425">
+  <text>
+<p><s id="s1"><w id="w22330">The</w> <w id="w22331">colocalization</w> <w id="w22332">of</w> <w id="w22333">gelsolin</w> <w id="w22334">and</w> <w id="w22335">profilin</w> <w id="w22336">in</w> <w id="w22337">motile</w> <w id="w22338">,</w> <w id="w22339">microfilament-rich</w> <w id="w22340">areas</w> <w id="w22341">supports</w> <w id="w22342">the</w> <w id="w22343">hypothesis</w> <w id="w22344">that</w> <w id="w22345">they</w> <w id="w22346">synergistically</w> <w id="w22347">regulate</w> <w id="w22348">the</w> <w id="w22349">actin</w> <w id="w22350">dynamics</w> <w id="w22351">that</w> <w id="w22352">underlie</w> <w id="w22353">neurite</w> <w id="w22354">growth</w> <w id="w22355">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5180" gid="g4944" t="RELATIONSHIP_TEXTBINDING" fr="w22331" to="w22332">
+     <textspan type="extent">colocalization of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1425.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5181" gid="g4945" t="Individual_protein" fr="w22333" to="w22333" nam="yes">
+     <textspan type="extent">gelsolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1425.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5182" gid="g4946" t="Dynamics_property" fr="w22349" to="w22350">
+     <textspan type="extent">actin dynamics</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.1425.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5183" gid="g4947" t="RELATIONSHIP_TEXTBINDING" fr="w22347" to="w22347">
+     <textspan type="extent">regulate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1425.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5184" gid="g4945" t="Individual_protein" fr="w22345" to="w22345" nam="yes">
+     <textspan type="extent">they</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1425.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5185" gid="g4945" t="Individual_protein" fr="w22335" to="w22335" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1425.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5186" gid="g4948" t="Individual_protein" fr="w22349" to="w22349" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1425.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1982" t="COLOCALIZE" e1="e5181" e2="e5185" re="e5180">
+     <textspan type="extent">colocalization of gelsolin and profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1425.0"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1985" t="CONTROL" e1="e5184" e2="e5182" re="e5183">
+     <textspan type="extent">they synergistically regulate the actin dynamics</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1425.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

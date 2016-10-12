@@ -1,0 +1,51 @@
+<rexml>
+<doc id="1430">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22411" g="w22412" t="det" cr="det:w22412" w="The" l="~" p="Det"/>
+     <dpg d="w22412" g="w22415" t="s" cr="s:w22415||subj:w22416" w="concentration" l="~" p="N"/>
+     <dpg d="w22413" g="w22412" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w22414" g="w22413" t="pcomp-n" cr="mod*of*n:w22412" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w22415" g="E1" t="i" cr="" w="was" l="be" p="VBE"/>
+     <dpg d="w22416" g="w22415" t="pred" cr="pred:w22415" w="constant" l="~" p="A"/>
+     <dpg d="E3" g="w22416" t="subj" cr="" w="" l="concentration" p="N"/>
+     <dpg d="E3" g="w22412" t="antecedent" cr="" w="" l="concentration" p="N"/>
+     <dpg d="w22417" g="w22416" t="mod" cr="" w="during" l="~" p="Prep"/>
+     <dpg d="w22418" g="w22420" t="det" cr="det:w22420" w="the" l="~" p="Det"/>
+     <dpg d="w22419" g="w22420" t="mod" cr="mod:w22420" w="follicular" l="~" p="A"/>
+     <dpg d="w22420" g="w22417" t="pcomp-n" cr="mod*during*n:w22416" w="phase" l="~" p="N"/>
+     <dpg d="w22421" g="w22415" t="punc" cr="punc:w22415" w="," l="~" p="U"/>
+     <dpg d="w22422" g="w22415" t="mod" cr="mod:w22415" w="whereas" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w22422" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w22423" g="w22424" t="det" cr="det:w22424" w="the" l="~" p="Det"/>
+     <dpg d="w22424" g="w22427" t="s" cr="s+subj:w22427" w="content" l="~" p="N"/>
+     <dpg d="w22425" g="w22424" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w22426" g="w22425" t="pcomp-n" cr="mod*of*n:w22424" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w22427" g="E0" t="i" cr="comp1:w22422" w="decreased" l="decrease" p="V"/>
+     <dpg d="E4" g="w22427" t="subj" cr="" w="" l="content" p="N"/>
+     <dpg d="E4" g="w22424" t="antecedent" cr="" w="" l="content" p="N"/>
+     <dpg d="w22428" g="w22427" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w22429" g="w22430" t="nn" cr="nn:w22430" w="granulosa" l="~" p="N"/>
+     <dpg d="w22430" g="w22428" t="pcomp-n" cr="mod*in*n:w22427" w="cells" l="cell" p="N"/>
+     <dpg d="w22431" g="w22430" t="mod" cr="" w="after" l="~" p="Prep"/>
+     <dpg d="w22432" g="w22431" t="pcomp-n" cr="mod*after*n:w22430" w="treatment" l="~" p="N"/>
+     <dpg d="w22433" g="w22432" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w22434" g="w22433" t="pcomp-n" cr="mod*with*n:w22432" w="diethylstilboestrol" l="~" p="N"/>
+     <dpg d="w22435" g="w22434" t="punc" cr="punc:w22434" w="or" l="~" p="U"/>
+     <dpg d="w22436" g="w22434" t="conj" cr="conj:w22434" w="hCG" l="~" p="N"/>
+     <dpg d="w22437" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

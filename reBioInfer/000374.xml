@@ -1,0 +1,211 @@
+<rexml>
+<doc id="374">
+  <text>
+<p><s id="s1"><w id="w5640">Deletion</w> <w id="w5641">of</w> <w id="w5642">SIR4</w> <w id="w5643">enhanced</w> <w id="w5644">mURA3</w> <w id="w5645">and</w> <w id="w5646">MET15</w> <w id="w5647">silencing</w> <w id="w5648">,</w> <w id="w5649">but</w> <w id="w5650">deletion</w> <w id="w5651">of</w> <w id="w5652">SIR1</w> <w id="w5653">or</w> <w id="w5654">SIR3</w> <w id="w5655">did</w> <w id="w5656">not</w> <w id="w5657">affect</w> <w id="w5658">silencing</w> <w id="w5659">,</w> <w id="w5660">indicating</w> <w id="w5661">that</w> <w id="w5662">the</w> <w id="w5663">mechanism</w> <w id="w5664">of</w> <w id="w5665">silencing</w> <w id="w5666">differs</w> <w id="w5667">from</w> <w id="w5668">that</w> <w id="w5669">at</w> <w id="w5670">telomeres</w> <w id="w5671">and</w> <w id="w5672">silent</w> <w id="w5673">mating</w> <w id="w5674">loci</w> <w id="w5675">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1357" gid="g1295" t="INACTIVATION" fr="w5640" to="w5642">
+     <textspan type="extent">Deletion of SIR4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Full-stop"/>
+      <exattr n="t4" v="INACTIVATION"/>
+      <exattr n="bd" v="e.374.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1358" gid="g1296" t="RELATIONSHIP_TEXTBINDING" fr="w5643" to="w5643">
+     <textspan type="extent">enhanced</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.374.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1359" gid="g1297" t="INACTIVATION" fr="w5646" to="w5647">
+     <textspan type="extent">MET15 silencing</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Full-stop"/>
+      <exattr n="t4" v="INACTIVATION"/>
+      <exattr n="bd" v="e.374.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1360" gid="g1298" t="INACTIVATION" fr="w5644" to="w5647">
+     <textspan type="extent">mURA3 [..] silencing</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Full-stop"/>
+      <exattr n="t4" v="INACTIVATION"/>
+      <exattr n="bd" v="e.374.3"/>
+      <exattr n="nst" v="st.374.4.0"/>
+      <exattr n="nst" v="st.374.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1361" gid="g1299" t="INACTIVATION" fr="w5650" to="w5654">
+     <textspan type="extent">deletion of [..] SIR3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Full-stop"/>
+      <exattr n="t4" v="INACTIVATION"/>
+      <exattr n="bd" v="e.374.4"/>
+      <exattr n="nst" v="st.374.10.0"/>
+      <exattr n="nst" v="st.374.11.0"/>
+      <exattr n="nst" v="st.374.14.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1362" gid="g1300" t="INACTIVATION" fr="w5650" to="w5652">
+     <textspan type="extent">deletion of SIR1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Full-stop"/>
+      <exattr n="t4" v="INACTIVATION"/>
+      <exattr n="bd" v="e.374.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1363" gid="g1297" t="INACTIVATION" fr="w5658" to="w5658">
+     <textspan type="extent">silencing</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Full-stop"/>
+      <exattr n="t4" v="INACTIVATION"/>
+      <exattr n="bd" v="e.374.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1364" gid="g1301" t="Gene" fr="w5642" to="w5642" nam="yes">
+     <textspan type="extent">SIR4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.374.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1365" gid="g1302" t="RELATIONSHIP_TEXTBINDING" fr="w5657" to="w5657">
+     <textspan type="extent">affect</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.374.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e1366" gid="g1303" t="Gene" fr="w5644" to="w5644" nam="yes">
+     <textspan type="extent">mURA3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.374.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e1367" gid="g1304" t="RELATIONSHIP_TEXTBINDING" fr="w5656" to="w5656">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.374.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e1368" gid="g1305" t="Gene" fr="w5646" to="w5646" nam="yes">
+     <textspan type="extent">MET15</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.374.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e1369" gid="g1306" t="Gene" fr="w5654" to="w5654" nam="yes">
+     <textspan type="extent">SIR3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.374.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e1370" gid="g1307" t="Gene" fr="w5652" to="w5652" nam="yes">
+     <textspan type="extent">SIR1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.374.13"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r533" t="STIMULATE" e1="e1357" e2="e1360" re="e1358">
+     <textspan type="extent">Deletion of SIR4 enhanced mURA3 and MET15 silencing</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.374.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r534" t="STIMULATE" e1="e1357" e2="e1359" re="e1358">
+     <textspan type="extent">Deletion of SIR4 enhanced mURA3 and MET15 silencing</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.374.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r538" t="AFFECT" e1="e1362" e2="e1363" re="e1365">
+     <textspan type="extent">deletion of SIR1 or SIR3 did not affect silencing</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.374.8"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r540" t="AFFECT" e1="e1361" e2="e1363" re="e1365">
+     <textspan type="extent">deletion of SIR1 or SIR3 did not affect silencing</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.374.8"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

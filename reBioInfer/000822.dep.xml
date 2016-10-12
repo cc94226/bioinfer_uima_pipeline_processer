@@ -1,0 +1,44 @@
+<rexml>
+<doc id="822">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w12782" g="w12790" t="s" cr="s+subj:w12790" w="Interaction" l="~" p="N"/>
+     <dpg d="w12783" g="w12782" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w12784" g="w12786" t="det" cr="det:w12786" w="the" l="~" p="Det"/>
+     <dpg d="w12785" g="w12786" t="nn" cr="nn:w12786" w="yeast" l="~" p="N"/>
+     <dpg d="w12786" g="w12783" t="pcomp-n" cr="mod*of*n:w12782" w="RAD51" l="~" p="N"/>
+     <dpg d="w12787" g="w12786" t="punc" cr="punc:w12786" w="and" l="~" p="U"/>
+     <dpg d="w12788" g="w12789" t="nn" cr="nn:w12789" w="RAD52" l="~" p="N"/>
+     <dpg d="w12789" g="w12786" t="conj" cr="conj:w12786" w="proteins" l="protein" p="N"/>
+     <dpg d="w12790" g="E0" t="i" cr="" w="plays" l="play" p="V"/>
+     <dpg d="E2" g="w12790" t="subj" cr="" w="" l="interaction" p="N"/>
+     <dpg d="E2" g="w12782" t="antecedent" cr="" w="" l="interaction" p="N"/>
+     <dpg d="w12791" g="w12793" t="det" cr="det:w12793" w="a" l="~" p="Det"/>
+     <dpg d="w12792" g="w12793" t="mod" cr="mod:w12793" w="crucial" l="~" p="A"/>
+     <dpg d="w12793" g="w12790" t="obj" cr="obj:w12790" w="role" l="~" p="N"/>
+     <dpg d="w12794" g="w12793" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w12795" g="w12798" t="nn" cr="nn:w12798" w="yeast" l="~" p="N"/>
+     <dpg d="w12796" g="w12798" t="nn" cr="nn:w12798" w="DNA" l="~" p="N"/>
+     <dpg d="w12797" g="w12798" t="mod" cr="mod:w12798" w="homologous" l="~" p="A"/>
+     <dpg d="w12798" g="w12794" t="pcomp-n" cr="mod*in*n:w12793" w="recombination" l="~" p="N"/>
+     <dpg d="w12799" g="w12798" t="punc" cr="punc:w12798" w="and" l="~" p="U"/>
+     <dpg d="w12800" g="w12803" t="nn" cr="nn:w12803" w="DNA" l="~" p="N"/>
+     <dpg d="w12801" g="w12803" t="mod" cr="mod:w12803" w="double-strand" l="double-strand" p="A"/>
+     <dpg d="w12802" g="w12803" t="nn" cr="nn:w12803" w="break" l="~" p="N"/>
+     <dpg d="w12803" g="w12798" t="conj" cr="conj:w12798" w="repair" l="~" p="N"/>
+     <dpg d="w12804" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

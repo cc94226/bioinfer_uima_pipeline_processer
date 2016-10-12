@@ -1,0 +1,87 @@
+<rexml>
+<doc id="2198">
+  <text>
+<p><s id="s1"><w id="w33952">When</w> <w id="w33953">liver-</w> <w id="w33954">or</w> <w id="w33955">islet-</w><w id="w33956">type</w> <w id="w33957">glucokinase</w> <w id="w33958">was</w> <w id="w33959">transiently</w> <w id="w33960">expressed</w> <w id="w33961">in</w> <w id="w33962">COS-7</w> <w id="w33963">cells</w> <w id="w33964">,</w> <w id="w33965">the</w> <w id="w33966">expressed</w> <w id="w33967">glucokinase</w> <w id="w33968">was</w> <w id="w33969">also</w> <w id="w33970">co-localized</w> <w id="w33971">with</w> <w id="w33972">actin</w> <w id="w33973">filaments</w> <w id="w33974">in</w> <w id="w33975">the</w> <w id="w33976">cytoplasm</w> <w id="w33977">of</w> <w id="w33978">these</w> <w id="w33979">transfected</w> <w id="w33980">cells</w> <w id="w33981">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7721" gid="g7361" t="Gene/protein/RNA" fr="w33953" to="w33957" nam="yes">
+     <textspan type="extent">liver- [..] type glucokinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2198.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7722" gid="g7362" t="RELATIONSHIP_TEXTBINDING" fr="w33970" to="w33971">
+     <textspan type="extent">co-localized with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2198.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7723" gid="g7363" t="Cell_component" fr="w33972" to="w33973" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.2198.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7724" gid="g7364" t="Individual_protein" fr="w33967" to="w33967" nam="yes">
+     <textspan type="extent">glucokinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2198.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7725" gid="g7365" t="Gene/protein/RNA" fr="w33955" to="w33957" nam="yes">
+     <textspan type="extent">islet-type glucokinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2198.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7726" gid="g7366" t="Individual_protein" fr="w33972" to="w33972" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2198.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2968" t="COLOCALIZE" e1="e7724" e2="e7723" re="e7722">
+     <textspan type="extent">glucokinase was also co-localized with actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2198.1"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

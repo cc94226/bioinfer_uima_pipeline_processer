@@ -1,0 +1,35 @@
+<rexml>
+<doc id="308">
+  <text>
+<p><s id="s1"><w id="w4745">Characterization</w> <w id="w4746">of</w> <w id="w4747">MLH1</w> <w id="w4748">and</w> <w id="w4749">MSH2</w> <w id="w4750">DNA</w> <w id="w4751">mismatch</w> <w id="w4752">repair</w> <w id="w4753">proteins</w> <w id="w4754">in</w> <w id="w4755">cell</w> <w id="w4756">lines</w> <w id="w4757">of</w> <w id="w4758">the</w> <w id="w4759">NCI</w> <w id="w4760">anticancer</w> <w id="w4761">drug</w> <w id="w4762">screen</w> <w id="w4763">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1146" gid="g1092" t="Gene/protein/RNA" fr="w4747" to="w4747" nam="yes">
+     <textspan type="extent">MLH1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.308.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1147" gid="g1093" t="Gene/protein/RNA" fr="w4749" to="w4749" nam="yes">
+     <textspan type="extent">MSH2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.308.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

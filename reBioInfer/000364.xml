@@ -1,0 +1,102 @@
+<rexml>
+<doc id="364">
+  <text>
+<p><s id="s1"><w id="w5451">Data</w> <w id="w5452">from</w> <w id="w5453">affinity</w> <w id="w5454">chromatography</w> <w id="w5455">,</w> <w id="w5456">analytical</w> <w id="w5457">ultracentrifugation</w> <w id="w5458">,</w> <w id="w5459">covalent</w> <w id="w5460">cross-linking</w> <w id="w5461">,</w> <w id="w5462">and</w> <w id="w5463">fluorescence</w> <w id="w5464">anisotropy</w> <w id="w5465">show</w> <w id="w5466">that</w> <w id="w5467">profilin</w> <w id="w5468">,</w> <w id="w5469">thymosin</w> <w id="w5470">beta(4)</w> <w id="w5471">,</w> <w id="w5472">and</w> <w id="w5473">actin</w> <w id="w5474">form</w> <w id="w5475">a</w> <w id="w5476">ternary</w> <w id="w5477">complex</w> <w id="w5478">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1311" gid="g1249" t="Individual_protein" fr="w5467" to="w5467" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.364.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1312" gid="g1250" t="RELATIONSHIP_TEXTBINDING" fr="w5474" to="w5477">
+     <textspan type="extent">form [..] complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.364.1"/>
+      <exattr n="nst" v="st.364.23.0"/>
+      <exattr n="nst" v="st.364.26.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1313" gid="g1251" t="Individual_protein" fr="w5473" to="w5473" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.364.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1314" gid="g1252" t="Individual_protein" fr="w5469" to="w5470" nam="yes">
+     <textspan type="extent">thymosin beta(4)</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.364.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1315" gid="g1253" t="Protein_complex" fr="w5477" to="w5477" nam="yes">
+     <textspan type="extent">complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.364.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r518" t="CONTAIN" e1="e1315" e2="e1311" re="e1312">
+     <textspan type="extent">profilin , thymosin beta(4) , and actin form a ternary complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.364.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r519" t="CONTAIN" e1="e1315" e2="e1314" re="e1312">
+     <textspan type="extent">thymosin beta(4) , and actin form a ternary complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.364.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r520" t="CONTAIN" e1="e1315" e2="e1313" re="e1312">
+     <textspan type="extent">actin form a ternary complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.364.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

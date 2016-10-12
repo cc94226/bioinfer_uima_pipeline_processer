@@ -1,0 +1,53 @@
+<rexml>
+<doc id="1927">
+  <text>
+<p><s id="s1"><w id="w31146">Transcriptional</w> <w id="w31147">regulation</w> <w id="w31148">in</w> <w id="w31149">the</w> <w id="w31150">galactose</w> <w id="w31151">regulon</w> <w id="w31152">of</w> <w id="w31153">yeast</w> <w id="w31154">is</w> <w id="w31155">determined</w> <w id="w31156">by</w> <w id="w31157">an</w> <w id="w31158">interplay</w> <w id="w31159">between</w> <w id="w31160">a</w> <w id="w31161">positive</w> <w id="w31162">regulatory</w> <w id="w31163">protein</w> <w id="w31164">,</w> <w id="w31165">GAL4</w> <w id="w31166">,</w> <w id="w31167">and</w> <w id="w31168">a</w> <w id="w31169">negative</w> <w id="w31170">regulatory</w> <w id="w31171">protein</w> <w id="w31172">,</w> <w id="w31173">GAL80</w> <w id="w31174">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7154" gid="g6829" t="RELATIONSHIP_TEXTBINDING" fr="w31158" to="w31159">
+     <textspan type="extent">interplay between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1927.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7155" gid="g6830" t="Individual_protein" fr="w31165" to="w31165" nam="yes">
+     <textspan type="extent">GAL4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1927.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7156" gid="g6831" t="Individual_protein" fr="w31173" to="w31173" nam="yes">
+     <textspan type="extent">GAL80</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1927.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2738" t="RELATE" e1="e7155" e2="e7156" re="e7154">
+     <textspan type="extent">interplay between a positive regulatory protein , GAL4 , and a negative regulatory protein , GAL80</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1927.0"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

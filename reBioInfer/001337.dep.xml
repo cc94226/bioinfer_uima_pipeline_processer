@@ -1,0 +1,37 @@
+<rexml>
+<doc id="1337">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20821" g="w20827" t="det" cr="det:w20827" w="The" l="~" p="Det"/>
+     <dpg d="w20822" g="w20827" t="nn" cr="nn:w20827" w="actin" l="~" p="N"/>
+     <dpg d="w20823" g="w20825" t="lex-mod" cr="lex-mod:w20825" w="cytoskeleton" l="~" p="U"/>
+     <dpg d="w20824" g="w20825" t="lex-mod" cr="lex-mod:w20825" w="-" l="~" p="U"/>
+     <dpg d="w20825" g="w20827" t="mod" cr="mod:w20827" w="associated" l="cytoskeleton - associated" p="A"/>
+     <dpg d="w20826" g="w20827" t="nn" cr="nn:w20827" w="protein" l="~" p="N"/>
+     <dpg d="w20827" g="w20828" t="s" cr="s+subj:w20828" w="talin" l="~" p="N"/>
+     <dpg d="w20828" g="E0" t="i" cr="" w="binds" l="bind" p="V"/>
+     <dpg d="E2" g="w20828" t="subj" cr="" w="" l="talin" p="N"/>
+     <dpg d="E2" g="w20827" t="antecedent" cr="" w="" l="talin" p="N"/>
+     <dpg d="w20829" g="w20828" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w20830" g="w20829" t="pcomp-n" cr="mod*to*n:w20828" w="integrins" l="~" p="N"/>
+     <dpg d="w20831" g="w20830" t="punc" cr="punc:w20830" w="," l="~" p="U"/>
+     <dpg d="w20832" g="w20830" t="conj" cr="conj:w20830" w="vinculin" l="~" p="N"/>
+     <dpg d="w20833" g="w20832" t="punc" cr="punc:w20832" w="," l="~" p="U"/>
+     <dpg d="w20834" g="w20832" t="punc" cr="punc:w20832" w="and" l="~" p="U"/>
+     <dpg d="w20835" g="w20832" t="conj" cr="conj:w20832" w="actin" l="~" p="N"/>
+     <dpg d="w20836" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

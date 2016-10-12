@@ -1,0 +1,56 @@
+<rexml>
+<doc id="1171">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18523" g="E0" t="mod" cr="mod:w18526" w="Recently" l="~" p="A"/>
+     <dpg d="w18524" g="w18526" t="s" cr="s+subj:w18526||obj:w18536" w="we" l="~" p="N"/>
+     <dpg d="w18525" g="w18526" t="have" cr="have:w18526" w="have" l="~" p="have"/>
+     <dpg d="w18526" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="identified" l="identify" p="V"/>
+     <dpg d="E3" g="w18526" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E3" g="w18524" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w18527" g="w18530" t="det" cr="det:w18530" w="an" l="~" p="Det"/>
+     <dpg d="w18528" g="w18530" t="mod" cr="mod:w18530" w="alpha-catenin" l="alpha-catenin" p="A"/>
+     <dpg d="w18529" g="w18530" t="mod" cr="mod:w18530" w="binding" l="~" p="A"/>
+     <dpg d="w18530" g="w18526" t="obj" cr="obj:w18526" w="site" l="~" p="N"/>
+     <dpg d="w18531" g="w18530" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w18532" g="w18531" t="pcomp-n" cr="mod*in*n:w18530" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w18533" g="w18532" t="punc" cr="punc:w18532" w="and" l="~" p="U"/>
+     <dpg d="w18534" g="w18532" t="conj" cr="conj:w18532" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w18535" g="w18526" t="punc" cr="punc:w18526" w="and" l="~" p="U"/>
+     <dpg d="w18536" g="w18526" t="conj" cr="conj:w18526" w="postulated" l="postulate" p="V"/>
+     <dpg d="E4" g="w18536" t="obj" cr="" w="" l="we" p="N"/>
+     <dpg d="E4" g="w18524" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w18537" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w18538" g="E2" t="subcat" cr="subcat:E2" w="based" l="~" p="A"/>
+     <dpg d="w18539" g="w18538" t="comp1" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w18540" g="w18541" t="nn" cr="nn:w18541" w="sequence" l="~" p="N"/>
+     <dpg d="w18541" g="w18539" t="pcomp-n" cr="comp1*on*n:w18538" w="analysis" l="~" p="N"/>
+     <dpg d="w18542" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w18543" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="that" l="~" p="N"/>
+     <dpg d="w18544" g="w18546" t="det" cr="det:w18546" w="these" l="~" p="Det"/>
+     <dpg d="w18545" g="w18546" t="mod" cr="mod:w18546" w="protein-protein" l="protein-protein" p="A"/>
+     <dpg d="w18546" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="interactions" l="interaction" p="N"/>
+     <dpg d="w18547" g="E2" t="punc" cr="punc:E2" w="are" l="~" p="U"/>
+     <dpg d="w18548" g="E2" t="punc" cr="punc:E2" w="mediated" l="~" p="U"/>
+     <dpg d="w18549" g="E2" t="p" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w18550" g="w18553" t="det" cr="det:w18553" w="a" l="~" p="Det"/>
+     <dpg d="w18551" g="w18553" t="mod" cr="mod:w18553" w="hydrophobic" l="~" p="A"/>
+     <dpg d="w18552" g="w18553" t="nn" cr="nn:w18553" w="interaction" l="~" p="N"/>
+     <dpg d="w18553" g="w18549" t="pcomp-n" cr="p*by*n:E2" w="mechanism" l="~" p="N"/>
+     <dpg d="w18554" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,77 @@
+<rexml>
+<doc id="1174">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E6" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E3" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18581" g="E3" t="mod" cr="mod:w18583" w="Recently" l="~" p="A"/>
+     <dpg d="w18582" g="w18583" t="s" cr="s+subj:w18583" w="we" l="~" p="N"/>
+     <dpg d="w18583" g="E3" t="i" cr="UNSPECRELTYPE:E6" w="reported" l="report" p="V"/>
+     <dpg d="E7" g="w18583" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E7" g="w18582" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w18584" g="w18583" t="obj" cr="obj:w18583" w="that" l="~" p="N"/>
+     <dpg d="w18585" g="w18587" t="det" cr="det:w18587" w="the" l="~" p="Det"/>
+     <dpg d="w18586" g="w18587" t="mod" cr="mod:w18587" w="isolated" l="~" p="A"/>
+     <dpg d="w18587" g="E6" t="subcat" cr="subcat:E6" w="23" l="~" p="N"/>
+     <dpg d="E2" g="E6" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18588" g="w18590" t="nn" cr="nn:w18590" w="kDa" l="~" p="N"/>
+     <dpg d="w18589" g="w18590" t="mod" cr="mod:w18590" w="N-terminal" l="N-terminal" p="A"/>
+     <dpg d="w18590" g="w18604" t="s" cr="s+subj:w18604" w="fragment" l="~" p="N"/>
+     <dpg d="w18591" g="w18590" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w18592" g="w18594" t="nn" cr="nn:w18594" w="myosin" l="~" p="N"/>
+     <dpg d="w18593" g="w18594" t="mod" cr="mod:w18594" w="heavy" l="~" p="A"/>
+     <dpg d="w18594" g="w18591" t="pcomp-n" cr="mod*of*n:w18590||subj:w18597" w="chain" l="~" p="N"/>
+     <dpg d="w18595" g="w18594" t="punc" cr="punc:w18594" w="," l="~" p="U"/>
+     <dpg d="E1" g="w18594" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w18596" g="E1" t="whn" cr="whn:w18597" w="which" l="~" p="N"/>
+     <dpg d="w18596" g="w18594" t="antecedent" cr="antecedent:w18594" w="which" l="~" p="N"/>
+     <dpg d="w18597" g="E1" t="i" cr="rel:w18594" w="contains" l="contain" p="V"/>
+     <dpg d="E8" g="w18597" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E8" g="w18594" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w18598" g="w18600" t="det" cr="det:w18600" w="the" l="~" p="Det"/>
+     <dpg d="w18599" g="w18600" t="nn" cr="nn:w18600" w="consensus" l="~" p="N"/>
+     <dpg d="w18600" g="w18597" t="obj" cr="obj:w18597||s+subj:w18601" w="ATP" l="~" p="N"/>
+     <dpg d="E0" g="w18600" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w18600" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w18601" g="E0" t="i" cr="rel:w18600" w="binding" l="bind" p="V"/>
+     <dpg d="E9" g="w18601" t="subj" cr="" w="" l="ATP" p="N"/>
+     <dpg d="E9" g="E4" t="antecedent" cr="" w="" l="ATP" p="N"/>
+     <dpg d="w18602" g="w18601" t="obj" cr="obj:w18601" w="site" l="~" p="N"/>
+     <dpg d="w18603" g="w18604" t="punc" cr="punc:w18604" w="," l="~" p="U"/>
+     <dpg d="w18604" g="E2" t="i" cr="UNSPECRELTYPE:E6" w="binds" l="bind" p="V"/>
+     <dpg d="E10" g="w18604" t="subj" cr="" w="" l="fragment" p="N"/>
+     <dpg d="E10" g="w18590" t="antecedent" cr="" w="" l="fragment" p="N"/>
+     <dpg d="w18605" g="w18604" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w18606" g="w18605" t="pcomp-n" cr="mod*to*n:w18604" w="actin" l="~" p="N"/>
+     <dpg d="w18607" g="w18606" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w18608" g="w18612" t="det" cr="det:w18612" w="an" l="~" p="Det"/>
+     <dpg d="w18609" g="w18612" t="mod" cr="mod:w18612" w="ATP-sensitive" l="ATP-sensitive" p="A"/>
+     <dpg d="w18610" g="w18612" t="nn" cr="nn:w18612" w="manner" l="~" p="N"/>
+     <dpg d="w18611" g="w18612" t="punc" cr="punc:w18612" w="(" l="~" p="U"/>
+     <dpg d="w18612" g="w18607" t="pcomp-n" cr="mod*in*n:w18606" w="Muhlrad" l="~" p="N"/>
+     <dpg d="w18613" g="w18612" t="punc" cr="punc:w18612" w="," l="~" p="U"/>
+     <dpg d="w18614" g="w18612" t="appo" cr="appo:w18612" w="A." l="~" p="N"/>
+     <dpg d="w18615" g="w18614" t="punc" cr="punc:w18614" w="(" l="~" p="U"/>
+     <dpg d="w18616" g="w18614" t="appo-mod" cr="appo-mod:w18614" w="1989" l="~" p="N"/>
+     <dpg d="w18617" g="w18614" t="punc" cr="punc:w18614" w=")" l="~" p="U"/>
+     <dpg d="w18618" g="w18619" t="lex-mod" cr="lex-mod:w18619" w="Biochemistry" l="~" p="U"/>
+     <dpg d="w18619" g="w18614" t="appo" cr="appo:w18614" w="28" l="Biochemistry 28" p="N"/>
+     <dpg d="w18620" g="w18619" t="punc" cr="punc:w18619" w="," l="~" p="U"/>
+     <dpg d="w18621" g="w18619" t="num" cr="num:w18619" w="4002" l="~" p="N"/>
+     <dpg d="w18622" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w18623" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

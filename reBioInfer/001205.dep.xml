@@ -1,0 +1,32 @@
+<rexml>
+<doc id="1205">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w19011" g="" t="" cr="" w="Requirement" l="~" p="N"/>
+     <dpg d="w19012" g="w19011" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w19013" g="w19015" t="det" cr="det:w19015" w="the" l="~" p="Det"/>
+     <dpg d="w19014" g="w19015" t="nn" cr="nn:w19015" w="yeast" l="~" p="N"/>
+     <dpg d="w19015" g="w19012" t="pcomp-n" cr="mod*of*n:w19011" w="MSH3" l="~" p="N"/>
+     <dpg d="w19016" g="w19015" t="punc" cr="punc:w19015" w="and" l="~" p="U"/>
+     <dpg d="w19017" g="w19018" t="nn" cr="nn:w19018" w="MSH6" l="~" p="N"/>
+     <dpg d="w19018" g="w19015" t="conj" cr="conj:w19015" w="genes" l="gene" p="N"/>
+     <dpg d="w19019" g="w19018" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w19020" g="w19021" t="lex-mod" cr="lex-mod:w19021" w="MSH2" l="~" p="U"/>
+     <dpg d="w19021" g="w19023" t="nn" cr="nn:w19023" w="-dependent" l="MSH2 -dependent" p="N"/>
+     <dpg d="w19022" g="w19023" t="mod" cr="mod:w19023" w="genomic" l="~" p="A"/>
+     <dpg d="w19023" g="w19019" t="pcomp-n" cr="mod*for*n:w19018" w="stability" l="~" p="N"/>
+     <dpg d="w19024" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

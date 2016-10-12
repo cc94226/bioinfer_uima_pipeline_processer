@@ -1,0 +1,155 @@
+<rexml>
+<doc id="450">
+  <text>
+<p><s id="s1"><w id="w6451">Experiments</w> <w id="w6452">using</w> <w id="w6453">a</w> <w id="w6454">peptide</w> <w id="w6455">that</w> <w id="w6456">corresponds</w> <w id="w6457">to</w> <w id="w6458">the</w> <w id="w6459">N-terminus</w> <w id="w6460">of</w> <w id="w6461">thymosin</w> <w id="w6462">beta(4)</w> <w id="w6463">(</w> <w id="w6464">residues</w> <w id="w6465">6-22</w> <w id="w6466">)</w> <w id="w6467">confirm</w> <w id="w6468">the</w> <w id="w6469">presence</w> <w id="w6470">of</w> <w id="w6471">an</w> <w id="w6472">extensive</w> <w id="w6473">binding</w> <w id="w6474">surface</w> <w id="w6475">between</w> <w id="w6476">actin</w> <w id="w6477">and</w> <w id="w6478">thymosin</w> <w id="w6479">beta(4)</w> <w id="w6480">,</w> <w id="w6481">and</w> <w id="w6482">explain</w> <w id="w6483">why</w> <w id="w6484">thymosin</w> <w id="w6485">beta(4)</w> <w id="w6486">and</w> <w id="w6487">profilin</w> <w id="w6488">can</w> <w id="w6489">bind</w> <w id="w6490">simultaneously</w> <w id="w6491">to</w> <w id="w6492">actin</w> <w id="w6493">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1570" gid="g1501" t="Gene/protein/RNA" fr="w6461" to="w6462" nam="yes">
+     <textspan type="extent">thymosin beta(4)</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.450.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1571" gid="g1502" t="RELATIONSHIP_TEXTBINDING" fr="w6473" to="w6473">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.450.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1572" gid="g1503" t="Individual_protein" fr="w6478" to="w6479" nam="yes">
+     <textspan type="extent">thymosin beta(4)</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.450.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1573" gid="g1504" t="Individual_protein" fr="w6476" to="w6476" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.450.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1574" gid="g1505" t="Individual_protein" fr="w6487" to="w6487" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.450.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1575" gid="g1506" t="Individual_protein" fr="w6484" to="w6485" nam="yes">
+     <textspan type="extent">thymosin beta(4)</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.450.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1576" gid="g1507" t="Individual_protein" fr="w6492" to="w6492" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.450.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1577" gid="g1508" t="RELATIONSHIP_TEXTBINDING" fr="w6490" to="w6490">
+     <textspan type="extent">simultaneously</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.450.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1578" gid="g1509" t="RELATIONSHIP_TEXTBINDING" fr="w6489" to="w6491">
+     <textspan type="extent">bind [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.450.8"/>
+      <exattr n="nst" v="st.450.38.0"/>
+      <exattr n="nst" v="st.450.40.0"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r616" t="BIND" e1="e1573" e2="e1572" re="e1571">
+     <textspan type="extent">binding surface between actin and thymosin beta(4)</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.450.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r618" t="PREVENT" e1="e1578" e2="e1578" re="e1577">
+     <textspan type="extent">thymosin beta(4) and profilin can bind simultaneously to actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.450.7"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="PREVENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r619" t="BIND" e1="e1575" e2="e1576" re="e1578">
+     <textspan type="extent">thymosin beta(4) and profilin can bind simultaneously to actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.450.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r620" t="BIND" e1="e1574" e2="e1576" re="e1578">
+     <textspan type="extent">profilin can bind simultaneously to actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.450.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

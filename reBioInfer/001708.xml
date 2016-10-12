@@ -1,0 +1,57 @@
+<rexml>
+<doc id="1708">
+  <text>
+<p><s id="s1"><w id="w27247">These</w> <w id="w27248">proteins</w> <w id="w27249">also</w> <w id="w27250">compose</w> <w id="w27251">the</w> <w id="w27252">essential</w> <w id="w27253">heterotrimeric</w> <w id="w27254">splicing</w> <w id="w27255">factor</w> <w id="w27256">SF3a</w> <w id="w27257">,</w> <w id="w27258">and</w> <w id="w27259">products</w> <w id="w27260">of</w> <w id="w27261">yeast</w> <w id="w27262">pre-mRNA</w> <w id="w27263">processing</w> <w id="w27264">genes</w> <w id="w27265">PRP9</w> <w id="w27266">,</w> <w id="w27267">PRP11</w> <w id="w27268">,</w> <w id="w27269">and</w> <w id="w27270">PRP21</w> <w id="w27271">are</w> <w id="w27272">their</w> <w id="w27273">likely</w> <w id="w27274">yeast</w> <w id="w27275">counterparts</w> <w id="w27276">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6276" gid="g5991" t="Gene/protein/RNA" fr="w27256" to="w27256" nam="yes">
+     <textspan type="extent">SF3a</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1708.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6277" gid="g5992" t="Gene/protein/RNA" fr="w27267" to="w27267" nam="yes">
+     <textspan type="extent">PRP11</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1708.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6278" gid="g5993" t="Gene/protein/RNA" fr="w27265" to="w27265" nam="yes">
+     <textspan type="extent">PRP9</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1708.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6279" gid="g5994" t="Gene/protein/RNA" fr="w27270" to="w27270" nam="yes">
+     <textspan type="extent">PRP21</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1708.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

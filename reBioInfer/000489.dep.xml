@@ -1,0 +1,68 @@
+<rexml>
+<doc id="489">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6826" g="E2" t="mod" cr="mod:w6829" w="Finally" l="~" p="A"/>
+     <dpg d="w6827" g="E2" t="punc" cr="punc:w6829" w="," l="~" p="U"/>
+     <dpg d="w6828" g="w6829" t="s" cr="s+subj:w6829" w="we" l="~" p="N"/>
+     <dpg d="w6829" g="E2" t="i" cr="" w="evaluated" l="evaluate" p="V"/>
+     <dpg d="E4" g="w6829" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E4" g="w6828" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w6830" g="w6831" t="det" cr="det:w6831" w="the" l="~" p="Det"/>
+     <dpg d="w6831" g="w6829" t="obj" cr="obj:w6829" w="acetylation" l="~" p="N"/>
+     <dpg d="w6832" g="w6831" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6833" g="w6836" t="nn" cr="nn:w6836" w="three" l="~" p="N"/>
+     <dpg d="w6834" g="w6836" t="mod" cr="mod:w6836" w="putative" l="~" p="A"/>
+     <dpg d="w6835" g="w6836" t="nn" cr="nn:w6836" w="PCAF" l="~" p="N"/>
+     <dpg d="w6836" g="w6832" t="pcomp-n" cr="mod*of*n:w6831" w="substrates" l="substrate" p="N"/>
+     <dpg d="w6837" g="w6836" t="punc" cr="punc:w6836" w="," l="~" p="U"/>
+     <dpg d="w6838" g="w6839" t="nn" cr="nn:w6839" w="histones" l="~" p="N"/>
+     <dpg d="w6839" g="w6836" t="conj" cr="conj:w6836" w="H3" l="~" p="N"/>
+     <dpg d="w6840" g="w6839" t="punc" cr="punc:w6839" w="and" l="~" p="U"/>
+     <dpg d="w6841" g="w6839" t="conj" cr="conj:w6839" w="H4" l="~" p="N"/>
+     <dpg d="w6842" g="E2" t="punc" cr="punc:w6829" w="and" l="~" p="U"/>
+     <dpg d="E1" g="E2" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6843" g="w6844" t="det" cr="det:w6844" w="the" l="~" p="Det"/>
+     <dpg d="w6844" g="w6845" t="s" cr="s+subj:w6845||subj:w6850" w="transcription" l="~" p="N"/>
+     <dpg d="w6845" g="E1" t="i" cr="conj:w6829" w="factor" l="~" p="V"/>
+     <dpg d="E5" g="w6845" t="subj" cr="" w="" l="transcription" p="N"/>
+     <dpg d="E5" g="w6844" t="antecedent" cr="" w="" l="transcription" p="N"/>
+     <dpg d="w6846" g="w6845" t="obj" cr="obj:w6845" w="p53" l="~" p="N"/>
+     <dpg d="w6847" g="w6845" t="punc" cr="punc:w6845" w="," l="~" p="U"/>
+     <dpg d="w6848" g="w6845" t="punc" cr="punc:w6845" w="and" l="~" p="U"/>
+     <dpg d="w6849" g="w6850" t="have" cr="have:w6850" w="have" l="~" p="have"/>
+     <dpg d="w6850" g="w6845" t="conj" cr="conj:w6845" w="determined" l="determine" p="V"/>
+     <dpg d="E6" g="w6850" t="subj" cr="" w="" l="transcription" p="N"/>
+     <dpg d="E6" g="w6844" t="antecedent" cr="" w="" l="transcription" p="N"/>
+     <dpg d="E0" g="w6850" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6851" g="E0" t="c" cr="c:w6856" w="that" l="~" p="COMP"/>
+     <dpg d="w6852" g="w6853" t="nn" cr="nn:w6853" w="histone" l="~" p="N"/>
+     <dpg d="w6853" g="w6856" t="s" cr="s+obj:w6856" w="H3" l="~" p="N"/>
+     <dpg d="w6854" g="w6856" t="be" cr="be:w6856" w="is" l="be" p="be"/>
+     <dpg d="w6855" g="w6856" t="amod" cr="amod:w6856" w="significantly" l="~" p="A"/>
+     <dpg d="w6856" g="E0" t="i" cr="fc:w6850" w="preferred" l="prefer" p="V"/>
+     <dpg d="E7" g="w6856" t="obj" cr="" w="" l="H3" p="N"/>
+     <dpg d="E7" g="w6853" t="antecedent" cr="" w="" l="H3" p="N"/>
+     <dpg d="w6857" g="w6856" t="mod" cr="" w="over" l="~" p="Prep"/>
+     <dpg d="w6858" g="w6860" t="det" cr="det:w6860" w="the" l="~" p="Det"/>
+     <dpg d="w6859" g="w6860" t="nn" cr="nn:w6860" w="histone" l="~" p="N"/>
+     <dpg d="w6860" g="w6857" t="pcomp-n" cr="mod*over*n:w6856" w="H4" l="~" p="N"/>
+     <dpg d="w6861" g="w6860" t="punc" cr="punc:w6860" w="and" l="~" p="U"/>
+     <dpg d="w6862" g="w6863" t="nn" cr="nn:w6863" w="p53" l="~" p="N"/>
+     <dpg d="w6863" g="w6860" t="conj" cr="conj:w6860" w="substrates" l="substrate" p="N"/>
+     <dpg d="w6864" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

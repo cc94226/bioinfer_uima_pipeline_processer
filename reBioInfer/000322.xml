@@ -1,0 +1,139 @@
+<rexml>
+<doc id="322">
+  <text>
+<p><s id="s1"><w id="w4923">Cofilin</w> <w id="w4924">and</w> <w id="w4925">profilin</w> <w id="w4926">may</w> <w id="w4927">also</w> <w id="w4928">be</w> <w id="w4929">involved</w> <w id="w4930">in</w> <w id="w4931">the</w> <w id="w4932">redistribution</w> <w id="w4933">of</w> <w id="w4934">actin</w> <w id="w4935">during</w> <w id="w4936">myofibrillogenesis</w> <w id="w4937">and</w> <w id="w4938">in</w> <w id="w4939">the</w> <w id="w4940">process</w> <w id="w4941">of</w> <w id="w4942">actin</w> <w id="w4943">disassembly</w> <w id="w4944">in</w> <w id="w4945">degenerating</w> <w id="w4946">muscles</w> <w id="w4947">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1191" gid="g1135" t="Individual_protein" fr="w4923" to="w4923" nam="yes">
+     <textspan type="extent">Cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.322.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1192" gid="g1136" t="LOCALIZATION" fr="w4932" to="w4934">
+     <textspan type="extent">redistribution of actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.322.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1193" gid="g1137" t="RELATIONSHIP_TEXTBINDING" fr="w4929" to="w4930">
+     <textspan type="extent">involved in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.322.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1194" gid="g1138" t="DISASSEMBLY" fr="w4942" to="w4943">
+     <textspan type="extent">actin disassembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Break-down"/>
+      <exattr n="t4" v="DISASSEMBLY"/>
+      <exattr n="bd" v="e.322.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1195" gid="g1139" t="Process_entity" fr="w4940" to="w4943">
+     <textspan type="extent">process of actin disassembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.322.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1196" gid="g1140" t="RELATIONSHIP_TEXTBINDING" fr="w4929" to="w4938">
+     <textspan type="extent">involved [..] in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.322.5"/>
+      <exattr n="nst" v="st.322.6.0"/>
+      <exattr n="nst" v="st.322.15.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1197" gid="g1141" t="Individual_protein" fr="w4925" to="w4925" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.322.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1198" gid="g1142" t="Individual_protein" fr="w4934" to="w4934" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.322.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1199" gid="g1143" t="Individual_protein" fr="w4942" to="w4942" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.322.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r470" t="PARTICIPATE" e1="e1191" e2="e1192" re="e1193">
+     <textspan type="extent">Cofilin and profilin may also be involved in the redistribution of actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.322.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r471" t="PARTICIPATE" e1="e1197" e2="e1192" re="e1193">
+     <textspan type="extent">profilin may also be involved in the redistribution of actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.322.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r472" t="PARTICIPATE" e1="e1191" e2="e1195" re="e1196">
+     <textspan type="extent">Cofilin and profilin may also be involved in the redistribution of actin during myofibrillogenesis and in the process of actin disassembly</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.322.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r473" t="PARTICIPATE" e1="e1197" e2="e1195" re="e1196">
+     <textspan type="extent">profilin may also be involved in the redistribution of actin during myofibrillogenesis and in the process of actin disassembly</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.322.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

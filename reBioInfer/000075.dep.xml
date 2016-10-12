@@ -1,0 +1,61 @@
+<rexml>
+<doc id="75">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1185" g="w1186" t="det" cr="det:w1186" w="A" l="~" p="Det"/>
+     <dpg d="w1186" g="w1195" t="s" cr="s+subj:w1195" w="LIMK2" l="~" p="N"/>
+     <dpg d="w1187" g="w1186" t="pnmod" cr="pnmod:w1186" w="mutant" l="~" p="A"/>
+     <dpg d="w1188" g="w1187" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w1189" g="w1188" t="pcomp-n" cr="mod*with*n:w1187" w="replacement" l="~" p="N"/>
+     <dpg d="w1190" g="w1189" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w1191" g="w1190" t="pcomp-n" cr="mod*of*n:w1189" w="threonine" l="~" p="N"/>
+     <dpg d="w1192" g="w1191" t="num" cr="num:w1191" w="505" l="~" p="N"/>
+     <dpg d="w1193" g="w1191" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w1194" g="w1193" t="pcomp-n" cr="mod*by*n:w1191" w="valine" l="~" p="N"/>
+     <dpg d="w1195" g="E1" t="i" cr="" w="abolished" l="abolish" p="V"/>
+     <dpg d="E3" g="w1195" t="subj" cr="" w="" l="LIMK2" p="N"/>
+     <dpg d="E3" g="w1186" t="antecedent" cr="" w="" l="LIMK2" p="N"/>
+     <dpg d="w1196" g="w1197" t="nn" cr="nn:w1197" w="LIMK2" l="~" p="N"/>
+     <dpg d="w1197" g="w1195" t="obj" cr="obj:w1195" w="activities" l="activity" p="N"/>
+     <dpg d="w1198" g="w1197" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w1199" g="w1200" t="nn" cr="nn:w1200" w="cofilin" l="~" p="N"/>
+     <dpg d="w1200" g="w1198" t="pcomp-n" cr="mod*for*n:w1197" w="phosphorylation" l="~" p="N"/>
+     <dpg d="w1201" g="w1200" t="punc" cr="punc:w1200" w="and" l="~" p="U"/>
+     <dpg d="w1202" g="w1204" t="nn" cr="nn:w1204" w="actin" l="~" p="N"/>
+     <dpg d="w1203" g="w1204" t="mod" cr="mod:w1204" w="cytoskeletal" l="~" p="A"/>
+     <dpg d="w1204" g="w1200" t="conj" cr="conj:w1200" w="changes" l="change" p="N"/>
+     <dpg d="w1205" g="w1195" t="punc" cr="punc:w1195" w="," l="~" p="U"/>
+     <dpg d="w1206" g="w1195" t="mod" cr="mod:w1195" w="whereas" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w1206" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w1207" g="w1210" t="s" cr="s+subj:w1210" w="replacement" l="~" p="N"/>
+     <dpg d="w1208" g="w1207" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w1209" g="w1208" t="pcomp-n" cr="mod*by*n:w1207" w="glutamate" l="~" p="N"/>
+     <dpg d="w1210" g="E0" t="i" cr="comp1:w1206" w="enhanced" l="enhance" p="V"/>
+     <dpg d="E4" g="w1210" t="subj" cr="" w="" l="replacement" p="N"/>
+     <dpg d="E4" g="w1207" t="antecedent" cr="" w="" l="replacement" p="N"/>
+     <dpg d="w1211" g="w1214" t="det" cr="det:w1214" w="the" l="~" p="Det"/>
+     <dpg d="w1212" g="w1214" t="nn" cr="nn:w1214" w="protein" l="~" p="N"/>
+     <dpg d="w1213" g="w1214" t="nn" cr="nn:w1214" w="kinase" l="~" p="N"/>
+     <dpg d="w1214" g="w1210" t="obj" cr="obj:w1210" w="activity" l="~" p="N"/>
+     <dpg d="w1215" g="w1214" t="punc" cr="punc:w1214" w="and" l="~" p="U"/>
+     <dpg d="w1216" g="w1218" t="nn" cr="nn:w1218" w="stress" l="~" p="N"/>
+     <dpg d="w1217" g="w1218" t="nn" cr="nn:w1218" w="fiber" l="~" p="N"/>
+     <dpg d="w1218" g="w1214" t="conj" cr="conj:w1214" w="formation" l="~" p="N"/>
+     <dpg d="w1219" g="w1218" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w1220" g="w1219" t="pcomp-n" cr="mod*by*n:w1218" w="LIMK2" l="~" p="N"/>
+     <dpg d="w1221" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

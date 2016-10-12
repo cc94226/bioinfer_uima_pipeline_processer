@@ -1,0 +1,267 @@
+<rexml>
+<doc id="1338">
+  <text>
+<p><s id="s1"><w id="w20837">The</w> <w id="w20838">actin</w> <w id="w20839">monomer</w><w id="w20840">-</w><w id="w20841">binding</w> <w id="w20842">protein</w> <w id="w20843">,</w> <w id="w20844">profilin</w> <w id="w20845">,</w> <w id="w20846">influences</w> <w id="w20847">the</w> <w id="w20848">dynamics</w> <w id="w20849">of</w> <w id="w20850">actin</w> <w id="w20851">filaments</w> <w id="w20852">in</w> <w id="w20853">vitro</w> <w id="w20854">by</w> <w id="w20855">suppressing</w> <w id="w20856">nucleation</w> <w id="w20857">,</w> <w id="w20858">enhancing</w> <w id="w20859">nucleotide</w> <w id="w20860">exchange</w> <w id="w20861">on</w> <w id="w20862">actin</w> <w id="w20863">,</w> <w id="w20864">and</w> <w id="w20865">promoting</w> <w id="w20866">barbed-end</w> <w id="w20867">assembly</w> <w id="w20868">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4811" gid="g4592" t="Individual_protein" fr="w20838" to="w20839" nam="yes">
+     <textspan type="extent">actin monomer</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1338.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4812" gid="g4593" t="RELATIONSHIP_TEXTBINDING" fr="w20841" to="w20841">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1338.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4813" gid="g4594" t="Dynamics_property" fr="w20848" to="w20851">
+     <textspan type="extent">dynamics of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.1338.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4814" gid="g4595" t="RELATIONSHIP_TEXTBINDING" fr="w20846" to="w20846">
+     <textspan type="extent">influences</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1338.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4815" gid="g4596" t="RELATIONSHIP_TEXTBINDING" fr="w20854" to="w20865">
+     <textspan type="extent">by [..] promoting</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1338.4"/>
+      <exattr n="nst" v="st.1338.15.0"/>
+      <exattr n="nst" v="st.1338.26.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4816" gid="g4597" t="RELATIONSHIP_TEXTBINDING" fr="w20854" to="w20855">
+     <textspan type="extent">by suppressing</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1338.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4817" gid="g4598" t="Cell_component" fr="w20850" to="w20851" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1338.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4818" gid="g4599" t="RELATIONSHIP_TEXTBINDING" fr="w20846" to="w20854">
+     <textspan type="extent">influences [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1338.7"/>
+      <exattr n="nst" v="st.1338.7.0"/>
+      <exattr n="nst" v="st.1338.15.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4819" gid="g4600" t="ASSEMBLY" fr="w20867" to="w20867">
+     <textspan type="extent">assembly</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1338.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e4820" gid="g4601" t="RELATIONSHIP_TEXTBINDING" fr="w20854" to="w20858">
+     <textspan type="extent">by [..] enhancing</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1338.9"/>
+      <exattr n="nst" v="st.1338.15.0"/>
+      <exattr n="nst" v="st.1338.19.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4821" gid="g4602" t="Individual_protein" fr="w20838" to="w20838" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1338.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e4822" gid="g4603" t="Individual_protein" fr="w20844" to="w20844" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1338.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e4823" gid="g4604" t="ASSEMBLY" fr="w20856" to="w20856">
+     <textspan type="extent">nucleation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1338.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e4824" gid="g4605" t="Individual_protein" fr="w20862" to="w20862" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1338.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e4825" gid="g4606" t="Individual_protein" fr="w20850" to="w20850" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1338.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e4826" gid="g4607" t="LOCALIZATION" fr="w20860" to="w20862">
+     <textspan type="extent">exchange on actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.1338.15"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1829" t="BIND" e1="e4822" e2="e4811" re="e4812">
+     <textspan type="extent">actin monomer - binding protein , profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1338.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1830" t="REL-ENT" e1="e4823" e2="e4817" re="">
+     <textspan type="extent">actin filaments in vitro by suppressing nucleation</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="REL-ENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1831" t="REL-ENT" e1="e4819" e2="e4817" re="">
+     <textspan type="extent">actin filaments in vitro by suppressing nucleation , enhancing nucleotide exchange on actin , and promoting barbed-end assembly</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="REL-ENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1832" t="AFFECT" e1="e4822" e2="e4813" re="e4814">
+     <textspan type="extent">profilin , influences the dynamics of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1338.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1833" t="AFFECT" e1="e4816" e2="e4813" re="e4818">
+     <textspan type="extent">profilin , influences the dynamics of actin filaments in vitro by suppressing nucleation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1338.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1834" t="SUPPRESS" e1="e4822" e2="e4823" re="e4816">
+     <textspan type="extent">profilin , influences the dynamics of actin filaments in vitro by suppressing nucleation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1338.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r1835" t="AFFECT" e1="e4815" e2="e4813" re="e4818">
+     <textspan type="extent">profilin , influences the dynamics of actin filaments in vitro by suppressing nucleation , enhancing nucleotide exchange on actin , and promoting barbed-end assembly</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1338.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1836" t="STIMULATE" e1="e4822" e2="e4819" re="e4815">
+     <textspan type="extent">profilin , influences the dynamics of actin filaments in vitro by suppressing nucleation , enhancing nucleotide exchange on actin , and promoting barbed-end assembly</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1338.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1837" t="AFFECT" e1="e4820" e2="e4813" re="e4818">
+     <textspan type="extent">profilin , influences the dynamics of actin filaments in vitro by suppressing nucleation , enhancing nucleotide exchange on actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1338.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1838" t="STIMULATE" e1="e4822" e2="e4826" re="e4820">
+     <textspan type="extent">profilin , influences the dynamics of actin filaments in vitro by suppressing nucleation , enhancing nucleotide exchange on actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1338.9"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Positive"/>
+      <exattr n="t5" v="STIMULATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

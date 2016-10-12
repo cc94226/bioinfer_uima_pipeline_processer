@@ -1,0 +1,291 @@
+<rexml>
+<doc id="2107">
+  <text>
+<p><s id="s1"><w id="w33150">We</w> <w id="w33151">have</w> <w id="w33152">shown</w> <w id="w33153">that</w> <w id="w33154">the</w> <w id="w33155">FH</w> <w id="w33156">proteins</w> <w id="w33157">Bni1p</w> <w id="w33158">and</w> <w id="w33159">Bnr1p</w> <w id="w33160">are</w> <w id="w33161">potential</w> <w id="w33162">targets</w> <w id="w33163">of</w> <w id="w33164">the</w> <w id="w33165">Rho</w> <w id="w33166">family</w> <w id="w33167">small</w> <w id="w33168">GTP-binding</w> <w id="w33169">proteins</w> <w id="w33170">and</w> <w id="w33171">bind</w> <w id="w33172">to</w> <w id="w33173">an</w> <w id="w33174">actin-binding</w> <w id="w33175">protein</w> <w id="w33176">,</w> <w id="w33177">profilin</w> <w id="w33178">,</w> <w id="w33179">at</w> <w id="w33180">their</w> <w id="w33181">proline-rich</w> <w id="w33182">FH1</w> <w id="w33183">domains</w> <w id="w33184">to</w> <w id="w33185">regulate</w> <w id="w33186">reorganization</w> <w id="w33187">of</w> <w id="w33188">the</w> <w id="w33189">actin</w> <w id="w33190">cytoskeleton</w> <w id="w33191">in</w> <w id="w33192">the</w> <w id="w33193">yeast</w> <w id="w33194">Saccharomyces</w> <w id="w33195">cerevisiae</w> <w id="w33196">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7556" gid="g7202" t="Individual_protein" fr="w33157" to="w33157" nam="yes">
+     <textspan type="extent">Bni1p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2107.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7557" gid="g7203" t="RELATIONSHIP_TEXTBINDING" fr="w33171" to="w33172">
+     <textspan type="extent">bind to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2107.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7558" gid="g7204" t="Individual_protein" fr="w33177" to="w33177" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2107.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7559" gid="g7205" t="Individual_protein" fr="w33159" to="w33159" nam="yes">
+     <textspan type="extent">Bnr1p</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2107.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7560" gid="g7206" t="RELATIONSHIP_TEXTBINDING" fr="w33162" to="w33163">
+     <textspan type="extent">targets of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2107.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7561" gid="g7207" t="MODIFICATION" fr="w33186" to="w33190">
+     <textspan type="extent">reorganization of the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.2107.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7562" gid="g7208" t="Protein_family_or_group" fr="w33174" to="w33175" nam="yes">
+     <textspan type="extent">actin-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.2107.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7563" gid="g7209" t="Protein_family_or_group" fr="w33165" to="w33169" nam="yes">
+     <textspan type="extent">Rho family small GTP-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.2107.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7564" gid="g7210" t="Protein_family_or_group" fr="w33165" to="w33166" nam="yes">
+     <textspan type="extent">Rho family</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.2107.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e7565" gid="g7211" t="Cell_component" fr="w33188" to="w33190" nam="yes">
+     <textspan type="extent">the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.2107.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e7566" gid="g7212" t="Protein_family_or_group" fr="w33167" to="w33169" nam="yes">
+     <textspan type="extent">small GTP-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.2107.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e7567" gid="g7213" t="Individual_protein" fr="w33165" to="w33165" nam="yes">
+     <textspan type="extent">Rho</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2107.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e7568" gid="g7214" t="RELATIONSHIP_TEXTBINDING" fr="w33185" to="w33185">
+     <textspan type="extent">regulate</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2107.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e7569" gid="g7215" t="Individual_protein" fr="w33189" to="w33189" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2107.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e7570" gid="g7216" t="Protein_family_or_group" fr="w33155" to="w33156" nam="yes">
+     <textspan type="extent">FH proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.2107.14"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2898" t="MEMBER" e1="e7570" e2="e7556" re="">
+     <textspan type="extent">FH proteins Bni1p</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2899" t="MEMBER" e1="e7570" e2="e7559" re="">
+     <textspan type="extent">FH proteins Bni1p and Bnr1p</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2900" t="MEMBER" e1="e7562" e2="e7558" re="">
+     <textspan type="extent">actin-binding protein , profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2901" t="MEMBER" e1="e7564" e2="e7563" re="">
+     <textspan type="extent">Rho family small GTP-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2902" t="MEMBER" e1="e7566" e2="e7563" re="">
+     <textspan type="extent">Rho family small GTP-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r2903" t="AFFECT" e1="e7563" e2="e7556" re="e7560">
+     <textspan type="extent">Bni1p and Bnr1p are potential targets of the Rho family small GTP-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2107.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2904" t="AFFECT" e1="e7563" e2="e7559" re="e7560">
+     <textspan type="extent">Bnr1p are potential targets of the Rho family small GTP-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2107.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2905" t="CONTROL" e1="e7557" e2="e7561" re="e7568">
+     <textspan type="extent">Bni1p and Bnr1p are potential targets of the Rho family small GTP-binding proteins and bind to an actin-binding protein , profilin , at their proline-rich FH1 domains to regulate reorganization of the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2107.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r2906" t="BIND" e1="e7556" e2="e7558" re="e7557">
+     <textspan type="extent">Bni1p and Bnr1p are potential targets of the Rho family small GTP-binding proteins and bind to an actin-binding protein , profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2107.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r2907" t="CONTROL" e1="e7557" e2="e7561" re="e7568">
+     <textspan type="extent">Bnr1p are potential targets of the Rho family small GTP-binding proteins and bind to an actin-binding protein , profilin , at their proline-rich FH1 domains to regulate reorganization of the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2107.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r2908" t="BIND" e1="e7559" e2="e7558" re="e7557">
+     <textspan type="extent">Bnr1p are potential targets of the Rho family small GTP-binding proteins and bind to an actin-binding protein , profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2107.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

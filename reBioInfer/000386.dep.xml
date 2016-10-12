@@ -1,0 +1,42 @@
+<rexml>
+<doc id="386">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w5745" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="Detection" l="~" p="N"/>
+     <dpg d="w5746" g="w5745" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5747" g="w5746" t="pcomp-n" cr="mod*of*n:w5745" w="loss" l="~" p="N"/>
+     <dpg d="w5748" g="w5747" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w5749" g="w5748" t="pcomp-n" cr="mod*of*n:w5747" w="heterozygosity" l="~" p="N"/>
+     <dpg d="w5750" g="w5749" t="mod" cr="" w="at" l="~" p="Prep"/>
+     <dpg d="w5751" g="w5750" t="pcomp-n" cr="mod*at*n:w5749" w="RAD51" l="~" p="N"/>
+     <dpg d="w5752" g="w5751" t="punc" cr="punc:w5751" w="," l="~" p="U"/>
+     <dpg d="w5753" g="w5751" t="conj" cr="conj:w5751" w="RAD52" l="~" p="N"/>
+     <dpg d="w5754" g="w5753" t="punc" cr="punc:w5753" w="," l="~" p="U"/>
+     <dpg d="w5755" g="w5753" t="conj" cr="conj:w5753" w="RAD54" l="~" p="N"/>
+     <dpg d="w5756" g="w5755" t="punc" cr="punc:w5755" w="and" l="~" p="U"/>
+     <dpg d="w5757" g="w5755" t="conj" cr="conj:w5755" w="BRCA1" l="~" p="N"/>
+     <dpg d="w5758" g="w5757" t="punc" cr="punc:w5757" w="and" l="~" p="U"/>
+     <dpg d="w5759" g="w5760" t="nn" cr="nn:w5760" w="BRCA2" l="~" p="N"/>
+     <dpg d="w5760" g="w5757" t="conj" cr="conj:w5757" w="loci" l="~" p="N"/>
+     <dpg d="w5761" g="w5753" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w5762" g="w5763" t="nn" cr="nn:w5763" w="breast" l="~" p="N"/>
+     <dpg d="w5763" g="w5761" t="pcomp-n" cr="mod*in*n:w5753" w="cancer" l="~" p="N"/>
+     <dpg d="w5764" g="E1" t="punc" cr="punc:E1" w=":" l="~" p="U"/>
+     <dpg d="w5765" g="w5766" t="mod" cr="mod:w5766" w="pathological" l="~" p="A"/>
+     <dpg d="w5766" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="correlations" l="correlation" p="N"/>
+     <dpg d="w5767" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,89 @@
+<rexml>
+<doc id="2038">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32316" g="w32317" t="s" cr="s+subj:w32317||s+subj:w32335" w="We" l="~" p="N"/>
+     <dpg d="w32317" g="E3" t="i" cr="" w="constructed" l="construct" p="V"/>
+     <dpg d="E6" g="w32317" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E6" g="w32316" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w32318" g="w32319" t="nn" cr="nn:w32319" w="recombinant" l="~" p="N"/>
+     <dpg d="w32319" g="w32317" t="obj" cr="obj:w32317||obj:w32320" w="viruses" l="virus" p="N"/>
+     <dpg d="w32320" g="w32319" t="vrel" cr="vrel:w32319" w="based" l="base" p="V"/>
+     <dpg d="E7" g="w32320" t="obj" cr="" w="" l="virus" p="N"/>
+     <dpg d="E7" g="w32319" t="antecedent" cr="" w="" l="virus" p="N"/>
+     <dpg d="w32321" g="w32320" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w32322" g="w32329" t="det" cr="det:w32329" w="the" l="~" p="Det"/>
+     <dpg d="w32323" g="w32325" t="lex-mod" cr="lex-mod:w32325" w="herpes" l="~" p="U"/>
+     <dpg d="w32324" g="w32325" t="lex-mod" cr="lex-mod:w32325" w="simplex" l="~" p="U"/>
+     <dpg d="w32325" g="w32329" t="nn" cr="nn:w32329" w="virus" l="herpes simplex virus" p="N"/>
+     <dpg d="w32326" g="w32327" t="lex-mod" cr="lex-mod:w32327" w="type" l="~" p="U"/>
+     <dpg d="w32327" g="w32329" t="nn" cr="nn:w32329" w="1" l="type 1" p="N"/>
+     <dpg d="w32328" g="w32329" t="mod" cr="mod:w32329" w="mutant" l="~" p="A"/>
+     <dpg d="w32329" g="w32321" t="pcomp-n" cr="mod*on*n:w32320||subj:w32333" w="tsK" l="~" p="N"/>
+     <dpg d="E2" g="w32329" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32330" g="E2" t="whn" cr="whn:w32332" w="which" l="~" p="N"/>
+     <dpg d="w32330" g="w32329" t="antecedent" cr="antecedent:w32329" w="which" l="~" p="N"/>
+     <dpg d="w32331" g="w32332" t="mod-before" cr="mod-before:w32332" w="individually" l="~" p="A"/>
+     <dpg d="w32332" g="E2" t="i" cr="rel:w32329" w="were" l="be" p="VBE"/>
+     <dpg d="w32333" g="w32332" t="pred" cr="pred:w32332" w="able" l="~" p="A"/>
+     <dpg d="E8" g="w32333" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E8" g="w32329" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="E1" g="w32332" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w32316" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w32334" g="w32335" t="aux" cr="aux:w32335" w="to" l="~" p="Aux"/>
+     <dpg d="w32335" g="E1" t="i" cr="mod:w32332" w="express" l="~" p="V"/>
+     <dpg d="E9" g="w32335" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E9" g="E4" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w32336" g="w32337" t="det" cr="det:w32337" w="the" l="~" p="Det"/>
+     <dpg d="w32337" g="w32335" t="obj" cr="obj:w32335" w="products" l="product" p="N"/>
+     <dpg d="w32338" g="w32337" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32339" g="w32342" t="nn" cr="nn:w32342" w="four" l="~" p="N"/>
+     <dpg d="w32340" g="w32342" t="mod" cr="mod:w32342" w="viral" l="~" p="A"/>
+     <dpg d="w32341" g="w32342" t="nn" cr="nn:w32342" w="DNA" l="~" p="N"/>
+     <dpg d="w32342" g="w32338" t="pcomp-n" cr="mod*of*n:w32337||obj:w32362" w="replication" l="~" p="N"/>
+     <dpg d="E0" g="w32342" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32343" g="w32345" t="nn" cr="nn:w32345" w="genes" l="gene" p="N"/>
+     <dpg d="w32344" g="w32345" t="punc" cr="punc:w32345" w="(" l="~" p="U"/>
+     <dpg d="w32345" g="w32362" t="s" cr="s+subj:w32362" w="UL5" l="~" p="N"/>
+     <dpg d="w32346" g="w32345" t="punc" cr="punc:w32345" w="," l="~" p="U"/>
+     <dpg d="w32347" g="w32345" t="conj" cr="conj:w32345" w="UL8" l="~" p="N"/>
+     <dpg d="w32348" g="w32347" t="punc" cr="punc:w32347" w="," l="~" p="U"/>
+     <dpg d="w32349" g="w32347" t="conj" cr="conj:w32347" w="UL9" l="~" p="N"/>
+     <dpg d="w32350" g="w32349" t="punc" cr="punc:w32349" w="and" l="~" p="U"/>
+     <dpg d="w32351" g="w32349" t="conj" cr="conj:w32349" w="UL52" l="~" p="N"/>
+     <dpg d="w32352" g="w32345" t="punc" cr="punc:w32345" w=")" l="~" p="U"/>
+     <dpg d="w32353" g="w32345" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w32354" g="w32355" t="det" cr="det:w32355" w="the" l="~" p="Det"/>
+     <dpg d="w32355" g="w32353" t="pcomp-n" cr="mod*in*n:w32345" w="absence" l="~" p="N"/>
+     <dpg d="w32356" g="w32355" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32357" g="w32356" t="pcomp-n" cr="mod*of*n:w32355" w="any" l="~" p="N"/>
+     <dpg d="w32358" g="w32357" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32359" g="w32361" t="det" cr="det:w32361" w="the" l="~" p="Det"/>
+     <dpg d="w32360" g="w32361" t="mod" cr="mod:w32361" w="other" l="~" p="A"/>
+     <dpg d="w32361" g="w32358" t="pcomp-n" cr="mod*of*n:w32357" w="proteins" l="protein" p="N"/>
+     <dpg d="w32362" g="E0" t="i" cr="rel:w32342" w="required" l="require" p="V"/>
+     <dpg d="E10" g="w32362" t="obj" cr="" w="" l="replication" p="N"/>
+     <dpg d="E10" g="w32342" t="antecedent" cr="" w="" l="replication" p="N"/>
+     <dpg d="E11" g="w32362" t="subj" cr="" w="" l="UL5" p="N"/>
+     <dpg d="E11" g="w32345" t="antecedent" cr="" w="" l="UL5" p="N"/>
+     <dpg d="w32363" g="w32362" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w32364" g="w32366" t="mod" cr="mod:w32366" w="viral" l="~" p="A"/>
+     <dpg d="w32365" g="w32366" t="nn" cr="nn:w32366" w="DNA" l="~" p="N"/>
+     <dpg d="w32366" g="w32363" t="pcomp-n" cr="mod*for*n:w32362" w="synthesis" l="~" p="N"/>
+     <dpg d="w32367" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

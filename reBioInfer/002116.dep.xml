@@ -1,0 +1,52 @@
+<rexml>
+<doc id="2116">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w33235" g="w33236" t="s" cr="s+subj:w33236" w="We" l="~" p="N"/>
+     <dpg d="w33236" g="E0" t="i" cr="" w="investigate" l="~" p="V"/>
+     <dpg d="E2" g="w33236" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E2" g="w33235" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w33237" g="w33238" t="mod" cr="mod:w33238" w="allelic" l="~" p="A"/>
+     <dpg d="w33238" g="w33236" t="obj" cr="obj:w33236" w="losses" l="loss" p="N"/>
+     <dpg d="w33239" g="w33238" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w33240" g="w33239" t="pcomp-n" cr="mod*in*n:w33238" w="microsatellites" l="~" p="N"/>
+     <dpg d="w33241" g="w33240" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33242" g="w33243" t="det" cr="det:w33243" w="the" l="~" p="Det"/>
+     <dpg d="w33243" g="w33241" t="pcomp-n" cr="mod*of*n:w33240" w="RAD51" l="~" p="N"/>
+     <dpg d="w33244" g="w33243" t="punc" cr="punc:w33243" w="," l="~" p="U"/>
+     <dpg d="w33245" g="w33243" t="conj" cr="conj:w33243" w="RAD52" l="~" p="N"/>
+     <dpg d="w33246" g="w33245" t="punc" cr="punc:w33245" w="," l="~" p="U"/>
+     <dpg d="w33247" g="w33245" t="conj" cr="conj:w33245" w="RAD54" l="~" p="N"/>
+     <dpg d="w33248" g="w33247" t="punc" cr="punc:w33247" w="," l="~" p="U"/>
+     <dpg d="w33249" g="w33247" t="conj" cr="conj:w33247" w="BRCA1" l="~" p="N"/>
+     <dpg d="w33250" g="w33249" t="punc" cr="punc:w33249" w="and" l="~" p="U"/>
+     <dpg d="w33251" g="w33252" t="nn" cr="nn:w33252" w="BRCA2" l="~" p="N"/>
+     <dpg d="w33252" g="w33249" t="conj" cr="conj:w33249" w="regions" l="region" p="N"/>
+     <dpg d="w33253" g="w33252" t="punc" cr="punc:w33252" w="," l="~" p="U"/>
+     <dpg d="w33254" g="w33252" t="punc" cr="punc:w33252" w="and" l="~" p="U"/>
+     <dpg d="w33255" g="w33256" t="gen" cr="gen:w33256" w="their" l="~" p="N"/>
+     <dpg d="w33256" g="w33252" t="conj" cr="conj:w33252" w="correlations" l="correlation" p="N"/>
+     <dpg d="w33257" g="w33245" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w33258" g="w33260" t="nn" cr="nn:w33260" w="nine" l="~" p="N"/>
+     <dpg d="w33259" g="w33260" t="mod" cr="mod:w33260" w="pathologic" l="~" p="A"/>
+     <dpg d="w33260" g="w33257" t="pcomp-n" cr="mod*with*n:w33245" w="parameters" l="parameter" p="N"/>
+     <dpg d="w33261" g="w33260" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w33262" g="w33264" t="num" cr="num:w33264" w="127" l="~" p="N"/>
+     <dpg d="w33263" g="w33264" t="nn" cr="nn:w33264" w="breast" l="~" p="N"/>
+     <dpg d="w33264" g="w33261" t="pcomp-n" cr="mod*in*n:w33260" w="carcinomas" l="carcinoma" p="N"/>
+     <dpg d="w33265" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,196 @@
+<rexml>
+<doc id="87">
+  <text>
+<p><s id="s1"><w id="w1322">Although</w> <w id="w1323">both</w> <w id="w1324">receptors</w> <w id="w1325">are</w> <w id="w1326">involved</w> <w id="w1327">in</w> <w id="w1328">M21</w> <w id="w1329">and</w> <w id="w1330">H2981</w> <w id="w1331">cell</w> <w id="w1332">adhesion</w> <w id="w1333">to</w> <w id="w1334">vitronectin</w> <w id="w1335">,</w> <w id="w1336">only</w> <w id="w1337">a</w> <w id="w1338">alpha</w> <w id="w1339">v</w> <w id="w1340">beta</w> <w id="w1341">3</w> <w id="w1342">can</w> <w id="w1343">be</w> <w id="w1344">detected</w> <w id="w1345">in</w> <w id="w1346">focal</w> <w id="w1347">contacts</w> <w id="w1348">,</w> <w id="w1349">colocalizing</w> <w id="w1350">with</w> <w id="w1351">vinculin</w> <w id="w1352">,</w> <w id="w1353">talin</w> <w id="w1354">,</w> <w id="w1355">and</w> <w id="w1356">the</w> <w id="w1357">ends</w> <w id="w1358">of</w> <w id="w1359">actin</w> <w id="w1360">filaments</w> <w id="w1361">,</w> <w id="w1362">while</w> <w id="w1363">alpha</w> <w id="w1364">v</w> <w id="w1365">beta</w> <w id="w1366">5</w> <w id="w1367">shows</w> <w id="w1368">a</w> <w id="w1369">distinct</w> <w id="w1370">,</w> <w id="w1371">nonfocal</w> <w id="w1372">contact</w> <w id="w1373">,</w> <w id="w1374">distribution</w> <w id="w1375">on</w> <w id="w1376">the</w> <w id="w1377">cell</w> <w id="w1378">surface</w> <w id="w1379">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e334" gid="g325" t="RELATIONSHIP_TEXTBINDING" fr="w1326" to="w1327">
+     <textspan type="extent">involved in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.87.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e335" gid="g326" t="Individual_protein" fr="w1351" to="w1351" nam="yes">
+     <textspan type="extent">vinculin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.87.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e336" gid="g327" t="Cell_component" fr="w1357" to="w1360" nam="yes">
+     <textspan type="extent">ends of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.87.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e337" gid="g328" t="Individual_protein" fr="w1353" to="w1353" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.87.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e338" gid="g329" t="ASSEMBLY" fr="w1332" to="w1334">
+     <textspan type="extent">adhesion to vitronectin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.87.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e339" gid="g330" t="Individual_protein" fr="w1323" to="w1324" nam="yes">
+     <textspan type="extent">both receptors</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.87.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e340" gid="g331" t="Cell_component" fr="w1359" to="w1360" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.87.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e341" gid="g332" t="Individual_protein" fr="w1323" to="w1323" nam="yes">
+     <textspan type="extent">both</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.87.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e342" gid="g333" t="Individual_protein" fr="w1359" to="w1359" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.87.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e343" gid="g332" t="Individual_protein" fr="w1338" to="w1341" nam="yes">
+     <textspan type="extent">alpha v beta 3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.87.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e344" gid="g334" t="RELATIONSHIP_TEXTBINDING" fr="w1349" to="w1350">
+     <textspan type="extent">colocalizing with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.87.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e345" gid="g332" t="Individual_protein" fr="w1363" to="w1366" nam="yes">
+     <textspan type="extent">alpha v beta 5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.87.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e346" gid="g335" t="Individual_protein" fr="w1334" to="w1334" nam="yes">
+     <textspan type="extent">vitronectin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.87.12"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r120" t="PARTICIPATE" e1="e339" e2="e338" re="e334">
+     <textspan type="extent">both receptors are involved in M21 and H2981 cell adhesion to vitronectin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.87.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r121" t="COLOCALIZE" e1="e343" e2="e335" re="e344">
+     <textspan type="extent">alpha v beta 3 can be detected in focal contacts , colocalizing with vinculin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.87.10"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r122" t="COLOCALIZE" e1="e343" e2="e337" re="e344">
+     <textspan type="extent">alpha v beta 3 can be detected in focal contacts , colocalizing with vinculin , talin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.87.10"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+    <rel id="r123" t="COLOCALIZE" e1="e343" e2="e336" re="e344">
+     <textspan type="extent">alpha v beta 3 can be detected in focal contacts , colocalizing with vinculin , talin , and the ends of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.87.10"/>
+      <exattr n="t1" v="Observation"/>
+      <exattr n="t2" v="Spatial"/>
+      <exattr n="t3" v="COLOCALIZE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

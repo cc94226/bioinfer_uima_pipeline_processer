@@ -1,0 +1,70 @@
+<rexml>
+<doc id="478">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6682" g="w6689" t="s" cr="s+subj:w6689||obj:w6702||s+subj:w6718" w="Expression" l="~" p="N"/>
+     <dpg d="w6683" g="w6682" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6684" g="w6685" t="det" cr="det:w6685" w="the" l="~" p="Det"/>
+     <dpg d="w6685" g="w6683" t="pcomp-n" cr="mod*of*n:w6682" w="A8R" l="~" p="N"/>
+     <dpg d="w6686" g="w6685" t="punc" cr="punc:w6685" w="and" l="~" p="U"/>
+     <dpg d="w6687" g="w6688" t="nn" cr="nn:w6688" w="A23R" l="~" p="N"/>
+     <dpg d="w6688" g="w6685" t="conj" cr="conj:w6685" w="genes" l="gene" p="N"/>
+     <dpg d="w6689" g="E1" t="i" cr="" w="occurred" l="occur" p="V"/>
+     <dpg d="E4" g="w6689" t="subj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E4" g="w6682" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w6690" g="w6689" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w6691" g="w6693" t="lex-mod" cr="lex-mod:w6693" w="1" l="~" p="U"/>
+     <dpg d="w6692" g="w6693" t="lex-mod" cr="lex-mod:w6693" w="and" l="~" p="U"/>
+     <dpg d="w6693" g="w6694" t="nn" cr="nn:w6694" w="5" l="1 and 5" p="N"/>
+     <dpg d="w6694" g="w6690" t="pcomp-n" cr="mod*between*n:w6689" w="h" l="~" p="N"/>
+     <dpg d="w6695" g="w6694" t="mod" cr="" w="after" l="~" p="Prep"/>
+     <dpg d="w6696" g="w6698" t="nn" cr="nn:w6698" w="vaccinia" l="~" p="N"/>
+     <dpg d="w6697" g="w6698" t="nn" cr="nn:w6698" w="virus" l="~" p="N"/>
+     <dpg d="w6698" g="w6695" t="pcomp-n" cr="mod*after*n:w6694" w="infection" l="~" p="N"/>
+     <dpg d="w6699" g="w6689" t="punc" cr="punc:w6689" w="and" l="~" p="U"/>
+     <dpg d="w6700" g="w6702" t="be" cr="be:w6702" w="was" l="be" p="be"/>
+     <dpg d="w6701" g="w6700" t="neg" cr="neg:w6700" w="not" l="~" p="A"/>
+     <dpg d="w6702" g="w6689" t="conj" cr="conj:w6689" w="prevented" l="prevent" p="V"/>
+     <dpg d="E5" g="w6702" t="obj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E5" g="w6682" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w6703" g="w6702" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w6704" g="w6705" t="det" cr="det:w6705" w="an" l="~" p="Det"/>
+     <dpg d="w6705" g="w6703" t="pcomp-n" cr="by-subj*by*n:w6702" w="inhibitor" l="~" p="N"/>
+     <dpg d="w6706" g="w6705" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6707" g="w6708" t="nn" cr="nn:w6708" w="DNA" l="~" p="N"/>
+     <dpg d="w6708" g="w6706" t="pcomp-n" cr="mod*of*n:w6705" w="replication" l="~" p="N"/>
+     <dpg d="w6709" g="w6708" t="punc" cr="punc:w6708" w="," l="~" p="U"/>
+     <dpg d="w6710" g="w6708" t="pnmod" cr="pnmod:w6708" w="consistent" l="~" p="A"/>
+     <dpg d="w6711" g="w6710" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w6712" g="w6713" t="det" cr="det:w6713" w="a" l="~" p="Det"/>
+     <dpg d="w6713" g="w6711" t="pcomp-n" cr="mod*with*n:w6710" w="role" l="~" p="N"/>
+     <dpg d="w6714" g="w6713" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w6715" g="w6714" t="pcomp-n" cr="mod*for*n:w6713" w="VITF-3" l="VITF-3" p="N"/>
+     <dpg d="w6716" g="w6715" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="E0" g="w6716" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w6682" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6717" g="w6718" t="amod" cr="amod:w6718" w="specifically" l="~" p="A"/>
+     <dpg d="w6718" g="E0" t="i" cr="mod*in*c:w6715" w="regulating" l="regulate" p="V"/>
+     <dpg d="E6" g="w6718" t="subj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w6719" g="w6720" t="mod" cr="mod:w6720" w="intermediate" l="~" p="A"/>
+     <dpg d="w6720" g="w6718" t="obj" cr="obj:w6718" w="transcription" l="~" p="N"/>
+     <dpg d="w6721" g="w6722" t="lex-mod" cr="lex-mod:w6722" w="in" l="~" p="U"/>
+     <dpg d="w6722" g="w6718" t="mod" cr="mod:w6718" w="vivo" l="in vivo" p="A"/>
+     <dpg d="w6723" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

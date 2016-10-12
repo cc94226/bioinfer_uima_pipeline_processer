@@ -1,0 +1,39 @@
+<rexml>
+<doc id="961">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w15009" g="E1" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E1" w="Mechanism" l="~" p="N"/>
+     <dpg d="w15010" g="w15009" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15011" g="w15010" t="pcomp-n" cr="mod*of*n:w15009" w="action" l="~" p="N"/>
+     <dpg d="w15012" g="w15011" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15013" g="w15014" t="nn" cr="nn:w15014" w="Acanthamoeba" l="~" p="N"/>
+     <dpg d="w15014" g="w15012" t="pcomp-n" cr="mod*of*n:w15011" w="profilin" l="~" p="N"/>
+     <dpg d="w15015" g="E1" t="punc" cr="punc:E1" w=":" l="~" p="U"/>
+     <dpg d="w15016" g="E1" t="subcat" cr="subcat:E1" w="demonstration" l="~" p="N"/>
+     <dpg d="w15017" g="w15016" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15018" g="w15020" t="nn" cr="nn:w15020" w="actin" l="~" p="N"/>
+     <dpg d="w15019" g="w15020" t="nn" cr="nn:w15020" w="species" l="specie" p="N"/>
+     <dpg d="w15020" g="w15017" t="pcomp-n" cr="mod*of*n:w15016" w="specificity" l="~" p="N"/>
+     <dpg d="w15021" g="w15020" t="punc" cr="punc:w15020" w="and" l="~" p="U"/>
+     <dpg d="w15022" g="w15020" t="conj" cr="conj:w15020" w="regulation" l="~" p="N"/>
+     <dpg d="w15023" g="w15022" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w15024" g="w15025" t="mod" cr="mod:w15025" w="micromolar" l="~" p="A"/>
+     <dpg d="w15025" g="w15023" t="pcomp-n" cr="mod*by*n:w15022" w="concentrations" l="concentration" p="N"/>
+     <dpg d="w15026" g="w15025" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15027" g="w15026" t="pcomp-n" cr="mod*of*n:w15025" w="MgCl2" l="~" p="N"/>
+     <dpg d="w15028" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

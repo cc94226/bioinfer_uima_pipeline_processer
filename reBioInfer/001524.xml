@@ -1,0 +1,99 @@
+<rexml>
+<doc id="1524">
+  <text>
+<p><s id="s1"><w id="w23996">The</w> <w id="w23997">interaction</w> <w id="w23998">of</w> <w id="w23999">a</w> <w id="w24000">mouse</w> <w id="w24001">monoclonal</w> <w id="w24002">antibody</w> <w id="w24003">(</w> <w id="w24004">4A6</w> <w id="w24005">)</w> <w id="w24006">and</w> <w id="w24007">birch</w> <w id="w24008">profilin</w> <w id="w24009">,</w> <w id="w24010">a</w> <w id="w24011">structurally</w> <w id="w24012">well</w> <w id="w24013">conserved</w> <w id="w24014">actin</w><w id="w24015">-</w> <w id="w24016">and</w> <w id="w24017">phosphoinositide-</w><w id="w24018">binding</w> <w id="w24019">protein</w> <w id="w24020">and</w> <w id="w24021">cross-reactive</w> <w id="w24022">allergen</w> <w id="w24023">,</w> <w id="w24024">was</w> <w id="w24025">characterized</w> <w id="w24026">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5570" gid="g5320" t="Individual_protein" fr="w24007" to="w24008" nam="yes">
+     <textspan type="extent">birch profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1524.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5571" gid="g5321" t="RELATIONSHIP_TEXTBINDING" fr="w24018" to="w24018">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1524.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5572" gid="g5322" t="Individual_protein" fr="w24014" to="w24014" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1524.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5573" gid="g5323" t="Individual_protein" fr="w24008" to="w24008" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1524.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5574" gid="g5324" t="Individual_protein" fr="w24004" to="w24004" nam="yes">
+     <textspan type="extent">4A6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1524.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5575" gid="g5325" t="RELATIONSHIP_TEXTBINDING" fr="w23997" to="w23998">
+     <textspan type="extent">interaction of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1524.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2131" t="INTERACT" e1="e5574" e2="e5570" re="e5575">
+     <textspan type="extent">interaction of a mouse monoclonal antibody ( 4A6 ) and birch profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1524.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2132" t="BIND" e1="e5570" e2="e5572" re="e5571">
+     <textspan type="extent">birch profilin , a structurally well conserved actin - and phosphoinositide- binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1524.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

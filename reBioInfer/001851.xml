@@ -1,0 +1,105 @@
+<rexml>
+<doc id="1851">
+  <text>
+<p><s id="s1"><w id="w29686">Three</w> <w id="w29687">components</w> <w id="w29688">of</w> <w id="w29689">Drosophila</w> <w id="w29690">adherens</w> <w id="w29691">junctions</w> <w id="w29692">,</w> <w id="w29693">analogous</w> <w id="w29694">to</w> <w id="w29695">those</w> <w id="w29696">in</w> <w id="w29697">vertebrates</w> <w id="w29698">,</w> <w id="w29699">have</w> <w id="w29700">been</w> <w id="w29701">identified</w> <w id="w29702">:</w> <w id="w29703">Armadillo</w> <w id="w29704">(</w> <w id="w29705">homolog</w> <w id="w29706">of</w> <w id="w29707">beta-catenin</w> <w id="w29708">)</w> <w id="w29709">,</w> <w id="w29710">Drosophila</w> <w id="w29711">E-cadherin</w> <w id="w29712">(</w> <w id="w29713">DE-cadherin</w> <w id="w29714">)</w> <w id="w29715">,</w> <w id="w29716">and</w> <w id="w29717">alpha-catenin</w> <w id="w29718">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6878" gid="g6564" t="RELATIONSHIP_TEXTBINDING" fr="w29705" to="w29706">
+     <textspan type="extent">homolog of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1851.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6879" gid="g6565" t="Individual_protein" fr="w29707" to="w29707" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1851.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6880" gid="g6566" t="Individual_protein" fr="w29713" to="w29713" nam="yes">
+     <textspan type="extent">DE-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1851.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6881" gid="g6566" t="Individual_protein" fr="w29710" to="w29711" nam="yes">
+     <textspan type="extent">Drosophila E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1851.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6882" gid="g6567" t="Gene/protein/RNA" fr="w29717" to="w29717" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1851.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6883" gid="g6568" t="Individual_protein" fr="w29711" to="w29711" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1851.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6884" gid="g6569" t="Individual_protein" fr="w29703" to="w29703" nam="yes">
+     <textspan type="extent">Armadillo</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1851.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2640" t="SIMILAR" e1="e6884" e2="e6879" re="e6878">
+     <textspan type="extent">Armadillo ( homolog of beta-catenin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1851.0"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,109 @@
+<rexml>
+<doc id="1728">
+  <text>
+<p><s id="s1"><w id="w27532">These</w> <w id="w27533">results</w> <w id="w27534">indicate</w> <w id="w27535">that</w> <w id="w27536">the</w> <w id="w27537">assembly</w> <w id="w27538">of</w> <w id="w27539">cytoskeletal</w> <w id="w27540">and</w> <w id="w27541">sarcomeric</w> <w id="w27542">actins</w> <w id="w27543">is</w> <w id="w27544">regulated</w> <w id="w27545">differently</w> <w id="w27546">by</w> <w id="w27547">profilin</w> <w id="w27548">in</w> <w id="w27549">the</w> <w id="w27550">developing</w> <w id="w27551">skeletal</w> <w id="w27552">muscle</w> <w id="w27553">,</w> <w id="w27554">and</w> <w id="w27555">that</w> <w id="w27556">the</w> <w id="w27557">former</w> <w id="w27558">may</w> <w id="w27559">not</w> <w id="w27560">be</w> <w id="w27561">involved</w> <w id="w27562">in</w> <w id="w27563">myofibril</w> <w id="w27564">assembly</w> <w id="w27565">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6343" gid="g6055" t="ASSEMBLY" fr="w27537" to="w27542">
+     <textspan type="extent">assembly of cytoskeletal [..] actins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1728.0"/>
+      <exattr n="nst" v="st.1728.5.0"/>
+      <exattr n="nst" v="st.1728.6.0"/>
+      <exattr n="nst" v="st.1728.7.0"/>
+      <exattr n="nst" v="st.1728.10.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6344" gid="g6056" t="RELATIONSHIP_TEXTBINDING" fr="w27544" to="w27546">
+     <textspan type="extent">regulated [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1728.1"/>
+      <exattr n="nst" v="st.1728.12.0"/>
+      <exattr n="nst" v="st.1728.14.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6345" gid="g6057" t="Individual_protein" fr="w27547" to="w27547" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1728.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6346" gid="g6058" t="Individual_protein" fr="w27539" to="w27542" nam="yes">
+     <textspan type="extent">cytoskeletal [..] actins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1728.3"/>
+      <exattr n="nst" v="st.1728.7.0"/>
+      <exattr n="nst" v="st.1728.10.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6347" gid="g6059" t="ASSEMBLY" fr="w27537" to="w27542">
+     <textspan type="extent">assembly of [..] sarcomeric actins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.1728.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6348" gid="g6060" t="Individual_protein" fr="w27541" to="w27542" nam="yes">
+     <textspan type="extent">sarcomeric actins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1728.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2426" t="CONTROL" e1="e6345" e2="e6343" re="e6344">
+     <textspan type="extent">assembly of cytoskeletal and sarcomeric actins is regulated differently by profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1728.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r2427" t="CONTROL" e1="e6345" e2="e6347" re="e6344">
+     <textspan type="extent">assembly of cytoskeletal and sarcomeric actins is regulated differently by profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1728.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,220 @@
+<rexml>
+<doc id="1075">
+  <text>
+<p><s id="s1"><w id="w17051">Other</w> <w id="w17052">mammalian</w> <w id="w17053">actin-binding</w> <w id="w17054">proteins</w> <w id="w17055">such</w> <w id="w17056">as</w> <w id="w17057">profilin</w> <w id="w17058">and</w> <w id="w17059">CapG</w> <w id="w17060">but</w> <w id="w17061">also</w> <w id="w17062">fragmin</w> <w id="w17063">from</w> <w id="w17064">Physarum</w> <w id="w17065">polycephalum</w> <w id="w17066">are</w> <w id="w17067">similar</w> <w id="w17068">targets</w> <w id="w17069">for</w> <w id="w17070">PIP2-stimulated</w> <w id="w17071">pp60</w><w id="w17072">(</w><w id="w17073">c-src</w><w id="w17074">)</w> <w id="w17075">phosphorylation</w> <w id="w17076">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3900" gid="g3730" t="Protein_family_or_group" fr="w17052" to="w17054" nam="yes">
+     <textspan type="extent">mammalian actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1075.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3901" gid="g3731" t="RELATIONSHIP_TEXTBINDING" fr="w17055" to="w17056">
+     <textspan type="extent">such as</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1075.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3902" gid="g3732" t="Individual_protein" fr="w17059" to="w17065" nam="yes">
+     <textspan type="extent">CapG [..] from Physarum polycephalum</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1075.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3903" gid="g3733" t="Individual_protein" fr="w17057" to="w17065" nam="yes">
+     <textspan type="extent">profilin [..] from Physarum polycephalum</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1075.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3904" gid="g3734" t="Individual_protein" fr="w17071" to="w17071" nam="yes">
+     <textspan type="extent">pp60</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1075.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3905" gid="g3735" t="Individual_protein" fr="w17062" to="w17065" nam="yes">
+     <textspan type="extent">fragmin from Physarum polycephalum</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1075.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3906" gid="g3734" t="Individual_protein" fr="w17073" to="w17073" nam="yes">
+     <textspan type="extent">c-src</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1075.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3907" gid="g3736" t="Protein_family_or_group" fr="w17053" to="w17054" nam="yes">
+     <textspan type="extent">actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1075.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e3908" gid="g3737" t="RELATIONSHIP_TEXTBINDING" fr="w17068" to="w17075">
+     <textspan type="extent">targets for [..] phosphorylation</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1075.8"/>
+      <exattr n="nst" v="st.1075.17.0"/>
+      <exattr n="nst" v="st.1075.18.0"/>
+      <exattr n="nst" v="st.1075.21.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3909" gid="g3738" t="Individual_protein" fr="w17057" to="w17057" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1075.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e3910" gid="g3739" t="Individual_protein" fr="w17059" to="w17059" nam="yes">
+     <textspan type="extent">CapG</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1075.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e3911" gid="g3740" t="Individual_protein" fr="w17062" to="w17062" nam="yes">
+     <textspan type="extent">fragmin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1075.11"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1492" t="MEMBER" e1="e3903" e2="e3900" re="e3901">
+     <textspan type="extent">mammalian actin-binding proteins such as profilin and CapG but also fragmin from Physarum polycephalum</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1075.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1493" t="MEMBER" e1="e3902" e2="e3900" re="e3901">
+     <textspan type="extent">mammalian actin-binding proteins such as profilin and CapG but also fragmin from Physarum polycephalum</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1075.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1494" t="MEMBER" e1="e3905" e2="e3900" re="e3901">
+     <textspan type="extent">mammalian actin-binding proteins such as profilin and CapG but also fragmin from Physarum polycephalum</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1075.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1495" t="PHOSPHORYLATE" e1="e3904" e2="e3903" re="e3908">
+     <textspan type="extent">profilin and CapG but also fragmin from Physarum polycephalum are similar targets for PIP2-stimulated pp60 ( c-src ) phosphorylation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1075.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+     </exattrs>
+    </rel>
+    <rel id="r1496" t="PHOSPHORYLATE" e1="e3904" e2="e3902" re="e3908">
+     <textspan type="extent">CapG but also fragmin from Physarum polycephalum are similar targets for PIP2-stimulated pp60 ( c-src ) phosphorylation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1075.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+     </exattrs>
+    </rel>
+    <rel id="r1497" t="PHOSPHORYLATE" e1="e3904" e2="e3905" re="e3908">
+     <textspan type="extent">fragmin from Physarum polycephalum are similar targets for PIP2-stimulated pp60 ( c-src ) phosphorylation</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1075.8"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

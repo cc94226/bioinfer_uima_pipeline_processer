@@ -1,0 +1,351 @@
+<rexml>
+<doc id="856">
+  <text>
+<p><s id="s1"><w id="w13320">In</w> <w id="w13321">these</w> <w id="w13322">investigations</w> <w id="w13323">,</w> <w id="w13324">we</w> <w id="w13325">determine</w> <w id="w13326">that</w> <w id="w13327">recruitment</w> <w id="w13328">of</w> <w id="w13329">a</w> <w id="w13330">coactivator</w> <w id="w13331">protein</w> <w id="w13332">,</w> <w id="w13333">CBP</w> <w id="w13334">(</w> <w id="w13335">the</w> <w id="w13336">CREBbinding</w> <w id="w13337">protein</w> <w id="w13338">)</w> <w id="w13339">,</w> <w id="w13340">to</w> <w id="w13341">the</w> <w id="w13342">CYBB</w> <w id="w13343">or</w> <w id="w13344">NCF2</w> <w id="w13345">promoter</w> <w id="w13346">is</w> <w id="w13347">the</w> <w id="w13348">molecular</w> <w id="w13349">mechanism</w> <w id="w13350">of</w> <w id="w13351">transcriptional</w> <w id="w13352">activation</w> <w id="w13353">by</w> <w id="w13354">PU.1</w> <w id="w13355">,</w> <w id="w13356">IRF1</w> <w id="w13357">,</w> <w id="w13358">and</w> <w id="w13359">ICSBP</w> <w id="w13360">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3057" gid="g2933" t="RELATIONSHIP_TEXTBINDING" fr="w13327" to="w13340">
+     <textspan type="extent">recruitment of [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.856.0"/>
+      <exattr n="nst" v="st.856.7.0"/>
+      <exattr n="nst" v="st.856.8.0"/>
+      <exattr n="nst" v="st.856.20.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3058" gid="g2934" t="Individual_protein" fr="w13333" to="w13333" nam="yes">
+     <textspan type="extent">CBP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.856.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3059" gid="g2935" t="Domain_or_region_of_DNA" fr="w13344" to="w13345" nam="yes">
+     <textspan type="extent">NCF2 promoter</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="bd" v="e.856.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3060" gid="g2936" t="Domain_or_region_of_DNA" fr="w13342" to="w13345" nam="yes">
+     <textspan type="extent">CYBB [..] promoter</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="bd" v="e.856.3"/>
+      <exattr n="nst" v="st.856.22.0"/>
+      <exattr n="nst" v="st.856.25.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3061" gid="g2937" t="Individual_protein" fr="w13356" to="w13356" nam="yes">
+     <textspan type="extent">IRF1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.856.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3062" gid="g2938" t="Individual_protein" fr="w13354" to="w13354" nam="yes">
+     <textspan type="extent">PU.1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.856.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3063" gid="g2934" t="Individual_protein" fr="w13336" to="w13337" nam="yes">
+     <textspan type="extent">CREBbinding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.856.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3064" gid="g2939" t="Individual_protein" fr="w13359" to="w13359" nam="yes">
+     <textspan type="extent">ICSBP</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.856.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e3065" gid="g2940" t="UPREGULATION" fr="w13352" to="w13352">
+     <textspan type="extent">activation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="UPREGULATION"/>
+      <exattr n="bd" v="e.856.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e3066" gid="g2941" t="UPREGULATION" fr="w13352" to="w13352">
+     <textspan type="extent">activation</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="UPREGULATION"/>
+      <exattr n="bd" v="e.856.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e3067" gid="g2942" t="Gene" fr="w13344" to="w13344" nam="yes">
+     <textspan type="extent">NCF2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.856.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e3068" gid="g2943" t="Gene" fr="w13342" to="w13342" nam="yes">
+     <textspan type="extent">CYBB</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.856.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e3069" gid="g2944" t="RELATIONSHIP_TEXTBINDING" fr="w13349" to="w13353">
+     <textspan type="extent">mechanism of [..] by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.856.12"/>
+      <exattr n="nst" v="st.856.29.0"/>
+      <exattr n="nst" v="st.856.30.0"/>
+      <exattr n="nst" v="st.856.33.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3070" gid="g2945" t="RELATIONSHIP_TEXTBINDING" fr="w13349" to="w13350">
+     <textspan type="extent">mechanism of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.856.13"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1174" t="REL-ENT" e1="e3066" e2="e3068" re="">
+     <textspan type="extent">CYBB or NCF2 promoter is the molecular mechanism of transcriptional activation</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="REL-ENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1175" t="REL-ENT" e1="e3065" e2="e3067" re="">
+     <textspan type="extent">NCF2 promoter is the molecular mechanism of transcriptional activation</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="REL-ENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1176" t="CAUSE" e1="e3069" e2="e3066" re="e3070">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter is the molecular mechanism of transcriptional activation by PU.1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.13"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1177" t="CAUSE" e1="e3062" e2="e3057" re="e3069">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter is the molecular mechanism of transcriptional activation by PU.1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1178" t="LOCALIZE-TO" e1="e3058" e2="e3060" re="e3057">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+    <rel id="r1179" t="CAUSE" e1="e3069" e2="e3065" re="e3070">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter is the molecular mechanism of transcriptional activation by PU.1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.13"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1180" t="CAUSE" e1="e3062" e2="e3057" re="e3069">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter is the molecular mechanism of transcriptional activation by PU.1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1181" t="LOCALIZE-TO" e1="e3058" e2="e3059" re="e3057">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+    <rel id="r1182" t="CAUSE" e1="e3069" e2="e3066" re="e3070">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter is the molecular mechanism of transcriptional activation by PU.1 , IRF1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.13"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1183" t="CAUSE" e1="e3061" e2="e3057" re="e3069">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter is the molecular mechanism of transcriptional activation by PU.1 , IRF1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1184" t="LOCALIZE-TO" e1="e3058" e2="e3060" re="e3057">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+    <rel id="r1185" t="CAUSE" e1="e3069" e2="e3065" re="e3070">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter is the molecular mechanism of transcriptional activation by PU.1 , IRF1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.13"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1186" t="CAUSE" e1="e3061" e2="e3057" re="e3069">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter is the molecular mechanism of transcriptional activation by PU.1 , IRF1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1187" t="LOCALIZE-TO" e1="e3058" e2="e3059" re="e3057">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+    <rel id="r1188" t="CAUSE" e1="e3069" e2="e3066" re="e3070">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter is the molecular mechanism of transcriptional activation by PU.1 , IRF1 , and ICSBP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.13"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1189" t="CAUSE" e1="e3064" e2="e3057" re="e3069">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter is the molecular mechanism of transcriptional activation by PU.1 , IRF1 , and ICSBP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1190" t="LOCALIZE-TO" e1="e3058" e2="e3060" re="e3057">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+    <rel id="r1191" t="CAUSE" e1="e3069" e2="e3065" re="e3070">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter is the molecular mechanism of transcriptional activation by PU.1 , IRF1 , and ICSBP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.13"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1192" t="CAUSE" e1="e3064" e2="e3057" re="e3069">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter is the molecular mechanism of transcriptional activation by PU.1 , IRF1 , and ICSBP</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.12"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1193" t="LOCALIZE-TO" e1="e3058" e2="e3059" re="e3057">
+     <textspan type="extent">recruitment of a coactivator protein , CBP ( the CREBbinding protein ) , to the CYBB or NCF2 promoter</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.856.0"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE-TO"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

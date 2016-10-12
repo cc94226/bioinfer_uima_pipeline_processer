@@ -1,0 +1,174 @@
+<rexml>
+<doc id="1286">
+  
+  <markup>
+   <nes>
+    <ne id="e4657" gid="g4454" t="Individual_protein" fr="w20231" to="w20234" nam="yes" sid="s1">
+     <textspan>myosin heavy chain isoforms</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1286.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4659" gid="g4456" t="Individual_protein" fr="w20231" to="w20233" nam="yes" sid="s1">
+     <textspan>myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1286.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e4652" gid="g4449" t="Individual_protein" fr="w20236" to="w20236" nam="yes" sid="s1">
+     <textspan>SM1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1286.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4655" gid="g4452" t="Individual_protein" fr="w20238" to="w20238" nam="yes" sid="s1">
+     <textspan>SM2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1286.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4658" gid="g4455" t="Individual_protein" fr="w20240" to="w20240" nam="yes" sid="s1">
+     <textspan>SMemb</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1286.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4654" gid="g4451" t="Gene/protein/RNA" fr="w20243" to="w20243" nam="yes" sid="s1">
+     <textspan>caldesmon</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1286.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4653" gid="g4450" t="Gene/protein/RNA" fr="w20246" to="w20248" nam="yes" sid="s1">
+     <textspan>alpha-smooth muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1286.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4656" gid="g4453" t="Gene/protein/RNA" fr="w20252" to="w20252" nam="yes" sid="s1">
+     <textspan>SMemb</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1286.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1769" t="COOF-MEMBER" e1="e4652" e2="e4655" re="">
+     <textspan>myosin heavy chain isoforms ( SM1 , SM2</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1769" t="COOF-MEMBER" e1="e4652" e2="e4658" re="">
+     <textspan>myosin heavy chain isoforms ( SM1 , SM2 , SMemb</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1769" t="COOF-MEMBER" e1="e4655" e2="e4658" re="">
+     <textspan>myosin heavy chain isoforms ( SM1 , SM2 , SMemb</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1769" t="MEMBER" e1="e4657" e2="e4652" re="">
+     <textspan>myosin heavy chain isoforms ( SM1</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1770" t="MEMBER" e1="e4657" e2="e4655" re="">
+     <textspan>myosin heavy chain isoforms ( SM1 , SM2</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1771" t="MEMBER" e1="e4657" e2="e4658" re="">
+     <textspan>myosin heavy chain isoforms ( SM1 , SM2 , SMemb</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

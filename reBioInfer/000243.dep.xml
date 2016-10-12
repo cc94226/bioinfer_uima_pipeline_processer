@@ -1,0 +1,65 @@
+<rexml>
+<doc id="243">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3710" g="w3711" t="lex-mod" cr="lex-mod:w3711" w="Neuropilin" l="~" p="U"/>
+     <dpg d="w3711" g="w3713" t="nn" cr="nn:w3713" w="1" l="Neuropilin 1" p="N"/>
+     <dpg d="w3712" g="w3713" t="punc" cr="punc:w3713" w="(" l="~" p="U"/>
+     <dpg d="w3713" g="w3715" t="s" cr="s:w3715||subj:w3717" w="NP-1" l="NP-1" p="N"/>
+     <dpg d="w3714" g="w3715" t="punc" cr="punc:w3715" w=")" l="~" p="U"/>
+     <dpg d="w3715" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="is" l="be" p="VBE"/>
+     <dpg d="E4" g="w3717" t="subj" cr="" w="" l="NP-1" p="N"/>
+     <dpg d="E4" g="w3713" t="antecedent" cr="" w="" l="NP-1" p="N"/>
+     <dpg d="w3716" g="w3717" t="det" cr="det:w3717" w="a" l="~" p="Det"/>
+     <dpg d="w3717" g="w3715" t="pred" cr="pred:w3715" w="receptor" l="~" p="N"/>
+     <dpg d="w3718" g="w3717" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w3719" g="w3722" t="lex-mod" cr="lex-mod:w3722" w="vascular" l="~" p="U"/>
+     <dpg d="w3720" g="w3722" t="lex-mod" cr="lex-mod:w3722" w="endothelial" l="~" p="U"/>
+     <dpg d="w3721" g="w3722" t="lex-mod" cr="lex-mod:w3722" w="growth" l="~" p="U"/>
+     <dpg d="w3722" g="w3718" t="pcomp-n" cr="mod*for*n:w3717" w="factor" l="vascular endothelial growth factor" p="N"/>
+     <dpg d="w3723" g="w3724" t="punc" cr="punc:w3724" w="(" l="~" p="U"/>
+     <dpg d="w3724" g="w3722" t="abbrev" cr="abbrev:w3722" w="VEGF" l="~" p="N"/>
+     <dpg d="w3725" g="w3724" t="punc" cr="punc:w3724" w=")" l="~" p="U"/>
+     <dpg d="w3726" g="w3722" t="num" cr="num:w3722" w="165" l="~" p="N"/>
+     <dpg d="w3727" g="E3" t="punc" cr="punc:E3" w="(" l="~" p="U"/>
+     <dpg d="w3728" g="E3" t="punc" cr="punc:E3" w="VEGF165" l="~" p="U"/>
+     <dpg d="w3729" g="E3" t="punc" cr="punc:E3" w=")" l="~" p="U"/>
+     <dpg d="w3730" g="E3" t="punc" cr="punc:E3" w="and" l="~" p="U"/>
+     <dpg d="w3731" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="acts" l="act" p="N"/>
+     <dpg d="w3732" g="w3731" t="mod" cr="" w="as" l="~" p="Prep"/>
+     <dpg d="w3733" g="w3734" t="det" cr="det:w3734" w="a" l="~" p="Det"/>
+     <dpg d="w3734" g="w3732" t="pcomp-n" cr="mod*as*n:w3731||subj:w3736" w="coreceptor" l="~" p="N"/>
+     <dpg d="E1" g="w3734" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3735" g="E1" t="whn" cr="whn:w3736" w="that" l="~" p="THAT"/>
+     <dpg d="w3735" g="w3734" t="antecedent" cr="antecedent:w3734" w="that" l="~" p="THAT"/>
+     <dpg d="w3736" g="E1" t="i" cr="rel:w3734" w="enhances" l="enhance" p="V"/>
+     <dpg d="E5" g="w3736" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E5" g="w3734" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w3737" g="w3738" t="nn" cr="nn:w3738" w="VEGF165" l="~" p="N"/>
+     <dpg d="w3738" g="w3736" t="obj" cr="obj:w3736" w="function" l="~" p="N"/>
+     <dpg d="w3739" g="w3738" t="mod" cr="" w="through" l="~" p="Prep"/>
+     <dpg d="w3740" g="w3743" t="nn" cr="nn:w3743" w="tyrosine" l="~" p="N"/>
+     <dpg d="w3741" g="w3742" t="lex-mod" cr="lex-mod:w3742" w="kinase" l="~" p="U"/>
+     <dpg d="w3742" g="w3743" t="nn" cr="nn:w3743" w="VEGF" l="kinase VEGF" p="N"/>
+     <dpg d="w3743" g="w3739" t="pcomp-n" cr="mod*through*n:w3738" w="receptor" l="~" p="N"/>
+     <dpg d="w3744" g="w3743" t="num" cr="num:w3743" w="2" l="~" p="N"/>
+     <dpg d="w3745" g="w3743" t="punc" cr="punc:w3743" w="(" l="~" p="U"/>
+     <dpg d="w3746" g="w3743" t="appo" cr="appo:w3743" w="VEGFR-2" l="VEGFR-2" p="N"/>
+     <dpg d="w3747" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w3748" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

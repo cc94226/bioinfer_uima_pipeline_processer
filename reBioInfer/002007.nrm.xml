@@ -1,0 +1,129 @@
+<rexml>
+<doc id="2007">
+  
+  <markup>
+   <nes>
+    <ne id="e7322" gid="g6984" t="Individual_protein" fr="w32071" to="w32071" nam="yes" sid="s1">
+     <textspan>Villin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2007.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7325" gid="g6987" t="Individual_protein" fr="w32073" to="w32073" nam="yes" sid="s1">
+     <textspan>fimbrin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2007.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7324" gid="g6986" t="Protein_family_or_group" fr="w32076" to="w32077" nam="yes" sid="s1">
+     <textspan>actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.2007.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7326" gid="g6988" t="Cell_component" fr="w32080" to="w32081" nam="yes" sid="s1">
+     <textspan>actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.2007.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7328" gid="g6990" t="Individual_protein" fr="w32080" to="w32080" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2007.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2804" t="COOF-MEMBER" e1="e7322" e2="e7325" re="e7323">
+     <textspan>fimbrin are two actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2007.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="COOF-MEMBER"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2804" t="MEMBER" e1="e7324" e2="e7322" re="e7323">
+     <textspan>Villin and fimbrin are two actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2007.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2805" t="MEMBER" e1="e7324" e2="e7325" re="e7323">
+     <textspan>fimbrin are two actin-binding proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2007.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2806" t="LOCALIZE" e1="e7322" e2="e7326" re="e7327">
+     <textspan>Villin and fimbrin are two actin-binding proteins that bundle actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2007.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2807" t="LOCALIZE" e1="e7325" e2="e7326" re="e7327">
+     <textspan>fimbrin are two actin-binding proteins that bundle actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2007.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Location"/>
+      <exattr n="t4" v="LOCALIZE"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

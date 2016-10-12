@@ -1,0 +1,45 @@
+<rexml>
+<doc id="2162">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w33599" g="w33600" t="s" cr="s+subj:w33600" w="We" l="~" p="N"/>
+     <dpg d="w33600" g="E3" t="i" cr="" w="speculate" l="~" p="V"/>
+     <dpg d="E5" g="w33600" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E5" g="w33599" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="E2" g="w33600" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="E1" g="w33605" t="s" cr="s+subj:w33605" w="" l="fin" p="CN"/>
+     <dpg d="E0" g="E1" t="cn" cr="" w="" l="fin" p="C"/>
+     <dpg d="w33601" g="E0" t="c" cr="c:w33604" w="that" l="~" p="COMP"/>
+     <dpg d="w33602" g="w33604" t="s" cr="s+subj:w33604" w="fimbrin" l="~" p="N"/>
+     <dpg d="w33603" g="w33604" t="aux" cr="aux:w33604" w="may" l="~" p="Aux"/>
+     <dpg d="w33604" g="E0" t="i" cr="cn:E1" w="help" l="~" p="V"/>
+     <dpg d="E6" g="w33604" t="subj" cr="" w="" l="fimbrin" p="N"/>
+     <dpg d="E6" g="w33602" t="antecedent" cr="" w="" l="fimbrin" p="N"/>
+     <dpg d="w33605" g="E2" t="i" cr="fc:w33600" w="maintain" l="~" p="V"/>
+     <dpg d="E7" g="w33605" t="subj" cr="" w="" l="fin" p="CN"/>
+     <dpg d="E7" g="E1" t="antecedent" cr="" w="" l="fin" p="CN"/>
+     <dpg d="w33606" g="w33608" t="det" cr="det:w33608" w="the" l="~" p="Det"/>
+     <dpg d="w33607" g="w33608" t="mod" cr="mod:w33608" w="parallel" l="~" p="A"/>
+     <dpg d="w33608" g="w33605" t="obj" cr="obj:w33605" w="growth" l="~" p="N"/>
+     <dpg d="w33609" g="w33608" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33610" g="w33611" t="nn" cr="nn:w33611" w="actin" l="~" p="N"/>
+     <dpg d="w33611" g="w33609" t="pcomp-n" cr="mod*of*n:w33608" w="filaments" l="filament" p="N"/>
+     <dpg d="w33612" g="w33611" t="mod" cr="" w="within" l="~" p="Prep"/>
+     <dpg d="w33613" g="w33614" t="det" cr="det:w33614" w="the" l="~" p="Det"/>
+     <dpg d="w33614" g="w33612" t="pcomp-n" cr="mod*within*n:w33611" w="stereocilia" l="~" p="N"/>
+     <dpg d="w33615" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

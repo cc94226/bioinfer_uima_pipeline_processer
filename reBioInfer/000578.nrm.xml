@@ -1,0 +1,63 @@
+<rexml>
+<doc id="578">
+  
+  <markup>
+   <nes>
+    <ne id="e1956" gid="g1873" t="Mutant" fr="w8351" to="w8354" nam="yes" sid="s1">
+     <textspan>profilin mutant [..] H119E</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.578.0"/>
+      <exattr n="nst" v="st.578.5.0"/>
+      <exattr n="nst" v="st.578.6.0"/>
+      <exattr n="nst" v="st.578.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1959" gid="g1876" t="Individual_protein" fr="w8351" to="w8354" nam="yes" sid="s1">
+     <textspan>profilin [..] H119E</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.578.3"/>
+      <exattr n="nst" v="st.578.5.0"/>
+      <exattr n="nst" v="st.578.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1958" gid="g1875" t="Individual_protein" fr="w8358" to="w8358" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.578.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r768" t="BIND" e1="e1956" e2="e1958" re="e1957">
+     <textspan>profilin mutant ( H119E ) defective in actin binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.578.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,52 @@
+<rexml>
+<doc id="138">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2257" g="w2260" t="det" cr="det:w2260" w="Another" l="~" p="Det"/>
+     <dpg d="w2258" g="w2260" t="mod" cr="mod:w2260" w="cyclin-dependent" l="cyclin-dependent" p="A"/>
+     <dpg d="w2259" g="w2260" t="nn" cr="nn:w2260" w="kinase" l="~" p="N"/>
+     <dpg d="w2260" g="w2267" t="s" cr="s+subj:w2267" w="inhibitor" l="~" p="N"/>
+     <dpg d="w2261" g="w2260" t="punc" cr="punc:w2260" w="," l="~" p="U"/>
+     <dpg d="w2262" g="w2260" t="conj" cr="conj:w2260" w="p27KIP1" l="~" p="N"/>
+     <dpg d="w2263" g="w2262" t="punc" cr="punc:w2262" w="," l="~" p="U"/>
+     <dpg d="w2264" g="w2262" t="punc" cr="punc:w2262" w="and" l="~" p="U"/>
+     <dpg d="w2265" g="w2266" t="nn" cr="nn:w2266" w="cyclin" l="~" p="N"/>
+     <dpg d="w2266" g="w2262" t="conj" cr="conj:w2262" w="D" l="~" p="N"/>
+     <dpg d="w2267" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="increased" l="increase" p="V"/>
+     <dpg d="E6" g="w2267" t="subj" cr="" w="" l="inhibitor" p="N"/>
+     <dpg d="E6" g="w2260" t="antecedent" cr="" w="" l="inhibitor" p="N"/>
+     <dpg d="w2268" g="w2267" t="mod" cr="mod:w2267" w="slightly" l="~" p="A"/>
+     <dpg d="w2269" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="w2270" g="E5" t="punc" cr="punc:E5" w="whereas" l="~" p="U"/>
+     <dpg d="E1" g="E5" t="UNSPECRELTYPE" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="s+subj:w2271" w="" l="~" p="N"/>
+     <dpg d="w2271" g="E1" t="i" cr="UNSPECRELTYPE:E5" w="proliferating" l="proliferate" p="V"/>
+     <dpg d="E7" g="w2271" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="E0" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w2272" g="w2274" t="nn" cr="nn:w2274" w="cell" l="~" p="N"/>
+     <dpg d="w2273" g="w2274" t="mod" cr="mod:w2274" w="nuclear" l="~" p="A"/>
+     <dpg d="w2274" g="w2277" t="s" cr="s+subj:w2277" w="antigen" l="~" p="N"/>
+     <dpg d="w2275" g="w2274" t="punc" cr="punc:w2274" w="and" l="~" p="U"/>
+     <dpg d="w2276" g="w2274" t="conj" cr="conj:w2274" w="p130" l="~" p="N"/>
+     <dpg d="w2277" g="E0" t="i" cr="UNSPECRELTYPE:E5" w="remained" l="remain" p="V"/>
+     <dpg d="E8" g="w2277" t="subj" cr="" w="" l="antigen" p="N"/>
+     <dpg d="E8" g="w2274" t="antecedent" cr="" w="" l="antigen" p="N"/>
+     <dpg d="w2278" g="w2277" t="desc" cr="desc:w2277" w="unchanged" l="~" p="A"/>
+     <dpg d="w2279" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

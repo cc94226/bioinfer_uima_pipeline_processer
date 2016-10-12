@@ -1,0 +1,46 @@
+<rexml>
+<doc id="575">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8300" g="E1" t="mod" cr="mod:w8304" w="Here" l="~" p="N"/>
+     <dpg d="w8301" g="w8304" t="s" cr="s+subj:w8304" w="we" l="~" p="N"/>
+     <dpg d="w8302" g="w8304" t="have" cr="have:w8304" w="have" l="~" p="have"/>
+     <dpg d="w8303" g="w8304" t="guest" cr="guest:w8304" w="now" l="~" p="N"/>
+     <dpg d="w8304" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="identified" l="identify" p="V"/>
+     <dpg d="E4" g="w8304" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E4" g="w8301" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w8305" g="w8309" t="det" cr="det:w8309" w="the" l="~" p="Det"/>
+     <dpg d="w8306" g="w8309" t="mod" cr="mod:w8309" w="reciprocal" l="~" p="A"/>
+     <dpg d="w8307" g="w8309" t="mod" cr="mod:w8309" w="complementary" l="~" p="A"/>
+     <dpg d="w8308" g="w8309" t="mod" cr="mod:w8309" w="binding" l="~" p="A"/>
+     <dpg d="w8309" g="w8304" t="obj" cr="obj:w8304" w="site" l="~" p="N"/>
+     <dpg d="w8310" g="E3" t="punc" cr="punc:E3" w="in" l="~" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8311" g="w8312" t="mod" cr="mod:w8312" w="alpha-catenin" l="alpha-catenin" p="A"/>
+     <dpg d="w8312" g="E0" t="whn" cr="whn+subj:w8313" w="which" l="~" p="N"/>
+     <dpg d="w8313" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="mediates" l="mediate" p="V"/>
+     <dpg d="E5" g="w8313" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E5" g="w8312" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w8314" g="w8315" t="gen" cr="gen:w8315" w="its" l="~" p="N"/>
+     <dpg d="w8315" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="interaction" l="~" p="N"/>
+     <dpg d="w8316" g="w8315" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w8317" g="w8316" t="pcomp-n" cr="mod*with*n:w8315" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w8318" g="w8317" t="punc" cr="punc:w8317" w="and" l="~" p="U"/>
+     <dpg d="w8319" g="w8317" t="conj" cr="conj:w8317" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w8320" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

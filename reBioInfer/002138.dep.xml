@@ -1,0 +1,44 @@
+<rexml>
+<doc id="2138">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w33359" g="w33360" t="s" cr="s+subj:w33360" w="We" l="~" p="N"/>
+     <dpg d="w33360" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="propose" l="~" p="V"/>
+     <dpg d="E3" g="w33360" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E3" g="w33359" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w33361" g="w33362" t="det" cr="det:w33362" w="a" l="~" p="Det"/>
+     <dpg d="w33362" g="w33360" t="obj" cr="obj:w33360" w="model" l="~" p="N"/>
+     <dpg d="w33363" g="w33360" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w33364" g="w33365" t="det" cr="det:w33365" w="which" l="~" p="Det"/>
+     <dpg d="w33365" g="w33363" t="pcomp-n" cr="mod*in*n:w33360" w="profilin" l="~" p="N"/>
+     <dpg d="w33366" g="E2" t="punc" cr="punc:E2" w="alters" l="~" p="U"/>
+     <dpg d="w33367" g="w33368" t="mod" cr="mod:w33368" w="cellular" l="~" p="A"/>
+     <dpg d="w33368" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="concentrations" l="concentration" p="N"/>
+     <dpg d="w33369" g="w33368" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33370" g="w33371" t="nn" cr="nn:w33371" w="actin" l="~" p="N"/>
+     <dpg d="w33371" g="w33369" t="pcomp-n" cr="mod*of*n:w33368" w="polymers" l="polymer" p="N"/>
+     <dpg d="w33372" g="w33371" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w33373" g="w33372" t="pcomp-n" cr="mod*in*n:w33371" w="response" l="~" p="N"/>
+     <dpg d="w33374" g="w33373" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w33375" g="w33374" t="pcomp-n" cr="mod*to*n:w33373" w="fluctuations" l="fluctuation" p="N"/>
+     <dpg d="w33376" g="w33375" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w33377" g="w33379" t="mod" cr="mod:w33379" w="cytosolic" l="~" p="A"/>
+     <dpg d="w33378" g="w33379" t="nn" cr="nn:w33379" w="calcium" l="~" p="N"/>
+     <dpg d="w33379" g="w33376" t="pcomp-n" cr="mod*in*n:w33375" w="concentration" l="~" p="N"/>
+     <dpg d="w33380" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

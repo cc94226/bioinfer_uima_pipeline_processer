@@ -1,0 +1,261 @@
+<rexml>
+<doc id="1052">
+  <text>
+<p><s id="s1"><w id="w16519">OBJECTIVE</w> <w id="w16520">:</w> <w id="w16521">To</w> <w id="w16522">determine</w> <w id="w16523">whether</w> <w id="w16524">other</w> <w id="w16525">glycoprotein</w> <w id="w16526">130</w> <w id="w16527">(</w> <w id="w16528">gp130</w> <w id="w16529">)</w> <w id="w16530">binding</w> <w id="w16531">cytokines</w> <w id="w16532">can</w> <w id="w16533">mimic</w> <w id="w16534">the</w> <w id="w16535">effects</w> <w id="w16536">of</w> <w id="w16537">oncostatin</w> <w id="w16538">M</w> <w id="w16539">(</w> <w id="w16540">OSM</w> <w id="w16541">)</w> <w id="w16542">in</w> <w id="w16543">acting</w> <w id="w16544">synergistically</w> <w id="w16545">with</w> <w id="w16546">interleukin-1alpha</w> <w id="w16547">(</w> <w id="w16548">IL-1alpha</w> <w id="w16549">)</w> <w id="w16550">to</w> <w id="w16551">induce</w> <w id="w16552">cartilage</w> <w id="w16553">collagen</w> <w id="w16554">breakdown</w> <w id="w16555">and</w> <w id="w16556">collagenase</w> <w id="w16557">expression</w> <w id="w16558">,</w> <w id="w16559">and</w> <w id="w16560">to</w> <w id="w16561">determine</w> <w id="w16562">which</w> <w id="w16563">receptors</w> <w id="w16564">mediate</w> <w id="w16565">these</w> <w id="w16566">effects</w> <w id="w16567">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3766" gid="g3608" t="Individual_protein" fr="w16525" to="w16526" nam="yes">
+     <textspan type="extent">glycoprotein 130</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1052.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3767" gid="g3609" t="RELATIONSHIP_TEXTBINDING" fr="w16530" to="w16530">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1052.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3768" gid="g3610" t="DISASSEMBLY" fr="w16553" to="w16554">
+     <textspan type="extent">collagen breakdown</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Break-down"/>
+      <exattr n="t4" v="DISASSEMBLY"/>
+      <exattr n="bd" v="e.1052.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3769" gid="g3611" t="RELATIONSHIP_TEXTBINDING" fr="w16533" to="w16545">
+     <textspan type="extent">mimic [..] in acting [..] with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1052.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3770" gid="g3608" t="Individual_protein" fr="w16528" to="w16528" nam="yes">
+     <textspan type="extent">gp130</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1052.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3771" gid="g3612" t="Expression" fr="w16556" to="w16557">
+     <textspan type="extent">collagenase expression</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.1052.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3772" gid="g3613" t="Individual_protein" fr="w16540" to="w16540" nam="yes">
+     <textspan type="extent">OSM</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1052.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3773" gid="g3614" t="Protein_family_or_group" fr="w16531" to="w16531" nam="yes">
+     <textspan type="extent">cytokines</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1052.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e3774" gid="g3615" t="Individual_protein" fr="w16548" to="w16548" nam="yes">
+     <textspan type="extent">IL-1alpha</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1052.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e3775" gid="g3615" t="Individual_protein" fr="w16546" to="w16546" nam="yes">
+     <textspan type="extent">interleukin-1alpha</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1052.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e3776" gid="g3616" t="RELATIONSHIP_TEXTBINDING" fr="w16551" to="w16551">
+     <textspan type="extent">induce</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1052.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e3777" gid="g3613" t="Individual_protein" fr="w16537" to="w16538" nam="yes">
+     <textspan type="extent">oncostatin M</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1052.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e3778" gid="g3617" t="Individual_protein" fr="w16553" to="w16553" nam="yes">
+     <textspan type="extent">collagen</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1052.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e3779" gid="g3618" t="Individual_protein" fr="w16556" to="w16556" nam="yes">
+     <textspan type="extent">collagenase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1052.13"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1430" t="BIND" e1="e3773" e2="e3766" re="e3767">
+     <textspan type="extent">glycoprotein 130 ( gp130 ) binding cytokines</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1052.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r1431" t="INITIATE" e1="e3769" e2="e3768" re="e3776">
+     <textspan type="extent">cytokines can mimic the effects of oncostatin M ( OSM ) in acting synergistically with interleukin-1alpha ( IL-1alpha ) to induce cartilage collagen breakdown</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1052.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1432" t="INTERACT" e1="e3773" e2="e3775" re="e3769">
+     <textspan type="extent">cytokines can mimic the effects of oncostatin M ( OSM ) in acting synergistically with interleukin-1alpha</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1052.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1433" t="INITIATE" e1="e3769" e2="e3768" re="e3776">
+     <textspan type="extent">mimic the effects of oncostatin M ( OSM ) in acting synergistically with interleukin-1alpha ( IL-1alpha ) to induce cartilage collagen breakdown</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1052.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1434" t="INTERACT" e1="e3777" e2="e3775" re="e3769">
+     <textspan type="extent">mimic the effects of oncostatin M ( OSM ) in acting synergistically with interleukin-1alpha</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1052.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1435" t="INITIATE" e1="e3769" e2="e3771" re="e3776">
+     <textspan type="extent">cytokines can mimic the effects of oncostatin M ( OSM ) in acting synergistically with interleukin-1alpha ( IL-1alpha ) to induce cartilage collagen breakdown and collagenase expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1052.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1436" t="INTERACT" e1="e3773" e2="e3775" re="e3769">
+     <textspan type="extent">cytokines can mimic the effects of oncostatin M ( OSM ) in acting synergistically with interleukin-1alpha</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1052.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1437" t="INITIATE" e1="e3769" e2="e3771" re="e3776">
+     <textspan type="extent">mimic the effects of oncostatin M ( OSM ) in acting synergistically with interleukin-1alpha ( IL-1alpha ) to induce cartilage collagen breakdown and collagenase expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1052.10"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1438" t="INTERACT" e1="e3777" e2="e3775" re="e3769">
+     <textspan type="extent">mimic the effects of oncostatin M ( OSM ) in acting synergistically with interleukin-1alpha</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1052.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

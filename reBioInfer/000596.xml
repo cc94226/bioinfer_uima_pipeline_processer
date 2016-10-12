@@ -1,0 +1,81 @@
+<rexml>
+<doc id="596">
+  <text>
+<p><s id="s1"><w id="w8620">Here</w> <w id="w8621">we</w> <w id="w8622">show</w> <w id="w8623">that</w> <w id="w8624">the</w> <w id="w8625">ubiquitin</w><w id="w8626">-dependent</w> <w id="w8627">proteolysis</w> <w id="w8628">system</w> <w id="w8629">is</w> <w id="w8630">involved</w> <w id="w8631">in</w> <w id="w8632">the</w> <w id="w8633">regulation</w> <w id="w8634">of</w> <w id="w8635">beta-catenin</w> <w id="w8636">turnover</w> <w id="w8637">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2041" gid="g1956" t="Process_entity" fr="w8625" to="w8628">
+     <textspan type="extent">ubiquitin-dependent [..] system</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.596.0"/>
+      <exattr n="nst" v="st.596.5.0"/>
+      <exattr n="nst" v="st.596.5.1"/>
+      <exattr n="nst" v="st.596.7.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2042" gid="g1957" t="Process_entity" fr="w8635" to="w8636">
+     <textspan type="extent">beta-catenin turnover</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.596.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2043" gid="g1958" t="CONTROL" fr="w8633" to="w8636">
+     <textspan type="extent">regulation of beta-catenin turnover</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Unspecified"/>
+      <exattr n="t4" v="CONTROL"/>
+      <exattr n="bd" v="e.596.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2044" gid="g1959" t="Individual_protein" fr="w8625" to="w8625" nam="yes">
+     <textspan type="extent">ubiquitin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.596.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2045" gid="g1960" t="RELATIONSHIP_TEXTBINDING" fr="w8630" to="w8631">
+     <textspan type="extent">involved in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.596.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2046" gid="g1961" t="Individual_protein" fr="w8635" to="w8635" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.596.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r811" t="PARTICIPATE" e1="e2041" e2="e2043" re="e2045">
+     <textspan type="extent">ubiquitin -dependent proteolysis system is involved in the regulation of beta-catenin turnover</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.596.4"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,46 @@
+<rexml>
+<doc id="1406">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21986" g="w21994" t="det" cr="det:w21994" w="The" l="~" p="Det"/>
+     <dpg d="w21987" g="w21990" t="lex-mod" cr="lex-mod:w21990" w="verprolin" l="~" p="U"/>
+     <dpg d="w21988" g="w21990" t="lex-mod" cr="lex-mod:w21990" w="-" l="~" p="U"/>
+     <dpg d="w21989" g="w21990" t="lex-mod" cr="lex-mod:w21990" w="like" l="~" p="U"/>
+     <dpg d="w21990" g="w21994" t="nn" cr="nn:w21994" w="central" l="verprolin - like central" p="N"/>
+     <dpg d="w21991" g="w21992" t="punc" cr="punc:w21992" w="(" l="~" p="U"/>
+     <dpg d="w21992" g="w21990" t="abbrev" cr="abbrev:w21990" w="vc" l="~" p="N"/>
+     <dpg d="w21993" g="w21992" t="punc" cr="punc:w21992" w=")" l="~" p="U"/>
+     <dpg d="w21994" g="w21999" t="s" cr="s+subj:w21999" w="region" l="~" p="N"/>
+     <dpg d="w21995" g="w21994" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21996" g="w21998" t="nn" cr="nn:w21998" w="Wiskott-Aldrich" l="Wiskott-Aldrich" p="N"/>
+     <dpg d="w21997" g="w21998" t="nn" cr="nn:w21998" w="syndrome" l="~" p="N"/>
+     <dpg d="w21998" g="w21995" t="pcomp-n" cr="mod*of*n:w21994" w="protein" l="~" p="N"/>
+     <dpg d="w21999" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="induces" l="induce" p="V"/>
+     <dpg d="E3" g="w21999" t="subj" cr="" w="" l="region" p="N"/>
+     <dpg d="E3" g="w21994" t="antecedent" cr="" w="" l="region" p="N"/>
+     <dpg d="w22000" g="w22001" t="lex-mod" cr="lex-mod:w22001" w="Arp" l="~" p="U"/>
+     <dpg d="w22001" g="w22002" t="nn" cr="nn:w22002" w="2" l="Arp 2" p="N"/>
+     <dpg d="w22002" g="w21999" t="obj" cr="obj:w21999" w="/" l="~" p="N"/>
+     <dpg d="w22003" g="w22008" t="num" cr="num:w22008" w="3" l="~" p="N"/>
+     <dpg d="w22004" g="w22006" t="lex-mod" cr="lex-mod:w22006" w="complex" l="~" p="U"/>
+     <dpg d="w22005" g="w22006" t="lex-mod" cr="lex-mod:w22006" w="-" l="~" p="U"/>
+     <dpg d="w22006" g="w22008" t="mod" cr="mod:w22008" w="dependent" l="complex - dependent" p="A"/>
+     <dpg d="w22007" g="w22008" t="nn" cr="nn:w22008" w="actin" l="~" p="N"/>
+     <dpg d="w22008" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="nucleation" l="~" p="N"/>
+     <dpg d="w22009" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

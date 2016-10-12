@@ -1,0 +1,181 @@
+<rexml>
+<doc id="1373">
+  <text>
+<p><s id="s1"><w id="w21348">The</w> <w id="w21349">APC</w> <w id="w21350">protein</w> <w id="w21351">and</w> <w id="w21352">E-cadherin</w> <w id="w21353">form</w> <w id="w21354">similar</w> <w id="w21355">but</w> <w id="w21356">independent</w> <w id="w21357">complexes</w> <w id="w21358">with</w> <w id="w21359">alpha-catenin</w> <w id="w21360">,</w> <w id="w21361">beta-catenin</w> <w id="w21362">,</w> <w id="w21363">and</w> <w id="w21364">plakoglobin</w> <w id="w21365">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4944" gid="g4719" t="Individual_protein" fr="w21349" to="w21350" nam="yes">
+     <textspan type="extent">APC protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1373.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4945" gid="g4720" t="RELATIONSHIP_TEXTBINDING" fr="w21353" to="w21358">
+     <textspan type="extent">form [..] complexes with</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1373.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4946" gid="g4721" t="RELATIONSHIP_TEXTBINDING" fr="w21356" to="w21356">
+     <textspan type="extent">independent</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1373.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4947" gid="g4722" t="RELATIONSHIP_TEXTBINDING" fr="w21354" to="w21354">
+     <textspan type="extent">similar</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1373.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4948" gid="g4723" t="Individual_protein" fr="w21364" to="w21364" nam="yes">
+     <textspan type="extent">plakoglobin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1373.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4949" gid="g4724" t="Individual_protein" fr="w21361" to="w21361" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1373.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4950" gid="g4725" t="Individual_protein" fr="w21359" to="w21359" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1373.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e4951" gid="g4726" t="Individual_protein" fr="w21349" to="w21349" nam="yes">
+     <textspan type="extent">APC</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1373.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e4952" gid="g4727" t="Individual_protein" fr="w21352" to="w21352" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1373.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1887" t="SIMILAR" e1="e4945" e2="e4945" re="e4947">
+     <textspan type="extent">APC protein and E-cadherin form similar but independent complexes with alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1373.3"/>
+      <exattr n="t1" v="IS_A"/>
+      <exattr n="t2" v="Similarity"/>
+      <exattr n="t3" v="SIMILAR"/>
+     </exattrs>
+    </rel>
+    <rel id="r1888" t="MUTUALCOMPLEX" e1="e4944" e2="e4950,e4949,e4948" re="e4945">
+     <textspan type="extent">APC protein and E-cadherin form similar but independent complexes with alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1373.1"/>
+      <exattr n="arg" v="e4944"/>
+      <exattr n="arg" v="e4950"/>
+      <exattr n="arg" v="e4949"/>
+      <exattr n="arg" v="e4948"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="MUTUALCOMPLEX"/>
+     </exattrs>
+    </rel>
+    <rel id="r1889" t="MUTUALCOMPLEX" e1="e4952" e2="e4950,e4949,e4948" re="e4945">
+     <textspan type="extent">E-cadherin form similar but independent complexes with alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1373.1"/>
+      <exattr n="arg" v="e4952"/>
+      <exattr n="arg" v="e4950"/>
+      <exattr n="arg" v="e4949"/>
+      <exattr n="arg" v="e4948"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="MUTUALCOMPLEX"/>
+     </exattrs>
+    </rel>
+    <rel id="r1891" t="RELATE" e1="e4945" e2="e4945" re="e4946">
+     <textspan type="extent">APC protein and E-cadherin form similar but independent complexes with alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1373.2"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1892" t="MUTUALCOMPLEX" e1="e4944" e2="e4950,e4949,e4948" re="e4945">
+     <textspan type="extent">APC protein and E-cadherin form similar but independent complexes with alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1373.1"/>
+      <exattr n="arg" v="e4944"/>
+      <exattr n="arg" v="e4950"/>
+      <exattr n="arg" v="e4949"/>
+      <exattr n="arg" v="e4948"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="MUTUALCOMPLEX"/>
+     </exattrs>
+    </rel>
+    <rel id="r1893" t="MUTUALCOMPLEX" e1="e4952" e2="e4950,e4949,e4948" re="e4945">
+     <textspan type="extent">E-cadherin form similar but independent complexes with alpha-catenin , beta-catenin , and plakoglobin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1373.1"/>
+      <exattr n="arg" v="e4952"/>
+      <exattr n="arg" v="e4950"/>
+      <exattr n="arg" v="e4949"/>
+      <exattr n="arg" v="e4948"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="MUTUALCOMPLEX"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

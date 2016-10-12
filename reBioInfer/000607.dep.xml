@@ -1,0 +1,51 @@
+<rexml>
+<doc id="607">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8818" g="w8820" t="lex-mod" cr="lex-mod:w8820" w="Herpes" l="~" p="U"/>
+     <dpg d="w8819" g="w8820" t="lex-mod" cr="lex-mod:w8820" w="simplex" l="~" p="U"/>
+     <dpg d="w8820" g="w8822" t="nn" cr="nn:w8822" w="virus" l="herpes simplex virus" p="N"/>
+     <dpg d="w8821" g="w8822" t="lex-mod" cr="lex-mod:w8822" w="type" l="~" p="U"/>
+     <dpg d="w8822" g="w8823" t="s" cr="s+subj:w8823" w="1" l="type 1" p="N"/>
+     <dpg d="w8823" g="E1" t="i" cr="" w="expresses" l="express" p="V"/>
+     <dpg d="E3" g="w8823" t="subj" cr="" w="" l="type 1" p="N"/>
+     <dpg d="E3" g="w8822" t="antecedent" cr="" w="" l="type 1" p="N"/>
+     <dpg d="w8824" g="w8826" t="det" cr="det:w8826" w="a" l="~" p="Det"/>
+     <dpg d="w8825" g="w8826" t="mod" cr="mod:w8826" w="heterotrimeric" l="~" p="A"/>
+     <dpg d="w8826" g="w8823" t="obj" cr="obj:w8823" w="helicase-primase" l="helicase-primase" p="N"/>
+     <dpg d="w8827" g="w8826" t="punc" cr="punc:w8826" w="," l="~" p="U"/>
+     <dpg d="E0" g="w8826" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8828" g="w8829" t="det" cr="det:w8829" w="the" l="~" p="Det"/>
+     <dpg d="w8829" g="E0" t="whn" cr="whn+obj:w8833" w="subunits" l="~" p="N"/>
+     <dpg d="w8830" g="w8829" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w8831" g="w8830" t="pcomp-n" cr="mod*of*n:w8829" w="which" l="~" p="N"/>
+     <dpg d="w8831" g="w8826" t="antecedent" cr="antecedent:w8826" w="which" l="~" p="N"/>
+     <dpg d="w8832" g="w8833" t="be" cr="be:w8833" w="are" l="be" p="be"/>
+     <dpg d="w8833" g="E0" t="i" cr="rel:w8826" w="encoded" l="encode" p="V"/>
+     <dpg d="E4" g="w8833" t="obj" cr="" w="" l="subunits" p="N"/>
+     <dpg d="E4" g="w8829" t="antecedent" cr="" w="" l="subunits" p="N"/>
+     <dpg d="w8834" g="w8833" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w8835" g="w8837" t="det" cr="det:w8837" w="the" l="~" p="Det"/>
+     <dpg d="w8836" g="w8837" t="mod" cr="mod:w8837" w="viral" l="~" p="A"/>
+     <dpg d="w8837" g="w8834" t="pcomp-n" cr="by-subj*by*n:w8833" w="UL5" l="~" p="N"/>
+     <dpg d="w8838" g="w8837" t="punc" cr="punc:w8837" w="," l="~" p="U"/>
+     <dpg d="w8839" g="w8837" t="conj" cr="conj:w8837" w="UL8" l="~" p="N"/>
+     <dpg d="w8840" g="w8839" t="punc" cr="punc:w8839" w="and" l="~" p="U"/>
+     <dpg d="w8841" g="w8842" t="nn" cr="nn:w8842" w="UL52" l="~" p="N"/>
+     <dpg d="w8842" g="w8839" t="conj" cr="conj:w8839" w="genes" l="gene" p="N"/>
+     <dpg d="w8843" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,232 @@
+<rexml>
+<doc id="1502">
+  <text>
+<p><s id="s1"><w id="w23517">The</w> <w id="w23518">herpes</w> <w id="w23519">simplex</w> <w id="w23520">virus</w> <w id="w23521">type</w> <w id="w23522">1</w> <w id="w23523">UL8</w> <w id="w23524">protein</w> <w id="w23525">influences</w> <w id="w23526">the</w> <w id="w23527">intracellular</w> <w id="w23528">localization</w> <w id="w23529">of</w> <w id="w23530">the</w> <w id="w23531">UL52</w> <w id="w23532">but</w> <w id="w23533">not</w> <w id="w23534">the</w> <w id="w23535">ICP8</w> <w id="w23536">or</w> <w id="w23537">POL</w> <w id="w23538">replication</w> <w id="w23539">proteins</w> <w id="w23540">in</w> <w id="w23541">virus-infected</w> <w id="w23542">cells</w> <w id="w23543">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5441" gid="g5194" t="Individual_protein" fr="w23518" to="w23524" nam="yes">
+     <textspan type="extent">herpes simplex virus type 1 UL8 protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1502.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5442" gid="g5195" t="RELATIONSHIP_TEXTBINDING" fr="w23525" to="w23525">
+     <textspan type="extent">influences</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1502.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e5443" gid="g5196" t="LOCALIZATION" fr="w23528" to="w23539">
+     <textspan type="extent">localization of [..] ICP8 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.1502.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5444" gid="g5197" t="LOCALIZATION" fr="w23528" to="w23539">
+     <textspan type="extent">localization of [..] UL52 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.1502.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5445" gid="g5198" t="Individual_protein" fr="w23531" to="w23539" nam="yes">
+     <textspan type="extent">UL52 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1502.4"/>
+      <exattr n="nst" v="st.1502.14.0"/>
+      <exattr n="nst" v="st.1502.22.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5446" gid="g5199" t="LOCALIZATION" fr="w23528" to="w23539">
+     <textspan type="extent">localization of [..] POL [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.1502.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5447" gid="g5200" t="Individual_protein" fr="w23537" to="w23539" nam="yes">
+     <textspan type="extent">POL [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1502.6"/>
+      <exattr n="nst" v="st.1502.20.0"/>
+      <exattr n="nst" v="st.1502.22.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5448" gid="g5201" t="Individual_protein" fr="w23535" to="w23539" nam="yes">
+     <textspan type="extent">ICP8 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1502.7"/>
+      <exattr n="nst" v="st.1502.18.0"/>
+      <exattr n="nst" v="st.1502.22.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5449" gid="g5202" t="Individual_protein" fr="w23523" to="w23523" nam="yes">
+     <textspan type="extent">UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1502.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e5450" gid="g5203" t="RELATIONSHIP_TEXTBINDING" fr="w23533" to="w23533">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1502.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e5451" gid="g5204" t="Individual_protein" fr="w23531" to="w23531" nam="yes">
+     <textspan type="extent">UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1502.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e5452" gid="g5205" t="Individual_protein" fr="w23535" to="w23535" nam="yes">
+     <textspan type="extent">ICP8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1502.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e5453" gid="g5206" t="Individual_protein" fr="w23537" to="w23537" nam="yes">
+     <textspan type="extent">POL</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1502.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e5454" gid="g5207" t="Individual_protein" fr="w23531" to="w23531" nam="yes">
+     <textspan type="extent">UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1502.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e5455" gid="g5208" t="Individual_protein" fr="w23535" to="w23535" nam="yes">
+     <textspan type="extent">ICP8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1502.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e5456" gid="g5209" t="Individual_protein" fr="w23537" to="w23537" nam="yes">
+     <textspan type="extent">POL</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1502.15"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2094" t="AFFECT" e1="e5441" e2="e5444" re="e5442">
+     <textspan type="extent">herpes simplex virus type 1 UL8 protein influences the intracellular localization of the UL52 but not the ICP8 or POL replication proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1502.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2096" t="AFFECT" e1="e5441" e2="e5443" re="e5442">
+     <textspan type="extent">herpes simplex virus type 1 UL8 protein influences the intracellular localization of the UL52 but not the ICP8 or POL replication proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1502.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2098" t="AFFECT" e1="e5441" e2="e5446" re="e5442">
+     <textspan type="extent">herpes simplex virus type 1 UL8 protein influences the intracellular localization of the UL52 but not the ICP8 or POL replication proteins</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1502.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

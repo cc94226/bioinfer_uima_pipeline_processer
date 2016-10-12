@@ -1,0 +1,71 @@
+<rexml>
+<doc id="1420">
+  
+  <markup>
+   <nes>
+    <ne id="e5173" gid="g4938" t="Individual_protein" fr="w22281" to="w22283" nam="yes" sid="s1">
+     <textspan>vitamin D-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1420.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5171" gid="g4936" t="Individual_protein" fr="w22285" to="w22285" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1420.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5174" gid="g4939" t="Individual_protein" fr="w22288" to="w22288" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1420.3"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1977" t="INTERACT" e1="e5173" e2="e5174" re="e5172">
+     <textspan>vitamin D-binding protein and profilin interactions with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1420.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1978" t="INTERACT" e1="e5171" e2="e5174" re="e5172">
+     <textspan>profilin interactions with actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1420.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

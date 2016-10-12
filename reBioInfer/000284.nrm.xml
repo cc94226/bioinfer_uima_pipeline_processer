@@ -1,0 +1,68 @@
+<rexml>
+<doc id="284">
+  
+  <markup>
+   <nes>
+    <ne id="e1069" gid="g1019" t="Individual_protein" fr="w4412" to="w4412" nam="yes" sid="s1">
+     <textspan>alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.284.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1073" gid="g1023" t="Individual_protein" fr="w4414" to="w4414" nam="yes" sid="s1">
+     <textspan>beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.284.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1071" gid="g1021" t="Cell_component" fr="w4417" to="w4419" nam="yes" sid="s1">
+     <textspan>actin-based cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.284.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e1074" gid="g1024" t="Individual_protein" fr="w4417" to="w4417" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.284.5"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r427" t="RELATE" e1="e1073" e2="e1071" re="e1072">
+     <textspan>links beta-catenin to the actin -based cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.284.3"/>
+      <exattr n="t1" v="RELATE"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,35 @@
+<rexml>
+<doc id="485">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6785" g="E0" t="mod" cr="mod:w6790" w="Finally" l="~" p="A"/>
+     <dpg d="w6786" g="E0" t="punc" cr="punc:w6790" w="," l="~" p="U"/>
+     <dpg d="w6787" g="w6788" t="det" cr="det:w6788" w="both" l="~" p="Det"/>
+     <dpg d="w6788" g="w6790" t="s" cr="s+subj:w6790" w="receptors" l="receptor" p="N"/>
+     <dpg d="w6789" g="w6790" t="aux" cr="aux:w6790" w="can" l="~" p="Aux"/>
+     <dpg d="w6790" g="E0" t="i" cr="" w="interact" l="~" p="V"/>
+     <dpg d="E2" g="w6790" t="subj" cr="" w="" l="receptor" p="N"/>
+     <dpg d="E2" g="w6788" t="antecedent" cr="" w="" l="receptor" p="N"/>
+     <dpg d="w6791" g="w6790" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w6792" g="w6791" t="pcomp-n" cr="mod*with*n:w6790" w="FADD" l="~" p="N"/>
+     <dpg d="w6793" g="w6792" t="punc" cr="punc:w6792" w="," l="~" p="U"/>
+     <dpg d="w6794" g="w6792" t="conj" cr="conj:w6792" w="TRADD" l="~" p="N"/>
+     <dpg d="w6795" g="w6794" t="punc" cr="punc:w6794" w="," l="~" p="U"/>
+     <dpg d="w6796" g="w6794" t="punc" cr="punc:w6794" w="and" l="~" p="U"/>
+     <dpg d="w6797" g="w6794" t="conj" cr="conj:w6794" w="RIP" l="~" p="N"/>
+     <dpg d="w6798" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

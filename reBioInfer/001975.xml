@@ -1,0 +1,96 @@
+<rexml>
+<doc id="1975">
+  <text>
+<p><s id="s1"><w id="w31647">Using</w> <w id="w31648">a</w> <w id="w31649">complementary</w> <w id="w31650">sequence</w> <w id="w31651">or</w> <w id="w31652">antipeptide</w> <w id="w31653">to</w> <w id="w31654">selectively</w> <w id="w31655">neutralize</w> <w id="w31656">the</w> <w id="w31657">stretch</w> <w id="w31658">of</w> <w id="w31659">residues</w> <w id="w31660">633-642</w> <w id="w31661">of</w> <w id="w31662">skeletal</w> <w id="w31663">myosin</w> <w id="w31664">heavy</w> <w id="w31665">chain</w> <w id="w31666">,</w> <w id="w31667">we</w> <w id="w31668">recently</w> <w id="w31669">demonstrated</w> <w id="w31670">that</w> <w id="w31671">this</w> <w id="w31672">segment</w> <w id="w31673">is</w> <w id="w31674">an</w> <w id="w31675">actin</w> <w id="w31676">binding</w> <w id="w31677">site</w> <w id="w31678">operating</w> <w id="w31679">in</w> <w id="w31680">the</w> <w id="w31681">absence</w> <w id="w31682">as</w> <w id="w31683">in</w> <w id="w31684">the</w> <w id="w31685">presence</w> <w id="w31686">of</w> <w id="w31687">nucleotide</w> <w id="w31688">and</w> <w id="w31689">that</w> <w id="w31690">this</w> <w id="w31691">stretch</w> <w id="w31692">633-642</w> <w id="w31693">is</w> <w id="w31694">not</w> <w id="w31695">part</w> <w id="w31696">of</w> <w id="w31697">the</w> <w id="w31698">nucleotide</w> <w id="w31699">binding</w> <w id="w31700">site</w> <w id="w31701">[</w> <w id="w31702">Chaussepied</w> <w id="w31703">&amp;</w> <w id="w31704">Morales</w> <w id="w31705">(</w> <w id="w31706">1988</w> <w id="w31707">)</w> <w id="w31708">Proc.</w> <w id="w31709">Natl.</w> <w id="w31710">Acad.</w> <w id="w31711">Sci.</w> <w id="w31712">U.S.A.</w> <w id="w31713">85</w> <w id="w31714">,</w> <w id="w31715">7471-7475</w> <w id="w31716">]</w> <w id="w31717">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7239" gid="g6907" t="Substructure_of_protein" fr="w31659" to="w31665" nam="yes">
+     <textspan type="extent">residues [..] of skeletal myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1975.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7240" gid="g6908" t="RELATIONSHIP_TEXTBINDING" fr="w31676" to="w31676">
+     <textspan type="extent">binding</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1975.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7241" gid="g6909" t="Substructure_of_protein" fr="w31671" to="w31672" nam="yes">
+     <textspan type="extent">this segment</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1975.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7242" gid="g6910" t="Individual_protein" fr="w31675" to="w31675" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1975.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7243" gid="g6907" t="Substructure_of_protein" fr="w31671" to="w31671" nam="yes">
+     <textspan type="extent">this</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1975.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7244" gid="g6911" t="Individual_protein" fr="w31662" to="w31665" nam="yes">
+     <textspan type="extent">skeletal myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1975.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2774" t="BIND" e1="e7241" e2="e7242" re="e7240">
+     <textspan type="extent">this segment is an actin binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1975.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

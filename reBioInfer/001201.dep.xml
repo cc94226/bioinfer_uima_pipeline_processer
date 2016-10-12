@@ -1,0 +1,43 @@
+<rexml>
+<doc id="1201">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w18969" g="" t="" cr="" w="Removal" l="~" p="N"/>
+     <dpg d="w18970" g="w18969" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w18971" g="w18973" t="det" cr="det:w18973" w="the" l="~" p="Det"/>
+     <dpg d="w18972" g="w18973" t="mod" cr="mod:w18973" w="amino-terminal" l="amino-terminal" p="A"/>
+     <dpg d="w18973" g="w18970" t="pcomp-n" cr="mod*of*n:w18969" w="tails" l="tail" p="N"/>
+     <dpg d="w18974" g="w18973" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w18975" g="w18974" t="punc" cr="punc:w18974" w="either" l="~" p="U"/>
+     <dpg d="w18976" g="w18977" t="nn" cr="nn:w18977" w="histone" l="~" p="N"/>
+     <dpg d="w18977" g="w18974" t="pcomp-n" cr="mod*of*n:w18973" w="H3" l="~" p="N"/>
+     <dpg d="w18978" g="w18977" t="punc" cr="punc:w18977" w="or" l="~" p="U"/>
+     <dpg d="w18979" g="w18980" t="nn" cr="nn:w18980" w="histone" l="~" p="N"/>
+     <dpg d="w18980" g="w18977" t="conj" cr="conj:w18977||obj1:w18981" w="H4" l="~" p="N"/>
+     <dpg d="w18981" g="w18980" t="vrel" cr="vrel:w18980" w="allowed" l="allow" p="V"/>
+     <dpg d="E3" g="w18981" t="obj1" cr="" w="" l="H4" p="N"/>
+     <dpg d="E3" g="w18980" t="antecedent" cr="" w="" l="H4" p="N"/>
+     <dpg d="w18982" g="w18983" t="det" cr="det:w18983" w="these" l="~" p="Det"/>
+     <dpg d="w18983" g="w18981" t="obj2" cr="obj2:w18981||s+subj:w18985" w="polyamides" l="polyamide" p="N"/>
+     <dpg d="E0" g="w18983" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E1" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E1" g="w18983" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w18984" g="w18985" t="aux" cr="aux:w18985" w="to" l="~" p="Aux"/>
+     <dpg d="w18985" g="E0" t="i" cr="rel:w18983" w="bind" l="~" p="V"/>
+     <dpg d="E4" g="w18985" t="subj" cr="" w="" l="polyamide" p="N"/>
+     <dpg d="E4" g="E1" t="antecedent" cr="" w="" l="polyamide" p="N"/>
+     <dpg d="w18986" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,75 @@
+<rexml>
+<doc id="2175">
+  <text>
+<p><s id="s1"><w id="w33694">We</w> <w id="w33695">suggest</w> <w id="w33696">that</w> <w id="w33697">the</w> <w id="w33698">talin</w> <w id="w33699">in</w> <w id="w33700">the</w> <w id="w33701">nodes</w> <w id="w33702">functions</w> <w id="w33703">,</w> <w id="w33704">via</w> <w id="w33705">a</w> <w id="w33706">cross-linking</w> <w id="w33707">activity</w> <w id="w33708">,</w> <w id="w33709">in</w> <w id="w33710">the</w> <w id="w33711">convergence</w> <w id="w33712">of</w> <w id="w33713">actin</w> <w id="w33714">filaments</w> <w id="w33715">at</w> <w id="w33716">the</w> <w id="w33717">membrane</w> <w id="w33718">during</w> <w id="w33719">development</w> <w id="w33720">of</w> <w id="w33721">the</w> <w id="w33722">ribs</w> <w id="w33723">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7682" gid="g7323" t="Individual_protein" fr="w33698" to="w33698" nam="yes">
+     <textspan type="extent">talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2175.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7683" gid="g7324" t="RELATIONSHIP_TEXTBINDING" fr="w33702" to="w33709">
+     <textspan type="extent">functions [..] in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.2175.1"/>
+      <exattr n="nst" v="st.2175.8.0"/>
+      <exattr n="nst" v="st.2175.15.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7684" gid="g7325" t="Cell_component" fr="w33713" to="w33714" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.2175.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7685" gid="g7326" t="LOCALIZATION" fr="w33711" to="w33714">
+     <textspan type="extent">convergence of actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.2175.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7686" gid="g7327" t="Individual_protein" fr="w33713" to="w33713" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.2175.4"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2959" t="PARTICIPATE" e1="e7682" e2="e7685" re="e7683">
+     <textspan type="extent">talin in the nodes functions , via a cross-linking activity , in the convergence of actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.2175.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

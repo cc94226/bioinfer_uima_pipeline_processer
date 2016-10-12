@@ -1,0 +1,58 @@
+<rexml>
+<doc id="1345">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20952" g="w20953" t="det" cr="det:w20953" w="The" l="~" p="Det"/>
+     <dpg d="w20953" g="w20959" t="s" cr="s:w20959||subj:w20960" w="ability" l="~" p="N"/>
+     <dpg d="w20954" g="w20953" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w20955" g="w20954" t="pcomp-n" cr="mod*of*n:w20953||s+subj:w20957" w="WIP" l="~" p="N"/>
+     <dpg d="E2" g="w20955" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E6" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w20955" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w20956" g="w20957" t="aux" cr="aux:w20957" w="to" l="~" p="Aux"/>
+     <dpg d="w20957" g="E2" t="i" cr="rel:w20955" w="replace" l="~" p="V"/>
+     <dpg d="E8" g="w20957" t="subj" cr="" w="" l="WIP" p="N"/>
+     <dpg d="E8" g="E6" t="antecedent" cr="" w="" l="WIP" p="N"/>
+     <dpg d="w20958" g="w20957" t="obj" cr="obj:w20957" w="verprolin" l="~" p="N"/>
+     <dpg d="w20959" g="E3" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="w20960" g="w20959" t="pred" cr="pred:w20959" w="dependent" l="~" p="N"/>
+     <dpg d="E9" g="w20960" t="subj" cr="" w="" l="ability" p="N"/>
+     <dpg d="E9" g="w20953" t="antecedent" cr="" w="" l="ability" p="N"/>
+     <dpg d="w20961" g="w20960" t="mod" cr="" w="on" l="~" p="Prep"/>
+     <dpg d="w20962" g="w20964" t="gen" cr="gen:w20964" w="its" l="~" p="N"/>
+     <dpg d="w20963" g="w20964" t="nn" cr="nn:w20964" w="WH2" l="~" p="N"/>
+     <dpg d="w20964" g="w20961" t="pcomp-n" cr="mod*on*n:w20960||s+subj:w20965" w="actin" l="~" p="N"/>
+     <dpg d="E1" g="w20964" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w20964" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w20965" g="E1" t="i" cr="rel:w20964" w="binding" l="bind" p="V"/>
+     <dpg d="E10" g="w20965" t="subj" cr="" w="" l="actin" p="N"/>
+     <dpg d="E10" g="E5" t="antecedent" cr="" w="" l="actin" p="N"/>
+     <dpg d="w20966" g="w20965" t="obj" cr="obj:w20965" w="domain" l="~" p="N"/>
+     <dpg d="w20967" g="w20966" t="punc" cr="punc:w20966" w="and" l="~" p="U"/>
+     <dpg d="w20968" g="w20970" t="det" cr="det:w20970" w="a" l="~" p="Det"/>
+     <dpg d="w20969" g="w20970" t="mod" cr="mod:w20970" w="putative" l="~" p="A"/>
+     <dpg d="w20970" g="w20966" t="conj" cr="conj:w20966||s+subj:w20971" w="profilin" l="~" p="N"/>
+     <dpg d="E0" g="w20970" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w20970" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w20971" g="E0" t="i" cr="rel:w20970" w="binding" l="bind" p="V"/>
+     <dpg d="E11" g="w20971" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E11" g="E4" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w20972" g="w20971" t="obj" cr="obj:w20971" w="domain" l="~" p="N"/>
+     <dpg d="w20973" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

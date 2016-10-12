@@ -1,0 +1,230 @@
+<rexml>
+<doc id="610">
+  <text>
+<p><s id="s1"><w id="w8987">Herpes</w> <w id="w8988">simplex</w> <w id="w8989">virus</w> <w id="w8990">type</w> <w id="w8991">1</w> <w id="w8992">(</w> <w id="w8993">HSV-1</w> <w id="w8994">)</w> <w id="w8995">encodes</w> <w id="w8996">a</w> <w id="w8997">heterotrimeric</w> <w id="w8998">helicase-primase</w> <w id="w8999">composed</w> <w id="w9000">of</w> <w id="w9001">the</w> <w id="w9002">products</w> <w id="w9003">of</w> <w id="w9004">the</w> <w id="w9005">three</w> <w id="w9006">DNA</w> <w id="w9007">replication-specific</w> <w id="w9008">genes</w> <w id="w9009">UL5</w> <w id="w9010">,</w> <w id="w9011">UL8</w> <w id="w9012">,</w> <w id="w9013">and</w> <w id="w9014">UL52</w> <w id="w9015">(</w> <w id="w9016">Crute</w> <w id="w9017">,</w> <w id="w9018">J.</w> <w id="w9019">J.</w> <w id="w9020">,</w> <w id="w9021">and</w> <w id="w9022">Lehman</w> <w id="w9023">,</w> <w id="w9024">I.</w> <w id="w9025">R.</w> <w id="w9026">(</w> <w id="w9027">1991</w> <w id="w9028">)</w> <w id="w9029">J.</w> <w id="w9030">Biol.</w> <w id="w9031">Chem.</w> <w id="w9032">266</w> <w id="w9033">,</w> <w id="w9034">4484-4488</w> <w id="w9035">)</w> <w id="w9036">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2140" gid="g2049" t="Protein_complex" fr="w8998" to="w8998" nam="yes">
+     <textspan type="extent">helicase-primase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.610.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2141" gid="g2050" t="RELATIONSHIP_TEXTBINDING" fr="w8999" to="w9000">
+     <textspan type="extent">composed of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.610.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2142" gid="g2051" t="Individual_protein" fr="w9002" to="w9011" nam="yes">
+     <textspan type="extent">products of [..] genes [..] UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.610.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2143" gid="g2052" t="Individual_protein" fr="w9002" to="w9009" nam="yes">
+     <textspan type="extent">products of [..] genes UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.610.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2144" gid="g2053" t="Gene" fr="w9008" to="w9009" nam="yes">
+     <textspan type="extent">genes UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.610.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2145" gid="g2054" t="Individual_protein" fr="w9002" to="w9014" nam="yes">
+     <textspan type="extent">products of [..] genes [..] UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.610.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2146" gid="g2055" t="Gene" fr="w9008" to="w9014" nam="yes">
+     <textspan type="extent">genes [..] UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.610.6"/>
+      <exattr n="nst" v="st.610.21.0"/>
+      <exattr n="nst" v="st.610.27.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2147" gid="g2056" t="Gene" fr="w9008" to="w9011" nam="yes">
+     <textspan type="extent">genes [..] UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.610.7"/>
+      <exattr n="nst" v="st.610.21.0"/>
+      <exattr n="nst" v="st.610.24.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2148" gid="g2057" t="Gene" fr="w9011" to="w9011" nam="yes">
+     <textspan type="extent">UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.610.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e2149" gid="g2058" t="Gene" fr="w9009" to="w9009" nam="yes">
+     <textspan type="extent">UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.610.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e2150" gid="g2059" t="Gene" fr="w9011" to="w9011" nam="yes">
+     <textspan type="extent">UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.610.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e2151" gid="g2060" t="Gene" fr="w9014" to="w9014" nam="yes">
+     <textspan type="extent">UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.610.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e2152" gid="g2061" t="Gene" fr="w9009" to="w9009" nam="yes">
+     <textspan type="extent">UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.610.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e2153" gid="g2062" t="Gene" fr="w9014" to="w9014" nam="yes">
+     <textspan type="extent">UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.610.13"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r843" t="CONTAIN" e1="e2140" e2="e2143" re="e2141">
+     <textspan type="extent">helicase-primase composed of the products of the three DNA replication-specific genes UL5</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.610.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r844" t="CONTAIN" e1="e2140" e2="e2142" re="e2141">
+     <textspan type="extent">helicase-primase composed of the products of the three DNA replication-specific genes UL5 , UL8</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.610.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r845" t="CONTAIN" e1="e2140" e2="e2145" re="e2141">
+     <textspan type="extent">helicase-primase composed of the products of the three DNA replication-specific genes UL5 , UL8 , and UL52</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.610.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

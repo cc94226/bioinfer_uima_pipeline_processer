@@ -1,0 +1,76 @@
+<rexml>
+<doc id="619">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w9162" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="However" l="~" p="A"/>
+     <dpg d="w9163" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9164" g="E1" t="mod" cr="mod:w9184" w="although" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w9164" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w9165" g="w9171" t="s" cr="s+subj:w9171" w="expression" l="~" p="N"/>
+     <dpg d="w9166" g="w9165" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9167" g="w9166" t="pcomp-n" cr="mod*of*n:w9165" w="Ras" l="Ra" p="N"/>
+     <dpg d="w9168" g="w9171" t="mod-before" cr="mod-before:w9171" w="alone" l="~" p="A"/>
+     <dpg d="w9169" g="w9171" t="aux" cr="aux:w9171" w="will" l="~" p="Aux"/>
+     <dpg d="w9170" g="w9169" t="neg" cr="neg:w9169" w="not" l="~" p="A"/>
+     <dpg d="w9171" g="E0" t="i" cr="comp1:w9164" w="induce" l="~" p="V"/>
+     <dpg d="E4" g="w9171" t="subj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E4" g="w9165" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w9172" g="w9173" t="lex-mod" cr="lex-mod:w9173" w="G1" l="~" p="U"/>
+     <dpg d="w9173" g="w9174" t="nn" cr="nn:w9174" w="CDK" l="G1 CDK" p="N"/>
+     <dpg d="w9174" g="w9171" t="obj" cr="obj:w9171" w="activity" l="~" p="N"/>
+     <dpg d="w9175" g="w9174" t="punc" cr="punc:w9174" w="or" l="~" p="U"/>
+     <dpg d="w9176" g="w9177" t="nn" cr="nn:w9177" w="S" l="~" p="N"/>
+     <dpg d="w9177" g="w9174" t="conj" cr="conj:w9174" w="phase" l="~" p="N"/>
+     <dpg d="w9178" g="E1" t="punc" cr="punc:w9184" w="," l="~" p="U"/>
+     <dpg d="w9179" g="w9184" t="s" cr="s+subj:w9184" w="coexpression" l="~" p="N"/>
+     <dpg d="w9180" g="w9179" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9181" g="w9180" t="pcomp-n" cr="mod*of*n:w9179" w="Ras" l="Ra" p="N"/>
+     <dpg d="w9182" g="w9181" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w9183" g="w9182" t="pcomp-n" cr="mod*with*n:w9181" w="Myc" l="~" p="N"/>
+     <dpg d="w9184" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="allows" l="allow" p="V"/>
+     <dpg d="E5" g="w9184" t="subj" cr="" w="" l="coexpression" p="N"/>
+     <dpg d="E5" g="w9179" t="antecedent" cr="" w="" l="coexpression" p="N"/>
+     <dpg d="w9185" g="w9186" t="det" cr="det:w9186" w="the" l="~" p="Det"/>
+     <dpg d="w9186" g="w9184" t="obj1" cr="obj1:w9184" w="generation" l="~" p="N"/>
+     <dpg d="w9187" g="w9186" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9188" g="w9187" t="pcomp-n" cr="mod*of*n:w9186" w="cyclin" l="~" p="N"/>
+     <dpg d="w9189" g="w9191" t="mod" cr="mod:w9191" w="E-dependent" l="E-dependent" p="A"/>
+     <dpg d="w9190" g="w9191" t="nn" cr="nn:w9191" w="kinase" l="~" p="N"/>
+     <dpg d="w9191" g="w9184" t="obj2" cr="obj2:w9184" w="activity" l="~" p="N"/>
+     <dpg d="w9192" g="w9191" t="punc" cr="punc:w9191" w="and" l="~" p="U"/>
+     <dpg d="w9193" g="w9194" t="det" cr="det:w9194" w="the" l="~" p="Det"/>
+     <dpg d="w9194" g="w9191" t="conj" cr="conj:w9191" w="induction" l="~" p="N"/>
+     <dpg d="w9195" g="w9194" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9196" g="w9197" t="nn" cr="nn:w9197" w="S" l="~" p="N"/>
+     <dpg d="w9197" g="w9195" t="pcomp-n" cr="mod*of*n:w9194" w="phase" l="~" p="N"/>
+     <dpg d="w9198" g="w9197" t="punc" cr="punc:w9197" w="," l="~" p="U"/>
+     <dpg d="w9199" g="w9197" t="pnmod" cr="pnmod:w9197" w="coincident" l="~" p="A"/>
+     <dpg d="w9200" g="w9199" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w9201" g="w9202" t="det" cr="det:w9202" w="the" l="~" p="Det"/>
+     <dpg d="w9202" g="w9200" t="pcomp-n" cr="mod*with*n:w9199" w="loss" l="~" p="N"/>
+     <dpg d="w9203" g="w9202" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9204" g="w9205" t="det" cr="det:w9205" w="the" l="~" p="Det"/>
+     <dpg d="w9205" g="w9203" t="pcomp-n" cr="mod*of*n:w9202" w="p27" l="~" p="N"/>
+     <dpg d="w9206" g="w9208" t="lex-mod" cr="lex-mod:w9208" w="cyclin-dependent" l="~" p="U"/>
+     <dpg d="w9207" g="w9208" t="lex-mod" cr="lex-mod:w9208" w="kinase" l="~" p="U"/>
+     <dpg d="w9208" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="inhibitor" l="cyclin-dependent kinase inhibitor" p="N"/>
+     <dpg d="w9209" g="w9210" t="punc" cr="punc:w9210" w="(" l="~" p="U"/>
+     <dpg d="w9210" g="w9208" t="abbrev" cr="abbrev:w9208" w="CKI" l="~" p="N"/>
+     <dpg d="w9211" g="w9210" t="punc" cr="punc:w9210" w=")" l="~" p="U"/>
+     <dpg d="w9212" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

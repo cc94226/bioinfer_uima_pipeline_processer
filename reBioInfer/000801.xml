@@ -1,0 +1,57 @@
+<rexml>
+<doc id="801">
+  <text>
+<p><s id="s1"><w id="w12575">In</w> <w id="w12576">search</w> <w id="w12577">for</w> <w id="w12578">genes</w> <w id="w12579">which</w> <w id="w12580">might</w> <w id="w12581">participate</w> <w id="w12582">in</w> <w id="w12583">chicken</w> <w id="w12584">immunoglobulin</w> <w id="w12585">gene</w> <w id="w12586">conversion</w> <w id="w12587">,</w> <w id="w12588">we</w> <w id="w12589">have</w> <w id="w12590">identified</w> <w id="w12591">chicken</w> <w id="w12592">counterparts</w> <w id="w12593">of</w> <w id="w12594">the</w> <w id="w12595">yeast</w> <w id="w12596">RAD51</w> <w id="w12597">,</w> <w id="w12598">RAD52</w> <w id="w12599">,</w> <w id="w12600">and</w> <w id="w12601">RAD54</w> <w id="w12602">genes</w> <w id="w12603">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2904" gid="g2785" t="Gene/protein/RNA" fr="w12584" to="w12584" nam="yes">
+     <textspan type="extent">immunoglobulin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.801.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2905" gid="g2786" t="Gene/protein/RNA" fr="w12598" to="w12598" nam="yes">
+     <textspan type="extent">RAD52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.801.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2906" gid="g2787" t="Gene/protein/RNA" fr="w12596" to="w12596" nam="yes">
+     <textspan type="extent">RAD51</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.801.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2907" gid="g2788" t="Gene/protein/RNA" fr="w12601" to="w12601" nam="yes">
+     <textspan type="extent">RAD54</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.801.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,44 @@
+<rexml>
+<doc id="263">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w3957" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="SNF11" l="~" p="N"/>
+     <dpg d="w3958" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w3959" g="w3961" t="det" cr="det:w3961" w="a" l="~" p="Det"/>
+     <dpg d="w3960" g="w3961" t="mod" cr="mod:w3961" w="new" l="~" p="A"/>
+     <dpg d="w3961" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="component" l="~" p="N"/>
+     <dpg d="w3962" g="w3961" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3963" g="w3968" t="det" cr="det:w3968" w="the" l="~" p="Det"/>
+     <dpg d="w3964" g="w3968" t="nn" cr="nn:w3968" w="yeast" l="~" p="N"/>
+     <dpg d="w3965" g="w3967" t="lex-mod" cr="lex-mod:w3967" w="SNF" l="~" p="U"/>
+     <dpg d="w3966" g="w3967" t="lex-mod" cr="lex-mod:w3967" w="-" l="~" p="U"/>
+     <dpg d="w3967" g="w3968" t="nn" cr="nn:w3968" w="SWI" l="SNF - SWI" p="N"/>
+     <dpg d="w3968" g="w3962" t="pcomp-n" cr="mod*of*n:w3961||subj:w3970" w="complex" l="~" p="N"/>
+     <dpg d="E0" g="w3968" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3969" g="E0" t="whn" cr="whn:w3970" w="that" l="~" p="THAT"/>
+     <dpg d="w3969" g="w3968" t="antecedent" cr="antecedent:w3968" w="that" l="~" p="THAT"/>
+     <dpg d="w3970" g="E0" t="i" cr="rel:w3968" w="interacts" l="interact" p="V"/>
+     <dpg d="E3" g="w3970" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E3" g="w3968" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w3971" g="w3970" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w3972" g="w3974" t="det" cr="det:w3974" w="a" l="~" p="Det"/>
+     <dpg d="w3973" g="w3974" t="mod" cr="mod:w3974" w="conserved" l="~" p="A"/>
+     <dpg d="w3974" g="w3971" t="pcomp-n" cr="mod*with*n:w3970" w="region" l="~" p="N"/>
+     <dpg d="w3975" g="w3974" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3976" g="w3975" t="pcomp-n" cr="mod*of*n:w3974" w="SNF2" l="~" p="N"/>
+     <dpg d="w3977" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

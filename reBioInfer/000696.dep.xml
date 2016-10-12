@@ -1,0 +1,68 @@
+<rexml>
+<doc id="696">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10702" g="E2" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w10703" g="w10706" t="det" cr="det:w10706" w="a" l="~" p="Det"/>
+     <dpg d="w10704" g="w10706" t="nn" cr="nn:w10706" w="blot" l="~" p="N"/>
+     <dpg d="w10705" g="w10706" t="nn" cr="nn:w10706" w="overlay" l="~" p="N"/>
+     <dpg d="w10706" g="w10702" t="pcomp-n" cr="mod*in*n:w10712" w="experiment" l="~" p="N"/>
+     <dpg d="w10707" g="E2" t="punc" cr="punc:w10712" w="," l="~" p="U"/>
+     <dpg d="w10708" g="w10711" t="mod" cr="mod:w10711" w="purified" l="~" p="A"/>
+     <dpg d="w10709" g="w10711" t="mod" cr="mod:w10711" w="125I-labeled" l="125I-labeled" p="A"/>
+     <dpg d="w10710" g="w10711" t="nn" cr="nn:w10711" w="recombinant" l="~" p="N"/>
+     <dpg d="w10711" g="w10712" t="s" cr="s+subj:w10712||s+subj:w10725" w="profilin" l="~" p="N"/>
+     <dpg d="w10712" g="E2" t="i" cr="" w="bound" l="~" p="V"/>
+     <dpg d="E5" g="w10712" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E5" g="w10711" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="w10713" g="w10714" t="mod" cr="mod:w10714" w="not" l="~" p="A"/>
+     <dpg d="w10714" g="w10712" t="mod" cr="mod:w10712" w="only" l="~" p="A"/>
+     <dpg d="w10715" g="w10714" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w10716" g="w10717" t="nn" cr="nn:w10717" w="plant" l="~" p="N"/>
+     <dpg d="w10717" g="w10715" t="pcomp-n" cr="mod*to*n:w10714" w="actin" l="~" p="N"/>
+     <dpg d="w10718" g="w10715" t="punc" cr="punc:w10715" w="," l="~" p="U"/>
+     <dpg d="w10719" g="w10715" t="punc" cr="punc:w10715" w="but" l="~" p="U"/>
+     <dpg d="w10720" g="w10715" t="punc" cr="punc:w10715" w="also" l="~" p="U"/>
+     <dpg d="w10721" g="w10715" t="conj" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w10722" g="w10723" t="mod" cr="mod:w10723" w="mammalian" l="~" p="A"/>
+     <dpg d="w10723" g="w10721" t="pcomp-n" cr="mod*to*n:w10714" w="actin" l="~" p="N"/>
+     <dpg d="w10724" g="w10712" t="punc" cr="punc:w10712" w="," l="~" p="U"/>
+     <dpg d="E1" g="w10712" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w10711" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w10725" g="E1" t="i" cr="mod:w10712" w="demonstrating" l="demonstrate" p="V"/>
+     <dpg d="E6" g="w10725" t="subj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E0" g="w10725" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w10726" g="E0" t="c" cr="c:w10738" w="that" l="~" p="COMP"/>
+     <dpg d="w10727" g="w10728" t="mod" cr="mod:w10728" w="cytoskeletal" l="~" p="A"/>
+     <dpg d="w10728" g="w10738" t="s" cr="s:w10738||subj:w10739" w="components" l="component" p="N"/>
+     <dpg d="w10729" g="w10728" t="mod" cr="" w="from" l="~" p="Prep"/>
+     <dpg d="w10730" g="w10731" t="mod" cr="mod:w10731" w="distantly" l="~" p="A"/>
+     <dpg d="w10731" g="w10732" t="mod" cr="mod:w10732" w="related" l="~" p="A"/>
+     <dpg d="w10732" g="w10729" t="pcomp-n" cr="mod*from*n:w10728" w="organisms" l="organism" p="N"/>
+     <dpg d="w10733" g="w10732" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w10734" g="w10736" t="mod" cr="mod:w10736" w="divergent" l="~" p="A"/>
+     <dpg d="w10735" g="w10736" t="mod" cr="mod:w10736" w="primary" l="~" p="A"/>
+     <dpg d="w10736" g="w10733" t="pcomp-n" cr="mod*with*n:w10732" w="structures" l="structure" p="N"/>
+     <dpg d="w10737" g="w10738" t="aux" cr="aux:w10738" w="can" l="~" p="Aux"/>
+     <dpg d="w10738" g="E0" t="i" cr="fc:w10725" w="be" l="~" p="VBE"/>
+     <dpg d="w10739" g="w10738" t="pred" cr="pred:w10738" w="compatible" l="~" p="A"/>
+     <dpg d="E7" g="w10739" t="subj" cr="" w="" l="component" p="N"/>
+     <dpg d="E7" g="w10728" t="antecedent" cr="" w="" l="component" p="N"/>
+     <dpg d="w10740" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

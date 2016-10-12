@@ -1,0 +1,131 @@
+<rexml>
+<doc id="1388">
+  
+  <markup>
+   <nes>
+    <ne id="e5038" gid="g4811" t="Gene/protein/RNA" fr="w21692" to="w21693" nam="yes" sid="s1">
+     <textspan>adenosine deaminase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1388.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5042" gid="g4815" t="Substructure_of_protein" fr="w21696" to="w21696" nam="yes" sid="s1">
+     <textspan>region</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1388.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5043" gid="g4816" t="Antibody" fr="w21701" to="w21703" nam="yes" sid="s1">
+     <textspan>anti-CD26 mAb</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Antibody"/>
+      <exattr n="bd" v="e.1388.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5046" gid="g4818" t="Individual_protein" fr="w21702" to="w21702" nam="yes" sid="s1">
+     <textspan>CD26</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1388.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e5044" gid="g4815" t="Substructure_of_protein" fr="w21704" to="w21714" nam="yes" sid="s1">
+     <textspan>epitopes on [..] human dipeptidyl peptidase IV [..] molecule</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Substructure_of_protein"/>
+      <exattr n="bd" v="e.1388.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5048" gid="g4819" t="Individual_protein" fr="w21707" to="w21714" nam="yes" sid="s1">
+     <textspan>human dipeptidyl peptidase IV [..] molecule</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1388.10"/>
+      <exattr n="nst" v="st.1388.13.0"/>
+      <exattr n="nst" v="st.1388.14.0"/>
+      <exattr n="nst" v="st.1388.15.0"/>
+      <exattr n="nst" v="st.1388.16.0"/>
+      <exattr n="nst" v="st.1388.17.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5045" gid="g4817" t="Individual_protein" fr="w21708" to="w21710" nam="yes" sid="s1">
+     <textspan>dipeptidyl peptidase IV</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1388.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5047" gid="g4817" t="Individual_protein" fr="w21712" to="w21712" nam="yes" sid="s1">
+     <textspan>CD26</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1388.9"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1928" t="BIND" e1="e5043" e2="e5048" re="e5041">
+     <textspan>anti- CD26 mAb epitopes on the human dipeptidyl peptidase IV ( CD26 ) molecule</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1388.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

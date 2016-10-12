@@ -1,0 +1,301 @@
+<rexml>
+<doc id="22">
+  <text>
+<p><s id="s1"><w id="w337">ActA</w> <w id="w338">appears</w> <w id="w339">to</w> <w id="w340">control</w> <w id="w341">at</w> <w id="w342">least</w> <w id="w343">four</w> <w id="w344">functions</w> <w id="w345">that</w> <w id="w346">collectively</w> <w id="w347">lead</w> <w id="w348">to</w> <w id="w349">actin</w><w id="w350">-based</w> <w id="w351">motility</w> <w id="w352">:</w> <w id="w353">(</w> <w id="w354">1</w> <w id="w355">)</w> <w id="w356">initiation</w> <w id="w357">of</w> <w id="w358">actin</w> <w id="w359">polymerization</w> <w id="w360">,</w> <w id="w361">(</w> <w id="w362">2</w> <w id="w363">)</w> <w id="w364">polarization</w> <w id="w365">of</w> <w id="w366">ActA</w> <w id="w367">function</w> <w id="w368">,</w> <w id="w369">(</w> <w id="w370">3</w> <w id="w371">)</w> <w id="w372">transformation</w> <w id="w373">of</w> <w id="w374">actin</w> <w id="w375">polymerization</w> <w id="w376">into</w> <w id="w377">a</w> <w id="w378">motile</w> <w id="w379">force</w> <w id="w380">and</w> <w id="w381">(</w> <w id="w382">4</w> <w id="w383">)</w> <w id="w384">acceleration</w> <w id="w385">of</w> <w id="w386">movement</w> <w id="w387">mediated</w> <w id="w388">by</w> <w id="w389">the</w> <w id="w390">host</w> <w id="w391">protein</w> <w id="w392">profilin</w> <w id="w393">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e108" gid="g106" t="Individual_protein" fr="w337" to="w337" nam="yes">
+     <textspan type="extent">ActA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.22.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e109" gid="g107" t="RELATIONSHIP_TEXTBINDING" fr="w340" to="w340">
+     <textspan type="extent">control</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.22.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e110" gid="g108" t="LOCALIZATION" fr="w364" to="w367">
+     <textspan type="extent">polarization of ActA function</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.22.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e111" gid="g109" t="RELATIONSHIP_TEXTBINDING" fr="w347" to="w348">
+     <textspan type="extent">lead to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.22.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e112" gid="g110" t="STIMULATION" fr="w384" to="w392">
+     <textspan type="extent">acceleration of movement mediated by [..] protein profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="STIMULATION"/>
+      <exattr n="bd" v="e.22.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e113" gid="g111" t="Process_entity" fr="w372" to="w375">
+     <textspan type="extent">transformation of actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="bd" v="e.22.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e114" gid="g112" t="POLYMERIZATION" fr="w358" to="w359">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.22.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e115" gid="g113" t="Function_property" fr="w349" to="w351">
+     <textspan type="extent">actin-based motility</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.22.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e116" gid="g114" t="POLYMERIZATION" fr="w374" to="w375">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.22.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e117" gid="g115" t="Function_property" fr="w366" to="w367">
+     <textspan type="extent">ActA function</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.22.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e118" gid="g116" t="LOCALIZATION" fr="w386" to="w392">
+     <textspan type="extent">movement mediated by [..] protein profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Location"/>
+      <exattr n="t3" v="LOCALIZATION"/>
+      <exattr n="bd" v="e.22.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e119" gid="g117" t="Individual_protein" fr="w391" to="w392" nam="yes">
+     <textspan type="extent">protein profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.22.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e120" gid="g118" t="Individual_protein" fr="w392" to="w392" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.22.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e121" gid="g119" t="Individual_protein" fr="w349" to="w349" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.22.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e122" gid="g120" t="Individual_protein" fr="w374" to="w374" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.22.14"/>
+     </exattrs>
+    </ne>
+    <ne id="e123" gid="g121" t="Individual_protein" fr="w392" to="w392" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.22.15"/>
+     </exattrs>
+    </ne>
+    <ne id="e124" gid="g122" t="INITIATION" fr="w356" to="w359">
+     <textspan type="extent">initiation of actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Start"/>
+      <exattr n="t4" v="INITIATION"/>
+      <exattr n="bd" v="e.22.16"/>
+     </exattrs>
+    </ne>
+    <ne id="e125" gid="g123" t="Individual_protein" fr="w366" to="w366" nam="yes">
+     <textspan type="extent">ActA</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.22.17"/>
+     </exattrs>
+    </ne>
+    <ne id="e126" gid="g124" t="Individual_protein" fr="w358" to="w358" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.22.18"/>
+     </exattrs>
+    </ne>
+    <ne id="e127" gid="g125" t="Individual_protein" fr="w392" to="w392" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.22.19"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r40" t="CONTROL" e1="e108" e2="e124" re="e109">
+     <textspan type="extent">ActA appears to control at least four functions that collectively lead to actin -based motility : ( 1 ) initiation of actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.22.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r41" t="CONTROL" e1="e108" e2="e110" re="e109">
+     <textspan type="extent">ActA appears to control at least four functions that collectively lead to actin -based motility : ( 1 ) initiation of actin polymerization , ( 2 ) polarization of ActA function</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.22.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r42" t="CONTROL" e1="e108" e2="e113" re="e109">
+     <textspan type="extent">ActA appears to control at least four functions that collectively lead to actin -based motility : ( 1 ) initiation of actin polymerization , ( 2 ) polarization of ActA function , ( 3 ) transformation of actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.22.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r43" t="CONTROL" e1="e108" e2="e112" re="e109">
+     <textspan type="extent">ActA appears to control at least four functions that collectively lead to actin -based motility : ( 1 ) initiation of actin polymerization , ( 2 ) polarization of ActA function , ( 3 ) transformation of actin polymerization into a motile force and ( 4 ) acceleration of movement mediated by the host protein profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.22.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Unspecified"/>
+      <exattr n="t5" v="CONTROL"/>
+     </exattrs>
+    </rel>
+    <rel id="r44" t="CAUSE" e1="e124" e2="e115" re="e111">
+     <textspan type="extent">lead to actin -based motility : ( 1 ) initiation of actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.22.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r45" t="CAUSE" e1="e110" e2="e115" re="e111">
+     <textspan type="extent">lead to actin -based motility : ( 1 ) initiation of actin polymerization , ( 2 ) polarization of ActA function</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.22.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r46" t="CAUSE" e1="e113" e2="e115" re="e111">
+     <textspan type="extent">lead to actin -based motility : ( 1 ) initiation of actin polymerization , ( 2 ) polarization of ActA function , ( 3 ) transformation of actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.22.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r47" t="CAUSE" e1="e112" e2="e115" re="e111">
+     <textspan type="extent">lead to actin -based motility : ( 1 ) initiation of actin polymerization , ( 2 ) polarization of ActA function , ( 3 ) transformation of actin polymerization into a motile force and ( 4 ) acceleration of movement mediated by the host protein profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.22.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

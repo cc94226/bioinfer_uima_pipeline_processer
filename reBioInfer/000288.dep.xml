@@ -1,0 +1,50 @@
+<rexml>
+<doc id="288">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4456" g="w4457" t="nn" cr="nn:w4457" w="Calpain" l="~" p="N"/>
+     <dpg d="w4457" g="w4460" t="s" cr="s:w4460||subj:w4461||s+subj:w4463" w="activity" l="~" p="N"/>
+     <dpg d="w4458" g="w4459" t="lex-mod" cr="lex-mod:w4459" w="in" l="~" p="U"/>
+     <dpg d="w4459" g="w4460" t="mod-before" cr="mod-before:w4460" w="vivo" l="in vivo" p="A"/>
+     <dpg d="w4460" g="E2" t="i" cr="" w="was" l="be" p="VBE"/>
+     <dpg d="w4461" g="w4460" t="pred" cr="pred:w4460" w="determined" l="~" p="A"/>
+     <dpg d="E5" g="w4461" t="subj" cr="" w="" l="activity" p="N"/>
+     <dpg d="E5" g="w4457" t="antecedent" cr="" w="" l="activity" p="N"/>
+     <dpg d="E1" g="w4461" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4462" g="E1" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E0" g="w4462" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w4457" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w4463" g="E0" t="i" cr="mod*by*c:w4472" w="observing" l="observe" p="V"/>
+     <dpg d="E6" g="w4463" t="subj" cr="" w="" l="activity" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="activity" p="N"/>
+     <dpg d="w4464" g="w4463" t="obj" cr="obj:w4463" w="proteolysis" l="~" p="N"/>
+     <dpg d="w4465" g="w4464" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4466" g="w4467" t="mod" cr="mod:w4467" w="actin-binding" l="actin-binding" p="A"/>
+     <dpg d="w4467" g="w4465" t="pcomp-n" cr="mod*of*n:w4464" w="protein" l="~" p="N"/>
+     <dpg d="w4468" g="w4467" t="punc" cr="punc:w4467" w="and" l="~" p="U"/>
+     <dpg d="w4469" g="w4467" t="conj" cr="conj:w4467" w="talin" l="~" p="N"/>
+     <dpg d="w4470" g="E1" t="punc" cr="punc:w4472" w="," l="~" p="U"/>
+     <dpg d="w4471" g="w4472" t="s" cr="s+subj:w4472" w="two" l="~" p="N"/>
+     <dpg d="w4472" g="E1" t="i" cr="fc:w4461" w="known" l="know" p="V"/>
+     <dpg d="E7" g="w4472" t="subj" cr="" w="" l="two" p="N"/>
+     <dpg d="E7" g="w4471" t="antecedent" cr="" w="" l="two" p="N"/>
+     <dpg d="w4473" g="w4472" t="obj" cr="obj:w4472" w="substrates" l="substrate" p="N"/>
+     <dpg d="w4474" g="w4473" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w4475" g="w4474" t="pcomp-n" cr="mod*of*n:w4473" w="calpain" l="~" p="N"/>
+     <dpg d="w4476" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,54 @@
+<rexml>
+<doc id="1395">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21802" g="w21803" t="det" cr="det:w21803" w="The" l="~" p="Det"/>
+     <dpg d="w21803" g="w21817" t="s" cr="s+obj:w21817" w="binding" l="~" p="N"/>
+     <dpg d="w21804" g="w21803" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21805" g="w21809" t="mod" cr="mod:w21809" w="125I-labeled" l="125I-labeled" p="A"/>
+     <dpg d="w21806" g="w21809" t="nn" cr="nn:w21809" w="recombinant" l="~" p="N"/>
+     <dpg d="w21807" g="w21809" t="mod" cr="mod:w21809" w="birch" l="~" p="A"/>
+     <dpg d="w21808" g="w21809" t="nn" cr="nn:w21809" w="pollen" l="~" p="N"/>
+     <dpg d="w21809" g="w21804" t="pcomp-n" cr="mod*of*n:w21803" w="profilin" l="~" p="N"/>
+     <dpg d="w21810" g="w21809" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w21811" g="w21810" t="pcomp-n" cr="mod*to*n:w21809" w="plant" l="~" p="N"/>
+     <dpg d="w21812" g="w21811" t="punc" cr="punc:w21811" w="and" l="~" p="U"/>
+     <dpg d="w21813" g="w21814" t="mod" cr="mod:w21814" w="animal" l="~" p="A"/>
+     <dpg d="w21814" g="w21811" t="conj" cr="conj:w21811" w="actins" l="~" p="N"/>
+     <dpg d="w21815" g="w21817" t="aux" cr="aux:w21817" w="can" l="~" p="Aux"/>
+     <dpg d="w21816" g="w21817" t="be" cr="be:w21817" w="be" l="~" p="Be"/>
+     <dpg d="w21817" g="E1" t="i" cr="" w="blocked" l="block" p="V"/>
+     <dpg d="E3" g="w21817" t="obj" cr="" w="" l="binding" p="N"/>
+     <dpg d="E3" g="w21803" t="antecedent" cr="" w="" l="binding" p="N"/>
+     <dpg d="w21818" g="w21817" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w21819" g="w21820" t="lex-mod" cr="lex-mod:w21820" w="profilin" l="~" p="U"/>
+     <dpg d="w21820" g="w21821" t="mod" cr="mod:w21821" w="-specific" l="profilin -specific" p="A"/>
+     <dpg d="w21821" g="w21818" t="pcomp-n" cr="by-subj*by*n:w21817||subj:w21823" w="antibodies" l="antibody" p="N"/>
+     <dpg d="E0" g="w21821" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w21822" g="E0" t="whn" cr="whn:w21823" w="that" l="~" p="THAT"/>
+     <dpg d="w21822" g="w21821" t="antecedent" cr="antecedent:w21821" w="that" l="~" p="THAT"/>
+     <dpg d="w21823" g="E0" t="i" cr="rel:w21821" w="react" l="~" p="V"/>
+     <dpg d="E4" g="w21823" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E4" g="w21821" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w21824" g="w21823" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w21825" g="w21826" t="mod" cr="mod:w21826" w="different" l="~" p="A"/>
+     <dpg d="w21826" g="w21824" t="pcomp-n" cr="mod*with*n:w21823" w="epitopes" l="~" p="N"/>
+     <dpg d="w21827" g="w21826" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21828" g="w21829" t="mod" cr="mod:w21829" w="birch" l="~" p="A"/>
+     <dpg d="w21829" g="w21827" t="pcomp-n" cr="mod*of*n:w21826" w="profilin" l="~" p="N"/>
+     <dpg d="w21830" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

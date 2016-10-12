@@ -1,0 +1,55 @@
+<rexml>
+<doc id="1771">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w28327" g="w28331" t="det" cr="det:w28331" w="The" l="~" p="Det"/>
+     <dpg d="w28328" g="w28331" t="lex-mod" cr="lex-mod:w28331" w="Src" l="~" p="U"/>
+     <dpg d="w28329" g="w28331" t="lex-mod" cr="lex-mod:w28331" w="homology" l="~" p="U"/>
+     <dpg d="w28330" g="w28331" t="lex-mod" cr="lex-mod:w28331" w="domain" l="~" p="U"/>
+     <dpg d="w28331" g="w28344" t="s" cr="s+subj:w28344||obj:w28349" w="3" l="Src homology domain 3" p="N"/>
+     <dpg d="w28332" g="w28333" t="punc" cr="punc:w28333" w="(" l="~" p="U"/>
+     <dpg d="w28333" g="w28331" t="abbrev" cr="abbrev:w28331" w="SH3" l="~" p="N"/>
+     <dpg d="w28334" g="w28333" t="punc" cr="punc:w28333" w=")" l="~" p="U"/>
+     <dpg d="w28335" g="w28331" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w28336" g="w28340" t="det" cr="det:w28340" w="a" l="~" p="Det"/>
+     <dpg d="w28337" g="w28340" t="nn" cr="nn:w28340" w="yeast" l="~" p="N"/>
+     <dpg d="w28338" g="w28339" t="lex-mod" cr="lex-mod:w28339" w="type" l="~" p="U"/>
+     <dpg d="w28339" g="w28340" t="nn" cr="nn:w28340" w="I" l="type I" p="N"/>
+     <dpg d="w28340" g="w28335" t="pcomp-n" cr="mod*of*n:w28331" w="myosin" l="~" p="N"/>
+     <dpg d="w28341" g="w28340" t="punc" cr="punc:w28340" w="," l="~" p="U"/>
+     <dpg d="w28342" g="w28340" t="appo" cr="appo:w28340" w="Myo5p" l="~" p="N"/>
+     <dpg d="w28343" g="w28344" t="punc" cr="punc:w28344" w="," l="~" p="U"/>
+     <dpg d="w28344" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="binds" l="bind" p="V"/>
+     <dpg d="E3" g="w28344" t="subj" cr="" w="" l="Src homology domain 3" p="N"/>
+     <dpg d="E3" g="w28331" t="antecedent" cr="" w="" l="Src homology domain 3" p="N"/>
+     <dpg d="w28345" g="w28344" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w28346" g="w28345" t="pcomp-n" cr="mod*to*n:w28344" w="verprolin" l="~" p="N"/>
+     <dpg d="w28347" g="w28344" t="punc" cr="punc:w28344" w="and" l="~" p="U"/>
+     <dpg d="w28348" g="w28349" t="be" cr="be:w28349" w="is" l="be" p="be"/>
+     <dpg d="w28349" g="w28344" t="conj" cr="conj:w28344" w="required" l="require" p="V"/>
+     <dpg d="E4" g="w28349" t="obj" cr="" w="" l="Src homology domain 3" p="N"/>
+     <dpg d="E4" g="w28331" t="antecedent" cr="" w="" l="Src homology domain 3" p="N"/>
+     <dpg d="w28350" g="E2" t="punc" cr="punc:E2" w="for" l="~" p="U"/>
+     <dpg d="w28351" g="E2" t="punc" cr="punc:E2" w="targeting" l="~" p="U"/>
+     <dpg d="w28352" g="E2" t="p" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w28353" g="w28352" t="pcomp-n" cr="p*to*n:E2" w="sites" l="site" p="N"/>
+     <dpg d="w28354" g="w28353" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w28355" g="w28356" t="nn" cr="nn:w28356" w="actin" l="~" p="N"/>
+     <dpg d="w28356" g="w28354" t="pcomp-n" cr="mod*of*n:w28353" w="polarization" l="~" p="N"/>
+     <dpg d="w28357" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

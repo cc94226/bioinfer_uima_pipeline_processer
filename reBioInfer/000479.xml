@@ -1,0 +1,185 @@
+<rexml>
+<doc id="479">
+  <text>
+<p><s id="s1"><w id="w6724">Expressions</w> <w id="w6725">of</w> <w id="w6726">cyclin</w> <w id="w6727">E</w> <w id="w6728">,</w> <w id="w6729">A</w> <w id="w6730">,</w> <w id="w6731">and</w> <w id="w6732">B1</w> <w id="w6733">in</w> <w id="w6734">Hodgkin</w> <w id="w6735">and</w> <w id="w6736">Reed-Sternberg</w> <w id="w6737">cells</w> <w id="w6738">:</w> <w id="w6739">not</w> <w id="w6740">suppressed</w> <w id="w6741">by</w> <w id="w6742">cyclin-dependent</w> <w id="w6743">kinase</w> <w id="w6744">inhibitor</w> <w id="w6745">p21</w> <w id="w6746">expression</w> <w id="w6747">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1619" gid="g1549" t="Expression" fr="w6724" to="w6727">
+     <textspan type="extent">Expressions of cyclin E</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.479.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1620" gid="g1550" t="RELATIONSHIP_TEXTBINDING" fr="w6740" to="w6741">
+     <textspan type="extent">suppressed by</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.479.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1621" gid="g1551" t="Expression" fr="w6724" to="w6732">
+     <textspan type="extent">Expressions of cyclin [..] B1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.479.2"/>
+      <exattr n="nst" v="st.479.0.0"/>
+      <exattr n="nst" v="st.479.1.0"/>
+      <exattr n="nst" v="st.479.2.0"/>
+      <exattr n="nst" v="st.479.8.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1622" gid="g1552" t="Expression" fr="w6724" to="w6729">
+     <textspan type="extent">Expressions of cyclin [..] A</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.479.3"/>
+      <exattr n="nst" v="st.479.0.0"/>
+      <exattr n="nst" v="st.479.1.0"/>
+      <exattr n="nst" v="st.479.2.0"/>
+      <exattr n="nst" v="st.479.5.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1623" gid="g1553" t="Individual_protein" fr="w6745" to="w6745" nam="yes">
+     <textspan type="extent">p21</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.479.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1624" gid="g1554" t="Protein_family_or_group" fr="w6742" to="w6744" nam="yes">
+     <textspan type="extent">cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.479.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1625" gid="g1555" t="Expression" fr="w6745" to="w6746">
+     <textspan type="extent">p21 expression</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.479.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1626" gid="g1556" t="Individual_protein" fr="w6726" to="w6727" nam="yes">
+     <textspan type="extent">cyclin E</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.479.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1627" gid="g1557" t="RELATIONSHIP_TEXTBINDING" fr="w6739" to="w6739">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.479.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e1628" gid="g1558" t="Individual_protein" fr="w6726" to="w6729" nam="yes">
+     <textspan type="extent">cyclin [..] A</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.479.9"/>
+      <exattr n="nst" v="st.479.2.0"/>
+      <exattr n="nst" v="st.479.5.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1629" gid="g1559" t="Individual_protein" fr="w6726" to="w6732" nam="yes">
+     <textspan type="extent">cyclin [..] B1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.479.10"/>
+      <exattr n="nst" v="st.479.2.0"/>
+      <exattr n="nst" v="st.479.8.0"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r638" t="DOWNREGULATE" e1="e1625" e2="e1619" re="e1620">
+     <textspan type="extent">Expressions of cyclin E , A , and B1 in Hodgkin and Reed-Sternberg cells : not suppressed by cyclin-dependent kinase inhibitor p21 expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.479.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="DOWNREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r640" t="DOWNREGULATE" e1="e1625" e2="e1622" re="e1620">
+     <textspan type="extent">Expressions of cyclin E , A , and B1 in Hodgkin and Reed-Sternberg cells : not suppressed by cyclin-dependent kinase inhibitor p21 expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.479.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="DOWNREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r642" t="DOWNREGULATE" e1="e1625" e2="e1621" re="e1620">
+     <textspan type="extent">Expressions of cyclin E , A , and B1 in Hodgkin and Reed-Sternberg cells : not suppressed by cyclin-dependent kinase inhibitor p21 expression</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.479.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="DOWNREGULATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r643" t="MEMBER" e1="e1624" e2="e1623" re="">
+     <textspan type="extent">cyclin-dependent kinase inhibitor p21</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

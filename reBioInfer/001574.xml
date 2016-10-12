@@ -1,0 +1,216 @@
+<rexml>
+<doc id="1574">
+  <text>
+<p><s id="s1"><w id="w24940">The</w> <w id="w24941">nucleotide</w> <w id="w24942">sequences</w> <w id="w24943">of</w> <w id="w24944">nucleocapsid</w> <w id="w24945">(</w> <w id="w24946">N</w> <w id="w24947">)</w> <w id="w24948">,</w> <w id="w24949">phosphoprotein</w> <w id="w24950">(</w> <w id="w24951">P</w> <w id="w24952">)</w> <w id="w24953">,</w> <w id="w24954">matrix</w> <w id="w24955">(</w> <w id="w24956">M</w> <w id="w24957">)</w> <w id="w24958">,</w> <w id="w24959">fusion</w> <w id="w24960">(</w> <w id="w24961">F</w> <w id="w24962">)</w> <w id="w24963">,</w> <w id="w24964">and</w> <w id="w24965">large</w> <w id="w24966">protein</w> <w id="w24967">(</w> <w id="w24968">L</w> <w id="w24969">)</w> <w id="w24970">genes</w> <w id="w24971">were</w> <w id="w24972">partly</w> <w id="w24973">determined</w> <w id="w24974">for</w> <w id="w24975">19</w> <w id="w24976">wild</w> <w id="w24977">strains</w> <w id="w24978">of</w> <w id="w24979">measles</w> <w id="w24980">virus</w> <w id="w24981">(</w> <w id="w24982">MV</w> <w id="w24983">)</w> <w id="w24984">isolated</w> <w id="w24985">over</w> <w id="w24986">the</w> <w id="w24987">past</w> <w id="w24988">10</w> <w id="w24989">years</w> <w id="w24990">in</w> <w id="w24991">Japan</w> <w id="w24992">(</w> <w id="w24993">nucleotide</w> <w id="w24994">position</w> <w id="w24995">N</w> <w id="w24996">:</w> <w id="w24997">1301-1700</w> <w id="w24998">,</w> <w id="w24999">P</w> <w id="w25000">:</w> <w id="w25001">1751-2190</w> <w id="w25002">,</w> <w id="w25003">M</w> <w id="w25004">:</w> <w id="w25005">3571-4057</w> <w id="w25006">,</w> <w id="w25007">F</w> <w id="w25008">:</w> <w id="w25009">6621-7210</w> <w id="w25010">,</w> <w id="w25011">L</w> <w id="w25012">:</w> <w id="w25013">10381-11133</w> <w id="w25014">)</w> <w id="w25015">and</w> <w id="w25016">also</w> <w id="w25017">for</w> <w id="w25018">a</w> <w id="w25019">MV</w> <w id="w25020">strain</w> <w id="w25021">obtained</w> <w id="w25022">from</w> <w id="w25023">a</w> <w id="w25024">patient</w> <w id="w25025">with</w> <w id="w25026">subacute</w> <w id="w25027">sclerosing</w> <w id="w25028">panencephalitis</w> <w id="w25029">(</w> <w id="w25030">SSPE</w> <w id="w25031">)</w> <w id="w25032">who</w> <w id="w25033">had</w> <w id="w25034">natural</w> <w id="w25035">measles</w> <w id="w25036">in</w> <w id="w25037">1980</w> <w id="w25038">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5779" gid="g5517" t="Gene" fr="w24944" to="w24966" nam="yes">
+     <textspan type="extent">nucleocapsid [..] protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1574.0"/>
+      <exattr n="nst" v="st.1574.4.0"/>
+      <exattr n="nst" v="st.1574.26.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5780" gid="g5518" t="Gene" fr="w24954" to="w24966" nam="yes">
+     <textspan type="extent">matrix [..] protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1574.1"/>
+      <exattr n="nst" v="st.1574.14.0"/>
+      <exattr n="nst" v="st.1574.26.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5781" gid="g5519" t="Gene" fr="w24949" to="w24966" nam="yes">
+     <textspan type="extent">phosphoprotein [..] protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1574.2"/>
+      <exattr n="nst" v="st.1574.9.0"/>
+      <exattr n="nst" v="st.1574.26.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5782" gid="g5520" t="Gene" fr="w24965" to="w24966" nam="yes">
+     <textspan type="extent">large protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1574.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5783" gid="g5521" t="Gene" fr="w24959" to="w24966" nam="yes">
+     <textspan type="extent">fusion [..] protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1574.4"/>
+      <exattr n="nst" v="st.1574.19.0"/>
+      <exattr n="nst" v="st.1574.26.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5784" gid="g5519" t="Gene" fr="w24951" to="w24951" nam="yes">
+     <textspan type="extent">P</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1574.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5785" gid="g5517" t="Gene" fr="w24946" to="w24946" nam="yes">
+     <textspan type="extent">N</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1574.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5786" gid="g5521" t="Gene" fr="w24961" to="w24961" nam="yes">
+     <textspan type="extent">F</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1574.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e5787" gid="g5518" t="Gene" fr="w24956" to="w24956" nam="yes">
+     <textspan type="extent">M</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1574.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e5788" gid="g5522" t="Gene/protein/RNA" fr="w24995" to="w24995" nam="yes">
+     <textspan type="extent">N</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1574.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e5789" gid="g5520" t="Gene" fr="w24968" to="w24968" nam="yes">
+     <textspan type="extent">L</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.1574.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e5790" gid="g5523" t="Gene/protein/RNA" fr="w25003" to="w25003" nam="yes">
+     <textspan type="extent">M</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1574.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e5791" gid="g5524" t="Gene/protein/RNA" fr="w24999" to="w24999" nam="yes">
+     <textspan type="extent">P</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1574.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e5792" gid="g5525" t="Gene/protein/RNA" fr="w25011" to="w25011" nam="yes">
+     <textspan type="extent">L</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1574.13"/>
+     </exattrs>
+    </ne>
+    <ne id="e5793" gid="g5526" t="Gene/protein/RNA" fr="w25007" to="w25007" nam="yes">
+     <textspan type="extent">F</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1574.14"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

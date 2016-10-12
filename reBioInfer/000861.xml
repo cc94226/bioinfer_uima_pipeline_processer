@@ -1,0 +1,125 @@
+<rexml>
+<doc id="861">
+  <text>
+<p><s id="s1"><w id="w13361">In</w> <w id="w13362">this</w> <w id="w13363">actin</w> <w id="w13364">clustering</w> <w id="w13365">,</w> <w id="w13366">profilin</w> <w id="w13367">,</w> <w id="w13368">a</w> <w id="w13369">monomeric</w> <w id="w13370">actin-binding</w> <w id="w13371">protein</w> <w id="w13372">that</w> <w id="w13373">has</w> <w id="w13374">been</w> <w id="w13375">suggested</w> <w id="w13376">to</w> <w id="w13377">be</w> <w id="w13378">involved</w> <w id="w13379">in</w> <w id="w13380">actin</w> <w id="w13381">polymerization</w> <w id="w13382">,</w> <w id="w13383">was</w> <w id="w13384">shown</w> <w id="w13385">to</w> <w id="w13386">be</w> <w id="w13387">essential</w> <w id="w13388">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3071" gid="g2946" t="ASSEMBLY" fr="w13363" to="w13364">
+     <textspan type="extent">actin clustering</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.861.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3072" gid="g2947" t="RELATIONSHIP_TEXTBINDING" fr="w13387" to="w13387">
+     <textspan type="extent">essential</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.861.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3073" gid="g2948" t="Individual_protein" fr="w13366" to="w13366" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.861.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3074" gid="g2949" t="POLYMERIZATION" fr="w13380" to="w13381">
+     <textspan type="extent">actin polymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="POLYMERIZATION"/>
+      <exattr n="bd" v="e.861.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3075" gid="g2950" t="Protein_family_or_group" fr="w13370" to="w13371" nam="yes">
+     <textspan type="extent">actin-binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.861.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3076" gid="g2951" t="Individual_protein" fr="w13363" to="w13363" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.861.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3077" gid="g2952" t="RELATIONSHIP_TEXTBINDING" fr="w13378" to="w13379">
+     <textspan type="extent">involved in</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.861.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e3078" gid="g2953" t="Individual_protein" fr="w13380" to="w13380" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.861.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1194" t="MEMBER" e1="e3075" e2="e3073" re="">
+     <textspan type="extent">profilin , a monomeric actin-binding protein</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1195" t="PARTICIPATE" e1="e3073" e2="e3074" re="e3077">
+     <textspan type="extent">profilin , a monomeric actin-binding protein that has been suggested to be involved in actin polymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.861.6"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+    <rel id="r1196" t="CONDITION" e1="e3073" e2="e3071" re="e3072">
+     <textspan type="extent">actin clustering , profilin , a monomeric actin-binding protein that has been suggested to be involved in actin polymerization , was shown to be essential</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.861.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="CONDITION"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,114 @@
+<rexml>
+<doc id="568">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E9" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E4" g="E9" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8125" g="E4" t="mod" cr="mod:w8128" w="Here" l="~" p="N"/>
+     <dpg d="w8126" g="E4" t="punc" cr="punc:w8128" w="," l="~" p="U"/>
+     <dpg d="w8127" g="w8128" t="s" cr="s+subj:w8128" w="we" l="~" p="N"/>
+     <dpg d="w8128" g="E4" t="i" cr="UNSPECRELTYPE:E9" w="designed" l="design" p="V"/>
+     <dpg d="E10" g="w8128" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E10" g="w8127" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w8129" g="w8131" t="det" cr="det:w8131" w="a" l="~" p="Det"/>
+     <dpg d="w8130" g="w8131" t="mod" cr="mod:w8131" w="genetic" l="~" p="A"/>
+     <dpg d="w8131" g="w8128" t="obj" cr="obj:w8128" w="screen" l="~" p="N"/>
+     <dpg d="w8132" g="w8128" t="mod" cr="mod:w8128" w="for" l="~" p="SentAdjunct"/>
+     <dpg d="E3" g="w8132" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8133" g="w8134" t="s" cr="s+subj:w8134" w="mutant" l="~" p="N"/>
+     <dpg d="w8134" g="E3" t="i" cr="comp1:w8132" w="strains" l="strain" p="V"/>
+     <dpg d="E11" g="w8134" t="subj" cr="" w="" l="mutant" p="N"/>
+     <dpg d="E11" g="w8133" t="antecedent" cr="" w="" l="mutant" p="N"/>
+     <dpg d="w8135" g="w8138" t="lex-mod" cr="lex-mod:w8138" w="defective" l="~" p="U"/>
+     <dpg d="w8136" g="w8138" t="lex-mod" cr="lex-mod:w8138" w="for" l="~" p="U"/>
+     <dpg d="w8137" g="w8138" t="lex-mod" cr="lex-mod:w8138" w="filamentous" l="~" p="U"/>
+     <dpg d="w8138" g="w8134" t="obj" cr="obj:w8134" w="growth" l="defective for filamentous growth" p="N"/>
+     <dpg d="w8139" g="w8140" t="punc" cr="punc:w8140" w="(" l="~" p="U"/>
+     <dpg d="w8140" g="w8138" t="abbrev" cr="abbrev:w8138" w="dfg" l="~" p="N"/>
+     <dpg d="w8141" g="w8140" t="punc" cr="punc:w8140" w=")" l="~" p="U"/>
+     <dpg d="E2" g="E9" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="E1" g="E2" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E7" g="E1" t="s" cr="s+subj:w8143" w="" l="~" p="N"/>
+     <dpg d="w8142" g="w8143" t="aux" cr="aux:w8143" w="to" l="~" p="Aux"/>
+     <dpg d="w8143" g="E1" t="i" cr="mod:w8155" w="identify" l="~" p="V"/>
+     <dpg d="E12" g="w8143" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E12" g="E7" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w8144" g="w8143" t="obj" cr="obj:w8143" w="novel" l="~" p="N"/>
+     <dpg d="w8145" g="w8155" t="s" cr="s+subj:w8155" w="targets" l="target" p="N"/>
+     <dpg d="w8146" g="w8145" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w8147" g="w8148" t="det" cr="det:w8148" w="the" l="~" p="Det"/>
+     <dpg d="w8148" g="w8146" t="pcomp-n" cr="mod*of*n:w8145||s+subj:w8149" w="filamentation" l="~" p="N"/>
+     <dpg d="E0" g="w8148" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E6" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w8148" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w8149" g="E0" t="i" cr="rel:w8148" w="signaling" l="signal" p="V"/>
+     <dpg d="E13" g="w8149" t="subj" cr="" w="" l="filamentation" p="N"/>
+     <dpg d="E13" g="E6" t="antecedent" cr="" w="" l="filamentation" p="N"/>
+     <dpg d="w8150" g="w8149" t="obj" cr="obj:w8149" w="pathway" l="~" p="N"/>
+     <dpg d="w8151" g="w8150" t="punc" cr="punc:w8150" w="," l="~" p="U"/>
+     <dpg d="w8152" g="w8150" t="punc" cr="punc:w8150" w="and" l="~" p="U"/>
+     <dpg d="w8153" g="w8150" t="conj" cr="conj:w8150" w="we" l="~" p="N"/>
+     <dpg d="w8154" g="w8155" t="mod-before" cr="mod-before:w8155" w="thereby" l="~" p="A"/>
+     <dpg d="w8155" g="E2" t="i" cr="UNSPECRELTYPE:E9" w="identified" l="identify" p="V"/>
+     <dpg d="E14" g="w8155" t="subj" cr="" w="" l="target" p="N"/>
+     <dpg d="E14" g="w8145" t="antecedent" cr="" w="" l="target" p="N"/>
+     <dpg d="w8156" g="w8158" t="num" cr="num:w8158" w="16" l="~" p="N"/>
+     <dpg d="w8157" g="w8158" t="mod" cr="mod:w8158" w="different" l="~" p="A"/>
+     <dpg d="w8158" g="w8155" t="obj" cr="obj:w8155" w="genes" l="gene" p="N"/>
+     <dpg d="w8159" g="w8158" t="punc" cr="punc:w8158" w="," l="~" p="U"/>
+     <dpg d="w8160" g="w8158" t="conj" cr="conj:w8158" w="CDC39" l="~" p="N"/>
+     <dpg d="w8161" g="w8160" t="punc" cr="punc:w8160" w="," l="~" p="U"/>
+     <dpg d="w8162" g="w8160" t="conj" cr="conj:w8160" w="STE12" l="~" p="N"/>
+     <dpg d="w8163" g="w8162" t="punc" cr="punc:w8162" w="," l="~" p="U"/>
+     <dpg d="w8164" g="w8162" t="conj" cr="conj:w8162" w="TEC1" l="~" p="N"/>
+     <dpg d="w8165" g="w8164" t="punc" cr="punc:w8164" w="," l="~" p="U"/>
+     <dpg d="w8166" g="w8164" t="conj" cr="conj:w8164" w="WHI3" l="~" p="N"/>
+     <dpg d="w8167" g="w8166" t="punc" cr="punc:w8166" w="," l="~" p="U"/>
+     <dpg d="w8168" g="w8166" t="conj" cr="conj:w8166" w="NAB1" l="~" p="N"/>
+     <dpg d="w8169" g="w8168" t="punc" cr="punc:w8168" w="," l="~" p="U"/>
+     <dpg d="w8170" g="w8168" t="conj" cr="conj:w8168" w="DBR1" l="~" p="N"/>
+     <dpg d="w8171" g="w8170" t="punc" cr="punc:w8170" w="," l="~" p="U"/>
+     <dpg d="w8172" g="w8170" t="conj" cr="conj:w8170" w="CDC55" l="~" p="N"/>
+     <dpg d="w8173" g="w8172" t="punc" cr="punc:w8172" w="," l="~" p="U"/>
+     <dpg d="w8174" g="w8172" t="conj" cr="conj:w8172" w="SRV2" l="~" p="N"/>
+     <dpg d="w8175" g="w8174" t="punc" cr="punc:w8174" w="," l="~" p="U"/>
+     <dpg d="w8176" g="w8174" t="conj" cr="conj:w8174" w="TPM1" l="~" p="N"/>
+     <dpg d="w8177" g="w8176" t="punc" cr="punc:w8176" w="," l="~" p="U"/>
+     <dpg d="w8178" g="w8176" t="conj" cr="conj:w8176" w="SPA2" l="~" p="N"/>
+     <dpg d="w8179" g="w8178" t="punc" cr="punc:w8178" w="," l="~" p="U"/>
+     <dpg d="w8180" g="w8178" t="conj" cr="conj:w8178" w="BNI1" l="~" p="N"/>
+     <dpg d="w8181" g="w8180" t="punc" cr="punc:w8180" w="," l="~" p="U"/>
+     <dpg d="w8182" g="w8180" t="conj" cr="conj:w8180" w="DFG5" l="~" p="N"/>
+     <dpg d="w8183" g="w8182" t="punc" cr="punc:w8182" w="," l="~" p="U"/>
+     <dpg d="w8184" g="w8182" t="conj" cr="conj:w8182" w="DFG9" l="~" p="N"/>
+     <dpg d="w8185" g="w8184" t="punc" cr="punc:w8184" w="," l="~" p="U"/>
+     <dpg d="w8186" g="w8184" t="conj" cr="conj:w8184" w="DFG10" l="~" p="N"/>
+     <dpg d="w8187" g="w8186" t="punc" cr="punc:w8186" w="," l="~" p="U"/>
+     <dpg d="w8188" g="w8186" t="conj" cr="conj:w8186" w="BUD8" l="~" p="N"/>
+     <dpg d="w8189" g="w8188" t="punc" cr="punc:w8188" w="and" l="~" p="U"/>
+     <dpg d="w8190" g="w8188" t="conj" cr="conj:w8188" w="DFG16" l="~" p="N"/>
+     <dpg d="w8191" g="E9" t="punc" cr="punc:E9" w="," l="~" p="U"/>
+     <dpg d="w8192" g="E9" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E9||subj:w8194" w="mutations" l="mutation" p="N"/>
+     <dpg d="E5" g="w8192" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8193" g="E5" t="whn" cr="whn:w8194" w="that" l="~" p="THAT"/>
+     <dpg d="w8193" g="w8192" t="antecedent" cr="antecedent:w8192" w="that" l="~" p="THAT"/>
+     <dpg d="w8194" g="E5" t="i" cr="rel:w8192" w="block" l="~" p="V"/>
+     <dpg d="E15" g="w8194" t="subj" cr="" w="" l="that" p="THAT"/>
+     <dpg d="E15" g="w8192" t="antecedent" cr="" w="" l="that" p="THAT"/>
+     <dpg d="w8195" g="w8196" t="mod" cr="mod:w8196" w="filamentous" l="~" p="A"/>
+     <dpg d="w8196" g="w8194" t="obj" cr="obj:w8194" w="growth" l="~" p="N"/>
+     <dpg d="w8197" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,42 @@
+<rexml>
+<doc id="456">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6583" g="w6586" t="s" cr="s:w6586||subj:w6588||subj:w6592" w="Expression" l="~" p="N"/>
+     <dpg d="w6584" g="w6583" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6585" g="w6584" t="pcomp-n" cr="mod*of*n:w6583" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w6586" g="E0" t="i" cr="" w="was" l="be" p="VBE"/>
+     <dpg d="E2" g="w6588" t="subj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E2" g="w6583" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w6587" g="w6588" t="mod" cr="mod:w6588" w="generally" l="~" p="A"/>
+     <dpg d="w6588" g="w6586" t="pred" cr="pred:w6586" w="weak" l="~" p="A"/>
+     <dpg d="w6589" g="w6586" t="punc" cr="punc:w6586" w="and" l="~" p="U"/>
+     <dpg d="w6590" g="w6592" t="aux" cr="aux:w6592" w="did" l="do" p="Aux"/>
+     <dpg d="w6591" g="w6590" t="neg" cr="neg:w6590" w="not" l="~" p="A"/>
+     <dpg d="w6592" g="w6586" t="conj" cr="conj:w6586" w="correlate" l="~" p="V"/>
+     <dpg d="E3" g="w6592" t="subj" cr="" w="" l="expression" p="N"/>
+     <dpg d="E3" g="w6583" t="antecedent" cr="" w="" l="expression" p="N"/>
+     <dpg d="w6593" g="w6592" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w6594" g="w6595" t="det" cr="det:w6595" w="the" l="~" p="Det"/>
+     <dpg d="w6595" g="w6593" t="pcomp-n" cr="mod*with*n:w6592" w="expression" l="~" p="N"/>
+     <dpg d="w6596" g="w6595" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6597" g="w6596" t="punc" cr="punc:w6596" w="either" l="~" p="U"/>
+     <dpg d="w6598" g="w6596" t="pcomp-n" cr="mod*of*n:w6595" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w6599" g="w6598" t="punc" cr="punc:w6598" w="or" l="~" p="U"/>
+     <dpg d="w6600" g="w6598" t="conj" cr="conj:w6598" w="E-cadherin" l="E-cadherin" p="N"/>
+     <dpg d="w6601" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

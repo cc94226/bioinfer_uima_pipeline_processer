@@ -1,0 +1,56 @@
+<rexml>
+<doc id="716">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11098" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w11099" g="w11098" t="pcomp-n" cr="mod*in*n:w11102" w="addition" l="~" p="N"/>
+     <dpg d="w11100" g="E1" t="punc" cr="punc:w11102" w="," l="~" p="U"/>
+     <dpg d="w11101" g="w11102" t="s" cr="s+subj:w11102" w="we" l="~" p="N"/>
+     <dpg d="w11102" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="report" l="~" p="V"/>
+     <dpg d="E4" g="w11102" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E4" g="w11101" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="E0" g="w11102" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11103" g="E0" t="c" cr="c:w11105" w="that" l="~" p="COMP"/>
+     <dpg d="w11104" g="w11105" t="s" cr="s+subj:w11105" w="radiation" l="~" p="N"/>
+     <dpg d="w11105" g="E0" t="i" cr="fc:w11102" w="induced" l="induce" p="V"/>
+     <dpg d="E5" g="w11105" t="subj" cr="" w="" l="radiation" p="N"/>
+     <dpg d="E5" g="w11104" t="antecedent" cr="" w="" l="radiation" p="N"/>
+     <dpg d="w11106" g="w11107" t="mod" cr="mod:w11107" w="transient" l="~" p="A"/>
+     <dpg d="w11107" g="w11105" t="obj" cr="obj:w11105" w="activation" l="~" p="N"/>
+     <dpg d="w11108" g="w11107" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w11109" g="w11112" t="nn" cr="nn:w11112" w="c-Jun" l="c-Jun" p="N"/>
+     <dpg d="w11110" g="w11112" t="mod" cr="mod:w11112" w="N-terminal" l="N-terminal" p="A"/>
+     <dpg d="w11111" g="w11112" t="nn" cr="nn:w11112" w="kinase" l="~" p="N"/>
+     <dpg d="w11112" g="w11108" t="pcomp-n" cr="mod*of*n:w11107" w="/" l="~" p="N"/>
+     <dpg d="w11113" g="w11115" t="mod" cr="mod:w11115" w="stress-activated" l="stress-activated" p="A"/>
+     <dpg d="w11114" g="w11115" t="nn" cr="nn:w11115" w="protein" l="~" p="N"/>
+     <dpg d="w11115" g="E3" t="subclass" cr="subclass:E3" w="kinase" l="~" p="N"/>
+     <dpg d="w11116" g="w11115" t="punc" cr="punc:w11115" w="(" l="~" p="U"/>
+     <dpg d="w11117" g="w11121" t="nn" cr="nn:w11121" w="JNK" l="~" p="N"/>
+     <dpg d="w11118" g="w11121" t="nn" cr="nn:w11121" w="/" l="~" p="N"/>
+     <dpg d="w11119" g="w11121" t="nn" cr="nn:w11121" w="SAPK" l="~" p="N"/>
+     <dpg d="w11120" g="w11121" t="punc" cr="punc:w11121" w=")" l="~" p="U"/>
+     <dpg d="w11121" g="w11115" t="appo" cr="appo:w11115" w="activation" l="~" p="N"/>
+     <dpg d="w11122" g="w11121" t="punc" cr="punc:w11121" w="and" l="~" p="U"/>
+     <dpg d="w11123" g="w11125" t="det" cr="det:w11125" w="the" l="~" p="Det"/>
+     <dpg d="w11124" g="w11125" t="nn" cr="nn:w11125" w="transcription" l="~" p="N"/>
+     <dpg d="w11125" g="w11121" t="conj" cr="conj:w11121" w="factor" l="~" p="N"/>
+     <dpg d="w11126" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w11127" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="AP-1" l="AP-1" p="N"/>
+     <dpg d="w11128" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

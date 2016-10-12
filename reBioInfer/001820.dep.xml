@@ -1,0 +1,48 @@
+<rexml>
+<doc id="1820">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w29298" g="w29300" t="det" cr="det:w29300" w="This" l="~" p="Det"/>
+     <dpg d="w29299" g="w29300" t="mod" cr="mod:w29300" w="mutant" l="~" p="A"/>
+     <dpg d="w29300" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3||obj:w29308" w="profilin" l="~" p="N"/>
+     <dpg d="E1" g="w29300" t="rel" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29301" g="w29302" t="s" cr="s+subj:w29302" w="I" l="~" p="N"/>
+     <dpg d="w29302" g="E1" t="i" cr="rel:w29300" w="suppresses" l="suppress" p="V"/>
+     <dpg d="E4" g="w29302" t="subj" cr="" w="" l="I" p="N"/>
+     <dpg d="E4" g="w29301" t="antecedent" cr="" w="" l="I" p="N"/>
+     <dpg d="E0" g="w29302" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w29303" g="w29304" t="nn" cr="nn:w29304" w="actin" l="~" p="N"/>
+     <dpg d="w29304" g="w29308" t="s" cr="s+subj:w29308" w="polymerization" l="~" p="N"/>
+     <dpg d="w29305" g="w29304" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w29306" g="w29307" t="nn" cr="nn:w29307" w="microspike" l="~" p="N"/>
+     <dpg d="w29307" g="w29305" t="pcomp-n" cr="mod*in*n:w29304" w="formation" l="~" p="N"/>
+     <dpg d="w29308" g="E0" t="i" cr="fc:w29302" w="induced" l="induce" p="V"/>
+     <dpg d="E5" g="w29308" t="obj" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E5" g="w29300" t="antecedent" cr="" w="" l="profilin" p="N"/>
+     <dpg d="E6" g="w29308" t="subj" cr="" w="" l="polymerization" p="N"/>
+     <dpg d="E6" g="w29304" t="antecedent" cr="" w="" l="polymerization" p="N"/>
+     <dpg d="w29309" g="w29308" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w29310" g="w29309" t="pcomp-n" cr="mod*by*n:w29308" w="N-WASP" l="N-WASP" p="N"/>
+     <dpg d="w29311" g="E3" t="punc" cr="punc:E3" w="," l="~" p="U"/>
+     <dpg d="w29312" g="w29314" t="det" cr="det:w29314" w="the" l="~" p="Det"/>
+     <dpg d="w29313" g="w29314" t="mod" cr="mod:w29314" w="essential" l="~" p="A"/>
+     <dpg d="w29314" g="E3" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E3" w="factor" l="~" p="N"/>
+     <dpg d="w29315" g="w29314" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w29316" g="w29317" t="nn" cr="nn:w29317" w="microspike" l="~" p="N"/>
+     <dpg d="w29317" g="w29315" t="pcomp-n" cr="mod*in*n:w29314" w="formation" l="~" p="N"/>
+     <dpg d="w29318" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

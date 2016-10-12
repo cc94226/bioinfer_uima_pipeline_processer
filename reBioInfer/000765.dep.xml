@@ -1,0 +1,58 @@
+<rexml>
+<doc id="765">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11860" g="E1" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w11861" g="w11862" t="nn" cr="nn:w11862" w="growth" l="~" p="N"/>
+     <dpg d="w11862" g="w11860" t="pcomp-n" cr="mod*in*n:w11868" w="cones" l="cone" p="N"/>
+     <dpg d="w11863" g="E1" t="punc" cr="punc:w11868" w="," l="~" p="U"/>
+     <dpg d="w11864" g="w11867" t="nn" cr="nn:w11867" w="myosin" l="~" p="N"/>
+     <dpg d="w11865" g="w11867" t="mod" cr="mod:w11867" w="heavy" l="~" p="A"/>
+     <dpg d="w11866" g="w11867" t="nn" cr="nn:w11867" w="chain" l="~" p="N"/>
+     <dpg d="w11867" g="w11868" t="s" cr="s:w11868||subj:w11869" w="B" l="~" p="N"/>
+     <dpg d="w11868" g="E1" t="i" cr="" w="was" l="be" p="VBE"/>
+     <dpg d="w11869" g="w11868" t="pred" cr="pred:w11868||obj:w11870" w="most" l="~" p="N"/>
+     <dpg d="E4" g="w11869" t="subj" cr="" w="" l="B" p="N"/>
+     <dpg d="E4" g="w11867" t="antecedent" cr="" w="" l="B" p="N"/>
+     <dpg d="w11870" g="w11869" t="vrel" cr="vrel:w11869" w="concentrated" l="concentrate" p="V"/>
+     <dpg d="E5" g="w11870" t="obj" cr="" w="" l="most" p="N"/>
+     <dpg d="E5" g="w11869" t="antecedent" cr="" w="" l="most" p="N"/>
+     <dpg d="w11871" g="w11870" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w11872" g="w11873" t="det" cr="det:w11873" w="the" l="~" p="Det"/>
+     <dpg d="w11873" g="w11871" t="pcomp-n" cr="mod*in*n:w11870||s+subj:w11874" w="margin" l="~" p="N"/>
+     <dpg d="E0" g="w11873" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w11873" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w11874" g="E0" t="i" cr="rel:w11873" w="bordering" l="border" p="V"/>
+     <dpg d="E6" g="w11874" t="subj" cr="" w="" l="margin" p="N"/>
+     <dpg d="E6" g="E2" t="antecedent" cr="" w="" l="margin" p="N"/>
+     <dpg d="w11875" g="w11880" t="det" cr="det:w11880" w="the" l="~" p="Det"/>
+     <dpg d="w11876" g="w11880" t="mod" cr="mod:w11880" w="thickened" l="~" p="A"/>
+     <dpg d="w11877" g="w11880" t="punc" cr="punc:w11880" w="," l="~" p="U"/>
+     <dpg d="w11878" g="w11880" t="mod" cr="mod:w11880" w="organelle-rich" l="organelle-rich" p="A"/>
+     <dpg d="w11879" g="w11880" t="mod" cr="mod:w11880" w="central" l="~" p="A"/>
+     <dpg d="w11880" g="w11874" t="obj" cr="obj:w11874" w="region" l="~" p="N"/>
+     <dpg d="w11881" g="w11880" t="punc" cr="punc:w11880" w="and" l="~" p="U"/>
+     <dpg d="w11882" g="w11888" t="det" cr="det:w11888" w="the" l="~" p="Det"/>
+     <dpg d="w11883" g="w11888" t="mod" cr="mod:w11888" w="thin" l="~" p="A"/>
+     <dpg d="w11884" g="w11888" t="punc" cr="punc:w11888" w="," l="~" p="U"/>
+     <dpg d="w11885" g="w11886" t="lex-mod" cr="lex-mod:w11886" w="actin" l="~" p="U"/>
+     <dpg d="w11886" g="w11888" t="mod" cr="mod:w11888" w="-rich" l="actin -rich" p="A"/>
+     <dpg d="w11887" g="w11888" t="mod" cr="mod:w11888" w="peripheral" l="~" p="A"/>
+     <dpg d="w11888" g="w11880" t="conj" cr="conj:w11880" w="region" l="~" p="N"/>
+     <dpg d="w11889" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

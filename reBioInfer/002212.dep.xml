@@ -1,0 +1,51 @@
+<rexml>
+<doc id="2212">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w34113" g="" t="" cr="" w="While" l="~" p="SentAdjunct"/>
+     <dpg d="E2" g="w34113" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w34114" g="w34117" t="s" cr="s+obj:w34117||s:w34119||subj:w34120" w="alpha-catenin" l="alpha-catenin" p="N"/>
+     <dpg d="w34115" g="w34117" t="have" cr="have:w34117" w="has" l="have" p="have"/>
+     <dpg d="w34116" g="w34117" t="be" cr="be:w34117" w="been" l="be" p="be"/>
+     <dpg d="w34117" g="E2" t="i" cr="comp1:w34113" w="demonstrated" l="demonstrate" p="V"/>
+     <dpg d="E5" g="w34117" t="obj" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="E5" g="w34114" t="antecedent" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="E1" g="w34117" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w34114" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w34118" g="w34119" t="aux" cr="aux:w34119" w="to" l="~" p="Aux"/>
+     <dpg d="w34119" g="E1" t="i" cr="mod:w34117" w="be" l="~" p="VBE"/>
+     <dpg d="w34120" g="w34119" t="pred" cr="pred:w34119" w="crucial" l="~" p="A"/>
+     <dpg d="E6" g="w34120" t="subj" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="E6" g="E3" t="antecedent" cr="" w="" l="alpha-catenin" p="N"/>
+     <dpg d="E0" g="w34120" t="subj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w34121" g="E0" t="mod" cr="" w="for" l="~" p="Prep"/>
+     <dpg d="w34122" g="w34123" t="nn" cr="nn:w34123" w="cadherin" l="~" p="N"/>
+     <dpg d="w34123" g="w34121" t="pcomp-n" cr="mod*for*n:w34133" w="function" l="~" p="N"/>
+     <dpg d="w34124" g="E0" t="punc" cr="punc:w34133" w="," l="~" p="U"/>
+     <dpg d="w34125" g="w34126" t="det" cr="det:w34126" w="the" l="~" p="Det"/>
+     <dpg d="w34126" g="w34133" t="s" cr="s+obj:w34133" w="role" l="~" p="N"/>
+     <dpg d="w34127" g="w34126" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34128" g="w34127" t="pcomp-n" cr="mod*of*n:w34126" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w34129" g="w34133" t="be" cr="be:w34133" w="is" l="be" p="be"/>
+     <dpg d="w34130" g="w34129" t="neg" cr="neg:w34129" w="not" l="~" p="A"/>
+     <dpg d="w34131" g="w34132" t="mod" cr="mod:w34132" w="yet" l="~" p="A"/>
+     <dpg d="w34132" g="w34133" t="amod" cr="amod:w34133" w="fully" l="~" p="A"/>
+     <dpg d="w34133" g="E0" t="i" cr="subj:w34120" w="understood" l="understand" p="V"/>
+     <dpg d="E7" g="w34133" t="obj" cr="" w="" l="role" p="N"/>
+     <dpg d="E7" g="w34126" t="antecedent" cr="" w="" l="role" p="N"/>
+     <dpg d="w34134" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

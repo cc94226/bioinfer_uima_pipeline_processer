@@ -1,0 +1,28 @@
+<rexml>
+<doc id="963">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="w15047" g="" t="" cr="" w="Mechanism" l="~" p="N"/>
+     <dpg d="w15048" g="w15047" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15049" g="w15048" t="pcomp-n" cr="mod*of*n:w15047" w="regulation" l="~" p="N"/>
+     <dpg d="w15050" g="w15049" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w15051" g="w15052" t="nn" cr="nn:w15052" w="actin" l="~" p="N"/>
+     <dpg d="w15052" g="w15050" t="pcomp-n" cr="mod*of*n:w15049" w="polymerization" l="~" p="N"/>
+     <dpg d="w15053" g="w15052" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w15054" g="w15055" t="nn" cr="nn:w15055" w="Physarum" l="~" p="N"/>
+     <dpg d="w15055" g="w15053" t="pcomp-n" cr="mod*by*n:w15052" w="profilin" l="~" p="N"/>
+     <dpg d="w15056" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

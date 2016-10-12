@@ -1,0 +1,120 @@
+<rexml>
+<doc id="714">
+  <text>
+<p><s id="s1"><w id="w11032">In</w> <w id="w11033">addition</w> <w id="w11034">,</w> <w id="w11035">we</w> <w id="w11036">have</w> <w id="w11037">demonstrated</w> <w id="w11038">that</w> <w id="w11039">increased</w> <w id="w11040">gene</w> <w id="w11041">dosage</w> <w id="w11042">of</w> <w id="w11043">either</w> <w id="w11044">SIR1</w> <w id="w11045">or</w> <w id="w11046">SIR4</w> <w id="w11047">,</w> <w id="w11048">two</w> <w id="w11049">other</w> <w id="w11050">factors</w> <w id="w11051">required</w> <w id="w11052">for</w> <w id="w11053">silencing</w> <w id="w11054">,</w> <w id="w11055">suppresses</w> <w id="w11056">the</w> <w id="w11057">silencing</w> <w id="w11058">defect</w> <w id="w11059">of</w> <w id="w11060">the</w> <w id="w11061">rap1</w> <w id="w11062">mutants</w> <w id="w11063">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2592" gid="g2485" t="Amount_property" fr="w11041" to="w11044">
+     <textspan type="extent">dosage of [..] SIR1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.714.0"/>
+      <exattr n="nst" v="st.714.9.0"/>
+      <exattr n="nst" v="st.714.10.0"/>
+      <exattr n="nst" v="st.714.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2593" gid="g2486" t="RELATIONSHIP_TEXTBINDING" fr="w11055" to="w11055">
+     <textspan type="extent">suppresses</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.714.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2594" gid="g2487" t="Function_property" fr="w11058" to="w11062">
+     <textspan type="extent">defect of the rap1 mutants</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Function_property"/>
+      <exattr n="bd" v="e.714.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2595" gid="g2488" t="Amount_property" fr="w11041" to="w11046">
+     <textspan type="extent">dosage of [..] SIR4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.714.3"/>
+      <exattr n="nst" v="st.714.9.0"/>
+      <exattr n="nst" v="st.714.10.0"/>
+      <exattr n="nst" v="st.714.14.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2596" gid="g2489" t="Mutant" fr="w11060" to="w11062" nam="yes">
+     <textspan type="extent">the rap1 mutants</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.714.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2597" gid="g2490" t="Individual_protein" fr="w11044" to="w11044" nam="yes">
+     <textspan type="extent">SIR1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.714.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2598" gid="g2491" t="Individual_protein" fr="w11046" to="w11046" nam="yes">
+     <textspan type="extent">SIR4</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.714.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2599" gid="g2492" t="Gene" fr="w11061" to="w11061" nam="yes">
+     <textspan type="extent">rap1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Nucleic_acid"/>
+      <exattr n="t6" v="DNA"/>
+      <exattr n="t7" v="Domain_or_region_of_DNA"/>
+      <exattr n="t8" v="Gene"/>
+      <exattr n="bd" v="e.714.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r997" t="SUPPRESS" e1="e2592" e2="e2594" re="e2593">
+     <textspan type="extent">dosage of either SIR1 or SIR4 , two other factors required for silencing , suppresses the silencing defect of the rap1 mutants</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.714.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+    <rel id="r998" t="SUPPRESS" e1="e2595" e2="e2594" re="e2593">
+     <textspan type="extent">dosage of either SIR1 or SIR4 , two other factors required for silencing , suppresses the silencing defect of the rap1 mutants</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.714.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="SUPPRESS"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

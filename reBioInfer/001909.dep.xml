@@ -1,0 +1,65 @@
+<rexml>
+<doc id="1909">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="E2" g="E3" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E6" g="E2" t="s" cr="s+subj:w30735" w="" l="~" p="N"/>
+     <dpg d="w30734" g="w30735" t="aux" cr="aux:w30735" w="To" l="~" p="Aux"/>
+     <dpg d="w30735" g="E2" t="i" cr="mod:w30745" w="improve" l="~" p="V"/>
+     <dpg d="E8" g="w30735" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="E6" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w30736" g="w30737" t="gen" cr="gen:w30737" w="our" l="~" p="N"/>
+     <dpg d="w30737" g="w30735" t="obj" cr="obj:w30735||s+subj:w30739" w="ability" l="~" p="N"/>
+     <dpg d="E1" g="w30737" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E5" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w30737" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w30738" g="w30739" t="aux" cr="aux:w30739" w="to" l="~" p="Aux"/>
+     <dpg d="w30739" g="E1" t="i" cr="rel:w30737" w="study" l="~" p="V"/>
+     <dpg d="E9" g="w30739" t="subj" cr="" w="" l="ability" p="N"/>
+     <dpg d="E9" g="E5" t="antecedent" cr="" w="" l="ability" p="N"/>
+     <dpg d="w30740" g="w30741" t="det" cr="det:w30741" w="these" l="~" p="Det"/>
+     <dpg d="w30741" g="w30739" t="obj" cr="obj:w30739" w="proteins" l="protein" p="N"/>
+     <dpg d="w30742" g="E3" t="punc" cr="punc:w30745" w="," l="~" p="U"/>
+     <dpg d="w30743" g="w30745" t="s" cr="s+subj:w30745||s+subj:w30758" w="we" l="~" p="N"/>
+     <dpg d="w30744" g="w30745" t="have" cr="have:w30745" w="have" l="~" p="have"/>
+     <dpg d="w30745" g="E3" t="i" cr="" w="expressed" l="express" p="V"/>
+     <dpg d="E10" g="w30745" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E10" g="w30743" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w30746" g="w30745" t="obj" cr="obj:w30745" w="UL5" l="~" p="N"/>
+     <dpg d="w30747" g="w30746" t="punc" cr="punc:w30746" w="," l="~" p="U"/>
+     <dpg d="w30748" g="w30746" t="conj" cr="conj:w30746" w="UL8" l="~" p="N"/>
+     <dpg d="w30749" g="w30748" t="punc" cr="punc:w30748" w="," l="~" p="U"/>
+     <dpg d="w30750" g="w30748" t="conj" cr="conj:w30748" w="UL9" l="~" p="N"/>
+     <dpg d="w30751" g="w30750" t="punc" cr="punc:w30750" w="," l="~" p="U"/>
+     <dpg d="w30752" g="w30750" t="punc" cr="punc:w30750" w="and" l="~" p="U"/>
+     <dpg d="w30753" g="w30750" t="conj" cr="conj:w30750" w="UL52" l="~" p="N"/>
+     <dpg d="w30754" g="w30753" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w30755" g="w30756" t="nn" cr="nn:w30756" w="insect" l="~" p="N"/>
+     <dpg d="w30756" g="w30754" t="pcomp-n" cr="mod*in*n:w30753" w="cells" l="cell" p="N"/>
+     <dpg d="w30757" g="w30756" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="E0" g="w30757" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w30743" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w30758" g="E0" t="i" cr="mod*by*c:w30756" w="using" l="use" p="V"/>
+     <dpg d="E11" g="w30758" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E11" g="E4" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w30759" g="w30762" t="det" cr="det:w30762" w="the" l="~" p="Det"/>
+     <dpg d="w30760" g="w30762" t="nn" cr="nn:w30762" w="baculovirus" l="~" p="N"/>
+     <dpg d="w30761" g="w30762" t="nn" cr="nn:w30762" w="expression" l="~" p="N"/>
+     <dpg d="w30762" g="w30758" t="obj" cr="obj:w30758" w="system" l="~" p="N"/>
+     <dpg d="w30763" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,46 @@
+<rexml>
+<doc id="1349">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20997" g="w20998" t="det" cr="det:w20998" w="The" l="~" p="Det"/>
+     <dpg d="w20998" g="w21003" t="s" cr="s:w21003||s+subj:w20999||subj:w21004||s+subj:w21006" w="CREB" l="~" p="N"/>
+     <dpg d="E1" g="w20998" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w20998" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w20999" g="E1" t="i" cr="rel:w20998" w="binding" l="bind" p="V"/>
+     <dpg d="E6" g="w20999" t="subj" cr="" w="" l="CREB" p="N"/>
+     <dpg d="E6" g="E4" t="antecedent" cr="" w="" l="CREB" p="N"/>
+     <dpg d="w21000" g="w20999" t="obj" cr="obj:w20999" w="domain" l="~" p="N"/>
+     <dpg d="w21001" g="w20998" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w21002" g="w21001" t="pcomp-n" cr="mod*of*n:w20998" w="CBP" l="~" p="N"/>
+     <dpg d="w21003" g="E2" t="i" cr="" w="is" l="be" p="VBE"/>
+     <dpg d="w21004" g="w21003" t="pred" cr="pred:w21003" w="sufficient" l="~" p="A"/>
+     <dpg d="E7" g="w21004" t="subj" cr="" w="" l="CREB" p="N"/>
+     <dpg d="E7" g="w20998" t="antecedent" cr="" w="" l="CREB" p="N"/>
+     <dpg d="E0" g="w21004" t="fc" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w20998" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w21005" g="w21006" t="aux" cr="aux:w21006" w="to" l="~" p="Aux"/>
+     <dpg d="w21006" g="E0" t="i" cr="fc:w21004" w="contact" l="~" p="V"/>
+     <dpg d="E8" g="w21006" t="subj" cr="" w="" l="CREB" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="CREB" p="N"/>
+     <dpg d="w21007" g="w21006" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w21008" g="w21007" t="pcomp-n" cr="mod*to*n:w21006" w="c-Jun" l="c-Jun" p="N"/>
+     <dpg d="w21009" g="w21010" t="lex-mod" cr="lex-mod:w21010" w="in" l="~" p="U"/>
+     <dpg d="w21010" g="w21006" t="mod" cr="mod:w21006" w="vitro" l="in vitro" p="A"/>
+     <dpg d="w21011" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

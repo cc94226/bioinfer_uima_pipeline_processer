@@ -1,0 +1,49 @@
+<rexml>
+<doc id="1308">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20517" g="w20527" t="s" cr="s+subj:w20527||s+subj:w20528||s+subj:w20530" w="Suppression" l="~" p="N"/>
+     <dpg d="w20518" g="w20517" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w20519" g="w20520" t="nn" cr="nn:w20520" w="cell" l="~" p="N"/>
+     <dpg d="w20520" g="w20518" t="pcomp-n" cr="mod*of*n:w20517" w="transformation" l="~" p="N"/>
+     <dpg d="w20521" g="w20520" t="mod" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w20522" g="w20526" t="det" cr="det:w20526" w="the" l="~" p="Det"/>
+     <dpg d="w20523" g="w20526" t="mod" cr="mod:w20526" w="cyclin-dependent" l="cyclin-dependent" p="A"/>
+     <dpg d="w20524" g="w20526" t="nn" cr="nn:w20526" w="kinase" l="~" p="N"/>
+     <dpg d="w20525" g="w20526" t="nn" cr="nn:w20526" w="inhibitor" l="~" p="N"/>
+     <dpg d="w20526" g="w20521" t="pcomp-n" cr="mod*by*n:w20520" w="p57KIP2" l="~" p="N"/>
+     <dpg d="w20527" g="E2" t="i" cr="" w="requires" l="require" p="V"/>
+     <dpg d="E6" g="w20527" t="subj" cr="" w="" l="suppression" p="N"/>
+     <dpg d="E6" g="w20517" t="antecedent" cr="" w="" l="suppression" p="N"/>
+     <dpg d="E1" g="w20527" t="fc" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w20517" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w20528" g="E1" t="i" cr="fc:w20527" w="binding" l="bind" p="V"/>
+     <dpg d="E7" g="w20528" t="subj" cr="" w="" l="suppression" p="N"/>
+     <dpg d="E7" g="E4" t="antecedent" cr="" w="" l="suppression" p="N"/>
+     <dpg d="w20529" g="w20528" t="guest" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="E0" g="w20529" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E3" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w20530" g="E0" t="i" cr="guest*to*c:w20528" w="proliferating" l="proliferate" p="V"/>
+     <dpg d="E8" g="w20530" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E8" g="E3" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w20531" g="w20533" t="nn" cr="nn:w20533" w="cell" l="~" p="N"/>
+     <dpg d="w20532" g="w20533" t="mod" cr="mod:w20533" w="nuclear" l="~" p="A"/>
+     <dpg d="w20533" g="w20528" t="obj" cr="obj:w20528" w="antigen" l="~" p="N"/>
+     <dpg d="w20534" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

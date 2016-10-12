@@ -1,0 +1,161 @@
+<rexml>
+<doc id="441">
+  <text>
+<p><s id="s1"><w id="w6305">Even</w> <w id="w6306">the</w> <w id="w6307">Munc18-2</w> <w id="w6308">mutants</w> <w id="w6309">that</w> <w id="w6310">do</w> <w id="w6311">not</w> <w id="w6312">detectably</w> <w id="w6313">bind</w> <w id="w6314">syntaxin</w> <w id="w6315">3</w> <w id="w6316">were</w> <w id="w6317">membrane</w> <w id="w6318">associated</w> <w id="w6319">in</w> <w id="w6320">Caco-2</w> <w id="w6321">cells</w> <w id="w6322">,</w> <w id="w6323">suggesting</w> <w id="w6324">that</w> <w id="w6325">the</w> <w id="w6326">syntaxin</w> <w id="w6327">interaction</w> <w id="w6328">is</w> <w id="w6329">not</w> <w id="w6330">the</w> <w id="w6331">sole</w> <w id="w6332">determinant</w> <w id="w6333">of</w> <w id="w6334">Sec1</w> <w id="w6335">protein</w> <w id="w6336">membrane</w> <w id="w6337">attachment</w> <w id="w6338">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e1536" gid="g1467" t="Mutant" fr="w6307" to="w6308" nam="yes">
+     <textspan type="extent">Munc18-2 mutants</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.441.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1537" gid="g1468" t="RELATIONSHIP_TEXTBINDING" fr="w6313" to="w6313">
+     <textspan type="extent">bind</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.441.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e1538" gid="g1469" t="ASSEMBLY" fr="w6334" to="w6337">
+     <textspan type="extent">Sec1 protein [..] attachment</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Assembly"/>
+      <exattr n="t4" v="ASSEMBLY"/>
+      <exattr n="bd" v="e.441.2"/>
+      <exattr n="nst" v="st.441.29.0"/>
+      <exattr n="nst" v="st.441.30.0"/>
+      <exattr n="nst" v="st.441.32.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1539" gid="g1470" t="RELATIONSHIP_TEXTBINDING" fr="w6329" to="w6333">
+     <textspan type="extent">not the sole determinant of</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.441.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e1540" gid="g1471" t="Individual_protein" fr="w6334" to="w6335" nam="yes">
+     <textspan type="extent">Sec1 protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.441.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e1541" gid="g1472" t="INTERACTION" fr="w6326" to="w6327">
+     <textspan type="extent">syntaxin interaction</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="INTERACTION"/>
+      <exattr n="bd" v="e.441.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1542" gid="g1473" t="RELATIONSHIP_TEXTBINDING" fr="w6311" to="w6311">
+     <textspan type="extent">not</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.441.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1543" gid="g1474" t="Individual_protein" fr="w6307" to="w6307" nam="yes">
+     <textspan type="extent">Munc18-2</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.441.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e1544" gid="g1475" t="Individual_protein" fr="w6314" to="w6315" nam="yes">
+     <textspan type="extent">syntaxin 3</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.441.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e1545" gid="g1476" t="Individual_protein" fr="w6334" to="w6334" nam="yes">
+     <textspan type="extent">Sec1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.441.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e1546" gid="g1477" t="Individual_protein" fr="w6334" to="w6334" nam="yes">
+     <textspan type="extent">Sec1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.441.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e1547" gid="g1478" t="Individual_protein" fr="w6326" to="w6326" nam="yes">
+     <textspan type="extent">syntaxin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.441.11"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r607" t="BIND" e1="e1536" e2="e1544" re="e1537">
+     <textspan type="extent">Munc18-2 mutants that do not detectably bind syntaxin 3</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.441.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r608" t="PARTICIPATE" e1="e1541" e2="e1538" re="e1539">
+     <textspan type="extent">syntaxin interaction is not the sole determinant of Sec1 protein membrane attachment</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.441.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="PARTICIPATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

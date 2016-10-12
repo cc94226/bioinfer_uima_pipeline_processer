@@ -1,0 +1,96 @@
+<rexml>
+<doc id="1486">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E3" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23238" g="w23239" t="det" cr="det:w23239" w="The" l="~" p="Det"/>
+     <dpg d="w23239" g="w23240" t="s" cr="s+subj:w23240" w="findings" l="finding" p="N"/>
+     <dpg d="w23240" g="E3" t="i" cr="UNSPECRELTYPE:E5" w="suggest" l="~" p="V"/>
+     <dpg d="E6" g="w23240" t="subj" cr="" w="" l="finding" p="N"/>
+     <dpg d="E6" g="w23239" t="antecedent" cr="" w="" l="finding" p="N"/>
+     <dpg d="E2" g="w23240" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23241" g="E2" t="c" cr="c:w23246" w="that" l="~" p="COMP"/>
+     <dpg d="w23242" g="w23244" t="nn" cr="nn:w23244" w="M1" l="~" p="N"/>
+     <dpg d="w23243" g="w23244" t="mod" cr="mod:w23244" w="muscarinic" l="~" p="A"/>
+     <dpg d="w23244" g="w23246" t="s" cr="s+obj:w23246" w="receptors" l="receptor" p="N"/>
+     <dpg d="w23245" g="w23246" t="be" cr="be:w23246" w="are" l="be" p="be"/>
+     <dpg d="w23246" g="E2" t="i" cr="fc:w23240" w="involved" l="involve" p="V"/>
+     <dpg d="E7" g="w23246" t="obj" cr="" w="" l="receptor" p="N"/>
+     <dpg d="E7" g="w23244" t="antecedent" cr="" w="" l="receptor" p="N"/>
+     <dpg d="w23247" g="w23246" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w23248" g="w23252" t="mod" cr="mod:w23252" w="muscarinic" l="~" p="A"/>
+     <dpg d="w23249" g="w23251" t="lex-mod" cr="lex-mod:w23251" w="receptor" l="~" p="U"/>
+     <dpg d="w23250" g="w23251" t="lex-mod" cr="lex-mod:w23251" w="-" l="~" p="U"/>
+     <dpg d="w23251" g="w23252" t="mod" cr="mod:w23252" w="mediated" l="receptor - mediated" p="A"/>
+     <dpg d="w23252" g="w23247" t="pcomp-n" cr="mod*in*n:w23246" w="enhancement" l="~" p="N"/>
+     <dpg d="w23253" g="w23252" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w23254" g="w23255" t="nn" cr="nn:w23255" w="IL-2" l="IL-2" p="N"/>
+     <dpg d="w23255" g="w23253" t="pcomp-n" cr="mod*of*n:w23252" w="production" l="~" p="N"/>
+     <dpg d="w23256" g="w23255" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w23257" g="w23258" t="nn" cr="nn:w23258" w="Jurkat" l="~" p="N"/>
+     <dpg d="w23258" g="w23256" t="pcomp-n" cr="mod*in*n:w23255" w="cells" l="cell" p="N"/>
+     <dpg d="w23259" g="E2" t="punc" cr="punc:w23246" w="and" l="~" p="U"/>
+     <dpg d="E1" g="E2" t="conj" cr="" w="" l="fin" p="C"/>
+     <dpg d="w23260" g="E1" t="c" cr="c:w23263" w="that" l="~" p="COMP"/>
+     <dpg d="w23261" g="w23262" t="det" cr="det:w23262" w="the" l="~" p="Det"/>
+     <dpg d="w23262" g="w23263" t="s" cr="s+subj:w23263" w="transcription" l="~" p="N"/>
+     <dpg d="w23263" g="E1" t="i" cr="conj:w23246" w="factor" l="~" p="V"/>
+     <dpg d="E8" g="w23263" t="subj" cr="" w="" l="transcription" p="N"/>
+     <dpg d="E8" g="w23262" t="antecedent" cr="" w="" l="transcription" p="N"/>
+     <dpg d="w23264" g="w23263" t="obj" cr="obj:w23263" w="AP-1" l="AP-1" p="N"/>
+     <dpg d="w23265" g="w23264" t="punc" cr="punc:w23264" w="and" l="~" p="U"/>
+     <dpg d="w23266" g="w23264" t="conj" cr="conj:w23264" w="pathways" l="pathway" p="N"/>
+     <dpg d="w23267" g="w23266" t="mod" cr="" w="via" l="~" p="Prep"/>
+     <dpg d="w23268" g="w23270" t="lex-mod" cr="lex-mod:w23270" w="mitogen-activated" l="~" p="U"/>
+     <dpg d="w23269" g="w23270" t="lex-mod" cr="lex-mod:w23270" w="protein" l="~" p="U"/>
+     <dpg d="w23270" g="w23267" t="pcomp-n" cr="mod*via*n:w23266" w="kinase" l="mitogen-activated protein kinase" p="N"/>
+     <dpg d="w23271" g="w23272" t="punc" cr="punc:w23272" w="(" l="~" p="U"/>
+     <dpg d="w23272" g="w23270" t="abbrev" cr="abbrev:w23270" w="MAPK" l="~" p="N"/>
+     <dpg d="w23273" g="w23275" t="nn" cr="nn:w23275" w=")/" l="~" p="N"/>
+     <dpg d="w23274" g="w23275" t="mod" cr="mod:w23275" w="extracellular" l="~" p="A"/>
+     <dpg d="w23275" g="w23276" t="s" cr="s+subj:w23276" w="signal" l="~" p="N"/>
+     <dpg d="w23276" g="E0" t="i" cr="i:E0" w="regulated" l="regulate" p="V"/>
+     <dpg d="E9" g="w23276" t="subj" cr="" w="" l="signal" p="N"/>
+     <dpg d="E9" g="w23275" t="antecedent" cr="" w="" l="signal" p="N"/>
+     <dpg d="w23277" g="w23278" t="nn" cr="nn:w23278" w="protein" l="~" p="N"/>
+     <dpg d="w23278" g="w23276" t="obj" cr="obj:w23276" w="kinase" l="~" p="N"/>
+     <dpg d="w23279" g="w23278" t="punc" cr="punc:w23278" w="and" l="~" p="U"/>
+     <dpg d="w23280" g="w23282" t="nn" cr="nn:w23282" w="c-Jun" l="c-Jun" p="N"/>
+     <dpg d="w23281" g="w23282" t="mod" cr="mod:w23282" w="N-terminal" l="N-terminal" p="A"/>
+     <dpg d="w23282" g="w23278" t="conj" cr="conj:w23278" w="kinase" l="~" p="N"/>
+     <dpg d="w23283" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="w23284" g="E5" t="punc" cr="punc:E5" w="but" l="~" p="U"/>
+     <dpg d="w23285" g="E5" t="punc" cr="punc:E5" w="not" l="~" p="U"/>
+     <dpg d="w23286" g="E5" t="p" cr="" w="via" l="~" p="Prep"/>
+     <dpg d="w23287" g="w23288" t="nn" cr="nn:w23288" w="p38" l="~" p="N"/>
+     <dpg d="w23288" g="w23286" t="pcomp-n" cr="p*via*n:E5" w="MAPK" l="~" p="N"/>
+     <dpg d="w23289" g="E5" t="punc" cr="punc:E5" w="," l="~" p="U"/>
+     <dpg d="w23290" g="E5" t="punc" cr="punc:E5" w="may" l="~" p="U"/>
+     <dpg d="w23291" g="E5" t="punc" cr="punc:E5" w="be" l="~" p="U"/>
+     <dpg d="w23292" g="E5" t="punc" cr="punc:E5" w="involved" l="~" p="U"/>
+     <dpg d="w23293" g="E5" t="p" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w23294" g="w23299" t="det" cr="det:w23299" w="the" l="~" p="Det"/>
+     <dpg d="w23295" g="w23299" t="mod" cr="mod:w23299" w="muscarinic" l="~" p="A"/>
+     <dpg d="w23296" g="w23298" t="lex-mod" cr="lex-mod:w23298" w="receptor" l="~" p="U"/>
+     <dpg d="w23297" g="w23298" t="lex-mod" cr="lex-mod:w23298" w="-" l="~" p="U"/>
+     <dpg d="w23298" g="w23299" t="mod" cr="mod:w23299" w="mediated" l="receptor - mediated" p="A"/>
+     <dpg d="w23299" g="w23293" t="pcomp-n" cr="p*in*n:E5" w="enhancement" l="~" p="N"/>
+     <dpg d="w23300" g="w23299" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w23301" g="w23302" t="nn" cr="nn:w23302" w="IL-2" l="IL-2" p="N"/>
+     <dpg d="w23302" g="w23300" t="pcomp-n" cr="mod*of*n:w23299" w="production" l="~" p="N"/>
+     <dpg d="w23303" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

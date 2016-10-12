@@ -1,0 +1,266 @@
+<rexml>
+<doc id="1164">
+  
+  <markup>
+   <nes>
+    <ne id="e4253" gid="g4065" t="Gene/protein/RNA" fr="w18314" to="w18314" nam="yes" sid="s1">
+     <textspan>X22</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1164.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4256" gid="g4068" t="Individual_protein" fr="w18340" to="w18340" nam="yes" sid="s1">
+     <textspan>X22</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1164.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4255" gid="g4067" t="Individual_protein" fr="w18342" to="w18342" nam="yes" sid="s1">
+     <textspan>titin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1164.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4258" gid="g4070" t="Individual_protein" fr="w18344" to="w18346" nam="yes" sid="s1">
+     <textspan>myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1164.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4257" gid="g4069" t="Individual_protein" fr="w18348" to="w18348" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1164.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4259" gid="g4071" t="Individual_protein" fr="w18351" to="w18351" nam="yes" sid="s1">
+     <textspan>desmin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1164.6"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1635" t="ATTACH" e1="e4256" e2="e4255" re="e4254">
+     <textspan>assembly takes place in the following order : X22 , titin , myosin heavy chain , actin , and desmin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1164.1"/>
+      <exattr n="arg" v="e4256"/>
+      <exattr n="arg" v="e4255"/>
+      <exattr n="arg" v="e4258"/>
+      <exattr n="arg" v="e4257"/>
+      <exattr n="arg" v="e4259"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="ATTACH"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1635" t="ATTACH" e1="e4256" e2="e4258" re="e4254">
+     <textspan>assembly takes place in the following order : X22 , titin , myosin heavy chain , actin , and desmin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1164.1"/>
+      <exattr n="arg" v="e4256"/>
+      <exattr n="arg" v="e4255"/>
+      <exattr n="arg" v="e4258"/>
+      <exattr n="arg" v="e4257"/>
+      <exattr n="arg" v="e4259"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="ATTACH"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1635" t="ATTACH" e1="e4256" e2="e4257" re="e4254">
+     <textspan>assembly takes place in the following order : X22 , titin , myosin heavy chain , actin , and desmin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1164.1"/>
+      <exattr n="arg" v="e4256"/>
+      <exattr n="arg" v="e4255"/>
+      <exattr n="arg" v="e4258"/>
+      <exattr n="arg" v="e4257"/>
+      <exattr n="arg" v="e4259"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="ATTACH"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1635" t="ATTACH" e1="e4256" e2="e4259" re="e4254">
+     <textspan>assembly takes place in the following order : X22 , titin , myosin heavy chain , actin , and desmin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1164.1"/>
+      <exattr n="arg" v="e4256"/>
+      <exattr n="arg" v="e4255"/>
+      <exattr n="arg" v="e4258"/>
+      <exattr n="arg" v="e4257"/>
+      <exattr n="arg" v="e4259"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="ATTACH"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1635" t="ATTACH" e1="e4255" e2="e4258" re="e4254">
+     <textspan>assembly takes place in the following order : X22 , titin , myosin heavy chain , actin , and desmin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1164.1"/>
+      <exattr n="arg" v="e4256"/>
+      <exattr n="arg" v="e4255"/>
+      <exattr n="arg" v="e4258"/>
+      <exattr n="arg" v="e4257"/>
+      <exattr n="arg" v="e4259"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="ATTACH"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1635" t="ATTACH" e1="e4255" e2="e4257" re="e4254">
+     <textspan>assembly takes place in the following order : X22 , titin , myosin heavy chain , actin , and desmin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1164.1"/>
+      <exattr n="arg" v="e4256"/>
+      <exattr n="arg" v="e4255"/>
+      <exattr n="arg" v="e4258"/>
+      <exattr n="arg" v="e4257"/>
+      <exattr n="arg" v="e4259"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="ATTACH"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1635" t="ATTACH" e1="e4255" e2="e4259" re="e4254">
+     <textspan>assembly takes place in the following order : X22 , titin , myosin heavy chain , actin , and desmin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1164.1"/>
+      <exattr n="arg" v="e4256"/>
+      <exattr n="arg" v="e4255"/>
+      <exattr n="arg" v="e4258"/>
+      <exattr n="arg" v="e4257"/>
+      <exattr n="arg" v="e4259"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="ATTACH"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1635" t="ATTACH" e1="e4258" e2="e4257" re="e4254">
+     <textspan>assembly takes place in the following order : X22 , titin , myosin heavy chain , actin , and desmin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1164.1"/>
+      <exattr n="arg" v="e4256"/>
+      <exattr n="arg" v="e4255"/>
+      <exattr n="arg" v="e4258"/>
+      <exattr n="arg" v="e4257"/>
+      <exattr n="arg" v="e4259"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="ATTACH"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1635" t="ATTACH" e1="e4258" e2="e4259" re="e4254">
+     <textspan>assembly takes place in the following order : X22 , titin , myosin heavy chain , actin , and desmin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1164.1"/>
+      <exattr n="arg" v="e4256"/>
+      <exattr n="arg" v="e4255"/>
+      <exattr n="arg" v="e4258"/>
+      <exattr n="arg" v="e4257"/>
+      <exattr n="arg" v="e4259"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="ATTACH"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1635" t="ATTACH" e1="e4257" e2="e4259" re="e4254">
+     <textspan>assembly takes place in the following order : X22 , titin , myosin heavy chain , actin , and desmin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1164.1"/>
+      <exattr n="arg" v="e4256"/>
+      <exattr n="arg" v="e4255"/>
+      <exattr n="arg" v="e4258"/>
+      <exattr n="arg" v="e4257"/>
+      <exattr n="arg" v="e4259"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="ATTACH"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

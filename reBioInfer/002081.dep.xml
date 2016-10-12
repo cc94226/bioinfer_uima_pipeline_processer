@@ -1,0 +1,72 @@
+<rexml>
+<doc id="2081">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E5" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E2" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32981" g="w32983" t="s" cr="s+subj:w32983" w="We" l="~" p="N"/>
+     <dpg d="w32982" g="w32983" t="have" cr="have:w32983" w="have" l="~" p="have"/>
+     <dpg d="w32983" g="E2" t="i" cr="UNSPECRELTYPE:E5" w="developed" l="develop" p="V"/>
+     <dpg d="E6" g="w32983" t="subj" cr="" w="" l="we" p="N"/>
+     <dpg d="E6" g="w32981" t="antecedent" cr="" w="" l="we" p="N"/>
+     <dpg d="w32984" g="w32988" t="det" cr="det:w32988" w="a" l="~" p="Det"/>
+     <dpg d="w32985" g="w32988" t="mod" cr="mod:w32988" w="new" l="~" p="A"/>
+     <dpg d="w32986" g="w32988" t="mod" cr="mod:w32988" w="integrated" l="~" p="A"/>
+     <dpg d="w32987" g="w32988" t="mod" cr="mod:w32988" w="kinetic" l="~" p="A"/>
+     <dpg d="w32988" g="w32983" t="obj" cr="obj:w32983||s+subj:w32990" w="model" l="~" p="N"/>
+     <dpg d="E1" g="w32988" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E3" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E3" g="w32988" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w32989" g="w32990" t="aux" cr="aux:w32990" w="to" l="~" p="Aux"/>
+     <dpg d="w32990" g="E1" t="i" cr="rel:w32988" w="examine" l="~" p="V"/>
+     <dpg d="E7" g="w32990" t="subj" cr="" w="" l="model" p="N"/>
+     <dpg d="E7" g="E3" t="antecedent" cr="" w="" l="model" p="N"/>
+     <dpg d="E0" g="E5" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w32991" g="E0" t="wha" cr="wha:w33009" w="how" l="~" p="A"/>
+     <dpg d="w32992" g="w32993" t="det" cr="det:w32993" w="the" l="~" p="Det"/>
+     <dpg d="w32993" g="w33009" t="s" cr="s+obj:w33009" w="maintenance" l="~" p="N"/>
+     <dpg d="w32994" g="w32993" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32995" g="w32996" t="det" cr="det:w32996" w="the" l="~" p="Det"/>
+     <dpg d="w32996" g="w32994" t="pcomp-n" cr="mod*of*n:w32993" w="pool" l="~" p="N"/>
+     <dpg d="w32997" g="w32996" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w32998" g="w32999" t="mod" cr="mod:w32999" w="unpolymerized" l="~" p="A"/>
+     <dpg d="w32999" g="w32997" t="pcomp-n" cr="mod*of*n:w32996" w="actin" l="~" p="N"/>
+     <dpg d="w33000" g="w32999" t="punc" cr="punc:w32999" w="and" l="~" p="U"/>
+     <dpg d="w33001" g="w33002" t="det" cr="det:w33002" w="the" l="~" p="Det"/>
+     <dpg d="w33002" g="w32999" t="conj" cr="conj:w32999" w="flux" l="~" p="N"/>
+     <dpg d="w33003" g="w33002" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w33004" g="w33005" t="nn" cr="nn:w33005" w="actin" l="~" p="N"/>
+     <dpg d="w33005" g="w33003" t="pcomp-n" cr="mod*of*n:w33002" w="subunits" l="~" p="N"/>
+     <dpg d="w33006" g="w33005" t="mod" cr="" w="through" l="~" p="Prep"/>
+     <dpg d="w33007" g="w33006" t="pcomp-n" cr="mod*through*n:w33005" w="filaments" l="filament" p="N"/>
+     <dpg d="w33008" g="w33009" t="be" cr="be:w33009" w="are" l="be" p="be"/>
+     <dpg d="w33009" g="E0" t="i" cr="UNSPECRELTYPE:E5" w="controlled" l="control" p="V"/>
+     <dpg d="E8" g="w33009" t="obj" cr="" w="" l="maintenance" p="N"/>
+     <dpg d="E8" g="w32993" t="antecedent" cr="" w="" l="maintenance" p="N"/>
+     <dpg d="w33010" g="w33009" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w33011" g="w33010" t="pcomp-n" cr="by-subj*by*n:w33009" w="profilin" l="~" p="N"/>
+     <dpg d="w33012" g="w33011" t="punc" cr="punc:w33011" w="and" l="~" p="U"/>
+     <dpg d="w33013" g="w33016" t="mod" cr="mod:w33016" w="free" l="~" p="A"/>
+     <dpg d="w33014" g="w33016" t="nn" cr="nn:w33016" w="filament" l="~" p="N"/>
+     <dpg d="w33015" g="w33016" t="mod" cr="mod:w33016" w="barbed" l="~" p="A"/>
+     <dpg d="w33016" g="w33011" t="conj" cr="conj:w33011" w="ends" l="end" p="N"/>
+     <dpg d="w33017" g="w33016" t="mod" cr="" w="through" l="~" p="Prep"/>
+     <dpg d="w33018" g="w33019" t="gen" cr="gen:w33019" w="their" l="~" p="N"/>
+     <dpg d="w33019" g="w33017" t="pcomp-n" cr="mod*through*n:w33016" w="interaction" l="~" p="N"/>
+     <dpg d="w33020" g="w33019" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w33021" g="w33020" t="pcomp-n" cr="mod*with*n:w33019" w="ATP" l="~" p="N"/>
+     <dpg d="w33022" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

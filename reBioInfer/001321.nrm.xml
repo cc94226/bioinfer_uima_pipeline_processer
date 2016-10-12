@@ -1,0 +1,99 @@
+<rexml>
+<doc id="1321">
+  
+  <markup>
+   <nes>
+    <ne id="e4747" gid="g4539" t="Individual_protein" fr="w20623" to="w20626" nam="yes" sid="s1">
+     <textspan>Testicular protein kinase 1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1321.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4752" gid="g4539" t="Individual_protein" fr="w20628" to="w20628" nam="yes" sid="s1">
+     <textspan>TESK1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1321.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e4751" gid="g4543" t="Protein_family_or_group" fr="w20632" to="w20633" nam="yes" sid="s1">
+     <textspan>serine/threonine kinase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1321.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e4750" gid="g4542" t="Individual_protein" fr="w20646" to="w20646" nam="yes" sid="s1">
+     <textspan>cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1321.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4755" gid="g4546" t="Individual_protein" fr="w20649" to="w20649" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1321.8"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1803" t="MEMBER" e1="e4751" e2="e4747" re="e4749">
+     <textspan>Testicular protein kinase 1 ( TESK1 ) is a serine/threonine kinase</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1321.2"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1804" t="PHOSPHORYLATE" e1="e4747" e2="e4750" re="e4748">
+     <textspan>Testicular protein kinase 1 ( TESK1 ) is a serine/threonine kinase highly expressed in testicular germ cells and has the potential to phosphorylate cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1321.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Modification"/>
+      <exattr n="t5" v="Addition"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

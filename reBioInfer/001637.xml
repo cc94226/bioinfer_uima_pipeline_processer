@@ -1,0 +1,94 @@
+<rexml>
+<doc id="1637">
+  <text>
+<p><s id="s1"><w id="w26125">The</w> <w id="w26126">recombinant</w> <w id="w26127">material</w> <w id="w26128">is</w> <w id="w26129">similar</w> <w id="w26130">to</w> <w id="w26131">authentic</w> <w id="w26132">profilin</w> <w id="w26133">from</w> <w id="w26134">Acanthamoeba</w><w id="w26135">-based</w> <w id="w26136">on</w> <w id="w26137">fluorescence</w> <w id="w26138">monitored</w> <w id="w26139">urea</w> <w id="w26140">denaturation</w> <w id="w26141">,</w> <w id="w26142">circular</w> <w id="w26143">dichroism</w> <w id="w26144">,</w> <w id="w26145">actin</w><w id="w26146">-nucleotide</w> <w id="w26147">exchange</w> <w id="w26148">rate</w> <w id="w26149">and</w> <w id="w26150">the</w> <w id="w26151">Kd</w> <w id="w26152">for</w> <w id="w26153">rabbit</w> <w id="w26154">skeletal</w> <w id="w26155">actin</w> <w id="w26156">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6014" gid="g5734" t="Individual_protein" fr="w26132" to="w26134" nam="yes">
+     <textspan type="extent">profilin from Acanthamoeba</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1637.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6015" gid="g5735" t="RELATIONSHIP_TEXTBINDING" fr="w26151" to="w26152">
+     <textspan type="extent">Kd for</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1637.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6016" gid="g5736" t="Individual_protein" fr="w26153" to="w26155" nam="yes">
+     <textspan type="extent">rabbit skeletal actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1637.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6017" gid="g5737" t="Gene/protein/RNA" fr="w26145" to="w26145" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1637.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6018" gid="g5738" t="Individual_protein" fr="w26132" to="w26132" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1637.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6019" gid="g5739" t="Individual_protein" fr="w26154" to="w26155" nam="yes">
+     <textspan type="extent">skeletal actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1637.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2294" t="BIND" e1="e6014" e2="e6016" re="e6015">
+     <textspan type="extent">profilin from Acanthamoeba -based on fluorescence monitored urea denaturation , circular dichroism , actin -nucleotide exchange rate and the Kd for rabbit skeletal actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1637.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

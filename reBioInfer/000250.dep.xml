@@ -1,0 +1,46 @@
+<rexml>
+<doc id="250">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E3" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E1" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3830" g="w3831" t="det" cr="det:w3831" w="Both" l="~" p="Det"/>
+     <dpg d="w3831" g="w3833" t="s" cr="s+obj:w3833" w="complexes" l="complex" p="N"/>
+     <dpg d="w3832" g="w3833" t="be" cr="be:w3833" w="are" l="be" p="be"/>
+     <dpg d="w3833" g="E1" t="i" cr="UNSPECRELTYPE:E3" w="composed" l="compose" p="V"/>
+     <dpg d="E4" g="w3833" t="obj" cr="" w="" l="complex" p="N"/>
+     <dpg d="E4" g="w3831" t="antecedent" cr="" w="" l="complex" p="N"/>
+     <dpg d="w3834" g="w3833" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w3835" g="w3834" t="pcomp-n" cr="mod*of*n:w3833" w="N-cadherin" l="N-cadherin" p="N"/>
+     <dpg d="w3836" g="E3" t="punc" cr="punc:E3" w="and" l="~" p="U"/>
+     <dpg d="E0" g="E3" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w3837" g="w3838" t="mod" cr="mod:w3838" w="alpha-catenin" l="alpha-catenin" p="A"/>
+     <dpg d="w3838" g="E0" t="whn" cr="whn+subj:w3839" w="which" l="~" p="N"/>
+     <dpg d="w3839" g="E0" t="i" cr="UNSPECRELTYPE:E3" w="bind" l="~" p="V"/>
+     <dpg d="E5" g="w3839" t="subj" cr="" w="" l="which" p="N"/>
+     <dpg d="E5" g="w3838" t="antecedent" cr="" w="" l="which" p="N"/>
+     <dpg d="w3840" g="w3839" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w3841" g="w3840" t="punc" cr="punc:w3840" w="either" l="~" p="U"/>
+     <dpg d="w3842" g="w3840" t="pcomp-n" cr="mod*to*n:w3839" w="beta-catenin" l="beta-catenin" p="N"/>
+     <dpg d="w3843" g="w3842" t="punc" cr="punc:w3842" w="or" l="~" p="U"/>
+     <dpg d="w3844" g="w3842" t="conj" cr="conj:w3842" w="plakoglobin" l="~" p="N"/>
+     <dpg d="w3845" g="w3844" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w3846" g="w3849" t="det" cr="det:w3849" w="a" l="~" p="Det"/>
+     <dpg d="w3847" g="w3848" t="mod" cr="mod:w3848" w="mutually" l="~" p="A"/>
+     <dpg d="w3848" g="w3849" t="mod" cr="mod:w3849" w="exclusive" l="~" p="A"/>
+     <dpg d="w3849" g="w3845" t="pcomp-n" cr="mod*in*n:w3844" w="manner" l="~" p="N"/>
+     <dpg d="w3850" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

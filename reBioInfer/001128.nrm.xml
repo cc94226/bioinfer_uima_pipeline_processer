@@ -1,0 +1,73 @@
+<rexml>
+<doc id="1128">
+  
+  <markup>
+   <nes>
+    <ne id="e4140" gid="g3957" t="Individual_protein" fr="w17794" to="w17795" nam="yes" sid="s1">
+     <textspan>Platelet talin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1128.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4143" gid="g3960" t="Individual_protein" fr="w17798" to="w17798" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1128.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4144" gid="g3961" t="Protein_family_or_group" fr="w17805" to="w17807" nam="yes" sid="s1">
+     <textspan>actin binding protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1128.4"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1597" t="BIND" e1="e4140" e2="e4143" re="e4141">
+     <textspan>Platelet talin binds to actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1128.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1598" t="MEMBER" e1="e4144" e2="e4140" re="e4142">
+     <textspan>Platelet talin binds to actin in vitro and hence is an actin binding protein</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1128.2"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+      <exattr n="el" v="t7"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

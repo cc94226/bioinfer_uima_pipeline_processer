@@ -1,0 +1,35 @@
+<rexml>
+<doc id="1919">
+  <text>
+<p><s id="s1"><w id="w30910">Total</w> <w id="w30911">actin</w> <w id="w30912">and</w> <w id="w30913">myosin</w> <w id="w30914">heavy</w> <w id="w30915">chain</w> <w id="w30916">mRNAs</w> <w id="w30917">,</w> <w id="w30918">and</w> <w id="w30919">polyadenylated</w> <w id="w30920">RNA</w> <w id="w30921">,</w> <w id="w30922">were</w> <w id="w30923">determined</w> <w id="w30924">using</w> <w id="w30925">slot-blot</w> <w id="w30926">assays</w> <w id="w30927">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7117" gid="g6795" t="Gene/protein/RNA" fr="w30911" to="w30911" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1919.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7118" gid="g6796" t="Gene/protein/RNA" fr="w30913" to="w30915" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1919.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

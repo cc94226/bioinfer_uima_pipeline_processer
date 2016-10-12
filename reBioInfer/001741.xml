@@ -1,0 +1,101 @@
+<rexml>
+<doc id="1741">
+  <text>
+<p><s id="s1"><w id="w27747">These</w> <w id="w27748">results</w> <w id="w27749">suggest</w> <w id="w27750">that</w> <w id="w27751">cofilin</w> <w id="w27752">provides</w> <w id="w27753">an</w> <w id="w27754">as</w> <w id="w27755">yet</w> <w id="w27756">missing</w> <w id="w27757">link</w> <w id="w27758">between</w> <w id="w27759">functionally</w> <w id="w27760">crucial</w> <w id="w27761">T</w> <w id="w27762">cell</w> <w id="w27763">surface</w> <w id="w27764">receptors</w> <w id="w27765">and</w> <w id="w27766">rearrangements</w> <w id="w27767">of</w> <w id="w27768">the</w> <w id="w27769">actin</w> <w id="w27770">cytoskeleton</w> <w id="w27771">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6396" gid="g6102" t="Individual_protein" fr="w27751" to="w27751" nam="yes">
+     <textspan type="extent">cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1741.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6397" gid="g6103" t="RELATIONSHIP_TEXTBINDING" fr="w27757" to="w27757">
+     <textspan type="extent">link</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1741.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e6398" gid="g6104" t="Individual_protein" fr="w27764" to="w27764" nam="yes">
+     <textspan type="extent">receptors</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1741.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e6399" gid="g6105" t="RELATIONSHIP_TEXTBINDING" fr="w27757" to="w27758">
+     <textspan type="extent">link between</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1741.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e6400" gid="g6106" t="Cell_component" fr="w27768" to="w27770" nam="yes">
+     <textspan type="extent">the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1741.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e6401" gid="g6107" t="MODIFICATION" fr="w27766" to="w27770">
+     <textspan type="extent">rearrangements of the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Modification"/>
+      <exattr n="t4" v="MODIFICATION"/>
+      <exattr n="bd" v="e.1741.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e6402" gid="g6108" t="Individual_protein" fr="w27769" to="w27769" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1741.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2451" t="CAUSE" e1="e6396" e2="e6399" re="e6397">
+     <textspan type="extent">cofilin provides an as yet missing link between functionally crucial T cell surface receptors and rearrangements of the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1741.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r2452" t="RELATE" e1="e6398" e2="e6401" re="e6399">
+     <textspan type="extent">link between functionally crucial T cell surface receptors and rearrangements of the actin cytoskeleton</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1741.3"/>
+      <exattr n="t1" v="RELATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

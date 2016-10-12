@@ -1,0 +1,57 @@
+<rexml>
+<doc id="680">
+  <text>
+<p><s id="s1"><w id="w10369">Immunohistochemistry</w> <w id="w10370">revealed</w> <w id="w10371">that</w> <w id="w10372">arteries</w> <w id="w10373">had</w> <w id="w10374">three</w> <w id="w10375">distinct</w> <w id="w10376">populations</w> <w id="w10377">of</w> <w id="w10378">cells</w> <w id="w10379">in</w> <w id="w10380">respect</w> <w id="w10381">to</w> <w id="w10382">alpha-smooth</w> <w id="w10383">muscle</w> <w id="w10384">actin</w> <w id="w10385">,</w> <w id="w10386">smooth</w> <w id="w10387">muscle</w> <w id="w10388">myosin</w> <w id="w10389">heavy</w> <w id="w10390">chain</w> <w id="w10391">and</w> <w id="w10392">vimentin</w> <w id="w10393">(</w> <w id="w10394">staining</w> <w id="w10395">intensities</w> <w id="w10396">-</w> <w id="w10397">,</w> <w id="w10398">+</w> <w id="w10399">or</w> <w id="w10400">++</w> <w id="w10401">for</w> <w id="w10402">each</w> <w id="w10403">protein</w> <w id="w10404">)</w> <w id="w10405">,</w> <w id="w10406">but</w> <w id="w10407">only</w> <w id="w10408">two</w> <w id="w10409">populations</w> <w id="w10410">in</w> <w id="w10411">respect</w> <w id="w10412">to</w> <w id="w10413">desmin</w> <w id="w10414">(</w> <w id="w10415">-</w> <w id="w10416">and</w> <w id="w10417">+</w> <w id="w10418">)</w> <w id="w10419">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2434" gid="g2333" t="Gene/protein/RNA" fr="w10382" to="w10384" nam="yes">
+     <textspan type="extent">alpha-smooth muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.680.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2435" gid="g2334" t="Gene/protein/RNA" fr="w10392" to="w10392" nam="yes">
+     <textspan type="extent">vimentin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.680.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2436" gid="g2335" t="Gene/protein/RNA" fr="w10386" to="w10390" nam="yes">
+     <textspan type="extent">smooth muscle myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.680.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2437" gid="g2336" t="Gene/protein/RNA" fr="w10413" to="w10413" nam="yes">
+     <textspan type="extent">desmin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.680.3"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

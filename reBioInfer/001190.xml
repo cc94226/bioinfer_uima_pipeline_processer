@@ -1,0 +1,70 @@
+<rexml>
+<doc id="1190">
+  <text>
+<p><s id="s1"><w id="w18808">Reduced</w> <w id="w18809">expression</w> <w id="w18810">of</w> <w id="w18811">E-cadherin</w> <w id="w18812">and</w> <w id="w18813">alpha-catenin</w> <w id="w18814">,</w> <w id="w18815">as</w> <w id="w18816">well</w> <w id="w18817">as</w> <w id="w18818">mutations</w> <w id="w18819">in</w> <w id="w18820">the</w> <w id="w18821">E-cadherin</w> <w id="w18822">gene</w> <w id="w18823">,</w> <w id="w18824">have</w> <w id="w18825">been</w> <w id="w18826">found</w> <w id="w18827">in</w> <w id="w18828">various</w> <w id="w18829">carcinomas</w> <w id="w18830">,</w> <w id="w18831">whereas</w> <w id="w18832">mutations</w> <w id="w18833">in</w> <w id="w18834">the</w> <w id="w18835">alpha-</w> <w id="w18836">and</w> <w id="w18837">beta-</w><w id="w18838">catenin</w> <w id="w18839">genes</w> <w id="w18840">have</w> <w id="w18841">been</w> <w id="w18842">described</w> <w id="w18843">only</w> <w id="w18844">in</w> <w id="w18845">carcinoma</w> <w id="w18846">cell</w> <w id="w18847">lines</w> <w id="w18848">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e4368" gid="g4175" t="Gene/protein/RNA" fr="w18811" to="w18811" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1190.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4369" gid="g4176" t="Gene/protein/RNA" fr="w18821" to="w18821" nam="yes">
+     <textspan type="extent">E-cadherin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1190.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e4370" gid="g4177" t="Gene/protein/RNA" fr="w18813" to="w18813" nam="yes">
+     <textspan type="extent">alpha-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1190.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4371" gid="g4178" t="Gene/protein/RNA" fr="w18837" to="w18838" nam="yes">
+     <textspan type="extent">beta-catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1190.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e4372" gid="g4179" t="Gene/protein/RNA" fr="w18835" to="w18838" nam="yes">
+     <textspan type="extent">alpha- [..] catenin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1190.4"/>
+      <exattr n="nst" v="st.1190.27.0"/>
+      <exattr n="nst" v="st.1190.29.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

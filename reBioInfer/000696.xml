@@ -1,0 +1,118 @@
+<rexml>
+<doc id="696">
+  <text>
+<p><s id="s1"><w id="w10702">In</w> <w id="w10703">a</w> <w id="w10704">blot</w> <w id="w10705">overlay</w> <w id="w10706">experiment</w> <w id="w10707">,</w> <w id="w10708">purified</w> <w id="w10709">125I-labeled</w> <w id="w10710">recombinant</w> <w id="w10711">profilin</w> <w id="w10712">bound</w> <w id="w10713">not</w> <w id="w10714">only</w> <w id="w10715">to</w> <w id="w10716">plant</w> <w id="w10717">actin</w> <w id="w10718">,</w> <w id="w10719">but</w> <w id="w10720">also</w> <w id="w10721">to</w> <w id="w10722">mammalian</w> <w id="w10723">actin</w> <w id="w10724">,</w> <w id="w10725">demonstrating</w> <w id="w10726">that</w> <w id="w10727">cytoskeletal</w> <w id="w10728">components</w> <w id="w10729">from</w> <w id="w10730">distantly</w> <w id="w10731">related</w> <w id="w10732">organisms</w> <w id="w10733">with</w> <w id="w10734">divergent</w> <w id="w10735">primary</w> <w id="w10736">structures</w> <w id="w10737">can</w> <w id="w10738">be</w> <w id="w10739">compatible</w> <w id="w10740">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2507" gid="g2404" t="Individual_protein" fr="w10711" to="w10711" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.696.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2508" gid="g2405" t="RELATIONSHIP_TEXTBINDING" fr="w10712" to="w10715">
+     <textspan type="extent">bound [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.696.1"/>
+      <exattr n="nst" v="st.696.10.0"/>
+      <exattr n="nst" v="st.696.13.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2509" gid="g2406" t="Individual_protein" fr="w10722" to="w10723" nam="yes">
+     <textspan type="extent">mammalian actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.696.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2510" gid="g2407" t="RELATIONSHIP_TEXTBINDING" fr="w10712" to="w10721">
+     <textspan type="extent">bound [..] to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.696.3"/>
+      <exattr n="nst" v="st.696.10.0"/>
+      <exattr n="nst" v="st.696.19.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2511" gid="g2408" t="Individual_protein" fr="w10716" to="w10717" nam="yes">
+     <textspan type="extent">plant actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.696.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2512" gid="g2409" t="Individual_protein" fr="w10717" to="w10717" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.696.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2513" gid="g2410" t="Individual_protein" fr="w10723" to="w10723" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.696.6"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r959" t="BIND" e1="e2507" e2="e2511" re="e2508">
+     <textspan type="extent">profilin bound not only to plant actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.696.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+    <rel id="r960" t="BIND" e1="e2507" e2="e2509" re="e2510">
+     <textspan type="extent">profilin bound not only to plant actin , but also to mammalian actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.696.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

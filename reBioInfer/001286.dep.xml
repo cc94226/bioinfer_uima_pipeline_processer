@@ -1,0 +1,52 @@
+<rexml>
+<doc id="1286">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20228" g="w20229" t="mod" cr="mod:w20229" w="Specific" l="~" p="A"/>
+     <dpg d="w20229" g="w20233" t="s" cr="s+subj:w20233" w="antibodies" l="antibody" p="N"/>
+     <dpg d="w20230" g="w20229" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w20231" g="w20230" t="pcomp-n" cr="mod*to*n:w20229" w="myosin" l="~" p="N"/>
+     <dpg d="w20232" g="w20233" t="mod-before" cr="mod-before:w20233" w="heavy" l="~" p="A"/>
+     <dpg d="w20233" g="E1" t="i" cr="" w="chain" l="~" p="V"/>
+     <dpg d="E3" g="w20233" t="subj" cr="" w="" l="antibody" p="N"/>
+     <dpg d="E3" g="w20229" t="antecedent" cr="" w="" l="antibody" p="N"/>
+     <dpg d="w20234" g="w20236" t="nn" cr="nn:w20236" w="isoforms" l="isoform" p="N"/>
+     <dpg d="w20235" g="w20236" t="punc" cr="punc:w20236" w="(" l="~" p="U"/>
+     <dpg d="w20236" g="w20233" t="obj" cr="obj:w20233" w="SM1" l="~" p="N"/>
+     <dpg d="w20237" g="w20236" t="punc" cr="punc:w20236" w="," l="~" p="U"/>
+     <dpg d="w20238" g="w20236" t="conj" cr="conj:w20236" w="SM2" l="~" p="N"/>
+     <dpg d="w20239" g="w20238" t="punc" cr="punc:w20238" w="," l="~" p="U"/>
+     <dpg d="w20240" g="w20238" t="conj" cr="conj:w20238" w="SMemb" l="~" p="N"/>
+     <dpg d="w20241" g="w20240" t="punc" cr="punc:w20240" w=")" l="~" p="U"/>
+     <dpg d="w20242" g="w20240" t="punc" cr="punc:w20240" w="," l="~" p="U"/>
+     <dpg d="w20243" g="w20240" t="conj" cr="conj:w20240" w="caldesmon" l="~" p="N"/>
+     <dpg d="w20244" g="w20243" t="punc" cr="punc:w20243" w="," l="~" p="U"/>
+     <dpg d="w20245" g="w20243" t="punc" cr="punc:w20243" w="and" l="~" p="U"/>
+     <dpg d="w20246" g="w20248" t="mod" cr="mod:w20248" w="alpha-smooth" l="alpha-smooth" p="A"/>
+     <dpg d="w20247" g="w20248" t="nn" cr="nn:w20248" w="muscle" l="~" p="N"/>
+     <dpg d="w20248" g="w20243" t="conj" cr="conj:w20243" w="actin" l="~" p="N"/>
+     <dpg d="w20249" g="w20248" t="punc" cr="punc:w20248" w="and" l="~" p="U"/>
+     <dpg d="w20250" g="w20248" t="conj" cr="conj:w20248" w="cDNAs" l="~" p="N"/>
+     <dpg d="w20251" g="w20233" t="mod" cr="mod:w20233" w="for" l="~" p="SentAdjunct"/>
+     <dpg d="E0" g="w20251" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w20252" g="w20254" t="s" cr="s+obj:w20254" w="SMemb" l="~" p="N"/>
+     <dpg d="w20253" g="w20254" t="be" cr="be:w20254" w="were" l="be" p="be"/>
+     <dpg d="w20254" g="E0" t="i" cr="comp1:w20251" w="used" l="use" p="V"/>
+     <dpg d="E4" g="w20254" t="obj" cr="" w="" l="SMemb" p="N"/>
+     <dpg d="E4" g="w20252" t="antecedent" cr="" w="" l="SMemb" p="N"/>
+     <dpg d="w20255" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,96 @@
+<rexml>
+<doc id="790">
+  <text>
+<p><s id="s1"><w id="w12463">In</w> <w id="w12464">order</w> <w id="w12465">to</w> <w id="w12466">help</w> <w id="w12467">explain</w> <w id="w12468">the</w> <w id="w12469">apparent</w> <w id="w12470">beneficial</w> <w id="w12471">effects</w> <w id="w12472">of</w> <w id="w12473">cyclin</w> <w id="w12474">D1</w> <w id="w12475">over-expression</w> <w id="w12476">,</w> <w id="w12477">a</w> <w id="w12478">number</w> <w id="w12479">of</w> <w id="w12480">closely</w> <w id="w12481">associated</w> <w id="w12482">cell</w> <w id="w12483">cycle</w> <w id="w12484">proteins</w> <w id="w12485">have</w> <w id="w12486">also</w> <w id="w12487">been</w> <w id="w12488">evaluated</w> <w id="w12489">,</w> <w id="w12490">including</w> <w id="w12491">the</w> <w id="w12492">cyclin</w> <w id="w12493">dependent</w> <w id="w12494">kinase</w> <w id="w12495">inhibitor</w> <w id="w12496">p27</w> <w id="w12497">,</w> <w id="w12498">which</w> <w id="w12499">blocks</w> <w id="w12500">the</w> <w id="w12501">activating</w> <w id="w12502">effects</w> <w id="w12503">of</w> <w id="w12504">cyclin</w> <w id="w12505">D1</w> <w id="w12506">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2881" gid="g2762" t="Gene/protein/RNA" fr="w12473" to="w12474" nam="yes">
+     <textspan type="extent">cyclin D1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.790.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2882" gid="g2763" t="RELATIONSHIP_TEXTBINDING" fr="w12499" to="w12499">
+     <textspan type="extent">blocks</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.790.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2883" gid="g2764" t="EFFECT" fr="w12502" to="w12505">
+     <textspan type="extent">effects of cyclin D1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="EFFECT"/>
+      <exattr n="bd" v="e.790.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2884" gid="g2765" t="Individual_protein" fr="w12496" to="w12496" nam="yes">
+     <textspan type="extent">p27</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.790.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2885" gid="g2766" t="Protein_family_or_group" fr="w12492" to="w12495" nam="yes">
+     <textspan type="extent">cyclin dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.790.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2886" gid="g2767" t="Individual_protein" fr="w12504" to="w12505" nam="yes">
+     <textspan type="extent">cyclin D1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.790.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1121" t="MEMBER" e1="e2885" e2="e2884" re="">
+     <textspan type="extent">cyclin dependent kinase inhibitor p27</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1122" t="PREVENT" e1="e2884" e2="e2883" re="e2882">
+     <textspan type="extent">p27 , which blocks the activating effects of cyclin D1</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.790.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="PREVENT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

@@ -1,0 +1,152 @@
+<rexml>
+<doc id="1990">
+  <text>
+<p><s id="s1"><w id="w31884">Using</w> <w id="w31885">the</w> <w id="w31886">nuclear</w> <w id="w31887">displacement</w> <w id="w31888">assay</w> <w id="w31889">as</w> <w id="w31890">a</w> <w id="w31891">measure</w> <w id="w31892">of</w> <w id="w31893">the</w> <w id="w31894">integrity</w> <w id="w31895">of</w> <w id="w31896">the</w> <w id="w31897">actin</w> <w id="w31898">cytoskeleton</w> <w id="w31899">in</w> <w id="w31900">living</w> <w id="w31901">stamen</w> <w id="w31902">hair</w> <w id="w31903">cells</w> <w id="w31904">,</w> <w id="w31905">we</w> <w id="w31906">demonstrated</w> <w id="w31907">that</w> <w id="w31908">AtFim1</w> <w id="w31909">protects</w> <w id="w31910">actin</w> <w id="w31911">filaments</w> <w id="w31912">in</w> <w id="w31913">these</w> <w id="w31914">cells</w> <w id="w31915">from</w> <w id="w31916">Z.</w> <w id="w31917">mays</w> <w id="w31918">profilin</w> <w id="w31919">(</w><w id="w31920">ZmPRO5</w><w id="w31921">)-</w><w id="w31922">induced</w> <w id="w31923">depolymerization</w> <w id="w31924">,</w> <w id="w31925">in</w> <w id="w31926">a</w> <w id="w31927">dose-dependent</w> <w id="w31928">manner</w> <w id="w31929">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7279" gid="g6943" t="Gene/protein/RNA" fr="w31897" to="w31897" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1990.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7280" gid="g6944" t="RELATIONSHIP_TEXTBINDING" fr="w31909" to="w31915">
+     <textspan type="extent">protects [..] from</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1990.1"/>
+      <exattr n="nst" v="st.1990.25.0"/>
+      <exattr n="nst" v="st.1990.31.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7281" gid="g6945" t="Cell_component" fr="w31910" to="w31911" nam="yes">
+     <textspan type="extent">actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1990.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e7282" gid="g6946" t="Individual_protein" fr="w31908" to="w31908" nam="yes">
+     <textspan type="extent">AtFim1</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1990.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e7283" gid="g6947" t="Individual_protein" fr="w31920" to="w31920" nam="yes">
+     <textspan type="extent">ZmPRO5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1990.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e7284" gid="g6947" t="Individual_protein" fr="w31916" to="w31918" nam="yes">
+     <textspan type="extent">Z. mays profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1990.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e7285" gid="g6948" t="DEPOLYMERIZATION" fr="w31923" to="w31923">
+     <textspan type="extent">depolymerization</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Physical"/>
+      <exattr n="t3" v="Break-down"/>
+      <exattr n="t4" v="DEPOLYMERIZATION"/>
+      <exattr n="bd" v="e.1990.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e7286" gid="g6949" t="RELATIONSHIP_TEXTBINDING" fr="w31922" to="w31922">
+     <textspan type="extent">induced</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1990.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e7287" gid="g6950" t="Individual_protein" fr="w31910" to="w31910" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1990.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e7288" gid="g6951" t="Individual_protein" fr="w31918" to="w31918" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1990.9"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2789" t="REL-ENT" e1="e7285" e2="e7281" re="">
+     <textspan type="extent">actin filaments in these cells from Z. mays profilin ( ZmPRO5 )- induced depolymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="REL-ENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2790" t="PREVENT" e1="e7282" e2="e7285" re="e7280">
+     <textspan type="extent">AtFim1 protects actin filaments in these cells from Z. mays profilin ( ZmPRO5 )- induced depolymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1990.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="PREVENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r2791" t="INITIATE" e1="e7284" e2="e7285" re="e7286">
+     <textspan type="extent">Z. mays profilin ( ZmPRO5 )- induced depolymerization</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1990.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Start"/>
+      <exattr n="t5" v="INITIATE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

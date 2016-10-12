@@ -1,0 +1,100 @@
+<rexml>
+<doc id="1491">
+  
+  <markup>
+   <nes>
+    <ne id="e5398" gid="g5152" t="Gene/protein/RNA" fr="w23310" to="w23310" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1491.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5401" gid="g5155" t="Individual_protein" fr="w23320" to="w23320" nam="yes" sid="s1">
+     <textspan>cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1491.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5400" gid="g5154" t="Cell_component" fr="w23323" to="w23324" nam="yes" sid="s1">
+     <textspan>actin filaments</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1491.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5404" gid="g5158" t="Individual_protein" fr="w23323" to="w23323" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1491.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5402" gid="g5156" t="Amount_property" fr="w23329" to="w23330" sid="s1">
+     <textspan>filament number</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Amount_property"/>
+      <exattr n="bd" v="e.1491.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5403" gid="g5157" t="Cell_component" fr="w23329" to="w23329" nam="yes" sid="s1">
+     <textspan>filament</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Natural"/>
+      <exattr n="t4" v="Cell_component"/>
+      <exattr n="bd" v="e.1491.5"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2083" t="DEPOLYMERIZE" e1="e5401" e2="e5400" re="e5399">
+     <textspan>cofilin shortens the actin filaments</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1491.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Break-Down"/>
+      <exattr n="t5" v="DEPOLYMERIZE"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2085" t="INCREASE" e1="e5401" e2="e5402" re="e5405">
+     <textspan>cofilin shortens the actin filaments and hence increases the filament number</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1491.7"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Amount"/>
+      <exattr n="t4" v="INCREASE"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

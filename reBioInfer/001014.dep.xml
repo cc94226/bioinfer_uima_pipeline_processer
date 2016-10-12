@@ -1,0 +1,108 @@
+<rexml>
+<doc id="1014">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E8" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w16020" g="E8" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E8" w="Mutations" l="mutation" p="N"/>
+     <dpg d="w16021" g="w16020" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w16022" g="w16021" t="pcomp-n" cr="mod*in*n:w16020" w="BUD3" l="~" p="N"/>
+     <dpg d="w16023" g="w16022" t="punc" cr="punc:w16022" w="," l="~" p="U"/>
+     <dpg d="w16024" g="w16022" t="conj" cr="conj:w16022" w="BUD4" l="~" p="N"/>
+     <dpg d="w16025" g="w16024" t="punc" cr="punc:w16024" w="," l="~" p="U"/>
+     <dpg d="w16026" g="w16024" t="punc" cr="punc:w16024" w="and" l="~" p="U"/>
+     <dpg d="w16027" g="w16028" t="nn" cr="nn:w16028" w="AXL1" l="~" p="N"/>
+     <dpg d="w16028" g="w16024" t="conj" cr="conj:w16024" w="cause" l="~" p="N"/>
+     <dpg d="w16029" g="E8" t="punc" cr="punc:E8" w="a" l="~" p="U"/>
+     <dpg d="w16030" g="E8" t="punc" cr="punc:E8" w="and" l="~" p="U"/>
+     <dpg d="w16031" g="w16032" t="mod" cr="mod:w16032" w="alpha" l="~" p="A"/>
+     <dpg d="w16032" g="E8" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E8||s+subj:w16034||s+subj:w16039" w="cells" l="cell" p="N"/>
+     <dpg d="E3" g="w16032" t="rel" cr="" w="" l="inf" p="C"/>
+     <dpg d="E6" g="E3" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E6" g="w16032" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w16033" g="w16034" t="aux" cr="aux:w16034" w="to" l="~" p="Aux"/>
+     <dpg d="w16034" g="E3" t="i" cr="rel:w16032" w="exhibit" l="~" p="V"/>
+     <dpg d="E9" g="w16034" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E9" g="E6" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w16035" g="w16037" t="det" cr="det:w16037" w="the" l="~" p="Det"/>
+     <dpg d="w16036" g="w16037" t="mod" cr="mod:w16037" w="bipolar" l="~" p="A"/>
+     <dpg d="w16037" g="w16034" t="obj" cr="obj:w16034" w="pattern" l="~" p="N"/>
+     <dpg d="w16038" g="w16034" t="punc" cr="punc:w16034" w="," l="~" p="U"/>
+     <dpg d="E2" g="w16034" t="mod" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="E6" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w16039" g="E2" t="i" cr="mod:w16034" w="indicating" l="indicate" p="V"/>
+     <dpg d="E10" g="w16039" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E10" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="E1" g="w16039" t="fc" cr="" w="" l="fin" p="C"/>
+     <dpg d="w16040" g="E1" t="c" cr="c:w16043" w="that" l="~" p="COMP"/>
+     <dpg d="w16041" g="w16042" t="det" cr="det:w16042" w="these" l="~" p="Det"/>
+     <dpg d="w16042" g="w16043" t="s" cr="s:w16043||subj:w16044||s+subj:w16046" w="genes" l="gene" p="N"/>
+     <dpg d="w16043" g="E1" t="i" cr="fc:w16039" w="are" l="be" p="VBE"/>
+     <dpg d="w16044" g="w16043" t="pred" cr="pred:w16043" w="necessary" l="~" p="A"/>
+     <dpg d="E11" g="w16044" t="subj" cr="" w="" l="gene" p="N"/>
+     <dpg d="E11" g="w16042" t="antecedent" cr="" w="" l="gene" p="N"/>
+     <dpg d="E0" g="w16043" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w16042" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w16045" g="w16046" t="aux" cr="aux:w16046" w="to" l="~" p="Aux"/>
+     <dpg d="w16046" g="E0" t="i" cr="mod:w16043" w="specify" l="~" p="V"/>
+     <dpg d="E12" g="w16046" t="subj" cr="" w="" l="gene" p="N"/>
+     <dpg d="E12" g="E4" t="antecedent" cr="" w="" l="gene" p="N"/>
+     <dpg d="w16047" g="w16052" t="det" cr="det:w16052" w="the" l="~" p="Det"/>
+     <dpg d="w16048" g="w16052" t="mod" cr="mod:w16052" w="axial" l="~" p="A"/>
+     <dpg d="w16049" g="w16052" t="mod" cr="mod:w16052" w="budding" l="~" p="A"/>
+     <dpg d="w16050" g="w16052" t="nn" cr="nn:w16052" w="pattern" l="~" p="N"/>
+     <dpg d="w16051" g="w16052" t="punc" cr="punc:w16052" w="(" l="~" p="U"/>
+     <dpg d="w16052" g="w16046" t="obj" cr="obj:w16046" w="Chant" l="~" p="N"/>
+     <dpg d="w16053" g="w16052" t="punc" cr="punc:w16052" w="," l="~" p="U"/>
+     <dpg d="w16054" g="w16052" t="conj" cr="conj:w16052" w="J." l="~" p="N"/>
+     <dpg d="w16055" g="w16054" t="punc" cr="punc:w16054" w="," l="~" p="U"/>
+     <dpg d="w16056" g="w16054" t="punc" cr="punc:w16054" w="and" l="~" p="U"/>
+     <dpg d="w16057" g="w16058" t="nn" cr="nn:w16058" w="I." l="~" p="N"/>
+     <dpg d="w16058" g="w16054" t="conj" cr="conj:w16054" w="Herskowitz." l="~" p="N"/>
+     <dpg d="w16059" g="w16058" t="num" cr="num:w16058" w="1991." l="~" p="N"/>
+     <dpg d="w16060" g="w16061" t="nn" cr="nn:w16061" w="Cell." l="~" p="N"/>
+     <dpg d="w16061" g="E8" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E8" w="65:1203-1212" l="65:1203-1212" p="N"/>
+     <dpg d="w16062" g="E8" t="punc" cr="punc:E8" w=";" l="~" p="U"/>
+     <dpg d="w16063" g="E8" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E8" w="Fujita" l="~" p="N"/>
+     <dpg d="w16064" g="w16063" t="punc" cr="punc:w16063" w="," l="~" p="U"/>
+     <dpg d="w16065" g="w16063" t="conj" cr="conj:w16063" w="A." l="~" p="N"/>
+     <dpg d="w16066" g="w16065" t="punc" cr="punc:w16065" w="," l="~" p="U"/>
+     <dpg d="w16067" g="w16068" t="lex-mod" cr="lex-mod:w16068" w="C." l="~" p="U"/>
+     <dpg d="w16068" g="w16065" t="conj" cr="conj:w16065" w="Oka" l="C. Oka" p="N"/>
+     <dpg d="w16069" g="w16068" t="punc" cr="punc:w16068" w="," l="~" p="U"/>
+     <dpg d="w16070" g="w16071" t="lex-mod" cr="lex-mod:w16071" w="Y." l="~" p="U"/>
+     <dpg d="w16071" g="w16068" t="conj" cr="conj:w16068" w="Arikawa" l="Y. Arikawa" p="N"/>
+     <dpg d="w16072" g="w16071" t="punc" cr="punc:w16071" w="," l="~" p="U"/>
+     <dpg d="w16073" g="w16074" t="lex-mod" cr="lex-mod:w16074" w="T." l="~" p="U"/>
+     <dpg d="w16074" g="w16071" t="conj" cr="conj:w16071" w="Katagi" l="T. Katagi" p="N"/>
+     <dpg d="w16075" g="w16074" t="punc" cr="punc:w16074" w="," l="~" p="U"/>
+     <dpg d="w16076" g="w16077" t="lex-mod" cr="lex-mod:w16077" w="A." l="~" p="U"/>
+     <dpg d="w16077" g="w16074" t="conj" cr="conj:w16074" w="Tonouchi" l="A. Tonouchi" p="N"/>
+     <dpg d="w16078" g="w16077" t="punc" cr="punc:w16077" w="," l="~" p="U"/>
+     <dpg d="w16079" g="w16080" t="lex-mod" cr="lex-mod:w16080" w="S." l="~" p="U"/>
+     <dpg d="w16080" g="w16077" t="conj" cr="conj:w16077" w="Kuhara" l="S. Kuhara" p="N"/>
+     <dpg d="w16081" g="w16080" t="punc" cr="punc:w16080" w="," l="~" p="U"/>
+     <dpg d="w16082" g="w16080" t="punc" cr="punc:w16080" w="and" l="~" p="U"/>
+     <dpg d="w16083" g="w16084" t="nn" cr="nn:w16084" w="Y." l="~" p="N"/>
+     <dpg d="w16084" g="w16080" t="conj" cr="conj:w16080" w="Misumi." l="~" p="N"/>
+     <dpg d="w16085" g="w16084" t="num" cr="num:w16084" w="1994." l="~" p="N"/>
+     <dpg d="w16086" g="w16087" t="nn" cr="nn:w16087" w="Nature" l="~" p="N"/>
+     <dpg d="w16087" g="E8" t="punc" cr="punc:E8" w="(Lond.)." l="~" p="U"/>
+     <dpg d="w16088" g="E8" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E8" w="372:567-570" l="372:567-570" p="N"/>
+     <dpg d="w16089" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w16090" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

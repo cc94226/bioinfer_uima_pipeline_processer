@@ -1,0 +1,35 @@
+<rexml>
+<doc id="1641">
+  <text>
+<p><s id="s1"><w id="w26178">The</w> <w id="w26179">reduction</w> <w id="w26180">in</w> <w id="w26181">actin</w> <w id="w26182">and</w> <w id="w26183">myosin</w> <w id="w26184">heavy</w> <w id="w26185">chain</w> <w id="w26186">synthesis</w> <w id="w26187">presumably</w> <w id="w26188">plays</w> <w id="w26189">a</w> <w id="w26190">role</w> <w id="w26191">in</w> <w id="w26192">the</w> <w id="w26193">rapid</w> <w id="w26194">dissolution</w> <w id="w26195">of</w> <w id="w26196">the</w> <w id="w26197">muscles</w> <w id="w26198">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e6025" gid="g5745" t="Gene/protein/RNA" fr="w26181" to="w26181" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1641.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e6026" gid="g5746" t="Gene/protein/RNA" fr="w26183" to="w26185" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1641.1"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

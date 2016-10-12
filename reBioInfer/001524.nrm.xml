@@ -1,0 +1,86 @@
+<rexml>
+<doc id="1524">
+  
+  <markup>
+   <nes>
+    <ne id="e5574" gid="g5324" t="Individual_protein" fr="w24004" to="w24004" nam="yes" sid="s1">
+     <textspan>4A6</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1524.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5570" gid="g5320" t="Individual_protein" fr="w24007" to="w24008" nam="yes" sid="s1">
+     <textspan>birch profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1524.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5573" gid="g5323" t="Individual_protein" fr="w24008" to="w24008" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1524.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5572" gid="g5322" t="Individual_protein" fr="w24014" to="w24014" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1524.2"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r2131" t="INTERACT" e1="e5574" e2="e5570" re="e5575">
+     <textspan>interaction of a mouse monoclonal antibody ( 4A6 ) and birch profilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1524.5"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="INTERACT"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r2132" t="BIND" e1="e5570" e2="e5572" re="e5571">
+     <textspan>birch profilin , a structurally well conserved actin - and phosphoinositide- binding</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1524.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Physical"/>
+      <exattr n="t4" v="Assembly"/>
+      <exattr n="t5" v="BIND"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

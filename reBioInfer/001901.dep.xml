@@ -1,0 +1,84 @@
+<rexml>
+<doc id="1901">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E8" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E3" g="E8" t="UNSPECRELTYPE" cr="" w="" l="inf" p="C"/>
+     <dpg d="E6" g="E3" t="s" cr="s+subj:w30564" w="" l="~" p="N"/>
+     <dpg d="w30563" g="w30564" t="aux" cr="aux:w30564" w="To" l="~" p="Aux"/>
+     <dpg d="w30564" g="E3" t="i" cr="UNSPECRELTYPE:E8" w="determine" l="~" p="V"/>
+     <dpg d="E9" g="w30564" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E9" g="E6" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w30565" g="w30566" t="det" cr="det:w30566" w="the" l="~" p="Det"/>
+     <dpg d="w30566" g="w30564" t="obj" cr="obj:w30564" w="relationship" l="~" p="N"/>
+     <dpg d="w30567" g="w30566" t="mod" cr="" w="between" l="~" p="Prep"/>
+     <dpg d="w30568" g="w30570" t="nn" cr="nn:w30570" w="cell" l="~" p="N"/>
+     <dpg d="w30569" g="w30570" t="nn" cr="nn:w30570" w="cycle" l="~" p="N"/>
+     <dpg d="w30570" g="w30567" t="pcomp-n" cr="mod*between*n:w30566" w="regulation" l="~" p="N"/>
+     <dpg d="w30571" g="w30570" t="punc" cr="punc:w30570" w="and" l="~" p="U"/>
+     <dpg d="w30572" g="w30570" t="conj" cr="conj:w30570" w="differentiation" l="~" p="N"/>
+     <dpg d="w30573" g="E8" t="punc" cr="punc:E8" w="," l="~" p="U"/>
+     <dpg d="w30574" g="w30576" t="det" cr="det:w30576" w="the" l="~" p="Det"/>
+     <dpg d="w30575" g="w30576" t="mod" cr="mod:w30576" w="spatiotemporal" l="~" p="A"/>
+     <dpg d="w30576" g="E8" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E8" w="expression" l="~" p="N"/>
+     <dpg d="w30577" g="w30576" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w30578" g="w30577" t="pcomp-n" cr="mod*of*n:w30576" w="cyclin" l="~" p="N"/>
+     <dpg d="w30579" g="E8" t="punc" cr="punc:E8" w="A" l="~" p="U"/>
+     <dpg d="w30580" g="E8" t="punc" cr="punc:E8" w="," l="~" p="U"/>
+     <dpg d="w30581" g="w30582" t="nn" cr="nn:w30582" w="cyclin" l="~" p="N"/>
+     <dpg d="w30582" g="E8" t="subclass" cr="subclass:E8" w="B1" l="~" p="N"/>
+     <dpg d="w30583" g="w30582" t="punc" cr="punc:w30582" w="," l="~" p="U"/>
+     <dpg d="w30584" g="w30585" t="nn" cr="nn:w30585" w="cyclin" l="~" p="N"/>
+     <dpg d="w30585" g="w30582" t="appo" cr="appo:w30582" w="D1" l="~" p="N"/>
+     <dpg d="w30586" g="E8" t="punc" cr="punc:E8" w="," l="~" p="U"/>
+     <dpg d="E2" g="E8" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w30587" g="w30594" t="det" cr="det:w30594" w="the" l="~" p="Det"/>
+     <dpg d="w30588" g="w30590" t="lex-mod" cr="lex-mod:w30590" w="cyclin-dependent" l="~" p="U"/>
+     <dpg d="w30589" g="w30590" t="lex-mod" cr="lex-mod:w30590" w="kinase" l="~" p="U"/>
+     <dpg d="w30590" g="w30594" t="nn" cr="nn:w30594" w="inhibitors" l="cyclin-dependent kinase inhibitors" p="N"/>
+     <dpg d="w30591" g="w30592" t="punc" cr="punc:w30592" w="(" l="~" p="U"/>
+     <dpg d="w30592" g="w30590" t="abbrev" cr="abbrev:w30590" w="CKIs" l="~" p="N"/>
+     <dpg d="w30593" g="w30592" t="punc" cr="punc:w30592" w=")" l="~" p="U"/>
+     <dpg d="w30594" g="w30608" t="s" cr="s+obj:w30608" w="p27" l="~" p="N"/>
+     <dpg d="w30595" g="w30594" t="punc" cr="punc:w30594" w="and" l="~" p="U"/>
+     <dpg d="w30596" g="w30594" t="conj" cr="conj:w30594" w="p57" l="~" p="N"/>
+     <dpg d="w30597" g="w30596" t="punc" cr="punc:w30596" w="," l="~" p="U"/>
+     <dpg d="w30598" g="w30596" t="punc" cr="punc:w30596" w="and" l="~" p="U"/>
+     <dpg d="w30599" g="w30596" t="conj" cr="conj:w30596" w="markers" l="marker" p="N"/>
+     <dpg d="w30600" g="w30599" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="E1" g="w30600" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E1" t="s" cr="s+subj:w30601||s+subj:w30604" w="" l="~" p="N"/>
+     <dpg d="w30601" g="E1" t="i" cr="mod*of*c:w30599" w="differentiating" l="differentiate" p="V"/>
+     <dpg d="E10" g="w30601" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E10" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w30602" g="w30601" t="obj" cr="obj:w30601" w="podocytes" l="~" p="N"/>
+     <dpg d="w30603" g="w30602" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="E0" g="w30603" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w30604" g="E0" t="i" cr="mod*in*c:w30602" w="developing" l="develop" p="V"/>
+     <dpg d="E11" g="w30604" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E11" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w30605" g="w30606" t="mod" cr="mod:w30606" w="human" l="~" p="A"/>
+     <dpg d="w30606" g="w30604" t="obj" cr="obj:w30604" w="kidneys" l="kidney" p="N"/>
+     <dpg d="w30607" g="w30608" t="be" cr="be:w30608" w="was" l="be" p="be"/>
+     <dpg d="w30608" g="E2" t="i" cr="UNSPECRELTYPE:E8" w="investigated" l="investigate" p="V"/>
+     <dpg d="E12" g="w30608" t="obj" cr="" w="" l="p27" p="N"/>
+     <dpg d="E12" g="w30594" t="antecedent" cr="" w="" l="p27" p="N"/>
+     <dpg d="w30609" g="w30608" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w30610" g="w30609" t="pcomp-n" cr="by-subj*by*n:w30608" w="immunohistochemistry" l="~" p="N"/>
+     <dpg d="w30611" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

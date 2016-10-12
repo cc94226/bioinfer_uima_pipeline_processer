@@ -1,0 +1,68 @@
+<rexml>
+<doc id="325">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E7" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E3" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4948" g="w4950" t="s" cr="s+obj:w4950" w="Cofilin" l="~" p="N"/>
+     <dpg d="w4949" g="w4950" t="be" cr="be:w4950" w="was" l="be" p="be"/>
+     <dpg d="w4950" g="E3" t="i" cr="UNSPECRELTYPE:E7" w="identified" l="identify" p="V"/>
+     <dpg d="E8" g="w4950" t="obj" cr="" w="" l="Cofilin" p="N"/>
+     <dpg d="E8" g="w4948" t="antecedent" cr="" w="" l="Cofilin" p="N"/>
+     <dpg d="w4951" g="w4950" t="by-subj" cr="" w="by" l="~" p="Prep"/>
+     <dpg d="w4952" g="w4951" t="pcomp-n" cr="by-subj*by*n:w4950" w="peptide" l="~" p="N"/>
+     <dpg d="w4953" g="E7" t="punc" cr="punc:E7" w="sequencing" l="~" p="U"/>
+     <dpg d="w4954" g="E7" t="punc" cr="punc:E7" w="," l="~" p="U"/>
+     <dpg d="w4955" g="E7" t="punc" cr="punc:E7" w="and" l="~" p="U"/>
+     <dpg d="E2" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w4956" g="w4957" t="nn" cr="nn:w4957" w="cofilin" l="~" p="N"/>
+     <dpg d="w4957" g="w4963" t="s" cr="s+obj:w4963||s:w4965||subj:w4966||s+subj:w4976" w="recruitment" l="~" p="N"/>
+     <dpg d="w4958" g="w4957" t="punc" cr="punc:w4957" w="and" l="~" p="U"/>
+     <dpg d="w4959" g="w4961" t="nn" cr="nn:w4961" w="Listeria" l="~" p="N"/>
+     <dpg d="w4960" g="w4961" t="mod" cr="mod:w4961" w="tail" l="~" p="A"/>
+     <dpg d="w4961" g="w4957" t="conj" cr="conj:w4957" w="length" l="~" p="N"/>
+     <dpg d="w4962" g="w4963" t="be" cr="be:w4963" w="were" l="be" p="be"/>
+     <dpg d="w4963" g="E2" t="i" cr="UNSPECRELTYPE:E7" w="found" l="find" p="V"/>
+     <dpg d="E9" g="w4963" t="obj" cr="" w="" l="recruitment" p="N"/>
+     <dpg d="E9" g="w4957" t="antecedent" cr="" w="" l="recruitment" p="N"/>
+     <dpg d="E1" g="w4963" t="mod" cr="" w="" l="inf" p="C"/>
+     <dpg d="E5" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w4957" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w4964" g="w4965" t="aux" cr="aux:w4965" w="to" l="~" p="Aux"/>
+     <dpg d="w4965" g="E1" t="i" cr="mod:w4963" w="be" l="~" p="VBE"/>
+     <dpg d="E10" g="w4966" t="subj" cr="" w="" l="recruitment" p="N"/>
+     <dpg d="E10" g="E5" t="antecedent" cr="" w="" l="recruitment" p="N"/>
+     <dpg d="w4966" g="w4965" t="pred" cr="pred:w4965" w="pH-dependent" l="pH-dependent" p="N"/>
+     <dpg d="w4967" g="w4965" t="punc" cr="punc:w4965" w="," l="~" p="U"/>
+     <dpg d="w4968" g="w4965" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w4969" g="w4968" t="pcomp-n" cr="mod*in*n:w4965" w="agreement" l="~" p="N"/>
+     <dpg d="w4970" g="w4969" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w4971" g="w4974" t="gen" cr="gen:w4974" w="its" l="~" p="N"/>
+     <dpg d="w4972" g="w4973" t="mod" cr="mod:w4973" w="recently" l="~" p="A"/>
+     <dpg d="w4973" g="w4974" t="mod" cr="mod:w4974" w="reported" l="~" p="A"/>
+     <dpg d="w4974" g="w4970" t="pcomp-n" cr="mod*with*n:w4969" w="role" l="~" p="N"/>
+     <dpg d="w4975" g="w4974" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="E0" g="w4975" t="pcomp-c" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="E5" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w4976" g="E0" t="i" cr="mod*in*c:w4974" w="enhancing" l="enhance" p="V"/>
+     <dpg d="E11" g="w4976" t="subj" cr="" w="" l="~" p="N"/>
+     <dpg d="E11" g="E4" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w4977" g="w4979" t="nn" cr="nn:w4979" w="actin" l="~" p="N"/>
+     <dpg d="w4978" g="w4979" t="nn" cr="nn:w4979" w="filament" l="~" p="N"/>
+     <dpg d="w4979" g="w4976" t="obj" cr="obj:w4976" w="turnover" l="~" p="N"/>
+     <dpg d="w4980" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

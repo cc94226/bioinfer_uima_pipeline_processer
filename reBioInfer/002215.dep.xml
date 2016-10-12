@@ -1,0 +1,64 @@
+<rexml>
+<doc id="2215">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E7" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="w34160" g="E7" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E7" w="While" l="~" p="SentAdjunct"/>
+     <dpg d="E3" g="w34160" t="comp1" cr="" w="" l="fin" p="C"/>
+     <dpg d="w34161" g="w34163" t="mod" cr="mod:w34163" w="parallel" l="~" p="A"/>
+     <dpg d="w34162" g="w34163" t="nn" cr="nn:w34163" w="actin" l="~" p="N"/>
+     <dpg d="w34163" g="w34167" t="s" cr="s:w34167||s+subj:w34164||subj:w34169" w="bundles" l="bundle" p="N"/>
+     <dpg d="E2" g="w34163" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E5" g="E2" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E5" g="w34163" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w34164" g="E2" t="i" cr="rel:w34163" w="crossing" l="cross" p="V"/>
+     <dpg d="E8" g="w34164" t="subj" cr="" w="" l="bundle" p="N"/>
+     <dpg d="E8" g="E5" t="antecedent" cr="" w="" l="bundle" p="N"/>
+     <dpg d="w34165" g="w34166" t="det" cr="det:w34166" w="the" l="~" p="Det"/>
+     <dpg d="w34166" g="w34164" t="obj" cr="obj:w34164" w="cells" l="cell" p="N"/>
+     <dpg d="w34167" g="E3" t="i" cr="comp1:w34160" w="are" l="be" p="VBE"/>
+     <dpg d="E9" g="w34169" t="subj" cr="" w="" l="bundle" p="N"/>
+     <dpg d="E9" g="w34163" t="antecedent" cr="" w="" l="bundle" p="N"/>
+     <dpg d="w34168" g="w34169" t="mod" cr="mod:w34169" w="virtually" l="~" p="A"/>
+     <dpg d="w34169" g="w34167" t="pred" cr="pred:w34167" w="absent" l="~" p="A"/>
+     <dpg d="w34170" g="w34169" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w34171" g="w34170" t="pcomp-n" cr="mod*in*n:w34169||s+subj:w34172" w="cells" l="cell" p="N"/>
+     <dpg d="E1" g="w34171" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E4" g="E1" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E4" g="w34171" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w34172" g="E1" t="i" cr="rel:w34171" w="overexpressing" l="overexpress" p="V"/>
+     <dpg d="E10" g="w34172" t="subj" cr="" w="" l="cell" p="N"/>
+     <dpg d="E10" g="E4" t="antecedent" cr="" w="" l="cell" p="N"/>
+     <dpg d="w34173" g="w34172" t="obj" cr="obj:w34172" w="profilin" l="~" p="N"/>
+     <dpg d="w34174" g="E7" t="punc" cr="punc:E7" w="," l="~" p="U"/>
+     <dpg d="E0" g="E7" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w34175" g="w34178" t="det" cr="det:w34178" w="the" l="~" p="Det"/>
+     <dpg d="w34176" g="w34178" t="mod" cr="mod:w34178" w="submembranous" l="~" p="A"/>
+     <dpg d="w34177" g="w34178" t="nn" cr="nn:w34178" w="actin" l="~" p="N"/>
+     <dpg d="w34178" g="w34182" t="s" cr="s:w34182||subj:w34183" w="network" l="~" p="N"/>
+     <dpg d="w34179" g="w34178" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w34180" g="w34181" t="det" cr="det:w34181" w="these" l="~" p="Det"/>
+     <dpg d="w34181" g="w34179" t="pcomp-n" cr="mod*of*n:w34178" w="cells" l="cell" p="N"/>
+     <dpg d="w34182" g="E0" t="i" cr="UNSPECRELTYPE:E7" w="is" l="be" p="VBE"/>
+     <dpg d="w34183" g="w34182" t="pred" cr="pred:w34182" w="denser" l="dense" p="A"/>
+     <dpg d="E11" g="w34183" t="subj" cr="" w="" l="network" p="N"/>
+     <dpg d="E11" g="w34178" t="antecedent" cr="" w="" l="network" p="N"/>
+     <dpg d="w34184" g="E7" t="punc" cr="punc:E7" w="than" l="~" p="U"/>
+     <dpg d="w34185" g="E7" t="p" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w34186" g="w34187" t="nn" cr="nn:w34187" w="control" l="~" p="N"/>
+     <dpg d="w34187" g="w34185" t="pcomp-n" cr="p*in*n:E7" w="cells" l="cell" p="N"/>
+     <dpg d="w34188" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

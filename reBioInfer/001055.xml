@@ -1,0 +1,131 @@
+<rexml>
+<doc id="1055">
+  <text>
+<p><s id="s1"><w id="w16597">p130</w> <w id="w16598">and</w> <w id="w16599">pRb</w> <w id="w16600">were</w> <w id="w16601">phosphorylated</w> <w id="w16602">before</w> <w id="w16603">the</w> <w id="w16604">infected</w> <w id="w16605">myotubes</w> <w id="w16606">entered</w> <w id="w16607">S</w> <w id="w16608">phase</w> <w id="w16609">,</w> <w id="w16610">despite</w> <w id="w16611">the</w> <w id="w16612">high</w> <w id="w16613">expression</w> <w id="w16614">of</w> <w id="w16615">the</w> <w id="w16616">cyclin-dependent</w> <w id="w16617">kinase</w> <w id="w16618">inhibitor</w> <w id="w16619">p21</w> <w id="w16620">,</w> <w id="w16621">and</w> <w id="w16622">E2F</w> <w id="w16623">was</w> <w id="w16624">released</w> <w id="w16625">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e3784" gid="g3621" t="Individual_protein" fr="w16597" to="w16597" nam="yes">
+     <textspan type="extent">p130</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1055.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3785" gid="g3622" t="RELATIONSHIP_TEXTBINDING" fr="w16610" to="w16610">
+     <textspan type="extent">despite</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1055.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e3786" gid="g3623" t="Protein_family_or_group" fr="w16616" to="w16618" nam="yes">
+     <textspan type="extent">cyclin-dependent kinase inhibitor</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Protein_family_or_group"/>
+      <exattr n="bd" v="e.1055.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e3787" gid="g3624" t="RELATIONSHIP_TEXTBINDING" fr="w16601" to="w16601">
+     <textspan type="extent">phosphorylated</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1055.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e3788" gid="g3625" t="Individual_protein" fr="w16619" to="w16619" nam="yes">
+     <textspan type="extent">p21</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1055.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e3789" gid="g3626" t="Gene/protein/RNA" fr="w16622" to="w16622" nam="yes">
+     <textspan type="extent">E2F</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.1055.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e3790" gid="g3627" t="Expression" fr="w16613" to="w16619">
+     <textspan type="extent">expression of [..] p21</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.1055.6"/>
+      <exattr n="nst" v="st.1055.16.0"/>
+      <exattr n="nst" v="st.1055.17.0"/>
+      <exattr n="nst" v="st.1055.22.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e3792" gid="g3629" t="Individual_protein" fr="w16599" to="w16599" nam="yes">
+     <textspan type="extent">pRb</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1055.8"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r1441" t="MEMBER" e1="e3786" e2="e3788" re="">
+     <textspan type="extent">cyclin-dependent kinase inhibitor p21</textspan>
+     <exattrs>
+      <exattr n="bd" v=""/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Collection:Member"/>
+      <exattr n="t3" v="MEMBER"/>
+     </exattrs>
+    </rel>
+    <rel id="r1443" t="PREVENT" e1="e3790" e2="e3787" re="e3785">
+     <textspan type="extent">p130 and pRb were phosphorylated before the infected myotubes entered S phase , despite the high expression of the cyclin-dependent kinase inhibitor p21</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1055.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="PREVENT"/>
+     </exattrs>
+    </rel>
+    <rel id="r1446" t="PREVENT" e1="e3790" e2="e3787" re="e3785">
+     <textspan type="extent">pRb were phosphorylated before the infected myotubes entered S phase , despite the high expression of the cyclin-dependent kinase inhibitor p21</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1055.1"/>
+      <exattr n="neg" v="yes"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Condition"/>
+      <exattr n="t3" v="PREVENT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

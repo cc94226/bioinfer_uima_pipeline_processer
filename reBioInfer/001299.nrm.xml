@@ -1,0 +1,72 @@
+<rexml>
+<doc id="1299">
+  
+  <markup>
+   <nes>
+    <ne id="e4703" gid="g4496" t="Artificial" fr="w20418" to="w20421" nam="yes" sid="s1">
+     <textspan>profilin : actin crystals</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Source"/>
+      <exattr n="t3" v="Artificial"/>
+      <exattr n="bd" v="e.1299.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e4701" gid="g4494" t="Individual_protein" fr="w20418" to="w20418" nam="yes" sid="s1">
+     <textspan>profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1299.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e4704" gid="g4497" t="Individual_protein" fr="w20420" to="w20420" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1299.3"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r1787" t="COOF-HUMANMADE" e1="e4701" e2="e4704" re="e4702">
+     <textspan>profilin : actin crystals</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1299.1"/>
+      <exattr n="t1" v="COOF-HUMANMADE"/>
+      <exattr n="el" v="t8"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1787" t="HUMANMADE" e1="e4703" e2="e4701" re="e4702">
+     <textspan>profilin : actin crystals</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1299.1"/>
+      <exattr n="t1" v="HUMANMADE"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r1788" t="HUMANMADE" e1="e4703" e2="e4704" re="e4702">
+     <textspan>profilin : actin crystals</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1299.1"/>
+      <exattr n="t1" v="HUMANMADE"/>
+      <exattr n="el" v="t2"/>
+      <exattr n="rl" v="t2"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

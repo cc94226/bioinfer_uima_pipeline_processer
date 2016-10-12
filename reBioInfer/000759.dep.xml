@@ -1,0 +1,56 @@
+<rexml>
+<doc id="759">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E0" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w11768" g="E0" t="mod" cr="" w="In" l="~" p="Prep"/>
+     <dpg d="w11769" g="w11771" t="mod" cr="mod:w11771" w="enriched" l="~" p="A"/>
+     <dpg d="w11770" g="w11771" t="nn" cr="nn:w11771" w="cell" l="~" p="N"/>
+     <dpg d="w11771" g="w11768" t="pcomp-n" cr="mod*in*n:w11781" w="lines" l="line" p="N"/>
+     <dpg d="w11772" g="w11768" t="punc" cr="punc:w11768" w="and" l="~" p="U"/>
+     <dpg d="w11773" g="w11768" t="conj" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w11774" g="w11778" t="det" cr="det:w11778" w="a" l="~" p="Det"/>
+     <dpg d="w11775" g="w11778" t="mod" cr="mod:w11778" w="pure" l="~" p="A"/>
+     <dpg d="w11776" g="w11778" t="nn" cr="nn:w11778" w="myocyte" l="~" p="N"/>
+     <dpg d="w11777" g="w11778" t="nn" cr="nn:w11778" w="cell" l="~" p="N"/>
+     <dpg d="w11778" g="w11773" t="pcomp-n" cr="mod*in*n:w11781" w="strain" l="~" p="N"/>
+     <dpg d="w11779" g="E0" t="punc" cr="punc:w11781" w="," l="~" p="U"/>
+     <dpg d="w11780" g="w11781" t="s" cr="s+subj:w11781" w="EGF" l="~" p="N"/>
+     <dpg d="w11781" g="E0" t="i" cr="" w="inhibited" l="inhibit" p="V"/>
+     <dpg d="E2" g="w11781" t="subj" cr="" w="" l="EGF" p="N"/>
+     <dpg d="E2" g="w11780" t="antecedent" cr="" w="" l="EGF" p="N"/>
+     <dpg d="w11782" g="w11781" t="obj" cr="obj:w11781" w="increases" l="increase" p="N"/>
+     <dpg d="w11783" g="w11782" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w11784" g="w11786" t="mod" cr="mod:w11786" w="immunoreactive" l="~" p="A"/>
+     <dpg d="w11785" g="w11786" t="mod" cr="mod:w11786" w="sarcomeric" l="~" p="A"/>
+     <dpg d="w11786" g="w11783" t="pcomp-n" cr="mod*in*n:w11782" w="actin" l="~" p="N"/>
+     <dpg d="w11787" g="w11786" t="punc" cr="punc:w11786" w="and" l="~" p="U"/>
+     <dpg d="w11788" g="w11791" t="lex-mod" cr="lex-mod:w11791" w="sarcomeric" l="~" p="U"/>
+     <dpg d="w11789" g="w11791" t="lex-mod" cr="lex-mod:w11791" w="myosin" l="~" p="U"/>
+     <dpg d="w11790" g="w11791" t="lex-mod" cr="lex-mod:w11791" w="heavy" l="~" p="U"/>
+     <dpg d="w11791" g="w11786" t="conj" cr="conj:w11786||obj:w11796" w="chain" l="sarcomeric myosin heavy chain" p="N"/>
+     <dpg d="w11792" g="w11793" t="punc" cr="punc:w11793" w="(" l="~" p="U"/>
+     <dpg d="w11793" g="w11791" t="abbrev" cr="abbrev:w11791" w="SMHC" l="~" p="N"/>
+     <dpg d="w11794" g="w11793" t="punc" cr="punc:w11793" w=")" l="~" p="U"/>
+     <dpg d="w11795" g="w11796" t="mod-before" cr="mod-before:w11796" w="normally" l="~" p="A"/>
+     <dpg d="w11796" g="w11791" t="vrel" cr="vrel:w11791" w="seen" l="see" p="V"/>
+     <dpg d="E3" g="w11796" t="obj" cr="" w="" l="sarcomeric myosin heavy chain" p="N"/>
+     <dpg d="E3" g="w11791" t="antecedent" cr="" w="" l="sarcomeric myosin heavy chain" p="N"/>
+     <dpg d="w11797" g="w11796" t="mod" cr="" w="after" l="~" p="Prep"/>
+     <dpg d="w11798" g="w11799" t="nn" cr="nn:w11799" w="serum" l="~" p="N"/>
+     <dpg d="w11799" g="w11797" t="pcomp-n" cr="mod*after*n:w11796" w="withdrawal" l="~" p="N"/>
+     <dpg d="w11800" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

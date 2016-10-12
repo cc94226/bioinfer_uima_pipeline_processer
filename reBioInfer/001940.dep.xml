@@ -1,0 +1,60 @@
+<rexml>
+<doc id="1940">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w31288" g="w31291" t="s" cr="s+subj:w31291" w="Treatment" l="~" p="N"/>
+     <dpg d="w31289" g="w31288" t="mod" cr="" w="with" l="~" p="Prep"/>
+     <dpg d="w31290" g="w31289" t="pcomp-n" cr="mod*with*n:w31288" w="HNE" l="~" p="N"/>
+     <dpg d="w31291" g="E1" t="i" cr="" w="resulted" l="result" p="V"/>
+     <dpg d="E4" g="w31291" t="subj" cr="" w="" l="treatment" p="N"/>
+     <dpg d="E4" g="w31288" t="antecedent" cr="" w="" l="treatment" p="N"/>
+     <dpg d="w31292" g="w31291" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w31293" g="w31292" t="pcomp-n" cr="mod*in*n:w31291" w="activation" l="~" p="N"/>
+     <dpg d="w31294" g="w31293" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31295" g="w31299" t="mod" cr="mod:w31299" w="extracellular" l="~" p="A"/>
+     <dpg d="w31296" g="w31299" t="mod" cr="mod:w31299" w="signal-regulated" l="signal-regulated" p="A"/>
+     <dpg d="w31297" g="w31299" t="nn" cr="nn:w31299" w="protein" l="~" p="N"/>
+     <dpg d="w31298" g="w31299" t="nn" cr="nn:w31299" w="kinases" l="~" p="N"/>
+     <dpg d="w31299" g="w31294" t="pcomp-n" cr="mod*of*n:w31293" w="ERK1" l="~" p="N"/>
+     <dpg d="w31300" g="w31299" t="punc" cr="punc:w31299" w="and" l="~" p="U"/>
+     <dpg d="w31301" g="w31299" t="conj" cr="conj:w31299" w="ERK2" l="~" p="N"/>
+     <dpg d="w31302" g="w31301" t="punc" cr="punc:w31301" w="," l="~" p="U"/>
+     <dpg d="w31303" g="w31301" t="conj" cr="conj:w31301" w="induction" l="~" p="N"/>
+     <dpg d="w31304" g="w31303" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w31305" g="w31304" t="pcomp-n" cr="mod*of*n:w31303" w="c-fos" l="CFO" p="N"/>
+     <dpg d="w31306" g="w31305" t="punc" cr="punc:w31305" w="and" l="~" p="U"/>
+     <dpg d="w31307" g="w31309" t="mod" cr="mod:w31309" w="c-jun" l="c-jun" p="A"/>
+     <dpg d="w31308" g="w31309" t="nn" cr="nn:w31309" w="protein" l="~" p="N"/>
+     <dpg d="w31309" g="w31305" t="conj" cr="conj:w31305" w="expression" l="~" p="N"/>
+     <dpg d="w31310" g="w31309" t="punc" cr="punc:w31309" w="," l="~" p="U"/>
+     <dpg d="w31311" g="w31309" t="punc" cr="punc:w31309" w="and" l="~" p="U"/>
+     <dpg d="w31312" g="w31313" t="det" cr="det:w31313" w="an" l="~" p="Det"/>
+     <dpg d="w31313" g="w31309" t="conj" cr="conj:w31309" w="increase" l="~" p="N"/>
+     <dpg d="w31314" g="w31313" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w31315" g="w31318" t="nn" cr="nn:w31318" w="transcription" l="~" p="N"/>
+     <dpg d="w31316" g="w31318" t="nn" cr="nn:w31318" w="factor" l="~" p="N"/>
+     <dpg d="w31317" g="w31318" t="nn" cr="nn:w31318" w="AP-1" l="AP-1" p="N"/>
+     <dpg d="w31318" g="w31314" t="pcomp-n" cr="mod*in*n:w31313||s+subj:w31319" w="DNA" l="~" p="N"/>
+     <dpg d="E0" g="w31318" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w31318" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w31319" g="E0" t="i" cr="rel:w31318" w="binding" l="bind" p="V"/>
+     <dpg d="E5" g="w31319" t="subj" cr="" w="" l="DNA" p="N"/>
+     <dpg d="E5" g="E2" t="antecedent" cr="" w="" l="DNA" p="N"/>
+     <dpg d="w31320" g="w31319" t="obj" cr="obj:w31319" w="activity" l="~" p="N"/>
+     <dpg d="w31321" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

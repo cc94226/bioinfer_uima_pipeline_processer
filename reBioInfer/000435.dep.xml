@@ -1,0 +1,51 @@
+<rexml>
+<doc id="435">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E1" g="" t="" cr="" w="" l="fin" p="C"/>
+     <dpg d="w6268" g="w6269" t="mod" cr="mod:w6269" w="Essential" l="~" p="A"/>
+     <dpg d="w6269" g="w6276" t="s" cr="s+obj:w6276||obj:w6287" w="domains" l="domain" p="N"/>
+     <dpg d="w6270" g="w6269" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w6271" g="w6272" t="det" cr="det:w6272" w="the" l="~" p="Det"/>
+     <dpg d="w6272" g="w6270" t="pcomp-n" cr="mod*of*n:w6269||s+subj:w6273" w="PRP21" l="~" p="N"/>
+     <dpg d="E0" g="w6272" t="rel" cr="" w="" l="vpsc" p="C"/>
+     <dpg d="E2" g="E0" t="s" cr="" w="" l="~" p="N"/>
+     <dpg d="E2" g="w6272" t="antecedent" cr="" w="" l="~" p="N"/>
+     <dpg d="w6273" g="E0" t="i" cr="rel:w6272" w="splicing" l="splice" p="V"/>
+     <dpg d="E4" g="w6273" t="subj" cr="" w="" l="PRP21" p="N"/>
+     <dpg d="E4" g="E2" t="antecedent" cr="" w="" l="PRP21" p="N"/>
+     <dpg d="w6274" g="w6273" t="obj" cr="obj:w6273" w="factor" l="~" p="N"/>
+     <dpg d="w6275" g="w6276" t="be" cr="be:w6276" w="are" l="be" p="be"/>
+     <dpg d="w6276" g="E1" t="i" cr="" w="implicated" l="implicate" p="V"/>
+     <dpg d="E5" g="w6276" t="obj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E5" g="w6269" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="w6277" g="w6276" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w6278" g="w6279" t="det" cr="det:w6279" w="the" l="~" p="Det"/>
+     <dpg d="w6279" g="w6277" t="pcomp-n" cr="mod*in*n:w6276" w="binding" l="~" p="N"/>
+     <dpg d="w6280" g="w6279" t="mod" cr="" w="to" l="~" p="Prep"/>
+     <dpg d="w6281" g="w6280" t="pcomp-n" cr="mod*to*n:w6279" w="PRP9" l="~" p="N"/>
+     <dpg d="w6282" g="w6281" t="punc" cr="punc:w6281" w="and" l="~" p="U"/>
+     <dpg d="w6283" g="w6284" t="nn" cr="nn:w6284" w="PRP11" l="~" p="N"/>
+     <dpg d="w6284" g="w6281" t="conj" cr="conj:w6281" w="proteins" l="protein" p="N"/>
+     <dpg d="w6285" g="w6276" t="punc" cr="punc:w6276" w="and" l="~" p="U"/>
+     <dpg d="w6286" g="w6287" t="be" cr="be:w6287" w="are" l="be" p="be"/>
+     <dpg d="w6287" g="w6276" t="conj" cr="conj:w6276" w="conserved" l="conserve" p="V"/>
+     <dpg d="E6" g="w6287" t="obj" cr="" w="" l="domain" p="N"/>
+     <dpg d="E6" g="w6269" t="antecedent" cr="" w="" l="domain" p="N"/>
+     <dpg d="w6288" g="w6287" t="mod" cr="" w="through" l="~" p="Prep"/>
+     <dpg d="w6289" g="w6288" t="pcomp-n" cr="mod*through*n:w6287" w="evolution" l="~" p="N"/>
+     <dpg d="w6290" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

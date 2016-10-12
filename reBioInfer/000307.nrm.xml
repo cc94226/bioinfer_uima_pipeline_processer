@@ -1,0 +1,115 @@
+<rexml>
+<doc id="307">
+  
+  <markup>
+   <nes>
+    <ne id="e1135" gid="g1081" t="Mutant" fr="w4731" to="w4732" nam="yes" sid="s1">
+     <textspan>gelsolin truncates</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Mutant"/>
+      <exattr n="bd" v="e.307.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1141" gid="g1087" t="Individual_protein" fr="w4731" to="w4731" nam="yes" sid="s1">
+     <textspan>gelsolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.307.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e1143" gid="g1089" t="Individual_protein" fr="w4735" to="w4735" nam="yes" sid="s1">
+     <textspan>actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.307.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e1139" gid="g1085" t="Dynamics_property" fr="w4739" to="w4743" sid="s1">
+     <textspan>activity of [..] cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.307.4"/>
+      <exattr n="nst" v="st.307.10.0"/>
+      <exattr n="nst" v="st.307.11.0"/>
+      <exattr n="nst" v="st.307.14.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e1140" gid="g1086" t="Dynamics_property" fr="w4739" to="w4741" sid="s1">
+     <textspan>activity of gelsolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="bd" v="e.307.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e1144" gid="g1090" t="Individual_protein" fr="w4741" to="w4741" nam="yes" sid="s1">
+     <textspan>gelsolin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.307.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e1145" gid="g1091" t="Individual_protein" fr="w4743" to="w4743" nam="yes" sid="s1">
+     <textspan>cofilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.307.10"/>
+     </exattrs>
+    </ne></nes>
+   <rels>
+    <rel sid="s1" id="r451" t="INHIBIT" e1="e1135" e2="e1140" re="e1137">
+     <textspan>gelsolin truncates that inhibit actin depolymerization by severing activity of gelsolin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.307.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="INHIBIT"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+    <rel sid="s1" id="r453" t="INHIBIT" e1="e1135" e2="e1139" re="e1137">
+     <textspan>gelsolin truncates that inhibit actin depolymerization by severing activity of gelsolin and cofilin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.307.2"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="Dynamics"/>
+      <exattr n="t4" v="Negative"/>
+      <exattr n="t5" v="INHIBIT"/>
+      <exattr n="el" v="t1"/>
+      <exattr n="rl" v="t3"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

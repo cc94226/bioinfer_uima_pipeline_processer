@@ -1,0 +1,46 @@
+<rexml>
+<doc id="2008">
+  <text>
+<p><s id="s1"><w id="w32091">Vimentin</w> <w id="w32092">and</w> <w id="w32093">actin</w> <w id="w32094">were</w> <w id="w32095">also</w> <w id="w32096">up-regulated</w> <w id="w32097">,</w> <w id="w32098">whereas</w> <w id="w32099">an</w> <w id="w32100">isoform</w> <w id="w32101">of</w> <w id="w32102">myosin</w> <w id="w32103">heavy</w> <w id="w32104">chain</w> <w id="w32105">was</w> <w id="w32106">down-regulated</w> <w id="w32107">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e7329" gid="g6991" t="Gene/protein/RNA" fr="w32091" to="w32091" nam="yes">
+     <textspan type="extent">Vimentin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2008.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e7330" gid="g6992" t="Gene/protein/RNA" fr="w32102" to="w32104" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2008.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e7331" gid="g6993" t="Gene/protein/RNA" fr="w32093" to="w32093" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.2008.2"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

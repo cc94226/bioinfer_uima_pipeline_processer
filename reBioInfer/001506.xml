@@ -1,0 +1,141 @@
+<rexml>
+<doc id="1506">
+  <text>
+<p><s id="s1"><w id="w23601">The</w> <w id="w23602">herpes</w> <w id="w23603">simplex</w> <w id="w23604">virus</w> <w id="w23605">type</w> <w id="w23606">1</w> <w id="w23607">(</w> <w id="w23608">HSV</w> <w id="w23609">)</w> <w id="w23610">UL5</w> <w id="w23611">,</w> <w id="w23612">UL8</w> <w id="w23613">,</w> <w id="w23614">and</w> <w id="w23615">UL52</w> <w id="w23616">proteins</w> <w id="w23617">form</w> <w id="w23618">a</w> <w id="w23619">helicase-primase</w> <w id="w23620">complex</w> <w id="w23621">in</w> <w id="w23622">infected</w> <w id="w23623">cells</w> <w id="w23624">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e5475" gid="g5228" t="Individual_protein" fr="w23602" to="w23616" nam="yes">
+     <textspan type="extent">herpes simplex virus type 1 [..] UL5 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1506.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5476" gid="g5229" t="RELATIONSHIP_TEXTBINDING" fr="w23617" to="w23620">
+     <textspan type="extent">form [..] complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.1506.1"/>
+      <exattr n="nst" v="st.1506.16.0"/>
+      <exattr n="nst" v="st.1506.19.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e5477" gid="g5230" t="Individual_protein" fr="w23602" to="w23616" nam="yes">
+     <textspan type="extent">herpes simplex virus type 1 [..] UL52 proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1506.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e5478" gid="g5231" t="Individual_protein" fr="w23602" to="w23616" nam="yes">
+     <textspan type="extent">herpes simplex virus type 1 [..] UL8 [..] proteins</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1506.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e5479" gid="g5232" t="Protein_complex" fr="w23619" to="w23620" nam="yes">
+     <textspan type="extent">helicase-primase complex</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="t8" v="Protein_complex"/>
+      <exattr n="bd" v="e.1506.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e5480" gid="g5233" t="Individual_protein" fr="w23610" to="w23610" nam="yes">
+     <textspan type="extent">UL5</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1506.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e5481" gid="g5234" t="Individual_protein" fr="w23612" to="w23612" nam="yes">
+     <textspan type="extent">UL8</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1506.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e5482" gid="g5235" t="Individual_protein" fr="w23615" to="w23615" nam="yes">
+     <textspan type="extent">UL52</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.1506.7"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r2105" t="CONTAIN" e1="e5479" e2="e5475" re="e5476">
+     <textspan type="extent">herpes simplex virus type 1 ( HSV ) UL5 , UL8 , and UL52 proteins form a helicase-primase complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1506.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2106" t="CONTAIN" e1="e5479" e2="e5478" re="e5476">
+     <textspan type="extent">herpes simplex virus type 1 ( HSV ) UL5 , UL8 , and UL52 proteins form a helicase-primase complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1506.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+    <rel id="r2107" t="CONTAIN" e1="e5479" e2="e5477" re="e5476">
+     <textspan type="extent">herpes simplex virus type 1 ( HSV ) UL5 , UL8 , and UL52 proteins form a helicase-primase complex</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.1506.1"/>
+      <exattr n="t1" v="PART_OF"/>
+      <exattr n="t2" v="Object:Component"/>
+      <exattr n="t3" v="CONTAIN"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

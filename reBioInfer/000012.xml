@@ -1,0 +1,90 @@
+<rexml>
+<doc id="12">
+  <text>
+<p><s id="s1"><w id="w151">Acanthamoeba</w> <w id="w152">profilin</w> <w id="w153">has</w> <w id="w154">similar</w> <w id="w155">but</w> <w id="w156">weaker</w> <w id="w157">effects</w> <w id="w158">on</w> <w id="w159">muscle</w> <w id="w160">actin</w> <w id="w161">,</w> <w id="w162">requiring</w> <w id="w163">5</w> <w id="w164">to</w> <w id="w165">10</w> <w id="w166">times</w> <w id="w167">more</w> <w id="w168">profilin</w> <w id="w169">than</w> <w id="w170">with</w> <w id="w171">amoeba</w> <w id="w172">actin</w> <w id="w173">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e57" gid="g57" t="Individual_protein" fr="w151" to="w152" nam="yes">
+     <textspan type="extent">Acanthamoeba profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.12.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e58" gid="g58" t="RELATIONSHIP_TEXTBINDING" fr="w157" to="w158">
+     <textspan type="extent">effects on</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.12.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e59" gid="g59" t="Gene/protein/RNA" fr="w168" to="w168" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.12.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e60" gid="g60" t="Individual_protein" fr="w159" to="w160" nam="yes">
+     <textspan type="extent">muscle actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.12.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e61" gid="g61" t="Gene/protein/RNA" fr="w172" to="w172" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Gene/protein/RNA"/>
+      <exattr n="bd" v="e.12.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e62" gid="g62" t="Individual_protein" fr="w152" to="w152" nam="yes">
+     <textspan type="extent">profilin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.12.5"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r27" t="AFFECT" e1="e57" e2="e60" re="e58">
+     <textspan type="extent">Acanthamoeba profilin has similar but weaker effects on muscle actin</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.12.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="Change"/>
+      <exattr n="t3" v="AFFECT"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>

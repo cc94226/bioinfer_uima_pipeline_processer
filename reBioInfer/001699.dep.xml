@@ -1,0 +1,37 @@
+<rexml>
+<doc id="1699">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w27038" g="w27039" t="det" cr="det:w27039" w="These" l="~" p="Det"/>
+     <dpg d="w27039" g="w27040" t="s" cr="s+subj:w27040" w="findings" l="finding" p="N"/>
+     <dpg d="w27040" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="suggest" l="~" p="V"/>
+     <dpg d="E3" g="w27040" t="subj" cr="" w="" l="finding" p="N"/>
+     <dpg d="E3" g="w27039" t="antecedent" cr="" w="" l="finding" p="N"/>
+     <dpg d="w27041" g="w27042" t="det" cr="det:w27042" w="a" l="~" p="Det"/>
+     <dpg d="w27042" g="w27040" t="obj" cr="obj:w27040" w="role" l="~" p="N"/>
+     <dpg d="w27043" g="w27042" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w27044" g="w27043" t="pcomp-n" cr="mod*of*n:w27042" w="cofilin" l="~" p="N"/>
+     <dpg d="w27045" g="w27044" t="mod" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w27046" g="w27047" t="mod" cr="mod:w27047" w="stimulus-dependent" l="stimulus-dependent" p="A"/>
+     <dpg d="w27047" g="w27045" t="pcomp-n" cr="mod*in*n:w27044" w="actin" l="~" p="N"/>
+     <dpg d="w27048" g="E2" t="punc" cr="punc:E2" w="remodeling" l="~" p="U"/>
+     <dpg d="w27049" g="E2" t="p" cr="" w="in" l="~" p="Prep"/>
+     <dpg d="w27050" g="w27051" t="mod" cr="mod:w27051" w="motile" l="~" p="A"/>
+     <dpg d="w27051" g="w27049" t="pcomp-n" cr="p*in*n:E2" w="neutrophils" l="neutrophil" p="N"/>
+     <dpg d="w27052" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

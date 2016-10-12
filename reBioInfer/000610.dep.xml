@@ -1,0 +1,74 @@
+<rexml>
+<doc id="610">
+  
+  <markup>
+   
+   
+   <dps>
+    <dp sid="s1">
+     <dpg d="E2" g="" t="" cr="" w="" l="" p="U"/>
+     <dpg d="E0" g="E2" t="UNSPECRELTYPE" cr="" w="" l="fin" p="C"/>
+     <dpg d="w8987" g="w8989" t="lex-mod" cr="lex-mod:w8989" w="Herpes" l="~" p="U"/>
+     <dpg d="w8988" g="w8989" t="lex-mod" cr="lex-mod:w8989" w="simplex" l="~" p="U"/>
+     <dpg d="w8989" g="w8991" t="nn" cr="nn:w8991" w="virus" l="herpes simplex virus" p="N"/>
+     <dpg d="w8990" g="w8991" t="lex-mod" cr="lex-mod:w8991" w="type" l="~" p="U"/>
+     <dpg d="w8991" g="w8995" t="s" cr="s+subj:w8995" w="1" l="type 1" p="N"/>
+     <dpg d="w8992" g="w8991" t="punc" cr="punc:w8991" w="(" l="~" p="U"/>
+     <dpg d="w8993" g="w8991" t="appo" cr="appo:w8991" w="HSV-1" l="HSV-1" p="N"/>
+     <dpg d="w8994" g="w8995" t="punc" cr="punc:w8995" w=")" l="~" p="U"/>
+     <dpg d="w8995" g="E0" t="i" cr="UNSPECRELTYPE:E2" w="encodes" l="encode" p="V"/>
+     <dpg d="E3" g="w8995" t="subj" cr="" w="" l="type 1" p="N"/>
+     <dpg d="E3" g="w8991" t="antecedent" cr="" w="" l="type 1" p="N"/>
+     <dpg d="w8996" g="w8998" t="det" cr="det:w8998" w="a" l="~" p="Det"/>
+     <dpg d="w8997" g="w8998" t="mod" cr="mod:w8998" w="heterotrimeric" l="~" p="A"/>
+     <dpg d="w8998" g="w8995" t="obj" cr="obj:w8995||obj:w8999" w="helicase-primase" l="helicase-primase" p="N"/>
+     <dpg d="w8999" g="w8998" t="vrel" cr="vrel:w8998" w="composed" l="compose" p="V"/>
+     <dpg d="E4" g="w8999" t="obj" cr="" w="" l="helicase-primase" p="N"/>
+     <dpg d="E4" g="w8998" t="antecedent" cr="" w="" l="helicase-primase" p="N"/>
+     <dpg d="w9000" g="w8999" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9001" g="w9002" t="det" cr="det:w9002" w="the" l="~" p="Det"/>
+     <dpg d="w9002" g="w9000" t="pcomp-n" cr="mod*of*n:w8999" w="products" l="product" p="N"/>
+     <dpg d="w9003" g="w9002" t="mod" cr="" w="of" l="~" p="Prep"/>
+     <dpg d="w9004" g="w9006" t="det" cr="det:w9006" w="the" l="~" p="Det"/>
+     <dpg d="w9005" g="w9006" t="nn" cr="nn:w9006" w="three" l="~" p="N"/>
+     <dpg d="w9006" g="w9003" t="pcomp-n" cr="mod*of*n:w9002" w="DNA" l="~" p="N"/>
+     <dpg d="w9007" g="w9009" t="mod" cr="mod:w9009" w="replication-specific" l="replication-specific" p="A"/>
+     <dpg d="w9008" g="w9009" t="nn" cr="nn:w9009" w="genes" l="gene" p="N"/>
+     <dpg d="w9009" g="E2" t="UNSPECRELTYPE" cr="UNSPECRELTYPE:E2" w="UL5" l="~" p="N"/>
+     <dpg d="w9010" g="w9009" t="punc" cr="punc:w9009" w="," l="~" p="U"/>
+     <dpg d="w9011" g="w9009" t="conj" cr="conj:w9009" w="UL8" l="~" p="N"/>
+     <dpg d="w9012" g="w9011" t="punc" cr="punc:w9011" w="," l="~" p="U"/>
+     <dpg d="w9013" g="w9011" t="punc" cr="punc:w9011" w="and" l="~" p="U"/>
+     <dpg d="w9014" g="w9016" t="nn" cr="nn:w9016" w="UL52" l="~" p="N"/>
+     <dpg d="w9015" g="w9016" t="punc" cr="punc:w9016" w="(" l="~" p="U"/>
+     <dpg d="w9016" g="w9011" t="conj" cr="conj:w9011" w="Crute" l="~" p="N"/>
+     <dpg d="w9017" g="w9016" t="punc" cr="punc:w9016" w="," l="~" p="U"/>
+     <dpg d="w9018" g="w9019" t="lex-mod" cr="lex-mod:w9019" w="J." l="~" p="U"/>
+     <dpg d="w9019" g="w9016" t="conj" cr="conj:w9016" w="J." l="J. J." p="N"/>
+     <dpg d="w9020" g="w9019" t="punc" cr="punc:w9019" w="," l="~" p="U"/>
+     <dpg d="w9021" g="w9019" t="punc" cr="punc:w9019" w="and" l="~" p="U"/>
+     <dpg d="w9022" g="w9019" t="conj" cr="conj:w9019" w="Lehman" l="~" p="N"/>
+     <dpg d="w9023" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w9024" g="w9025" t="lex-mod" cr="lex-mod:w9025" w="I." l="~" p="U"/>
+     <dpg d="w9025" g="E2" t="subclass" cr="subclass:E2" w="R." l="I. R." p="N"/>
+     <dpg d="w9026" g="w9025" t="punc" cr="punc:w9025" w="(" l="~" p="U"/>
+     <dpg d="w9027" g="w9025" t="appo-mod" cr="appo-mod:w9025" w="1991" l="~" p="N"/>
+     <dpg d="w9028" g="w9025" t="punc" cr="punc:w9025" w=")" l="~" p="U"/>
+     <dpg d="w9029" g="w9032" t="lex-mod" cr="lex-mod:w9032" w="J." l="~" p="U"/>
+     <dpg d="w9030" g="w9032" t="lex-mod" cr="lex-mod:w9032" w="Biol." l="~" p="U"/>
+     <dpg d="w9031" g="w9032" t="lex-mod" cr="lex-mod:w9032" w="Chem." l="~" p="U"/>
+     <dpg d="w9032" g="w9025" t="appo" cr="appo:w9025" w="266" l="J. Biol. Chem 266" p="N"/>
+     <dpg d="w9033" g="E2" t="punc" cr="punc:E2" w="," l="~" p="U"/>
+     <dpg d="w9034" g="E2" t="subcat" cr="subcat:E2" w="4484-4488" l="4484-4488" p="N"/>
+     <dpg d="w9035" g="" t="" cr="" w=")" l="~" p="U"/>
+     <dpg d="w9036" g="" t="" cr="" w="." l="~" p="U"/>
+    </dp>
+   </dps>
+   
+   
+   
+   
+   
+  </markup>
+ </doc>
+</rexml>

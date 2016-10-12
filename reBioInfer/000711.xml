@@ -1,0 +1,184 @@
+<rexml>
+<doc id="711">
+  <text>
+<p><s id="s1"><w id="w10943">In</w> <w id="w10944">addition</w> <w id="w10945">to</w> <w id="w10946">the</w> <w id="w10947">TNF-alpha</w><w id="w10948">-induced</w> <w id="w10949">increase</w> <w id="w10950">in</w> <w id="w10951">the</w> <w id="w10952">general</w> <w id="w10953">protein</w> <w id="w10954">synthesis</w> <w id="w10955">,</w> <w id="w10956">stimulation</w> <w id="w10957">with</w> <w id="w10958">TNF-alpha</w> <w id="w10959">led</w> <w id="w10960">to</w> <w id="w10961">a</w> <w id="w10962">2.4-fold</w> <w id="w10963">increase</w> <w id="w10964">in</w> <w id="w10965">net</w> <w id="w10966">actin</w> <w id="w10967">protein</w> <w id="w10968">synthesis</w> <w id="w10969">and</w> <w id="w10970">a</w> <w id="w10971">3.3-fold</w> <w id="w10972">increase</w> <w id="w10973">in</w> <w id="w10974">net</w> <w id="w10975">myosin</w> <w id="w10976">heavy</w> <w id="w10977">chain</w> <w id="w10978">synthesis</w> <w id="w10979">.</w></s></p>
+  </text>
+  <markup>
+   <nes>
+    <ne id="e2557" gid="g2451" t="STIMULATION" fr="w10956" to="w10958">
+     <textspan type="extent">stimulation with TNF-alpha</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Dynamics"/>
+      <exattr n="t3" v="Positive"/>
+      <exattr n="t4" v="STIMULATION"/>
+      <exattr n="bd" v="e.711.0"/>
+     </exattrs>
+    </ne>
+    <ne id="e2558" gid="g2452" t="RELATIONSHIP_TEXTBINDING" fr="w10959" to="w10960">
+     <textspan type="extent">led to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.711.1"/>
+     </exattrs>
+    </ne>
+    <ne id="e2559" gid="g2453" t="INCREASE" fr="w10972" to="w10978">
+     <textspan type="extent">increase in [..] myosin heavy chain synthesis</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="INCREASE"/>
+      <exattr n="bd" v="e.711.2"/>
+     </exattrs>
+    </ne>
+    <ne id="e2560" gid="g2454" t="RELATIONSHIP_TEXTBINDING" fr="w10943" to="w10960">
+     <textspan type="extent">In addition to [..] led to</textspan>
+     <exattrs>
+      <exattr n="t1" v="RELATIONSHIP_TEXTBINDING"/>
+      <exattr n="bd" v="e.711.3"/>
+     </exattrs>
+    </ne>
+    <ne id="e2561" gid="g2455" t="Expression" fr="w10966" to="w10968">
+     <textspan type="extent">actin protein synthesis</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.711.4"/>
+     </exattrs>
+    </ne>
+    <ne id="e2562" gid="g2456" t="INCREASE" fr="w10947" to="w10949">
+     <textspan type="extent">TNF-alpha-induced increase</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="INCREASE"/>
+      <exattr n="bd" v="e.711.5"/>
+     </exattrs>
+    </ne>
+    <ne id="e2563" gid="g2457" t="Individual_protein" fr="w10966" to="w10967" nam="yes">
+     <textspan type="extent">actin protein</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.711.6"/>
+     </exattrs>
+    </ne>
+    <ne id="e2564" gid="g2458" t="Expression" fr="w10975" to="w10978">
+     <textspan type="extent">myosin heavy chain synthesis</textspan>
+     <exattrs>
+      <exattr n="t1" v="Property_entity"/>
+      <exattr n="t2" v="Dynamics_property"/>
+      <exattr n="t3" v="Expression"/>
+      <exattr n="bd" v="e.711.7"/>
+     </exattrs>
+    </ne>
+    <ne id="e2565" gid="g2459" t="Individual_protein" fr="w10958" to="w10958" nam="yes">
+     <textspan type="extent">TNF-alpha</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.711.8"/>
+     </exattrs>
+    </ne>
+    <ne id="e2566" gid="g2460" t="INCREASE" fr="w10963" to="w10968">
+     <textspan type="extent">increase in [..] actin protein synthesis</textspan>
+     <exattrs>
+      <exattr n="t1" v="Process_entity"/>
+      <exattr n="t2" v="Amount_process"/>
+      <exattr n="t3" v="INCREASE"/>
+      <exattr n="bd" v="e.711.9"/>
+     </exattrs>
+    </ne>
+    <ne id="e2567" gid="g2461" t="Individual_protein" fr="w10975" to="w10977" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.711.10"/>
+     </exattrs>
+    </ne>
+    <ne id="e2568" gid="g2462" t="Individual_protein" fr="w10966" to="w10966" nam="yes">
+     <textspan type="extent">actin</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.711.11"/>
+     </exattrs>
+    </ne>
+    <ne id="e2569" gid="g2463" t="Individual_protein" fr="w10975" to="w10977" nam="yes">
+     <textspan type="extent">myosin heavy chain</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.711.12"/>
+     </exattrs>
+    </ne>
+    <ne id="e2570" gid="g2464" t="Individual_protein" fr="w10947" to="w10947" nam="yes">
+     <textspan type="extent">TNF-alpha</textspan>
+     <exattrs>
+      <exattr n="t1" v="Physical_entity"/>
+      <exattr n="t2" v="Substance"/>
+      <exattr n="t3" v="Compound"/>
+      <exattr n="t4" v="Organic"/>
+      <exattr n="t5" v="Amino_acid"/>
+      <exattr n="t6" v="Protein"/>
+      <exattr n="t7" v="Individual_protein"/>
+      <exattr n="bd" v="e.711.13"/>
+     </exattrs>
+    </ne>
+   </nes>
+   <rels>
+    <rel id="r978" t="CAUSE" e1="e2557" e2="e2566" re="e2558">
+     <textspan type="extent">stimulation with TNF-alpha led to a 2.4-fold increase in net actin protein synthesis</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.711.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r979" t="CAUSE" e1="e2557" e2="e2559" re="e2558">
+     <textspan type="extent">stimulation with TNF-alpha led to a 2.4-fold increase in net actin protein synthesis and a 3.3-fold increase in net myosin heavy chain synthesis</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.711.1"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+    <rel id="r980" t="CAUSE" e1="e2557" e2="e2562" re="e2560">
+     <textspan type="extent">In addition to the TNF-alpha -induced increase in the general protein synthesis , stimulation with TNF-alpha led to</textspan>
+     <exattrs>
+      <exattr n="bd" v="e.711.3"/>
+      <exattr n="t1" v="Causal"/>
+      <exattr n="t2" v="CAUSE"/>
+     </exattrs>
+    </rel>
+   </rels>
+  </markup>
+ </doc>
+</rexml>
