@@ -153,13 +153,14 @@ public class ReadXML {
 					//ent_type_map.put(ent_id, ent_type);
 					
 					if(i == 0){
-						System.out.println(xmlfile.getName()+ent_id+ent_content + ent_type);
+						//System.out.println(xmlfile.getName()+ent_id+ent_content + ent_type);
 					}
 				}	
 				//System.out.println(entityMap.toString());
 				
 				NodeList relation_list = doc.getElementsByTagName("rel");
 				if(relation_list.getLength() != 0){
+					System.out.println(xmlfile.getName());
 					for(int i = 0; i < relation_list.getLength();i++){
 						//String 
 						String ent1_eid = relation_list.item(i).getAttributes().getNamedItem("e1").getNodeValue();
@@ -171,16 +172,27 @@ public class ReadXML {
 						//entity_1.setValue(ent_type_map.get(ent1_eid));
 						
 						String ent2_eid = relation_list.item(i).getAttributes().getNamedItem("e2").getNodeValue();
-						Ent_inf ent2 = entityMap.get(ent2_eid);
-						//int ent2_start = words_offset.get(ent2_eid);
-						//int ent2_end = ent2_start + ent2_content.length();
-						//Mention entity_2 = new Mention(jcas, ent2_start, ent2_end);
-						//entity_2.addToIndexes();
-						//entity_2.setValue(ent_type_map.get(ent2_eid));
-						
-						String rel = relation_list.item(i).getAttributes().getNamedItem("t").getNodeValue();
-						
-						System.out.print(ent1.content + " "+ rel + " "+ ent2.content);
+						if(ent2_eid.contains(",")){
+							String[] ent2_sublist = ent2_eid.split(",");
+							for(String subent_id : ent2_sublist){
+								Ent_inf subent = entityMap.get(subent_id);
+								String rel = relation_list.item(i).getAttributes().getNamedItem("t").getNodeValue();
+								System.out.println(ent1.content + " "+ rel + " "+ subent.content);
+								
+							}
+						}
+						else{
+							Ent_inf ent2 = entityMap.get(ent2_eid);
+							//int ent2_start = words_offset.get(ent2_eid);
+							//int ent2_end = ent2_start + ent2_content.length();
+							//Mention entity_2 = new Mention(jcas, ent2_start, ent2_end);
+							//entity_2.addToIndexes();
+							//entity_2.setValue(ent_type_map.get(ent2_eid));
+							
+							String rel = relation_list.item(i).getAttributes().getNamedItem("t").getNodeValue();
+							
+							System.out.println(ent1.content + " "+ rel + " "+ ent2.content);
+						}
 					}
 				}
 				
